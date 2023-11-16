@@ -1,0 +1,14 @@
+El fundido es un tipo de transición audiovisual por la cual la imagen y/o el sonido van perdiendo intensidad hasta quedar únicamente el color de fondo que se haya elegido o el silencio en caso del audio.
+Junto con el encadenado es uno de los recursos narrativos más antiguos del cine y posteriormente de la televisión.
+También resulta uno de los más simples y más duraderos porque solo necesita una fuente y no se atisba su desaparición.
+Esta transición proviene del mundo cinematográfico donde el director o el montador mandaba la película al laboratorio indicando la transición que debía realizarse.
+Este, por su parte, entregaba una nueva copia con ella ya incluida.
+Es una de las más sencillas, pero no la más sencilla, esta posición le corresponde al corte, que inicialmente consistía en cortar físicamente la película.
+Hasta la entrada definitiva del color, el fundido solía realizarse terminando en una pantalla blanca o en una negra, de ahí las expresiones "fundir a blanco", "fundir a negro".
+También existía y existe la opción inversa, es decir, "fundir desde blanco" o "fundir desde negro" aunque la llegada de la edición digital no lineal hizo que todo el proceso fuese computerizado, incluso para los formatos cinematográficos más grandes y pesados como el 8k, esta opción sigue existiendo en los programas para la edición.
+Tras el nacimiento de la televisión y la señal electromagnética este recurso narrativo se siguió empleando, pero en esta ocasión utilizando un dispositivo electrónico: el mezclador de vídeo.
+Este aparato realizaba la transición inmediatamente, en la televisión no existe el proceso de revelado, y también creaba otras cortinillas cada vez más sofisticadas.
+Con la invención de los magnetoscopios en la década de 1950, las posteriores mesas de mezclas fueron equipados con este tipo de dispositivo para crear el efecto, ya no desde una cámara, sino desde un reproductor fuente.
+Pero este recurso, o mejor dicho su duración, fue uno de los problemas que la edición en dos salas, una online y otra offline, no fue capaz de solucionar porque no se incluía en la lista de decisiones de edición, aunque dicha lista estuviese grabada en un disco magnético.
+Por lo tanto había que volverlas a crear con el consiguiente gasto de tiempo en una casa cuyo alquiler podía resultar muy caro.
+Con la edición digital el recurso no ha desaparecido y no parece que desaparezca en un futuro próximo por el significado tan rotundo que transmite de llegar a un punto y aparte en la narración.

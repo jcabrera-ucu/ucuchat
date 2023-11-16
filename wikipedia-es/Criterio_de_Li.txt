@@ -1,0 +1,18 @@
+En teoría de números, el criterio de Li es una declaración particular sobre la positividad de ciertas secuencias que es completamente equivalente a la hipótesis de Riemann.
+El criterio es llamado así por el matemático Xian-Jin Li, el cual lo propuso en 1997.
+Recientemente, Enrico Bombieri y Jeffrey C. Lagarias proporcionaron una generalización, mostrando que la condición de positividad de Li se aplica a cualquier colección de puntos que se encuentre sobre la recta Re (s) = 1/2.
+La función ξ de Riemann se define como
+donde ζ(s) es la función zeta de Riemann.
+Considérese la secuencia
+El criterio de Li es entonces la declaración que
+Los números \lambda_n también pueden expresarse en términos de los ceros no triviales de la función zeta de Riemann:
+donde la suma se extiende sobre ρ, los ceros no triviales de la función zeta.
+Esta suma condicionalmente convergente podría ser entendida en el sentido que es el habitualmente usado en teoría de números, es decir, que
+Bombieri y Lagarias demostraron que un criterio similar se cumple para cualquier colección de números complejos, y por tanto, no está restringido a la hipótesis de Riemann únicamente.
+Más precisamente, sea R = {ρ} cualquier colección de números complejos ρ, que no contienen ρ = 1, la cual cumple que
+Entonces se pueden hacer varias declaraciones equivalentes sobre dicho conjunto.
+Una de esas declaraciones es la siguiente:
+para todos los enteros positivos n.
+Se pueden hacer más declaraciones interesantes, si el conjunto R obecece a cierta ecuación funcional bajo la sustitución s ↦ 1 − s.
+Es decir, si, siempre que ρ esté en R, entonces el complejo conjugado y 1-\rho están en R, luego el criterio de Lie puede ser expresado como:
+Bombieri y Lagarias también mostraron que el criterio de Li' se deriva del criterio de Weil para la hipótesis de Riemann.

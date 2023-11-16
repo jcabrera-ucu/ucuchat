@@ -1,0 +1,5 @@
+La línea 45 de d·bus conecta las estaciones de tren y autobús de la ciudad con el centro, El Antiguo y Aiete.
+Se puso en servicio a la par que la nueva estación de autobuses, aunque solo hasta la plaza América.
+Fue en verano de 2016 cuando se amplió hasta Etxadi.
+Esta línea es, junto con la línea 16, una de las que circulan autobuses con datáfonos para pagar el viaje con tarjeta de crédito.
+Se trata de una prueba piloto que según qué resultados dé, podría implantarse en el resto de líneas hacia 2018.

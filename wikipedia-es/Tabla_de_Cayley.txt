@@ -1,0 +1,7 @@
+La tabla de Cayley de un grupo finito es una tabla que describe cómo es la operación de dicho grupo.
+Presenta una estructura muy similar a la famosa tabla pitagórica.
+Fueron introducidas por Arthur Cayley en un artículo de 1854 («On The Theory of Groups, as depending on the symbolic equation θn = 1»), en el que describe cualquier grupo en término de permutaciones.
+Dado el grupo finito G={g1, g2, ..., gn}, su tabla de Cayley tendrá n filas y n columnas.
+En la fila i, columna j, aparece el resultado de la operación gi*gj (donde * es la operación del grupo).
+.
+La tabla de Cayley para (S3, \circ) es:

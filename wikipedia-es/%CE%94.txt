@@ -1,0 +1,24 @@
+Delta (en mayúscula Δ, en minúscula δ; llamada ) es la cuarta letra del alfabeto griego.
+En griego antiguo tenía la pronunciación de una oclusiva alveolar sonora [d] u oclusiva dental sonora, en griego moderno se pronuncia como fricativa dental sonora [ð].
+Esta letra desciende de la letra fenicia Daleth, y dio origen a la De latina (Dd), la De cirílica (Дд) y la dalda copta (Ⲇⲇ)
+En el sistema de numeración griega tiene un valor de 4 (Δ΄).
+Delta evolucionó a partir de la letra fenicia (dalet).
+Su forma triangular puede haberse significado originalmente, una puerta o el extremo de un pez.
+Delta aparecía en todos los alfabetos antiguos de la Grecia arcaica.
+Tenía dos formas básicas en los alfabetos, una triangular y otra más redondeada que se asemejaba a la letra D del alfabeto latino, de la que fue copiada en los alfabetos occidentales.
+Sin embargo, en algunas inscripciones tenía una forma que recordaba más a la letra lambda actual.
+Al comparar el nombre griego de la letra, «delta», con el nombre original semita, «dálet», se aprecia una evidente metátesis: se conserva el orden de las consonantes pero se intercambian las vocales.
+Esta y otras metátesis similares se aprecian en los nombres de las letras griegas para adaptar los fonemas semíticos a la fonología del griego.
+Por su forma, desde la antigüedad el nombre de esta letra sirve para referirse al triángulo de tierra fértil que forma el Nilo en su desembocadura (el delta del Nilo) y por extensión a otros deltas fluviales.
+En las fuentes epigráficas arcaicas aparecen las siguientes variantes:
+En griego antiguo, delta representaba una oclusiva alveolar sonora /d/, como D en las palabras españolas dama y onda.
+En griego moderno, su pronunciación es ligeramente diferente y representa una fricativa dental sonora /ð/, como la pronunciación de d en la palabra española oda o el dígrafo inglés th en that.
+Los griegos diferencian este sonido del anterior y para representar el sonido /d/ en palabras extranjeras se utiliza el dígrafo ντ, por ejemplo Ντινάρ, dinar.
+En el sistema de numeración griega tiene un valor de 4 (δʹ).
+En virología, en el contexto de la pandemia de COVID-19, la Organización Mundial de la Salud (OMS) designó como una variante de preocupación a Delta, una mutación del SARS-CoV-2, virus que produce la enfermedad del COVID-19, encontrado en octubre de 2020 en India.
+En matemáticas y ciencias aplicadas, delta es utilizada delante de una variable para indicar un cambio en el valor de esa variable.
+Usualmente, la letra delta mayúscula (por ejemplo, Δx) es usada para cambios grandes o macroscópicos, mientras que la minúscula (por ejemplo, δx) se emplea para cambios pequeños o microscópicos (infinitesimales).
+También se usa Δ en matemáticas para referirse al discriminante de un polinomio, o para representar el laplaciano.
+En Física se utiliza normalmente para indicar el incremento de una variable, así por ejemplo Δx puede ser x2-x1.
+Además se puede usar en la ecuación de aceleración media para indicar un incremento de velocidad.
+En música contemporánea, se utiliza para cifrar acordes cuatreádicos mayores (que poseen una nota situada a una tercera mayor y otra a una quinta justa de la tónica) con una séptima mayor incluida; también se les denomina acordes maj7 (acordes mayores con séptima mayor).

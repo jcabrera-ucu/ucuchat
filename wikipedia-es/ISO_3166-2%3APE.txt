@@ -1,0 +1,9 @@
+Artículo principal: ISO 3166-2
+ISO 3166-2 es la entrada para Perú en ISO 3166-2, parte de los códigos de normalización ISO 3166 publicados por la Organización Internacional de Normalización (ISO), que define los códigos para los nombres de las principales subdivisiones (p.ej., provincias o estados) de todos los países codificados en ISO 3166-1.
+En la actualidad, para Perú los códigos ISO 3166-2 se definen para 24 departamentos del país, reservando uno para la provincia del Callao.
+La Municipalidad Metropolitana de Lima contiene la capital del país y tiene un estatus especial, equiparable al de los departamentos.
+Cada código consta de dos partes, separadas por un guion.
+La primera parte es PE, el código ISO 3166-1 alfa-2 para Perú, la segunda parte es alfabética, de tres caracteres.
+Los nombres de las subdivisiones se ordenan según el estándar ISO 3166-2 publicado por la Agencia de Mantenimiento ISO 3166 (ISO 3166/MA).
+Pulsa sobre el botón en la cabecera para ordenar cada columna.
+Los siguientes cambios de entradas han sido anunciados en los boletines de noticias emitidos por el ISO 3166/MA desde la primera publicación del ISO 3166-2 en 1998, cesando esta actividad informativa en 2013.

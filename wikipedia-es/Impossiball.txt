@@ -1,0 +1,7 @@
+La Impossiball, también denominada Incredi-ball, es un rompecabezas mecánico.
+Consiste en una pelota formada por 20 piezas triangulares curvadas de manera similar a un icosaedro.
+Cada capa de 5 triángulos rota en torno a un vértice.
+Los vértices están coloreados de forma tal que cada pieza tiene tres colores.
+El rompecabezas es equivalente al Megaminx pero sin esquinas, aristas ni centros.
+La primera versión del rompecabezas corresponde a Milton Bradley que lo coloreó con los mismos colores que tiene el cubo de Rubik.
+La Impossiball fue patentada en Estados Unidos el 2 de octubre de 1984 por William O. Gustafson bajo el número US 4 474 376.

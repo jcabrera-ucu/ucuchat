@@ -1,0 +1,4 @@
+Un diagrama de Grotrian (o diagrama de términos) muestra las transiciones electrónicas permitidas entre los distintos niveles de energía de los átomos.
+Pueden ser utilizados para átomos con un electrón o con varios.
+Tienen en cuenta las reglas de selección concretas relacionadas con los cambios de momento angular del electrón.
+Los esquemas reciben este nombre en memoria del físico alemán Walter Grotrian (1890-1954), quién los introdujo en su obra de 1928 titulada "Graphische Darstellung der Spektren von Atomen und Ionen mit ein, zwei und drei Valenzelektronen" (Representación Gráfica del espectro de átomos e iones con uno, dos y tres electrones de valencia).

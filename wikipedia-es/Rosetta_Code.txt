@@ -1,0 +1,10 @@
+Rosetta Code es un sitio web basado en wiki que es una crestomatía de programación con implementaciones de algoritmos comunes y soluciones a varios problemas de programación en diferentes lenguajes de programación.
+Fue creado en 2007 por Mike Mol.
+En junio de 2020, Rosetta Code incluye 1.076 tareas de programación y conoce 808 lenguajes de programación.
+El contenido del sitio está licenciado bajo la licencia de documentación libre de GNU 1.2, aunque algunos componentes pueden tener licencia dual con términos más permisivos.
+El repositorio web Rosetta Code ilustra cómo una funcionalidad deseada se implementa de formas muy diferentes en diferentes paradigmas de programación, y cómo se logra "la misma" tarea en diferentes lenguajes de programación.
+El sitio está organizado para ser navegable por tareas (problemas específicos de programación o consideraciones) y por lenguajes de programación.
+La página de una tarea muestra soluciones en varios lenguajes con contribuciones de los visitantes, permitiendo al lector comparar el enfoque de cada lenguaje con el problema que enuncia la tarea.
+Las páginas de tareas están incluidas en listados por lenguaje basados en los lenguajes de las soluciones provistas; una tarea con una solución en C se mostrará en el listado para C. Si la misma tarea tiene una solución en Ruby, la tarea también aparecerá en el listado de Ruby.
+La siguiente lista representa un ejemplo de los lenguajes que se pueden encontrar en Rosetta Code
+La siguiente lista representa un ejemplo de las tareas que se pueden encontrar en Rosetta Code

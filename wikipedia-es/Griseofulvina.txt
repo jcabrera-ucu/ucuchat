@@ -1,0 +1,23 @@
+La griseofulvina es un fármaco antifúngico, extraído del  Penicillium griseofulvum, descrito por primera vez por Oxford y colaboradores en 1939.
+Es utilizado tanto en humanos como en animales para el tratamiento de las micosis de piel, cabello y uñas, con la ventaja de poder utilizarse por vía oral.
+La absorción de griseofulvina a partir del tracto gastrointestinal es variable, debido a la baja hidrosolubilidad.
+En promedio, menos del 50% de la dosis oral se absorbe; sin embargo, los alimentos grasos y la micronización (reducción del tamaño de la partícula) mejoran notablemente el grado de absorción.
+Los niveles máximos plasmáticos se obtienen después de 4 horas de administrar el producto por vía oral, valores que se mantienen de 10 a 20 horas.
+La vida media plasmática es de aproximadamente un día y alrededor del 50% de la dosis oral es detectado en la orina en el curso de 5 días, principalmente en forma de 6-metil griseofulvina o como glucurónido conjugado.
+Bloquea la tubulina, interfiriendo la acción de los microtúbulos polimerizados y por tanto inhibiendo la división del hongo.
+A nivel de los queratinocitos de piel y uñas se une a la queratina formando un complejo queratina-griseofulvina sumamente estable.
+Cuando el dermatofito infecta las estructuras queratinizadas, la griseofulvina se desprende y aprovecha el complejo energético del hongo para adherirse a los microtúbulos, impidiendo su división.
+Hasta que la célula se desprende el complejo protege de la acción de los hongos.
+Infecciones por hongos sensibles del grupo de los dermatofitos en piel, cabello y uñas:
+No existe evidencia de la seguridad de griseofulvina durante el embarazo en humanos; en animales, la griseofulvina es teratogénica.
+No deberá usarse en el embarazo, o en mujeres que intenten quedar embarazadas en el mes siguiente al término del tratamiento.
+El tratamiento asociado con grisefulvina puede disminuir la efectividad de los anavulatorios orales por lo que es necesario aumentar las precauciones anticonceptivas durante su administración y hasta un mes después de suspender el tratamiento.
+Se recomienda a los hombres no procrear durante los seis meses de tratamiento con GRISEFULVINA
+también se recomienda en aquellos casos graves de hongos en la piel.
+Puede suceder potencialización del alcohol etílico al ingerirlo junto con la griseofulvina, así como de fotosensibilización al exponerse a la luz natural o artificial muy intensa.
+La griseofulvina es un policétido aromático
+center|800px
+Para la valoración de las reacciones adversas (RAM) se tendrán en cuenta los criterios de la CIOSM.
+Antifúngico.
+Dermatofitosis.
+.

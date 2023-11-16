@@ -1,0 +1,8 @@
+(200003) Aokeda es un asteroide perteneciente al cinturón de asteroides, descubierto el 19 de mayo de 2007 por el equipo del Chinese Near Earth Object Survey desde la Estación Astronómica Xu Yi, Huai'an, República Popular China.
+Designado provisionalmente como 2007 KP4.
+Fue nombrado Aokeda en homenaje la Universidad de Ciencia y Tecnología de Macao (Ao Men Ke Ji Da Xue) siendo "Aokeda" la abreviatura en chino de su nombre.
+Aokeda está situado a una distancia media del Sol de 3,180 ua, pudiendo alejarse hasta 3,367 ua y acercarse hasta 2,994 ua.
+Su excentricidad es 0,058 y la inclinación orbital 13,48 grados.
+Emplea 2072,21 días en completar una órbita alrededor del Sol.
+La magnitud absoluta de Aokeda es 15,1.
+Tiene 4836 km de diámetro y su albedo se estima en 0,076.

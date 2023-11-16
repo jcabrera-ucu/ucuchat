@@ -1,0 +1,4 @@
+En telecomunicaciones, un enlace de datos (en inglés: data link) es el medio de conexión entre dos lugares con el propósito de transmitir y recibir información.
+Puede hacer referencia a un conjunto de componentes electrónicos, que consisten en un transmisor y un receptor (dos piezas de un equipo terminal de datos) y el circuito de telecomunicación de datos de interconexión.
+Esto se rige por un protocolo de enlace que permite que los datos digitales puedan ser transferidos desde una fuente de datos a un receptor de datos.
+Existen al menos tres configuraciones básicas para un enlace de datos:

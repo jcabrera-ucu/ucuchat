@@ -1,0 +1,24 @@
+Fintonic es una fintech española fundada en 2011 por Lupina Iturriaga y Sergio Chalbaud en Madrid.
+El objetivo de la compañía es mejorar el bienestar financiero de las personas, por ello ofrece diferentes productos financieros con este fin en colaboración con entidades bancarias y aseguradoras.
+Presente en España, Chile y México, Fintonic se ha consolidado como una de las mayores plataformas financieras del mercado de habla hispana.
+Así mismo, fue la primera fintech española que obtuvo la autorización del Banco de España para prestar simultáneamente servicios de iniciación de pagos y agregación de cuentas regulados por PSD2.
+El equipo de Fintonic está formado por más de 152 profesionales del sector financiero y las nuevas tecnologías.
+La compañía cuenta con el respaldo de Ideon, Financial Solutions, Inception Capital, Onza Capital, Atresmedia, ING Group, PSN y otros socios particulares que aportan su expertise estratégico.
+Los orígenes de Fintonic se remontan a finales de 2011, cuando la app fue fundada por Lupina Iturriaga y Sergio Chalbaud.
+Ambos se habían desarrollado profesionalmente en el mundo de la banca, y gracias a ello pudieron llevar a cabo la que sería la primera app gratuita de finanzas personales de España, pionera en reunir en un mismo lugar todas las cuentas y tarjetas bancarias de sus usuarios, aun siendo de diferentes entidades.
+La app tuvo una excelente acogida y, además de ir mejorando sus funcionalidades, fue incorporando otras nuevas.
+Entre ellas, destaca el lanzamiento del primer marketplace de préstamos al consumo y del primer indicador de la calidad crediticia para particulares ofrecido en España, llamado FinScore.
+En 2017 Fintonic cierra su primera gran ronda de financiación por valor de 25 millones de euros que contó con el apoyo de ING Group y el grupo asegurador PSN, entre otros inversores.
+En 2019 culmina con éxito una nueva ronda de 19 millones de euros, valorando la compañía en 160 millones.
+En 2018 inicia su expansión internacional, primero en Chile y después en México.
+Fintonic ofrece a través de su plataforma financiación personalizada.
+Cada usuario tiene un Finscore único, una puntuación que informa a los solicitantes cómo son de buenos para las entidades financieras, qué tipo de interés se merecen y cómo pueden mejorar su valoración.
+En función de este, el usuario tendrá unas condiciones u otras para su préstamo.
+Todo ello sin necesidad de ser cliente de la entidad prestataria.
+Tanto el acceso al FinScore como la tramitación del préstamo son servicios gratuitos, pues Fintonic cobra una comisión a la entidad financiera con la que se haya contratado el préstamo.
+Los usuarios también tienen a su disposición la Tarjeta Fintonic, que les premia cada vez que la usan y, si quieren, disponen de un crédito al instante que en cualquier momento pueden repagar o aumentar su límite en base a su FinScore.
+Esta tarjeta no genera obligaciones y  permite disfrutar del resto de servicios que proporciona la app sin su activación.
+La app de Fintonic ofrece herramientas de finanzas personales gratuitas que dan acceso instantáneo a todos los movimientos de bancos y tarjetas organizados automáticamente, ayuda a entender en qué se gasta el dinero, organiza presupuestos y envía informes de situación, notificaciones y alertas sobre cobros incorrectos, descubiertos, comisiones, etc.
+Se trata de un programa de pago para lograr aumentar la educación financiera e incorporar mejores hábitos en el que los usuarios cuentan con la ayuda de un experto.
+Los servicios de asesoramiento y contratación de los seguros son gratuitos para el usuario, ya que Fintonic cobra una comisión a las compañías con las que el usuario contrata la póliza.
+Categoría:Tecnología financiera, Categoría:Empresas con sede en Madrid

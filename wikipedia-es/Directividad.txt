@@ -1,0 +1,11 @@
+La directividad es un fenómeno característico de las ondas sonoras que expresa el nivel de presión sonora en función del ángulo de radiación.
+Es un parámetro que se usa en el diseño de antenas como en el de los transductores electroacústicos.
+En acústica, la directividad de una antena se define como la relación entre la densidad de potencia radiada en una dirección, a una distancia, y la densidad de potencia que radiaría a la misma distancia una antena isotrópica, a igualdad de potencia total radiada en una dirección.
+Se suelen dar las curvas de directividad tanto en el sentido vertical como en el sentido horizontal.
+Además está estrechamente ligada a la frecuencia radiada por lo que se ofrecen curvas para distintas frecuencias.
+En general la directividad está poco acusada para frecuencias bajas, sin embargo a altas frecuencias, donde la longitud de onda es pequeña respecto al tamaño de la fuente emisora, esta es muy acusada.
+Se define factor de directividad en la dirección (Ø,Φ) de una fuente como la relación entre la intensidad en esa dirección y la intensidad de una fuente que radia por igual en todas direcciones (fuente isótropa) con igual potencia que aquella.
+El factor de directividad expresado en decibelios se denomina índice de directividad:
+Los valores positivos del índice de directividad, en el caso de que existan, denotan una ganancia de intensidad de la fuente respecto de la intensidad isótropa, mientras que valores negativos indican pérdidas.
+El índice de directividad esta siempre en función de la frecuencia.
+Estos datos suelen ser reflejados en un diagrama polar.

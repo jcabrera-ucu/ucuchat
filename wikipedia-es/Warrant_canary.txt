@@ -1,0 +1,15 @@
+La expresión warrant canary (literalmente canario garante o canario de seguridad) proviene del uso de los canarios en las minas como detectores de gas grisú.
+En la actualidad describe un método mediante el cual un proveedor de servicios de internet intenta informar a sus usuarios de que ha sido citado en secreto o requerido mediante orden gubernativa de los Estados Unidos.
+Dichas citaciones secretas o requerimientos, incluyendo las cubiertas por 18 U.S.C. §2709(c) de la Ley USA PATRIOT, establece penas criminales para la divulgación de la existencia de la garantía a terceras partes, incluyendo los usuarios del proveedor de servicios.
+El proveedor puede publicar un warrant canary para informar a los usuarios de los días en los que no han recibido citaciones secretas.
+Si el canary no se actualiza en el plazo especificado, los usuarios asumirán que el proveedor ha recibido una citación.
+La finalidad es permitir al proveedor informar pasivamente a los usuarios sin divulgar a terceros que el gobierno ha visto o ha tenido acceso a información o registros gracias a una citación secreta.
+Las citaciones secretas de los Estados Unidos o national security letter tienen su origen en la Electronic Communications Privacy Act para ser utilizadas exclusivamente contra los sospechosos de ser agentes de una potencia extranjera.
+Se revisó en 2001 bajo la Patriot Act de forma que las citaciones pueden ser utilizadas contra cualquiera que pueda tener información considerada relevante para la contrainteligencia o las investigaciones terroristas.
+La idea de utilizar pronunciamientos negativos para boicotear los requerimientos de confidencialidad de las órdenes judiciales fue propuesta por Steven Schear en la lista de correo electrónico de Cypherpunks principalmente para descubrir personas objetivo en los ISP.
+En 2002 se sugirió su uso en bibliotecas públicas en respuesta a la USA Patriot Act.
+El primer uso comercial de un warrant canary lo hizo rsync.net.
+Además de una firma digital proporcionaban una portada reciente de periódico como prueba de que el warrant canary había sido publicado recientemente.
+El 5 de noviembre de 2013 Apple se convirtió en la compañía más famosa en hacer públicas las declaraciones de no haber recibido solicitudes de datos bajo la sección 215 de la Patriot Act.
+Tumblr también incluyó un warrant canary en el informe de transparencia que emitió el 3 de febrero de 2014.
+Con anterioridad la empresa de seguridad de móviles Lookout declaró que no había recibido solicitudes de seguridad nacional y que no había sido requerida por el Tribunal de Vigilancia de Inteligencia Extranjera de los Estados Unidos para que guardara secretos no incluidos en el informe de transparencia.

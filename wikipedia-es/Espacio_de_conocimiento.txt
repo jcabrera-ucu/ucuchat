@@ -1,0 +1,28 @@
+En psicología matemática y teoría de la educación, un espacio de conocimiento es una estructura combinatoria utilizada para formular modelos matemáticos que describa la progresión de un aprendiz humano.
+Los espacios de conocimiento fueron introducidos en 1985 por Jean-Paul Doignon y Jean-Claude Falmagne, y siguen siendo muy utilizados en la teoría de la educación.
+Una bibliografía sobre espacios de conocimiento mantenida por Cord Hockemeyer contiene más de 400 publicaciones sobre el tema.
+Las aplicaciones modernas incluyen dos sistemas de tutoría computarizada, ALEKS y el desaparecido RATH.
+Formalmente, un espacio de conocimiento asume que un dominio de conocimiento es un colección de conceptos o habilidades, cada uno de los cuales debe ser eventualmente dominado.
+No todos los conceptos son intercambiables; algunos requieren otros conceptos como prerrequisitos.
+A la inversa, la competencia en una habilidad puede facilitar la adquisición de otra por similitud.
+Un espacio de conocimiento señala qué conjuntos de habilidades son factibles: pueden aprenderse sin dominar ninguna otra habilidad.
+Bajo supuestos razonables, la colección de competencias factibles forma la estructura matemática conocida como una antimatroidea.
+Los investigadores y educadores suelen explorar la estructura del espacio de conocimiento de una disciplina como un modelo de clase latente.
+Los espacios de conocimiento se crearon para resolver las deficiencias de las pruebas estandarizadas cuando se utilizan en psicometría educativa.
+Las pruebas comunes, como el SAT y el ACT, comprimen el conocimiento de un estudiante en un rango muy pequeño de rangos ordinales, borrando en el proceso las dependencias conceptuales entre las preguntas.
+En consecuencia, las pruebas no pueden distinguir entre la verdadera comprensión y las suposiciones, ni pueden identificar las debilidades particulares de un estudiante, sólo la proporción general de habilidades dominadas.
+El objetivo de la teoría de los espacios de conocimiento es proporcionar un lenguaje mediante el cual los exámenes puedan comunicarse
+Los modelos basados en la espacios de conocimiento suponen que un sujeto educativo S puede modelizarse como un conjunto finito Q de conceptos, habilidades o temas.
+Cada estado factible de conocimiento sobre S es entonces un subconjunto de Q; el conjunto de todos esos estados factibles es K.
+El término preciso para la información (Q, K) depende de la medida en que K satisface ciertos axiomas:
+Los axiomas más contenidos asociados a los espacios de conocimiento cuasi-ordinales y bien graduados implican cada uno que el espacio de conocimiento forma una estructura matemática bien entendida (y muy estudiada):
+En cualquiera de los casos, la estructura matemática implica que la inclusión de conjuntos define un orden parcial sobre K, interpretable como un preceptivo educativo: si a\le b en este orden parcial, entonces a debe ser aprendido antes que b.
+El orden parcial de prerrequisito no identifica de forma única un plan de estudios; algunos conceptos pueden llevar a una variedad de otros temas posibles.
+Pero la relación de cobertura asociada al parcial de prerrequisito sí controla la estructura curricular: si los alumnos conocen a antes de una lección y b inmediatamente después, entonces b debe cubrir a en el orden parcial.
+En tal circunstancia, los nuevos temas cubiertos entre a y b constituyen la franja exterior de a ("lo que el alumno estaba preparado para aprender") y la franja interior de b ("lo que el alumno acaba de aprender").
+En la práctica, existen varios métodos para construir espacios de conocimiento.
+El método más utilizado es la consulta a los expertos.
+Existen varios algoritmos de consulta que permiten que uno o varios expertos construyan un espacio de conocimiento respondiendo a una secuencia de preguntas sencillas.
+<.
+Otro método consiste en construir el espacio de conocimiento mediante el análisis exploratorio de los datos (por ejemplo, mediante el análisis del árbol de elementos) a partir de los datos.
+Un tercer método consiste en derivar el espacio de conocimiento a partir de un análisis de los procesos de resolución de problemas en el dominio correspondiente.

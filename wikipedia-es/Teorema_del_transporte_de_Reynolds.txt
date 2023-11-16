@@ -1,0 +1,29 @@
+El teorema de transporte de Reynolds es un teorema fundamental utilizado en la formulación de las leyes básicas de la mecánica de fluidos, que relaciona la derivada lagrangiana de una integral de volumen de un sistema con una integral en derivadas eulerianas.
+En la descripción de un fenómeno es posible elegir dos sistemas de referencia, uno centrado en una partícula por elemento de fluido (descripción lagrangiana) y un sistema inercial centrado en una posición fija en el espacio (descripción euleriana).
+El Teorema del transporte de Reynolds establece una relación entre la variación en el espacio y en el tiempo de cualquier variable entre estos dos sistemas de referencia.
+La derivada material permite evaluar la aceleración de una partícula de fluido que en un determinado instante pasa por un punto fijo del espacio.
+Si, en lugar de considerar una sola partícula de fluido, se toma un sistema de fluidos, un conjunto de partículas, se tiene un problema idéntico al anterior, pero para un sistema finito en lugar de uno initesimal: el teorema de transporte de Reynolds permite relacionar las cantidades calculadas para un sistema compuesto por las mismas partículas con las calculadas para un volumen fijo en el espacio.
+En cálculo diferencial, el teorema de transporte de Reynolds, también conocido como teorema de transporte de Leibniz-Reynolds, o simplemente el teorema de Reynolds, llamado así por Osborne Reynolds, es una generalización tridimensional de la regla integral de Leibniz.
+Se utiliza para refundir las derivadas temporales de las cantidades integradas y es útil para formular las ecuaciones básicas de la mecánica del continuo.
+Este teorema es una expresión matemática  que se usa para  relacionar integrales y derivadas.
+Se utiliza en la mecánica de medios continuos porque relaciona cómo varían las propiedades de una masa de control (cantidad de material a la que hacemos un seguimiento) con cómo varían las propiedades de un volumen de control (entidades geométricas que definimos aparte de los objetos físicos).
+En otras palabras, este teorema relaciona la tasa de cambio en el tiempo de una propiedad extensiva \Eta con la generación y el flujo de la propiedad intensiva correspondiente \eta, una y otra relacionadas por la ecuación.
+Es decir, relaciona el ritmo de variación en un dominio móvil (el de la masa de control) y un dominio fijo (el del volumen de control) o incluso entre varios volúmenes móviles.
+Se utiliza, por ejemplo, para demostrar la ecuación de continuidad en forma indefinida de los sistemas para cada evolución dinámica.
+El teorema proporciona un medio para determinar la tasa de cambio de alguna cantidad de interés (por ejemplo, la masa o el momento lineal) tras el movimiento.
+Esto es lo que se necesita para transformar un principio básico de un sistema basado en la materia a uno formulado en términos de coordenadas espaciales más convenientes.
+Para los movimientos no estacionarios, el teorema de Reynolds también puede aplicarse a los tubos de flujo con una sección transversal no constante.
+Por consiguiente, no se puede tomar una sección de la tubería como volumen de control.
+No obstante, el problema puede resolverse refiriéndose a una sección de tubería de longitud infinita, considerando un volumen de control fijo en el tiempo.
+La expresión general de este teorema es:
+El lema de Reynolds introducido por el ingeniero irlandés Osborne Reynolds que demuestra que la variación de flujo de una propiedad es igual a la variación de la propiedad dentro del flujo:
+Sea A una cierta propiedad genérica (escalar, vectorial o tensorial) de un medio continuo, y sea ψ(x, t) la cantidad de esta propiedad A por unidad de masa.
+Por consiguiente, ρψ(x, t) es la cantidad de la propiedad por unidad de volumen.
+Consideremos un volumen material arbitrario de medio continuo que en el instante t ocupa en el espacio un volumen V.
+La cantidad de la propiedad
+genérica A en el volumen material V en el instante t será:
+Donde ψ es la propiedad a estudiar
+La variación a lo largo del tiempo del contenido de la propiedad A en el volumen material V vendrá dada por la derivada temporal de Q(t), que
+utilizando la expresión de la derivada material de una integral de volumen será:
+Utilizando la expresión para la derivada material de un producto de funciones, agrupando términos y utilizando la ecuación de continuidad:
+Como por continuidad, se llega a la conclusión de que:

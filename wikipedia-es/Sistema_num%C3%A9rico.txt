@@ -1,0 +1,44 @@
+En aritmética, álgebra y análisis matemático, sistema numérico es un conjunto provisto de dos operaciones que verifican ciertas condiciones relacionadas con las propiedades propiedad conmutativa, propiedad asociativa  y distributiva.
+El conjunto de los números enteros, los números racionales o los números reales son ejemplos de sistemas numéricos, aunque los matemáticos han creado muchos otros sistemas numéricos más abstractos para diversos fines.
+Además debe tenerse en cuenta que dado un sistema numérico existen diversas formas de representarlo, por ejemplo, en los enteros podemos usar a representación decimal, la binaria, la hexadecimal, etc. En los racionales podemos optar por no expresarlos de manera decimal o como fracción de enteros, etc
+Los sistemas numéricos se caracterizan por tener una estructura algebraica (monoide, anillo, cuerpo, álgebra sobre un cuerpo), satisfacer propiedades de orden (orden total, buen orden) y propiedades topológicas y analíticas (densidad, metrizabilidad, completitud) adicionales.
+Convencionalmente diversos conjuntos dotados de "adición" y "multiplicación" se llaman sistemas numéricos.
+Entre estos conjuntos están los números naturales, los enteros, los racionales, los reales y los complejos, aunque existen otros que generalizan a algunos de los anteriores.
+Aunque no existe una definición formal de sistema numérico, todos los conjuntos dotados de operaciones binarias que se cuentan convencionalmente entre los sistemas numéricos tienen propiedades comunes.
+En todos los sistemas numéricos convencionales hay definidas dos operaciones binarias asociativas denominadas adición y multiplicación, y además se cumple que la multiplicación es distributiva con respecto a la adición.
+La adición es siempre conmutativa, aunque en algunos sistemas numéricos la multiplicación no siempre es conmutativa ): Para a, b y c elementos cualesquiera de \mathbb S: La adición y la multiplicación no necesariamente deben ser las de la aritmética elemental.
+Más formalmente un sistema numérico se caracterizan por una séxtupla, donde:
+Todos estos conjuntos son ejemplos de números hipercomplejos.
+<!-- == Ejemplos notables ==
+En esta sección se presentan algunos ejemplos de casos que salen de lo que indican, en primera instancia, la intuición o el sentido común.
+La aparición de "rarezas" hace que deba intervenir especialmente la razón por sobre la apariencia inmediata que dan los sentidos (percepción).
+Esto se conoce en filosofía como "buen sentido" y en matemáticas: "aplicar las definiciones al pie de la letra" o con rigor lógico.
+La visión de estos casos enseña más que los ejemplos sencillos.
+En la Teoría de conjuntos se definen la unión de conjuntos y la intersección de conjuntos.
+Podemos hacer corresponder la operación de unión con la de adición y la intersección con multiplicación o bien la unión al producto y la intersección a la suma, pero una sola a la vez.
+En este caso hay dos sistemas numéricos diferentes que no pueden coexistir.
+Desde otro punto de vista los conjuntos forman un álgebra booleana, pero esto no se considera aquí.
+Con la primera convención, los conjuntos forman un sistema numérico:
+Con la otra convención, forman otro sistema numérico:
+Fue una práctica didáctica que los maestros utilizaran objetos como manzanas o naranjas y la noción de conjunto para enseñar a sumar.
+Esta práctica pudo haber sido útil o no a la hora de enseñar, pero descansaba en ideas no demasiado meditadas.
+Para las consideraciones que siguen utilizaremos la convención de asimilar la suma a la unión de conjuntos y el producto a la intersección, como en el título anterior.
+Se ve afectado el papel del elemento identidad para la adición o elemento nulo de la suma.
+La segunda propiedad distributiva que cumplen los conjuntos permitiría que invirtiéramos la elección de las denominaciones para las operaciones de unión e intersección y el sistema seguiría siendo numérico; pero esto dejando bien claro que no se las considera simultáneamente.
+Deberíamos estudiar si las diferencias con respecto a los números familiares que fueron señaladas no cambian en este caso.
+Los números naturales, enteros, racionales, reales y complejos que conocemos forman sistemas numéricos.
+Para que los elementos de un conjunto sean considerados pertenecientes a un sistema numérico las operaciones definidas deben cumplir pocas propiedades.
+Esta amplitud hace que aparezcan ejemplos como éste, tan lleno de sorpresas.
+En álgebra se debe aplicar las definiciones al pie de la letra y si algo las cumple, es.
+-->
+La mayor parte de ejemplos de sistemas numéricos sencillos están relacionados con extensiones de los números naturales:
+Los restos de módulo 2, con las operaciones de suma y multiplicación de restos, forman un sistema numérico.
+La congruencia de Gauss es una relación de equivalencia.
+El cociente del conjunto \mathbb Z por una relación de equivalencia lo divide en clases disjuntas.
+En el caso de las congruencias de módulo 2 lo que se hace es dividir a los enteros en números pares e impares.
+Las operaciones de suma y multiplicación definidas permiten responder de qué paridad es el resultado de una suma o multiplicación de números pares o impares, en cualquier combinación que se utilice.
+Los símbolos "0" y "1" representan a los restos posibles de la división entera por 2: 0 para los números pares y 1 para los impares.
+La expresión 1 + 1 = 0 es equivalente a: impar + impar = par.
+Con las tablas es fácil comprobar que las operaciones son conmutativas, asociativas y que el producto es distributivo con respecto a la suma.
+Tenemos, entonces, un sistema numérico de dos símbolos.
+Para una comprensión más profunda, ver aritmética modular.

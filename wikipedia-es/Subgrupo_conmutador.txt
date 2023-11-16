@@ -1,0 +1,14 @@
+En matemáticas, el subgrupo conmutador de un grupo G, es el subgrupo generado por todos los elementos de la forma
+denominado conmutador de a con b.
+Al subgrupo conmutador también se le conoce como subgrupo derivado de G y se simboliza por G' o  [G, G].
+Esto significa que si x\in [G,G] entonces x se escribe como una palabra de conmutadores esto es,
+Se puede demostrar que [G,G] es un subgrupo normal y que el grupo cociente G/[G,G] es abeliano.
+El subgrupo conmutador es el menor que verifica esa propiedad, es decir: si verifica que G/H es abeliano entonces.
+La construcción G/[G,G] recibe el nombre de abelianización de G.
+Baumslag y Chandler en su Teoría de grupos enuncian las siguientes proposiciones:
+Dado un grupo G, La serie derivada es una construcción iterada, definida de la siguiente manera:
+Los grupos se denominan segundo grupo derivado, tercer grupo derivado, y así en adelante y forman la serie normal descedente.
+se denomina la serie derivada.
+Esta no debe confundirse con la serie central inferior, cuyos términos son.
+Para un grupo finito, la serie derivada termina en un grupo perfecto, que puede o no ser trivial.
+Para un grupo infinito, la serie derivada no necesita terminar en una etapa finita, y puede continuar hasta infinitos números ordinales mediante recursión transfinita, obteniendo así la serie derivada transfinita, que finalmente termina en el núcleo perfecto del grupo.

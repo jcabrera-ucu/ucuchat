@@ -1,0 +1,11 @@
+El telescopio Ritchey-Chrétien o RCT por sus siglas en inglés, es un telescopio Cassegrain especialmente diseñado para eliminar la coma, proporcionando así un amplio campo de visión en comparación con una configuración más convencional.
+Un RCT tiene un espejo primario hiperbólico y un espejo secundario también hiperbólico.
+Fue inventado al principio de la década de 1910 por el astrónomo estadounidense George Willis Ritchey (1864-1945) y por el astrónomo francés Henri Chrétien (1879-1956).
+Ritchey construyó el primer RCT exitoso, que tenía una abertura de diámetro de 60 cm (24 pulgadas) en 1927 (denominado reflector Ritchey de 24 pulgadas).
+El segundo RCT fue un instrumento de 102 cm (40 pulgadas) construido por Ritchey para el Observatorio Naval de Estados Unidos, telescopio que se encuentra todavía en funcionamiento en el Observatorio Naval de la estación de Flagstaff.
+El diseño de Ritchey-Chrétien está libre de coma de tercer orden y de aberración esférica, a pesar de que sufre de coma de quinto orden, astigmatismo importante en gran ángulo y comparativamente notoria curvatura de campo.
+Cuando está enfocado a mitad de camino entre los planos focales sagital y tangencial, las estrellas se muestran como círculos, por lo que el RCT está bien adaptado para el campo amplio y las observaciones fotográficas.
+Al igual que con los reflectores de otras configuraciones Cassegrain, el RCT tiene un conjunto óptico de tubo muy corto y un diseño compacto para una longitud focal determinada.
+El RCT ofrece un buen rendimiento óptico fuera del eje, pero los ejemplares de tamaño amateur son relativamente raros debido a los altos costos de fabricación del espejo primario hiperbólico.
+Las configuraciones Ritchey-Chrétien se encuentran más comúnmente en los telescopios de alto rendimiento profesional.
+Spiegeltelescoop

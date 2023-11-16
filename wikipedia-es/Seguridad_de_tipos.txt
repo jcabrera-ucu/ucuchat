@@ -1,0 +1,102 @@
+En informática, la seguridad de tipos es la medida en que un lenguaje de programación disminuye o previene los errores de tipo.
+Un error de tipo es un comportamiento de programa erróneo o indeseable causado por una discrepancia entre diferentes tipos de datos para las constantes, variables y métodos (funciones) del programa, por ejemplo, tratar un entero ( int ) como un número de punto flotante ( float ).
+La seguridad de tipos a veces se considera alternativamente como una propiedad de un programa de ordenador en vez de una propiedad del lenguaje con el que está escrito ese programa; es decir, algunos lenguajes tienen funciones de seguridad de tipos que pueden ser evitadas por programadores que utilizan prácticas que presentan una seguridad de tipos deficiente.
+La definición formal de la teoría de tipos de seguridad de tipos es considerablemente más sólida de lo que entienden la mayoría de los programadores.
+La ejecución de tipos puede ser estática, detectando posibles errores en tiempo de compilación, o dinámica, asociando la información de tipos con valores en tiempo de ejecución y consultándolos según sea necesario para detectar errores inmediatos, o una combinación de ambos.
+Los comportamientos clasificados como errores de tipo por un lenguaje de programación dado son generalmente los que resultan de realizar intentos de operaciones con valores que no son del tipo de datos apropiado.
+Esta clasificación se basa en parte en opiniones; puede implicar que cualquier operación que no dé lugar a fallos del programa, fallas de seguridad u otras fallas obvias es legítima y no necesita ser considerada un error, o puede implicar que cualquier incumplimiento de la intención explícita del programador (como se comunica a través de anotaciones mecanografiadas) sea errónea y no "a prueba de tipos".
+En el contexto de los sistemas de tipos estáticos (en tiempo de compilación), la seguridad de tipos generalmente implica (entre otras cosas) una garantía de que el valor final de cualquier expresión será un miembro legítimo del tipo estático de esa expresión.
+El requisito preciso es más sutil que esto: consulte subtipado y polimorfismo.
+La seguridad de tipos está estrechamente relacionada con la seguridad de memoria, una restricción en la capacidad de copiar patrones de bits arbitrarios de una localización de memoria a otra.
+Por ejemplo, en una implementación de un lenguaje que tiene un tipo t, de modo que alguna secuencia de bits (de la longitud apropiada) no representa un miembro legítimo de t, si ese lenguaje permite que los datos se copien en una variable de tipo t, entonces no tiene seguridad de tipos porque la operación podría asignar un valor que no sea de t a esa variable.
+La mayoría de los lenguajes tipados estáticamente proporcionan un grado de seguridad de tipos que es estrictamente más fuerte que la seguridad de la memoria, porque sus sistemas de tipos imponen el uso adecuado de los tipos de datos abstractos definidos por los programadores, incluso cuando esto no es estrictamente necesario para la seguridad de la memoria o para la prevención de cualquier tipo de error catastrófico.
+El código con seguridad de tipos accede solo a las ubicaciones de memoria a las que está autorizado a acceder.
+(Para esta discusión, la seguridad de tipos se refiere específicamente a la seguridad de tipos de memoria y no debe confundirse con la seguridad de tipos en un sentido más amplio. ) Por ejemplo, el código de seguridad de tipos no puede leer valores de los campos privados de otro objeto.
+Robin Milner proporcionó el siguiente eslogan para describir la seguridad de tipos:
+La formalización adecuada de este eslogan depende del estilo de semántica formal que se utilice para un lenguaje en particular.
+En el contexto de la semántica denotacional, seguridad de tipos significa que el valor de una expresión que está bien tipada, digamos con el tipo t, es un miembro genuino del conjunto correspondiente a t.
+En 1994, Andrew Wright y Matthias Felleisen formularon lo que ahora es la definición estándar y la técnica de prueba para la seguridad de tipos en lenguajes definidos por la semántica operativa.
+Bajo este enfoque, la seguridad de tipos está determinada por dos propiedades de la semántica del lenguaje de programación:
+Estas propiedades no existen en el vacío; están vinculadas a la semántica del lenguaje de programación que describen, y existe un gran espacio de lenguajes variados que pueden ajustarse a estos criterios, ya que la noción de programa "bien tipado" es parte de la semántica estática del lenguaje de programación y de la noción de "quedarse atascado" (o "salir mal") es una propiedad de su semántica dinámica..
+Vijay Saraswat proporciona la siguiente definición:
+La seguridad de tipos tiene como objetivo en última instancia excluir otros problemas, por ejemplo: -
+La seguridad de tipos suele ser un requisito para cualquier lenguaje de juguete propuesto en la investigación de lenguajes de programación académicos.
+Muchos lenguajes, por otro lado, son demasiado grandes para las pruebas de seguridad de tipo generado por humanos, ya que a menudo requieren la verificación de miles de casos.
+Sin embargo, se ha demostrado que algunos lenguajes, como Standard ML, que ha definido rigurosamente la semántica, cumplen una definición de seguridad de tipos.
+Se cree que algunos otros lenguajes como Haskell cumplen con alguna definición de seguridad de tipos, siempre que no se utilicen ciertas características de "escape" (por ejemplo, <tt>unsafePerformIO</tt> de Haskell, que se usa para "escapar" del entorno restringido habitual en el que se posible, evita el sistema de tipos y, por lo tanto, se puede utilizar para romper la seguridad del tipo. ). Independientemente de las propiedades de la definición del lenguaje, pueden ocurrir ciertos errores en tiempo de ejecución debido a errores en la implementación o en bibliotecas vinculadas escritas en otros lenguajes; dichos errores podrían hacer que un tipo de implementación determinado no sea seguro en determinadas circunstancias.
+Una de las primeras versiones de la máquina virtual Java de Sun´s era vulnerable a este tipo de problema.
+Los lenguajes de programación a menudo se clasifican coloquialmente como fuertemente tipados o débilmente tipados (también escritos libremente) para referirse a ciertos aspectos de la seguridad de tipos.
+En 1974, Liskov y Zilles definieron un lenguaje fuertemente tipado como aquel en el que "siempre que un objeto se pasa de una función que llama a una función llamada, su tipo debe ser compatible con el tipo declarado en la función llamada".
+En 1977, Jackson escribió: "En un lenguaje fuertemente tipado, cada área de datos tendrá un tipo distinto y cada proceso establecerá sus requisitos de comunicación en términos de estos tipos".
+Por el contrario, un lenguaje de tipo débil puede producir resultados impredecibles o puede realizar una conversión de tipo implícita.
+En los lenguajes orientados a objetos, la seguridad de tipos suele ser intrínseca al hecho de que existe un sistema de tipos.
+Esto se expresa en términos de definiciones de clases.
+Una clase esencialmente define la estructura de los objetos derivados de ella y una API como un contrato para manejar estos objetos.
+Cada vez que se crea un nuevo objeto, cumplirá con ese contrato.
+Cada función que intercambia objetos derivados de una clase específica, o que implementa una interfaz específica, se adherirá a ese contrato: por lo tanto, en esa función las operaciones permitidas en ese objeto serán solo aquellas definidas por los métodos de la clase que el objeto implementa.
+Esto garantizará que se conserve la integridad del objeto.
+Las excepciones a esto son los lenguajes orientados a objetos que permiten la modificación dinámica de la estructura del objeto, o el uso de la reflexión para modificar el contenido de un objeto para superar las restricciones impuestas por las definiciones de métodos de clase.
+Ada fue diseñado para ser utilizado en sistemas integrados, controladores de dispositivos y otras formas de programación de sistemas, pero también para fomentar la programación con seguridad de tipos.
+Para resolver estos objetivos en conflicto, Ada limita la inseguridad de tipos a un cierto conjunto de construcciones especiales cuyos nombres generalmente comienzan con la cadena <tt>Unchecked_</tt>.
+Se espera que los programadores utilicen las construcciones <tt>Unchecked_ con</tt> mucho cuidado y solo cuando sea necesario; los programas que no los utilizan son seguros para los tipos.
+El lenguaje de programación SPARK es un subconjunto de Ada que elimina todas sus posibles ambigüedades e inseguridades y, al mismo tiempo, agrega contratos verificados estáticamente a las características del lenguaje disponibles.
+SPARK evita los problemas con los punteros colgantes al no permitir la asignación en tiempo de ejecución por completo.
+Ada2012 agrega contratos verificados estáticamente al propio lenguaje (en forma de condiciones previas y posteriores, así como invariantes de tipo).
+El lenguaje de programación C respeta la seguridad de tipos en contextos limitados; por ejemplo, se genera un error en tiempo de compilación cuando se intenta convertir un puntero a un tipo de estructura en un puntero a otro tipo de estructura, a menos que se utilice una conversión explícita.
+Sin embargo, varias operaciones muy comunes no son seguras de tipos; por ejemplo, la forma habitual de imprimir un entero es algo como, donde   le dice a   en tiempo de ejecución que espere un argumento entero.
+Algo como, que le dice a la función que espere un puntero a una cadena de caracteres y aun así proporciona un argumento entero, puede ser aceptado por los compiladores, pero producirá resultados indefinidos.
+Esto está parcialmente mitigado por algunos compiladores (como gcc) que verifican las correspondencias de tipos entre los argumentos de  y las cadenas de formato.
+Además, C, como Ada, proporciona conversiones explícitas no especificadas o indefinidas; ya diferencia de Ada, los modismos que usan estas conversiones son muy comunes y han ayudado a darle a C una reputación de tipo inseguro.
+Por ejemplo, la forma estándar de asignar memoria en el montón es invocar una función de asignación de memoria, como, con un argumento que indique cuántos bytes se requieren.
+La función devuelve un puntero  tipo (tipo   ), que el código de llamada debe emitir explícita o implícitamente al tipo de puntero apropiado.
+Las implementaciones pre-estandarizadas de C requerían una conversión explícita para hacerlo, por lo tanto, el código  convirtió en la práctica aceptada.
+Algunas características de C ++ que promueven un código más seguro de tipos:
+C # tiene seguridad de tipos (pero no estáticamente).
+Tiene soporte para punteros sin tipo, pero se debe acceder a esto usando la palabra clave.
+Tiene soporte inherente para soportar la conversión de tipos en tiempo de ejecución.
+Las conversiones de tipos se pueden validar utilizando la palabra clave  que devolverá una referencia nula si la conversiones no es válida, o utilizando la conversión de estilo C que generará una excepción si no es válido.
+La confianza indebida en el tipo objeto (del que se derivan todos los demás tipos) corre el riesgo de frustrar el propósito del sistema de tipos C #.
+Por lo general, es una mejor práctica abandonar las referencias a objetos en favor de genéricos, similares a las plantillas en C ++ y los genéricos en Java.
+El lenguaje Java está diseñado para reforzar la seguridad de tipos.
+Cualquier cosa en Java sucede dentro de un objeto que es una instancia de una clase.
+Para implementar la seguridad de tipos, es necesario asignar cada objeto, antes de su uso.
+Java permite el uso de tipos primitivos pero solo dentro de objetos asignados correctamente.
+A veces, una parte de la seguridad de tipos se implementa indirectamente: por ejemplo, la clase BigDecimal representa un número de punto flotante de precisión arbitraria, pero maneja solamente números que pueden expresarse con una representación finita.
+La operación BigDecimal.divide calcula un nuevo objeto como la división de dos números expresados como BigDecimal.
+En este caso, si la división no tiene representación finita, como cuando se calcula, por ejemplo, 1/3 = 0.33333 ..., el método divide puede generar una excepción si no se define un modo de redondeo para la operación.
+Por tanto, la biblioteca, más que el lenguaje, garantiza que el objeto respeta el contrato implícito en la definición de clase.
+SML tiene una semántica rigurosamente definida y se sabe que es de tipo seguro.
+Sin embargo, algunas implementaciones de SML, incluido el estándar ML de Nueva Jersey (SML / NJ), su variante sintáctica Mythryl y Mlton, proporcionan bibliotecas que ofrecen ciertas operaciones inseguras.
+Estas instalaciones se utilizan a menudo junto con las interfaces de funciones externas de esas implementaciones para interactuar con código que no es ML (como bibliotecas C) que pueden requerir datos dispuestos de formas específicas.
+Otro ejemplo es el alto nivel interactivo SML / NJ en sí mismo, que debe usar operaciones inseguras para ejecutar el código ML ingresado por el usuario.
+Modula-2 es un lenguaje fuertemente tipado con una filosofía de diseño que requiere que cualquier instalación insegura sea marcada explícitamente como insegura.
+Esto se logra "moviendo" dichas instalaciones a una pseudo-librería incorporada llamada SYSTEM desde donde deben importarse antes de que puedan usarse.
+Por tanto, la importación lo hace visible cuando se utilizan tales instalaciones.
+Lamentablemente, esto no se implementó en consecuencia en el informe en el idioma original y su implementación.
+Todavía quedaban instalaciones inseguras como la sintaxis de conversión de tipos y los registros de variantes (heredados de Pascal) que podrían usarse sin una importación previa.
+La dificultad de trasladar estas instalaciones al pseudo-módulo SYSTEM fue la falta de un identificador para la instalación que luego pudiera importarse, ya que solo se pueden importar identificadores, pero no la sintaxis.
+El estándar ISO Modula-2 corrigió esto para la facilidad de conversión de tipos cambiando la sintaxis de conversión de tipos a una función llamada CAST que debe importarse desde el pseudo-módulo SYSTEM.
+Sin embargo, otras instalaciones inseguras, como registros variantes, permanecieron disponibles sin ninguna importación desde el pseudo-módulo SYSTEM.
+Una revisión reciente del lenguaje aplicó rigurosamente la filosofía de diseño original.
+En primer lugar, se cambió el nombre del pseudo-módulo SYSTEM a UNSAFE para hacer más explícita la naturaleza insegura de las instalaciones importadas desde allí.
+Luego, todas las instalaciones inseguras restantes se eliminaron por completo (por ejemplo, registros de variantes) o se movieron al pseudo-módulo UNSAFE.
+Para las instalaciones donde no hay un identificador que pueda importarse, se introdujeron identificadores de habilitación.
+Para habilitar dicha función, su correspondiente identificador de habilitación debe importarse del pseudo-módulo UNSAFE.
+No quedan instalaciones inseguras en el idioma que no requieren importación de UNSAFE.
+Pascal ha tenido una número de requisitos de seguridad de tipos, algunos de los cuales se guardan en algunos compiladores.
+Cuando un compilador de Pascal dicta "tipificación estricta", dos variables no se pueden asignar entre sí a menos que sean compatibles (como la conversión de entero a real) o asignadas al subtipo idéntico.
+Por ejemplo, si tiene el siguiente fragmento de código: Bajo una tipificación estricta, una variable definida como <tt>TwoTypes</tt> no es compatible con <tt>DualTypes</tt> (porque no son idénticos, aunque los componentes de ese tipo definido por el usuario son idénticos) y una asignación de <tt>T1 : = D2;</tt> es ilegal.
+Una asignación de <tt>T1 : = T2;</tt> sería legal porque los subtipos para los que están definidos son idénticos.
+Sin embargo, una asignación como <tt>T1.</tt> <tt>Q : = D1.</tt> <tt>Q;</tt> sería legal.
+En general, Common Lisp es un lenguaje con seguridad de tipos.
+Un compilador Common Lisp es responsable de insertar comprobaciones dinámicas para operaciones cuya seguridad de tipo no se puede probar de forma estática.
+Sin embargo, un programador puede indicar que un programa debe compilarse con un nivel más bajo de verificación dinámica de tipos.
+Un programa compilado de tal modo no se puede considerar con seguridad de tipos.
+Los siguientes ejemplos ilustran cómo los operadores de conversión de C ++ pueden romper la seguridad de tipos cuando se usan incorrectamente.
+El primer ejemplo muestra cómo los tipos de datos básicos se pueden convertir incorrectamente: En este ejemplo,  previene explícitamente que el compilador realice una conversión segura de un valor entero a un valor de punto flotante.
+Cuando el programa se ejecuta, generará un valor de coma flotante de basura.
+El problema podría haberse evitado escribiendo
+El siguiente ejemplo muestra cómo las referencias a objetos se pueden reducir incorrectamente: Las dos clases secundarias tienen miembros de diferentes tipos.
+Cuando se reduce un puntero de clase padre a un puntero de clase hija, es posible que el puntero resultante no apunte a un objeto válido del tipo correcto.
+En el ejemplo, esto lleva a que se imprima un valor basura.
+El problema podría haberse evitado reemplazando  con   que arroja una excepción en   no válidas.

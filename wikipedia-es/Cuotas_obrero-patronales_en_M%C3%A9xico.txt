@@ -1,0 +1,31 @@
+Son la suma total de dinero aportado al Instituto Mexicano del Seguro Social por los trabajadores, patrones y la cuota social que aporta el gobierno mexicano.
+Para su determinación se toman en cuenta, el salario base de cotización del trabajador, el salario mínimo del Distrito Federal, el salario mínimo del área geográfica del asegurado y los porcentajes que fija la ley del seguro social.
+El pago cubre los cinco seguros que ofrece el IMSS bajo el régimen obligatorio.
+Este seguro cubre a los familiares que tenga el trabajador en favor de él mismo y sus beneficiarios, con el cual tiene derecho a prestaciones en dinero y en especie; como incapacidades y subsidios (se pagan al 60% del sbc y a partir del 4° día de incapacidad), en el caso de las mujeres aseguradas embarazadas, el goce del 100% de su sueldo al tener incapacidad por maternidad, por 42 días antes y 42 después del parto.
+Para tener derecho a las prestaciones de este seguro es necesario tener:
+Para prestaciones en especie:
+Para prestaciones en dinero: del 1% del salario base de cotización, el 70% a cargo del patrón, el 25% a los trabajadores y el 5% restante al gobierno federal.
+Este seguro cubre cualquier accidente o enfermedad que sufra el trabajador con motivo de su trabajo.
+Para tener derecho a este seguro no son necesarias semanas cotizadas, ya que el trabajador se encuentra protegido desde el primer día en que labora en la empresa, cabe mencionar que el trabajador no tiene derecho a este seguro si al momento de ocurrirle algún accidente se encontraba en estado de embriaguez, bajo el efecto de algún narcótico, la causa que lo provocó fue alguna riña o se daña intencionalmente.
+Este seguro toma en cuenta el giro de la empresa para establecer la prima media que se señala en el artículo 73 de la ley del seguro social cuando es la primera vez que se cotiza, para los años subsecuentes, la prima se determina de acuerdo con la siguiente fórmula, en el mes de febrero:
+Prima de riesgo de trabajo = [(S/365)+V * (I + D)] * (F/N) + M
+Donde:
+La prima disminuye al no haber incidencias ni accidentes entre los trabajadores.
+Este seguro lo paga totalmente el patrón, se obtiene multiplicando la base de cotización mensual por la prima que tenga la empresa.
+Este seguro cubre al trabajador cuando este imposibilitado para procurarse y obtener un sueldo mayor al 50% de lo que percibía antes de tener la invalidez y a los beneficiarios a falta del trabajador, que les provea sustento.
+Para tener derecho a este seguro son necesarias:
+El pago se compone del:
+Este seguro cubre el dinero necesario para cuando el trabajador llegue a la edad de la jubilación y existan recursos para poder brindarle una renta vitalicia.
+Estos recursos los manejan las AFORES, y al momento del retiro del trabajador, estas traspasan los recursos a una aseguradora.
+Para tener derecho a este seguro, es necesario que el trabajador cuente con 1.250 semanas cotizadas, que no esté trabajando y que tenga 60 años para la pensión por cesantía o 65 años para la pensión por vejez.
+Para el ramo de cesantía en edad avanzada y vejez, las aportaciones por día son las siguientes:
+Para el ramo de retiro:
+El gobierno mexicano aporta a este seguro una cuota social de acuerdo a las veces el salario mínimo que perciba el trabajador por día.
+Este se actualiza trimestralmente de acuerdo al INPC, los meses de marzo, junio, septiembre y diciembre de cada año.
+Este seguro cubre a todos los hijos de madres trabajadoras o de cualquier asegurado que tenga la custodia legal.
+Para brindarles los cuidados necesarios mientras se el asegurado labora.
+Además de las prestaciones sociales que son acciones del instituto dirigidas a fomentar la salud, prevenir enfermedades y accidentes, y elevar la calidad de vida de la población.
+Este seguro lo paga totalmente el patrón a razón del 1% del salario base de cotización.
+Cuando un trabajador asegurado falta a laborar, los días que se toman en cuenta para la base de cotización mensual y bimestral de todos los seguros cambian.
+En la práctica todos los cálculos de las cuotas se realizan por el software SUA (Sistema Único de Autodeterminación de cuotas), que el IMSS proporciona a los patrones cuando estos tienen más de 5 empleados.
+Con el programa se genera también el archivo de pago, para que cualquier institución financiera pueda reportar dicho pago y transferir los recursos al instituto.

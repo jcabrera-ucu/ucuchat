@@ -1,0 +1,22 @@
+Open Audio Library es una API de audio multiplataforma desarrollada por Creative Labs para el renderizado eficiente de audio posicional y multicanal en tres dimensiones.
+Está ideada para su uso en videojuegos y el estilo y Microsoft Xbox y formato PCM, bien en 8 o 16 bits, en formato mono o estéreo.
+El motor de renderizado se encarga de todos los cálculos necesarios como la atenuación, doppler, etc.
+Para entender el correcto funcionamiento de la biblioteca, se deben definir una serie de conceptos de gran importancia:
+Un buffer de sonido es un espacio en memoria (generalmente, en la memoria principal del ordenador, o en la memoria de la tarjeta de sonido) usado para almacenar los bytes que representan un sonido almacenado en la computadora.
+Generalmente, se trata de una codificación de un sonido determinado, usando una codificación digital.
+Un source u origen (traducido literalmente) es lo que se conoce como un emisor de sonido.
+Se caracteriza por encapsular a un sonido (reproducirlo), tener una posición 3D en el mundo, una velocidad, un volumen, una frecuencia, etc. Es una de las estructuras más importantes de OpenAL, puesto que permite la recepción de sonidos con efectos, como el efecto Doppler.
+Como detalle importante, un emisor 3D solo podrá emitir de manera correcta sonidos del tipo [MONO], con un único canal de reproducción.
+Los atributos de un sonido pueden cambiarse en cualquier momento mientras se está reproduciendo, y el sonido se verá afectado por dichos cambios.
+En todo sistema de comunicación debe haber un emisor (source), un canal (simulación de aire, en este caso) y, por supuesto, un receptor.
+En el caso de OpenAL, el receptor u oyente es denominado listener.
+Al igual que un emisor, un receptor tiene una serie de características principales, sea una posición, una dirección, una velocidad y una ganancia.
+Por desgracia, OpenAL solo acepta un receptor o listener por contexto OpenAL.
+En caso de querer reproducir un sonido desde diversos oyentes, será necesario crear un contexto por cada oyente, y cambiarlo de manera dinámica.
+Al igual que con los emisores o sources, los cambios realizados sobre los distintos parámetros de un oyente se verán reflejados en cuanto a la escucha del sonido, en tiempo real.
+OpenAL permite la creación de Queues o colas para introducir sonidos y reproducirlos de manera continuada, como si de un streaming se tratase.
+Puede ser de gran utilidad cuando el sonido a reproducir es demasiado grande (supongamos, 2 horas de grabación en HD), por lo que no será posible guardar el fichero completo en un buffer, y reproducirlo tal cual.
+Por ello, es necesario particionar el sonido original, e ir reproduciendo cada fragmento, y liberar aquellos ya reproducidos.
+Además, cabe recalcar que se trata de una cola de buffers, y no de sources o emisores.
+Cada fragmento extraído del sonido original se irá reproduciendo de manera ordenada según su posición en la cola, y bajo las características establecidas (posición, ganancia...) para el emisor al que se le ha asignado la cola.
+También se puede utilizar la biblioteca y estas colas para captar sonido con un dispositivo de entrada (micrófono...) y reproducirlo de manera continuada, siendo cada fragmento una pequeña cantidad de audio grabado.

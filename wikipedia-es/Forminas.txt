@@ -1,0 +1,8 @@
+Las forminas o proteínas con homología a formina son un grupo de proteínas de unión a actina que están involucradas en la inducción de la polimerización de los filamentos de actina.
+Estructuralmente poseen en su extremo C-terminal un dominio de homología a formina (FH): por ejemplo, las variantes FH1, FH2 y FH3.
+En el caso de la levadura Saccharomyces cerevisiae, sus forminas poseen dominios tipo FH1 y FH2.
+Además de estos elementos, en su estructura proteica poseen dominios de unión a RhoGTPasas, que son capaces de unir a Rho-GTP/GDP en su fragmento N terminal.
+Presentes en todos los eucariotas con muy pocas modificaciones en su secuencia codificante, las proteínas de homología a formina no sólo intervienen en la definición del citoesqueleto de actina, sino también en el de los microtúbulos durante la mitosis, meiosis, determinación de la polaridad celular, tráfico de vesículas y otros.
+La forma en que efectúan su función biológica puede ser, entre otras, la actividad como nucleantes de actina.
+Su papel interconector entre microtúbulos y microfilamentos aún está poco descrita; en levaduras, este efecto en los microtúbulos es dependiente de la capacidad de las forminas de polimerizar actina, cosa que no sucede en células de mamíferos, donde la actividad de polarización y estabilización de los microtúbulos parece directa.
+Además, las forminas son efectores de las GTPasas monoméricas tipo Rho.

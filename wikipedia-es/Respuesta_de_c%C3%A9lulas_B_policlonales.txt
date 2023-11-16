@@ -1,0 +1,148 @@
+Este artículo trata de la respuesta inmune en vertebrados con mandíbulas y, más específico, mamíferos.
+La respuesta de células B policlonales es un modo natural de respuesta inmune exhibida por el sistema adaptativo inmune en mamíferos.
+Asegura que solo un antígeno sea reconocido y atacado a través de sus partes superpuestas, llamadas epítopos, por múltiples clones de células B.
+En el transcurso de una respuesta inmune normal, partes de patógenos (por ejemplo bacteria) son reconocidos por el sistema inmune como extraños (no del mismo), y eliminados o neutralizados efectivamente para reducir el potencial del daño.
+Tal sustancia reconocible se llama antígeno.
+El sistema inmune puede responder en muchas maneras hacia un antígeno; una característica clave de esta respuesta es la producción de anticuerpos por células B (o linfocitos B) involucrando un brazo del sistema inmune conocido como inmunidad humoral.
+Los anticuerpos son solubles y no requieren un contacto directo célula a célula entre el patógeno y células B para funcionar.
+Los Antígenos pueden ser sustancias largas y complejas, y cualquier anticuerpo solo puede unirse a un área pequeña y específica en el antígeno.
+Por consiguiente, una respuesta inmune efectiva frecuentemente involucra la producción de muchos diferentes anticuerpos por muchas diferentes células B contra el mismo antígeno.
+Por lo tanto el término "policlonal", que deriva de las palabras poly, que significa muchos y clones ("Klon"= en griego para brote o rama); que es un grupo de células que surgen de una misma célula "madre".
+Los anticuerpos policlonales heterogéneos son distintos a anticuerpos monoclonales, ya que son idénticos y reaccionan contra un solo epítopo, y son más específicos.
+Aunque la respuesta policlonal confiere ventajas en el sistema inmune, particularmente mayor probabilidad de reaccionar contra patógenos, también incrementa las posibilidades de desarrollar ciertas enfermedades autoinmunes resultantes de la reacción del sistema inmune contra moléculas nativas producidas dentro del hospedero.
+Enfermedades que pueden ser transmitidas de un organismo a otro son conocidas como enfermedades infecciosas, y el agente causante biológico involucrado se conoce como patógeno.
+El proceso por el cual el patógeno es introducido en un cuerpo se le conoce como inoculación, y el organismo al que afecta se conoce como hospedero biológico.
+Cuando el patógeno se estabiliza, en un paso conocido como colonización, puede resultar en infección consecuentemente dañando al hospedero directamente o a través de sustancias nocivas llamadas toxinas que produce.
+Estos da lugar a los diferentes síntomas y signos característicos de una enfermedad infecciosa como neumonía o difteria.
+Contrarrestar las diversas enfermedades infecciosas es muy importante para la supervivencia del organismo susceptible, particularmente, y la especie en general.
+Esto es logrado por el hospedero cuando elimina el patógeno y sus toxinas o volviéndolos no funcionales.
+El conjunto de varias células, tejidos y órganos que se especializan en proteger al cuerpo contra infecciones se le conoce como sistema inmune.
+El sistema inmune logra esto, a través del contacto directo de ciertas células blancas de la sangre con el patógeno invasor involucrando un brazo del sistema inmune conocido como inmunidad mediada por células, o produciendo sustancias que se mueven de sitios distantes de donde son producidas, "buscando" las células y toxinas causantes de la enfermedad específicamente por la unión con ellas, y neutralizándolas en el proceso conocido como brazo humoral del sistema inmune.
+Esas sustancias son conocidas como anticuerpos solubles y realizan funciones importantes al contrarrestar infecciones.
+Los anticuerpos cumplen varias funciones al proteger el hospedero del patógeno.
+Sus formas solubles en las que desempeñan estas funciones son producidas por células plasmáticas B, un tipo de células blancas.
+Esta producción está regulada y necesita la activación de células B por las células T activadas (otro tipo de células blancas), que es un procedimiento secuencial.
+Los principales pasos involucrados son:
+Los patógenos sintetizan proteínas que pueden cumplir como antígenos reconocibles; pueden expresar las moléculas en su superficie o liberarlas en el entorno (fluidos del cuerpo).
+Lo que hace que estas sustancias sean reconocibles es que se unen muy específicamente y de alguna manera fuertes hacia ciertas proteínas hospederas llamadas anticuerpos.
+Estos mismos anticuerpos pueden anclarse a la superficie de las células del sistema inmune, que en este caso sirven como receptores, o pueden ser secretados en la sangre, conocidos como anticuerpos solubles.
+En una escala molecular, las proteínas son relativamente largas, así que no pueden ser reconocidas como un todo; en cambio, sus segmentos llamados epítopos, pueden ser reconocidos.
+Un epítopo entra en contacto con una pequeña región (de 15-22 aminoácidos) de la molécula del anticuerpo; esta región es conocida como paratopo.
+En el sistema inmune, anticuerpos unidos a la membrana son el receptor de células B (BCR).
+También, mientras la célula T receptora no es bioquímicamente clasificada como un anticuerpo, cumple una función similar que específicamente se une a epítopos con un complejo de mayor histocompatibilidad.
+La unión entre un paratopo y su antígeno correspondiente es muy específico debido a su estructura, y es guiada por varios enlaces no covalentes, no a diferencia del apareamiento de otros tipos de ligandos (cualquier átomo, ion o molécula que se une con cualquier receptor con al menos un grado de especificidad y fuerza).
+La especificidad de unión no surge de un tipo de interacción de cerradura y llave rígida, sino más bien requiere tanto del paratopo como del epítopo para someterse a ligeros cambios conformacionales en la presencia del otro.
+En la figura de la izquierda, los diferentes segmentos que forman el epítopo se han demostrado que son continuamente colineares, esto significa que se han demostrado secuenciales; sin embargo, para la situación discutida aquí (i.e., el reconocimiento de antígeno por célula B), esta explicación es muy simple.
+Estos epítopos son conocidos como epítopos secuenciales o lineales, ya que todos los aminoácidos en éstos, están en la misma secuencia (línea).
+Este modo de reconocimiento es posible solo cuando el péptido es pequeño (de seis a ocho aminoácidos de longitud), y es empleado por las células T (linfocitos T).
+Sin embargo, la memoria de las células B reconoce proteínas intactas presentes en la superficie del patógeno.
+En esta situación, la proteína en su estructura terciaria está tan doblada que algunos bucles de aminoácidos se encuentran en el interior de la proteína, y los segmentos que los flanquean están en la superficie.
+El paratopo en el receptor de la célula B se pone en contacto solamente con esos aminoácidos que se encuentran en la superficie de la proteína.
+Los aminoácidos de la superficie pueden ser discontinuos en la estructura primaria de la proteína, pero se vuelven yuxtapuestos debido a los patrones de plegamiento del complejo de la proteína (como en la figura).
+Estos epítopos son conocidos como conformacionales y tienden a ser más largos (15-22 residuos de aminoácidos) que los epítopos lineares.
+Del mismo modo, los anticuerpos producidos por las células plasmáticas pertenecientes al mismo clon se pueden unir a los mismos epítopos conformacionales en las proteínas patógenas.
+La unión de un antígeno específico con las moléculas BCR correspondientes resulta en una producción incrementada de las moléculas CMH-II.
+Esto asume el significado que no sucede cuando el mismo antígeno fuera internalizado por un proceso relativamente no específico llamada pinocitosis, en el que el antígeno con el fluido del entorno está "tomado" como una pequeña vesícula por la célula B. Por lo tanto, ese antígeno es conocido como antígeno no específico y no conduce a la activación de la célula B, o la producción subsecuente de anticuerpos contra este.
+Los macrófagos y las células relacionadas emplean un mecanismo diferente para reconocer el patógeno.
+Sus receptores reconocen ciertos motivos presentes en el patógeno invasor que no es común su presencia en la célula hospedera.
+Estos motivos repetidos son reconocidos por receptores de reconocimiento de patrones (RRPs) como los receptores de tipo Toll (TLRs) expresados por los macrófagos.
+Ya que el mismo receptor se puede unir al motivo presente dado en las superficies de microorganismos muy dispares, este modo de reconocimiento es relativamente no específico, y constituye una innata respuesta inmune.
+Después de reconocer un antígeno, una célula presentadora de antígeno como un macrófago o un linfocito B se sumerge completamente por un proceso llamado fagocitosis.
+La partícula sumergida, junto con un material que lo rodea, forma una vesícula endocítica (el fagosoma) que se fusiona con lisosomas.
+Dentro del lisosoma, el antígeno se rompe en pequeñas partes llamadas péptidos como proteasas (enzimas que degradan proteínas más grandes).
+Los péptidos individuales después se juntan con las moléculas del complejo de mayor histocompatibilidad clase II (CMH-II) localizadas en el lisosoma- este método de "manipulación" del antígeno es conocido como la vía exógena o endocítica de procesamiento de antígenos en contraste con la vía endógena o citosólica, que forma un complejo con las proteínas anormales producidas dentro de la célula (e.g. bajo la influencia de una infección viral o en una célula tumoral) con las moléculas de CMH clase I.
+Una vía alternativa de procesamiento endocítico también se ha demostrado que ciertas proteínas como el fibrinógeno y la mioglobina pueden unirse como un todo a las moléculas CMH-II después de que se desnaturalizan y sus enlaces disulfuro se reducen (rompiendo el enlace mediante la adición de átomos de hidrógeno a través de ella).
+Las proteasas degradan a continuación, las regiones expuestas de la proteína del complejo-CMH-II.
+Después de que el antígeno procesado (péptido) se junta con la molécula CMH, ambos migran juntos a la membrana celular, en donde son exhibidos (presentados) como un complejo que puede ser reconocido por el CD4+ (célula T auxiliar)- un tipo de célula blanca.
+Esto es conocido como presentación de antígeno.
+Sin embargo, los epítopos (epítopos conformacionales) que son reconocidos por la célula B anteriormente a su digestión pueden no ser los mismos presentados a la célula T auxiliar.
+Adicionalmente, una célula B puede presentar diferentes péptidos junto a diferentes moléculas CMH-II.
+Las células CD 4+ a través de su receptor-CD3 de células T reconocen el epítopo unido a las moléculas CMH II en la superficie de las células presentadoras del antígeno, y se activan.
+Sobre esta activación, estas células T proliferan y diferencian en Th2 cells.
+Esto hace que produzcan señales químicas solubles que promueven su supervivencia.
+Sin embargo, otra importante función es que llevan a cabo la estimulación de la célula B estableciendo un contacto físico directo con ellas.
+La estimulación completa de las células T auxiliares requiere de la molécula B7 presente en la célula presentadora de antígeno para unirse con la molécula CD28 presente en la superficie de células T (en estrecha proximidad con el receptor de células T).
+Del mismo modo, una segunda interacción entre el ligando CD40 o CD154 (CD40L) presente en la superficie de células T y CD40 presente en la superficie de células B, es también necesario.
+Las mismas interacciones que estimulan la célula auxiliar T también estimulan la célula B, de ahí el término de la co-estimulación.
+Todo el mecanismo asegura que una célula T activada solo estimule una célula B que reconoce el antígeno que contiene el mismo epítopo reconocido por el receptor de células T del "co-estimulando" de la célula T auxiliar.
+La célula B se estimula, además de la co-estimulación directa, por ciertos factores de crecimiento, a saber, interleucinas 2, 4, 5, y 6 de manera paracrina.
+Estos factores se producen normalmente por la recién activada célula T auxiliar.
+Sin embargo, esta activación se produce solo después de que el receptor de células B presente en una memoria o una célula B inmadura se una al epítopo correspondiente, sin la cual los pasos de iniciación de la fagocitosis y el procesamiento de antígenos no puede ocurrir.
+Una célula B inmadura (o sin experiencia) es una que pertenece a un clon que nunca se ha encontrado el epítopo en el que es específico.
+Por el contrario, una célula B de memoria es una que se deriva de una célula B inmadura activa o una célula B de memoria.
+La activación de una célula B inmadura o de memoria es seguido por un colector de proliferación de esa célula B particular, la mayoría de la progenie de las cuales terminalmente se diferencian en células plasmáticas B; las restantes sobreviven como células B de memoria.
+Por lo tanto, cuando las células inmaduras pertenecientes a un clon particular, encuentran su antígeno específico para dar lugar a las células plasmáticas, y también dejar algunas células de memoria, es conocido como la respuesta inmune primaria.
+En el curso de la proliferación de este clon, los genes del receptor de células B pueden someterse a frecuentes (uno de cada dos divisiones celulares) mutaciones en los genes que codifican para paratopos de anticuerpos.
+Estas mutaciones frecuentes se denominan hipermutación somática.
+Cada mutación altera ligeramente la capacidad de unión al epítopo del paratopo, creando nuevos clones de células B en el proceso.
+Algunos de los nuevos paratopos creados se unen más fuertemente al mismo epítopo (que conduce a la selección de los clones que los poseen), que se conoce como maduración de la afinidad.
+Otros paratopos se unen mejor a los epítopos que son ligeramente diferentes del epítopo original que había estimulado la proliferación.
+Las variaciones en la estructura del epítopo también producidos generalmente por mutaciones en los genes de patógenos codificando para su antígeno.
+Hipermutación somática, por lo tanto, hace que los receptores de las células B y los anticuerpos solubles en encuentros posteriores con antígenos, más inclusivos en su potencial de reconocimiento de antígeno de los epítopos alterados, aparte de conferir una mayor especificidad para el antígeno que indujo la proliferación en el primer lugar.
+Cuando las células de memoria se estimulan por el antígeno para producir células plasmáticas (como en la respuesta primaria del clon), y dejar incluso más células de memoria en el proceso, es conocido como respuesta inmune secundaria, que traduce en un mayor número de células plasmáticas y una mayor velocidad de producción de anticuerpos que duran períodos más largos.
+Las células B de memoria producidas como parte de la respuesta secundaria reconocen el antígeno correspondiente más rápido y se unen con mayor fuerza a él (es decir mayor afinidad al unirse) debido a la maduración de afinidad.
+Los anticuerpos solubles producidos por el clon, muestran una mejora similar en la unión al antígeno.
+Las respuestas son policlonales en la naturaleza ya que cada clon se especializa en producir anticuerpos contra el epítopo dado, y porque, cada antígeno contiene múltiples epítopos, cada uno de los cuales a su vez pueden ser reconocidos por más de un clon de células b. Para que sea capaz de reaccionar con innumerables antígenos, así como múltiples epítopos constitutivos, el sistema inmune requiere la habilidad de reconocer una gran cantidad de epítopos, i.e., debe de haber una gran diversidad de clones de células B.
+La memoria y las células B inmadura normalmente existen en cantidades relativamente pequeñas.
+Como el cuerpo necesita ser capaz de responder a grandes números de patógenos potentes, mantiene una piscina de células B con un gran rango de especificidades.
+Consecuentemente, mientras que casi siempre hay al menos una célula B (inmadura o memoria) capaz de responder a cualquier epítopo dado (de todo lo que el sistema inmune puede reaccionar en contra), hay pocos duplicados exactos.
+Sin embargo, cuando una sola célula B encuentra un antígeno al cual unirse, puede proliferar muy rápido.
+Tal grupo de células con una especificidad idéntica hacia el epítopo se conoce como un clon, y se deriva de una célula "madre" común.
+Todas las células B "hijas" se ajustan a la célula original "madre" en su especificidad del epítopo, y secretan anticuerpos con paratopos idénticos.
+Estos anticuerpos son anticuerpos monoclonales, ya que se derivan de clones de la misma célula madre.
+Una respuesta policlonal es una en el que los clones de múltiples células B reaccionan al mismo antígeno.
+Un solo antígeno puede pensarse como una secuencia de múltiples epítopos superpuestos.
+Muchos clones de células B pueden unirse a epítopos individuales.
+Esto imparte una mayor multiplicación para la respuesta.
+Todas estás células B pueden activarse y producir grandes colonias de clones de células plasmáticas, por lo que cada una puede secretar más de 1000 moléculas de anticuerpos contra cada epítopo por segundo.
+Además de las diferentes células B que reaccionan a diferentes epítopos en el mismo antígeno, las células B que pertenecen a diferentes clones también pueden ser capaces de reaccionar al mismo epítopo.
+Un epítopo que puede ser atacado por muchas células B diferentes se dice que es altamente inmunogénico.
+En estos casos, las afinidades de unión para los respectivos pares de epítopo-paratopo varían, con algunos clones de células B que producen anticuerpos que se unen fuertemente al epítopo, y otros que producen anticuerpos que se unen débilmente.
+Los clones que se unen con mayor fuerza a a un epítopo particular son más comunes para ser seleccionados para una mayor proliferación en los centros germinales de folículos de varios tejidos linfático como los ganglios linfáticos. Esto no es diferente a la selección natural: los clones son seleccionados por su aptitud para atacar a los epítopos (fuerza de unión) en el patógeno encontrado.
+Lo que hace la analogía aún más fuerte es que los linfocitos B tienen que competir entre sí para las señales que promueven su supervivencia en los centros germinales.
+Aunque hay muchos diversos patógenos, muchos de los cuales están en constante mutación, es una sorpresa que la mayoría de las personas permanezcan libres de infecciones.
+Por lo tanto, el mantenimiento de la salud requiere el cuerpo para reconocer todos los patógenos (antígenos que presentan o producen) que puedan existir.
+Esto se consigue mediante el mantenimiento de una piscina inmensamente grande (alrededor de 10^9) clones de células B, cada uno de los cuales reacciona contra un epítopo específico mediante el reconocimiento y la producción de anticuerpos contra él.
+Sin embargo, en cualquier momento dado muy pocos clones siguen siendo receptivos a su epítopo específico.
+Por lo tanto, aproximadamente 10^7 diferentes epítopos pueden ser reconocidos por todos los clones combinados de células B.
+Además, en la vida, un individuo usualmente requiere de la generación de anticuerpos contra muy pocos antígenos en comparación con el número que el cuerpo puede reconocer y responder en contra.
+Si un antígeno puede ser reconocido por más de un compuesto de su estructura, es menos probable que pase "desapercibido" por el sistema inmune.
+La mutación de organismos patógenos puede dar lugar a la modificación de antígeno y, por lo tanto, el epítopo en su estructura.
+Si el sistema inmunológico "recuerda" lo que los otros epítopos parecen, el antígeno, y el organismo, todavía serán reconocidos y sometidos a la respuesta inmune del cuerpo.
+Por lo tanto, la respuesta policlonal amplía la gama de patógenos que pueden ser reconocidos.
+Muchos virus se someten a frecuentes mutaciones que resultan en cambios en la composición de aminoácidos de sus proteínas importantes.
+Los epítopos situados en la proteína también pueden someterse a alteraciones en el proceso.
+Tal epítopo alterado se une menos fuertemente con los anticuerpos específicos para el epítopo inalterado que han estimulado el sistema inmunológico.
+Esto es lamentable porque la hipermutación somática da lugar a clones capaces de producir anticuerpos solubles que se han unido al epítopo alterado suficientemente ávidos para neutralizarlo.
+Pero estos clones consistirían en células inmaduras que no se les permite proliferar por los anticuerpos de unión débil, producidos por el clon estimulado acordado previamente.
+Esta doctrina es conocida como el pecado original antigénico.
+Este fenómeno viene a jugar un papel particular en la respuesta inmune contra la influenza, el dengue y el virus VIH. Sin embargo, esta limitación no es impuesta por el fenómeno de la respuesta policlonal, sino en contra de ella, por una respuesta inmune que está sesgada a favor de las células de memoria con experiencia en contra de las células inmaduras "novatas".
+En la autoinmunidad el sistema inmune reconoce erróneamente ciertas moléculas nativas en el cuerpo como extrañas (auto-antígeno), y monta una respuesta inmune contra ellas.
+Dado que estas moléculas nativas, como partes normales del cuerpo, naturalmente, siempre existirán en el cuerpo, los ataques contra ellas pueden hacerse más fuertes con el tiempo (similar a la respuesta inmune secundaria).
+Además, muchos organismos exhiben mimetismo molecular, que involucra los antígenos en su superficie que son antigénicamente similares a las proteínas del huésped.
+Esto tiene dos posibles consecuencias: en primer lugar, ya sea el organismo se salvará como un antígeno propio; o en segundo lugar, que los anticuerpos producidos en contra también se unirán a las proteínas nativas mimetizadas.
+Los anticuerpos atacarán a los antígenos propios y los tejidos que los albergan mediante la activación de diversos mecanismos como la activación del complemento y la citotoxicidad mediada por células dependientes de anticuerpos.
+Por lo tanto, entre más amplia sea la gama de especificidades de anticuerpos, mayor es la probabilidad de que uno o el otro reaccione contra los autoantígenos (moléculas nativas del cuerpo).
+Los anticuerpos monoclonales son moléculas de inmunoglobulina estructuralmente iguales con la misma especificidad de epítopo (todos ellos se unen con el mismo epítopo con misma afinidad) no como con como sus homólogos policlonales que tienen diferentes afinidades para el mismo epítopo.
+Por lo general, no se producen en una respuesta inmune natural, solo en estados de enfermedad como el mieloma múltiple, o por medio de técnicas especializadas de laboratorio.
+Debido a su especificidad, los anticuerpos monoclonales se utilizan en ciertas aplicaciones para cuantificar o detectar la presencia de sustancias (que actúan como antígeno para los anticuerpos monoclonales), y para atacar a las células individuales (por ejemplo, células cancerosas).
+Los anticuerpos monoclonales encuentran uso en diversas modalidades de diagnóstico (véase: western blot e inmunofluorescencia) y terapias en particular de cáncer y enfermedades con componente autoinmune.
+Pero, ya que prácticamente todas las respuestas en la naturaleza son policlonales, hace que la producción de anticuerpos monoclonales inmensamente útiles sea menos complicado.
+La primera evidencia de la presencia de una sustancia neutralizante en la sangre que podría contrarrestar infecciones vino cuando Emil von Behring junto con Kitasato Shibasaburō en 1890 desarrollaron un suero eficaz contra la difteria.
+Esto se hizo mediante la transferencia de suero procedente de animales inmunizados contra la difteria a los animales que sufren de ella.
+Transferir el suero, por lo tanto podría curar los animales infectados.
+Behring fue galardonado con el Premio Nobel por este trabajo en 1901.
+En este momento, aunque la naturaleza química de lo que exactamente en la sangre confiere esta protección no se conocía.
+En las siguientes décadas, se demostró que el suero de protección podría neutralizar y precipitar toxinas, y aglutinar bacterias.
+Todas estas funciones se atribuyeron a diferentes sustancias en el suero, y nombradas en consecuencia como antitoxina, precipitina y aglutinina.
+Que las tres sustancias fueron una entidad (gamma globulinas) fue demostrado por Elvin A. Kabat en 1939.
+En el año anterior Kabat había demostrado la heterogeneidad de anticuerpos a través de estudios de ultracentrifugación de los sueros de caballos.
+Hasta este momento, la inmunidad mediada por células y la inmunidad humoral fueron consideradas teorías contendientes para explicar la respuesta inmune eficaz, se quedaron atrás debido a la falta de técnicas avanzadas.
+La inmunidad celular obtuvo un impulso en su reconocimiento y estudio, cuando en 1942, Merrill Chase, transfirió con éxito la inmunidad contra la tuberculosis entre los cerdos mediante la transferencia de las células blancas.
+Después se mostró en 1948, por Astrid Fagraeus en su tesis doctoral que las células plasmáticas se involucran específicamente en la producción de anticuerpos.
+El papel de los linfocitos en la mediación de las dos respuestas mediadas celulares y humorales fue demostrado por James Gowans en 1959.
+Con el fin de dar cuenta de la amplia gama de antígenos que el sistema inmune puede reconocer, Paul Ehrlich en 1900 se había planteado la hipótesis de que la preexistente "cadena lateral de receptores" se une a un patógeno dado, y que esta interacción induce a la célula que presenta el receptor de multiplicarse y producir más copias del mismo receptor.
+Esta teoría, llamada la teoría selectiva, no fue probado para las próximas cinco décadas, y había sido cuestionada por varias teorías de instrucción que se basan en la idea de que un anticuerpo asumiría su estructura efectiva mediante el plegado alrededor del antígeno.
+Sin embargo a finales de 1950, las obras de los tres científicos- Jerne, Talmage y Burnet (que en su mayoría modificó la teoría) dio un aumento a la teoría de la selección clonal, que probó todos los elementos de la hipótesis de Ehrlich, excepto que los receptores específicos que podrían neutralizar el agente eran solubles y no unidos a la membrana.
+La teoría de selección clonal fue probada cuando Sir Gustav Nossal mostró que cada célula B siempre produce un solo anticuerpo.
+En 1974, el papel de CMH en la presentación de antígenos, fue demostrado por Rolf Zinkernagel y Peter C. Doherty.

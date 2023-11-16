@@ -1,0 +1,4 @@
+Sentinel es un proyecto multi-satélite que será llevado a cabo en la próxima década.
+Está siendo desarrollado por la ESA en el marco del Programa Copérnico.
+Las misiones Sentinel incluyen satélites de radar y satélites de imágenes super-espectrales para la vigilancia terrestre, oceánica y atmosférica de la Tierra.
+Las misiones Sentinel tendrán los siguientes objetivos:

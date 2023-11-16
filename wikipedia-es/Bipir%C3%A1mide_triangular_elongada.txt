@@ -1,0 +1,4 @@
+En geometría, la bipirámide triangular elongada es uno de los sólidos de Johnson (J14).
+Como sugiere su nombre, puede construirse elongando una bipirámide triangular (J12) insertando un prisma triangular entre sus mitades congruentes.
+Los 92 sólidos de Johnson fueron nombrados y descritos por Norman Johnson en 1966.
+Fórmulas de la altura (H), área (A) y volumen (V) de la bipirámide triangular elongada con caras regulares (sólido de Johnson) y aristas de longitud L:

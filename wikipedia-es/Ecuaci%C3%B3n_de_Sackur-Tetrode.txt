@@ -1,0 +1,14 @@
+La ecuación de Sackur-Tetrode es una expresión para la entropía de un gas ideal clásico y monatómico que incorpora consideraciones cuánticas que dan una descripción más detallada de su régimen de validez.
+La ecuación de Sackur–Tetrode recibe su nombre en honor de Hugo Martin Tetrode (1895–1931) y Otto Sackur (1880–1914), quienes la desarrollaron al mismo tiempo de forma independiente en 1912, como una solución a la estadística de Boltzmann de un gas y a las ecuaciones de entropía.
+La ecuación de Sackur–Tetrode se puede escribir como
+La ecuación de Sackur-Tetrode puede ser expresada convenientemente en términos de la longitud de onda térmica, Λ.
+Nótese que se ha hecho la suposición de que el gas se encuentra en el régimen clásico y que se encuentra descrito por la estadística de Maxwell-Boltzmann (con el "conteo de Boltzmann corregido").
+De la definición de la longitud de onda térmica, esto significa que la ecuación de Sackur-Tetrode es válida solamente para
+De hecho, la entropía predicha por esta ecuación tiende a menos infinito conforme la temperatura tiende a cero.
+La constante de Sackur-Tetrode, escrita como S0/R, es igual a S/kN evaluada a una temperatura de T = 1 K, a presión estándar (100 kPa o 101,325 kPa), para un mol de gas ideal compuesto de partículas de masa igual a una unidad de masa atómica (mu = 1.660&thinsp;538&thinsp;782(83) kg).
+Su valor recomendado por CODATA en 2010 es:
+Además de usar la perspectiva termodinámica de la entropía, se puede usar las herramientas de la teoría de la información para obtener una perspectiva de la entropía desde el punto de vista de la información.
+El químico físico Arieh Ben-Naim reformuló la ecuación de Sackur–Tetrode para la entropía en términos de la teoría de la información, y al hacer esto, se basó en conceptos muy conocidos de la física moderna.
+Ben-Naim demostró que la ecuación consiste en la suma de cuatro entropías (información faltante), debido a la incertidumbre en la posición, en el momento, el principio de incertidumbre y la indistinguibilidad de las partículas.
+Incluyendo a k, la ecuación de Sackur–Tetrode está dada como:
+La derivación utiliza la aproximación de Stirling:

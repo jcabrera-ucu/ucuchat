@@ -1,0 +1,21 @@
+PPTP (Point to Point Tunneling Protocol) es un protocolo de comunicaciones que permite implementar redes privadas virtuales o VPN.
+Una VPN es una red privada de computadoras que usa Internet para conectar sus nodos.
+Fue desarrollado por Microsoft, U.S. Robotics, Ascend Communications, 3Com/Primary Access, ECI Telematics, conocidas colectivamente como PPTP Fórum.
+La especificación para PPTP fue publicada por el RFC 2637, aunque no ha sido ratificada como estándar por el IETF.
+Point-To-Point Tunneling Protocol (PPTP) permitía el intercambio seguro de datos de un cliente a un servidor formando una Red Privada Virtual (VPN, por el anglicismo Virtual Private Network), empleando una red de trabajo TCP/IP.
+Entre los puntos fuertes de PPTP se encuentran su facilidad de configuración en entornos Windows, su capacidad para trabajar sobre demanda, y su soporte multi-protocolo que le permite funcionar sobre infraestructuras de área de trabajo existentes como Internet o conexiones de acceso telefónico PPP.
+Esta característica permite a una compañía usar Internet para establecer una red privada virtual (VPN) sin el gasto de una línea alquilada.
+La característica que hace posible la tecnología PPTP es una extensión no estándar del protocolo de encapsulado GRE.
+Dicha tecnología PPTP dirige los paquetes IP de usuario sobre una interfaz PPP, que a su vez se encapsula en un túnel GRE, para su transmisión por la red.
+La negociación de los túneles PPP+GRE se hace mediante el canal de control PPTP en el puerto 1723 de TCP.
+PPTP y VPN:
+El protocolo Point-To-Point Tunneling Protocol venía incluido con WindowsNT 4.0 Server y Workstation.
+Los PCs que implementan este protocolo pueden usarlo para conectarse a una red privada como clientes de acceso remoto usando una red pública como Internet.
+PPTP ofrecía a las compañías reducir en un gran porcentaje el coste de distribución de una red extensa, ya que su solución de acceso remoto para usuarios móviles proporcionaba seguridad y comunicaciones cifradas sobre estructuras de área de trabajo existentes como PSTNs ( Public-Switched Telephone Networks) o Internet.
+La seguridad de PPTP ha sido completamente rota y las instalaciones con PPTP deberían ser retiradas o actualizadas a otra tecnología de VPN.
+La utilidad ASLEAP puede obtener claves de sesiones PPTP y descifrar el tráfico de la VPN.
+Los ataques a PPTP no pueden ser detectados por el cliente o el servidor porque el exploit es pasivo.
+El fallo de PPTP es causado por errores de diseño en la criptografía en los protocolos handshake LEAP de Cisco y MSCHAP-v2 de Microsoft y por las limitaciones de la longitud de la clave en MPPE.
+undefined
+La actualización de PPTP para las plataformas Microsoft viene por parte de L2TP o IPsec.
+Su adopción es lenta porque PPTP es fácil de configurar, mientras L2TP requiere certificados de clave pública, e IPsec es complejo y poco soportado por plataformas antiguas como Windows 98 y Windows Me.

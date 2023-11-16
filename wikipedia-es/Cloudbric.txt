@@ -1,0 +1,16 @@
+Cloudbric sigue el modelo seguridad como servicio o SECaaS (del inglés Security-as-a-service).
+Fue creado por Penta Security Systems y protege contra inyecciones SQL, XSS (del inglés cross-site scripting), robo de identidad o usurpación de identidad, website defacement, y ataque de denegación de servicio distribuido o DDoS, por sus siglas en inglés.
+El servicio utiliza la tecnología basada del hardware WAPPLES.
+En marzo del 2016, Penta Security Systems lanzó Cloudbric Business Edition, una solución WAF de ambientes de nube.
+Durante los primeros meses de 2015, la idea sobre qué seguridad deber ser accesible para todos fue presentada en frente de los miembros del consejo de Penta Security Systems y así fue que Cloudbric nació.
+Cloudbric fue licenciada la tecnología de WAPPLES, el Logic Analysis Engine.
+Seis meses después de su lanzamiento, Cloudbric agregó 1,227 usuarios y 75 usuarios activos.
+Desde entonces, Cloudbric ha entrado en varias partnerships con apoyo de Penta Security Systems y ha agregado una base de clientes en todas partes del mundo.
+En mayo de 2016, Cloudbric se unió con la Administración de Pequeños Negocios de los Estados Unidos (SBA) y apoyó su iniciativa para ayudar a celebrar la Semana Nacional de la Pequeña Empresa (National Small Business Week).
+En julio de 2016, Penta Security Systems se unió con GamaSec, un experto en escaneo de vulnerabilidades con sede en Israel, en un partnership para mejorar su plataforma de escaneo de vulnerabilidades con los servicios de seguridad web de Cloudbric.
+En octubre de 2016, Cloudbric fue el segundo campeón consecutivo de National Cyber Security Awareness Month (NCSAM), un esfuerzo colaborativo entre el Departamento de Seguridad Nacional de los Estados Unidos y el National Cyber Security Alliance para promover la conciencia de seguridad en la internet durante el mes de octubre.
+En el 20 de octubre de 2016, el fundador de Penta Security System comentó sobre el éxito de Cloudbric.
+El número de cuentas que utilizan Cloudbric superó recientemente 3,900 cuentas, casi el doble del número de cuentas durante el primer mes del año.
+El modelo de pricos de Cloudbric es un poco diferente que el hardware WAPPLES e cobra usuarios basados en el tráfico del sitio web en lugar de características del tipo de servicio.
+El WAF de Cloudbric funciona cambiando el registro del sistema de nombres de dominio (DNS) de un sitio web para filtrar los ataques maliciosos en el tráfico del sitio.
+Cloudbric fue nombrado Best SME Security Solution (Mejor solución de seguridad SME) durante el 2016 SC Magazine Awards en Europa.

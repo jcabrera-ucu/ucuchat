@@ -1,0 +1,54 @@
+En ingeniería eléctrica, electricidad y electrónica, el teorema de máxima transferencia de potencia establece que, dada una fuente, con una resistencia de fuente fijada de antemano, la resistencia de carga que maximiza la transferencia de potencia es aquella con un valor óhmico igual a la resistencia de fuente.
+También este ayuda a encontrar el teorema de Thevenin y Norton.
+El teorema establece cómo escoger (para maximizar la transferencia de potencia) la resistencia de carga, una vez que la resistencia de fuente ha sido fijada, no lo contrario.
+No dice cómo escoger la resistencia de fuente, una vez que la resistencia de carga ha sido fijada.
+Dada una cierta resistencia de carga, la resistencia de fuente que maximiza la transferencia de potencia es siempre cero, independientemente del valor de la resistencia de carga.
+Se dice que Moritz von Jacobi fue el primero en descubrir este resultado, también conocido como Ley de Jacobi.
+El teorema fue originalmente malinterpretado (notablemente por Joule) para sugerir que un sistema que consiste de un motor eléctrico comandado por una batería no podría superar el 50% de eficiencia pues, cuando las impedancias estuviesen adaptadas, la potencia perdida como calor en la batería sería siempre igual a la potencia entregada al motor.
+En 1880, Edison (o su colega Francis Robbins Upton) muestra que esta suposición es falsa, al darse cuenta de que la máxima eficiencia no es lo mismo que transferencia de máxima potencia.
+Para alcanzar la máxima eficiencia, la resistencia de la fuente (sea una batería o un dínamo) debería hacerse lo más pequeña posible.
+Bajo la luz de este nuevo concepto, obtuvieron una eficiencia cercana al 90% y probaron que el motor eléctrico era una alternativa práctica al motor térmico.
+En esas condiciones la potencia disipada en la carga es máxima y es igual a:
+La condición de transferencia de máxima potencia no resulta en eficiencia máxima.
+Si definimos la eficiencia como la relación entre la potencia disipada por la carga y la potencia generada por la fuente, se calcula inmediatamente del circuito de arriba que
+La eficiencia cuando hay adaptación es de solo 50%.
+Para tener eficiencia máxima, la resistencia de la carga debe ser infinitamente más grande que la resistencia del generador.
+Por supuesto en ese caso la potencia transferida tiende a cero.
+Cuando la resistencia de la carga es muy pequeña comparada a la resistencia del generador, tanto la eficiencia como la potencia transferida tienden a cero.
+En la curva de la derecha hemos representado la potencia transferida relativa a la máxima posible (cuando hay adaptación) con respecto al cociente entre la resistencia de carga y la del generador.
+Se supone que las reactancias están compensadas completamente.
+Nótese que el máximo de la curva no es crítico.
+Cuando las dos resistencias están desadaptadas de un factor 2, la potencia transferida es aún 89% del máximo posible.
+Cuando la impedancia de la fuente es una resistencia pura (sin parte reactiva), la adaptación se hace con una resistencia y es válida para todas las frecuencias.
+En cambio, cuando la impedancia de la fuente tiene una parte reactiva, la adaptación solo se puede hacer a una sola frecuencia.
+Si la parte reactiva es grande (comparada a la parte resistiva), la adaptación será muy sensible a la frecuencia, lo que puede ser un inconveniente.
+La adaptación de impedancias es importante en dos situaciones.
+La primera ocurre en bajas potencias, cuando la señal recibida en la entrada de un amplificador es muy baja y próxima del nivel del ruido eléctrico del amplificador.
+Si la transferencia de señal no es óptima, la relación señal/ruido empeorará.
+Encontramos esta situación, por ejemplo, en la recepción de bajas señales radioeléctricas.
+Es interesante que el cable que conecta la antena al receptor esté adaptado en las dos extremidades para maximizar la potencia transferida de la antena al cable y luego del cable al receptor.
+Otra situación en la cual la adaptación de impedancias es trascendental ocurre en sistemas de alta frecuencia.
+Por ejemplo en un transmisor operando a frecuencias de microondas, constituido (entre otros elementos) por un generador, una guía de ondas y una antena.
+Si la guía de ondas y la antena no están adaptadas, una parte de la potencia incidente en la antena se reflejará y creará una onda estacionaria en la guía.
+Si la desadaptación es apreciable, y la potencia transmitida es suficientemente alta, la fuente puede dañarse por la onda reflejada.
+En la práctica se utilizan adicionalmente protecciones entre la fuente y la guía de ondas, de modo que señales reflejadas desde la carga sean atenuadas.
+No se debe pensar que, en todas las situaciones, lo ideal es que las impedancias de la fuente y de la carga estén adaptadas.
+En muchos casos, la adaptación es perjudicial y hay que evitarla.
+La razón es que, como se ha explicado antes, cuando hay adaptación, la potencia disipada en la carga es igual a la potencia disipada en la resistencia de la impedancia de la fuente.
+La adaptación corresponde a un rendimiento energético máximo de 50%.
+Si se quiere un buen rendimiento hace falta que la resistencia de la fuente sea despreciable respecto a la resistencia de la carga.
+Un ejemplo es el de la producción y la distribución de energía eléctrica por las compañías de electricidad.
+Si los generadores de las compañías estuviesen adaptados a la red de distribución, la mitad de la potencia generada por las compañías serviría solo a calentar los generadores... y a fundirlos.
+También, si su lámpara de escritorio estuviese adaptada a la red, consumiría la mitad de la potencia generada por la compañía de electricidad.
+Tomemos otro ejemplo menos caricatural: el de un emisor de radio conectado a la antena a través de un cable.
+Si la adaptación del cable a la antena es deseable (para que no haya ondas reflejadas), es mejor evitar la adaptación del cable al emisor.
+Si el emisor estuviese adaptado, la mitad de la potencia generada por el emisor se perdería en la resistencia interna de este último.
+Lo mejor es que la resistencia interna del emisor sea lo más pequeña posible.
+Hay otros casos en los cuales la adaptación es simplemente imposible.
+Por ejemplo, la resistencia interna de una antena de automóvil en ondas largas y ondas medias es muy pequeña (unos miliohmios).
+No es posible adaptar ni el cable ni el receptor a la antena.
+Pero eso no impide el funcionamiento de los auto-radios.
+Otro caso corriente en el cual la adaptación de la antena al receptor y al emisor es imposible es el de los teléfonos celulares.
+Como la impedancia de la antena depende la posición de la cabeza y de la mano del usuario, la adaptación en todas circunstancias es imposible, pero eso no les impide funcionar.
+Maximum power transfer theorem
+Maksimitehonsiirtolause

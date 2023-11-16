@@ -1,0 +1,7 @@
+Peter Mattis es un programador conocido por su trabajo en la primera versión del programa de creación y manipulación gráfica GIMP.
+En 1995, siendo estudiantes de la Universidad de Berkeley (California), Mattis y su compañero de estudios Spencer Kimball desarrollaron la primera versión de GIMP como proyecto de clase.
+Los dos eran miembros del Club de Estudiantes de Berkeley llamado eXperimental Computer Facility (XCF).
+En 1999 Mattis explicó de qué se encargó él en ese primer desarrollo del programa:
+Sobre lo que le motiva a programar software libre y sobre la durabilidad del mismo dijo:
+También trabajó junto a Spencer Kimball en el desarrollo del Google Servlet Engine.
+Actualmente trabaja para Square, Inc..

@@ -1,0 +1,11 @@
+La metaloproteinasa o metaloproteasa es una enzima que genera proteólisis (proteasas), y que en su funcionamiento es necesaria la presencia de metales como átomos de zinc o cobalto.
+Adicionalmente, se encuentran las metaloproteinasas de matriz que son enzimas que pueden descomponer colágeno, que se encuentra en los espacio entre las células de los tejidos.
+Estas son relevantes en la participación de procesos como curación de heridas, la angiogénesis y la metástasis de células tumorales.
+Las metaloproteasas coordinan la proteína con el ion metalo por medio de tres ligandos.
+Estos ligandos son aminoácidos que pueden variar entre histidina, glutamato, aspartato, lisina y arginina.
+Además, la molécula de agua que se utiliza para la proteólisis está unida con el ion metálico en el centro catalítico de la enzima.
+Y se pueden clasificar en endo- o exopeptidos de acuerdo a si la proteína es clivada al final o no.
+Se ha encontrado que esta proteína está ligada a la aparición de cáncer.
+Ya que la expresión de las metaloproteinasas se encuentra en niveles aumentados en los tumores humanos y asociados a la metástasis de estos.
+Es por esto que se ha intentado tomar estas proteínas como tratamiento de cáncer al inhibir su expresión, pero estas enzimas además son intermediarios de funciones celulares dentro del tejido normal, lo que ha impedido el desarrollo del tratamiento.
+Se relaciona con placas ateroescleróticas en la producción de placas vulnerables por las metaloproteinasas.

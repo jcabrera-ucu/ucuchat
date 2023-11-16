@@ -1,0 +1,21 @@
+En combinatoria y ciencias de la computación, los problemas de cobertura son problemas computacionales que preguntan si una determinada estructura combinatoria 'cubre' a otra, o qué tan grande debe ser la estructura para hacer eso.
+Los problemas de cobertura son problemas de minimización y, por lo general, programas lineales, cuyos problemas duales se denominan problemas de empaque.
+Los ejemplos más destacados de problemas de cobertura son el problema de cobertura de conjuntos, que es equivalente al problema de acierto de conjuntos, y sus casos especiales, el problema de cobertura de vértices y el problema de cobertura de bordes.
+En el contexto de la programación lineal, se puede pensar en cualquier programa lineal como un problema de cobertura si los coeficientes de la matriz de restricción, la función objetivo y el lado derecho no son negativos.
+Más precisamente, considere el siguiente programa lineal de enteros general:
+Tal programa lineal de enteros se llama problema de cobertura si para todo i=1,\dots,n y j=1,\dots,m.
+Intuición: suponga tener n tipos de objeto y cada objeto de tipo i tiene un costo asociado de c_i.
+El número x_i indica cuántos objetos de tipo i compramos.
+Si las restricciones están satisfechos, se dice que \mathbf{x} es una cobertura (las estructuras que se cubren dependen del contexto combinatorio).
+Finalmente, una solución óptima para el programa lineal de enteros anterior es una cobertura de costo mínimo.
+Hay varios tipos de problemas de cobertura en teoría de grafos, geometría computacional y más.
+En el caso de las redes de Petri, por ejemplo, el problema de la cobertura se define como la cuestión de si para una marca determinada existe un recorrido de la red, de modo que se pueda alcanzar una marca mayor (o igual).
+Más grande significa aquí que todos los componentes son al menos tan grandes como los de la marca dada y al menos uno es adecuadamente más grande.
+En algunos problemas de cobertura, la cobertura debería satisfacer algunos requisitos adicionales.
+En particular, en el problema de la cubierta del arco iris, cada uno de los objetos originales tiene un "color", y se requiere que la cubierta contenga exactamente un (o como mucho uno) objeto de cada color.
+Se estudió la cobertura del arco iris, por ejemplo, para cubrir puntos por intervalos:
+El problema es NP-duro (por reducción de SAT lineal).
+Una noción más general es cobertura libre de conflictos.
+En este problema:
+El problema de la cobertura de conjunto libre de conflictos es el problema de encontrar un subconjunto libre de conflictos de O que es una cubierta de P.
+Banik, Panolan, Raman, Sahlot y Saurabh  prueban lo siguiente para el caso especial en el que el gráfico de conflicto tiene arboricidad limitada:

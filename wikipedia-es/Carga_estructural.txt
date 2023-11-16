@@ -1,0 +1,40 @@
+Una carga estructural o acción estructural es una fuerza, deformación o aceleración aplicados sobre un elemento estructural.
+Una carga puede provocar tensiones, deformaciones y desplazamientos en una estructura.
+El análisis estructural, una disciplina que forma parte de la ingeniería, estudia los efectos de las cargas sobre las estructuras y sobre sus elementos estructurales.
+El exceso de carga puede causar fallos estructurales, por lo que esta circunstancia debe considerarse y controlarse durante el diseño de una estructura.
+Estructuras mecánicas particulares, como aeronaves, satélites artificiales, cohetes, estaciones espaciales, barcos y submarinos, están sujetas a sus propias cargas y acciones estructurales particulares.
+Los ingenieros a menudo evalúan las cargas estructurales en función de los reglamentos, contratos o especificaciones publicados.
+Las normas aceptadas se utilizan para realizar pruebas de validación y de inspección.
+Las cargas estructurales son una consideración importante en el diseño de edificios.
+Los códigos de edificación requieren que las estructuras se diseñen y construyan para resistir de manera segura todas las acciones que puedan recibir durante su vida útil, mientras permanecen aptas para su uso.
+Las cargas o acciones mínimas se especifican en estos códigos de construcción para distintos tipos de estructuras, ubicaciones geográficas, uso y materiales de construcción.
+Las cargas estructurales se dividen en categorías según las causas de su origen.
+En términos de la carga real en una estructura, no hay diferencia entre carga muerta o viva, pero la división se produce para su uso en cálculos de seguridad o para facilitar el análisis en modelos complejos.
+Para cumplir con el requisito de que la resistencia de diseño sea mayor que las cargas máximas, los códigos de construcción prescriben que, para el diseño estructural, las cargas se incrementan por factores de carga (coeficientes de seguridad).
+Estos coeficientes de carga son, aproximadamente, una relación entre la resistencia de diseño teórico y la carga máxima esperada en servicio.
+Están desarrollados para ayudar a lograr el nivel deseado de fiabilidad de una estructura basados ​​en estudios probabilísticos que toman en cuenta la causa, recurrencia, distribución y naturaleza estática o dinámica de la carga.
+La carga muerta incluye cargas que son relativamente constantes en el tiempo, incluido el peso de la estructura en sí misma (denominado "`peso propio"), y accesorios inamovibles como las paredes, los tabiques o los pavimentos.
+El techo o tejado también es una carga muerta.
+También se conocen como cargas permanentes o estáticas.
+Los materiales de construcción no se consideran cargas muertas hasta que se utilizan en una construcción y quedan fijados en una posición permanente.
+En la norma IS875 (parte 1)-1987 figuran los pesos unitarios de los distintos materiales, piezas y componentes de construcción.
+Las cargas vivas, o cargas impuestas, son temporales, de corta duración o cargas móviles.
+Estas cargas dinámicas pueden involucrar consideraciones como impacto, cantidad de movimiento, vibración, dinámica de fluidos y fatiga de materiales.
+Las cargas vivas, a veces también denominadas cargas probabilísticas, incluyen todas las fuerzas que son variables dentro del ciclo de operación normal del objeto, sin incluir las cargas de construcción o ambientales.
+Las cargas vivas del techo y el suelo son generadas durante el mantenimiento por parte de los trabajadores, el equipo y los materiales, y durante la vida útil de la estructura por los objetos móviles, como jardineras y personas.
+Las cargas vivas de un puente son producidas por los peatones y por los vehículos que circulan por su tablero.
+Las cargas ambientales son cargas estructurales causadas por fuerzas naturales como el viento, la lluvia, la nieve, los terremotos o las temperaturas extremas.
+Los ingenieros también deben estar al tanto de otras acciones que pueden afectar una estructura, como:
+Se produce una combinación de carga cuando se considera que actúan simultáneamente más de un tipo de cargas sobre una estructura.
+Los códigos de edificación generalmente especifican diversas combinaciones de carga junto con coeficientes de carga (ponderaciones) para cada tipo de carga con el fin de garantizar la seguridad de la estructura bajo diferentes escenarios de carga máxima esperada.
+Por ejemplo, al diseñar una escalera, un factor de carga muerta puede ser 1.2 veces el peso de la estructura, y un factor de carga viva puede ser 1.6 veces la carga viva máxima esperada.
+Estas dos "cargas factorizadas" se combinan (agregan) para determinar la "resistencia requerida" de la escalera.
+La razón de la disparidad entre los factores de carga muerta y de carga viva, es decir, la razón por la que las cargas se clasifican inicialmente como muertas o vivas, es debido a que si bien no es descabellado esperar que una gran cantidad de personas suban la escalera a la vez, es menos probable que la estructura experimente muchos cambios en su carga permanente.
+En el caso de las aeronaves, la carga se divide en dos categorías principales: cargas límite y cargas últimas.
+Las cargas límite son las cargas extremas que un componente o estructura puede transportar de forma segura.
+Las cargas últimas son las cargas límite multiplicadas por un factor de 1,5 o el punto más allá del cual fallará el componente o la estructura.
+Las cargas instantáneas se determinan estadísticamente y son proporcionadas por una agencia como la Administración Federal de Aviación.
+Las cargas de choque están vagamente limitadas por la capacidad de las estructuras para sobrevivir a la aceleración generada por un impacto contra el suelo importante.
+Otras cargas que pueden ser críticas son las cargas de presión (para aeronaves presurizadas a gran altitud) y las cargas sobre el suelo.
+Las cargas en el suelo pueden deberse a frenadas o maniobras adversas durante las carreras de maniobra.
+Las aeronaves están sometidas constantemente a cargas cíclicas, que pueden causar fatiga de los materiales metálicos.

@@ -1,0 +1,131 @@
+Se dice que una reacción química única es autocatalítica si uno de los productos de reacción es también un catalizador para la misma reacción o una reacción acoplada.
+Tal reacción se llama reacción autocatalítica.
+Se puede decir que un conjunto de reacciones químicas es "colectivamente autocatalítico" si varias de esas reacciones producen, como productos de reacción, catalizadores de suficientes otras reacciones para que todo el conjunto de reacciones químicas sea autosuficiente dado un aporte de energía y moléculas alimenticias (ver conjunto autocatalítico).
+Una reacción química de dos reactivos y dos productos se puede escribir como
+donde las letras griegas son coeficientes estequiométricos y las letras latinas mayúsculas representan especies químicas.
+La reacción química procede tanto en dirección hacia adelante como hacia atrás.
+Esta ecuación se generaliza fácilmente a cualquier cantidad de reactivos, productos y reacciones.
+En el equilibrio químico, las velocidades de reacción directa e inversa son tales que cada especie química se crea al mismo ritmo que se destruye.
+En otras palabras, la velocidad de la reacción directa es igual a la velocidad de la reacción inversa.
+Aquí, los paréntesis indican la concentración de la especie química, en moles por litro, y k+ y k- son constantes de velocidad.
+Lejos del equilibrio, las velocidades de reacción directa e inversa ya no se equilibran y la concentración de reactivos y productos ya no es constante.
+Por cada reacción hacia adelante \alpha Las moléculas de A son destruidas.
+Por cada reacción inversa \alpha Se crean moléculas de A. En el caso de un paso de reacción elemental, el orden de reacción en cada dirección es igual a la molecularidad, de modo que la tasa de cambio en el número de moles de A es entonces
+Este sistema de ecuaciones tiene un único punto fijo estable cuando las tasas directas y las tasas inversas son iguales (cuando para cada especie).
+Esto significa que el sistema evoluciona al estado de equilibrio, y este es el único estado al que evoluciona.
+Las reacciones autocatalíticas son aquellas en las que al menos uno de los productos es un reactivo.
+Quizás se pueda escribir la reacción autocatalítica más simple.
+con las ecuaciones de velocidad (para una reacción elemental)
+En esta reacción, una molécula de la especie A interactúa con una molécula de la especie B. La molécula A se convierte en una molécula B. El producto final consiste en la molécula B original más la molécula B creada en la reacción.
+La característica clave de estas ecuaciones de velocidad es que no son lineales; el segundo término a la derecha varía según el cuadrado de la concentración de B. Esta característica puede conducir a múltiples puntos fijos del sistema, al igual que una ecuación cuadrática puede tener múltiples raíces.
+Múltiples puntos fijos permiten múltiples estados del sistema.
+Un sistema existente en múltiples estados macroscópicos es más ordenado (tiene una entropía más baja) que un sistema en un solo estado.
+Las concentraciones de A y B varían en el tiempo de acuerdo con
+y
+El gráfico para estas ecuaciones es una curva sigmoidea (específicamente una función logística), que es típica de las reacciones autocatalíticas: estas reacciones químicas proceden lentamente al comienzo (el período de inducción) porque hay poco catalizador presente, la velocidad de reacción aumenta progresivamente a medida que la reacción continúa a medida que aumenta la cantidad de catalizador y luego se ralentiza nuevamente a medida que disminuye la concentración de reactivo.
+Si la concentración de un reactivo o producto en un experimento sigue una curva sigmoidea, la reacción puede ser autocatalítica.
+Estas ecuaciones cinéticas se aplican, por ejemplo, a la hidrólisis catalizada por ácido de algunos ésteres a ácidos carboxílicos y alcoholes.
+Debe haber al menos algo de ácido presente inicialmente para iniciar el mecanismo catalizado; si no, la reacción debe comenzar por un camino alternativo no catalizado que generalmente es más lento.
+Las ecuaciones anteriores para el mecanismo catalizado implicarían que la concentración del producto ácido permanece cero para siempre.
+La segunda ley de la termodinámica establece que el trastorno (entropía) de un sistema físico o químico y sus alrededores (un sistema cerrado) debe aumentar con el tiempo.
+Los sistemas que se dejan solos se vuelven cada vez más aleatorios, y la energía ordenada de un sistema como el movimiento uniforme se degrada eventualmente al movimiento aleatorio de las partículas en un baño de calor.
+Sin embargo, hay muchos casos en los que los sistemas físicos se vuelven emergentes u ordenados espontáneamente.
+Por ejemplo, a pesar de la destrucción que causan, los huracanes tienen un movimiento de vórtice muy ordenado en comparación con el movimiento aleatorio de las moléculas de aire en una habitación cerrada.
+Aún más espectacular es el orden creado por los sistemas químicos; El más dramático es el orden asociado con la vida.
+Esto es consistente con la Segunda Ley, que requiere que el desorden total de un sistema y sus alrededores aumente con el tiempo.
+El orden se puede crear en un sistema mediante una disminución aún mayor en el orden de los alrededores del sistema.
+En el ejemplo de los huracanes, los huracanes se forman a partir de un calentamiento desigual dentro de la atmósfera.
+La atmósfera de la Tierra está lejos del equilibrio térmico.
+El orden de la atmósfera de la Tierra aumenta, pero a expensas del orden del sol.
+El sol se está volviendo más desordenado a medida que envejece y arroja luz y material al resto del universo.
+El desorden total del sol y la tierra aumenta a pesar del hecho de que se generan huracanes ordenados en la tierra.
+Un ejemplo similar existe para los sistemas químicos vivos.
+El sol proporciona energía a las plantas verdes.
+Las plantas verdes son alimento para otros sistemas químicos vivos.
+La energía absorbida por las plantas y convertida en energía química genera un sistema en la tierra que está ordenado y lejos del equilibrio químico.
+Aquí, la diferencia del equilibrio químico está determinada por un exceso de reactivos sobre la cantidad de equilibrio.
+Una vez más, el orden en la tierra se genera a expensas del aumento de entropía del sol.
+La entropía total de la tierra y el resto del universo aumenta, de acuerdo con la Segunda Ley.
+Algunas reacciones autocatalíticas también generan orden en un sistema a expensas de su entorno.
+Por ejemplo, (reacciones reloj) tienen intermedios cuyas concentraciones oscilan en el tiempo, correspondiente al orden temporal.
+Otras reacciones generan separación espacial de especies químicas correspondientes al orden espacial.
+Las reacciones más complejas están involucradas en las rutas metabólicas y las redes metabólicas en los sistemas biológicos.
+La transición al orden a medida que aumenta la distancia desde el equilibrio no suele ser continua.
+El orden generalmente aparece abruptamente.
+El umbral entre el trastorno del equilibrio químico y el orden se conoce como transición de fase.
+Las condiciones para una transición de fase se pueden determinar con la maquinaria matemática de la termodinámica del no equilibrio.
+Una reacción química no puede oscilar sobre una posición de equilibrio final porque la segunda ley de la termodinámica requiere que un sistema termodinámico se acerque al equilibrio y no retroceda.
+Para un sistema cerrado a temperatura y presión constantes, la energía libre de Gibbs debe disminuir continuamente y no oscilar.
+Sin embargo, es posible que las concentraciones de algunos intermedios de reacción oscilen, y también que oscile la velocidad de formación de productos.
+Considere un conjunto acoplado de dos reacciones autocatalíticas en las que la concentración de uno de los reactivos A es mucho mayor que su valor de equilibrio.
+En este caso, la velocidad de reacción directa es mucho mayor que la velocidad inversa que podemos descuidar las velocidades inversas.
+con las ecuaciones de velocidad
+Aquí, hemos descuidado el agotamiento del reactivo A, ya que su concentración es muy grande.
+Las constantes de velocidad para las tres reacciones son k_1, k_2 y k_3, respectivamente.
+Este sistema de ecuaciones de velocidad se conoce como la ecuación de Lotka-Volterra y se asocia más estrechamente con la dinámica de la población en las relaciones depredador-presa.
+Este sistema de ecuaciones puede producir concentraciones oscilantes de los intermedios de reacción X e Y. La amplitud de las oscilaciones depende de la concentración de A (que disminuye sin oscilación).
+Tales oscilaciones son una forma de orden temporal emergente que no está presente en equilibrio.
+Otro ejemplo de un sistema que demuestra el orden temporal es el Brusselator (consulte la referencia de Prigogine).
+Se caracteriza por las reacciones.
+con las ecuaciones de velocidad
+donde, por conveniencia, las constantes de velocidad se han establecido en 1.
+El Brusselator tiene un punto fijo en
+El punto fijo se vuelve inestable cuando
+conduciendo a una oscilación del sistema.
+A diferencia de la ecuación de Lotka-Volterra, las oscilaciones del Brusselator no dependen de la cantidad de reactivo presente inicialmente.
+En cambio, después de un tiempo suficiente, las oscilaciones se acercan a un ciclo límite.
+Un ejemplo idealizado de ruptura espacial de simetría espontánea es el caso en el que tenemos dos cajas de material separadas por una membrana permeable para que el material pueda difundirse entre las dos cajas.
+Se supone que hay Brusselators idénticos en cada caja con condiciones iniciales casi idénticas.
+Aquí, los subíndices numéricos indican en qué caja está el material.
+Hay términos adicionales proporcionales al coeficiente de difusión D que explican el intercambio de material entre cajas.
+Si el sistema se inicia con las mismas condiciones en cada caja, entonces una pequeña fluctuación conducirá a la separación de materiales entre las dos cajas.
+Una caja tendrá un predominio de X y la otra tendrá un predominio de Y.
+Ejemplos reales de reacciones de reloj son la reacción de Belousov-Zhabotinsky (reacción BZ), la reacción de Briggs-Rauscher, la reacción de Bray-Liebhafsky y la reacción del reloj de yodo.
+Estas son reacciones oscilatorias, y la concentración de productos y reactivos se puede aproximar en términos de oscilaciones amortiguadas.
+La reacción más conocida, la reacción BZ, se puede crear con una mezcla de bromato de potasio ácido malónico  y sulfato de manganeso preparado en una solución calentada con ácido sulfúrico como solvente.
+Otro sistema autocatalítico es uno impulsado por luz acoplada a reacciones de fotopolimerización.
+En un proceso denominado autocatálisis óptica, se crea una retroalimentación positiva entre la intensidad de la luz y la tasa de fotopolimerización, a través de aumentos inducidos por la polimerización en el índice de refracción.
+La preferencia de la luz por ocupar regiones de mayor índice de refracción da como resultado una fuga de luz en regiones de mayor peso molecular, lo que amplifica la reacción fotoquímica.
+La retroalimentación positiva puede expresarse como:
+Observando que la tasa de fotopolimerización es proporcional a la intensidad y que el índice de refracción es proporcional al peso molecular, la retroalimentación positiva entre intensidad y fotopolimerización establece el comportamiento autocatalítico.
+Se ha demostrado que la autocatálisis óptica da como resultado la formación de patrones espontáneos en fotopolímeros.
+Hosein y sus colegas descubrieron que la autocatálisis óptica también puede ocurrir en mezclas de polímeros fotorreactivos, y que el proceso puede inducir morfologías de fase binaria con el mismo patrón que el perfil de luz.
+La luz sufre inestabilidad de modulación óptica, división espontánea en una multitud de filamentos ópticos, y el sistema polimérico forma filamentos dentro de la estructura de la mezcla.
+El resultado es un nuevo sistema que combina el comportamiento óptico autocatalítico con la descomposición espinodal.
+Se sabe que un ciclo metabólico importante, la glucólisis, muestra un orden temporal.
+La glucólisis consiste en la degradación de una molécula de glucosa y la producción general de dos moléculas de ATP.
+Por lo tanto, el proceso es de gran importancia para la energía de las células vivas.
+La reacción de glucólisis global involucra glucosa, ADP, NAD, piruvato, ATP y NADH.
+Los detalles del proceso están bastante involucrados, sin embargo, una sección del proceso es autocatalizada por la fosfofructoquinasa (PFK).
+Esta parte del proceso es responsable de las oscilaciones en la ruta que conducen al proceso que oscila entre una forma activa y otra inactiva.
+Por lo tanto, la reacción autocatalítica puede modular el proceso.
+Es posible utilizar los resultados de una reacción autocatalítica junto con la teoría del sistema de reacción-difusión para adaptar el diseño de una capa delgada.
+El proceso autocatalítico permite controlar el comportamiento no lineal del frente de oxidación, que se utiliza para establecer la geometría inicial necesaria para generar la geometría final arbitraria.
+Se ha realizado con éxito en la oxidación húmeda de   para obtener capas de formas arbitrarias de  AlO_x.
+Las cantidades iniciales de reactivos determinan la distancia desde un equilibrio químico del sistema.
+Cuanto mayores sean las concentraciones iniciales, más lejos está el sistema del equilibrio.
+A medida que aumenta la concentración inicial, se produce un cambio brusco en el orden.
+Este cambio abrupto se conoce como transición de fase.
+En la transición de fase, las fluctuaciones en las cantidades macroscópicas, como las concentraciones químicas, aumentan a medida que el sistema oscila entre el estado más ordenado (entropía más baja, como el hielo) y el estado más desordenado (entropía más alta, como el agua líquida).
+Además, en la transición de fase, las ecuaciones macroscópicas, como las ecuaciones de velocidad, fallan.
+Las ecuaciones de velocidad pueden derivarse de consideraciones microscópicas.
+Las derivaciones generalmente se basan en una aproximación de la teoría del campo medio a las ecuaciones dinámicas microscópicas.
+La teoría del campo medio se descompone en presencia de grandes fluctuaciones (ver el artículo sobre la teoría del campo medio para una discusión).
+Por lo tanto, dado que ocurren grandes fluctuaciones en la vecindad de una transición de fase, las ecuaciones macroscópicas, como las ecuaciones de velocidad, fallan.
+A medida que la concentración inicial aumenta aún más, el sistema se instala en un estado ordenado en el que las fluctuaciones son nuevamente pequeñas.
+(ver referencia de Prigogine)
+La autocatálisis asimétrica ocurre cuando el producto de reacción es quiral y por lo tanto actúa como un catalizador quiral para su propia producción.
+Las reacciones de este tipo, como la reacción de Soai, tienen la propiedad de que pueden amplificar un exceso enantiomérico muy pequeño en uno grande.
+Esto se ha propuesto como un paso importante en el origen de la homoquiralidad biológica.
+En 1995, Stuart Kauffman propuso que la vida surgió inicialmente como redes químicas autocatalíticas.
+El etólogo británico Richard Dawkins escribió sobre la autocatálisis como una posible explicación para la abiogénesis en su libro de 2004 The Ancestor's Tale.
+Cita experimentos realizados por Julius Rebek y sus colegas en el Instituto de Investigación Scripps en California, en los que combinaron amino adenosina y éster de pentafluorofenilo con el autocatalizador amino adenosina triacid éster (AATE).
+Un sistema del experimento contenía variantes de AATE que catalizaban la síntesis de ellos mismos.
+Este experimento demostró la posibilidad de que los autocatalizadores pudieran exhibir competencia dentro de una población de entidades con herencia, lo que podría interpretarse como una forma rudimentaria de selección natural, y que ciertos cambios ambientales (como la irradiación) podrían alterar la estructura química de algunos de estos -replicar moléculas (un análogo para la mutación) de tal manera que podría aumentar o interferir con su capacidad de reacción, lo que aumenta o interfiere con su capacidad de replicarse y extenderse en la población.
+La autocatálisis desempeña un papel importante en los procesos de la vida.
+Dos investigadores que han enfatizado su papel en los orígenes de la vida son Robert Ulanowicz y Stuart Kauffman.
+La autocatálisis ocurre en las transcripciones iniciales de ARNr.
+Los intrones son capaces de escindirse por el proceso de dos reacciones de transesterificación nucleofílica.
+El ARN capaz de hacer esto a veces se denomina ribozima.
+Además, el ciclo del ácido cítrico es un ciclo autocatalítico que se ejecuta a la inversa.
+En última instancia, el metabolismo biológico mismo puede verse como un vasto conjunto autocatalítico, ya que todos los componentes moleculares de una célula biológica se producen por reacciones que involucran a este mismo conjunto de moléculas.

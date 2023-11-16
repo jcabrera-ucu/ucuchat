@@ -1,0 +1,5 @@
+The Whetstone of Witte (literalmente, La piedra de afilar de Witte) es el título abreviado de un libro de Robert Recorde de matemáticas que fue publicado en 1557.
+El título completo es The Whetstone of Witte, which is the seconde parte of Arithmeteke: containing the extraction of rootes; the cossike practise, with the rule of equation; and the workes of Surde Nombers (La piedra de afilar de Witte, que es la segunda parte de la aritmética que contiene la extracción de las raíces, la práctica cosista, con la regla de la ecuación, y los trabajos de números irracionales).
+El libro cubre temas tales como los números enteros, la extracción de las raíces y los números irracionales.
+La obra es notable por contener el primer uso del signo igual y también por ser el primer libro en inglés en usar los signos más y menos.
+Sin embargo, la exponenciación se caracteriza por un empleo engorroso de la notación matemática en la que los índices y los irracionales son representados por sus factores primos (véase la notación del primer exponente del factor).

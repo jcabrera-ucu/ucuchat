@@ -1,0 +1,47 @@
+El Mega Sky 55801, comercializado como el Mega Sky 580 es una tarjeta sintonizadora de televisión DVB-T con conexión USB 2.0 creado y comercializado por MSI.
+Se entrega con una antena portátil bastante más gruesa que la mayoría de competidores, un adaptador de antena y un CD-ROM con drivers, el programa sintonizador Presto!
+PVR 5.0 de NewSoft y DirectX 9.0c
+El dispositivo es soportado por GNU/Linux desde el kernel 2.6.21.
+También hay una versión del Mega Sky 580 que utiliza un desmodulador Zarlink MT352 y requiere un firmware para Linux.
+Bus 001 Device 007: ID 0db0:5581 Micro Star International Mega Sky 5580 DVB-T Tuner
+Device Descriptor:
+bLength               18
+bDescriptorType        1
+bcdUSB              2.00
+bDeviceClass           0 (Defined at Interface level)
+bDeviceSubClass        0
+bDeviceProtocol        0
+bMaxPacketSize0       64
+idVendor          0x0db0 Micro Star International
+idProduct         0x5581 Mega Sky 5580 DVB-T Tuner
+bcdDevice           1.02
+iManufacturer          2 PC-DTV Receiver
+iProduct               3 PC-DTV Receiver
+iSerial                4 00000001
+bNumConfigurations     1
+Configuration Descriptor:
+bLength                9
+bDescriptorType        2
+wTotalLength          80
+bNumInterfaces         2
+bConfigurationValue    1
+iConfiguration         0
+bmAttributes        0xa0
+(Bus Powered)
+Remote Wakeup
+MaxPower             500mA
+Oficialmente requiere de un compatible IBM PC con puerto USB 2.0 o superior, con un microprocesador Intel Pentium III o Intel Celeron con núcleo Coppermine-128, a 800 MHz o AMD Athlon o AMD Duron o equivalentes x86.
+No se ha reportado su uso con otros procesadores y/o plataformas, pero al estar soportado en Linux cabe la posibilidad de su uso.
+Requiere de Windows 2000 SP4 o Windows XP SP2 o superior, siendo soportado por Windows Media Center, un mínimo de 256 MiB de memoria RAM (2000/XP) y una Tarjeta gráfica con 32 MiB de VRAM o superior compatible con DirectX 9.0c (incluido en el CD-ROM de soporte), lectora de CD-ROM (para la instalación del software) y 1 GiB de espacio libre en el disco duro para programa y drivers.
+Soportado desde 2.6.21, requiere un Núcleo Linux 2.6.23 para funcionar correctamente, no precisando firmware.
+No obstante la combinación QT1010+ZL10353 es problemática.
+si se producen problemas en la recepción, probar a reducir la fuerza de la señal, desconectando amplificadores o utilizando un atenuador de señal.
+[ 6413.760114] usb 1-1: new high speed USB device using ehci_hcd and address 7
+[ 6413.967529] usb 1-1: configuration #1 chosen from 1 choice
+[ 6413.970611] dvb-usb: found a 'MSI Mega Sky 55801 DVB-T USB2.0' in warm state.
+[ 6413.970682] dvb-usb: will pass the complete MPEG2 transport stream to the software demuxer.
+[ 6413.975257] DVB: registering new adapter (MSI Mega Sky 55801 DVB-T USB2.0)
+[ 6413.986510] DVB: registering adapter 2 frontend 0 (Zarlink ZL10353 DVB-T)... [ 6414.014463] Quantek QT1010 successfully identified.
+[ 6414.014478] dvb-usb: MSI Mega Sky 55801 DVB-T USB2.0 successfully initialized and connected.
+[ 6414.036228] input: PC-DTV Receiver PC-DTV Receiver as /devices/pci0000:00/0000:00:02.1/usb1/1-1/1-1:1.1/input/input13
+[ 6414.036405] generic-usb 0003:0DB0:5581.0006: input,hidraw0: USB HID v1.01 Keyboard [PC-DTV Receiver PC-DTV Receiver] on usb-0000:00:02.1-1/input1

@@ -1,0 +1,4 @@
+El Número de Stokes (Stk) es un número adimensional definido como el cociente entre la distancia de parada de una partícula y la dimensión característica del obstáculo.
+Caracteriza el comportamiento de las partículas suspendidas en un flujo.
+El número de Stokes es llamado así en honor al matemático irlandés George Gabriel Stokes
+El número de Stokes se define como:

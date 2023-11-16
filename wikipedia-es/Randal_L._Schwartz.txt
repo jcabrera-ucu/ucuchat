@@ -1,0 +1,17 @@
+Randal L. Schwartz (nacido el 22 de noviembre de 1961), también conocido como merlyn, es un autor, administrador de sistemas y consultor de programación estadounidense.
+Es conocido por su experiencia en el lenguaje de programación Perl, su papel promocional en la comunidad de Perl, como co-anfitrión del FLOSS Weekly, y por una controvertida condena por un delito grave resultante del Estado de Oregón vs. Randal Schwartz, más tarde oficialmente anulado.
+Schwartz es coautor de varios libros muy utilizados sobre el Perl, un lenguaje de programación, y ha escrito columnas regulares sobre el Perl para varias revistas de informática, entre ellas UNIX Review, Web Techniques y el Perl Journal.
+Popularizó los programas de firma de hackers de Perl Just another Perl.
+Es miembro fundador de la junta directiva de los Perl Mongers, la organización mundial de defensa de las bases de Perl.
+Fue miembro de la Junta de Supervisión de Squeak, que supervisa el lenguaje de programación Squeak.
+Ha sido propietario y ha operado Stonehenge Consulting Services, Inc. desde 1985.
+Después de unirse como co-anfitrión de FLOSS Weekly, un podcast temático de software libre/fuente abierto (FLOSS) en 2007, asumió el papel de anfitrión en 2010 hasta mayo de 2020.
+Ha hecho trabajos de voz para StarShipSofa, un podcast de ciencia ficción.
+El nombre de Schwartz también está asociado con la transformación Schwartziana, un algoritmo para ordenar eficientemente una lista según un cálculo, sin repetir el cálculo muchas veces para cada elemento de la lista.
+También acuñó el nombre operador de la nave espacial para su uso en la enseñanza, porque le recordaba a la nave espacial en un juego HP BASIC Star Trek.
+Schwartz es un miembro influyente de la comunidad F/OSS, y ha sido nombrado "Experto en Perl" y entrevistado por numerosos medios - para discutir sus puntos de vista sobre Perl, Ruby, Smalltalk y otros temas - incluyendo Dr. Dobb's, Paul dot Com Security TV, The Command Line, PerlCast, FLOSS Weekly, ONLamp.com, e InfoQ.
+Schwartz también fue un orador en la conferencia de OSCON 2011 y un orador principal en la conferencia de Texas LinuxFest 2010.
+Sus varios libros han recibido críticas positivas.
+En julio de 1995, Schwartz fue procesado en el caso del Estado de Oregón contra Randal Schwartz, que trataba sobre la seguridad informática comprometida durante su tiempo como administrador de sistemas de Intel.
+En el proceso de realizar pruebas de penetración, descifró varias contraseñas en los sistemas de Intel.
+Schwartz fue condenado originalmente por tres delitos graves, uno de los cuales se redujo a un delito menor, pero el 1 de febrero de 2007, los registros de su arresto y condena se sellaron mediante una eliminación oficial, y legalmente ya no es un delincuente.

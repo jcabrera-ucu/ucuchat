@@ -1,0 +1,3 @@
+En tipografía y caligrafía manual la línea base es la línea sobre la que se asientan la mayoría de las letras y por debajo de la cual se extienden los trazos descendentes.
+La mayoría de los tipos de letras, aunque no todos, siguen los siguientes criterios respecto a la línea base:
+La distancia vertical entre dos líneas de base consecutivas en un párrafo se denomina altura de línea, aunque este término también puede aplicarse a la distancia entre líneas base menos el tamaño del tipo de letra.

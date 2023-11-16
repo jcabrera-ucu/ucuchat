@@ -1,0 +1,2 @@
+Los Power Macintosh son ordenadores que contienen procesadores del PowerPC 601 al PowerPC 970(G5).
+La última gama incorpora procesadores duales de 2,5 GHz RISC de 64 bits.

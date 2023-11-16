@@ -1,0 +1,24 @@
+High Resolution Melt (HRM) o análisis de alta resolución de fusión, es una técnica de biología molecular basada en el estudio y comparación de curvas de fusión de las cadenas de ADN.
+Sus principales aplicaciones son la detección de mutaciones, polimorfismos y alteraciones epigenéticas en muestras de ADN bicatenario.
+El análisis de High Resolution Melt comienza con una PCR en tiempo real en la cual se amplifica la secuencia de ADN de interés.
+Durante este proceso se añaden colorantes fluorescentes con el fin de que se intercalen en el ADN, como por ejemplo SYBR Green, SYTO Dye o Chromofy.
+El amplicón resultante de la PCR en tiempo real se calienta gradualmente en el termociclador desde 55 °C hasta 95 °C.
+Conforme la temperatura va aumentando, el ADN bicatenario se va desnaturalizando, de manera que la doble cadena se separa y la fluorescencia va disminuyendo.
+A continuación, se realiza una gráfica de nivel de fluorescencia y temperatura, obteniendo una curva de melting, en la cual se puede detectar el cambio de una sola base, puesto que las diferentes secuencias genéticas van a presentar pequeñas variaciones de temperatura de desnaturalización.
+De esta forma, se puede estudiar la presencia de SNPs, la homocigosis o heterocigosis de una muestra, así como sus marcas epigenéticas.
+Con respecto a este último caso, si a la muestra inicial de ADN se le añade bisulfito, las citosinas no metiladas las transforma en uracilos, cambiando de esta forma la temperatura de desnaturalización y generando curvas de melting diferentes, por los que a través del estudio por comparación, se puede detectar las bases de citosina metiladas.
+Para seguir la transición de ADN de doble cadena a cadena simple (melting), se emplean colorantes o fluróforos que se intercalan en doble hélice del ADN.
+Estos fluoróforos deben cumplir una condición: su emisión de fluorescencia debe depender del estado en el que se encuentra el ADN al que se asocia, de modo que emita fluorescencia cuando está unido al ADN de doble cadena, pero no cuando se disocia en ADN de cadena simple (o viceversa).
+El fluoróforo SYBR Green fue el primero en ser usado en la técnica, sin embargo, actualmente se recomienda el uso de intercalantes que se unan uniformemente al amplicón como el EvaGreen.
+En la actualidad, hay muchos métodos para detectar el estado de cigosidad de un gen en un locus determinado, es decir, detectar si, para un gen concreto, un individuo es homocigótico o heterocigótico.
+Sin embargo, el uso de HRM reduce el tiempo necesario para el análisis y el riesgo de contaminación.
+Además, esta técnica no solo permite identificar si el individuo es homocigótico o heterocigótico respecto a ese gen concreto, sino que también da información sobre que tipo de homo o heterocigosis tiene mediante las distintas curvas que se obtienen por las diferencias de temperatura de melting.
+La técnica HRM también se usa para estudiar el estado de metilación del ADN.
+El ADN metilado puede ser tratado con bisulfito, que convierte las citosinas no metiladas en uracilos.
+Por lo tanto, los productos resultantes de la PCR que no estaban metilados originalmente tendrán una curva de melting menor que aquellos derivados de una cadena metilada.
+También es posible determinar la proporción de metilación en una muestra comparándola con una curva estándar, generada mezclando diferentes proporciones de ADN metilado y no metilado.
+Los ensayos basados en esta técnica, implican un primer paso de amplificación por PCR cuantitativa, seguido del diseño de la curva de melting.
+Debido a la alta sensibilidad del HRM, se requiere una alta pureza de los componentes del mix de PCR y un correcto funcionamiento del termociclador para obtener los amplicones deseados.
+La curva de melting se representa típicamente con pequeños intervalos de temperatura (0,3 °C de media, aunque se necesitaría representar intervalos de 0,2 °C para poder ver el cambio de base A por T ), espaciados 10 segundos para que el ADN se estabilice con cada cambio de temperatura.
+Los amplicones más pequeños generalmente, implican variaciones más notables en la temperatura de melting, pero los de mayor tamaño no se pueden diferenciar a simple vista.
+Por este motivo, el análisis de amplicones de tamaño considerable requiere software especializado como uMelt o DesignSignatures para el diseño de primers que optimicen el tamaño de amplicón.

@@ -1,0 +1,32 @@
+En televisión, se llama iluminación al control de la luz y las sombras.
+Las luces y las sombras son necesarias para mostrar las formas y las texturas de los cuerpos u objetos colocados frente a la cámara.
+En televisión, la iluminación se usa también para sugerir ambientes y sentimientos.
+Es la fuente principal de iluminación.
+Su función es la de revelar las formas básicas del sujeto.
+Debe producir sombras.
+Por lo general, se utilizan lámparas de Fresnel o cazuelas.
+Un proyector de luz puntual es situado a la altura y orientado hacia el actor con un ángulo vertical entre 20º y 45°.
+No se sitúa justo frente del actor, sino que llega a éste desde un lateral, con un ángulo de incidencia horizontal de entre 30° y 45°.
+Esta luz es intensa y muy directiva.
+Ilumina los rasgos y detalles principales del personaje y aunque podría dar un resultado aceptable aun siendo la única fuente de luz, no aporta demasiado a la creación de profundidad.
+Colocada detrás del sujeto para separarlo de fondo del escenario, ayuda a definir la figura del sujeto y el reforzar la sensación de profundidad.
+Uno o dos proyectores de luz puntual iluminan al actor por detrás desde una altura que forme unos 45° con el plano horizontal.
+Esta luz suele tener una relación de intensidad 1:1 con la luz principal.
+Si el pelo o la vestimenta del actor son muy oscuros puede ser necesario que la luz de contra sea más intensa que la iluminación principal.
+En momentos muy dramáticos puede llegar a emplearse una fuerte luz de contra para dar sensación a la escena.
+Colocada en el lado opuesto de la cámara con respecto de la luz Key para eliminar las sombras producidas por ella.
+Esta luz puede ser difusa o rebotada, ya que su función es la de rellenar: proyectores de luz reflejada, filtros difusores o superficies reflectantes blancas.
+Normalmente la intensidad de la luz de relleno es la mitad del nivel de la luz principal.
+Aunque sea una luz muy dispersa no quiere decir que no pueda generar sombras indeseadas, por lo que su correcta situación es importante.
+La luz de relleno viene de un lado diferente al de la luz principal, normalmente al otro lado de la cámara, situada entre 30° y 45° en el plano horizontal y emplazada también en la altura.
+Disposición triangular de las luces principal, trasera y de relleno, que puestas de manera adecuada logran la perfecta iluminación de un sujeto situado en el centro del triángulo.
+Con la trasera colocada en oposición a la cámara, se logra separar el sujeto del fondo.
+La luz principal colocada a 45° de la cámara iluminará la textura básica del sujeto, y la luz de relleno eliminará las sombras si es puesta correctamente a 45° del otro lado de la cámara.
+Utilizando fuentes de luz directa, podemos iluminar perfectamente nuestro escenario, en esta luz se pueden colocar difusores de colores para crear la ambientación que los programas necesiten.
+Es la dedicada a iluminar el decorado o el ciclograma que componen el fondo del plano en la imagen.
+Agregar a una escena luz de fondo puede añadir textura, color y profundidad adicional a la imagen.
+Si no hay iluminación de fondo, el actor queda recortado sobre un fondo infinito.
+Luz de fondo baja y luz amplia en el escenario.
+Fondo oscuro e iluminación de las áreas seleccionadas.
+Son los objetos sin iluminar frente a un fondo iluminado intensamente.
+El talento se coloca enfrente y se iluminan los objetos con luz altamente direccional, mientras que los del fondo se mantienen en la oscuridad.

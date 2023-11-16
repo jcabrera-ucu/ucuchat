@@ -1,0 +1,35 @@
+La Idealización es el proceso por el cual los modelos científicos asumen hechos sobre los fenómenos que se modelan que son estrictamente realistas en ciertos detalles.
+Frecuentemente, los principios asumidos se utilizan para hacer que estos modelos sean más sencillos de comprender o resolver.
+Muchas veces la idealización no perturba la exactitud predictiva del modelo por distintas razones.
+La mayor parte de los debates sobre la utilidad de un modelo en particular suelen ser sobre lo apropiado de sus idealizaciones.
+Galileo utilizó el concepto de idealización para formular las leyes de la caída libre.
+En su estudio de los cuerpos en movimiento, estableció experimentos que asumían superficies sin fricción y esferas perfectas la crudeza de los objetos cotidianos tienen el potencial de oscurecer su esencia matemática, y la idealización se usa para combatir esta tendencia.
+El ejemplo mejor conocido de idealización en los experimentos de Galileo es su análisis de porqué existe el movimiento.
+En ellos predijo que si una bola de esfericidad perfecta rodara sobre un plano perfectamente horizontal, nada detendría a la bola.
+Esta hipótesis se acepta asumiendo que no existe resistencia del aire.
+La geometría surge gracias al proceso de idealización porque en su propio objeto estudia una idea universal de los entes, formas y figuras.
+Los círculos, esferas, rectas y ángulos son elementos esenciales de esta disciplina, todos los cuales serían prácticamente imposibles sin idealizarlos.
+En física se suelen resolver sistemas Newtonianos sin fricción.
+Aunque sabemos que la fricción está presente en los sistemas reales, resolviendo el modelo sin fricción hacemos aproximaciones al comportamiento de los sistemas reales en los cuales ésta es despreciable.
+La ley de Boyle sobre los gases perfectos refleja unas condiciones ideales:
+Así como el método de la idealización fue utilizado en el estudio de la física y las matemáticas, Charles Darwin introdujo el método de la idealización en biología.
+Este principio asistió, en no poco, a la teoría de Darwin de la evolución para que adquiriese madurez científica.
+También se ha dicho que Karl Marx utilizó la idealización en las ciencias sociales (Id).
+De modo similar, en los modelos económicos se asume que disponen de una racionalidad máxima y eligen de modo racional.
+Esta asunción, aunque se sabe que es conculcada por los seres humanos reales, nos pueden frecuentemente proporcionar aproximaciones útiles al comportamiento de las poblaciones humanas.
+En psicología, la idealización se refiere a una persona que percibe que otra es mejor (o tiene atributos más deseables) de los realmente probados por la evidencia.
+Esto sucede a veces en los conflictos sobre la custodia de los hijos.
+Los hijos monoparentales frecuentemente pueden imaginar ("idealizar") que el progenitor (ideal) ausente tiene las características de un padre/madre perfecto.
+Pero para él, imaginar es preferible a la realidad.
+Al encontrarse con el verdadero progenitor, el hijo será feliz por un momento, pero se decepcionará más tarde cuando aprenda que no cuidó realmente de él como lo hizo el otro progenitor que actuó en su custodia.
+A pesar del éxito conseguido por las anteriormente mencionadas disciplinas científicas, la introducción del método de idealización no nos proporciona una idea o indicador de si otra disciplina va a alcanzar de ese modo la madurez.
+Es más: no existe ningún algoritmo que nos pueda mostrar el efecto de la introducción de la idealización en una disciplina en la que previamente no se hubiera aplicado.
+Mientras que la idealización encaja muy bien en los análisis utilizados por ciertas disciplinas científicas, ha sido tradicionalmente rechazado por otras.
+Por ejemplo, la extensión de la idealización en el estudio de los fenómenos mentales ha sido firmemente rechazada.
+Husserl, que conocía y reconocía la importancia de la idealización, rechazó ampliar su uso en los estudios de la conciencia.
+Husserl se oponía a la aplicación de la idealización al estudio de los objetos que pertenecían al dominio de lo mental, puesto que pensaba que los fenómenos mentales no se prestan a la idealización, puesto que ésta no revela la esencia de los fenómenos mentales.
+Aunque el método de idealización de Galileo se considera como uno de los elementos esenciales de la ciencia moderna, es a pesar de ello la fuente de una controversia continua en la literatura de la filosofía de la ciencia.
+Nancy Cartwright (filósofa) sugirió que la idealización Galileana presupone tendencias o capacidades en la naturaleza y que esto permite su extrapolación más allá del caso ideal.
+Continúa afirmando que el método de idealización de galileo no se aplica a la descripción del comportamiento de los objetos individuales en el mundo real.
+Las leyes creadas mediante el uso de la idealización -las leyes de los gases, las de Newton, etc. - describen solamente la conducta de los cuerpos ideales.
+Su conducta solo se puede afirmar cuando se han eliminado o asumido un número considerable de factores.

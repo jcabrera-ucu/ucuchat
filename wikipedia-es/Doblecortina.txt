@@ -1,0 +1,21 @@
+La proteína de migración neuronal doblecortina, también conocida como doblina o lisencefalina-X es una proteína codificada en humanos por el gen DCX.
+Se encuentra asociada a los microtúbulos y se expresa tanto en estructuras embrionarias como en estructuras corticales adultas.
+La doblecortina o DCX es una proteína asociada a microtúbulos que se expresa en células precursoras neurales y neuronas inmaduras.
+Esta proteína se expresa tanto en estructuras embrionarias como en estructuras corticales adultas.
+Los células precursoras neurales expresan doblecortina mientras se dividen y sus células descendientes continúan expresándola durante 2 o 3 semanas mientras maduran a neuronas.
+La expresión de DCX disminuye tras dos semanas a medida que las células comienzan a expresar la proteína nuclear neuronal NeuN (Neuronal Nuclei), un marcador característico de neuronas maduras.
+Debido a que la DCX se expresa casi exclusivamente en neuronas en desarrollo, es utilizada como marcador de la neurogénesis.
+La expresión de doblecortina se incrementa además cuando hay mayor neurogénesis, por ejemplo, después del ejercicio físico.
+La doblecortina se une a los microtúbulos del citoesqueleto y se ha demostrado mediante estudios in vivo e in vitro que la doblecortina estabiliza los microtúbulos causando su agregación.
+La doblecortina es una proteína básica con un punto isoeléctrico de 10, como es común en proteínas de unión a microtúbulos.
+En ratones donde se anula la expresión de DCX las capas corticales del cerebro se forman correctamente, sin embargo, la capa CA3 del hipocampo se encuentra desorganizada y en lugar de la capa simple de neuronas piramidales se forma una capa doble.
+Estos ratones muestran un comportamiento alterado y epilepsia.
+El análisis detallado de la secuencia de la doblecortina y de proteínas similares permitió la identificación de una repetición en tandem de dominios conservados evolutivamente.
+Estos dominios se encuentran en la porción N-terminal de las proteínas y consisten en repeticiones de una región de unos 80 aminoácidos.
+Se ha sugerido que el primer dominio de la doblecortina se une a la tubulina ayudando a la polimerización de los microtúbulos.
+La doblecortina interacciona con el gen PAFAH1B1.
+Este gen codifica el factor activador de plaquetas (PAF) acetilhidrolasa IB subunidad alfa también conocido como LIS1.
+La doblecortina se encuentra mutada en la lisencefalia ligada al cromosoma X y en el síndrome de corteza doble de forma que las manifestaciones clínicas varían según el sexo.
+En hombres la lisencefalia produce un cerebro liso debido a los fallos en la migración de neuronas inmaduras que normalmente promueven la formación de los giros de la superficie cerebral.
+En mujeres generalmente se produce el síndrome de la corteza doble que se caracteriza por la migración anormal de tejido neural durante el desarrollo, resultando en dos bandas de neuronas mal colocadas bajo la sustancia blanca subcortical, generando dos cortezas.
+Esta mutación fue descubierta por Joseph Gleeson y Christopher A. Walsh en Boston.

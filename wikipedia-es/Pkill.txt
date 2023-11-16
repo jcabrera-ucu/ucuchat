@@ -1,0 +1,6 @@
+pkill es una utilidad de la línea de comandos escrita originalmente para ser usada con el sistema operativo Solaris 7.
+Desde entonces, se ha reimplementado para Linux y BSD.
+Como los comandos kill y killall, pkill se usa para enviar señales.
+El comando pkill permite usar expresiones regulares y otros criterios de selección.
+Matar el proceso acroread creado más recientemente:
+Enviar la señal USR1 al proceso acroread:

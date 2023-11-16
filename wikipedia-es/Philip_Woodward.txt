@@ -1,0 +1,31 @@
+Philip Woodward (nacido el 6 de septiembre de 1919) es un matemático británico, ingeniero de radares y relojero, con un éxito notable en los tres campos.
+Antes de su jubilación, fue Delegado Jefe Oficial Científico del Royal Signals and Radar Establishment (RSRE) del Ministerio Británico de Defensa en Malvern, Worcestershire.
+En 1952 acuñó la nomenclatura de la función matemática sinc.
+La carrera de Philip Woodward en el Servicio Civil Científico abarcó cuatro décadas.
+Fue el responsable de uno de los primeros ordenadores electrónicos del Reino Unido (TREAC), seguido por el primer ordenador con componentes en estado sólido del Reino Unido (RREAC).
+Es el autor del libro "Probability and Information Theory, with Applications to Radar" ( Probabilidad y Teoría de la Información, con Aplicaciones al Radar).
+Durante la Segunda Guerra Mundial, desarrolló una técnica matemática para el diseño de las antenas de radar, que más tarde se convirtió en el estándar en el análisis de señales de comunicación.
+Su consecución principal en la técnica del radar consistió en evaluar las ambigüedades inherentes en toda señal de radar para demostrar que la probabilidad bayesiana puede ser utilizada como parte del proceso de diseño para eliminar todo el ruido que pudiera contener la señal de radar, preservando únicamente el eco buscado.
+En 1956, el trabajo de Woodward acerca de la teoría de la información en el radar, llevó al premio Nobel de física John H. Van Vleck a invitarle a dar un curso de posgrado en procesos aleatorios en la Universidad de Harvard.
+El profesor E. T. Jaynes, en su libro publicado póstumamente, reconoció que Woodward había estado "muchos años por delante de su tiempo" al haber mostrado la "idea profética" de la aplicación de la probabilidad y de la estadística a la recuperación de datos en señales con ruido de fondo.
+En la década de 1960, el equipo de software del ordenador de Malvern de Philip Woodward, diseñó el Royal Radar Establishment con el compilador ALGOL 68R, la primera implementación en el mundo del lenguaje de programación ALGOL 68, proporcionado así mismo a las fuerzas armadas su primer estándar de lenguaje de programación de alto nivel para los ordenadores militares pequeños de la época, denominado Coral 66.
+Sus puestos académicos han incluido el de Profesor Honorario en Ingeniería Eléctrica por la Universidad de Birmingham y el de Profesor Visitante en Cibernética en la Universidad de Reading.
+Cuando en el año 2000 el edificio Woodward fue inaugurado por Sir John Chisholm en el DERA (ahora privatizado como QinetiQ), los invitados recibieron como recuerdo de la ocasión unos relojes, uno de los objetos que más interesan a Woodward.
+En junio de 2005, la Real Academia de Ingeniería dio a Woodward su primer Premio a los Logros de una Carrera, reconociéndole como un pionero excepcional del radar y por su trabajo de precisión en relojería mecánica. En 2009 recibió del Instituto de Ingenieros Eléctricos y Electrónicos (IEEE), la Medalla Dennis J. Picard para Tecnologías de Radar y Aplicaciones: “por su trabajo pionero de importancia fundamental en la investigación de las ondas de radar, incluyendo la función de ambigüedad de Woodward, la herramienta estándar para el análisis de ondas y de filtros adaptados.”
+Woodward introdujo la notación sinc para la función
+en su artículo de 1952 "Information theory and inverse probability in telecommunication" (Teoría de la Información y probabilidad inversa en las telecomunicaciones), en el que afirmó que la función "se reproduce con tanta frecuencia en el análisis de Fourier y en sus aplicaciones, que parece merecer alguna notación propia",
+Una vez jubilado Philip Woodward escribió otro libro clásico, "My Own Right Time" ( Mi Momento Adecuado ), una crónica de su pasión por la relojería.
+Junto con muchos otros temas, el libro describe en detalle el diseño de sus relojes, incluyendo su obra maestra, el "W5".
+Woodward contribuyó con docenas de artículos en publicaciones periódicas de relojería durante más de 30 años.
+A partir de su experiencia como matemático y analista de sistemas complejos, ha hecho importantes contribuciones científicas a la relojería, incluyendo el análisis definitivo de los muelles espirales y mucho trabajo acerca de las propiedades de los péndulos.
+En 2006 el Instituto Horológico Británico publicó una colección con tapa dura de 63 artículos con nuevas notas del Dr. Woodward.
+La colección, "Woodward on Time" (Woodward puntualmente), originalmente compilada por Bill Taylor, instantáneamente conocida como "WOT", fue muy bien recibida por el público.
+El "W5" fue construido en un pequeño taller, con las herramientas más sencillas, pero muestra una elegancia de concepto y de diseño raramente vistas en la historia de la ciencia.
+Ha sido elogiado por Jonathan Betts (Experto Conservador de los relojes en el Observatorio Real de Greenwich) como "la aproximación más cercana a la perfección obtenida por cualquier reloj mecánico sin la utilización de una cámara de vacío".
+Woodward construyó incluso la caja del reloj, ensamblando un intrincado sistema de invisibles juntas a inglete secretas.
+El eminente relojero Anthony Randall llevó a cabo una larga serie de pruebas cronométricas al W5, mostrando una exactitud sin precedentes sobre periodos de más de 100 días.
+A pesar de que el reloj fue ampliamente elogiado, y Dr. Woodward publicó una serie de artículos extraordinariamente detallados de su construcción para animar a otros para llevar sus ideas adelante, nadie completó otro reloj como este en más de veinte años.
+Finalmente, en 2006, el relojero australiano David Walter (ahora en Buellton, California) tuvo éxito al construir versión reducida, diferente en algunos detalles, pero siguiendo estrechamente el diseño básico concebido por Woodward.
+Woodward nació el 6 de septiembre de 1919.
+Fue educado en la Blundell's School de Tiverton, Devon.
+Vive en Malvern, Worcestershire, Inglaterra.

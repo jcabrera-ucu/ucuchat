@@ -1,0 +1,16 @@
+Stratagus, antes conocido como FreeCraft, es un videojuego de ambientación fantástica y del género estrategia en tiempo real, disponible para múltiples plataformas: Linux, BSD, Windows... Inspirado originalmente en Warcraft II, posee un motor extensamente flexible y expandible a cualquier otro tipo de ambientación.
+Está escrito en lenguaje C, usando además el lenguaje Lua para la configuración y la biblioteca multimedia SDL.
+Dispone de dos modos de juego, para un solo jugador o para varios jugadores desde internet o red local.
+Los videojuegos para Stratagus más desarrollados son:
+El 15 de junio de 1998, Lutz Sammer publicó la primera versión con la intención de crear una versión alternativa de Warcraft II, bajo el nombre de ALE Clone.
+En 1999 se renombró a Freecraft.
+En junio de 2003 el proyecto recibió una orden judicial, cese and desist (cesar y renunciar), de la empresa de Blizzard Entertainment, se exigía por denuncia judicial la paralización y cierre del proyecto por la confusión del nombre con los juegos de su propiedad (Warcraft y Starcraft) además del uso de algunas ideas similares a las utilizadas en Warcraft II.
+Finalmente, los desarrolladores dieron por finalizado el proyecto como tal el 20 de junio de 2003.
+Poco después algunos del equipo inicial se sumaron a recuperar y desarrollar un nuevo proyecto que retomara el anterior con un cambio en su filosofía: se potenció y pensó como objetivo fundamental la libertad para su personalización surgiendo proyectos paralelos que ofrecen distintas ambientaciones y estilos de juego.
+En junio de 2010 algunos de los desarrolladores trasladaron el proyecto Stratagus de SourceForge a Launchpad y empezaron a trabajar de nuevo en Stratagus y en juegos.
+Wargus (para Warcraft II), War1gus (para Warcraft I) y Stargus (para Starcraft) continuaron siendo desarrollados por el equipo de Stratagus en Launchpad.
+En 2014, Wyrmgus comenzó como un fork del motor Stratagus para desarrollar un juego de estrategia basado en assets libres con un alcance mayor del que permitía el motor original.
+Desde entonces, el equipo de Stratagus también se ha trasladado a GitHub.
+Los juegos basados en Stratagus con los que se puede jugar son: Aleona's Tales de fantasía, Battle for Mandicor medieval, Warcraft II: Tides of Darkness (más la expansión Beyond the Dark Portal) port Wargus, Warcraft: Orcs and Humans port War1gus, el futurista Battle of Survival, el de inspiración histórica Commander Stalin,     el StarCraft port Stargus y el de la era espacial Astroseries.
+De todos ellos, sólo Aleona's Tales, Wargus, War1gus y Wyrmsun están completos.
+Juegos para Stratagus

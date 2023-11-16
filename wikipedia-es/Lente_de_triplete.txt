@@ -1,0 +1,5 @@
+Una lente de triplete es una lente compuesta formada por tres lentes. El triplete es el diseño más sencillo que mejora el número requerido de grados de libertad que permite al diseñador de objetivos vencer todos los tipos de aberraciones de Seidel. Las lupas de joyero utilizan normalmente una lente de triplete.
+El término es utilizado de dos maneras.
+Las tres lentes pueden ser cementadas juntas, como en el triplete Steinheil o en el triplete Hastings O bien el triplete puede ser diseñado con tres lentes espaciadas, p. ej.
+el triplete Cooke.
+Los primeros tienen la ventaja de un más alto grado de transferencia óptica al tener menos interfaces aire-vidrio, pero el último proporciona una flexibilidad más grande en el control de aberración, puesto que las superficies internas no están limitadas por el hecho de tener que tener los mismos radios de curvatura.

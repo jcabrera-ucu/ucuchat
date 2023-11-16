@@ -1,0 +1,3 @@
+El PowerBook 165 (llamado Dart LC durante su desarrollo) fue un ordenador portátil que Apple lanzó el 16 de agosto de 1993 como sustituto del PowerBook 160, con un coste inicial de 1700 dólares.
+Utilizaba la misma carcasa que el PowerBook 140, y era básicamente un PowerBook 165c con pantalla en escala de grises y sin la FPU Motorola 68882.
+Fue descatalogado el 18 de julio de 1994.

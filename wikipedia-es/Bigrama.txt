@@ -1,0 +1,6 @@
+Un bigrama o digrama es un grupo de dos letras, dos sílabas, o dos palabras.
+Los bigramas son utilizados comúnmente como base para el simple análisis estadístico de texto.
+Se utilizan en uno de los más exitosos modelos de lenguaje para el reconocimiento de voz.
+Se trata de un caso especial del N-grama.
+Los Bigramas ayudan a proporcionar la probabilidad condicional de una palabra dada la palabra precedente, cuando la relación de la probabilidad condicional se aplica:
+Es decir, la probabilidad P de una palabra W_n dada la palabra precedente W_{n-1} es igual a la probabilidad de su bigrama, o la co-ocurrencia de las dos palabras, dividido por la probabilidad de que la palabra precedente.

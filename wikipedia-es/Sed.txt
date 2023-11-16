@@ -1,0 +1,28 @@
+La sed es el ansia por beber líquidos causado por el instinto básico de humanos u otros animales para beber.
+Es un mecanismo esencial de regulación del contenido de agua en el cuerpo y uno de los primeros síntomas de deshidratación.
+Se produce por una carencia de hidratación o por un aumento de la concentración de sales minerales.
+Si el volumen de agua del cuerpo baja de un cierto umbral o la concentración osmótica es demasiado alta, el cerebro induce la sed.
+Si la deshidratación continúa, se pueden originar una gran cantidad de problemas; los más comúnmente asociados son problemas neurológicos y problemas renales.
+La sed excesiva —conocida como polidipsia— junto con la diuresis excesiva —conocida como poliuria— puede ser un síntoma de diabetes.
+Hay receptores y otros sistemas en el cuerpo que pueden detectar una disminución del volumen de agua o un aumento de la presión osmótica.
+Son estímulos al sistema nervioso central cuando el procesamiento central tiene éxito.
+Algunas fuentes distinguen por lo tanto entre «sed extracelular» y «sed intracelular».
+Mientras que la sed extracelular es sed generada por un aminoramiento del volumen, la sed intracelular es sed generada por el aumento de la concentración osmótica; sin embargo, el ansia en sí misma es algo generado por el procesamiento en el cerebro, sin importar cómo es detectada.
+Hay muchos receptores diferentes para captar un volumen crecido o una concentración osmolita crecida.
+La hipovolemia lleva a la activación del sistema Renina-Angiotensina (RAS) y a una disminución del péptido natriurético atrial.
+Estos mecanismos, junto con sus otras funciones, contribuyen a desencadenar la sed, a través del órgano subfornical.
+Por ejemplo, angiotensin II, activada en el RAS, es un potente dipsógeno (es decir, que estimula la sensación de sed) que actúa vía órgano subfornical
+Un aumento en la presión osmótica, por ejemplo, después de una comida salada activa los osmorreceptores.
+Hay osmorreceptores en el sistema nervioso central, concretamente en el hipotálamo, y más específicamente en dos órganos circunventriculares, que carecen de una barrera hematoencefálica eficaz: el órgano vascular de la lámitar terminal (OVLT) y el órgano subfornical (SFO).
+Sin embargo, a pesar de que están localizados en las mismas partes del cerebro, estos osmorreceptores que provocan la sed, son distintos de los vecinos osmorreceptores en el OVLT y FO que provocan la liberación de Arginina-Vasopresina para reducir la salida de fluidos (equilibrio de líquidos).
+Adicionalmente, existen osmorreceptores en la vísceras.
+Estos envían señales al área postrema y al núcleo del tracto solitario en el cerebro.
+Dado que el sodio también se pierde del plasma en la hipovolemia, la necesidad de sal del cuerpo crece desproporcionadamente junto con la sed en esos casos.
+Esto también es resultado de la activación del sistema Renina-Angiotensina.
+Para adultos de más de 50 años, la sensación de sed disminuye y continúa disminuyendo con la edad, causando, en muchos casos, síntomas de deshidratación.
+El área postrema y el núcleo del tracto solitario, en el bulbo raquídeo, envían señales vía 5-HT, al núcleo parabranquial lateral que, en respuesta, envía señales al núcleo preóptico medio, en el área preóptica.
+Además, el área postrema y el del tracto solitario también envía señales directamente al órgano subfornical, en el diencéfalo.
+Así, el núcleo preóptico medial y el órgano subfornical reciben señales del descenso de volumen, del aumento en la concentración osmótica y también del descenso de la presión arterial.
+Estos, envían señales a centros integradores superiores, donde, en última instancia, surge la sensación consciente de "ansia".
+A pesar de ello, el mecanismo que desencadena este «ansia» conscientemente no se conoce de forma completa.
+Además de la sed, el órgano vascular de la lámina vascular y el órgano subfornical contribuyen al equilibrio de fluidos a través de la liberación de vasopresina.

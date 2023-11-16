@@ -1,0 +1,30 @@
+La intolerancia a la proteína lisinúrica (IPL), también conocida como aminoaciduria dibásica de tipo 2 o aminoaciduria catiónica es un desorden metabólico autosómico recesivo que afecta al transporte de aminoácidos.
+Se han reportado alrededor de 140 pacientes, aproximadamente la mitad de los cuales eran de origen finés.
+Asimismo, se han reportado algunos individuos afectos en Japón, Italia, Marruecos y el norte de África.
+La IPL se suele presentar tras el destete, pudiendo darse episodios diarreicos e incluso coma tras la ingesta de comidas ricas en proteínas, malnutrición, aversión a la comida rica en proteínas, hepatosplenomegalia, hipotonía muscular y retraso del crecimiento.
+Con el tiempo, pueden aparecer osteoporosis, afecciones pulmonares y renales, anormalidades hematológicas e incluso pancreatitis aguda.
+El diagnóstico de la enfermedad puede establecerse mediante pruebas bioquímicas, como es la medida de la concentración de amonio en plasma, que suele ser elevada tras una comida rica en proteínas.
+Estas concentraciones plasmáticas de aminoácidos catiónicos, como son la ornitina, la arginina y la lisina, están por debajo de las normales para la edad, pero pueden encontrarse dentro de los parámetros normales.
+Por otro lado, las concentraciones de glicina, serina, prolina, alanina, glutamina y citrulina presentan un incremento frente a la concentración normal.
+Asimismo, la excreción de ácido orótico en la orina aumenta, al igual que la excreción de aminoácidos catiónicos, especialmente de la lisina.
+Otros compuestos que aparecen alterados en los niveles de plasma son la globulina fijadora de tiroxina (TBG), lactado deshidrogenasas (LDH) y ferritina, que aumentan.
+También es frecuente observar hipertrigliceridemia e hipercolesterolemia.
+A nivel molecular, SLC7A7 es el único gen en el cual las mutaciones están asociadas a la enfermedad.
+Los tests moleculares identifican dos mutaciones que se observan en más del 95% de los individuos que presentan las alteraciones bioquímicas asociadas a IPL.
+El diagnóstico de la IPL se basa en hallazgos clínicos y bioquímicos y, recientemente, en los tests moleculares.
+La LPI se suele presentar tras el destete o la alimentación con fórmula infantil, de forma variable y con cuadros clínicos no específicos que incluyen:
+El diagnóstico de IPL no suele sospecharse por los hallazgos clínicos en sí mismo y puede pasar inadvertida durante la infancia a menos que halla implicaciones neurológicas que deriven en una evaluación diagnóstica que incluya la determinación de la concentración en sangre de amonio.
+En algunos casos, el diagnóstico se da en la edad adulta.
+Al cabo del tiempo, pueden descubrirse nuevas presentaciones clínicas como:
+Individuos afectos
+Portadores.
+Los análisis bioquímicos no pueden emplearse para determinar si un individuo es portador.
+Actualmente, SLC7A7 es el único gen cuya mutación se sabe que causa IPL, de modo que las pruebas moleculares se realizan en torno a él.
+Algunas de las que se realizan son el análisis de secuencia, en el que se identifica el alelo causante; el análisis de la mutación diana y análisis de deleción/ duplicación, aunque este último se utiliza únicamente en investigación.
+Se recomienda restricción proteica y administración de citrulina y fármacos quelantes de nitrógeno.
+Vacunación contra la varicela en aquellos que no tengan historial previo de varicela o varicela zóster.
+Es necesario hacer seguimiento de las concentraciones plasmáticas de aminoácidos para identificar las deficiencias de los aminoácidos secundarios esenciales para la dieta de restricción proteica, así como las concentraciones de amonio en sangre durante el ayuno.
+Hay que prestar especial atención a signos de hiperamonemia y excreción de ácido orótico en la orina.
+Es recomendable evaluar la función renal periódicamente y la afección pulmonar.
+Restricción proteica completa durante más de 24-48h.
+Pruebas genéticas moleculares o bioquímicas para el diagnóstico temprano y para tratamiento de familiares en riesgo.

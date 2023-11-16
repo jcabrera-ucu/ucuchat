@@ -1,0 +1,11 @@
+Un operador de telefonía móvil (ORM; mobile network operator, MNO) es una compañía telefónica que provee servicios de telefonía para clientes de telefonía móvil.
+El proceso de convertirse en un operador de telefonía móvil en un país normalmente comienza con la adquisición de una licencia sobre utilización del espectro radioeléctrico al Gobierno.
+La parte del espectro asignada dependerá de la disponibilidad existente y del tipo de tecnología de telefonía móvil que el operador intenta suministrar.
+Por ejemplo, un móvil GSM requerirá una frecuencia correspondiente a GSM.
+El Gobierno puede distribuir el espectro usando cualquier método, aunque los más habituales son concursos o subastas.
+Recientemente, algunas licencias 3G en Europa se han vendido por subasta al mejor postor.
+undefined
+Otra categoría de operadores de telefonía móvil emergente en algunos mercados.
+Son los operadores móviles virtuales (OMV).
+Desde el punto de vista del cliente, parecen idénticos a los operadores normales.
+La diferencia radica en que no poseen la infraestructura de red, sino que la alquilan a otro operador.

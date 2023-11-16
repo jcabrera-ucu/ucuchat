@@ -1,0 +1,54 @@
+El programa de Propulsión Nuclear de Aeronaves (nombre original en inglés: Aircraft Nuclear Propulsion; ANP) y el proyecto anterior de Energía Nuclear para la Propulsión de Aeronaves (Nuclear Energy for the Propulsion of Aircraft; NEPA) trabajaron para desarrollar un sistema de propulsión nuclear para aeronaves.
+Las Fuerzas Aéreas del Ejército de los Estados Unidos iniciaron el Proyecto NEPA el 28 de mayo de 1946.
+Después de obtener financiación por 10 millones de dólares en 1947, el programa NEPA funcionó hasta mayo de 1951, cuando el proyecto fue transferido a la Comisión Conjunta de Energía Atómica (AEC)/USAF, siendo rebautizado como ANP.
+La USAF investigó dos sistemas diferentes para motores a reacción de propulsión nuclear: el concepto Direct Air Cycle, desarrollado por General Electric; y el sistema Indirect Air Cycle, que fue asignado a Pratt & Whitney.
+El programa estaba destinado a desarrollar y probar el Convair X-6, pero se canceló en 1961, antes de que se construyera este avión.
+Los motores nucleares de ciclo directo se parecerían a un motor a reacción convencional, excepto en que no habría cámaras de combustión.
+El aire obtenido de la sección del compresor se enviaría a una cámara desde donde se dirigía al núcleo del reactor nuclear.
+Se realizaba un intercambio de calor, refrigerando el reactor y calentando el aire, que se enviaba a otra cámara.
+Desde esta segunda cámara, el aire se dirigía hacia una turbina, que lo enviaba al escape.
+El resultado final era que, en lugar de utilizar combustibles derivados del petróleo, un avión podía depender del calor de las reacciones nucleares para obtener energía.
+El programa de la General Electric, con sede en Evendale, Ohio, se llevó a cabo debido a sus ventajas en simplicidad, fiabilidad, idoneidad y capacidad de inicio rápido.
+Se utilizaron compresores de motores a reacción convencionales y secciones de turbina, con el aire comprimido que pasaba por el reactor para ser calentado, antes de ser expulsado a través de la turbina.
+El ciclo indirecto implica que el intercambio térmico se producía fuera del núcleo, con el aire del compresor que se enviaba a un intercambiador de calor.
+El núcleo del reactor nuclear calentaría agua a presión o metal líquido y también lo enviaría al intercambiador de calor.
+Ese líquido caliente sería enfriado por el aire; el aire sería calentado por el líquido y enviado a la turbina.
+La turbina enviaría el aire al escape, proporcionando empuje.
+El programa del ciclo indirecto del aire fue asignado a Pratt & Whitney, en una instalación cerca de Middletown, Connecticut.
+Este concepto habría producido mucha menos contaminación radiactiva.
+Uno o dos bucles de metal líquido llevarían el calor del reactor al motor.
+Este programa implicó un gran esfuerzo de investigación y desarrollo de muchos sistemas ligeros adecuados para su uso en aeronaves, tales como intercambiadores de calor, turbobombas y radiadores para el metal líquido.
+El programa de Ciclo Indirecto nunca llegó a producir un motor listo para el vuelo.
+El Aircraft Reactor Experiment (ARE) de los Estados Unidos fue un reactor nuclear experimental de espectro termal con una potencia de 2,5 MWth diseñado para alcanzar un alta concengración de potencia y una elevada temperatura de salida para su uso como motor en un avión de bombardero de propulsión nuclear.
+La ventaja de un avión de propulsión nuclear sobre un avión de propulsión convencional es que podría permanecer en vuelo por más tiempo ininterrumpido a la espera de recibir la orden de iniciar misiones de mucho más largo alcance, convirtiéndose en un elemento disuasorio estratégico nuclear efectivo frente a un adversario soviético, también en posesión de armas nucleares.
+El ARE fue el primer reactor de sal fundida (MSR) en ser construido y operado.
+Utilizó la sal de fluoruro fundido NaF - ZrF4 - UF4 (53-41-6% molar) como combustible, siendo moderado por óxido de berilio de configuración hexagonal (BeO), y alcanzando una temperatura máxima de 860 °C.
+Se usó un sistema de refrigerante de sodio líquido redundante para enfriar el moderador y los materiales reflectores.
+Así mismo, un circuito secundario refrigerante de gas helio circulaba alrededor del refrigerante primario para transferir calor a un radiador de agua, donde la producción de calor se descargaba a la atmósfera.
+Se instalaron las barras de control y se vio que no determinaban la potencia de salida del ARE.
+La demanda de energía sí que controlaba el reactor, lo que afectó las temperaturas de salida y entrada debido al coeficiente de reactividad de temperatura negativa.
+El ARE fue operado a plena potencia durante 221 horas hasta un pico de 2.5 MWth.
+El 5 de septiembre de 1951, la USAF le otorgó a Convair un contrato para volar un reactor nuclear a bordo de un Convair B-36 Peacemaker modificado bajo el proyecto MX-1589, del programa ANP.
+El NB-36H Nuclear Test Aircraft (NTA) debía estudiar los requisitos de blindaje para un reactor aerotransportado, para determinar si un avión nuclear era factible.
+Este fue el único experimento conocido de reactor aéreo en Estados Unidos con un reactor nuclear operacional a bordo.
+La NTA voló un total de 47 veces probando el reactor sobre el oeste de Texas y el sur de Nuevo México.
+El reactor, llamado Reactor de Prueba del Escudo de Aeronaves (ASTR), estaba operativo pero no alimentaba la aeronave, sino que el objetivo principal del programa de vuelo era la prueba del escudo.
+Según los resultados de la NTA, el X-6 y todo el programa de aeronaves nucleares fue abandonado en 1961.
+Como parte del programa ANP AEC/USAF, en 1956, los General Electric J47 modificados se operaron por primera vez con energía nuclear utilizando un conjunto de prueba de reactor conocido como Experimento 1 del Reactor de Transferencia de Calor (HTRE-1).
+El HTRE-1, que utilizaba barras de control orientadas verticalmente, se reconfiguró con un núcleo extraíble para convertirse en el HTRE-2 para pruebas adicionales.
+HTRE-3 se construyó por separado para probar las barras de control orientadas horizontalmente según fuese apropiado para su uso en el fuselaje de un avión.
+Los reactores y conjuntos de prueba HTRE-2 y HTRE-3 desmantelados pueden ser vistos por el público en el aparcamiento del Experimental Breeder Reactor I en el Laboratorio Nacional de Idaho.
+El 5 de febrero de 1957, otro reactor se hizo crítico en la Instalación de Experimentos Críticos del Laboratorio Nacional de Oak Ridge (ORNL), como parte del programa de reactor de combustible circulante de la Pratt and Whitney Aircraft Company (PWAC).
+Se denominaba PWAR-1, Pratt and Whitney Aircraft Reactor-1.
+El propósito de la prueba fue verificar experimentalmente las propiedades nucleares teóricamente predichas de un reactor PWAC.
+La fase de pruebas tuvo una duración muy breve, y a finales de febrero de 1957 se habían tomado todos los datos y se había comenzado el desmontaje del reactor.
+El experimento se realizó esencialmente a cero energía nuclear.
+La temperatura de funcionamiento se mantuvo constante a aproximadamente 675 °C, lo que correspondía exactamente a la temperatura de funcionamiento de diseño del moderador del PWAR-l.
+Esta temperatura se mantuvo mediante calentadores externos.
+Al igual que el ARE de 2,5 MWt, el PWAR-1 utilizó NaF-ZrF4-UF4 como combustible primario y refrigerante.
+La competencia tecnológica con la Unión Soviética (representada por el lanzamiento del Sputnik 1) y el continuo apoyo de la Fuerza Aérea permitieron que el programa continuara, a pesar del liderazgo dividido entre el DOD y el AEC.
+Numerosas instalaciones de prueba fueron financiadas y construidas durante los años 1950 y hasta 1961, con el fin de producir una unidad de energía nuclear capaz de impulsar un vuelo, incluida una en el Laboratorio Nacional de Oak Ridge (ORNL).
+Si bien el ARE demostró con éxito la viabilidad del concepto MSR, el presidente Kennedy canceló el programa el 26 de marzo de 1961 citando el escandaloso costo del proyecto hasta el momento, sin haber producido un reactor aeronáutico plenamente operativo -"15 años y alrededor de mil millones se dólares se han dedicado al intento de desarrollo de un avión de propulsión nuclear, pero la posibilidad de lograr un avión militarmente útil en el futuro previsible aún es muy remota".
+También contribuyó a la cancelación el hecho de que los primeros misiles balísticos intercontinentales entraron en servicio activo en septiembre de 1959, lo que eliminó la necesidad de un avión de propulsión nuclear como elemento disuasorio estratégico.
+Sin embargo, los resultados del programa solicitado a los científicos e ingenieros del ORNL, sirvieron para presentar una propuesta de diseño preliminar de la Comisión de Energía Atómica para un MSR (reactor de sal fundida) experimental de 30 MWth como posible base de un concepto de central de producción de energía civil.
+El resultado de la propuesta fue la decisión de la Comisión de Energía Atómica de que la ORNL diseñara, construyera y operara el experimento del reactor de sal fundida (MSRE).

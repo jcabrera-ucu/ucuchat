@@ -1,0 +1,67 @@
+En termodinámica, las relaciones recíprocas de Onsager expresan la igualdad de ciertas relaciones entre flujos y fuerzas en sistemas termodinámicos fuera de equilibrio, pero donde existe una noción de equilibrio local.
+Las "relaciones recíprocas" se producen entre diferentes pares de fuerzas y flujos en una variedad de sistemas físicos.
+Por ejemplo, considere los sistemas de fluidos descritos en términos de temperatura, densidad de materia y presión.
+En esta clase de sistemas, se sabe que las diferencias de temperatura conducen a flujos de calor desde las partes más cálidas a las más frías del sistema; de manera similar, las diferencias de presión conducirán al flujo de materia desde las regiones de alta presión a las de baja presión.
+Lo que es sorprendente es la observación de que, cuando varían tanto la presión como la temperatura, las diferencias de temperatura a presión constante pueden causar flujo de materia (como en la convección) y las diferencias de presión a temperatura constante pueden causar flujo de calor.
+Quizás sorprendentemente, el flujo de calor por unidad de diferencia de presión y el flujo de densidad (materia) por unidad de diferencia de temperatura son iguales.
+Esta igualdad fue demostrada como necesaria por Lars Onsager utilizando la mecánica estadística como consecuencia de la reversibilidad temporal de la dinámica microscópica (reversibilidad microscópica).
+La teoría desarrollada por Onsager es mucho más general que este ejemplo y es capaz de tratar más de dos fuerzas termodinámicas a la vez, con la limitación de que "el principio de reversibilidad dinámica no se aplica cuando están presentes campos magnéticos (externos) o fuerzas de Coriolis", en cuyo caso "las relaciones recíprocas se rompen".
+Aunque el sistema de fluidos tal vez se describe de manera más intuitiva, la alta precisión de las mediciones eléctricas hace que las realizaciones experimentales de la reciprocidad de Onsager sean más fáciles en sistemas que involucran fenómenos eléctricos.
+De hecho, el artículo de Onsager de 1931 refiere a los fenómenos de termoelectricidad y transporte en electrolitos, bien conocidos desde el siglo XIX, incluidas las teorías "cuasi-termodinámicas" de Thomson y Helmholtz, respectivamente.
+La reciprocidad de Onsager en el efecto termoeléctrico se manifiesta en la igualdad de los coeficientes Peltier (flujo de calor causado por una diferencia de voltaje) y Seebeck (corriente eléctrica causada por una diferencia de temperatura) de un material termoeléctrico.
+De manera similar, los coeficientes denominados "piezoeléctrico directo" (corriente eléctrica producida por tensión mecánica) y "piezoeléctrico inverso" (deformación producida por una diferencia de voltaje) son iguales.
+Para muchos sistemas cinéticos, como la ecuación de Boltzmann o la cinética química, las relaciones de Onsager están estrechamente conectadas con el principio de equilibrio detallado y se siguen de ellas en la aproximación lineal cerca del equilibrio.
+Las verificaciones experimentales de las relaciones recíprocas de Onsager fueron recopiladas y analizadas por DG Miller para muchas clases de procesos irreversibles, a saber, para termoelectricidad, electrocinética, transferencia en soluciones electrolíticas, difusión, conducción de calor y electricidad en sólidos anisotrópicos, termomagnetismo y galvanomagnetismo.
+En esta revisión clásica, las reacciones químicas se consideran como "casos con escasas" y pruebas no concluyentes.
+Otros análisis teóricos y experimentos apoyan las relaciones recíprocas para la cinética química con el transporte.
+Por su descubrimiento de estas relaciones recíprocas, Lars Onsager recibió el Premio Nobel de Química en 1968.
+El discurso de presentación se refirió a las tres leyes de la termodinámica y luego agregó: "Se puede decir que las relaciones recíprocas de Onsager representan otra ley que hace posible un estudio termodinámico de los procesos irreversibles".
+Algunos autores incluso han descrito las relaciones de Onsager como la "Cuarta ley de la termodinámica".
+El potencial termodinámico básico es la energía interna.
+En un sistema de fluido simple, sin tener en cuenta los efectos de la viscosidad, se escribe la ecuación termodinámica fundamental:
+donde U es la energía interna, T es la temperatura, S es la entropía, P es la presión hidrostática, V es el volumen, \mues el potencial químico, y la masa m.
+En términos de densidad de energía interna, u, densidad de entropía s, y densidad de masa \rho, se escribe la ecuación fundamental a volumen fijo:
+Para sistemas no fluidos o más complejos, habrá una colección diferente de variables que describen el término de trabajo, pero el principio es el mismo.
+La ecuación anterior puede resolverse para la densidad de entropía:
+La expresión anterior de la primera ley en términos de cambio de entropía define las variables entrópicas conjugadas de u y \rhoque son -\mu/Ty son cantidades intensivas análogas a las energías potenciales; sus gradientes se llaman fuerzas termodinámicas ya que causan flujos de las variables extensivas correspondientes como se expresan en las siguientes ecuaciones.
+La conservación de la masa se expresa localmente por el hecho de que el flujo de densidad de masa \rhosatisface la ecuación de continuidad:
+donde es el vector de flujo de masa.
+La formulación de la conservación de la energía generalmente no tiene la forma de una ecuación de continuidad porque incluye contribuciones tanto de la energía mecánica macroscópica del flujo del fluido como de la energía interna microscópica.
+Sin embargo, si asumimos que la velocidad macroscópica del fluido es despreciable, obtenemos la conservación de energía de la siguiente forma:
+donde ues la densidad de energía interna y es el flujo de energía interna.
+Ya que estamos interesados en un fluido imperfecto general, la entropía no se conserva localmente y su evolución local se puede dar en forma de densidad de entropía scomo
+donde es la tasa de aumento en la densidad de entropía debido a los procesos irreversibles de equilibrio que ocurren en el fluido y es el flujo de entropía.
+En ausencia de flujos de materia, la ley de Fourier se escribe generalmente:
+donde kes la conductividad térmica.
+Sin embargo, esta ley es solo una aproximación lineal, y se aplica solo para el caso donde, con la conductividad térmica posiblemente sea una función de las variables de estado termodinámico, pero no sus gradientes o tasa de cambio en el tiempo.
+Suponiendo que este sea el caso, la ley de Fourier también puede estar escrita:
+En ausencia de flujos de calor, la ley de difusión de Fick suele escribirse:
+donde D es el coeficiente de difusión.
+Dado que esta también es una aproximación lineal y dado que el potencial químico aumenta monótonamente con la densidad a una temperatura fija, la ley de Fick también se puede escribir:
+donde, de nuevo, D'es una función de los parámetros de estado termodinámico, pero no sus gradientes o tasa de cambio de tiempo.
+Para el caso general en el que hay flujos tanto de masa como de energía, las ecuaciones fenomenológicas se pueden escribir como:
+o, más concisamente,
+donde las "fuerzas termodinámicas" entrópicas se conjugan con los "desplazamientos" y es la matriz Onsager de los coeficientes fenomenológicos.
+De la ecuación fundamental, se deduce que:
+y
+Usando las ecuaciones de continuidad, la tasa de producción de entropía ahora se puede escribir:
+y, incorporando las ecuaciones fenomenológicas:
+Se puede ver que, como la producción de entropía debe ser mayor que cero, la matriz Onsager de coeficientes fenomenológicos es una matriz semi-definida positiva.
+La contribución de Onsager fue demostrar que no solo es positivo semi-definido, también es simétrico, excepto en los casos en que se rompe la simetría de inversión de tiempo.
+En otras palabras, los coeficientes cruzadosson iguales.
+El hecho de que sean al menos proporcionales se desprende del análisis dimensional simple (es decir, ambos coeficientes se miden en las mismas unidades de temperatura por densidad de masa).
+La tasa de producción de entropía para el ejemplo simple anterior utiliza solo dos fuerzas entrópicas y una matriz fenomenológica de 2x2 Onsager.
+La expresión de la aproximación lineal a los flujos y la tasa de producción de entropía a menudo se pueden expresar de manera análoga para muchos sistemas más generales y complicados.
+Dejar denotar las fluctuaciones de los valores de equilibrio en varias cantidades termodinámicas, y dejar ser la entropía.
+Entonces, la fórmula de entropía de Boltzmann da para la función de distribución de probabilidad, A = const, ya que la probabilidad de un conjunto dado de fluctuaciones es proporcional al número de microestados con esa fluctuación.
+Suponiendo que las fluctuaciones son pequeñas, la función de distribución de probabilidad se puede expresar a través del segundo diferencial de la entropía
+donde estamos usando la convención de suma de Einstein y \beta_{ik}es una matriz simétrica definida positiva.
+Usando la aproximación de equilibrio casi estacionario, es decir, asumiendo que el sistema está solo ligeramente fuera de equilibrio, tenemos
+Supongamos que definimos cantidades conjugadas termodinámicas como, que también se puede expresar como funciones lineales (para pequeñas fluctuaciones):
+Así, podemos escribir donde se llaman coeficientes cinéticos
+El principio de simetría de los coeficientes cinéticos o el principio de Onsager establece que \gammaes una matriz simétrica, es decir
+Definir valores medios \xi_i(t)y \Xi_i(t)de cantidades fluctuantes x_iy X_iespectivamente, tal que toman valores dados a t=0 Tenga en cuenta que
+La simetría de las fluctuaciones en la inversión del tiempo implica que o con \xi_i(t), tenemos
+Diferenciando con respecto a ty sustituyendo, obtenemos
+Poniendo t=0 en la ecuación anterior,
+Se puede mostrar fácilmente a partir de la definición que, y por lo tanto, tenemos el resultado requerido.

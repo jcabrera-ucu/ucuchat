@@ -1,0 +1,5 @@
+Flatpack es un tipo de encapsulado para montaje en superficie en circuitos impresos estandarizado por las USAF.
+El estándar militar MIL-STD-1835C define: "Flat package (FP). Un encapsulado cuadrado o rectangular con patillas paralelas al plano de la base adheridas a los dos lados opuestos del perímetro del encapsulado."
+La norma indica además distintas variantes con diversos parámetros que incluyen, entre otros, el material del cuerpo del encapsulado, la posición de los terminales, el perfil del encapsulado, la forma de los pines o el orden de cada terminal.
+El Flatpack original lo inventó Y. Tao en 1962 (dos años antes que el Dual Inline Package) mientras trabajaba para Texas Instruments buscando encontrar una mejor disipación del calor.
+El primer dispositivo media 1/4 de pulgada por 1/8 de pulgada (3.2mm x 6.4mm) y tenía 10 pines.

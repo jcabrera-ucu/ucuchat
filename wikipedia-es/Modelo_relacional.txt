@@ -1,0 +1,75 @@
+El modelo relacional para el modelado y la gestión de bases de datos es un modelo de datos basado en la lógica de predicados y en la teoría de conjuntos.
+Tras ser postuladas sus bases en 1970 por Edgar Frank Codd, de los laboratorios IBM en San José (California), no tardó en consolidarse como un nuevo paradigma en los modelos de base de datos.
+Su idea fundamental es el uso de relaciones.
+Estas relaciones podrían considerarse en forma lógica como conjuntos de datos llamados tuplas.
+Pese a que esta es la teoría de las bases de datos relacionales creadas por Codd, la mayoría de las veces se conceptualiza de una manera más fácil de imaginar, pensando en cada relación como si fuese una tabla que está compuesta por registros (cada fila de la tabla sería un registro o "tupla") y columnas (también llamadas "campos").
+Es el modelo más utilizado en la actualidad para modelar problemas reales y administrar datos dinámicamente.
+Ventajas de la base de datos relacional: son muchas las ventajas de las bases de datos relacionales, que las convierten en la opción popular para almacenar los datos de las aplicaciones y plataformas.
+A continuación, se muestran algunas ventajas importantes de las bases de datos relacionales o RDBMS.
+1. Opción segura.
+RDBMS usa tablas con varias filas, y estas son opciones muy seguras para almacenar los datos.
+Estas tablas y datos permanecen protegidos con los nombres de usuario y sus contraseñas.
+Por lo tanto, solo personas autorizadas pueden acceder a esas tablas y datos para trabajar.
+El desarrollador puede dar acceso solo a aquellos usuarios que tienen el nombre de usuario y la contraseña, y estos solo obtienen acceso a su tabla permitida.
+2. Fácil de usar.
+No existe ningún tipo de procesamiento de consultas y, por lo tanto, las bases de datos relacionales son simples.
+El usuario no está obligado a pasar ninguna consulta compleja para acceder a los datos.
+Sin embargo, si el usuario conoce el lenguaje de consulta SQL, esto es más que suficiente y puede utilizar con éxito la base de datos relacional sin ningún problema.
+3. Rendimiento rápido.
+Las bases de datos relacionales son fáciles de usar y también son simples por su estructura.
+Por lo tanto, permite al usuario obtener una experiencia rápida.
+El usuario obtiene muchos filtros de optimización u opciones para aumentar la velocidad de acceso a los datos.
+Entonces, la aplicación funciona perfectamente bien en las bases de datos relacionales, y también el usuario obtiene una experiencia fluida.
+4. Presentar datos con precisión.
+Otra ventaja de utilizar una base de datos relacional es que es más probable que estas bases de datos produzcan tablas precisas e interrelacionadas.
+Como usa las claves primaria y externa para establecer la relación en el mismo archivo por cada fila, los usuarios no tienen ningún problema con la recuperación de los datos anteriores que ya han recibido.
+Por lo tanto, hay cero posibilidades de duplicación de datos en bases de datos relacionales.
+5. Accesible en cualquier momento.
+Muchos otros tipos de bases de datos requieren tener la ruta especificada para acceder a los datos.
+Pero aquí, en la base de datos relacional, el usuario no necesita ninguna ruta predefinida.
+Por lo tanto, la accesibilidad en el RDBMS es más fácil en comparación con otras bases de datos.
+Además, los usuarios también pueden modificar los datos rápidamente y, por lo tanto, aumentan las posibilidades de obtener un resultado más preciso.
+6. Puede tener varios usuarios
+Es uno de los grandes beneficios de las bases de datos relacionales, ya que muchos usuarios pueden acceder a la base de datos al mismo tiempo.
+Incluso si los datos ya están actualizados, también muchos usuarios pueden visitar sin ningún problema.
+Por lo tanto, si la empresa utiliza bases de datos relacionales, puede evitar el bloqueo causado principalmente al obtener un inicio de sesión de múltiples usuarios en la base de datos.
+Las bases de datos no estructurados, bases de datos orientadas a objetos (BDOO), se propusieron con el objetivo de satisfacer las necesidades de las aplicaciones anteriores y así, complementar, pero no sustituir a las bases de datos estructurados relacionales.
+Desventajas de la base de datos relacional: hemos discutido las ventajas de las bases de datos relacionales, pero existen algunas desventajas significativas de las bases de datos relacionales.
+Y también debemos comprenderlos para elegir RDBMS ideales para su uso.
+1. Incrementar el gasto.
+Como hay varias ventajas atractivas de las bases de datos relacionales, estas bases de datos son bastante caras de usar.
+Además, la empresa o el usuario deben comprar el software y las herramientas para obtener el resultado completo de RDBMS.
+Por lo tanto, si la empresa tiene un presupuesto bajo, puede resultar difícil obtener una base de datos de este tipo.
+2. Alguna información se puede perder
+El RDBMS contiene el espacio limitado y estos dispositivos de almacenamiento no pueden almacenar más datos si no hay espacio.
+Como no hay más almacenamiento, estos datos se pueden perder y crear problemas en el futuro.
+Por lo tanto, las bases de datos relacionales son limitadas y causan varios problemas si la empresa no las monitorea adecuadamente.
+3. Requerido para el uso de dispositivos de almacenamiento físico.
+También requiere importantes dispositivos de almacenamiento, especialmente dispositivos de memoria física.
+Porque usa los raws y las columnas y cada conjunto de datos usa filas separadas para ellos.
+Por lo tanto, se vuelve crucial mantener los dispositivos físicos que pueden ayudar en la optimización adecuada.
+4. Problema de rendimiento
+El nivel de rendimiento puede ser bajo en las bases de datos relacionales porque depende de filas y columnas.
+Por lo tanto, si hay muchos raws y tablas, la consulta tardará más en procesar el resultado.
+Además, si hay una cantidad considerable de datos en la máquina, puede ralentizar el proceso de trabajo.
+Por lo tanto, el problema de rendimiento es la desventaja de una base de datos relacional que la mayoría de los usuarios pueden enfrentar mientras la usan.
+5. Puede ser complejo de entender
+Hemos comentado que la base de datos relacional es fácil de usar, pero esto también puede ser un desafío.
+Cuando aumenta la cantidad de datos almacenados, se vuelve complicado comprender esos datos de forma simplificada.
+Sucede porque todos los datos han seguido utilizando la función particular que genera grandes conjuntos de datos para filtrar.
+En este modelo todos los datos son almacenados en relaciones, y como cada relación es un conjunto de datos, el orden en el que estos se almacenen no tiene relevancia (a diferencia de otros modelos como el jerárquico y el de red).
+Esto tiene la considerable ventaja de que es más fácil de entender y de utilizar por un usuario no experto.
+La información puede ser recuperada o almacenada por medio de consultas que ofrecen una amplia flexibilidad y poder para administrar la información.
+Este modelo considera la base de datos como una colección de relaciones.
+De manera simple, una relación representa una tabla que no es más que un conjunto de filas, cada fila es un conjunto de campos y cada campo representa un valor que interpretado describe el mundo real.
+Cada fila también se puede denominar tupla o registro y a cada columna también se le puede llamar campo o atributo.
+Para manipular la información utilizamos un lenguaje relacional: actualmente se cuenta con dos lenguajes formales, el Álgebra relacional y el Cálculo relacional.
+El Álgebra relacional permite describir la forma de realizar una consulta, en cambio, el cálculo relacional solamente indica lo que se desea devolver.
+Un esquema contiene la definición de una estructura (generalmente relaciones o tablas de una base de datos), es decir, determina la identidad de la relación y qué tipo de información podrá ser almacenada dentro de ella; en otras palabras, el esquema contiene los metadatos de la relación.
+Todo esquema constará de:
+Una instancia de manera formal es la aplicación de un esquema a un conjunto finito de datos.
+En palabras no tan técnicas, se puede definir como el contenido de una tabla en un momento dado, pero también es válido referirnos a una instancia cuando trabajamos o mostramos únicamente un subconjunto de la información contenida en una relación o tabla, como por ejemplo:
+Una base de datos relacional es un conjunto de una o más tablas estructuradas en registros (líneas) y campos (columnas), que se vinculan entre sí por un campo en común, en ambos casos posee las mismas características como por ejemplo el nombre de campo, tipo y longitud; a este campo generalmente se le denomina ID, identificador o clave.
+A esta manera de construir bases de datos se le denomina modelo relacional.
+Estrictamente hablando el término se refiere a una colección específica de datos pero a menudo se le usa, en forma errónea como sinónimo del software usado para gestionar esa colección de datos.
+Ese software se conoce como sistema gestor de base de datos relacional (SGBD) o en inglés relational database management system (RDBMS).

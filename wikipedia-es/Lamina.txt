@@ -1,0 +1,17 @@
+Las laminas  nucleares, también conocidas como filamentos intermedios de clase V, genética|transcripción]].
+A veces se les ha llamado también proteínas laminares.
+Interaccionan con ciertas proteínas de membrana para formar la lámina nuclear, en la cara interior de la envoltura nuclear.
+Trabajan durante el desmantelamiento y la reconstitución de la envoltura nuclear, que ocurren respectivamente al principio y al final de la mitosis, y participan también en la ordenación geométrica de los poros nucleares.
+En las células animales, hay láminas de dos tipos, A y B, que se distinguen por longitud y punto isoeléctrico.
+Las células humanas para las laminas tienen tres genes relacionados que difieren en su regulación:
+Estas proteínas se localizan en dos regiones del espacio nuclear, la lámina nuclear —una capa estructural proteica adyacente por su cara interior a la membrana nuclear interna— y distribuidas por el nucleoplasma, donde forma el «velo» nucleoplasmático.
+Cuando se comparan las laminas con los filamentos intermedios del plasma extranuclear, se observa que las laminas tienen 42 residuos aminoácidos de más (seis secuencias consecutivas de siete) en el pliegue 1b.
+El dominio C-terminal contiene una señal de localización nuclear, un dominio tipo pliegue Ig, y en la mayoría de los casos una «caja» CaaX carboxilo-terminal que se encuentra isoprenilada y carboximetilada (la lámina C no tiene CaaX).
+La lámina A es procesada además para cortar sus 15 últimos residuos aminoácidos con su cisteína farnesilada.
+Las laminas A y C forman homodímeros que se asocian cabeza contra cola.
+Durante la mitosis, las laminas son fosforiladas por el factor promotor de la maduración (MPF), que dirige el desmontaje de la lámina y la envoltura nuclear.
+Tras la segregación de las cromátidas, las laminas son desfosforiladas, y eso promueve el reensamblaje de la envoltura nuclear.
+Ciertas mutaciones del gen de la lámina A producen el síndrome de Hutchinson-Gilford, una forma espectacular de progeria, es decir, envejecimiento prematuro.
+En condiciones normales las laminas A promueven la estabilidad genética, manteniendo los niveles de las proteínas clave para la reparación de las roturas del ADN bicatenario durante los procesos de recombinación no homóloga y recombinación homóloga.
+En células de ratón que presentan una maduración defectuosa de la prolamina A, se observan más daños en el ADN y más aberraciones cromosómicas, y son más sensibles a los agentes que dañan el ADN.
+En el síndrome progérico de Hutchinson-Gilford algunos efectos parecen deberse a la incapacidad de reparar correctamente daños en el ADN.

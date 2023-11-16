@@ -1,0 +1,12 @@
+En matemática, la curva de Lévy C es un fractal autosimilar.
+Descrita por primera vez por Ernesto Cesàro en 1906 y G. Farber en 1910, hoy lleva el nombre del matemático francés Paul Pierre Lévy quien, en 1938, fue el primero en exhibir sus propiedades de autosimilitud y proveer una construcción geométrica.
+Utilizando un sistema de Lindenmayer, la construcción de la curva de Lévy C parte de un segmento de recta, este segmento se toma por la hipotenusa de un triángulo rectángulo isósceles, y se reemplaza por los dos catetos de dicho triángulo.
+De este modo, en esta etapa la curva consiste únicamente de dos segmentos de recta perpendiculares.
+En la etapa siguiente, los dos segmentos son tomados como las hipotenusas de dos triángulos rectángulos isósceles, y se les reemplaza por los dos catetos correspondientes, y así sucesivamente.
+Después de n etapas, la curva consistirá de 2n segmentos de recta, cada uno de longitud 2n/2 con respecto al segmento de partida.
+El sistema de Lindenmayer asociado puede describirse entonces del siguiente modo:
+donde "<tt>F</tt>" significa "avanza recto", "+" significa "gira a la derecha 45°", y "−" significa "gira a la izquierda 45°".
+En el límite, el resultado de este proceso infinito es el fractal conocido como curva de Lévy C, dado su parecido con la letra C.
+Es posible construir variantes de esta curva utilizando ángulos diferentes de 45°, siempre y cuando sean menores a 60°.
+La construcción de la curva de Lévy por medio de un sistema de funciones iteradas se basa en un conjunto de dos aplicaciones contractivas lineales de factor 1/√2.
+La primera introduce una rotación de 45°, y la segunda una rotación de -45°.

@@ -1,0 +1,18 @@
+CRIME ("Compression Ratio Info-leak Made Easy" o filtración de información de ratio de compresión hecho fácil) es un exploit de seguridad contra cookies web secretas que operan sobre conexiones usando los protocolos HTTPS y SPDY y que también usan compresión.
+Cuando se usa para recuperar el contenido de cookies de autenticación secretas, permite al atacante llevar a cabo el secuestro de una sesión web autenticada, permitiendo así lanzar otros ataques.
+La vulnerabilidad explotada es una combinación de inyección de texto plano y de fuga de información a través de compresión de datos similar a la descrita en 2002 por el criptógrafo John Kelsey.
+Esta se basa en que el atacante sea capaz de observar el tamaño del ciphertext enviado por el navegador mientras al mismo tiempo inducir al navegador a hacer múltiples conexiones cuidadosamente diseñadas al sitio web objetivo.
+El atacante entonces observará el cambio en el tamaño de la información solicitada, la que contiene tanto la cookie secreta que se envía por el navegador al sitio web, contenido variable creado por el atacante y como el contenido variable es alterado.
+Cuando el tamaño del contenido comprimido es reducido, se puede inferir que es probable que en alguna parte del contenido inyectado, ésta sea igual a parte del contenido original, la que incluye el contenido secreto que el atacante desea descubrir.
+La técnica división y conquista puede utilizarse entonces para averiguar el contenido secreto usando un número relativamente pequeño de intentos, los que serán un pequeño múltiplo de los bytes secretos a ser recuperados.
+El exploit CRIME fue creado por los investigadores de seguridad Juliano Rizzo y Thai Duong, quienes también crearon el exploit BEAST.
+El exploit fue revelado en detalle en la conferencia de seguridad informática ekoparty 2012.
+CRIME puede ser vencido al prevenir el uso de compresión, ya sea en el cliente o por el navegador deshabilitando la compresión de solicitudes HTTPS, o por el sitio web previniendo el uso de compresión de datos en dichas transacciones usando la negociación de protocolos de TLS.
+undefined
+A septiembre de 2012, el exploit CRIME ha sido mitigado por las nuevas versiones de Chrome y Firefox, y Microsoft ha confirmado que su navegador Internet Explorer no era vulnerable a dicho ataque.
+Algunos sitios han aplicado contramedidas por su parte también.
+El servidor web nginx no era vulnerable a Crime desde la versión 1.0.9/1.1.6 (octubre / noviembre de 2011) utilizando OpenSSL 1.0.0 +, y desde 1.2.2/1.3.2 (junio / julio de 2012) utilizando cualquier versión de OpenSSL.
+A diciembre de 2013, el exploit CRIME contra la compresión HTTP no se ha mitigado en absoluto.
+Rizzo y Duong han advertido que esta vulnerabilidad podría estar aún más extendida que la compresión SPDY y TLS combinadas.
+En la conferencia Black Hat de agosto de 2013, los investigadores Gluck, Harris y Prado anunciaron una instancia del CRIME exploit contra la compresión HTTP llamado BREACH (abreviatura de Reconocimiento de Browser y exfiltración mediante Compresión adaptable de hipertexto).
+Esta destapa secretos HTTPS atacando la compresión de datos HTTP incorporada utilizado por los servidores web para reducir el tráfico de red.

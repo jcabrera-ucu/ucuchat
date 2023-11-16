@@ -1,0 +1,14 @@
+El Team Ehingen Urspring es un equipo de baloncesto alemán con sede en la ciudad de Ehingen, que compite en la ProB, la tercera división de su país.
+Disputa sus partidos en el Längenfeldhalle Ehingen, con capacidad para 1500 espectadores.
+{| class="toccolours" style="font-size: 95%; width: 85%; "
+! colspan="2" style="background-color:#A3C324; color:white; text-align: center;" | Team Ehingen Urspring 2018-2019
+! Jugadores !!
+Entrenadores
+{| class="sortable" style="background:transparent; margin:0px; width:100%;"
+! N.º !!
+Nac.
+!! Pos.
+!! Nombre !!
+Altura !!
+Peso !!
+Procedencia

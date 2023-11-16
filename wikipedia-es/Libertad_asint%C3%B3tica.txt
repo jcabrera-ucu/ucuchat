@@ -1,0 +1,30 @@
+En física de partículas, la libertad asintótica es la propiedad de algunas teorías de gauge en las cuales algunas partículas, como los quarks, tienen interacciones que se debilitan progresivamente a distancias menores, es decir, a escalas de longitud que convergen asintóticamente a cero (o, equivalentemente, a escalas de energía que llegan a ser arbitrariamente grandes).
+El hecho de que la libertad asintótica es una propiedad de la cromodinámica cuántica (QCD), la teoría cuántica de campos de las interacciones de quarks y de gluones, fue descubierto por David Gross, Frank Wilczek, y David Politzer en 1973, motivo por el que les fue otorgado el Premio Nobel de Física en el año 2004.
+La libertad asintótica implica que en dispersiones de gran energía los quarks se mueven dentro de los hadrones, tales como el neutrón y el protón, esencialmente como partículas libres, que no interactúan, y permite que los físicos calculen las secciones eficaces de varios acontecimientos en física de partículas usando confiablemente técnicas de partón.
+El descubrimiento también ha ayudado a rehabilitar la reputación de la teoría cuántica de campos (QFT) como descripción coherente de las interacciones de las partículas.
+Antes de 1973, muchos teóricos sospecharon que QFT se hacía fundamentalmente incoherente por el polo de Landau de corta distancia que surge en electrodinámica cuántica y algunas otras teorías de campos.
+Las teorías con libertad asintótica, sin embargo, carecen de este polo de Landau.
+El descubrimiento de la libertad asintótica fue, por lo tanto, un paso clave en la aparición de un modelo estándar de la física de partículas basado en la teoría cuántica de campos.
+La variación en un acoplamiento físico constante bajo cambios de escala puede entenderse cualitativamente como provenientes de la acción del campo sobre partículas virtuales que portan la carga relevante.
+El comportamiento del polo de Landau de QED es una consecuencia del apantallamiento por pares cargados virtuales partícula-antipartícula, tales como pares electrón-positrón, en el vacío.
+En la vecindad de una carga, el vacío se polariza: partículas virtuales de carga opuesta son atraídas a la carga, y partículas virtuales de carga semejante son rechazadas.
+El efecto neto es cancelar parcialmente el campo a cualquier distancia finita.
+Acercándose cada vez más a la carga central, se ve menos y menos el efecto del vacío, y aumenta la carga eficaz.
+En QCD, la misma cosa sucede con pares virtuales quark-antiquark; tienden a apantallar la carga de color.
+Sin embargo en QCD hay un hecho adicional: las partículas que llevan la fuerza, los gluones, tienen asimismo carga de color.
+En línea general, cada gluon lleva una carga del color y una carga de anti-color (de un color distinto).
+El efecto neto de la polarización de gluones virtuales en el vacío no es apantallar el campo, sino aumentarlo y afectar su color.
+Esto se llama a veces antiapantallamiento.
+Acercarse a un quark disminuye el efecto antiapantallamiento de los gluones virtuales circundantes, así que la contribución de este efecto sería debilitar la carga eficaz con una disminución de distancia.
+Puesto que los quarks virtuales y los gluones virtuales contribuyen con efectos opuestos, que efectos prevalecen depende del número de diversas clases, o de los sabores, de quarks.
+Para la QCD estándar con tres colores, dado que no hay no más de 16 sabores de quark (no contando los antiquarks por separado), el antiapantallamiento prevalece y la teoría es asintóticamente libre.
+De hecho, hay solamente 6 sabores conocidos de quark.
+La libertad asintótica puede ser derivada calculando la función-beta que describe la variación de la constante de acoplamiento de la teoría bajo el grupo de renormalización.
+Para las distancias suficientemente cortas o los intercambios grandes de momento (que sondean el comportamiento de corta distancia, debido a la relación inversa entre el momento cuántico y la longitud de onda), la teoría asintóticamente libre es accesible a los cálculos de la teoría de perturbaciones usando diagramas de Feynman.
+Tales situaciones son por lo tanto más manejables teóricamente que el comportamiento de larga distancia, de acoplamiento fuerte también a menudo presente en tales teorías, que se piensa producen el confinamiento.
+Calcular la función-beta es cuestión de evaluar los diagramas de Feynman que contribuyen a la interacción de un quark que emite o que absorbe un gluon.
+En teorías no-abelianas de gauge tales como QCD, la existencia de libertad asintótica depende del grupo de gauge y del número de sabores de partículas que obran recíprocamente.
+En el primer orden no trivial, la función-beta en una teoría de gauge de SU(N) con nf clases de partículas tipo quark son
+donde \alpha es el equivalente en la teoría de la constante de estructura fina, g^2/(4 \pi) en las unidades preferidas por los físicos de partículas.
+Si esta función es negativa, la teoría es asintóticamente libre.
+Para SU(3), el grupo de gauge de la carga de color de QCD, la teoría es por lo tanto asintóticamente libre si hay 16 o menos sabores de quarks.

@@ -1,0 +1,54 @@
+La inmunoterapia hiposensibilizante consiste en la administración de dosis pequeñas y crecientes del material alergénico al que el paciente esta sensibilizado, con el objetivo de disminuir los síntomas en posteriores exposiciones al agente causante de la sintomatología alérgica.
+No excluye otros tratamientos de las enfermedades alérgicas, como la evitación alergénica y el tratamiento farmacológico, aunque la Organización Mundial de la Salud (OMS) ha señalado que la Inmunoterapia con alérgenos es el único tratamiento que puede modificar el curso natural de las enfermedades alérgicas.
+La ITA se viene utilizando desde hace más de 100 años.
+La primera referencia acerca de un tratamiento con inmunoterapia data de 1911, cuando Leonard Noon publicó un breve artículo titulado Prophylactic inoculation against hay fever en la revista The Lancet.
+La preparación del extracto consistió en introducir, en un tubo de cristal cerrado, polen de una gramínea (Phleum pratense) junto con agua destilada y hacerla hervir durante 10 minutos.
+Para comprobar la potencia del extracto así fabricado, Noon testó a sus pacientes mediante provocación ocular instilando en el saco conjuntival, con un cuentagotas, distintas diluciones de su extracto observando posteriormente la respuesta.
+Mediante este método determinó “la potencia del extracto suficiente para que aparezca la reacción conjuntival”.
+Concluyó que esta unidad representaba el material extractado de 0.1 mg de polen.
+Comenzó las inoculaciones subcutáneas del extracto de Phleum pratense, incrementando la dosis cada 7-15 días, revaluando la reacción ocular con el fin de comprobar la protección frente a la “toxina” del polen.
+De esta manera, observó que la potencia requerida para conseguir una reacción conjuntival se incrementaba 100 veces tras la administración de las inoculaciones subcutáneas.
+Concluía su artículo sugiriendo que la inmunidad así demostrada sería suficiente para que los pacientes no sufrieran los ataques anuales de rinoconjuntivitis durante la estación polínica.
+En los últimos 100 años, se han realizado numerosos estudios que han desarrollado la estandarización de los extractos alergénicos, han mejorado su seguridad y comodidad de administración, han demostrado su mecanismo de actuación y han cuantificado su eficacia mediante estudios doble ciego, controlados con placebo.
+Disponemos de diversos tipos de vacunas para la alergia en función de la categoría del alérgeno:
+Así mismo, las vacunas pueden administrarse por diferentes vías: subcutáneas(la más común), oral, sublingual(relativamente nueva y con eficacia probada), nasal, inhalación y percutánea.
+Las vacunas de vía oral o sublingual tienen que ser aplicadas diariamente, por la mañana y la noche.
+Generalmente se inicia a concentraciones bajas del alérgeno, y gradualmente se va aumentando.
+La duración del tratamiento oscila de dos a cuatro años de tratamiento.
+Después de los primeros meses de vacunación, estando los pacientes asintomáticos, las aplicaciones pueden espaciarse.
+Las vacunas se utilizan en medicina como modificadores de la respuesta inmunológica.
+Así también sucede con la inmunoterapia hiposensibilizante.
+Diversos estudios han demostrado que la administración continuada con de dosis de alérgenos es capaz de producir tres tipos de cambios inmunológicos: a) modulación de la respuesta de anticuerpos IgE alérgeno específicos, b) reducción del reclutamiento y de activación de células proinflamatorias y c) cambio en el patrón de respuesta de células T específicas de alérgeno.
+Es conocido que la respuesta inmunológica de los linfocitos T de los pacientes alérgicos presentan un disbalance en el equilibrio de respuesta Th1-Th2, con un claro predominio Th2, que es el subgrupo de linfocitos T que facilitan un aumento en la producción de Inmunoglobulina IgE (IgE), causante de las enfermedades alérgicas.
+Se ha demostrado que la ITA es capaz de reorientar la respuesta de células T alérgeno-específica de los sujetos atópicos desde un perfil Th2 hacia uno Th1, que conduce a un aumento de la síntesis de IgG (inmunoglobulina bloqueante de la reacción alérgica).
+Por tanto, la utilización de IT conduce a un descenso de la relación IgE/IgG.
+La traducción clínica de estos hallazgos inmunológicos se ha confirmado mediante diversos estudios clínicos que han demostrado que cuando la ITA se encuentra correctamente indicada, produce una mejoría clínica significativa, tanto en sujetos diagnosticados de Asma como de Rinoconjuntivitis alérgica.
+Además, se ha evidenciado que en algunos pacientes, la administración de ITA previene el desarrollo de Asma en pacientes con diagnóstico de Rinitis, así como la aparición de nuevas sensibilizaciones.
+Estos estudios también han demostrado que en general, los efectos clínicos más importantes aparecen tras varios años de administración de IT.
+La calidad de la vacuna alergénica es crítica para la eficacia del tratamiento y deben utilizarse vacunas estandarizadas de potencia y estabilidad bien conocidas.
+La primera vía de administración de la inmunoterapia fue por vía subcutánea y continúa siendo una de las vías empleadas en la práctica habitual.
+En los últimos años se ha utilizado la vía sublingual, con buenos resultados clínicos.
+Estas vacunas se ponen en la zona posterior en la mitad distal del brazo de manera subcutánea.
+La administración endovenosa o intramuscular aumentaría el riesgo de una reacción sistémica.
+La inmunoterapia sublingual se basa en la administración de dosis elevadas (entre 10 y 50 veces más que la ITA administrada vía subcutánea) de alérgeno mediante dispensación de gotas debajo de la lengua.
+La inmunoterapia sublingual ha demostrado ser un tratamiento efectivo en niños con rinitis y asma causadas por sensibilización a alérgenos estacionales (como la alergia al polen) y actualmente su uso en varios países europeos supera al de la inmunoterapia subcutánea clásica.
+En el caso de las sensibilizaciones provocadas por alérgenos perennes (que se manifiestan durante todo el año, tales como la alergia a los ácaros del polvo, pelo de animales, etc.) las pruebas científicas no son concluyentes, y se precisan más estudios para demostrar la eficacia de la inmunoterapia sublingual.
+Recientemente, ha surgido una nueva forma de presentación para vacunas de ITA, mediante un extracto alergénico liofilizado que se administra vía ora l (como tabletas), que ha demostrado su eficacia y seguridad con diversos estudios.
+undefined
+La administración de las vacunas con alérgenos, tanto por vía subcutánea como sublingual, consta tradicionalmente de dos fases: iniciación y mantenimiento.
+Durante la fase de iniciación, se administran dosis crecientes hasta llegar a la dosis terapéutica o eficaz.
+Generalmente, se han utilizado pautas consistentes en la administración durante varias semanas de una dosis semanal para las vacunas subcutáneas y de una dosis diaria o en días alternos para las vacunas sublinguales.
+Sin embargo, cada vez se utilizan más las pautas agrupadas que permiten alcanzar la dosis terapéutica en un tiempo menor, administrándose varias dosis en cada visita, con mejores resultados en seguridad, efectividad, costes y cumplimiento.
+La fase de mantenimiento comienza cuando se alcanza la dosis terapéutica y consiste en la repetición de ésta a intervalos regulares (4-6 semanas para las vacunas subcutáneas; 1-3 días para las sublinguales).
+Por lo general, se trata de una fase prolongada, que dura varios años.
+Los extractos utilizados para ITA han ido aumentando su seguridad: en la actualidad los extractos administrados están estandarizados para evitar la variabilidad en su potencia entre lotes de fabricación y habitualmente se administran extractos que han sufrido transformaciones que modifican su estructura, retrasan su adsorción, y disminuyen la aparición de reaccione adversas.
+Sin embargo, se trata de un tratamiento biológico que administra alérgenos a los que el paciente presenta hipersensibilidad, y siempre debe ser indicada por un especialista con experiencia en su manejo ya que pueden aparecer, ocasionalmente, reacciones adversas tras su aplicación.
+Aunque, en general, son síntomas leves que responden adecuadamente al tratamiento, la ITA subcutánea siempre debe ser administrada en un centro médico, por personal entrenado, permaneciendo el paciente en observación al menos 30 minutos tras su administración.
+La inmunoterapia con alérgenos, administrada tanto por vía subcutánea como por vía sublingual, está absolutamente contraindicada en niños menores de dos años, personas con asma incontrolada o mal controlada, pacientes con enfermedades autoinmunes activas y enfermos de SIDA.
+Asimismo, está absolutamente contraindicado su inicio durante el embarazo, pero podría continuarse un tratamiento preexistente bien tolerado, con precaución y bajo supervisión médica.
+En niños con edades comprendidas entre los dos y los cinco años, la inmunoterapia con alérgenos solo está indicada en casos concretos.
+La IT es un tratamiento indicado en pacientes diagnosticados de patología alérgica respiratoria (Rinoconjuntivitis, Asma o ambas), en los que se objetiva un alérgeno responsable de su sintomatología del que se disponga extractos estandarizados y suficientemente probados.
+Es especialmente útil en pacientes sensibles a alérgenos difícilmente evitables como ácaros, hongos y pólenes.
+También se han empleado con éxito en pacientes sensibilizados a epitelios de animales.
+En pacientes alérgicos a veneno de himenópteros (abeja, avispas y polistes) ha demostrado una eficacia especialmente elevada, protegiendo a la práctica totalidad de los pacientes a los que se administra correctamente y ha demostrado ser el único tratamiento eficaz para la prevención de anafilaxia inducida por la picadura de estos insectos.
+Por lo general la vacunación debe mantenerse durante un tiempo de entre 3 y 5 años pero siempre dependerá de la evolución y seguimiento médico del paciente.

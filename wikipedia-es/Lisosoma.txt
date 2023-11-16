@@ -1,0 +1,30 @@
+thumb|400px|Diagrama de una célula animal típica: Los lisosomas son [[orgánulos relativamente grandes, formados a partir del aparato de Golgi, que contienen hidrolasas ácidas (proteasas, nucleasas, glucosidasas, lipasas, etc.) encargadas de degradar el material intracelular de origen externo (como las bacterias o las partículas alimentarias) o interno (como las estructuras celulares dañadas) que llega a ellos. Es decir, se encargan de la digestión celular. Son estructuras esféricas rodeadas de membrana simple. Son bolsas de enzimas que si se liberasen, destruirían toda la célula. Esto implica que la membrana lisosómica debe estar protegida de estas enzimas. El tamaño de un lisosoma varía entre 0,02~0,5μm. Los lisosomas fueron descubiertos por el bioquímico belga Christian de Duve en 1950 nombrada en 1955 ya como lisosoma.
+En un principio se pensó que los lisosomas serían iguales en todas las células, pero se descubrió que tanto sus dimensiones como su contenido son muy variables.
+Se encuentran en todas las células animales.
+El pH en el interior de los lisosomas es de 4,8 (bastante menor que el del citosol, que es neutro) debido a que las enzimas proteolíticas funcionan mejor con un pH ácido.
+La membrana del lisosoma estabiliza el pH bajo bombeando iones (H+) desde el citosol, asimismo, protege al citosol e igualmente al resto de la célula de las enzimas digestivas que hay en el interior del lisosoma.
+Las enzimas lisosomales son capaces de digerir bacterias y otras sustancias que entran en la célula por fagocitosis, u otros procesos de endocitosis.
+Los lisosomas utilizan sus enzimas para reciclar los diferentes orgánulos de la célula, englobándolos, digiriéndolos y liberando sus residuos en el citosol.
+De esta forma, los orgánulos de la célula se están continuamente reponiendo, a través del proceso de digestión de los orgánulos se llama autofagia.
+Por ejemplo, las células hepáticas se reconstituyen por completo una vez cada dos semanas.
+Los lisosomas primarios son orgánulos derivados del sistema de endomembranas.
+Cada lisosoma primario es una vesícula que brota del aparato de Golgi, con un contenido de enzimas hidrolíticas (hidrolasas).
+Las hidrolasas son sintetizadas en el retículo endoplasmático rugoso y viajan hasta el aparato de Golgi por transporte vesicular.
+Allí sufren una glicosilación terminal (proceso químico en el que se adiciona un carbohidrato a otra molécula) de la cual resultan con cadenas glucídicas ricas en manosa-6-fosfato (manosa-6-P).
+La manosa-6-P es el marcador molecular, la «estampilla» que dirige a las enzimas hacia la ruta de los lisosomas.
+Se ha estudiado una enfermedad en la cual las hidrolasas no llevan su marcador; las membranas del aparato de Golgi no las reconocen como tales y las empaquetan en vesículas de secreción para ser exocitadas, de modo que, quienes padecen esta enfermedad, acumulan hidrolasas en el medio extracelular, mientras sus células carecen de ellas.
+Los lisosomas secundarios contienen una variedad de enzimas hidrolíticas capaces de degradar casi todas las moléculas orgánicas.
+Estas hidrolasas se ponen en contacto con sus sustratos cuando los lisosomas primarios se fusionan con otras vesículas y el producto de la fusión es un lisosoma secundario.
+Por lo tanto, la digestión de moléculas orgánicas se lleva a cabo en los lisosomas secundarios, ya que estos contienen a la vez los sustratos y las enzimas capaces de degradarlos.
+Existen diversas formas de lisosomas secundarios, según el origen de la vesícula que se fusiona con el lisosoma primario:
+Lo que queda del lisosoma secundario después de la absorción es un cuerpo residual.
+Los cuerpos residuales contienen desechos no digeribles que en algunos casos se exocitan y en otros no, acumulándose en el citosol a medida que la célula envejece.
+Un ejemplo de cuerpos residuales son los gránulos de lipofuscina que se observan en células de larga vida, como las neuronas.
+Son enfermedades causadas por la disfunción de alguna enzima lisosómica o por la liberación incontrolada de dichas enzimas en el citosol, lo que produce la lisis de la célula.
+En algunos casos, la liberación de las enzimas cumple un papel fisiológico, permitiendo la reabsorción de estructuras que ya no son útiles, por ejemplo la cola de los renacuajos durante la metamorfosis.
+En las enfermedades de almacenamiento lisosómico, alguna enzima del lisosoma tiene actividad reducida o nula debido a un error genético y el substrato de dicho enzima se acumula y deposita dentro del lisosoma que aumentan de tamaño a causa del material sin digerir, lo cual interfiere con los procesos celulares normales; algunas de estas enfermedades son:
+En la gota, el ácido úrico proveniente del catabolismo de las purinas se produce en exceso, lo que provoca la deposición de cristales de urato en las articulaciones.
+Los cristales son fagocitados por las células y se acumulan en los lisosomas secundarios; estos cristales provocan la ruptura de dichas vacuolas con la consiguiente liberación de enzimas lisosómicos en el citosol que causa la digestión de componentes celulares, la liberación de sustancias de la célula y la autólisis celular.
+La membrana de los lisosomas es impermeable a las enzimas y resistente a la acción de estas.
+Ambos hechos protegen normalmente a la célula de una batería enzimática que podría degradarla.
+Existen, sin embargo, algunos procesos patológicos, como la artritis reumatoide, que causan la destrucción de las membranas lisosomales, con la consecuente liberación de las enzimas y la lisis celular.

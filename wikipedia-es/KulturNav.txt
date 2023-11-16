@@ -1,0 +1,14 @@
+KulturNav es un servicio digital de almacenamiento en nube originario de Noruega.
+Su principal fin es que sus usuarios puedan utilizar dicha plataforma para crear y administrar un sistema de control de autoridades focalizado en las necesidades de museos y centros culturales.
+El proyecto fue creado y es dirigido por el Consejo de las Artes de Noruega.
+El proyecto se inició en 2013 y el sitio estuvo completamente operativo el 20 de enero de 2015.
+Es utilizado por alrededor de 130 museos de Noruega y Suecia.
+Según su propio sitio web, KulturNav está diseñado para mejorar el acceso a la información sobre el patrimonio cultural en archivos, bibliotecas y museos, trabajando con metadatos comunes.
+Así, distintas instituciones pueden colaborar para construir una base de datos y terminología estándar.
+Según el Centro de Arquitectura y Diseño Skeppsholmen, KulturNav posee un registro bastante completo de arquitectos suecos.
+KulturNav utiliza la tecnología KulturIT, un software desarrollado y mantenido en conjunto entre el Museo de Cultura Popular de Noruega y el Museo Lillehammer, un proyecto sin fines de lucro.
+KulturIT se basa en el sistema de datos enlazados, lo que lo hace compatible con otras fuentes que utilicen la misma tecnología.
+La API soporta consultas con HTTP GET, las cuales no tienen un sistema de autentificación y autorización, lo que significa que solo se puede consultar contenido que sea público.
+El sistema fue desarrollado basándose en Play Framework, junto con Solr y jQuery.
+En marzo de 2015, el registro nacional de fotografía de Suecia inició el proceso de migración a KulturNav.
+El proyecto de digitalización del Museo de Historia Natural de Estocolmo, iniciado en 2016 y que se espera finalice en 2020, prevé subir el material obtenido a KulturNav o una plataforma similar.

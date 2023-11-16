@@ -1,0 +1,40 @@
+En biología celular y molecular, un receptor de linfocitos T o TCR (por T cell receptor) es un receptor celular asociado a una vía de señalización intracelular caracterizado por pertenecer a la familia de los receptores con actividad enzimática intrínseca y por poseer como ligandos a péptidos pequeños asociados con moléculas del complejo principal de histocompatibilidad (MHC) en la membrana plasmática de macrófagos y otras células presentadoras de antígenos.
+Las características moleculares de dicho receptor comprenden la posesión de una hélice alfa transmembrana individual, si bien existen diversas proteínas kinasas asociadas a dominios citosólicos (presentes sólo en linfocitos T), y su vía de transducción de la señal implica la activación de proteínas tirosín kinasas citosólicas, vía PI-3 kinasa, vía IP3/DAG y vía Ras/MAPK.
+De este modo, su activación mediante un estímulo externo provoca una cascada de reacciones enzimáticas interna que facilita la adaptación de la célula a su entorno, por mediación de segundos mensajeros.
+El TCR está conformado por dos cadenas similares a las inmunoglobulinas, solo que los TCR nunca son secretadas: siempre están asociadas a la membrana celular.
+Por ello, constan de una porción en ambas cadenas que atraviesa la membrana bilipídica incluyendo un pequeño segmento que es intracelular.
+Las dos cadenas se denominan TCRα y TCRβ, se disponen una al lado de la otra unidas por enlaces de disulfuro.
+Ciertas moléculas de la superficie de las células T estabilizan tanto a las interacciones mediadas por la TCR así como la comunicación intracelular, entre ellas: CD3, CD4 y CD8.
+Fueron descubiertos por el doctor Charly Mourat.
+Las cadenas no son muy diferentes a las Inmunoglobinas,y tienen una estructura semejante, es decir, un dominio constante (C) y un dominio variable (V), el cual se encuentra en la región apical de la porción extracelular.
+El dominio variable, al igual que el de las Inmunoglobinas, tiene 3 pequeñas regiones hipervariables (CDR) que son las encargadas directas de la interacción con el complejo péptido:CMH, de una forma altamente complementaria.
+La más específica es CDR3.
+No obstante, la unión entre el péptido:CMH y el TCR tiene una constante de disociación muy alta.
+Las cadenas α y β (y en raros casos la alternativa combinación de cadenas γ:δ) están asociadas sobre la membrana celular con un grupo de moléculas sin variabilidad morfológica denominadas en conjunto CD3.
+Los complejos de membrana TCR:CD3 son necesarios para asegurar una interacción estable de las células T con las células presentadoras de antígenos y son responsables de gran parte de la comunicación intracelular mediada por el TCp
+El complejo CD3 está compuesto por tres monómeros denominados γ, δ y ε unidos espacialmente, pero no con carácter covalente.
+CD3γ y CD3δ son ambas glicoproteínas, mientras que CD3ε es una proteína no glucosilada.
+Las células madre hematopoyéticas de la médula ósea, así como las células progenitoras linfoides tempranas que darán origen a los linfocitos (T y B) contienen genes para las inmunoglobulinas (Ig) y para los receptores de los linfocitos T (TCR) en configuración germinal (o heredada), que es diferente a la configuración que se encuentra en los linfocitos maduros.
+En la configuración germinal, tanto los loci para las Ig (cadenas pesada y ligera) como los loci para los TCR (cadenas α y β) contienen cada uno múltiples genes para la región variable (V), hasta varios cientos, y uno o pocos genes para la región constante (C).
+Entre los genes V y los genes C hay unas pequeñas secuencias de nucleótidos, que se denominan segmentos génicos de unión (J, por joining) y de diversidad (D).
+Todos los loci contienen genes V, J y C; los D sólo se encuentran en el locus de la cadena pesada de las Ig y en el de la cadena β del TCR.
+La decisión de una célula linfoide progenitora de devenir un linfocito T está asociada con la recombinación en el locus de la cadena α del TCR (localizado en el cromosoma 14) de un gen específico del segmento V con un gen específico del segmento J, para formar un único exón V-J.
+La selección de un segmento concreto V y J es aleatoria.
+El exón V-J se une (mediante el mecanismo de splicing) con la región C. En el caso del locus de la cadena β (localizado en el cromosoma 7), se selecciona (también de forma aleatoria) un segmento V, uno D y uno J. Se forma entonces un exón V-D-J que se une después a la región C. Esta secuencia de recombinación de ADN y splicing de ARN genera las cadenas α y β del TCR de los linfocitos maduros.
+La recombinación somática de los segmentos V-J o V-D-J está catalizada por un grupo de enzimas denominadas colectivamente V(D)J recombinasa.
+La diversidad de los receptores de antígenos se debe al uso de diferentes combinaciones de segmentos V, D y J en diferentes clones de linfocitos (denominada diversidad combinatoria), que se incrementa también al introducir cambios en la secuencia de nucleótidos en las uniones de los segmentos V, D y J (denominada diversidad de las uniones).
+La diversidad combinatoria está limitada al número de secuencias disponibles para cada segmento, pero la diversidad de las uniones es casi ilimitada.
+Esta diversidad de las uniones se puede producir por tres tipos de mecanismos:
+Como consecuencia de todos estos cambios, la secuencia de nucleótidos en la zona V(D)J de un TCR de un clon de linfocitos es muy diferente a la zona de cualquier otro clon.
+Las zonas de las uniones constituyen la zona más variable de las CDR (CDR3), y es la más importante para el reconocimiento del antígeno.
+La respuesta inmunitaria está fundamentada en el reconocimiento de antígenos que no son propios del organismo.
+Las células T cumplen esa función de reconocimiento antigénico por medio de su receptor de membrana TCR.
+Los antígenos en cuestión pueden ser de origen endógeno o bien exógeno y son procesados por células presentadoras de antígenos (APC).
+Los determinantes antigénicos así procesados son expuestos en la superficie de la célula APC unidos a una molécula del complejo mayor de histocompatibilidad (CMH).
+Los TCR son únicamente capaces de reconocer un antígeno foráneo de tipo péptido que sea presentado en una célula APC en estricta combinación con una molécula CMH, de claseII (caso de los linfocitos T cooperadores o TCD4) o de clase-I (caso de los linfocitos T citotóxicos o TCD8).
+Esta propiedad se denomina restricción CMH y se debe a que cada linfocito T tiene una especificidad dual: el receptor del linfocito T (TCR) reconoce algunos residuos del péptido y simultáneamente algunos residuos de la molécula CMH que lo presenta.
+La unión del complejo CMH:péptido es traducida al interior de la célula por medio de una señal transmitida del CD3 y amplificada por correceptores denominados CD4 y CD8 próximos al TCR y reconocedoras del CMH.
+Otras enzimas interactúan y participan en la transmisión de la señal, tales como las Tirosincinasas Src, Syk y Tec asociados tanto a la cadena ζ del CD3 como al co-receptor CD4 o CD8.
+La porción intracelular de la cadena ζ está complementada por tres zonas fosforilables denominadas ITAM (en inglés, Inmunoreceptor Tyrosine-based Activation Motif).
+De igual manera la cadena intracelular del CD3 tiene uno de los tales ITAM.
+La fosforilación de estas zonas ITAM propaga la señal intracelular proveniente del TCR.

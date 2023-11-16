@@ -1,0 +1,58 @@
+La oncología (también, cancerología) es la rama de la medicina que estudia y trata las neoplasias, con especial atención a los tumores malignos o cáncer.
+Como especialidad médica, derivada del tronco de la medicina interna, se dedica al diagnóstico y tratamiento del cáncer, centrada en la atención del enfermo de cáncer y su tratamiento, entre otros por medio de la quimioterapia, terapia hormonal y otros medicamentos, mientras que como especialidad quirúrgica se encarga de la extirpación del tumor y de los tejidos circundantes, y la oncología radioterápica aprovecha la radioterapia para tratar el cáncer.
+El término oncología deriva del griego antiguo ογκος oncos (masa o tumor) y λογος,ου -logos-ou (estudio).
+Los médicos que se dedican a esta especialidad reciben el nombre de oncólogos.
+La oncología se ocupa de:
+Los oncólogos que atienden a pacientes se conocen como oncólogos clínicos, para distinguirlos de aquellos que realizan investigación relacionada con el cáncer, pero sin contacto directo con el paciente.
+Los cirujanos oncólogos, son aquellos cirujanos especializados en la resección de tumores, esta especialidad no está reconocida en muchos países, entre ellos España.
+Hay países, como el Reino Unido, en los cuales los oncólogos clínicos están cualificados para recomendar tanto la quimioterapia como la radioterapia, aunque en otros países existe subespecialidades en función del tipo de tratamiento que se utiliza, por ello se distinguen 2 tipos de oncólogos:
+También podemos dividir la oncología en subespecialidades, dependiendo del tipo de pacientes que atienden:
+Aunque gran parte de los factores que favorecen la aparición de tumores malignos o cáncer no se conocen con exactitud, se dispone información sobre determinados factores de riesgo, entre ellos los siguientes:
+La historia clínica sigue siendo una importante herramienta de cribado: el carácter de las quejas y los síntomas inespecíficos (como fatiga, pérdida de peso, anemia inexplicable, fiebre de origen desconocido, fenómenos paraneoplásicos y otros signos) pueden justificar una investigación más exhaustiva de la malignidad.
+Ocasionalmente, un examen físico puede descubrir la localización de una neoplasia maligna.
+Los métodos de diagnóstico incluyen:
+Aparte del diagnóstico, estas modalidades (especialmente la obtención de imágenes por Tomografía axial computarizada) se utilizan a menudo para determinar la operabilidad, es decir, si es quirúrgicamente posible extirpar un tumor en su totalidad.
+En la actualidad, el diagnóstico tisular (a partir de una biopsia) por un patólogo es esencial para clasificar correctamente el cáncer y orientar el siguiente paso del tratamiento.
+En muy raras ocasiones, cuando esto no es posible, puede considerarse una "terapia empírica" (sin un diagnóstico exacto), basada en las pruebas disponibles (por ejemplo, antecedentes, radiografías y escáneres).
+En muy raras ocasiones, se encuentra un bulto metastásico o un ganglio linfático patológico (normalmente en el cuello) para el que no se puede encontrar un tumor primario.
+Sin embargo, los marcadores inmunohistoquímicos suelen indicar claramente la malignidad primaria.
+Esta situación se denomina "malignidad de origen primario desconocido" y, de nuevo, el tratamiento es empírico y se basa en la experiencia previa sobre el origen más probable.
+Dependiendo del cáncer identificado, en ese momento se administrarán cuidados de seguimiento y paliativos.
+Ciertos trastornos (como la ALL o la AML) requerirán ingreso inmediato y quimioterapia, mientras que otros serán objeto de seguimiento con exámenes físicos y análisis de sangre periódicos.
+A menudo, se intenta operar para extirpar un tumor por completo.
+Esto sólo es factible cuando existe cierto grado de certeza de que el tumor puede extirparse.
+Cuando es seguro que quedarán partes, la cirugía curativa suele ser imposible, por ejemplo, cuando hay metástasis, Ocasionalmente, cuando el tumor ha invadido una estructura que no se puede operar sin poner en riesgo la vida del paciente.
+En ocasiones, la cirugía puede mejorar la supervivencia aunque no se haya extirpado todo el tejido tumoral; el procedimiento se denomina "citorreducción" (es decir, reducción de la cantidad total de tejido tumoral).
+La cirugía también se utiliza para el tratamiento paliativo de algunos tipos de cáncer, por ejemplo para aliviar la obstrucción biliar o los problemas asociados a algunos tumores cerebrales.
+Los riesgos de la cirugía deben sopesarse frente a los beneficios.
+La quimioterapia y la radioterapia se utilizan como terapia radical de primera línea en varias neoplasias malignas.
+También se utilizan para la terapia adyuvante, es decir, cuando el tumor macroscópico ya se ha extirpado quirúrgicamente por completo pero existe un riesgo estadístico razonable de que reaparezca.
+La quimioterapia y la radioterapia se utilizan habitualmente para la paliación, cuando la enfermedad es claramente incurable: en esta situación, el objetivo es mejorar la calidad de vida y prolongarla.
+La manipulación hormonal está bien establecida, sobre todo en el tratamiento del cáncer de mama y de próstata.
+Actualmente se está produciendo una rápida expansión del uso de tratamientos con anticuerpos monoclonales, sobre todo para el linfoma (Rituximab) y el cáncer de mama (Trastuzumab).
+Las vacunas y otras inmunoterapias son objeto de intensa investigación.
+La prevención del cáncer requiere conocimientos actualizados periódicamente por parte de los médicos del ámbito de la medicina del trabajo.
+Para ayudarles a ello, en el marco del Plan de Francia contra el cáncer 2009-2013, el Instituto Nacional del Cáncer de Francia encargó dos encuestas (a más de 600 médicos) destinadas a elaborar un inventario de fuentes de información sobre la prevención primaria de los cánceres relacionados con el trabajo para médicos del trabajo (93,5 % de los encuestados) y poner de relieve necesidades y líneas de actuación específicas, sobre todo en los sectores de la construcción, las obras públicas y la industria, donde la demanda de médicos del trabajo es más acusada.
+"Archivos de enfermedades profesionales y ambientales".
+Fruto de este trabajo, en 2013 se anunció una guía de recursos documentales y un boletín de vigilancia para médicos del trabajo y servicios de salud laboral.
+Aproximadamente el 50% de todos los casos de cáncer en el mundo occidental pueden tratarse hasta la remisión con un tratamiento radical.
+En el caso de los pacientes pediátricos, esa cifra es mucho mayor.
+Un gran número de pacientes con cáncer morirá a causa de la enfermedad, y una proporción significativa de pacientes con cáncer incurable morirá por otras causas.
+Puede haber problemas continuos con el control de los síntomas asociados con el cáncer progresivo, y también con el tratamiento de la enfermedad.
+Estos problemas pueden incluir dolor, náuseas, anorexia, fatiga, inmovilidad y depresión.
+No todas las cuestiones son estrictamente físicas: la dignidad personal puede verse afectada.
+Las cuestiones morales y espirituales también son importantes.
+Aunque muchos de estos problemas son competencia del oncólogo, los cuidados paliativos han madurado hasta convertirse en una especialidad separada y estrechamente aliada para abordar los problemas asociados a la enfermedad avanzada.
+Los cuidados paliativos son una parte esencial del equipo multidisciplinar de atención oncológica.
+Los servicios de cuidados paliativos pueden ser menos hospitalarios que los de oncología, con enfermeras y médicos que pueden visitar al paciente en su domicilio.
+Se está investigando muchísimo en todas las fronteras de la oncología, desde la biología de las células cancerosas y la radioterapia hasta los regímenes de tratamiento con quimioterapia y los cuidados paliativos y alivio del dolor óptimos.
+En la última década, la llegada de la secuenciación de nueva generación y la secuenciación del genoma completo han cambiado por completo nuestra comprensión de los cánceres.
+La identificación de nuevos marcadores genéticos/moleculares cambiará radicalmente nuestra forma de diagnosticar y tratar el cáncer, lo que allanará el camino hacia la medicina personalizada.
+En los ensayos terapéuticos suelen participar pacientes de muchos hospitales distintos de una región determinada.
+En el Reino Unido, los pacientes suelen participar en grandes estudios coordinados por Cancer Research UK (CRUK), Medical Research Council (MRC), la Organización Europea para la Investigación y el Tratamiento del Cáncer (EORTC) o la National Cancer Research Network (NCRN).
+Entre las empresas más valoradas a nivel mundial cuyos productos líderes están en Oncología se encuentran Pfizer (Estados Unidos), Roche (Suiza), Merck (Estados Unidos), AstraZeneca (Reino Unido), Novartis (Suiza) y Bristol-Myers Squibb (Estados Unidos) que operan en las áreas de tratamiento Inhibidores de la quinasa, anticuerpos, inmunoterapia contra el cáncer y radiofármacos.
+Hay una serie de cuestiones y dilemas éticos recurrentes en la práctica oncológica.
+Entre ellos se incluyen:
+Estas cuestiones están estrechamente relacionadas con la personalidad, la religión, la cultura y la vida familiar de los pacientes.
+Aunque estas cuestiones son complejas y emocionales, a menudo las respuestas se obtienen cuando el paciente busca el consejo de amigos y asesores personales de confianza.
+Se requiere un grado de sensibilidad y muy buena comunicación por parte del equipo oncológico para abordar adecuadamente estos problemas.

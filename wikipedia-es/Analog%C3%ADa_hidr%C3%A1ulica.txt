@@ -1,0 +1,84 @@
+La analogía eléctrico hidráulica (conocida despectivamente como la teoría de los desagües por el físico británico Oliver Joseph Lodge (1851-1940)) es un procedimiento utilizado para simular mediante dispositivos hidráulicos el comportamiento de la corriente en un circuito eléctrico.
+Como la corriente eléctrica no es visible y los procesos en juego en la electrónica a menudo son difíciles de demostrar, los distintos componentes electrónicos se pueden simular mediante dispositivos hidráulicos equivalentes.
+La electricidad (así como el flujo del calor) se entendió originalmente como un tipo de fluido, y los nombres de ciertas cantidades eléctricas (como la corriente) se derivan de equivalentes hidráulicos.
+Al igual que con todas las analogías, exige una comprensión tan formada como intuitiva de los paradigmas básicos de la electrónica y de la hidráulica.
+No hay un paradigma único para establecer esta analogía.
+Se pueden usar dos paradigmas para presentar el concepto a los estudiantes, utilizando la presión producida por la gravedad o por bombas.
+En la versión con presión por gravedad, se mantienen unos depósitos elevados llenos o con diferentes niveles de agua, y la energía potencial del agua es la fuente de presión.
+Este hecho recuerda a los diagramas eléctricos con una flecha hacia arriba que apunta a +V, con contactos conectados a tierra que de otra manera no aparecerían conectados a nada.
+Esto tiene la ventaja de poder asociar el potencial eléctrico con el potencial gravitatorio.
+Un segundo paradigma es una versión completamente cerrada, con bombas que solo proporcionan presión pero no potencial gravitatorio.
+Esto recuerda al diagrama de un circuito con una fuente de voltaje y los cables que realmente completan un circuito.
+Este caso se analiza más en detalle a continuación.
+Otros paradigmas resaltan las similitudes entre las ecuaciones que gobiernan el flujo de un fluido y el flujo de las cargas eléctricas.
+Las variables de flujo y presión pueden calcularse tanto en situaciones de flujo estable como transitorio, con el uso de la analogía de la resistencia hidráulica.
+Los ohmios hidráulicos son las unidades de impedancia hidráulica, que se definen como la relación entre presión y caudal.
+Las variables de presión y flujo volumétrico se tratan como fasores en esta definición, por lo que poseen una fase y una magnitud.
+Se utiliza un paradigma ligeramente diferente en la acústica, donde la impedancia acústica se define como una relación entre la presión y la velocidad del aire.
+En este paradigma, una gran cavidad con un orificio es análoga a un condensador que almacena energía de compresión cuando la presión dependiente del tiempo se desvía de la presión atmosférica.
+Un orificio (o tubo largo) es análogo a un inductor que almacena la energía cinética asociada con el flujo de aire.
+También se ha utilizado un circuito hidráulico para modelizar el control de una inestabilidad de plasma hidrodinámico en un espejo magnético mediante por retroalimentación En esta aplicación, se trataba de mantener una columna de plasma centrada aplicando voltajes a las placas, y excepto por la presencia de turbulencias y efectos no lineales, el plasma era un elemento del circuito eléctrico real (no un elemento análogo).
+En general, el potencial eléctrico es equivalente a la carga piezométrica.
+Este modelo asume que el agua fluye horizontalmente, por lo que la fuerza de la gravedad puede ignorarse.
+En este caso, el potencial eléctrico es equivalente a la presión.
+La tensión (caída de tensión o diferencia de potencial) es la diferencia de presión entre dos puntos.
+El potencial eléctrico y la tensión generalmente se miden en voltios.
+La corriente eléctrica es equivalente a un flujo volumétrico hidráulico; es decir, el caudal que se expresa como el volumen de agua que fluye por una sección determinada en un período de tiempo dado.
+Generalmente se mide en amperios.
+Por otro lado, la carga eléctrica es equivalente a la cantidad de agua.
+Un condensador eléctrico es equivalente a un tanque con una conexión en cada extremo y una lámina de goma que divide el tanque en dos transversalmente (un acumulador hidráulico).
+Cuando el paso del agua es forzado en una tubería, sale de ella al mismo tiempo, pero no puede atravesar el diafragma de goma, y se almacena energía gracias al estiramiento del caucho.
+A medida que más corriente intenta atravesar un condensador, la contrapresión (voltaje) aumenta, y por lo tanto, la corriente "conduce" el voltaje al condensador.
+A medida que la contrapresión del caucho estirado se acerca a la presión aplicada, la corriente disminuye cada vez más.
+Por lo tanto, los condensadores "filtran" las diferencias de presión constantes y las diferencias de presión de baja frecuencia que varían lentamente, a la vez que permiten el paso de cambios rápidos de presión.
+Una inducción es equivalente a una rueda de paletas pesada colocada en la corriente.
+La masa de la rueda y el tamaño de las paletas restringen la capacidad del agua para cambiar rápidamente su velocidad de flujo (corriente) a través de la rueda, debido a los efectos de su inercia, pero pasado un cierto tiempo, una corriente que fluye constantemente pasará en su mayoría sin obstáculos a través de la rueda, ya que acaba girando a la misma velocidad que el flujo de agua.
+La masa y la superficie de la rueda y sus paletas son análogas a la inductancia; y la fricción entre su eje y los cojinetes corresponde a la resistencia que acompaña a cualquier inductor no superconductor.
+Un modelo de inducción alternativo es simplemente un tubo largo, que puede enrollarse en espiral para manejarse mejor.
+Este dispositivo de inercia de fluidos se utiliza en la vida real como un componente esencial de una bomba de ariete.
+La inercia del agua que fluye a través de la tubería produce el efecto de inductancia; las inducciones "filtran" los cambios rápidos en el flujo, a la vez que permiten pasar las variaciones lentas de la corriente.
+La resistencia impuesta por las paredes de la tubería es algo similar a la resistencia parasitaria.
+En cualquiera de los dos modelos, la diferencia de presión (voltaje) en el dispositivo debe estar presente antes de que la corriente comience a moverse, por lo tanto, en los inductores, el voltaje "conduce" a la corriente.
+A medida que aumenta la corriente, acercándose a los límites impuestos por su propia fricción interna y de la corriente que puede proporcionar el resto del circuito, la caída de presión a través del dispositivo se vuelve más y más baja.
+Una fuente eléctrica ideal (como una batería o una fuente de corriente ideales) es una bomba dinámica con control de realimentación.
+Un medidor de presión en ambos lados muestra que, independientemente de la corriente producida, este tipo de bomba produce una diferencia de presión constante.
+Si un terminal se mantiene fijo conectado a tierra, otra analogía es una gran masa de agua en un depósito elevado, lo suficientemente grande como para que el agua extraída no afecte significativamente al nivel del agua.
+Para crear el análogo de una fuente de corriente ideal, se puede usar una bomba hidráulica: un medidor de corriente (una pequeña rueda de paletas) muestra que cuando este tipo de bomba se acciona a una velocidad constante, mantiene una velocidad constante de la pequeña rueda de paletas.
+Un diodo es equivalente a una válvula antirretorno unidireccional con fugas de asiento muy reducidas.
+Al igual que con un diodo, se necesita una pequeña diferencia de presión antes de que se abra la válvula.
+Y como un diodo, una tensión contraria demasiado alta puede dañar o destruir el conjunto de la válvula.
+Una transistor es una válvula en la que un diafragma, controlado por una señal de baja corriente (ya sea una corriente constante para un transistor de unión bipolar o una presión constante para un transistor de efecto campo), mueve un émbolo que afecta a la corriente a través de otra sección del tubo.
+Un semiconductor complementario de óxido metálico es una combinación de dos transistores de efecto de campo metal-óxido-semiconductor.
+A medida que cambia la presión de entrada, los pistones permiten que la salida se conecte a una presión positiva o quede a cero.
+Un memristor es una válvula de aguja operada por un medidor de flujo.
+A medida que el agua fluye hacia adelante, la válvula de aguja restringe más el flujo; a medida que el agua fluye en la otra dirección, la válvula de aguja se abre aún más, proporcionando menos resistencia.
+Algunos ejemplos de ecuaciones hidráulicas y eléctricas análogas:
+Si las ecuaciones diferenciales tienen la misma forma, la respuesta será similar.
+Si se lleva demasiado lejos, la analogía del agua puede inducir conceptos erróneos.
+Para que sea útil, se debe ser consciente de las condiciones en las que la electricidad y el agua se comportan de manera muy diferente.
+Campo (Ecuaciones de Maxwell, Inductancia): Los electrones pueden empujar o tirar de otros electrones distantes a través de sus campos, mientras que las moléculas de agua experimentan fuerzas solo mediante el contacto directo con otras moléculas.
+Por esta razón, las ondas en el agua viajan a la velocidad del sonido, pero las ondas en una nube de electrones viajan mucho más rápido debido a que las fuerzas de un electrón se aplican a muchos electrones distantes y no solo a los vecinos en contacto directo.
+En una línea de transmisión hidráulica, la energía fluye como ondas mecánicas a través del agua, pero en una línea de transmisión eléctrica, la energía fluye como campos en el espacio que rodea a los cables y no fluye dentro del metal.
+Además, un electrón acelerado arrastra a sus vecinos mientras los desplaza debido a las fuerzas magnéticas.
+Carga: A diferencia del agua, los portadores de carga móviles pueden ser positivos o negativos, y los conductores pueden exhibir una carga neta global positiva o negativa.
+Los portadores móviles en las corrientes eléctricas suelen ser electrones, pero a veces se cargan positivamente, como los iones positivos en un electrolito, el ion H+ en conductores de protones o los huecos en los semiconductores del tipo P y en algunos (muy raros) conductores.
+Tuberías con fugas: La carga eléctrica de un circuito y de sus elementos generalmente es casi igual a cero, y por lo tanto, es (casi) constante.
+Esto se formaliza en las leyes de Kirchhoff, que no tienen una analogía con los sistemas hidráulicos, donde la cantidad de líquido no suele ser constante.
+Incluso con un flujo incompresible, el sistema puede contener elementos tales como émbolos y depósitos abiertos, por lo que el volumen de líquido contenido en una parte del sistema puede cambiar.
+Por esta razón, las corrientes eléctricas continuas requieren bucles cerrados en lugar de sistemas fuente/sumidero de los sistemas hidráulicos que se asemejan a grifos y desagües.
+Velocidad del fluido y resistencia de los metales: Al igual que con las mangueras de agua, la velocidad de deriva del portador en los conductores es directamente proporcional a la corriente.
+Sin embargo, el agua solo experimenta arrastre a través de la superficie interna de las tuberías, mientras que las cargas disminuyen en todos los puntos dentro de un metal, al igual que con el agua forzada a través de un filtro.
+Además, la velocidad típica de los portadores de carga dentro de un conductor es inferior a centímetros por minuto, y la "fricción eléctrica" es extremadamente alta. Si las cargas fluyeran tan rápido como el agua puede fluir en las tuberías, la corriente eléctrica sería inmensa y los conductores se calentarían hasta ponerse incandescentes y quizás se vaporizarían.
+Modelizar la resistencia y la velocidad de las cargas en los metales, tal vez se parecería más a una tubería rellena con una esponja, o una pajita estrecha llena de jarabe, analogías mejores que una tubería de agua de gran diámetro.
+La resistencia en la mayoría de los conductores eléctricos es una función lineal: a medida que aumenta la corriente, la caída de voltaje aumenta proporcionalmente (Ley de Ohm).
+La resistencia a los líquidos en las tuberías no es lineal con el volumen, variando según el cuadrado del caudal (véase la ecuación de Darcy-Weisbach).
+Mecánica cuántica: Los conductores y aisladores sólidos contienen cargas en más de un nivel energético discreto según las órbitas atómicas de sus electrones, mientras que el agua en una región de una tubería solo puede tener un solo valor de presión.
+Por esta razón, no hay una explicación hidráulica para fenómenos como la capacidad de bombeo de carga de una batería, la caída de voltaje en un diodo de deposición de capa, el funcionamiento de una célula fotoeléctrica, o el efecto termoeléctrico.
+Sin embargo, se pueden diseñar dispositivos equivalentes que muestren respuestas similares, aunque algunos de los mecanismos solo sirven para regular las curvas de flujo en lugar de contribuir a la función principal del componente.
+Para que el modelo sea útil, se debe tener una comprensión sustancial de los principios del sistema del modelo (hidráulico).
+También requiere que los principios se puedan transferir al sistema objetivo (el eléctrico).
+Los sistemas hidráulicos son engañosamente simples: el fenómeno de la cavitación es un problema conocido y complejo que pocas personas ajenas a la industria de fluidos o irrigación entenderían.
+Para aquellos que lo hacen, la analogía hidráulica es singular, ya que en ingeniería eléctrica no existe un equivalente a la "cavitación".
+La analogía hidráulica puede dar un sentido erróneo a la comprensión detallada de la teoría de los circuitos eléctricos.
+También se deben considerar las dificultades para tratar de hacer que una analogía coincida con la realidad por completo.
+El ejemplo anterior de "fricción eléctrica", donde el análogo hidráulico es una tubería rellenada con una esponja, ilustra el problema: el modelo aumentaría su complejidad más allá de cualquier escenario realista.

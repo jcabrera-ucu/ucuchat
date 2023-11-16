@@ -1,0 +1,7 @@
+Dentro de la historia del hardware para gráficos, la RIVA 128ZX —publicada por nVidia a principios de 1998— fue una versión actualizada de su predecesora, la RIVA 128 o NV3.
+Al igual que aquella, fue una de las primeras unidades de procesamiento gráfico integrada en tarjetas gráficas de consumo masivo que incorporó aceleración 3D junto con la ya conocida aceleración 2D y de video.
+Esta versión incrementaba la capacidad de la NV3, admitiendo hasta 8 MiB e incrementando la frecuencia RAMDAC a 250 MHz.
+Estos añadidos permitieron a RIVA 128 ZX soportar mayores resoluciones y tiempos de refresco.
+El siguiente chip gráfico de nVidia relevante fue el RIVA TNT, lanzado en junio de 1998.
+Posee soporte AGP 2X.
+Las características clave de la tarjeta son:

@@ -1,0 +1,21 @@
+La ineficiencia X es la divergencia del comportamiento observado de una empresa en la práctica, influenciado por la falta de presión competitiva, del comportamiento eficiente asumido o implícito por la teoría económica.
+El concepto de ineficiencia X fue introducido por Harvey Leibenstein.
+La teoría económica dominante tiende a suponer que la dirección de las empresas actúa para maximizar las ganancias de su firma minimizando los insumos utilizados para producir un nivel determinado de producción.
+La competencia impulsa a las empresas a buscar ganancias de eficiencia productiva y producir a los costos unitarios más bajos o arriesgarse a perder ventas frente a rivales más eficientes.
+Con formas de mercado distintas de la competencia perfecta, como el monopolio, la ineficiencia productiva puede persistir, porque la falta de competencia permite utilizar técnicas de producción ineficientes y aun así mantenerse en el negocio.
+Además del monopolio, los sociólogos han identificado varias formas en las que los mercados pueden estar integrados organizativamente y, por lo tanto, su funcionamiento puede apartarse de la teoría económica.
+El despilfarro organizativo se produce cuando las empresas optan por emplear más recursos de los necesarios para producir un determinado nivel de producción.
+La capacidad no utilizada da como resultado una ineficiencia X. Esto puede explicarse por el problema agente-propiedad.
+En las empresas, la propiedad y la gestión están separadas.
+Los accionistas (propiedad) eligen a los directores (el agente) para que actúen en su nombre y maximicen el valor para los accionistas.
+Los gerentes pueden tomar decisiones que maximicen sus propios objetivos y no los de los accionistas, por ejemplo, contratar personal adicional para reducir la carga de trabajo de los gerentes.
+Esto aumenta los costos unitarios.
+La ineficiencia X solo mira los productos que se fabrican con las entradas dadas.
+No tiene en cuenta si las entradas son las mejores o si las salidas son las mejores para producir.
+Por ejemplo, una empresa que emplea neurocirujanos para cavar zanjas podría seguir siendo X-eficiente, aunque reasignar a los neurocirujanos para curar a los enfermos sería más eficiente para la sociedad en general.
+En este sentido, la ineficiencia X se centra en la eficiencia productiva y la minimización de costos en lugar de la eficiencia de asignación y la maximización del bienestar.
+Para discusiones más extensas, véase Sickles y Zelenyuk (2019, p. 1-8, 469) y las referencias allí.
+Un monopolio es un creador de precios en el sentido de que su elección del nivel de producción afecta al precio pagado por los consumidores.
+En consecuencia, un monopolio tiende a fijar el precio en un punto en el que el precio es mayor que los costos promedio a largo plazo.
+Sin embargo, la ineficiencia X tiende a aumentar los costos promedio, lo que provoca una mayor divergencia del resultado económicamente eficiente.
+Las fuentes de la ineficiencia X se han atribuido a aspectos como el exceso de inversión y la construcción de marca por parte de los gerentes, la falta de motivación derivada de la falta de competencia y la presión de los sindicatos para pagar salarios superiores al mercado.

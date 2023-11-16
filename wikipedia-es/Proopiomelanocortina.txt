@@ -1,0 +1,26 @@
+La proopiomelanocortina (POMC) es el nombre de un polipéptido precursor de otras proteínas, fundamentalmente hormonas.
+Es sintetizada principalmente en las células corticotropas de la adenohipófisis, donde se utilizan cuatro sitios de corte principales, que generan: la ACTH y la beta lipotropina, en otros tejidos se generan varias melanotropinas, lipotropinas y las endorfinas.
+El gen POMC codifica un precursor polipeptídico, llamado pre-pro-opiomelanocortina (pre-POMC) de 285aa.
+Su subproducto principal es la Pro-opiomelanocortina (POMC) un precursor con 241aa, que sufre extenso procesamiento post-traducción, de forma específica de tejido, a través de la escisión por enzimas similar a la subtilisina conocidas como convertasas prohormonas.
+Hay ocho sitios potenciales de escisión en el polipéptido precursor y, dependiendo del tipo de tejido y las convertasas disponibles, el procesamiento puede producir hasta diez péptidos biológicamente activos que participan en diversas funciones celulares.
+La proteína codificada es sintetizada principalmente en las células corticotropas de la adenohipófisis, donde se utilizan cuatro sitios de corte.
+Los principales productos de los cortes son la adrenocorticotropina, esencial para la esteroidogénesis y el mantenimiento del peso adrenal normal, y la beta lipotropina.
+En otros tejidos, incluyendo el hipotálamo, la placenta y el epitelio, se pueden aprovechar todos los sitios de corte de la POMC, dando lugar a péptidos con funciones en la homeostasis del dolor y la energía celular, la estimulación de los melanocitos, la actividad antimicrobiana por la modulación del sistema inmune y la regulación del apetito.
+Estos incluyen varias melanotropinas, lipotropinas, y las endorfinas que se incluyen dentro de los péptidos de la adrenocorticotropina y la beta-lipotropina.
+Las mutaciones en este gen se han asociado a la obesidad de inicio temprano, insuficiencia suprarrenal, y la pigmentación rojiza del cabello.
+Por otra parte, se han descrito variantes transcripcionales de codificación de la misma proteína.
+La POMC es una molécula precursora de varios péptidos activos del eje hipotalámico-pituitario-adrenal, incluyendo las hormonas estimulante del melanocito (α-MSH), adrenocorticotrópica(ACTH), y β-endorfina.
+Los niños con deficiencia de esta hormona tienen piel pálida y cabello rojizo por la falta de actividad de la α-MSH en los receptores de MC1.
+Los casos reportados han mostrado crisis adrenal durante la vida neonatal.
+La deficiencia de POMC se asocia a hiperfagia y obesidad a edad temprana por falta de la señalización en el receptor MC4R.
+Además de los casos de homocigotos a mutaciones de la POMC, es posible que heterocigotos a mutaciones en este gen también contribuyan a formas hereditarias de obesidad, ya que existe elevada frecuencia de obesidad en los familiares de los niños con deficiencia total de POMC.
+Esta observación sugiere que alteraciones sutiles de este sistema pueden ser suficientes para causar obesidad
+La POMC es sintetizada por:
+La POMC es una gran molécula que es fuente de otras sustancias biológicamente importantes.
+La POMC puede ser escindida enzimáticamente en los péptidos siguientes:
+A pesar de que los 5 aminoácidos de la porción N-terminal de las beta-endorfinas son idénticos a la secuencia de la Met-encefalina, no se piensa generalmente que las beta-endorfinas se convierten en Met-encefalina.
+En cambio, la Met-encefalina se produce a partir de su propio precursor, la proencefalina.
+La producción de β-MSH ocurre en los seres humanos pero no en ratones o ratas, debido a la ausencia del sitio de procesamiento enzimático en el roedor para la POMC.
+Cada uno de estos péptidos se empaca en vesículas grandes de núcleo denso que se liberan de las células por exocitosis en respuesta a la estimulación adecuada:
+Además se ha observado que POMC puede tener un papel importante en la regulación del balance del peso corporal por cambios estacionales en el fotoperiodo, siendo regulada por estos.
+En el caso de algunos animales como el hámster siberiano se ha observado que POMC disminuye su expresión durante el invierno y esto se asocia a infertilidad estacional, anorexia y una disminución dramática de la grasa corporal.

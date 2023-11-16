@@ -1,0 +1,52 @@
+Stronghold 3 es un videojuego de estrategia en tiempo real de 2011 para Microsoft Windows desarrollado por Firefly Studios y distribuido por 7Sixty.
+El juego es la séptima entrega de las series después de varios spin-offs, incluyendo un remake, Stronghold: Crusader Extreme, y Stronghold Kingdoms.
+Es la secuela de Stronghold, lanzado en 2001, y de Stronghold 2, lanzado en 2005.
+A diferencia de diferentes juegos de las series que fueron distribuidos por Take-Two Interactive, el juego fue distribuido por SouthPeak Games, la nueva compañía padre de Gamecock Media Group, distribuidor de Stronghold Crusader Extreme.
+<!--
+The original Stronghold told the story of The Boy and his quest for revenge against Duc de Puce (The Rat), Duc Beauregard (The Snake), Duc de Truffe (The Pig) and Duc Volpe (The Wolf) for the ambush and murder of his father.
+After the capture of the King abroad, enemy invasion, civil war and his father's ambush en route to negotiate a treaty with The Snake, The Boy was pushed back to a forest on an overlooked peninsula.
+It was here that he found a small band of troops still loyal to the King and, with the help of Lord Woolsack and Sir Longarm, began to take back the country county by county.
+Eventually The Boy confronted The Wolf in his tower, after an intense battle he impaled the enigmatic Wolf on his sword and threw him to what he thought was his death.
+Set 10 years later, Stronghold 3 follows the continuing story of The Boy.
+The Wolf, it seems, has cheated death and become bitter, twisted and psychotic during his painful recovery in the east.
+Now it is he who seeks revenge.
+By raiding towns and villages in the dead of night The Wolf has created a tide of panic, with The Boy and his allies the only force to stand against him.
+In the Economic Campaign, which takes place after the end of the military campaign.
+The Boy helps rebuild the Abbey destroyed during the war.(The boy does not help rebuild the abbey if he dies at the end of the military campaign, killed by The Wolf.)
+Players are able to choose between two single-player campaigns.
+A story-driven military campaign that chronicles The Wolf's return through a series of traditional real-time strategy missions and a sim-based economic campaign which has the player focus almost entirely on village productivity and resource management.
+Both campaigns are fully narrated, telling their stories with a series of black and white graphical novel interludes.
+Players are also able to 'change history' by choosing whether to attack or defend a number of historical castles in the game's castle siege mode.
+The game engine utilises Havok physics, which influences the effectiveness of burning log traps and causes buildings and castle walls to crumble realistically.
+In addition the game engine features a new weather system and advanced lighting.
+Buildings in Stronghold 3 are more dynamic than before, with the housing capacity and appearance of hovels changing the further they are built from the player's keep.
+Castle construction is no longer confined to a grid-based system.
+A new fog-of-war mechanic was introduced for night-time game play, during which all areas outside of the immediate vicinity of the player's castle are hidden in darkness.
+However, players are able to use torch-holding peasants and other fire-based devices to explore the map at night.
+They can also illuminate specific areas by setting fire to watch towers.
+The option for players to launch diseased cows from trebuchets has returned, in addition to smaller animals like pigs and sheep.
+A Facebook competition was run to let fans vote on the final animal ammunition type, with a sack of diseased badgers eventually making the cut.
+The game currently lacks a Kingmaker or skirmish mode, as available in previous Stronghold titles.
+In a post on their website Firefly announced plans to add in "features that didn’t make it into the original release" as well as "new content and new features that we or you have thought of since release".
+Features added to the game since release include new units, difficulty levels, King of the Hill and Capture the Flag multiplayer modes, new multiplayer maps, new multiplayer Lords, new historical sieges, new Free Build maps, a "Free Build Panel" that allows players to trigger invasions, the ability to change the game speed and extra large maps.
+Firefly Studios had previously claimed in 2008 that they would be working on Stronghold 3 due to the high demand by fans, but only after the completion of Dungeon Hero.
+However, in 2010 the status of Dungeon Hero was uncertain after being delayed numerous times.
+In 2009 when asked if they had any other unannounced games in development other than Dungeon Hero and Stronghold Kingdoms, the answer was that they still had one more game in development.
+The game was further teased in 2009 when Firefly stated in their newsletter that they had "something very big in the pipeline" which would be revealed in 2010.
+This game would later turn out to be Stronghold 3.
+The game was officially unveiled on May 14, 2010 with a teaser site.
+The Steam page for the game was later opened on March 18, 2011, which first stated the release date to be approximately the 21st of June 2011.
+Firefly then announced that the game will be delayed for another month until July 2011 in order to make refinements to the game.
+Eventually it was announced that the game would be delayed until late September 2011, after which a final release date of October 25 was announced.
+The game went gold on October 6 and was released on October 25.
+-->
+<!-- Since its release Stronghold 3 has received generally unfavorable reviews.
+The majority of negativity stems from the large amount of bugs that the game shipped with.
+Reviewers almost unanimously agreed that Stronghold 3 felt unfinished at launch, although many highlighted the potential for the game to be improved via patches.
+While one ultimately felt that Stronghold 3 was "a decent RTS with a few hiccups here and there that could easily be fixed with a patch or two", others believed that the game's problems were due to design choices that are unlikely to be patched out.
+To quote Game Informer, "No matter which aspect of gameplay you look at, problems crop up in its implementation. Whether it’s the shallow, yet hard-to-manage economy or the fabulously broken pathfinding, the only difference between the systems is how poorly designed, infuriating, or merely boring they are."
+The game has undergone patching since its release, with two gaming websites raising their review scores to reflect the changes made.
+After a number of patches to improve gameplay and fix issues, Firefly Studios introduced various multiplayer features and additional campaigns into Stronghold 3 and re-released it on 25 May 2012 under the name Stronghold 3: Gold.
+As a gesture to fans, Firefly delivered these added features into already purchased copies of Stronghold 3 through Steam for free.
+Despite this, Stronghold 3: Gold also received predominantly negative reviews.
+-->

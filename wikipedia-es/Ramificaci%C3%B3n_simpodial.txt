@@ -1,0 +1,9 @@
+Crecimiento o ramificación simpodial es un patrón de crecimiento que se caracteriza por la bifurcación sucesiva del brote principal.
+Las orquídeas pertenecientes a la familia Orchidaceae con hábito de desarrollo simpodial tienen formas de crecimiento laterales en las que el brote terminal muere.
+El crecimiento continúa por el desarrollo de nuevos brotes próximos o en uno de años anteriores (tal como ocurre en géneros como Cattleya o Cymbidium).
+La base del tallo de las epífitas simpodiales, o en algunas especies el tallo entero, puede aparecer engrosado, formando lo que se denomina como pseudobulbo.
+Este contiene reservas de nutrientes para periodos de sequía.
+En su extremo pueden aparecer una o dos hojas, o a veces cuatro o más.
+Algunas simpodiales que son terrestres, tales como los géneros Orchis y Ophrys, tienen dos pseudobulbos entre las raíces.
+Uno se usa como reserva de alimento en el periodo de invierno y suministra nutrientes para el desarrollo de otro pseudobulbo.
+En climas cálidos y húmedos muchas orquídeas terrestres no necesitan pseudobulbos.

@@ -1,0 +1,11 @@
+La radiación terrestre es la radiación térmica emitida por la Tierra como consecuencia de su temperatura.
+Todos los cuerpos negros a una temperatura determinada emite radiación hacia su entorno y absorbe radiación de éste.
+La distribución de la energía viene dada por la ley de radiación térmica de Planck, la ley de desplazamiento de Wien da la frecuencia de radiación emitida más probable y la ley de Stefan-Boltzmann da el total de energía emitida por unidad de tiempo y superficie emisora.
+Esta energía depende de la cuarta potencia de la temperatura absoluta.
+La aplicación de la Ley de Planck a la Tierra con una temperatura superficial de unos 288 K (15 °C) nos lleva a que el 99% de la radiación emitida está entre las longitudes de onda 3 μm y 80 μm y su máximo de acuerdo a la ley de desplazamiento de Wien ocurre a 10 μm.
+La estratosfera de la Tierra con una temperatura entre 210 y 220 K radia entre 4 y 120 μm con un máximo a las 14,5 μm.
+La atmósfera de la Tierra constituye un importante filtro pues la hace opaca a toda radiación infrarroja de longitud de onda superior a los 24 μm, ello no afecta a la radiación solar pero sí a la energía térmica emitida por la Tierra que llega hasta las 40 μm y que es absorbida.
+A este efecto se conoce como efecto invernadero.
+Los fotones según su energía o longitud de onda son capaces de:
+La energía solar tiene longitudes de onda entre 0,15 μm y 4 μm por lo que puede ionizar un átomo, excitar electrones, disociar una molécula o hacerla vibrar.
+La energía térmica de la Tierra (radiación infrarroja) se extiende desde 3 μm a 80 μm por lo que sólo puede hacer vibrar o rotar moléculas.

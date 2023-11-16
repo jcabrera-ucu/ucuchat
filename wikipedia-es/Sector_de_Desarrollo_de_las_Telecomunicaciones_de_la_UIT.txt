@@ -1,0 +1,21 @@
+El Sector de Desarrollo de las Telecomunicaciones de la UIT (UIT-D), es el órgano permanente de la Unión Internacional de Telecomunicaciones (UIT) creado para contribuir a difundir un acceso equitativo, sostenible y asequible a las telecomunicaciones y, de este modo, fomentar un mayor desarrollo económico y social.
+Con sede en la ciudad de Ginebra, Suiza, fue creado en 1992 tras la reestructuración de la UIT propuesta en la Conferencia Adicional de Plenipotenciarios de ese mismo año.
+La Oficina de Desarrollo de las Telecomunicaciones (TDB, por sus siglas en inglés Telecommunication Development Bureau) es el órgano ejecutivo del UIT-D.
+Se estableció tras la Conferencia de Plenipotenciaros de 1989 en Niza, Francia, en la que se reconoció la importancia de que la UIT ofreciera asistencia técnica a los países en vías de desarrollo.
+Con la reestructuración del UIT quedó incluida dentro del UIT-D.
+El UIT-D se creó para contribuir a difundir un acceso equitativo, sostenible y asequible a las tecnologías de la información y la comunicación (TIC), a fin de estimular un mayor desarrollo social y económico.
+Para responder a las dificultades que plantea el rápido crecimiento de las TIC, el UIT-D promueve un entorno normativo y comercial adecuado a través de herramientas que promueven innovaciones y un mercado de las telecomunicaciones más eficaz.
+Además, a través de numerosas iniciativas técnicas y de políticas de formación en todo el mundo, contribuye a la creación de generaciones capacitadas para el uso de las TIC, prestando especial atención a grupos con necesidades específicas, como los jóvenes, las mujeres y las personas discapacitadas.
+El UIT-D ocupa una posición privilegiada entre los gobiernos y las empresas del sector privado interesados en constituir nuevas asociaciones para el desarrollo, descubriendo oportunidades para colaboraciones que sean favorables para todos los participantes y estableciendo vínculos entre socios exteriores y especialistas de la UIT, a fin de garantizar el éxito en la ejecución de los proyectos.
+En el UIT-D participan poderes públicos y organizaciones reguladoras de las telecomunicaciones, operadores de redes, fabricantes de equipos, conceptores de material y programas informáticos, organizaciones regionales de normalización e instituciones financieras.
+Los prioridades y acciones concretas para el desarrollo de los objetivos del UIT-D se definen en la Conferencia Mundial de Desarrollo de las Telecomunicaciones (CMDT), que se celebra cada cuatro años, en el llamado Plan de Acción de la CMDT.
+Entre varias CMDT, el UIT-D es asesorado por el Grupo Asesor de Desarrollo de las Telecomunicaciones (GADT) en lo que respecta a la implementación del Plan de Acción de la CMDT.
+El UIT-D está integrado por dos Comisiones de Estudio cuyo mandato deriva de la CMDT y que constituyen un foro neutral en el que los gobiernos y la industria abordan los temas prioritarios que se plantean para el Sector.
+En ambas Comisiones pueden participar y presentar contribuciones los Estado Miembros, los Miembros del Sector y los Asociados del UIT-D.
+La Comisión de Estudio 1 se encarga de las estrategias y políticas para el desarrollo de las telecomunicaciones
+La Comisión de Estudio 2 se encarga del desarrollo y gestión de los servicios y redes de telecomunicaciones, y aplicaciones de las TIC.
+El UIT-D gestiona una red de oficinas de la BDT en cinco regiones, con la idea de poder colaborar lo más estrechamente posible con sus miembros y ajustar sus actividades para atender a las cada vez mayores y diversas necesidades del mundo en desarrollo y de los países menos adelantados.
+Estas oficinas ayudan a los países en vías de desarrollo a encaminarse hacia sus metas de desarrollo TIC.
+Aparte de proporcionar este apoyo técnico y logístico, desempeñan las funciones básicas del Sector de Desarrollo, como órganos especializados y ejecutivos, movilizadores de recursos y centros de información.
+A continuación se muestra un esquema con la división de las oficinas:
+Las actividades esenciales del UIT-D y de la BDT se dividen en dos grandes grupos: políticas y estrategias, y proyectos e iniciativas:

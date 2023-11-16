@@ -1,0 +1,12 @@
+Quickoffice era una aplicación freeware de ofimática para teléfonos inteligentes, capaz de visualizar y editar documentos de texto, presentaciones y hojas de cálculo.
+Quickoffice fue adquirida en 2012 por Google, siendo relanzada como una aplicación gratuita en septiembre de 2013.
+En junio de 2014 se anunció que sus funciones se integrarían completamente en las aplicaciones de Google Drive y se retiraría la aplicación.
+Quickoffice permitía a los usuarios visualizar y crear documentos de texto, presentaciones, así como hojas de cálculo.
+Contiene un procesador de texto (Quickword), un editor de presentaciones (Quickpoint) y un editor de hojas de cálculo (Quicksheet).
+Estos programas son compatibles con los formatos de Microsoft Office, pero no con el estándar de OpenDocument.
+Quickoffice se encontraba disponible mediante descarga gratuita para los sistemas operativos móviles Android y iOS, a través de las tiendas de aplicaciones Google Play y App Store respectivamente, así como también para Google Chrome.
+El 5 de junio de 2012, Google anunció en su blog oficial que había adquirido a Quickoffice, sin dar a conocer los detalles de la transacción.
+El cofundador y CEO de Quickoffice Alan Masarek comentó al respecto:
+El 25 de junio de 2014, Google anunció en su blog oficial la eliminación de la aplicación de Quickoffice, y dejaba de dar soporte a la misma.
+El motivo que argumentado es que la aplicación Drive incorpora todas estas funciones así evitará duplicidad de aplicaciones en las distintas tiendas de aplicaciones que realicen la misma función.
+Sustituyen a Documentos, Hojas de cálculo y Diapositivas de Google

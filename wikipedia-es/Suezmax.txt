@@ -1,0 +1,12 @@
+Suezmax es un término de arquitectura naval que define a los buques capaces de transitar por el canal de Suez.
+Se utiliza casi exclusivamente en referencia a los buques petroleros.
+Dado que el canal no tiene esclusas, los únicos factores limitantes son el calado (profundidad máxima por debajo de la línea de flotación), y la altura máxima que establece el puente del Canal de Suez.
+El canal se profundizó en 2009 aumentando el calado de 18 a 20 metros (60 a 66 pies).
+El peso muerto de un barco Suezmax es de 160.000 toneladas aproximadamente y tiene típicamente una manga de 50 m. La limitación de altura establecida en 68 metros (223,1 pies), es producto del obstáculo que representa el Puente del Canal de Suez con 70 metros (230 pies) de altura sobre el nivel del agua.
+La Autoridad del Canal de Suez publica tablas informando del calado y manga permitido.
+No obstante, algunos petroleros a plena carga exceden el calado máximo permitido, y por lo tanto, deben transferir parte de su carga a otros buques o a un oleoducto antes de ingresar al canal de Suez.
+Aquellos buques excedidos que no pueden transferir parte de su carga, deben efectuar la travesía alrededor del cabo de Buena Esperanza.
+Existen varios términos similares a Suezmax, entre los que pueden mencionarse los Panamax (aquellos capaces de pasar por las esclusas del canal de Panamá), o los Malaccamax y Seawaymax capaces de pasar por el estrecho de Malaca y la Vía marítima del San Lorenzo, respectivamente.
+Antes de la obra de ampliación del canal de Suez finalizada en 2009, los buques graneleros Capesize eran demasiado grandes para pasar a través del Canal de Suez y debían dar la vuelta al cabo de las Agujas.
+Con las obras terminadas, muchos buques Capesize pueden utilizar el canal.
+Planes para profundizar el canal de Suez a 70 pies puede llevar a una redefinición de la especificación Suezmax, como sucedió con la especificación Panamax, después de profundización y ampliación del canal de Panamá.

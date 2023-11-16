@@ -1,0 +1,52 @@
+El Render es una imagen digital resultante de la acción de un programa informático específico cuyo propósito es generarla con el máximo "foto-realismo" multi-dimensional posible, a partir de un modelo de una escena o escenario tridimensional interpretado desde cada una de sus perspectivas.
+El modelo se somete a diversos procesos, denominados de Renderizado 3D, apelando a técnicas fotográficas y aplicación de simulaciones de distribución luminosa, trazados óptico geométricos de recorridos de la luz y sus comportamientos acorde al texturizado de materiales para crear una serie de efectos e ilusiones a fin de asemejarlo a una situación "realista" específica.
+El proceso de graficación se centra en la conversión automática de modelos de wireframe para lograr imágenes planas con efectos tridimensionales fotorrealistas.
+La renderización es el proceso final de creación de la imagen o animación 2D real de la escena preparada.
+Esto se puede comparar al tomar una foto o filmar una escena después de que la configuración se ha terminado en la vida real.
+Se han desarrollado varios métodos de representación diferentes y a menudo especializados.
+Estos van desde los renderizados wireframe no realistas a través de la representación basada en polígonos, hasta técnicas más avanzadas tales como: renderizado de scanline, ray tracing o radiosity.
+La renderización puede tomar de: fracciones de segundos a días para una sola imagen / fotograma.
+En general, los diferentes métodos son más adecuados para el renderizado fotorrealista o para el renderizado en tiempo real.
+La renderización de medios interactivos, como juegos y simulaciones, se calcula y se muestra en tiempo real, a velocidades de aproximadamente de 20 a 120 fotogramas por segundo.
+En el renderizado en tiempo real, el objetivo es mostrar tanta información como sea posible, ya que el ojo puede procesar en una fracción de segundo (acá en un fotograma.) En el caso de 30 frame-por-segundo de animación un marco abarca un 30 de un segundo). El objetivo principal es lograr un grado de fotorrealismo tan alto como sea posible a una velocidad de renderización mínima aceptable (normalmente 24 fotogramas por segundo, ya que es el mínimo que el ojo humano necesita para crear con éxito la ilusión de movimiento). De hecho, las explotaciones pueden aplicarse en la forma en que el ojo "percibe" el mundo, y como resultado la imagen final presentada no es necesariamente la del mundo real, sino una lo suficientemente cerca para que el ojo humano pueda tolerar. El software de renderizado puede simular efectos visuales tales como bengalas de lente, profundidad de campo o desenfoque de movimiento.
+Estos son intentos de simular fenómenos visuales resultantes de las características ópticas de las cámaras y del ojo humano.
+Estos efectos pueden dar un elemento de realismo a una escena, incluso si el efecto es simplemente un artefacto simulado de una cámara.
+Este es el método básico empleado en juegos, mundos interactivos y VRML.
+El rápido aumento de la potencia de procesamiento informático ha permitido un grado de realismo progresivamente mayor incluso para la renderización en tiempo real, incluyendo técnicas como la renderización HDR.
+La representación en tiempo real suele ser poligonal y ayudada por la GPU de la computadora.
+Las animaciones para medios no interactivos, como películas y video, se hacen mucho más lentamente.
+La renderización en tiempo no real permite aprovechar la potencia de procesamiento limitada para obtener una calidad de imagen más alta. Los tiempos de procesamiento de fotogramas individuales pueden variar de unos segundos a varios días para escenas complejas.
+Los fotogramas renderizados se almacenan en un disco duro y luego se pueden transferir a otros medios como películas cinematográficas o discos ópticos.
+Estos marcos se muestran entonces secuencialmente a altas velocidades de fotogramas, típicamente 24, 25 ó 30 fotogramas por segundo, para lograr la ilusión de movimiento.
+Cuando el objetivo es el foto-realismo, se emplean técnicas como el trazado de rayos o la radiosidad.
+Este es el método básico empleado en los medios digitales y las obras artísticas.
+Se han desarrollado técnicas para simular otros efectos naturales, como la interacción de la luz con diversas formas de materia.
+Ejemplos de estas técnicas incluyen sistemas de partículas (que pueden simular lluvia, humo o fuego), muestreo volumétrico (para simular la niebla, el polvo y otros efectos atmosféricos espaciales), cáusticos (para simular el enfoque de la luz por superficies irregulares de refracción de la luz, Ondulaciones de luz que se ven en el fondo de una piscina), y la dispersión subsuperficial (para simular la luz que refleja dentro de los volúmenes de objetos sólidos como la piel humana).
+El es costoso desde el punto de vista computacional, dada la compleja variedad de procesos físicos que se están simulando.
+El poder de procesamiento informático ha aumentado rápidamente a lo largo de los años, permitiendo un grado progresivamente más alto de representación realista.
+Los estudios de cine que producen animaciones generadas por computadora suelen hacer uso de una granja de render para generar imágenes de manera oportuna.
+Sin embargo, la caída de los costes de hardware significa que es totalmente posible crear pequeñas cantidades de animación 3D en un sistema informático doméstico.
+La salida del renderizador se utiliza a menudo como sólo una pequeña parte de una escena de película completa.
+Muchas capas de material pueden ser procesadas por separado e integradas en la toma final usando software de composición.
+Los modelos de reflexión / dispersión y sombreado se utilizan para describir la apariencia de una superficie.
+Aunque estas cuestiones pueden parecer problemas por sí solas, se estudian casi exclusivamente en el contexto de la prestación.
+Los gráficos modernos de la computadora 3D confían pesadamente en un modelo simplificado de la reflexión llamado modelo de la reflexión de Phong (no ser confundido con el sombreado de Phong).
+En la refracción de la luz, un concepto importante es el índice de refracción.
+En la mayoría de las implementaciones de programación 3D, el término para este valor es "índice de refracción" (generalmente corto para IOR).
+El sombreado se puede dividir en dos técnicas diferentes, que a menudo se estudian independientemente:
+Los algoritmos populares de sombreado de superficies en gráficos de computadora 3D incluyen:
+Reflexión o esparcimiento Es la relación entre la iluminación entrante y saliente en un punto dado.
+Las descripciones de dispersión se dan generalmente en términos de una función de distribución de dispersión bidireccional o BSDF
+Sombreado Se refiere a cómo se distribuyen diferentes tipos de dispersión a través de la superficie (es decir, en qué función de dispersión se aplica).
+Las descripciones de este tipo se expresan típicamente con un programa llamado shader.
+Un ejemplo simple de sombreado es el mapeado de textura, que utiliza una imagen para especificar el color difuso en cada punto de una superficie, Dándole más detalles aparentes.
+Algunos sombreado las técnicas incluyen:
+Transporte describe cómo la iluminación en una escena pasa de un lugar a otro.
+La visibilidad es uncomponente importante de transporte ligero.
+Los objetos tridimensionales sombreados deben ser aplanados para que el dispositivo de visualización -es decir, un monitor- pueda mostrarlo en sólo dos dimensiones, este proceso se denomina proyección 3D.
+Esto se hace usando proyección y, para la mayoría de las aplicaciones, proyección en perspectiva.
+La idea básica detrás de la proyección de perspectiva es que los objetos que están más alejados se hacen más pequeños en relación con los que están más cerca del ojo.
+Los programas producen perspectiva multiplicando una constante de dilatación elevada a la potencia del negativo de la distancia desde el observador.
+Una constante de dilatación de uno significa que no hay perspectiva.
+Las constantes de dilatación altas pueden causar un efecto "ojo de pez" en el que comienza a producirse la distorsión de la imagen.
+La proyección ortográfica se utiliza principalmente en aplicaciones CAD o CAM donde el modelado científico requiere medidas precisas y la preservación de la tercera dimensión.

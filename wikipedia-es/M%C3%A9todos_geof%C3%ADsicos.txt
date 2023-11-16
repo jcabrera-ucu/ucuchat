@@ -1,0 +1,8 @@
+Si las características de los terrenos son tales que las magnitudes físicas medidas son bastante diferentes entre sí, es posible localizar los contactos entre las distintas capas de terreno.
+Intentan evaluar las características del terreno basándose en la medida de ciertas magnitudes físicas tomadas generalmente en la superficie del terreno.
+Si las características de los terrenos son tales que las magnitudes físicas medidas son bastante diferentes entre sí, es posible localizar los contactos entre las distintas capas de terreno.
+Sin embargo, esto no siempre sucede así, por lo que estos métodos tienen serias limitaciones.
+No obstante, gracias a su rapidez y economía, están especialmente indicados para investigar áreas extensas o alineaciones de gran longitud entre sondeos que se encuentren alejados, y de esta forma poder interpolar los resultados obtenidos en las prospecciones extremas, o establecer, en su caso, la necesidad de realización de sondeos intermedios.
+Los métodos geofísicos deben ser considerados siempre como métodos complementarios de reconocimiento, debiendo estar acompañados por prospecciones directas como sondeos, y los datos obtenidos mediante estos sistemas refrendados y contrastados por los resultados de dichos sondeos.
+Los trabajos de campo e interpretación de las medidas deben estar realizados por personal altamente calificado y con experiencia en la ejecución y procesamiento de resultados.
+Pueden plantearse las siguientes opciones:

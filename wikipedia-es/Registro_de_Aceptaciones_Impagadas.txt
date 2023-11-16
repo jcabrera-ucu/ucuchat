@@ -1,0 +1,23 @@
+El Registro de Aceptaciones Impagadas (RAI) es un registro de morosos o fichero de incumplimiento de obligaciones dinerarias, mantenido por el Centro de Cooperación Interbancaria (CCI).
+Los datos de este Registro pueden ser consultados únicamente por entidades asociadas al Centro de Cooperación Interbancaria siempre y cuando la entidad que consulta aporte además al fichero los datos de sus impagados.
+Estos impagos solo pueden ser de personas jurídicas, aunque anteriormente recogía también datos de personas físicas, hoy en día ya no lo hace, al ser declarado ilegal por Resolución del Tribunal de Defensa de la Competencia de 8 de febrero de 2005 dado que no cumplía uno de los cuatro requisitos que le había exigido para que siguiera funcionando, el que debía permitir a otros operadores acceder a sus bases de datos.
+El Registro de Aceptaciones Impagadas es un fichero común de información sobre solvencia patrimonial y crédito de los previstos en el artículo 29.2 de la Ley Orgánica de Protección de Datos de Carácter Personal de España (LOPD - Ley Orgánica 15/1999) al que solo pueden ser comunicados los datos facilitados por el acreedor o por el que actúa por cuenta o interés del acreedor.
+La finalidad de este intercambio de información es mejorar la gestión de riesgos del sistema financiero poniendo información relativa a incumplimientos de pago a disposición de las entidades de crédito participantes de forma cooperativa.
+Cualquier otro fin está prohibido, especialmente si tiene ánimo de lucro.
+El Registro de Aceptaciones Impagadas presta información sobre el incumplimiento de obligaciones dinerarias en el que se centralizan los datos relativos a los efectos aceptados que han resultado impagados a su vencimiento.
+¿Qué información incluye el RAI?
+El RAI recoge la información relativa a aquellos impagados por importe mayor o igual a 300,51 €, derivados de documentos en los que conste la firma del deudor reconociendo la deuda, sean de uso legal en el sistema bancario y tengan fuerza ejecutiva.
+El plazo de permanencia de la información contenida en el RAI es, actualmente, de 30 meses.
+La Ley Orgánica de Protección de Datos de Carácter Personal de España define expresamente el uso de este tipo de ficheros en su artículo 29:
+La información que se registra en el fichero RAI acerca de los efectos cambiarios aceptados e impagados a su vencimiento es la proporcionada por la entidad adherida informante como legítima tenedora de la letra, bien en calidad de acreedor o bien como encargada de la gestión del cobro del efecto cambiario, o como representante de otras entidades del sistema que sean tenedoras de las letras de cambio, cuyos datos facilita al fichero.
+Dicha entidad es la encargada de comunicar por la misma vía las modificaciones de los datos y bajas que deban producirse.
+Las entidades que pueden ser miembros del RAI son aquellos bancos, cajas de ahorro, cajas rurales y cooperativas de crédito inscritos en el correspondiente Registro del Banco de España y que, estando asociados al CCI, soliciten su adhesión y asuman el compromiso de cumplimiento de las normas de uso.
+Desde enero de 2005, CCI está formado por 232 asociados, siendo 93 bancos, 1 compañía de crédito oficial, 55 cajas de ahorros y préstamos y 83 compañías de crédito.
+En la actualidad el RAI está gestionado por EXPERIAN Bureau de Crédito S.A. por cuenta del Centro de Cooperación Interbancaria.
+El RAI basa su funcionamiento en dos principios fundamentales:
+Las entidades adheridas al fichero RAI suministran un fichero, utilizando el programa homologado por el Banco de España denominado EDITRAN, con los datos cifrados de los efectos aceptados e impagados a su vencimiento para que se produzca el alta de tales datos en el fichero RAI, residente en el centro de proceso de Cálculo y Tratamiento de la Información S.A.
+La entidad que informa los datos al fichero RAI es quien decide sobre el alta o la cancelación de los datos suministrados al fichero de morosidad, comunicando al responsable del fichero de solvencia, a través de ficheros que trasmite utilizando EDITRAN, las altas, bajas y modificaciones de los datos, lo que implica un tratamiento automatizado de los datos tratados, cedidos, e incorporados al fichero común de información sobre solvencia patrimonial.
+El uso de la información accesible es limitada:
+Las entidades adheridas al RAI pueden consultar la información existente mediante dos sistemas distintos de conexión:
+Las consultas, que se realizan exclusivamente por código de identificación fiscal (CIF), devuelven la siguiente información:
+También es posible consultar las anotaciones que aparece en el RAI a través de las empresa que elaboran informes comerciales

@@ -1,0 +1,254 @@
+Ikariam es un MMORTS, cuyo fin es la colonización dado que la conquista no es posible; da mucha importancia al comercio y a la diplomacia.
+El jugador recibe una pequeña polis que debe ir ampliando hasta forjar un gran Imperio económico y/o militar, pudiendo llegar a fundar nuevas ciudades denominadas colonias.
+La ciudad se encuentra junto a otras ciudades en una misma isla con una Maravilla que ofrece una bendición particular para cada ciudad de la isla.
+A su vez, esa isla está junto a otras islas formando un archipiélago.
+El mundo del juego está formado por archipiélagos, pudiéndose dar dos tipos de batallas: Marítima y Terrestre.
+Existen cinco clases de materias primas: Madera, Mármol, Vino, Azufre y Cristal.
+Además existe el Oro, que se obtiene de una manera diferente.
+La Madera se encuentra en todas las islas y por lo tanto está disponible para todos los jugadores desde el inicio del juego.
+Por otro lado, los cuatro recursos restantes (también denominados Recursos de Lujo), se encuentran repartidos según la isla, teniendo cada isla solo un tipo de bien de Lujo.
+Todos los recursos son imprescindibles, el Comercio y el Saqueo juegan un papel fundamental en el juego.
+El juego es gratuito, se desarrolla en un entorno web, por lo que únicamente se requiere un Navegador Web para compartir con la comunidad.
+Cada país cuenta con un número distinto de servidores propios, los cuales se van agregando para satisfacer la demanda de los nuevos jugadores.
+El juego consiste en una extensión de agua salpicada de archipiélagos que recuerda al Mar Egeo.
+Cada Archipiélago tiene varias islas.
+Cada isla tiene 16 terrenos libres para colonizar (más un terreno Premium), una Maravilla de las 8 disponibles, un Aserradero para extraer madera, una Mina de uno de los cuatro recursos de lujo (vino, mármol, cristal o azufre) y un Ágora (el foro de la isla, para dejar mensajes a los vecinos).
+Además, cuando un jugador empieza en el juego su isla inicial contiene un Pueblo de los Bárbaros, para que se vaya entrenando en el saqueo y la batalla sin miedo a represalias.
+Los cinco recursos disponibles en Ikariam son: madera, vino, mármol, cristal y azufre.
+La Madera es el único recurso que puede extraerse desde los inicios del juego.
+Para extraer cualquiera de los otros recursos se requiere desarrollar una serie de tecnologías.
+En cada isla hay dos puntos de extracción de recursos, comunes a todos los jugadores: el Aserradero para la madera y la Mina para uno de los otros cuatro recursos.
+El número de habitantes que cada jugador puede dedicar a extraer recursos depende del nivel al que se encuentre el Aserradero o la Mina, estos niveles aumentan con las donaciones de madera de los miembros de la isla.
+El uso de habitantes para extraer recursos reduce los ingresos de oro en la ciudad.
+Se puede sobre-explotar un yacimiento pero el coste en oro se dispara.
+Hay ayudas para aumentar la explotación de los yacimientos por tiempo limitado.
+Todos los recursos se guardan en los Depósitos y Almacenes y pueden ser saqueados.
+Para cada recurso hay un edificio que aumenta su producción en un 2% por nivel (Cabaña del Guardabosques para la madera, Vinicultor para el vino, Cantero para el mármol, Soplador de Vidrio para el cristal y Torre del Alquimista para el azufre) y otro que reduce el coste de todas las acciones que lo necesiten en un 1% por nivel (Carpintería para la madera, Prensa de Vino para el vino, Estudio de Arquitecto para el mármol, Óptico para el cristal y Área de Pruebas Pirotécnicas para el azufre).
+A continuación se hace una breve descripción de los principales usos de cada bien.
+Aparte de eso todos los bienes son utilizados para la ampliación del Palacio y de las Residencias del Gobernador, edificios muy importantes por cuanto su nivel determina la cantidad máxima de colonias que se pueden tener, y de los Almacenes.
+La Madera se puede extraer en todas las islas desde que se inicia el juego.
+Se considera una materia prima básica, mientras que las demás materias son consideradas Bienes de Lujo, indispensables para el desarrollo de las ciudades luego de sobrepasar los niveles básicos
+del juego.
+Prácticamente todas las funciones del juego requieren madera: ampliar edificios, reclutar tropas y barcos o donar a los aserraderos y minas, por ejemplo.
+Este material es la base para la construcción y ampliación de edificios una vez rebasados los niveles básicos.
+El Mármol, junto con la Madera, es un bien esencial para el desarrollo de una ciudad.
+La función principal del vino es ser consumido en las tabernas, lo que aumenta el nivel de felicidad de los ciudadanos.
+Cuanto mayor es el nivel de felicidad más rápido crece la población, y cuantos más pobladores hay más impuestos se cobran, más trabajadores hay disponibles y más tropas se pueden reclutar.
+El Vino también es un recurso necesario para reclutar Cocineros, unidad que sirve para aumentar la moral de las tropas de tierra.
+Este Recurso es necesario para el reclutamiento de unidades militares, sean marítimas o terrestres.
+Además sirve para la ampliación de unos pocos edificios.
+El cristal sirve principalmente para fines científicos y religiosos.
+En cuanto a los fines científicos es necesario para ampliar la Academia, que es el edificio donde se investiga.
+En la academia se realizan también experimentos, que consumen una cantidad alta de cristal a cambio de una buena cantidad de puntos de investigación.
+El cristal se invierte también en el Taller de Invenciones, que es donde se investigan tecnologías que mejoran las capacidades de las unidades.
+En cuanto a los fines religiosos, es necesario para construir y ampliar el Templo.
+Además, sirve para producir espías, médicos, submarinos y barcos de mantenimiento.
+En esta sección aparecen otros bienes que pueden ser concebidos como recursos pero que no pueden ser destruidos ni saqueados.
+Estos bienes son:
+· Barcos de transporte.
+Se compran en el Puerto comercial, cada uno a un precio mayor que el anterior.
+El límite máximo es de 180, pero la forma de gobierno, el bonus por conexión diaria y la invitación de amigos al juego permite superarlo.
+· Oro.
+Es generado por los ciudadanos, también se puede adquirir a través de misiones de rapiña.
+El Oro se usa como bien de cambio en la Tienda y para pagar la manutención de las tropas y los barcos.
+· Ambrosía.
+Es el recurso de pago del juego.
+Se obtiene a cambio de dinero real y permite comprar características Premium.
+· Puntos de Investigación.
+Se obtienen mediante investigación o mediante experimentos y se usan para la investigación tecnológica en las Academias.
+Se puede comerciar con los recursos, tanto intercambiarlos con otros usuarios como comprarlos o venderlos en el mercado.
+Las reglas del juego incluyen restricciones en el intercambio de recursos para evitar abusos sobre jugadores más débiles.
+Para poder comerciar se necesita disponer de barcos mercantes, cada barco tiene una capacidad máxima de 500 unidades de recursos, estos barcos sirven también para trasladar tropas a ciudades de otras islas (para apostar o para atacar) así como trasladar los bienes que se saqueen en ciudades enemigas.
+Mediante una academia se puede designar ciudadanos como investigadores para generar Puntos de Investigación.
+Este proceso funciona tal como con los trabajadores.
+Se puede decidir en que área de investigación deben concentrarse los esfuerzos de tus investigadores.
+Las áreas a escoger son:
+- Navegación: Nuevos barcos de guerra y mejoras para la navegación, así como el trato con colonias y naciones extranjeras.
+- Economía: Nuevos tipos de edificios y mejoras en la producción de materias primas, así como finanzas.
+- Ciencia: Nuevos tipos de edificios y de unidades, así como mejoras para la investigación.
+- Milicia: Nuevos tipos de unidades y mejoras para las mismas
+Cada edificio tiene su función específica y su eficacia aumenta según su nivel de ampliación.
+Para poder construir un edificio es necesario un terreno vacío, además de cumplir los requisitos de recursos y de nivel tecnológico.
+En el terreno se ubican cuatro tipos de banderas que representan terrenos vacíos.
+- Ocupan el lugar central de las construcciones del juego, se extienden por toda la zona de tierra adentro del mapa de la ciudad de Ikariam.
+Podemos dividirlos en edificios principales, que tienen distintos usos; de reducción, que hacen que hagan faltan menos recursos para construir y ampliar cada edificio; y de producción, que aumentan el trabajo de los ciudadanos de los aserraderos y las minas, viñedos o canteras.
+- Edificios principales:
+· Intendencia.
+· Academia.
+· Depósito.
+· Taberna.
+· Palacio.
+· Residencia del Gobernador.
+· Museo.
+· Cuartel.
+· Embajada.
+· Tienda.
+· Taller de invenciones.
+· Escondite.
+· Templo.
+· Almacén.
+-Edificios de producción:
+· Cabaña del Guardabosques.
+· Cantero.
+· Vinicultor.
+· Torre del Alquimista.
+· Soplador de vidrio.
+- Edificios de reducción
+· Carpintería.
+· Oficina del arquitecto.
+· Prensa de vino.
+· Área de pruebas pirotécnicas.
+· Óptico.
+- Se encuentran en solares de la costa de nuestras ciudades y están relacionados con el mar, ya sea para el comercio con otros jugadores o para luchar contra ellos por agua.
+· Puerto comercial.
+Para enviar y recibir bienes materiales.
+Dependiendo de su nivel, de un máximo de 48, podremos cargar más o menos rápido los recursos en los barcos comerciales.
+· Astillero de guerra.
+En él se pueden reclutar y alistar distintos barcos de guerra para guerrear por mar contra nuestros enemigos.
+Tiene un total de 32 niveles, a mayor nivel, podemos crear distintas unidades y más rápido
+- Está destinada únicamente al edificio defensivo por excelencia de Ikariam, que se encuentra al noroeste del mapa.
+· Muralla de la ciudad.
+Supone un pilar básico de la defensa de las ciudades y un apoyo muy importante a las tropas.
+Según se va ampliando su nivel, 48 en total, su resistencia aumenta.
+-Sólo existe una, situada en una isla frente a la playa; está destinada a la vez a una única edificación.
+· Fortaleza pirata.
+Edificio desde el cual toda la comunidad ikariana al construirlo puede participar en un minijuego dentro del propio juego, la "piratería".
+Consiste en ir realizando misiones de rapiña para obtener una serie de puntos homónimos.
+Los 50 jugadores que más puntos consigan ganarán una gran cantidad de recursos como premio sin que tengan que devolverlos y pueden ser gastados en todo lo que se quiera.
+A la vez, hay que saber invertir los puntos conseguidos en la fuerza de nuestra tripulación pirata, pues si la aumentamos les será más difícil a nuestros vecinos robarnos nuestros puntos de rapiña y se los queden pues también está la opción de atacar a otros participantes y conseguir sus puntos.
+El torneo dura 21 días y los resultados y la clasificación se actualizan diarariamente a las 18:00 horas.
+Se dividen en terrestres y marítimas y en las batallas se disponen en 3 filas básicas además de flancos y posiciones aéreas.
+Cada una de las unidades tiene una serie de puntos de ataque y defensa que se pueden reforzar en el taller de invenciones.
+- Lanceros
+- Hoplitas
+- Gigantes a vapor
+- Honderos
+- Arqueros
+- Fusileros
+- Espadachines
+- Arietes
+- Catapultas
+- Morteros
+- Girocópteros
+- Globos Bombarderos
+- Médicos
+- Cocineros
+- Espartanos
+- Espolón
+- Lanzallamas
+- Espolón a vapor
+- Ballesta
+- Catapulta
+- Mortero
+- Submarino
+- Lanzamisiles
+- Portaglobos
+- Lancha de palas
+- Barco de mantenimiento
+Al avanzar algo en el juego se nos permite cambiar el tipo de gobierno de nuestro imperio para favorecer nuestro estilo de jugar, cada tipo de gobierno tiene una serie de ventajas e inconvenientes, y cada cual elige si quiere utilizar esta característica para tener una ventaja en el comercio, en las batallas, en la construcción, en la investigación o en otros aspectos.
+· Ikacracia El gobierno de un benévolo líder insular.
+Gobierno que viene por defecto, sin ventajas ni desventajas.
+El que tenemos hasta que se nos permite cambiar.
+Podemos elegirla para no decantarnos por ningún tipo de jugabilidad concreta.
+· Aristocracia.
+El gobierno de los nobles, es decir, de un grupo elitista.
+Para centrarse en la construcción.
++Ventajas:
+-20% Tiempo de construcción de edificios
++20% Contraespionaje
++Desventajas:
++3% Corrupción en todas las ciudades, independientemente de la capital
+3 Democracia.
+El gobierno del pueblo.
+Para jugadores pacíficos y que les guste
++Ventajas:
++75 Satisfacción en todas las ciudades
++1 Puntos de investigación por hora por cada acuerdo cultural
++Desventajas:
+-20% Contraespionaje
++5% Tiempo de construcción de unidades militares terrestres
+· Dictadura.
+El gobierno de un líder, es decir, de una sola persona.
+Para enfocar el juego en la guerra.
++Ventajas:
+-2% Costos de manutención de unidades militares terrestres
+-2% Mantenimiento de unidades navales
+-2% Tiempo de construcción de unidades militares terrestres
+-2% Tiempo de construcción de unidades militares navales
++2 barcos mercantes adicionales
++Desventajas:
+-75 Satisfacción en todas las ciudades
+· Nomocracia.
+El gobierno de la ley, incluso a los propios líderes les resulta difícil modificar las leyes.
+Para asegurar y acomodarse al juego tras grandes evoluciones.
++Ventajas:
+-5% Corrupción en todas las ciudades
++20% Contraespionaje
++Desventajas:
++5% Tiempo de construcción de unidades militares terrestres
++5% Tiempo de construcción de unidades militares navales
++50% Tiempo de carga en puertos propios
+· Oligarquía.
+El gobierno de unos pocos, que en Ikariam son las adineradas familias de mercaderes.
+Para favorecer y potenciar el juego a los grandes comerciantes.
++Ventajas:
++5 Alcance de todas las tiendas
++10% Velocidad de barcos mercantes
+-2% Mantenimiento de unidades navales
++2 barcos mercantes adicionales
++Desventajas:
++20% Tiempo de construcción de edificios
++3% Corrupción en todas las ciudades
+- Tecnocracia.
+El gobierno de los técnicos; en Ikariam, se trata de los científicos e investigadores.
+Para jugadores centrados en la Investigación.
++Ventajas:
++5% Puntos de investigación
++20% Productividad de ayudantes
++Desventajas:
++1 Coste por investigador
+· Teocracia.
+El gobierno de los sacerdotes.
+Destinada a jugadores que explotan las Maravillas y los Milagros.
++Ventajas:
+-20% Tiempo de regeneración de milagros
+La satisfacción en las ciudades con un templo aumenta en +2 veces la tasa de conversión.
++1 producción de oro por sacerdote
++Desventajas:
+-5% Puntos de investigación
+-20 Satisfacción en todas las ciudades sin templo
+- Anarquía.
+No es una forma de gobierno en sí, sino que es el estado del imperio cuando se ordena un cambio de gobierno.
+Durante su existencia, mientras se establece el nuevo orden político, la corrupción aumenta un 25% en todas las ciudades, los barcos y soldados de tierra vuelven a las ciudades de origen, se anulan las guerras en marcha excepto las ocurridas en tierras propias, no se pueden reclutar nuevas unidades de mar ni de tierra, no se pueden espiar enemigos ni tampoco podemos mover a nuestros ejércitos.
+Cada isla tiene en el centro una construcción llamada maravilla que reporta a los ocupantes de dicha isla una ventaja adicional en el juego:
+- Templo de Atenea
+- Templo de Poseidón
+- Templo de Hermes
+- Coloso
+- Jardín de Deméter
+- Gruta de Hades
+- Fragua de Efesto
+- Fortaleza de Ares
+Una Alianza es un grupo de jugadores que se unen para jugar juntos y apoyarse mutuamente tanto en los aspectos financieros como en los militares.
+El acceso a una Alianza es una buena posibilidad para conocer a otros jugadores de Ikariam.
+En Ikariam, se hace una distinción entre dos tipos de batalla: En mar, los barcos de guerra luchan contra los del otro mientras en las batallas de tierra, luchan soldados y equipo militar.
+La mano protectora de los dioses
+Para facilitarte la entrada al juego, los jugadores que sean nuevos en el mundo de Ikariam no pueden ser atacados.
+Puedes ver cuando está activada la protección por una paloma blanca junto al nombre de su ciudad.
+Esta protección termina cuando se cumpla alguna de estas acciones:
+Cuando la Intendencia haya sido ampliada al nivel 5 (Nivel 7, si se dispone de cuenta Premium PLUS).
+Cuando el jugador envíe por primera vez tropas para atacar a otro (a excepción del Pueblo de los Bárbaros).
+Cuando la primera colonia haya sido fundada (llegada de los barcos).
+Cuando el jugador se vuelva inactivo.
+Escenarios
+Generalmente, una batalla puede comenzar en una de estas dos maneras: Cualquier ataque puede hacerse por a través de camino terrestre (es decir en la misma isla de una ciudad) o por ruta marítima (si el objetivo está en otra isla).
+Los ataques mediante paso terrestre siempre lleva a una batalla terrestre, previendo que el defensor tiene posicionados soldados y/o equipo militar en su ciudad.
+Si un ataque se hizo mediante ruta marítima, necesitas asegurarte que tu oponente no tiene barcos de guerra disponibles como defensa.
+En este caso, tus barcos mercantes podrían ser interceptados por soldados y en el peor de los casos, se podrían hundir.
+Tan pronto como tu ciudad objetivo esté desprotegida, tus tropas pueden ir y luchar contra las unidades de defensa terrestres.
+Después de haber seleccionado una ciudad enemiga en el mapa de isla, tienes las siguientes opciones de ataque:
+Saquear: Tan pronto como todos la muralla cae y los defensores (si hay) son derrotados, todo lo que no esté protegido de ladrones es saqueado (ver Edificios: Depósito).
+Cada uno de tus barcos mercantes puede cargar 15 recursos por minuto, con una carga máxima de 500 unidades de material por barco.
+Si no hay recursos disponibles o la capacidad de almacenamiento se termina, la flota regresa a casa.
+Bloquear puerto: Tus barcos de batalla protegen a los transportes que vienen o van a la ciudad bloqueada y los interceptan.
+Ocupar una ciudad (requiere que la investigación: gobernador haya sido investigada en la sección militar): Puedes usar la ciudad ocupada como base para tus tropas.

@@ -1,0 +1,21 @@
+El tetrafluoroetileno (WINDEL), también conocido como tetrafluoroeteno o perfluoroetileno, es un compuesto químico formado por carbono y flúor con la fórmula molecular C2F4.
+Se utiliza como materia prima en la preparación industrial de polímeros.
+En química orgánica, el tetrafluoroetileno es un potente dienófilo.
+El TFE es un derivado del etileno en el cual cada uno de los cuatro átomos de hidrógeno se ha reemplazado con flúor.
+El tetrafluoroetileno es un gas ligeramente tóxico, incoloro e inodoro.
+Resulta altamente inflamable cuando es expuesto al calor o al fuego, y explosivo bajo ciertas condiciones.
+Como todos los fluorocarbonos es susceptible de ataque nucleofilico.
+La polimerización del tetrafluoroetileno se emplea para obtener polímeros como el politetrafluoretileno o teflón (PTFE) y el fluón.
+El PTFE es una de las tres resinas fluorocarbonadas compuestas exclusivamente de flúor y carbono.
+Las otras resinas de este grupo son resinas perfluoroalcoxilos (PFA) y politetrafluoroetilenos (FEP).
+El TFE se utiliza también en la preparación de copolímeros como el ETFE.
+El TFE se obtiene a partir del cloroformo.
+El cloroformo es fluorado a través de la reacción con fluoruro de hidrógeno con el fin de producir clorodifluorometano.
+El TFE surge de la pirólisis del clorodifluorurometano.
+El TFE es un agente alquilante, por lo tanto se cree que el TFE es un carcinógeno, si bien todavía no se han realizado estudios concretos que establezcan la relación entre el cáncer humano y la exposición al TFE.
+La dosis letal mediana (LD50) por inhalación es de 40 000 partes por millón (ppm).
+El compuesto se maneja mejor diluido con un gas inerte porque el calentamiento localizado puede provocar su descomposición explosiva en carbono (C) y tetrafluoruro de carbono (CF4).
+Cuando se trabaja con el TFE el dioxígeno (O2) debe ser escrupulosamente excluido, ya que cataliza una autopolimerización, que puede llevarse a cabo con gran fuerza.
+También hay peligro de explosión cuando se trabaja con TFE a causa de la compresión adiabática.
+Si el TFE presurizado es alojado en un recipiente a una presión más alta, el calor generado por la compresión puede ser suficiente para incendiar el TFE, causando una descomposición explosiva.
+En la industria, estos recipientes se lavan con dinitrógeno (N2)a presión, antes de la introducción de TFE, tanto para eliminar el dioxígeno como para evitar la compresión adiabática.

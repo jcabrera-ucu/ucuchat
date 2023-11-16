@@ -1,0 +1,14 @@
+En matemática, un grupo de Galois es un grupo asociado a un cierto tipo de extensión de cuerpo.
+El estudio de las extensiones de cuerpos (y los polinomios que dan lugar a ellas) mediante el grupo de Galois es conocido como teoría de Galois.
+Para ver una discusión más elemental de los grupos de Galois en términos de los grupos de permutaciones, ver el artículo sobre teoría de Galois.
+Supongamos que E es una extensión del cuerpo F.
+Consideremos el conjunto de todos los automorfismos de cuerpos de E/F; esto es, los isomorfismos α de E a sí mismo, tal que α(x) = x para cada x en F.
+Este conjunto de automorfismos junto con la operación de composición de funciones forma un grupo G, denotado habitualmente Aut(E/F) o.
+Si E/F es una extensión de Galois, entonces G es llamado el grupo de Galois de la extensión, y se denota normalmente Gal(E/F).
+La importancia de que una extensión sea de Galois se debe a que obedece al teorema fundamental de la teoría de Galois.
+Se puede demostrar que E es algebraico
+sobre F si y sólo si el grupo de Galois es profinito.
+En los siguientes casos F es un cuerpo, y C, R, Q son los cuerpos de los números complejos, reales, y racionales, respectivamente.
+La notación F(a) indica la extensión de cuerpo obtenida por unión de un elemento a al cuerpo F.
+La importancia de una extensión que Galois es que obedece al teorema fundamental de la teoría de Galois: los subgrupos cerrados (con respecto a la topología de Krull mostrada abajo) del grupo de Galois corresponden a cuerpos intermedios de una extensión de cuerpos.
+Si E/F es una extensión de Galois, entonces Gal(E/F) puede ser dada una topología, llamada topología de Krull, que lo convierte en un grupo profinito.

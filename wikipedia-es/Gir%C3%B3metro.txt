@@ -1,0 +1,9 @@
+Un girómetro es un sensor que registra movimientos rotacionales y mide su velocidad angular.
+Ejemplos de girómetros son los giróscopos, tanto mecánicos como ópticos y los tacómetros, así como diversos mecanismos reguladores usados en ingeniería.
+Habitualmente, forman parte de sistemas de medición más complejos, que convierten la magnitud a medir en un giro (anemómetros de cazoletas, caudalímetros de turbina...).
+thumb|150px|right|Girómetro Brown de 1880) Los términos giróscopo y girómetro se han usado desde antiguo para designar aparatos de medición de cuerpos rotativos. Antiguamente se usaban la velocidad angular de palieres para determinar el giro de forma mecánica.
+En la construcción se usaba el girómetro Brown para medir la rotación.
+Usando dos masas que rotan alrededor de un eje, se puede usar la fuerza centrífuga para relacionar la velocidad de giro con la distancia de las masas al eje.
+Estas forman un sistema donde la fuerza centrífuga, dependiente de la velocidad, y la tensión de la cuerda se equilibran, lo que permite el cálculo de la velocidad.
+Los reguladores de las máquinas de vapor se basan en el mismo principio.
+Es especialmente conocido el regulador de Watt, usado en diversas enseñas de la ingeniería industrial

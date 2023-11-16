@@ -1,0 +1,30 @@
+El Proceso Unificado de Desarrollo de Software o simplemente Proceso Unificado es un marco de desarrollo de software que se caracteriza por estar dirigido por casos de uso, centrado en la arquitectura y por ser iterativo e incremental.
+El refinamiento más conocido y documentado del Proceso Unificado es el Proceso Unificado de Rational (RUP) o simplemente UP.
+El Proceso Unificado no es simplemente un proceso, sino un marco de trabajo extensible que puede ser adaptado a organizaciones o proyectos específicos.
+De la misma forma, el Proceso Unificado de Rational, también es un marco de trabajo extensible, por lo que muchas veces resulta imposible decir si un refinamiento particular del proceso ha sido derivado del Proceso Unificado o del RUP.
+Por dicho motivo, los dos nombres suelen utilizarse para referirse a un mismo concepto.
+El nombre Proceso Unificado se usa para describir el proceso genérico que incluye aquellos elementos que son comunes a la mayoría de los refinamientos existentes.
+También permite evitar problemas legales ya que Proceso Unificado de Rational o RUP son marcas registradas por IBM (desde su compra de Rational Software Corporation en 2003).
+El primer libro sobre el tema se denominó, en su versión española, El Proceso Unificado de Desarrollo de Software (ISBN 84-7829-036-2) y fue publicado en 1999 por Ivar Jacobson, Grady Booch y James Rumbaugh, conocidos también por ser los desarrolladores del UML, el Lenguaje Unificado de Modelado.
+Desde entonces los autores que publican libros sobre el tema y que no están afiliados a Rational utilizan el término Proceso Unificado, mientras que los autores que pertenecen a Rational favorecen el nombre de Proceso Unificado de Rational.
+El Proceso Unificado es un marco de desarrollo iterativo e incremental compuesto de cuatro fases denominadas Inicio, Elaboración, Construcción y Transición.
+Cada una de estas fases es a su vez dividida en una serie de iteraciones (la de inicio puede incluir varias iteraciones en proyectos grandes).
+Estas iteraciones ofrecen como resultado un incremento del producto desarrollado que añade o mejora las funcionalidades del sistema en desarrollo.
+Cada una de estas iteraciones se divide a su vez en una serie de disciplinas que recuerdan a las definidas en el ciclo de vida clásico o en cascada: Análisis de requisitos, Diseño, Implementación y Prueba.
+Aunque todas las iteraciones suelen incluir trabajo en casi todas las disciplinas, el grado de esfuerzo dentro de cada una de ellas varía a lo largo del proyecto.
+En el Proceso Unificado los casos de uso se utilizan para capturar los requisitos funcionales y para definir los contenidos de las iteraciones.
+La idea es que cada iteración tome un conjunto de casos de uso o escenarios y desarrolle todo el camino a través de las distintas disciplinas: diseño, implementación, prueba, etc. El proceso dirigido por casos de uso es el rup.
+Nota: en UP se está Dirigido por requisitos y riesgos de acuerdo con el Libro UML 2 de ARLOW, Jim
+que menciona el tema.
+El Proceso Unificado asume que no existe un modelo único que cubra todos los aspectos del sistema.
+Por dicho motivo existen múltiples modelos y vistas que definen la arquitectura de software de un sistema.
+La analogía con la construcción es clara, cuando construyes un edificio existen diversos planos que incluyen los distintos servicios del mismo: electricidad, fontanería, etc.
+El Proceso Unificado requiere que el equipo del proyecto se centre en identificar los riesgos críticos en una etapa temprana del ciclo de vida.
+Los resultados de cada iteración, en especial los de la fase de Elaboración deben ser seleccionados en un orden que asegure que los riesgos principales son considerados primero.
+El Lenguaje Unificado de Modelado (UML, por sus siglas en inglés) no es el sucesor de la oleada de métodos de análisis y diseño orientados a objetos que surgió a finales de la década de los 1980 y principios de la siguiente.
+El UML unifica, sobre todo, los métodos de Booch, Rumbaugh, Brühl (OMT) y Jacobson, pero su alcance ha llegado a formar parte fundamental de la Ingeniería de Software tras su estandarización en 1997 con el OMG (Object Management Group, o Grupo de administración de objetos).
+"En resumidas cuentas, la cuestión fundamental del desarrollo del software es la escritura del código. Después de todo, los diagramas son solo imágenes bonitas. Ningún usuario va a agradecer la belleza de los dibujos; lo que el usuario quiere es software que funcione.""('UML Gota a Gota', Addison Wesley, pág. 7)."Por lo tanto, cuando considere usar UML es importante preguntarse por qué lo hará y cómo le ayudará a usted cuando llegue el momento de escribir el código.
+No existe una evidencia empírica adecuada que demuestre si estas técnicas son buenas o malas; pero lo que sí es cierto es que es de considerable ayuda para las etapas de mantenimiento en proyectos de mediana/avanzada envergadura...
+se define el alcance del proyecto
+Desde el punto de vista Técnico: el proyecto está formado por los flujos de trabajo fundamentales: captura de requerimientos, análisis, diseño, implementación y pruebas.
+Tantos el punto de vista Gerencial como el Técnico concuerdan en: La iteración.

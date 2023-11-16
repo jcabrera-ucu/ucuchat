@@ -1,0 +1,5 @@
+El cubo de Bedlam es un rompecabezas mecánico inventado por el experto británico en puzles Bruce Bedlam.
+El puzle consiste en 13 cabezas policúbicas de tres colores distintos (blanco o amarillo, rojo y azul): 12 pentacubos y un tetracubo: el objetivo es ensamblar las piezas en un cubo de 4 × 4 × 4; se ha calculado que hay 19186 formas distintas de hacerlo, excluyendo rotaciones y reflexiones.
+Aunque el cubo de Bedlam es esencialmente justo el siguiente paso lógico al cubo Soma de 3 x 3 x 3, es mucho más difícil de resolver que éste: se afirma que en todo el mundo sólo hay 4447 personas capaces de resolverlo (de las cuales cuatro son españolas).
+El siguiente paso lógico a este diseño es el "Cubo Imposible 3D", de 5 x 5 x 5 cubos de lado (125 piezas en total).
+El récord mundial oficial de ensamblaje del cubo de Bedlam es 7.77 segundos, y fue batido por Aleksander Iljasov (Noruega) el 28 de septiembre de 2007.

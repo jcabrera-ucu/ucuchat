@@ -1,0 +1,48 @@
+La histoplasmosis es una micosis sistémica, caracterizada por lesiones necrogranulomatosas, que afecta a carnívoros, equinos y humanos por la infección con una de las tres subespecies del hongo dimórfico Histoplasma capsulatum.
+No se trata de una enfermedad contagiosa que se pueda transmitir entre personas o animales, sino que surge tras la inhalación de microconidios del ambiente.
+En personas inmunocompetentes suele ser asintomática.
+En los inmunodeficientes, sobre todo, puede cursar con cuadros parecidos a los de una neumonía con fiebre, distrés respitatorio, y en un 20% aproximadamente de los pacientes se llega a producir un shock séptico, fallo renal y coagulopatía, que conduce a la muerte.
+La histoplasmosis, por lo general, es poco conocida.
+En 1906, Samuel Taylor Darling la definió por vez primera, en la zona del Canal de Panamá, y en aquella época la tomó como un protozoario; visualizó: "un parásito de forma casi redonda, rodeado de un halo sin tintura, con un grosor alrededor de 0.16 del diámetro del parásito".
+Como poseía un gran parecido con Leishmania, pensó que tal vez se trataba de un protozoo y que el halo era una cápsula, de tal forma que lo llamó Histoplasma capsulatum.
+Para mala fortuna de Darling, ni era un protozoo, ni existía tal cápsula; pero el nombre se mantiene hasta nuestros días.
+La histoplasmosis tiene una amplia distribución geográfica, estando presente en América, África y Asia.
+''H. c. var.
+capsulatum afecta a carnívoros y se extiende en América desde el sur de Canadá a las regiones centrales de Argentina, siendo enzoótico en los valles de los ríos Misisipi, Misuri y Ohio, en Norteamérica, y la cuenca del Río de la Plata en América del Sur; H. c. var.
+farciminosum afecta a equinos en África, Oriente Medio y Asia; y H. c. var duboisii'' es un patógeno humano estricto en África Ecuatorial.
+Se aísla de la naturaleza en las zonas templadas y tropicales húmedas, cuyos suelos son ácidos, ricos en nitrógeno, fosfatos e hidratos de carbono.
+Los histoplasmas se relacionan especialmente con el guano de las aves y de las cuevas habitadas por murciélagos.
+El agente causal de la histoplasmosis es el hongo dimórfico térmico, Histoplasma capsulatum.
+En casi todas las áreas endémicas de la enfermedad (América, Asia, etc.), el microorganismo causal es Histoplasma capsulatum var.
+capsulatum; en África también se encuentra el agente Histoplasma capsulatum var.
+duboisii.
+Los micelios constituyen las forma infectante natural, y tienen un aspecto característico en forma de micronidios y macronidios.
+Los micronidios se pueden observar claramente al microscopio como microconidios sésiles (o hifas cortas imposibles de diferenciar), los cuales son lisos, ovoides, piriformes o en forma de clava, sin septos, de paredes finas y delgadas, cuyas medidas pueden llegar a oscilar entre los 1-4 a 2-6µm.
+Los macroconidios usualmente son de forma esférica (alrededor de los 8 a 14µm de diámetro), con paredes muy gruesas, no poseen septos, y tienen un aspecto tuberculado.
+Los micronidios tienen un tamaño suficientemente pequeño para llegar a los bronquiolos terminales donde se transforman en levaduras, que son las que se identificarán dentro de los macrófagos.
+Los micelios proliferan mucho mejor a temperatura ambiente, mientras que las levaduras lo hacen a 37°C, esta es la razón, por la que al entrar en el organismo el hongo se transforma a su forma levaduriforme.
+La infección por H. c. capsulatum y H. c. duboisii acostumbra ser inhalatoria, y los microconidios son capturadas por los macrófagos pulmonares, en los que germinan dando blastosporas.
+Generalmente son destruidas en mayor o menor plazo, y la infección es abortiva o asintomática, pero en casos de inmunidad celular deficiente, se liberan del fagolisosoma pasando al citoplasma, donde se multiplican libremente, y se reparten por todo el organismo.
+La infección estimula la multiplicación de los macrófagos infectados, dando lugar a proliferaciones con necrosis e infiltración de tipo granulomatoso, muy frecuentes en los pulmones, pero posibles también en los ganglios, piel, aparato digestivo (en perros) y sistema nervioso central.
+La enfermedad generalizada es mortal.
+La infección por H. c. farciminosum en cambio, suele ser percutánea, por abrasiones cutáneas en las extremidades, aunque también ocurre por vía inhalatoria o conjuntival.
+Si tiene éxito, los macrófagos llevan la infección a los ganglios locales, desde donde se difunde por continuidad y contigüidad produciendo una linfadenitis con linfangitis progresiva, granulomatosa y habitualmente ulcerativa.
+La infección, clínica o inaparente, produce siempre una fuerte sensibilización alérgica.
+Los síntomas dependen del síndrome clínico subyacente:
+Consiste en el hallazgo del agente etiológico en las lesiones, mediante un estudio directo de las mismas con el fin de hallar las levaduras intracelulares (dentro de células del sistema fagocítico mononuclear) en muestras de esputo, lavado broncoalveolar o de líquido cefalorraquídeo en casos de infección en pacientes inmunocomprometidos.
+Eventualmente puede realizarse inoculación animal.
+Las muestras analizadas dependerán de las manifestaciones clínicas que presente el paciente.
+Si la lesión es de piel o mucosa, se efectuará una toma de la lesión con bisturí estéril, extrayendo abundante material.
+Si la lesión fuera costrosa, se deberá descostrar la misma antes de realizar la toma.
+Radiológicamente se observan infiltrados pulmonares con retracción de lóbulos superiores, casquetes pleurales, cavidades, desviación traqueal, nódulos calcificados.
+En el caso de que se sospeche histoplasmosis visceral, el material a estudiar puede corresponder a expectoración, biopsias de ganglios linfáticos, lavados broncoalveolares, punción medular, punción hepática, etc.
+Son usados medicamentos antifúngicos para el tratamiento de casos severos de histoplasmosis aguda y todos los casos de histoplasmosis crónica y diseminada.
+El tratamiento típico para los casos severos de la enfermedad comprende el tratamiento con anfotericina B, seguido por itraconazol por vía oral.
+El tratamiento con itraconazol necesitara ser continuado por al menos un año en casos severos.
+En casos moderados, el itraconazol oral o ketoconazol son suficientes.
+La enfermedad asintomática usualmente no requiere tratamiento.
+La infección previa induce protección parcial contra los efectos de la enfermedad si ocurre reinfección.
+En equinos la forma linfangítica, más crónica, puede ayudar la escisión quirúrgica y tratamiento i.v. con yoduros.
+El pronóstico depende de la magnitud de la infección y de la salud general del individuo.
+La tasa de mortalidad es bastante alta para personas con histoplasmosis generalizada (diseminada) que no reciben tratamiento, pero se reduce significativamente cuando este se realiza.
+La prevención básica estriba en evitar en lo posible la exposición, cosa no siempre factible en áreas enzoóticas, pero sí, al menos, en los dormideros de pájaros y cuevas de murciélagos.

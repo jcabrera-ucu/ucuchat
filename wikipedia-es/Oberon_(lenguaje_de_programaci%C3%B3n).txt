@@ -1,0 +1,10 @@
+Oberon es un lenguaje de programación orientado a objetos y procedimental creado por Niklaus Wirth (autor también de Pascal, Modula y Modula-2) y sus colaboradores del ETHZ (Suiza).
+Oberon puede considerarse una evolución de Modula-2 con un soporte completo de orientación a objetos.
+De este lenguaje y de sus antecesores hereda buena parte de la sintaxis y de la filosofía.
+Wirth siempre ha intentado simplificar los lenguajes sin que por ello se pierda en potencia.
+También está diseñado con la seguridad en mente: tiene chequeos de rango en arrays, recolector de basura y es fuertemente tipado.
+Sin embargo, por su intento de simplicidad carece de enumeraciones y enteros restringidos en rango, los cuales pueden implementarse como objetos.
+La sintaxis de orientación a objetos de Oberon no se parece a la de otros lenguajes más populares como C++ o Java, pero sí guarda similitud con la de Ada 95.
+Oberon es también el nombre de un sistema operativo, escrito en este lenguaje y para este lenguaje.
+Oberon se ha portado a otros sistemas (incluyendo a Windows y sistemas Unix) e incluso se puede compilar en código de bytes para la máquina virtual de Java.
+También existe un proyecto para crear un compilador para la plataforma .NET.

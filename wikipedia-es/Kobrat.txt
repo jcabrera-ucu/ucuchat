@@ -1,0 +1,13 @@
+El Lapuan Korikobrat es un equipo de baloncesto finlandés con sede en la ciudad de Lapua, que compite en la Korisliiga.
+Disputa sus partidos en el Lapuan Urheilutalo, con capacidad para 1000 espectadores.
+{| class="toccolours" style="font-size: 95%; width: 80%; "
+! colspan="2" style="background-color: black; color: white; text-align: center;" | Lapuan Korikobrat 2015-2016
+! Jugadores !!
+Entrenadores
+{| class="sortable" style="background:transparent; margin:0px; width:100%;"
+! Pos.
+!! # !! Nac.
+!! Nombre !!
+Altura !!
+Peso !!
+Procedencia

@@ -1,0 +1,71 @@
+Las tecnologías de la Información y comunicación en Bután tienen una corta historia.
+En los comienzos, las telecomunicaciónes penetraron cautamente.
+Las primeras líneas de teléfono se establecieron en 1963, la primera radio en emitir en 1973, las computadoras llegaron en los ochenta y la TV e Internet no hasta 1999.
+Durante cientos de años, la zona Himalaya del actual reino del Bután se ha mantenido aislada del resto del mundo, resguardando celosamente sus costumbres y tradiciones.
+Ya desde el siglo VIII d.C., se impuso una cultura altamente impregnada por los principios y valores del budismo tibetano que hoy día rigen todos los ámbitos de vida y desarrollo de este país.
+Bután ha permanecido prácticamente impermeable a la avalancha tecnológica desarrollada y extendida mundialmente a lo largo del siglo XX.
+Pero entre 1961 y 1973 empezó un importante cambio en los planes del gobierno.
+Comenzó la transformación del país, aumentando la red de comunicaciones tales como la construcción de nuevas carreteras (de menos de 2.000 km en 1974 pasaron a tener más de 11.000 km en el 2015), restaurando y construyendo canales de irrigación, exportando energía eléctrica —a la India—, así como abriendo relaciones diplomáticas con la India a partir de 1968.
+Los proyectos hidroeléctricos en Bután son un ejemplo de cooperación de ganancia mutua entre ambos países.
+Bután es un país que en poco espacio de tiempo pasó de ser pretecnológico a uno de los más conectados del siglo XXI.
+Los últimos reyes de la dinastía Wangchuck han sido promotores del acceso a la modernidad y avaladores de un nuevo paradigma, la Felicidad Nacional Bruta (Gross National Happiness / GNH).
+Gracias a los cambios políticos y económicos llevados a cabo desde 1972 por S.M. Jigme Singye Wangchuck (cuarto rey de la monarquía hereditaria de Bután), el país comenzó a cambiar.
+En lugar promover un desarrollo regido por los conceptos del PIB, introdujo la GNH como directriz principal a seguir en toda política nacional.
+La GNH se centra en el bienestar de la población, busca el equilibrio entre el progreso material y crecimiento sostenible.
+J. Singye Wangchuk permitió la transformación de su gobierno absoluto en una monarquía parlamentaria.
+La primera Constitución se promulgó el año 2008:
+«La democracia en Bután es verdaderamente un resultado del deseo, aspiración y completo compromiso del monarca por el bienestar del pueblo y del país.»
+(Juez Supremo de Bután, Lyonpo Sonam Tobgye, 18 de julio de 2008)
+En 2006 el rey Jigme Singye Wangchuk abdica y delega el poder a su hijo Jigme Khesar Namgyel Wangchuck.
+quien siendo el nuevo rey continuará las políticas de cambio y transformación a los nuevos medios.
+La entrada de los medios de comunicación no fue simultánea.
+La primera estación de radio regularizada en el reino fue la emisora privada NYAB (National Youth Association of Bhutan), que comenzó sus emisiones en 1973.
+Actualmente es propiedad del estado y fue absorbida por la corporación nacional Bhutan Broadcasting Service (BBS).
+Bután fue el último país en legalizar la TV.
+La BBS inició las primeras transmisiones de TV en junio de 1999, emitiendo en cuatro lenguas: Dzongkha, Tsanglhakha, Inglés y Lhotshamkha.
+La radio, a diferencia de la TV y otros medios (los periódicos y posteriormente Internet), fue el único medio efectivo de rápida difusión por todo el país, ya desde sus primeras emisiones.
+La introducción de los medios de comunicación, hizo que progresivamente la población tomase conciencia de las ventajas que tenían los medios de transmisión electrónica.
+Según JBS, en el 2001 algunos operadores de TV por cable ya ofrecían más de 40 canales.
+Los avances tecnológicos han incrementado la capacidad de los medios en Bután, que ya forman parte de la vida de la mayoría de la población, aunque el interés y su acceso difieren según sea el área rural o urbano, entre ricos y pobres, entre viejos y jóvenes.
+Según la MIS de la Bután Broadcasting Service, la televisión, especialmente los canales internacionales tenían más fuerte impacto entre la población urbana y joven.
+La radio que llega a todos los rincones del país mantiene su mayor influencia, en zonas remotas es el único medio de información.
+Con el sistema político implantado por el gobierno, el número de empresas privadas dedicadas a los medios de comunicación fue aumentando.
+En el 2010 aparte de los medios públicos, existían 6 periódicos, 6 emisoras de radio y 3 proveedores de servicios de Internet privados.
+Hoy día, además de la TV por satélite, los butaneses disponen de una red nacional de conexión terrestre con fibra óptica, desplegada por todos los 20 distritos (dzongkhag), con numerosos canales de TV, muchos de ellos son de la India.
+El primer servicio de telecomunicación por teléfono fue el 1 de mayo de 1965 (Phuentsholing-Thimpu).
+En 1985 se establece conexión por microondas con India.
+Las conexiones por satélite en 1990.
+La transmisión digital por microondas entre 1990 y 1995.
+El 1 de julio de 2000 se establece Bhutan Telecom —propiedad del estado—, proveedor de servicios Internet, telefonía móvil y telecomunicaciones (ofrece B-Mobil y servicio Internet DrukNet), además de ser el único proveedor de línea telefónica fija del país.
+Con la llegada de los teléfonos celulares en el 2003, el ámbito de los medios de comunicación se amplió progresivamente.
+Según datos de las compañías Bhutan Telecom y Tashi Cell, el número de teléfonos móviles dados de alta en Bután en el 2007 fue de 148.179.
+A finales de junio del 2018 el número contabilizado era de 715.626, siendo mayormente subscriptores de prepago.
+Actualmente, los servicios de conexión por satélite continúan teniendo un rol primordial debido a la accidentada orografía montañosa y en lugares remotos es la única forma de comunicación.
+Bután no tiene satélites en propiedad pero usa los servicios de otros proveedores (INSAT 4A satellite en frecuencia de banda-C).
+La compañía Telecom utiliza servicios de transmisión de voz y datos de Intelsat y Thaicom.
+Para ISPs locales utilizan TELSTAR 18 de Telsat o Intelsat 12 satellite.
+Internet entra en Bután el 2 de junio de 1999 con Druknet, que será el único proveedor de Servicios del país (Bhutan Telecom), hasta el año 2003.
+En el 2004, gracias a la descentralización dos empresas privadas ISP, la DrukCom Private Enterprise y la Samden Tech Pvt. Ltd empiezan también a ofrecer servicios VSAT.
+En el 2007 termina el monopolio de Telecom y aparece la compañía de teléfonos móviles Thasi Cell, que a partir de 2016 comenzó a ofrecer servicios de telecomunicación de cuarta generación (4G).
+Debido a que Bután era un país que no tenía ningún tipo de Infraestructura tecnológica heredada, después de la entrada de Internet en 1999, fue posible la planificación directa de implantación de la red de fibra por todo el país.
+En poco tiempo se pasó de sistemas de Tecnología analógica a la Tecnología digital y de fibra óptica ADSL/DSL.
+Al principio las comunicaciones eran sumamente caras debido a que las conexiones debían realizar-se vía satélite, posteriormente a medida que se desplegaban las nuevas infraestructuras de conexión terrestre se redujo el coste, aumentando el número de usuarios y prestaciones del servicio.
+Actualmente los servicios de Telecom se han extendido ofreciendo servicio a operadores extranjeros cuyos clientes visitan Bután.
+En junio del 2013, el gobierno tenía desplegada ya la infraestructura de alta velocidad por todos sus 20 distritos y 202 blocks.
+Los servicios que ofrece Bhutan Telecom en esa fecha: ADSL/DSL 512 Kbps (en cobre), FTTC, FTTB, FTTH y wifi; redes de conexión privada (internet lease lines), circuitos de comunicación P2P, IPVPN e IPLC.
+Las estadísticas del informe DITT Annual report de Jan 2016 - June 2017, del Departamento de Tecnologías de la Información y Telecomunicaciones del Gobierno, muestran un 92% de aumento de subscriptores de móviles y un 75,44% en el índice de penetración de Internet y banda ancha.
+También en el citado documento cuya fuente son datos recogidos por Bhutan Telecom y Tashi Infocomm Ltd, muestra la segmentación de suscriptores según el tipo de conexión a Internet contratado.
+En el 2016, se llegó a la cota de 532.089 subscriptores que se dieron de alta en conexión 3G, 4G y EDGE/GPRS.
+En mayo de 2012 el Parque tecnológico de Timbú entró en funcionamiento.
+El Plan Estratégico 2012 del Centro Tecnológico y de Innovación de Bután (BITC), tiene tres objetivos: Incubador de negocios, Centro de Tecnología Compartida y Centro de Datos.
+El 23 de marzo de 2017, el Departamento de Tecnologías de la Información y Telecomunicaciones (DITT), abrió oficialmente el Centro de datos del Gobierno de Bután, el Thimphu TechPark.
+Este es el primer Data Hub centralizado del gobierno.
+A diferencia de los países desarrollados como Estados Unidos, Japón u otros, donde los medios de comunicación se han desarrollado progresivamente a lo largo del tiempo, la proliferación en Bután ha sido muy rápida, concurriendo en poco espacio de tiempo varias formas de medios, como la televisión, Internet y los teléfonos móviles.
+Como resultado, Bután está experimentando cambios sustanciales que afectan a las costumbres de la familia y sociedad.
+El Ministerio de Información y Comunicación de Bután (MOIC), realizó durante los años 2003, 2008 y 2013 estudios sobre el impacto de los Medios en la sociedad butanesa, que hacen seguimiento de las tendencias, impactos y desafíos.
+Los cambios se reflejan también en las segundas elecciones del 2013, en la creación de centros comunitarios para mejorar el acceso a la información así como con el incremento de medios y difusión de las nuevas tecnologías.
+Bután es uno de los últimos países en introducir estos medios.
+Fuente:"Bhutan Media Impact Study 2013, Ministry of Information and Communication, Bhutan."
+A.G.R.: Ratio media de Crecimiento (%)
+En un informe del 2004, el Real Gobierno de Bután establece estos planes:
+Más detalles en el Informe “Revised Bhutan ICT Roadmap” del 2015, donde aparece la agenda de Alto Nivel de Implementación de las TIC prevista para los años siguientes hasta 2018.

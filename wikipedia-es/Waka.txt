@@ -1,0 +1,136 @@
+Waka (和歌) o yamato uta es un género de poesía japonesa.
+Waka significa literalmente "poema japonés".
+La palabra fue originalmente acuñada durante el período Heian para diferenciar a la poesía originaria de Japón de la poesía kanji (poemas chinos), la cual también era familiar para las clases sociales educadas y altas japonesas.
+Por esta razón, la palabra waka se refiere a muchos estilos diferentes.
+Los dos principales son: tanka (短歌 que literalmente significa "poema corto") y chōka (長歌 que significa literalmente "poema largo"); pero también existen otros: bussokusekika, sedoka y katauta.
+Sin embargo estos últimos tres estilos cayeron en desuso al principio del período Heian, y chōka se olvidó poco después.
+De esta manera el término waka surgió a tiempo para simplemente aplicarse al estilo tanka.
+El poeta y crítico japonés Masaoka Shiki creó el término tanka a principios del para su afirmación de que "waka debería de ser renovado y modernizado".
+Hasta entonces, los poemas de esta índole habían sido referidos como waka o simplemente uta (literalmente "canción" o "poema").
+Él (Masaoka Shiki) también inventó el término "haiku", que es usado para su revisión del antiguo estilo hokku.
+Para simplificar, utilizaremos el término tanka en las próximas descripciones.
+Tradicionalmente, el waka carece de cualquier clase de rima (incluso accidental, ya que eran consideradas un error en el poema), o incluso de versículos.
+En lugar de ellos el waka tiene la unidad (連) y las frases(句) (sin embargo, las unidades o los párrafos usualmente son cambiados por versículos cuando la poesía es traducida o transliterada a lenguajes occidentales).
+El chōka consiste en frases de cinco a siete sílabas repetidas por lo menos dos veces y termina con un final de 5-7-7 sílabas.
+El chōka más corto registrado fue hecho por Yamanoue no Okura en el Periodo Nara, el cual dice: " 瓜食めば子ども思ほゆ栗食めばまして思はゆ何処より来りしものそ眼交にもとな懸りて安眠し寝さぬ " (Man'yōshū: 0337), el cual consiste en un patrón de: 5-7 5-7 5-7 5-7-7 sílabas.
+La traducción sería:
+Tanka consiste en cinco unidades (normalmente se tratan como líneas cuando es romanizado o traducido)
+Usualmente con el siguiente patrón de mora: 5-7-5 / 7-7.
+A la frase que es 5-7-5 se le llama kami-no-ku (frase superior) y a la frase que es 7-7 se le llama shimo-no-ku (frase inferior).
+El tanka es una forma de la poesía japonesa mucho más antigua que la haiku.
+Y en aquellos tiempos poemas de esta forma (la tanka) eran llamados hanka (que significa "poema al revés") ya que el patrón 5-7-5-7-7 derivó de la conclusión de un chōka (La cual era una pequeña estrofa al final de un poema usada para hacer referencia a una persona o para comentar la poesía precedida).
+A veces un chōka tenía 2 de estas.
+El chōka de arriba es seguido por uno de estos tankas: " 銀も金も玉も何せむに勝れる宝子にしかめやも ", también escrito por Okura.
+Incluso al final del Período Asuka, los poetas de waka como Kakinomoto Hitomaro hicieron hanka como un trabajo independiente.
+Era utilizado para expresar su interés personal en la vida y la expresión, en comparación con el chōka, el cual era tan solemne como para utilizarse para expresar emociones y sentimientos profundos y serios cuando analizamos un evento significativo.
+Ya en el período Heian (que se ubica a principios del ) el chōka era raramente escrito y el tanka se convirtió en la principal forma del waka.
+Desde entonces, el estilo genérico del waka se convirtió casi en lo mismo que el tanka.
+El período Heian también vio la invención de un juego basado en el tanka: Un poeta recitaba o creaba la mitad de un tanka, y el otro lo terminaba.
+Esta tanka secuencial y colaborativa fue llamada renga (que significa "poema ligado" o "poema encadenado") (el estilo y reglas del renga fueron inventados después, en los tiempos medievales).
+Aún hay otros estilos y formas del waka.
+En tiempos antiguos la forma silábica no era fija, esta podía variar del estándar de cinco y siete también a tres, cuatro, seis, pero no más largo de siete sílabas en un waka.
+Además de esto hay otros estilos como:
+Antiguamente se acostumbraba que dos escritores intercambiaran cartas en waka en lugar de cartas escritas en prosa.
+También era muy común entre amantes, un ejemplo de esta costumbre son cinco de los veinte volúmenes que Kokin Wakashu recopiló sobre la poesía waka.
+En el periodo Heian los poemas de los amantes eran intercambiados durante la mañana cuando se reunían en la casa de la mujer.
+Los waka que se intercambiaban fueron denominados Kanuginu (後朝), porque se pensaba que el hombre quería quedarse con su amante y cuando salía el sol casi no tenía tiempo para vestirse sus ropas, que habían sido utilizadas como colchón (costumbre de la época).
+Los trabajos de este periodo: El libro de almohada e Historia de Genji nos dan ejemplos de la vida de los aristócratas y por consiguiente de esta costumbre.
+Murasaki Shikibu escribió alrededor de 950 wakas para su Historia de Genji, los cuales son escritos de sus personajes amantes.
+En poco tiempo, hacer y recitar waka se convirtió en una costumbre de la cultura aristocrática.
+Incluso se recitaban partes de wakas que quedaran a la situación del momento para amenizar una reunión.
+Igual que como ocurre con las fiestas de té había un buen número de rituales en cuanto a la composición, presentación y evaluación de wakas nuevos.
+Incluso había dos tipos de "fiestas waka": el Utakai y el Utaawase.
+Utakai era una fiesta en la que todos los participantes escribían un waka y lo recitaban.
+Las fiestas Utakai se derivaron de Shikai, una fiesta Kanshi y se hacían cuando las personas se reunían para una ocasión especial como: la fiesta del año nuevo, celebraciones de un nacimiento, cumpleaños o una construcción de una casa.
+Por otro lado Utaawase era un concurso de dos equipos.
+Se indicaba un tema y se seleccionaba un poeta de cada equipo, los cuales tenían que escribir un waka del tema elegido.
+El juzgado selecciona un juez para cada tema y daba puntos al equipo con el mejor waka.
+Al final se declaraba ganador al equipo con la mayor puntuación.
+La primera Utaawase registrada fue hecha alrededor del año 885.
+Al principio las utaawase eran simplemente un juego y un mero entretenimiento, pero a medida que la tradición poética creció y se volvió más profunda, se volvió una seria competencia estética, considerablemente más formal.
+El waka tiene una larga historia.
+El primer registro que tenemos es del en los libros Kojiki y Manyōshu.
+Bajo la influencia de otros géneros como el kanshi, que como ya se dijo es la poesía china, el libro la historia de Genji o incluso de poesía occidental.
+Se desarrolló gradualmente, incluyendo cada vez más expresiones y temas.
+En los libros del crítico literario Donald Keene, utiliza cuatro grandes categorías en la historia del waka:
+Los waka más antiguos que se conocen se encuentran registrados en el Kojiki y en el Nihonshoki aunque no se dividían en subcategorías estrictas.
+Tampoco los wakas en el Man'yōshū tenían formas ni estilos bien definidos.
+No fue hasta los finales del, en los tiempos del Emperador Saimei, que los poetas comenzaron a crear los estilos chōka y tenka como los conocemos hoy.
+Como ya fue dicho el waka más antiguo está registrado en los 20 tomos del Man'yōshū, la primera antología conocida de waka.
+El editor del libro es desconocido, pero se cree que el editor final fue Otomo no Yakamochi.
+Él fue uno de los poetas del waka que pertenecen a la generación más joven representada en la antología; de hecho el último tomo está dominado por sus poemas.
+Por otro lado los primeros wakas del volumen 1 fueron escritos por: el Emperador Ojin, Nukata no Okimi, Kikinomoto no Hitomaro, Yamabe no Akahito, Yamanoue no Okura, Otomo no Tabito y su hijo Yakamochi, quienes son algunos de los más grandes poetas en esta antología.
+Pero el Man'yōshū no solamente registró el trabajo de estos nobles sino también el de algunos plebeyos cuyos nombres no fueron anotados.
+Los temas principales del libro fueron el amor y la tristeza (especialmente en ocasiones de alguna muerte) entre otros temas variados.
+Durante el Período Nara y a principios del Período Heian la corte (las clases altas) estaban a favor del estilo de poesía chino (kanshi) y por lo tanto el estilo waka se estancó.
+Sin embargo en el, Japón dejó de enviar mensajeros a la dinastía china Tang.
+El corte de los lazos y lo difícil de la travesía para cruzar el océano, prácticamente forzaron a la corte a cultivar talento regional y buscar internamente.
+Así que juntaron lo que aprendieron de los chinos con tradiciones locales; muy pronto los japoneses estaban produciendo sus propios poemas.
+Por lo que el estilo waka floreció de nuevo, incluso el Emperador Daigo ordenó la creación de una antología de waka.
+La cual fue la primera antología editada e impresa por órdenes imperiales; esta antología comenzó la larga y distinguida tradición de las antologías imperiales de waka que continuó hasta el Período Muromachi.
+De hecho incluso los poetas famosos de waka de aquellos días (incluyendo al reconocido Kino Tsurayaki) recopilaban wakas de antiguos poetas y los suyos en un solo libro.
+Este enfoque antiguo le dio a las antologías el nombre de Kokin Wakashu, que significa literalmente "antología antigua y actual".
+Después del periodo Heian, es decir, durante el período Kamakura y aun después, el renga, un estilo de poesía encadenada comenzó a desarrollarse.
+Sin embargo en lo último del período Heian, tres de los últimos grandes poeta waka aparecieron: Fujiwara no Shunzei y su hijo Fujiwara no Teika y el Emperador Go-Toba.
+De hecho, el Emperador Go-Toba ordenó la creación de una nueva antología y participó en su edición.
+La antología fue titulada Shin-kokin Wakashu.
+Y el emperador en persona la editó una y otra vez hasta su muerte en la isla Oki.
+Por otro lado Teika hizo muchas copias de libros antiguos además de escribir teoría sobre el waka.
+Sus descendientes, y de hecho todos los poetas subsecuentes, incluso algunos de la talla de Shotetsu, enseñaron sus métodos y estudiaron sus poemas.
+En este periodo la poesía de la corte estuvo dominada por "clanes" de nobles, cada uno de los cuales escalaron su propia posición.
+Sin embargo poco a poco, un gran número de clanes se desintegraron, dejándole el camino abierto a las familias Reizei y Nijō; los primeros se declararon "progresistas", variaban su uso de "los diez estilos" y el novelismo, mientras que los segundos se decían "conservadores" y se apegaron a las reglas ya establecidas y al estilo "ujin" (que significa "sentimientos profundos") que dominaba la poesía cortesana.
+Eventualmente, la estirpe de la familia Nijō se extinguió.
+Lo que permitió el ascenso de la "liberal" familia Rezei.
+Pero su reinado de innovación sería rápidamente tomado por la familia Asukai con ayuda del shōgun Ashikaga, Ashikaga Yoshinori
+Más adelante, en el periodo Muromachi, el Renga comenzó a ser popular en la corte y sus alrededores.
+Se dirspersó hacia las clases eclesiásticas y los plebeyos adinerados.
+Similar a como ocurrió con el waka, algunas antologías renga fueron producidas bajo el mandato imperial.
+Como el ímpetu y el interés popular cambió al estilo renga, el estilo tanka fue dejado para la corte imperial.
+Y las tendencias conservadoras pronto fueron exaltando la pérdida de la vida y de la flexibilidad para la escritura.
+Se desarrolló una tradición llamada Kokin-deju, la herencia de Kokin Wakashu.
+La cual era un sistema sobre como analizar el Kokin Wakashu y que incluía un significado secreto de las palabras.
+Entonces el estudio del waka se degeneró en memorizar muchas reglas intricadas, alusiones, teorías y secretos; de tal manera que el tanka producido fuese aceptado por la corte.
+Aunque ya había wakas cómicos en el Kojiki y el Man'yōshū, el estilo noble del waka en la corte despreció tales aspectos del waka que pronto los inhibió.
+Ranga llegó pronto a la altura de muchos códigos estrictos y estructuras típicas japoneses.
+En respuesta a esta seriedad nació el Haikai no renga (también llamado solamente haikai —"renga juguetón" o "renga jocoso"—) y el kyōka, o waka cómico.
+Sin embargo en el período Edo y a pesar del haikai o el kyōka, el waka perdió casi toda su flexibilidad y comenzó a ser solamente un eco o repetición de viejos poemas o viejos temas.
+A principios del periodo Edo, el waka no era un género popular.
+El recién creado haikai no renga, que utilizaba el hokku como verso inicial (del cual el haiku es una revisión del ), era el más popular entonces.
+Esta tendencia se mantuvo durante todo el período Edo, sin embargo a finales del mismo el waka enfrentó nuevas tendencias fuera de la corte.
+Motoori Norinaga, el gran revividor de la literatura tradicional japonesa, intentaba revivir el waka como una manera de proveer de "sentimientos tradicionales expresados en una genuina manera japonesa".
+Él escribió waka, y el waka se volvió un estilo importante entre sus seguidores, los estudiantes de Kokugaku.
+Además en la provincia Echigo el monje budista Ryōkan compuso muchos wakas en un estilo naïve evadiendo intencionalmente las reglas complejas y el estilo tradicional del waka.
+Él perteneció a otra gran tradición del waka, el waka escrito para la expresión de sentimientos religiosos.
+Pero fue la expresión franca de sus sentimientos lo que le atrajo bastantes admiradores, en aquellos entonces y actualmente.
+También en las ciudades emergió un estilo cómico, irónico y satírico, se le llamó kyōka (狂歌) (que significa "poema loco"), y era adorado por los intelectuales en las grandes ciudades como Edo y Osaka.
+No era precisamente un nuevo estilo; el waka satírico era un estilo conocido desde la antigüedad.
+Sin embargo no fue hasta este periodo (el periodo Edo) que este estilo de waka se desarrolló y alcanzó un estado realmente artístico.
+Aunque hubo estas reformas, y surgieron estos nuevos estilos la mayoría de los poetas conservaron las tradiciones antiguas o hicieron de tales reformas otro estereotipo, lo que causó que el waka no fuese un género muy atrayente en el final de este periodo.
+El regreso moderno del tanka comenzó cuando muchos poetas comenzaron a publicar revistas sobre literatura, reuniendo a amigos y discípulos como ayudantes.
+Un claro ejemplo de esto fue la revista Myōjō publicada por Yosano Tekkan y muchos poetas asociados, sin embargo la revista no duró mucho.
+En este aspecto los poemas de Masaoka Shiki (y de sus amigos y discípulos) tuvieron una mayor influencia.
+La revista fundada por él, la Hototogisu (un ave que se hizo famosa por Basho en el estilo haiku) de hecho aún se publica.
+Era un gran poeta en los dos estilos, el nuevo haiku y el tanka, incluso es llamado en ocasiones el Padre del tanka moderno.
+De hecho acuñó el término tanka como reemplazo para el waka.
+Después de la Segunda Guerra Mundial el waka comenzó a considerarse obsoleto, hasta a mediados de los años 1980 cuando fue de nuevo revivido por el poeta contemporáneo Tawara Machi.
+En el periodo Meiji, Masaoka Shiki clamó que la situación con el waka debería ser corregida, y modernizada junto con el mismo Japón.
+Alabó el Man'yōshū, llamándole masculino, en comparación con el estilo Kikon Wakashu el cual fue considerado el tipo ideal de waka durante mil años, al que denigró y le llamó femenino.
+También elogió a Minamoto no Sanetomo, el tercer shōgun de los Kamakura, quien fuera discípulo de Fujiwara Teika y compuso waka muy similar al del Man'yōshū.
+Después de la muerte de Shiki, en el periodo Taisho, Saito Mokichi y sus amigos formaron un círculo, el Araragi que también prefería el Man'yōshū.
+Utilizando su revista expandieron su influencia por todo el continente.
+A pesar de su modernización, en la corte aún prevalecían las viejas tradiciones.
+Incluso en la actualidad la corte aún apoya el utakai tanto oficial como personalmente.
+El utakai que organiza el emperador al principio del año es llamado utakai-hajime y es un importante evento para los poetas del waka; el mismo emperador proporciona un tanka para la lectura al público.
+Cualquiera puede participar con un waka que concuerde con el tema elegido (el cual es anunciado antes del año nuevo), y muchas personas participan cada año.
+Actualmente hay muchos círculos de poetas waka.
+Muchos periódicos tienen una columna semanal donde se publican poemas tanto de profesionales como de aficionados.
+La escritura del tanka en inglés comenzó más lentamente que la escritura del haiku en inglés, con las primeras de estas colecciones publicadas en 1974.
+Aún hay un enorme cantidad más de poemas de haiku que en tanka, pero el interés en el estilo tanka escrito en inglés está creciendo.
+La forma más popular en la actualidad frecuentemente mantiene solamente la forma exterior del waka con un contenido más clásico de la poesía occidental.
+A diferencia de los poetas japoneses, quienes a menudo escriben principal o solamente en un estilo, muchos poetas de tanka en inglés también escriben en otros estilos como el haiku, senryū y cinquain.
+Los primeros poemas tanka escritos en inglés fueron publicados en periódicos que publicaban una serie de poemas cortos (las principales revistas estadounidenses de haiku publican la mayoría de las veces solamente haiku pero en raras ocasiones también senryū).
+Solo recientemente se han publicado columnas dedicadas únicamente al tanka, incluyendo "American Tanka" (1996) en EE.
+UU.
+y "Tangled Hair" en Inglaterra.
+No fue sino hasta abril de 2000 que la Sociedad estadounidense de Tanka fue fundada.
+En los finales del, un nuevo grupo de poetas comenzó a reutilizar el waka anterior a shiki, con el objetivo de hacer un waka más austero y tradicional similar al de saigyo, y bajo el nombre de "Montain Home Collection" ("Colección de la Casa de la Montaña").

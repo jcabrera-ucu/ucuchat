@@ -1,0 +1,22 @@
+Un número triangular cuenta objetos dispuestos en un triángulo equilátero.
+El n-ésimo número triangular es el número de puntos en la disposición triangular con n puntos en un lado, y es igual a la suma de los n números naturales de 1 a n, siendo por convención, el 1 el primer número triangular.
+Los números triangulares, junto con otros números figurados, fueron objeto de estudio por Pitágoras y los Pitagóricos, quienes consideraban sagrado el 10 escrito en forma triangular, y al que llamaban Tetraktys.
+Cada número triangular Tn está definido por la siguiente fórmula:
+Sean:
+sumando:
+es decir:
+quedando demostrado lo propuesto.
+Podemos comprobarlo con dos números triangulares consecutivos cualesquiera, por ejemplo, con T3 = 6 y T4 = 10.
+Efectivamente,
+La suma de dos números triangulares iguales nos da un número oblongo, que conforma la figura de un romboide.
+Veamos su término general:
+que es la expresión buscada.
+La suma de los n primeros números triangulares es también conocida como número tetraédrico, así el enésimo número tetraédrico es la suma de los primeros n números triangulares.
+Su expresión es:
+En 1796, el matemático y científico alemán Carl Friedrich Gauss descubrió que todo entero positivo puede representarse como la suma de un máximo de tres números triangulares, hecho que describió en su diario con la misma palabra que usara Arquímedes en su famoso descubrimiento: "¡Eureka! num= Δ + Δ + Δ."
+Nótese que este teorema no implica que los números triangulares son diferentes (como ocurre en el caso de 20 = 10 + 10), ni tampoco que debe haber una solución con tres números triangulares que sean diferentes de cero.
+Se trata de un caso especial del teorema del número poligonal de Fermat.
+El número triangular más grande que puede representarse con la fórmula 2k − 1 es 4095 (ecuación de Ramanujan–Nagell).
+El matemático polaco Wacław Sierpiński se preguntó si habría cuatro números triangulares distintos en la progresión geométrica.
+El matemático checo Kazimierz Szymiczek infirió que este planteamiento era falso.
+Los matemáticos chinos Jin-Hui Fang y Yong-Gao Chen, profesores del Departamento de Matemáticas de la Universidad Normal de Nankín, República Popular de China, demostraron esta inferencia en 2007.

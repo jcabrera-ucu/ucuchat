@@ -1,0 +1,7 @@
+Las pruebas alpha, del inglés alpha testing, son pruebas de software realizadas cuando el sistema está en desarrollo y cuyo objetivo es asegurar que lo que estamos desarrollando es probablemente correcto y útil para el cliente.
+Por ejemplo podríamos desarrollar un prototipo de una parte del sistema que no estamos seguros de cómo implementar la interfaz.
+Si las pruebas alpha devuelven unos comentarios positivos entonces podríamos seguir por esa vía.
+Si devolvieran resultados muy negativos tendríamos que replantear el problema para adaptarse mejor a los requerimientos.
+Son normalmente realizadas contra un prototipo desarrollado rápidamente y con poco coste realizado para poder experimentar con él.
+De esta forma si las pruebas alfa fallan no hemos desperdiciado mucho tiempo ni dinero.
+Una vez que las pruebas alfa se completan, el prototipo debería ser descartado y aprovechar todo lo que se ha aprendido sobre el problema para el desarrollo de la versión final.

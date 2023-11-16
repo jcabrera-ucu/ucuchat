@@ -1,0 +1,19 @@
+La reflectografía infrarroja es un método de investigación basado en la luz infrarroja que permite visualizar las capas de carbón escondidas debajo de los pigmentos de pintura, sin dañar su superficie.
+Su uso típico es el estudio de dibujos preparatorios y de los pentimentos tapados por la pintura final.
+Los recientes progresos técnicos junto con la mejora de las cámaras, permite, actualmente, tratar por informática los reflectogramas.
+La reflectografía infrarroja aprovecha la baja opacidad de la pintura en los pigmentos en longitudes de ondas cerca de 2 μm, entre 1,8 μm y 2,5 μm.
+Para el observador, la imagen de una tela es el resultado de la reflexión parcial de la luz del espectro visible sobre la pintura.
+Ciertas longitudes de ondas son reflejadas a la vez que otras son absorbidas.
+Las frecuencias reflejadas forman un color en el ojo del observador.
+Gracias a su longitud de onda más elevada que la luz visible, la luz infrarroja es absorbida por los pigmentos y substratos distintos de los del espectro visible.
+Así, traspasa varias capas de pinturas que son opacas para la luz visible, pero queda absorbida por ciertos componentes especialmente las capas bajas a base de carbono y por las acumulaciones de pintura.
+Por fin, las capas de preparaciones del fondo de la tela reflejan esta luz.
+Cuando se graba con una cámara con luz infrarroja, los elementos de pintura visibles son traspasados de manera transparente por las radiaciones.
+Los elementos del dibujo de lápiz con mina de carbón o de plomo, absorben la luz.
+El fondo refleja la radiación de la lente de la cámara, formando una imagen en negativo de las capas profundas de la tela.
+Por fin, una variación de las frecuencias permite modificar los materiales reflectantes y absorbentes.
+Hoy en día la tecnología más avanzada es la de la escáner.
+Las bases de esta técnica fueron presentadas por el físico holandés J. R. J. van Asperen de Boer en su tesis de 1970, que incluía la identificación de la baja opacidad de los pigmentos para longitudes de ondas infrarrojas.
+La identificación del dibujo depende de la presencia de un esbozo al carbón, o de cualquier material con características absorbentes, sobre un fondo reflectante blanco.
+Esta técnica de preparar las telas era la clásica durante los siglos XV y XVI, pero el se prefirió las preparaciones coloreadas y un dibujo a base de líquidos no carbónicos, que hace difícil el uso de este método de investigación; la vuelta a usar los fondos blancos brillantes en el, hace de nuevo posible el uso de la reflectografía infrarroja.
+Todo o parte de este artículo proviene de la traducción del artículo en francés réflectographie infrarouge

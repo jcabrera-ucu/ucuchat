@@ -1,0 +1,179 @@
+Chrono Cross (クロノ・クロス Kurono Kurosu) es un videojuego RPG desarrollado y distribuido por Squaresoft (ahora Square Enix) para la consola Sony PlayStation.
+Es la secuela de Chrono Trigger, lanzada en 1995 para Super Nintendo Entertainment System.
+Chrono Cross fue desarrollado principalmente por el guionista y director Masato Kato y otros programadores del Chrono Trigger, incluyendo el director de arte Yasuyuki Honne y el planificador de sonido Minoru Akao.
+El compositor Yasunori Mitsuda compuso la música del Chrono Cross y Nobuteru Yūki diseñó sus personajes.
+La historia del Chrono Cross se centra en un joven niño llamado Serge y una trama de mundos paralelos.
+Ante una realidad alterna en la que murió cuando era niño, Serge se esfuerza por descubrir la verdad de la divergencia de los dos mundos.
+La ladrona llamada Kid y otros personajes lo ayudan en su aventura alrededor del archipiélago tropical El Nido.
+Luchando para descubrir su paso y conseguir la misteriosa "Llama Congelada", Serge es principalmente desafiado por Lynx, un sombrío antagonista que trabaja para capturarlo.
+Después de su lanzamiento en Japón en 1999 y en los Estados Unidos en el 2000, aunque todavía no ha visto la luz en Europa en su versión oficial.
+Chrono Cross recibió altas calificaciones y elogios de la crítica, obteniendo una rara y perfecta calificación de 10.0 de GameSpot El juego vendió 1,5 millones de copias en todo el mundo, conduciendo a uno de los Grandes Éxitos relanzados y pasando a la historia en Japón como parte de las series Últimos Éxitos.
+Square también lanzó "Millennium Edition" con un calendario, un reloj, y un disco de toma de muestras de la música.
+Un remaster del juego, titulado Chrono Cross: The Radical Dreamers Edition, fue lanzado el 7 de abril de 2022 para Microsoft Windows, Nintendo Switch, PlayStation 4 y Xbox One.
+Chrono Cross debutó con una característica RPG de jugabilidad con algunas diferencias.
+Los jugadores avanzan por el juego controlando el protagonista Serge a través del mundo del juego, principalmente a pie y en bote.
+La navegación entre áreas es manejada por un mapa mundo, que representa el terreno a escala en una vista general.
+Alrededor del mundo hay pueblos, áreas al aire libre y calabozos, a través de los cuales el jugador se mueve en tres dimensiones.
+Los lugares como ciudades y bosques están representados por los mapas de campo de manera más realista a escala, en el cual los jugadores pueden hablar con los residentes para conseguir artículos y servicios, resolver acertijos y desafíos o encontrar enemigos.
+Como el Chrono Trigger, la característica del juego es que no tiene encuentros aleatorios; los enemigos son visibles en los mapas de campo o esperan al acecho para emboscar el grupo.
+Tocando al monstruo cambia las perspectivas a una pantalla de batalla, en el cual los jugadores pueden atacar físicamente, usar "Elementos", defenderse o escapar del enemigo.
+Las batallas son por turnos, permitiendo al jugador un tiempo indeterminado para seleccionar cualquier acción disponible en el menú.
+Tanto para los personajes jugables y los enemigos controlados por la CPU, cada ataque reduce el número de puntos de vida (una barra de vida basada en números), la cual puede ser regenerada por algunos Elementos.
+Cuando un personaje jugable pierde todos sus puntos de vida, él/ella muere.
+Si todos los personajes del jugador caen en batalla, el juego finaliza y se debe restaurar desde el último capítulo grabado excepto los relatos de la historia en donde se permite perder.
+El objetivo de los desarrolladores del Chrono Cross era abrir nuevos caminos al género y con innovaciones varias del juego.
+Por ejemplo, los jugadores pueden huir de todos los conflictos, incluyendo las peleas con los jefes y la batalla final.
+El sistema de Elementos del Chrono Cross maneja toda la magia, artículos consumibles y habilidades específicas de los personajes.
+Los elementos desatan efectos mágicos sobre el enemigo o el grupo y deben ser equipadas para usarlas, como la materia de Final Fantasy VII en 1997.
+Los Elementos pueden ser adquiridos en tiendas o encontrados en cajas de tesoros esparcidos en las áreas.
+Una vez adquiridos, ellos son asignados a un cajón cuyo tamaño y figura son únicas para cada personaje.
+Ellos están clasificados de acuerdo a ocho niveles; los Elementos de alto nivel solo pueden ser asignados a un nivel equivalente en un cajón.
+A medida que el juego avanza, los cajones se expanden, permitiendo que más Elementos puedan ser equipados y tener acceso a un mayor nivel de ellos.
+Los Elementos están divididos en seis tipos de pares opuestos; o "colores", cada uno con un efecto natural.
+Rojo (fuego/magma) opuesto al Azul (agua/hielo), Verde (viento/naturaleza) opuesto al Amarillo (tierra/electricidad) y Blanco (luz/cosmos) opuesto al Negro (oscuridad/gravedad).
+Cada personaje y enemigo tiene un color innato, aumentando el poder, usando Elementos del mismo color mientras que también se debilitarán si se usan Elementos del color opuesto.
+Chrono Cross también innova con un "efecto de campo", el cual sigue la pista del color de los Elementos usados en lo alto de la esquina de la pantalla de batalla.
+Si el campo es únicamente de un color, el poder de los Elementos de ese color será aumentado, mientras que los Elementos del color opuesto serán debilitados.
+Los personajes también aprenden naturalmente algunas técnicas especiales que son únicos para cada personaje pero actúan como elementos.
+Como Chrono Trigger, los personajes pueden combinar ciertas técnicas para hacerlas más poderosas, técnicas Dobles o Triples.
+Los Elementos consumibles pueden ser usados para restaurar los puntos de vida o curar estados negativos después de una batalla.
+Otro aspecto innovador de Chrono Cross es la barra de resistencia.
+Al comienzo de la batalla, cada personaje tiene siete puntos de resistencia.
+Cuando un personaje ataca o usa un Elemento, la resistencia decrece proporcionalmente a la potencia del ataque.
+La resistencia se regenera lentamente cuando el personaje se defiende o cuando otros personajes y enemigos realizan una acción en la batalla.
+Los personajes con baja resistencia por debajo de un punto deben esperar para realizar una acción.
+Usar un Elemento reduce la barra de resistencia del personaje en siete puntos; esto a menudo significa que el indicador de la resistencia del personaje descenderá a negativo y el personaje deberá esperar más de lo usual para recuperarse.
+Con cada batalla, los jugadores puede aumentar sus atributos como la fuerza y defensa.
+Sin embargo, no hay sistema de experiencia; después de cuatro o cinco mejoras, los atributos se quedan estáticos hasta que el jugador derrote un jefe.
+Esto suma una estrella a una cuenta corriente que aparece en la pantalla de estado, la cual permite otro ronda de incremento de atributos.
+Los jugadores puede equipar sus personajes con armas, armaduras, cascos y accesorios para usar en una batalla; por ejemplo, el "Sello de Poder" aumenta el poder de ataque.
+Los artículos y equipamientos pueden ser adquiridos o encontrados en los mapas de campo, frecuentemente en cajas de tesoros.
+Diferente a los Elementos, las armas y armaduras no pueden ser adquiridas meramente con dinero; se necesita que el jugador obtenga un material base tales como el cobre, bronce o el hueso y llevarlos donde un herrero lo forja por un honorario.
+Los artículos pueden ser más tarde desarmados en sus componentes originales sin ningún costo.
+La existencia de 2 grandes dimensiones paralelas, como los periodos de tiempo en el Chrono Trigger, juega un papel significativo en el juego.
+Los jugadores deben de ir atrás y moverse entre los mundos para reclutar miembros, obteniendo artículos y avanzando en la trama.
+Gran parte de la población también tienen una contraparte en el otro mundo; algunos miembros del grupo pueden incluso visitar sus otras versiones.
+Los jugadores frecuentemente deben buscar artículos o lugares que se encuentran exclusivamente en un mundo.
+Los eventos en una dimensión algunas veces tienen impacto en la otra dimensión, enfriando tierra quemada en una isla en un mundo, permite que crezca la vegetación en el otro mundo.
+Este sistema ayuda a la presentación de ciertos temas, incluyendo el cuestionamiento de las decisiones del pasado y el rol de la humanidad en la destrucción de su entorno.
+Completando la faceta de la jugabilidad del Chrono Cross está la opción del Nuevo Juego+ y los múltiples finales.
+Como en el Chrono Trigger, los jugadores que han completado el juego, pueden elegir iniciar el juego usando información del juego previo.
+Nivel de los personajes, técnicas aprendidas, equipo y artículos reunidos, mientras que el dinero adquirido y algunos artículos de la historia son descartados.
+En un Nuevo Juego+, los jugadores pueden acceder a doce finales.
+La vista de las escenas depende del progreso de los jugadores en el juego antes de la batalla final, la cual puede ser enfrentada en cualquier momento en el Nuevo Juego+.
+La trama en sí se envuelve alrededor de Serge, quien luego de un extraño evento viaja a una dimensión paralela y ahora debe buscar una forma de regresar a su mundo (y sin saberlo, liberar a Schala del Devorador del Tiempo (Time Devourer): una fusión de Lavos, el último enemigo de Chrono Trigger con la capacidad de destruir el planeta, y Schala, la princesa del mágico reino de Zeal y hermana de Magus con inmenso poder mágico que había desaparecido dentro de la Oscuridad Más Allá del Tiempo debido a un accidente).
+Años en el futuro, Belthasar, un gurú del reino de Zeal, descubre que se había formado el Devorador del Tiempo y había planeado consumir todo el espacio-tiempo; entonces pone en marcha una alocadamente compleja cadena de eventos queriendo alzar y guiar a Serge hacía el Devorador del Tiempo y usar un artefacto conocido como el "Chrono Cross" para restaurar las dimensiones a una y liberar a Schala de las garras de Lavos.
+Mientras la trama es legítima, su entrega es criticada por algunos como "excesivamente compleja".
+A diferencia de Chrono Trigger, en el cual la trama es simple y directa, mucho del diálogo durante el juego debe ser leído con cuidado para hacer que la historia tenga sentido.
+Porque algunos de los jugadores de Chrono Cross no escuchan a muchos de los personajes, acusan erróneamente a la trama de ser débil y sin sentido.
+Por eso, muchos jugadores se dirigen a guías, como la siguiente, para entender la intrincada historia.
+
+Mientras que Chrono Cross incorpora elementos de Radical Dreamers (Juego del "disk drive" de la SNES), las historias de los dos juegos son incompatibles.
+Para resolver la continuidad del escenario y para acreditar la existencia de Radical Dreamers, los diseñadores sugirieron que los eventos que toman lugar en este juego sí pasaron, pero en una dimensión paralela.
+Esto puede ser descubierto leyendo una de las computadoras en Chronopolis, una ciudad que fue traída al pasado debido al fallo de un experimento.
+Chronopolis ahora monitorea el archipiélago "El Nido" (en español en el original), en un intento de prevenir que ocurra una paradoja que prevendría su existencia en el futuro.
+Lo más notable es que Magus esté ausente del juego y que solo se le haga mención en una carta de Lucca a Kid.
+Mientras que está confirmado que él es Magil en Radical Dreamers por ambos, el juego y el creador, Magus no asume la identidad de Guile en Chrono Cross, como se asume comúnmente.
+Se notó en una entrevista que los desarrolladores habían planeado originalmente que Magus estuviera dentro del juego, pero desecharon la idea debido a las dificultades que representaba su historia entre los otros cuarenta y tres personajes.
+Chrono Cross innova con un diverso reparto de 45 miembros del grupo.
+Cada personaje es equipado con un Elemento innato y tres únicas habilidades especiales que son aprendidas a través del tiempo.
+Si se toman hacia el otro mundo opuesto de donde son, los personajes reaccionan a sus contrapartes (si están disponibles).
+Muchos personajes son clave en eventos cruciales de la trama.
+Entonces es imposible obtener todos los 45 personajes en una jugada.
+Los jugadores deben repetir el juego y presenciarlo todo.
+Haciendo uso de la característica Nuevo Juego+, los jugadores pueden finalmente obtener todos los personajes.
+Varios personajes hablan con acentos únicos, incluyendo Francés e Inglés australiano.
+Serge, el protagonista del juego, es un chico de 17 años, con cabello azul que vive en la aldea pesquera Arni. Un día, cae en un mundo alternativo en el cual él había muerto hace años.
+Determinado a encontrar la verdad detrás del incidente, sigue un curso predestinado que lo lleva a salvar el mundo.
+Lo ayuda Kid, una luchadora y habilidosa ladrona que busca la mística Llama Congelada.
+Pintada como una voluntariosa y marimacha debido al áspero pasado de ladrona, ella ayuda a Serge a infiltrase en la "Mansión Viper".
+Kid se crio en el orfanato de Lucca y prometió encontrar y derrotar a Lynx, un lince de forma antropomórfica que incendió el orfanato de Lucca.
+Un sádico y cruel agente de la supercomputadora FATE, Lynx está decidido a encontrar a Serge y con éxito tomar su cuerpo.
+Viaja con Harle, una misteriosa y traviesa chica vestida como un arlequín.
+Enviada por el Dios Dragón para seguir a Lynx y un día robar la Llama Congelada de Chronopolis, dolorosamente cumple su deber aunque esté enamorada de Serge.
+Al final, ella ayuda a Lynx a manipular los Acacia Dragoons, la poderosa milicia que gobierna las islas de El Nido.
+Como los Dragones mantienen el orden, ellos lidian con Fargo, un ex-Dragón que se convirtió en capitán pirata y guarda rencor contra su líder, el General Viper.
+Su cuartel, la Mansión Viper, también es infiltrada por Serge, Kid y uno de los tres personajes: Nikki; un músico, Pierre; un héroe en entrenamiento o Guile; una mago misterioso.
+Aunque forcejean con Serge al principio los Dragones Acacia; en cuyas filas se encuentran la feroz fuerza de guerreros Karsh, Zoah, Marcy y Glenn, lo ayudan cuando la nación militar de Porre invade el archipiélago.
+La invasión lleva a Norris y Grobyc a las islas; un apasionado comandante de una fuerza élite y un prototipo de soldado cyborg, respectivamente.
+Como ellos también buscan la Llama Congelada, la trama de desenvuelve en medio de varios otros personajes.
+Hay normalmente 45 personajes (Lynx se destraba luego de un extraño giro de la trama), con seis elementos para cada uno.
+Mientras que la presencia de seis elementos se dio a partir del límite de Chrono Trigger de cuatro, el juego provee una explicación por el cambio.
+La magia de Chrono Trigger era la manipulación de las cuatro propiedades básicas y fundamentales del universo, y la de Chrono Cross es el uso de herramientas manufacturadas para efectuar cambios en la naturaleza.
+Por causa de esa increíble cantidad de posibles combinaciones de grupos, la versión estadounidense del juego contiene un sistema para modificar texto básico para cada uno de los acentos de los personajes.
+Mientras que otro juego necesitaría programar diferentes bloques de texto para cada personaje, este usa el mismo texto y lo modifica de acuerdo al personaje que lo usará.
+Esto fue hecho para que la versión estadounidense fuera posible.
+Un ejemplo de su código en su escritura:
+Member Name:
+''l.et's2.go.suffixe, Serge..
+the w.ater1.Dr3agon.mus1t.be.
+be.yondth1is1.point...''
+El juego comienza con Serge, un joven habitante de El Nido, un archipiélago tropical habitado por antiguos nativos, colonos continentales y seres llamados semihumanos.
+Un día, Serge se reúne con su amiga Leena en la playa, allí escucha una misteriosa voz que lo llama antes de ser golpeado repentinamente por un tsunami, quedando inconsciente.
+Al despertar, se da cuenta de que nadie en su aldea lo reconoce y para su sorpresa descubre su propia tumba.
+pronto descubre que en realidad cruzó hacia una dimensión alternativa en la que se ahogó en la playa diez años antes, y se encuentra con la ladrona "Kid", cuyo propósito es encontrar la legendaria "Llama Congelada".
+A medida que su aventura avanza desde aquí, Serge puede reclutar una multitud de aliados para su causa.
+Mientras ayuda a Kid en un atraco a la Mansión Viper para robar la Llama Congelada, se entera de que diez años antes del presente, el universo se dividió en dos dimensiones: una en la que vive Serge y otra en la que pereció (conocidas como el "Mundo Natal" y el "Otro Mundo", respectivamente).
+Durante la incursión a la Mansión Viper Kid es envenenada con veneno de Hidra y debe fabricarse un antídoto rápidamente para salvar su vida, pero las Hidras se han extinguido en esta dimensión.
+A través del Amuleto Astral de Kid, Serge viaja entre las dimensiones para conseguir el antídoto y salvar a Kid.
+Durante su viaje Sertge se entera de que Kid está buscando a un semihumano conocido como Lynx, de quien desea vengarse ya que asesinó a su hermana adoptiva Lucca.
+Consiguen rastrearlo hasta el Fuerte Dragonia, donde Lynx usa un artefacto dragoniano llamado Lágrima de Dragón para cambiar cuerpos con Serge.
+Sin darse cuenta del cambio, Kid confía en Lynx, quien la apuñala mientras el verdadero Serge mira impotente.
+Lynx se jacta de su victoria y destierra a Serge a un extraño reino llamado Vórtice Temporal.
+Toma a Kid bajo su custodia y le lava el cerebro para creer que el verdadero Serge (en el cuerpo de Lynx) es su enemigo.
+Serge escapa con la ayuda de Harle, aunque su nuevo cuerpo lo convierte en un extraño en su propio mundo, con todos los aliados que había ganado hasta ese momento abandonándolo debido a su nueva apariencia.
+Al descubrir que su nuevo cuerpo le impide viajar a través de las dimensiones, se propone recuperar su antiguo cuerpo y aprender más sobre la división universal que ocurrió diez años antes, ganando una nueva banda de aliados en el camino.
+Serge viaja a una laguna prohibida conocida como el Mar Muerto, un yermo congelado en el tiempo, salpicado de ruinas futuristas.
+En cuyo interior, encuentra a un hombre llamado Miguel y, presumiblemente, la Llama Congelada.
+Encargado de proteger el Mar Muerto por una entidad llamada FATE, Miguel y tres visiones de Crono, Marle, y Lucca de Chrono Trigger explica que la existencia de Serge condena el futuro del Mundo Natal a la destrucción a manos de Lavos.
+Para evitar que Serge obtenga la Llama Congelada, FATE destruye el Mar Muerto.
+Capaz de regresar al Otro Mundo, Serge se alía con los Acacia Dragoons contra Porre y reúne las reliquias mágias de los seis Dragones elementales para localizar la Lágrima de Dragón en esta dimensión, lo que le permite regresar a su verdadero cuerpo.
+Luego ingresa al Mar del Edén, el equivalente físico del Otro Mundo del Mar Muerto, y encuentra una instalación de investigación temporal del lejano futuro llamada Chronopolis.
+encuentra a Lynx y Kid adentro y derrota a Lynx y al supercomputador FATE, permitiendo que los seis Dragones de El Nido roben la Llama Congelada y se retiren a Terra Tower, una estructura masiva levantada desde el fondo del mar. Kid cae en coma y Harle abandona a Serge para volar con los Dragones.
+Serge reagrupa su grupo y atiende a Kid, que permanece en estado de coma.
+Continuando su aventura, obtiene y purifica la espada corrupta Masamune de Chrono Trigger.
+Luego usa las reliquias del Dragón y los fragmentos de la Lágrima del Dragón para crear el mítico Elemento Chrono Cross.
+El poder espiritual de Masamune luego le permite sacar a Kid de su coma.
+En Terra Tower, el profeta del tiempo, revelado como Belthasar de Chrono Trigger, lo visita con visiones de Crono, Marle y Lucca.
+Serge se entera de que la instalación de investigación del tiempo Chronopolis creó El Nido hace miles de años después de que un fracaso experimental catastrófico la llevara al pasado.
+La introducción de un objeto temporalmente extraño en la historia hizo que el planeta contrarrestara con otra fortaleza desde una dimensión diferente.
+Esta era Dinopolis, una ciudad de dragonianos, descendientes de los reptites del universo paralelo de Chrono Trigger.
+Ambos bandos lucharon y Chronopolis subyugó a los dragonianos y los humanos capturaron su creación principal: el Dios Dragón, una entidad capaz de controlar la naturaleza.
+Chronopolis dividió esta entidad en seis piezas y creó el sistema de Elementos.
+FATE luego terraformó un archipiélago, borró los recuerdos de la mayoría del personal de Chronopolis, y los envió a habitar y poblar su nuevo paraíso.
+Miles de años después, un demonio pantera atacó a un Serge de tres años.
+Su padre lo llevó a buscar ayuda en la aldea de Marbule, pero el bote de Serge se desvió debido a una fuerte tormenta magnética causada por Schala, la princesa del Reino de Zeal, quien había caído accidentalmente en un lugar conocido como la Oscuridad más allá del Tiempo y comenzó a fusionarse con Lavos, el principal antagonista de Chrono Trigger.
+La tormenta de Schala anuló las defensas de Chronopolis y permitió que Serge entrara en contacto con la Llama Congelada; al acercarse sanó a Serge pero corrompió a su padre.
+Un circuito en Chronopolis luego designó a Serge "Arbitro", evitando simultáneamente que FATE usara la Llama Congelada por extensión.
+Los Dragones estaban al tanto de esta situación, creando un séptimo Dragón bajo la cobertura de la tormenta llamado Harle, quien manipuló a Lynx para robar la Llama Congelada para los Dragones.
+Después de que Serge regresó a casa, FATE envió a Lynx a matar a Serge, con la esperanza de que liberara la cerradura del árbitro.
+Diez años después de que Serge se ahogara, la ladrona Kid, presumiblemente por orden de Belthasar, retrocedió en el tiempo para salvar a Serge y dividir las dimensiones.
+FATE, bloqueada de nuevo de la Llama Congelada, sabía que Serge algún día cruzaría al Otro Mundo y se preparó para aprehenderlo.
+Lynx cambió cuerpos con Serge para engañar el control biológico de Chronopolis en la Llama Congelada.
+Belthasar luego revela que estos eventos eran parte de un plan que había orquestado llamado Proyecto Kid.
+Serge continúa hasta la cima de Terra Tower y derrota al Dios Dragón.
+Continuando a la playa donde se había producido la división en las dimensiones, Serge encuentra apariciones de Crono, Marle y Lucca una vez más.
+Revelan que el plan de Belthasar era facultar a Serge para liberar a Schala de la fusión con Lavos, para que no evolucionaran hacia el "Devorador del Tiempo", una criatura capaz de destruir el espacio-tiempo.
+Lucca explica que Kid es el clon de Schala, enviado a la era moderna para participar en el Proyecto Kid.
+Serge usa un Huevo del Tiempo, que le dio Belthasar, para entrar en la Oscuridad más allá del Tiempo y vencer al Devorador del Tiempo, separando a Schala de Lavos y restaurando las dimensiones a una.
+Agradecida, Schala reflexiona sobre la evolución y la lucha de la vida y regresa a Serge al Mundo Natal, notando que olvidará toda la aventura.
+Luego, aparentemente, registra la experiencia en su diario, señalando que siempre estará buscando a Serge en esta vida y más allá, firmando la entrada como Schala "Kid" Zeal, lo que implica que ella y Kid se han fusionado y se han vuelto una sola.
+Una foto de la boda de Kid y un hombre oculto se muestra en el escritorio del diario.
+Luego, las escenas muestran a una Kid de la vida real buscando a alguien en una ciudad moderna, con la intención de hacer que los jugadores consideren la posibilidad de que su propia Kid los esté buscando.
+El final ambiguo deja los eventos de la vida de los personajes después del juego a la interpretación del jugador.
+Una banda sonora oficial compuesta de tres discos fue lanzada poco después del juego, y eventualmente se agotó.
+Yasunori Mitsuda hizo notar en las notas delineadoras de la Banda Sonora Original que estaba feliz de haber podido conseguir incluso la mitad de sus visiones en términos de transferir sus ideas a las capacidades de sonido de la PlayStation.
+Él también mencionó varias influencias en dichas notas incluyendo un tema mediterráneo, música fado, percusión africana y música antigua de varias culturas, más notablemente celta.
+Después de que Chrono Cross estuviera terminado, Mitsuda personalmente emprendió una partida del juego para observar cómo las pistas hacían conjunto con sus correspondientes escenas y configuración dentro de este.
+A pesar de que la BSO de Chrono Cross se agotó luego de un año o dos desde su lanzamiento, Square Enix recientemente la relanzó debido a su popular demanda.
+Actualmente, la única forma legítima de comprar la banda sonora es a través de Amazon Japón.
+Esta es una lista de los varios premios y ratings que el juego ha recibido hasta el momento.
+También, GameSpot, una reconocida página sobre juegos, ha criticado más de 1100 juegos y solo ha dado a cinco un perfecto 10/10.
+Grand Theft Auto 4, Metal Gear Solid 4: Guns of the Paitrots, The Legend of Zelda: Ocarina of Time, Super Mario Galaxy 2 y Chrono Cross.
+En enero de 2006, Rottentomatoes.com da un índice de audiencia de 92% para Chrono Cross, Gamerankings.com le provee con uno de 93% y los índices de audiencia de los fanáticos de GameSpot es un promedio de 9,3/10.
+Square aplicó para una marca registrada bajo el nombre de Chrono Break en los Estados Unidos por el final del 2001, lo que resultó en una especulación de los fanes por una posible secuela.
+Sin embargo, la marca registrada fue dada de baja en el 13 de noviembre de 2003, confirmado por la Oficina de Patentes y Marcas Registradas de Estados Unidos.
+Dicha marca sigue existiendo en Japón, donde fue registrada como Chrono Break.
+Es sospechado que el proyecto había sido planeado en un punto (con uno de los originales líderes del proyecto Chrono Trigger a la cabeza, y no los empleados de Chrono Cross/Xenogears/Final Fantasy XI), pero cancelado antes de que la producción pudiera empezar.
+La concentración en otros juegos tales como la saga Final Fantasy puede también haber contribuido al abandono de este título.
+El 2 de julio de 2008 Square enix mediante su página oficial anunció el título "Chrono Trigger" como versión para la Nintendo Ds.

@@ -1,0 +1,15 @@
+Gabriel Mouton (1618-28 de septiembre de 1694) fue un abad y científico francés.
+Fue médico de la teología de Lyon, pero también estaba interesado en la matemática y la astronomía.
+Su libro de 1670, los Observationes diametrorum Solis et Lunae apparentium, propuso una norma natural de longitud basado en la circunferencia de la Tierra, y se dividió en forma decimal.
+Fue influyente en la adopción del sistema métrico en 1799.
+Sobre la base de las mediciones de tamaño del (planeta) realizadas por (Arbin Polit), Mouton propuso un sistema decimal de medición basado en la circunferencia de la Tierra, que explica las ventajas de un sistema basado en la naturaleza.
+La publicación de Mouton apareció dos años después de que John Wilkins, entonces presidente de la Royal Society publicase una propuesta similar.
+Su sugerencia fue crear una unidad (la milliare), que se definió como "un minuto de arco a lo largo de un arco de meridiano"; y un sistema de subunidades, dividiendo sucesivamente por factores de diez en la centuria, decuria, virga, virgula, decima, centesima y millesima[3].
+La virga, 1/1000 de un minuto de arco, que corresponden a 64,4 pulgadas de Bolonia, o ~ 2,04 m, era razonablemente cerca de la unidad vigente en ese momento de la longitud, la toise parisina (~ 1,95 m) - una característica que estaba destinado a hacer que la aceptación de la nueva unidad más fácil.
+Como aplicación práctica, Mouton sugirió que la norma actual se basa en el péndulo de movimiento, de modo que un péndulo situada en Lyon de longitud uno virgula (1/10 virga) sería cambiar de dirección 3959.2 veces en medio de una hora.
+El péndulo resultante tendría una longitud de ~ 20.54 cm. Wilkins sin embargo propuso la utilización de un péndulo que era 0,994 m de longitud.
+Sus ideas atrajeron el interés en el momento, y fueron apoyados por Jean Picard, así como Huygens en 1673, y también estudió en la Royal Society de Londres.
+En 1673, Leibniz hizo independientemente propuestas similares a las de Mouton.
+Sería más de un siglo más tarde, sin embargo, que la Academia de las Ciencias francesa del Comité de pesos y medidas sugirió el punto decimal y el sistema métrico que definió el metro como, al menos inicialmente, una división de la circunferencia de la Tierra.
+La primera adopción oficial de este sistema se produjo en Francia en 1791.
+Por medidas de hoy, su milliare corresponde directamente a una milla náutica, y su virga, por definición, han sido 1.852 m.

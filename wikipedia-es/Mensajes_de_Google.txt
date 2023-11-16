@@ -1,0 +1,25 @@
+Mensajes de Google es una aplicación de mensajería instantánea, SMS y RCS desarrollada por Google para su sistema operativo móvil Android.
+También está disponible una interfaz web.
+Lanzado en 2014, admite mensajería RCS desde 2018, comercializado como "funciones de chat".
+Admite mensajería SMS, MMS y RCS.
+También están disponibles una interfaz web y una interfaz Wear OS.
+Lanzada en 2014, admite mensajería RCS desde 2018.
+Para abril de 2020, la aplicación tenía más de mil millones de instalaciones.
+Incluye una variedad de integraciones con Google Calendar, Asistente de Google y Google Duo.
+El código original para la mensajería SMS de Android se lanzó en 2009 integrado en el sistema operativo.
+Se lanzó como una aplicación independiente de Android con el lanzamiento de Android 5.0 Lollipop en 2014, reemplazando a Google Hangouts como la aplicación de SMS predeterminada en la línea de teléfonos Nexus de Google.
+En 2018, el sistema evolucionó para enviar archivos de datos más grandes, sincronizarse con otras aplicaciones e incluso crear mensajes masivos.
+Esto fue en preparación para cuando Google lanzó mensajes para la web.
+En diciembre de 2019, Google implementó la compatibilidad con la mensajería RCS (con el nombre de funciones de chat ) en los Estados Unidos, el Reino Unido, Francia y México.
+A esto le siguió un lanzamiento mundial más amplio a lo largo de 2020.
+La aplicación superó los mil millones de instalaciones en abril de 2020, duplicando su número de instalaciones en menos de un año.
+Inicialmente, la aplicación no admitía el cifrado de extremo a extremo.
+En junio de 2021, Google introdujo el cifrado de extremo a extremo en Mensajes, compatible solo si dos usuarios están en Mensajes en un chat 1: 1 (no chat grupal), ambos con RCS activado.
+Todas las conversaciones uno a uno basadas en RCS entre los usuarios de Mensajes se cifran de extremo a extremo de forma predeterminada mediante el Protocolo de señal.
+Comenzando con el Samsung Galaxy S21, Mensajes de Google reemplaza la aplicación Mensajes interna de Samsung como la aplicación de mensajería predeterminada para One UI en mercados seleccionados.
+En abril de 2021, la aplicación comenzó a recibir una modificación en su interfaz de usuario en mercados fuera de los EE.
+UU.
+cuando se ejecuta en teléfonos Samsung recientes, que se adhiere al uso de encabezados más grandes dentro de las aplicaciones internas para mejorar la ergonomía.
+La aplicación es compatible con Servicios de comunicación enriquecida (RCS) mediante los servidores de Google Jibe Platform, que utilizan el perfil universal de RCS,  comercializado para los consumidores como "funciones de chat".
+También se integra con la aplicación de videollamadas Google Duo.
+Los mensajes también están disponibles a través de la Web, lo que permite enviar y recibir mensajes a través de Internet, usando un teléfono o una computadora conectada a él.

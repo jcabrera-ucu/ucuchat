@@ -1,0 +1,16 @@
+Nokia 770 Internet Tablet es un dispositivo web para redes de banda ancha inalámbricas, basado en tecnología Linux.
+Fue el primer producto de Nokia en una década que no guardaba relación con la telefonía móvil.
+Dejando de lado el sistema operativo Symbian a favor de Linux, el fabricante finlandés se abrió al desarrollo comunitario.
+Salió al mercado en noviembre de 2005 y desde entonces sus ventas tuvieron mayor éxito en la Unión Europea que en otras regiones del mundo.
+El dispositivo, fabricado en Estonia y Alemania, está diseñado principalmente para ser utilizado como una terminal de conexión a internet.
+Para ello cuenta con una pantalla táctil de cuatro pulgadas con resolución de 800x480 pixeles y una profundidad de 65.000 colores.
+Funciona gracias a un chip OMAP 1710 de Texas Instruments que trabaja a una frecuencia de 250 MHz.
+Combina la arquitectura ARM del procesador ARM926TEJ con un DSP TMS320C55x.
+En cuanto a memoria, en su interior trae 64MB DDR RAM y 128MB de memoria flash (para guardar datos), expandible mediante RS-MMC (el equipo viene de serie con una tarjeta RS-MMC de 64MB).
+Trae un puerto USB y su batería tiene una autonomía de tres horas en uso continuo.
+Peso: 230 gramos
+Dimensiones: 141 x 79 x 19 mm
+Incluye soporte a las tecnologías Wi-Fi y Bluetooth.
+Equipado con el navegador Opera, VoIP y mensajería instantánea a través de Google Talk.
+Emplea la interfaz Gnome, por lo que Nokia ha donado a la Fundación Gnome el importe resultante de la venta de 500 unidades del dispositivo (150.000 euros aproximadamente).
+Otras prestaciones son: radio por Internet, RSS lector de noticias, visor de imágenes, abrir archivos en formato PDF y reproductores multimedia para algunos formatos.

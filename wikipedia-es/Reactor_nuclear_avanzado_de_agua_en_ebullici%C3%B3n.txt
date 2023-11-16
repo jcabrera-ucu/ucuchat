@@ -1,0 +1,54 @@
+El Reactor Nuclear Avanzado de Agua en Ebullición (en inglés: Advanced Boiling Water Reactor, ABWR) es un reactor de agua en ebullición de Generación III.
+El ABWR actualmente es ofrecido por GE Hitachi Nuclear Energy (GEH) y Toshiba.
+El ABWR genera energía eléctrica usando vapor para impulsar una turbina conectada a un generador eléctrico; el vapor es generado hirviendo agua usando el calor generado por  reacciones de fisión dentro de un combustible nuclear.
+Los reactores de agua en ebullición (en inglés: Boiling Water Reactor, BWR) son la forma segunda más común de reactor de agua ligera con un diseño de ciclo directo que usa menos grandes componentes de abastecimiento de vapor que el reactor de agua presurizada (en inglés: Pressurized Water Reactor, PWR), que emplea un ciclo indirecto.
+El ABWR es el actual tecnología de punta en reactores de agua en ebullición, y es el primero de los diseños de  reactores de Generación III en ser totalmente construido, con varios reactores completos y en operación.
+Los primeros reactores fueron construidos en el tiempo planificado y bajo presupuesto en en Japón, con otros bajo construcción allí y  en Taiwán.
+Más ABWR han sido ordenados en Estados Unidos, incluyendo dos reactores en el sitio del Proyecto del Sur de Tejas.
+El diseño estándar de una planta de un ABWR tiene una salida neta de aproximadamente 1350 MWe (3926  MWth).
+También ha sido certificado como un diseño final en forma final por la Comisión Reguladora Nuclear de Estados Unidos, lo que significa que su desempeño, eficiencia, potencia y seguridad ya han sido verificados, haciéndolo burocráticamente más fácil de construir que un diseño no certificado.
+thumb|right|Recipiente de presión del ABWR. 1: Núcleo del reactor, 2: Barras de control, 3: Bomba de agua interna, 4: Tubería de vapor hacia la turbina generadora, 5: Flujo de agua de refrigeración hacia el núcleo.
+El ABWR representa una ruta evolucionaria para la familia de los reactores BWR, con numerosos cambios y mejoras a los diseños previos de estos.
+Las principales áreas de mejora incluyen:
+El RPV y el Sistema de Abastecimiento de Vapor Nuclear (en inglés: Nuclear Steam Supply System, NSSS) tienen significativas mejoras, tales como la substitución de los RIP, la eliminación de los ciclos de tuberías de recirculación externas convencionales y las bombas en el contenimiento que impulsaban bombas de chorro para producir un flujo forzado en el RPV.
+Los RIP proporcionan significativas mejoras relacionadas con la confiabilidad, desempeño y mantenibilidad, incluyendo una reducción en la exposición laboral a la radiación relacionada con las actividades en el contenimiento durante las labores de mantenimiento.
+Estas bombas son alimentadas por motores de rotor húmedo con los alojamientos conectados al fondo del RPV y eliminando las tuberías de recirculación externa de gran diámetro que son posibles vías de fugas.
+Las 10 bombas de recirculación internas están localizadas en el fondo de la región de bajada del anillo (entre el borde del núcleo y la superficie interna del RPV).
+Consecuentemente, las bombas de recirculación internas eliminan todas las bombas de chorro en el RPV, todas las tuberías y grandes bombas del ciclo de recirculación externas, las válvulas de aislación y las boquillas de gran diámetro que penetraban el RPV y la necesidad de succionar agua y el retorno al RPV.
+Este diseño por lo tanto reduce las peores fugas debajo de la región del núcleo a un equivalente efectivo de una fuga de 51 mm (2 pulgadas) de diámetro.
+La línea de productos BWR3-BWR6 tiene un potencial de fugas análogo de 61 o más centímetros de diámetro.
+Un gran beneficio de este diseño es que reduce grandemente la capacidad de flujo requerido por el ECCS.
+El primero de los reactores en usar bombas de recirculación interna fueron diseñados por ASEA-Atom (ahora Westinghouse Electric Company por fusiones y compras, que es propiedad de Toshiba) y construidos en Suecia.
+Estas plantas han operado muy exitosamente por muchos años.
+Las bombas internas reducen la potencia de bombeo requerida para el mismo flujo por aproximadamente la mitad de lo que requiere un sistema de bombas de chorro con ciclos de recirculación externos.
+Así, en adición a las mejoras de costo y seguridad debido a la eliminación de las tuberías, la eficiencia termal de la planta en su totalidad es incrementada.
+La eliminación de las tuberías de recirculación externa también reduce la exposición laboral a la radiación del personal durante los mantenimientos.
+Un característica operacional atractiva en el diseño ABWR son los motores eléctricos de las barras de control de movimiento fino, usadas por primera vez en los BWR de AEG (más tarde Kraftwerk Union AG, ahora AREVA).
+Los BWR más antiguos usaban un sistema de pistones de bloqueo hidráulicos para mover las barras de control en incrementos de 15 centímetros (6 pulgadas).
+Adicionalmente el diseño de barras de control de movimiento fino mejoran grandemente el posicionamiento real positivo de la barra de control y reduce similarmente el riesgo de un accidente con los motores de las barras de control al punto que no se requiere de un limitador de velocidad en las hojas de la base de cruciforme de las barras de control.
+El ABWR está totalmente automatizado para responder a un accidente de pérdida de refrigerante (en inglés: Loss-Of-Coolant Accident, LOCA), y no se requiere acción por parte del operador durante 3 días.
+Después de 3 días los operadores deben reabastecer los suministros de agua del ECCS.
+Estos y otras mejoras hacen de las plantas significativamente más seguras que los previos reactores.
+A diciembre de 2006, cuatro ABWR estaban en operación en Japón: las unidades 6 y 7 de Kashiwazaki-Kariwa, que se inauguraron en 1996 y 1997, la unidad 5 de Hamaoka, inaugurada el 2004 habiendo comenzado su construcción en el año 2000, y Shika 2 que comenzó operaciones comerciales el 15 de marzo de 2006.
+Otros dos reactores está cerca de ser completados en Lungmen en Taiwán, y otro más en Shimane 3 en Japón, con los trabajos principales del sitio iniciados en el 2008 y con una finalización planificada para el año 2012.
+Otros ABWR están planificados para Japón, y los ABWR también han sido propuestos para ser construidos en Estados Unidos bajo el Programa de Energía Nuclear 2010.
+Un incentivo parta la construcción de un ABWR es que la Comisión Reguladora Nuclear (en inglés: Nuclear Regulatory Commission, NRC) aprobó el diseño del ABWR en el año 1997 y la construcción tendría un trámite  burocrático más fácil que realizar para ser aprobada; de ahí que los ABWR pueden ser construidos más rápido que los otros diseños con aprobación pendiente.
+El 19 de junio de 2006, NRG Energy archivo una Carta de Intención con la Comisión Reguladora Nuclear para construir dos ABWR de 1358 MWe en el sitio del Proyecto del Sur de Tejas.
+El 25 de septiembre de 2007, 'NRG Energy' y 'CPS Energy' sometieron una solicitud para una Licencia de Construcción y Operaciones (en inglés: Construction and Operations License, COL) para estas plantas con la NRC.
+NRG Energy es un comercializador de generadores y CPS Energy es la más grande instalación de propiedad municipal de Estados Unidos.
+Los cuatro ABWR en operación eran a menudo apagados debido a problemas técnicos.
+La Agencia Internacional de Energía Atómica documenta esto con el 'factor operacional' (que es el tiempo con producción de electricidad en relación con el tiempo total desde la operación comercial).
+Las primeras dos plantas en Kashiwazaki-Kariwa (bloques 6 y 7) alcanzaron factores operacionales inferiores al 70%, significando que aproximadamente un 30% de un año promedio ellas no estaban produciendo electricidad.
+En contraste otras planta de energía nuclear modernas como la coreana OPR-1000, la canadiense Candu 6 o el alemán Konvoi muestran factores operacionales de aproximadamente un 90%.
+La potencia de salida de los dos nuevos ABWR en la planta de energía nuclear de Hamaoka y Shika tuvo que ser bajada debido a problemas técnicos en las turbinas.
+Después de corregir estos problemas ambas plantas de energía aún tienen un alto tiempo de fuera de servicio y muestran factores operacionales de bajo el 50%.
+La siguiente generación de reactores de este tipo se ha denominado ABWR-II, estos están siendo desarrollados en Japón.
+El trabajo de desarrollo se inició en el año 1991.
+El propósito principal es lograr barras de combustible más grandes, mejores características de seguridad, menores tiempos de espera y una mayor flexibilidad del  ciclo de combustible.
+El número de haces de combustible nuclear en el núcleo del reactor disminuye cuando se compara con el ABWR promedio.
+Las barras de control aumentan de tamaño para lograr que un haz de combustible sea manejado por dos barras de control en el núcleo del reactor.
+El ABWR-II también poseerá un mejor modo de apagado que su predecesor.
+La potencia de diseño se calcula en aproximadamente 1700 MW.
+El reactor será capaz de utilizar 224 haces de combustible, lo que permitirá una operación de 18 meses con una combustión del combustible de 60 GWd/t.
+Se estima que el costo de construcción de este tipo de reactor debería ser similar al de un ABWR.
+Al reducir el número de haces de combustible en el núcleo del reactor, disminuye la duración del tiempo de mantenimiento.

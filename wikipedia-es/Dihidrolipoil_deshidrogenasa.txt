@@ -1,0 +1,15 @@
+La enzima Dihidrolipoil deshidrogenasa (DLD) EC 1.8.1.4, cataliza la reacción de oxidación del NADH a NAD+ reduciendo al mismo tiempo la dihidroxilipoil-lisina unida a una proteína-lisina.
+Esta enzima utiliza como cofactor el FAD.
+También puede usar dihidrolipoato, dihidrolipoamida y dihidrolipoil-lisina libres como sustratos.
+Esta enzima se descubrió por su catálisis de la oxidación del NADH por el azul de metileno llamándose por entonces diaforasa.
+Esta enzima está presente en la matriz mitocondrial en forma de homodímero utilizando una molécula FAD por cada uno.
+El sitio activo es un enlace disulfuro activo para reacciones redox.
+La DLD forma parte del complejo multienzimático 2-oxoglutarato deshidrogenasa en la que múltiples copias de la alfa-cetoglutarato deshidrogenasa (E1) están unidas a un núcleo de moléculas de la dihidrolipoil-lisina-residuo succiniltransferasa (E2) que a su vez también se une a varias moléculas de la dihidrolipoil deshidrogenasa (E3).
+El complejo 2-oxoglutarato deshidrogenasa cataliza la conversión global del 2-oxoglutarato a succinil-CoA y dióxido de carbono (quinta reacción del ciclo de Krebs).
+La DLD forma parte del sistema de segmentación de la glicina en donde se llama Proteína L.
+Las otras enzimas/proteínas constituyentes de este complejo son:
+La DLD está presente en el complejo piruvato deshidrogenasa uniéndose al núcleo de dihidrolipoil-lisina-residuo acetiltransferasa y cataliza la oxidación de sus grupos dihidrolipoilo.
+La DLD también participa en el complejo 3-metil-2-oxobutanoato deshidrogenasa realizando funciones similares que en el 2-oxoglutarato deshidrogenasa.
+La deficiencia en DLD es causa de la acidosis láctica congénita infantil y de la enfermedad de orina con olor a jarabe de arce (Maple Syrup Urine Disease MSUD).
+La MSUD está caracterizada por retardo físico y mental, problemas de alimentación y olor a jarabe de arce en la orina.
+Los cetoácidos de los aminoácidos de cadena ramificada están presentes en la orina, resultando esto por un bloqueo en la descarboxilación oxidativa.

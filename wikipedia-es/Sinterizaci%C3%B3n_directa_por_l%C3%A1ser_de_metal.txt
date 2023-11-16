@@ -1,0 +1,19 @@
+La sinterización directa por láser de metal (en siglas en inglés DMLS) es una tecnología de fabricación de metales aditiva que se refiere a la sinterización selectiva por láser (SLS) o a la fusión láser selectiva (SLM), que genera prototipos y herramientas metálicas directamente a partir de datos CAD.
+DMLS utiliza una variedad de aleaciones, permitiendo que los prototipos sean hardware funcional fabricado con el mismo material que los componentes de producción.
+Dado que los componentes se construyen capa por capa, es posible diseñar geometrías orgánicas, características internas y pasajes desafiantes que no podrían ser moldeados o mecanizados de otro modo.
+DMLS produce piezas metálicas fuertes y duraderas que funcionan bien como prototipos funcionales o piezas de producción de uso final.
+El proceso DMLS se realiza con un modelo CAD en 3D mediante el cual se crea un archivo .stl y se envía al programa informático de la máquina.
+Un técnico trabaja con este modelo 3D para orientar adecuadamente la geometría para la construcción de piezas y añade la estructura de soportes según sea apropiado.
+Una vez que este "archivo de construcción" se ha completado, se "corta" en el espesor de capa que la máquina construirá y descargará a la máquina DMLS permitiendo que comience la construcción.
+La máquina DMLS utiliza un láser de alta potencia de fibra óptica dopada con Yb de 200 vatios.
+Dentro del área de la cámara de la construcción, hay una plataforma dispensadora del material y una plataforma de la estructura junto con una lámina recoater usada para mover el nuevo polvo sobre la plataforma de la estructura.
+La tecnología fusiona el polvo metálico en una pieza sólida fundiéndola localmente usando el rayo láser enfocado.
+Las piezas se construyen aditivamente capa por capa, típicamente utilizando capas de 20 micrómetros de espesor.
+DMLS tiene muchos beneficios sobre las técnicas tradicionales de fabricación.
+La capacidad de producir rápidamente una pieza única es la más obvia, ya que no se requieren herramientas especiales y las piezas se pueden construir en cuestión de horas.
+Además, DMLS permite una prueba más rigurosa de prototipos.
+Puesto que DMLS puede utilizar la mayoría de las aleaciones, los prototipos ahora pueden ser hardware funcional hecho del mismo material que componentes de la producción.
+DMLS es también una de las pocas tecnologías de fabricación de aditivos que se utilizan en la producción.
+Dado que los componentes se construyen capa por capa, es posible diseñar características internas y pasajes que no podrían ser moldeados o mecanizados de otro modo.
+Las geometrías y conjuntos complejos con componentes múltiples pueden simplificarse a un menor número de piezas con un montaje más rentable.
+DMLS no requiere herramientas especiales como piezas fundidas, por lo que es conveniente para cortos recorridos de producción.

@@ -1,0 +1,56 @@
+Un icosaedro es un poliedro de veinte caras.
+Existen infinitas variantes del icosaedro, pero solo dos icosaedros regulares: el icosaedro regular convexo, uno de los sólidos platónicos; y el gran icosaedro, no convexo y uno de los sólidos de Kepler-Poinsot.
+El radio de una esfera inscrita (tangente a las caras del icosaedro) es
+El ángulo que forman los vectores que van del centro a dos vértices adyacentes es constante y vale:
+Dado un icosaedro regular de arista a, se puede calcular su volumen V mediante la siguiente fórmula:
+Y el área total de sus caras A (que es 20 veces el área de una de ellas, Ac), mediante:
+Las siguientes coordenadas cartesianas definen los vértices de un icosaedro centrado en el origen:
+Donde φ = (1+√5)/2 es la razón áurea (también escrito como τ).
+Nótese que los vértices de un icosaedro forman grupos de tres rectángulos áureos ortogonales entre sí.
+El icosaedro contiene en su interior 15 rectángulos áureos: cada rectángulo contiene a dos aristas opuestas.
+Esto se debe a que dos lados del rectángulo es la arista del icosaedro y los otros dos son las diagonales de dos pentágonos regulares paralelos girados 180 grados.
+La diagonal del pentágono regular está en proporción áurea con el lado del pentágono, que en este caso es la arista del icosaedro.
+El icosaedro, a pesar de estar formados por 20 triángulos equiláteros, puede considerarse como
+la unión de 12 pentágonos regulares internos.
+La intersección de los pentágonos entre sí origina las 30 aristas que conforman el icosaedro.
+Los 12 pentágonos regulares mencionados determinan las caras del gran dodecaedro, uno de los sólidos de Kepler-Poinsot.
+En el icosaedro podemos encontrar varias veces el número áureo.
+En la imagen de la izquierda se pueden apreciar algunas proporciones áureas presentes en el icosaedro:
+Hay distorsiones del icosaedro que, aunque no son regulares, son, sin embargo, de vértices uniformes.
+Estas son invariantes en las mismas rotaciones que el tetraedro, y son un tanto análogas al cubo romo y al icosidodecaedro romo, incluyendo algunas formas que son quirales y otras con simetría piritoédrica, y que tienen diferentes planos de simetría que el tetraedro.
+El icosaedro tiene 58 estrellaciones (59, si se incluye al icosaedro), incluyendo uno de los sólidos de Kepler-Poinsot (el gran icosaedro) y algunas estrellaciones compuestas regulares.
+Las 12 aristas de un octaedro pueden ser divididas en la razón áurea por lo que los vértices resultantes definen un icosaedro.
+Si el icosaedro está inscrito en un cubo, las aristas del icosaedro inscrito están en proporción áurea con las aristas del cubo.
+El icosaedro es único entre los sólidos platónicos en poseer un ángulo diedro mayor que 120°.
+En consecuencia, lo mismo que los hexágonos tienen ángulos iguales a 120° y no se pueden usar como caras para un poliedro regular convexo porque tal construcción no cumpliría el requisito de que por lo menos tres caras se reúnen en un vértice y dejan un defecto positivo para plegarse en tres dimensiones, el icosaedro no puede usarse como celda para un polícoro convexo regular porque, por la misma razón, por lo menos tres celdas deben encontrarse en una arista y dejar un defecto positivo para el plegado en cuatro dimensiones (en general para un politopo convexo en n dimensiones, por lo menos tres caras deben encontrarse en una arista y dejar un defecto positivo para el plegado en un espacio de n dimensiones).
+Sin embargo, cuando se combina con celdas apropiadas que tienen ángulos diedros menores, el icosaedro se puede usar como celda en polícoros semirregulares (por ejemplo 24-cell redondeado), lo mismo que se pueden usar hexágonos como caras de poliedros semirregulares (por ejemplo el icosaedro truncado).
+Por último, los politopos no convexos (cóncavos) no necesitan los mismos requisitos estrictos como los politopos convexos, y los icosaedros son, en efecto, las celdas del 120-cell icosaédrico, uno de los diez polícoros regulares no convexos.
+Un icosaedro puede ser considerado como una bipirámide pentagonal giroelongada.
+Se puede descomponer en una pirámide pentagonal giroelongada y una pirámide pentagonal o en un antiprisma pentagonal y dos pirámides pentagonales iguales.
+El icosaedro puede ser llamado también tetraedro romo, el redondeo de un tetraedro regular produce un icosaedro regular.
+Alternativamente, usando la nomenclatura para poliedros redondeados refiriéndose al cubo romo como cuboctaedro romo (cuboctaedro = cubo rectificado) y al dodecaedro romo como icosidodecaedro romo (icosidodecaedro = dodecaedro rectificado), puede llamarse al icosaedro octaedro romo (octaedro = tetraedro rectificado).
+A pesar de las apariencias, cuando un icosaedro es inscrito en una esfera ocupa menos volumen de la esfera (60.54%) que un dodecaedro inscrito en la misma esfera (66.49%).
+undefined
+Un icosaedro regular tiene seis ejes de simetría de orden cinco, las rectas que unen los vértices opuestos; quince ejes de simetría de orden dos, las rectas que unen los centros de aristas opuestas; quince planos de simetría, que contienen cada pareja de aristas opuestas coplanares; y un centro de simetría.
+Esto hace que este cuerpo tenga un orden de simetría total de 120: 2x(6x5+15x2).
+Los elementos de simetría anteriores definen uno de los grupos de simetría icosaédricos, el denominado Ih según la notación de Schöenflies.
+El icosaedro tiene también diez ejes de simetría de orden tres: las rectas que unen los baricentros de cada par de caras opuestas.
+Subdividiendo cada cara del icosaedro en triángulos se pueden construir domos geodésicos.
+Los sólidos platónicos son conocidos desde la antigüedad y se sabe que al menos las sectas pitagóricas de los siglos V y IV antes de Cristo les atribuían propiedades metafísicas, numerológicas o simplemente religiosas.
+En lo que se refiere al icosaedro regular había sido utilizado durante la Antigua Roma para la fabricación de dados, como lo demuestran dos dados de veinte caras de la Antigua Roma conservados en el Museo Británico.
+No se sabe sin embargo para qué actividad fueron fabricados estos dados, si para un juego o para toda otra actividad.
+El dado de veinte caras (cuya notación escrita abreviada es «D20») se hizo popular en los años 60 y 70 al ser usado con cada vez más frecuencia por los llamados juegos de guerra, que en esos años empezaban a conocer un gran éxito.
+Pocos años más tarde, en 1974, el primer juego de rol en ser comercializado, Dungeons & Dragons, basó su sistema de juego en el uso de un dado de veinte caras.
+Desde entonces el dado de veinte ha tenido y sigue teniendo un papel importante en numerosos juegos de rol.
+Los dados de veinte pueden ser numerados de «0» a «9» dos veces (con el fin de ser usados como dado de cien) pero en 1980 se inventaron los dados de diez caras para ser usados de este modo así que hoy en día la mayoría de las versiones de dado de veinte se numeran de «1» a «20».
+Muchos virus, por ejemplo el herpes, tienen la forma de un icosaedro.
+Las estructuras virales se construyen sobre la base de unidades proteicas idénticas repetivas varias veces y el icosaedro es la forma más sencilla para ensamblar usando estas subunidades.
+Se usa un poliedro regular porque puede ser construido por una unidad proteica única usándola una y otra vez; esto ahorra espacio para el genoma vírico.
+También algunos protistas, en especial algunos radiolarios, tienen forma icosaédrica, como Circogonia icosahedra.
+El dado interno de una bola del 8 mágica que tiene 20 respuestas impresas para preguntas de tipo si/no es un icosaedro regular.
+Si cada arista de un icosaedro se reemplaza por una resistencia de un ohmio, la resistencia entre vértices opuestos es de 0.5 ohmios, y entre vértices adyacentes es de 11/30 ohmios.
+La proyección de Fuller (o mapa Dymaxion, creado por Richard Buckminster Fuller) es una proyección gnomónica basada en el icosaedro.
+El icosaedro es la forma que tiene el Dogic, un juguete parecido al cubo de Rubik.
+Un icosaedro aparece como enemigo en el videojuego Kirby 64, se le conoce como Miracle Matter.
+También en el videojuego Pokémon Platinum hay un objeto con forma de icosaedro llamado Griseous Orb.
+Otro es en el Videojuego Cuphead, en donde un proyectil lanzado por Pip y Dot tiene en forma de un Icosaedro

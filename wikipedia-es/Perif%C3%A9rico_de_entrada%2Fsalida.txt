@@ -1,0 +1,43 @@
+En informática, un periférico de entrada/salida o E/S (en inglés: input/output o I/O) es aquel tipo de dispositivo periférico de un computador capaz de interactuar con los elementos externos a ese sistema de forma bidireccional, es decir, que permite tanto que sea ingresada información desde un sistema externo, como emitir información a partir de ese sistema.Los Dispositivos Periféricos de entrada son todos aquellos dispositivos que permiten introducir datos o información en una computadora para que esta los procese u ordene
+Un periférico de E/S es el que se utiliza para ingresar (E) datos a la computadora, y luego de ser procesados por la unidad central de procesamiento (CPU), genera la salida (S) de información.
+Su función es leer o grabar, permanente o virtualmente, todo aquello que se haga con la computadora, para que pueda ser utilizado por los usuarios u otros sistemas.
+Un sistema de E/S debe poder, como mínimo, direccionar los diferentes periféricos con los que puede establecer comunicación, establecer un sistema de comunicación entre el procesador y los controladores, y sincronizar los dispositivos de manera que no se produzcan inconsistencias o errores.
+Además, debería ser capaz de convertir los datos entre diferentes formatos, controlar el estado de los periféricos, llevar la cuenta de las transmisiones y tener un sistema de detección de errores.
+A la hora de comunicarse con un dispositivo, el procesador sitúa su dirección asociada en el bus de direcciones.
+De esta forma, selecciona el dispositivo con el que quiere iniciar una transferencia de datos.
+La forma de identificar cada periférico es el llamado direccionamiento.
+Tiene las siguientes características:
+El bus de direcciones comunica el procesador con los periféricos, seleccionando aquel con el que se desea interaccionar.
+Este puede ser:
+En función del tipo de sistema E/S, podemos encontrar diferentes formas de direccionamiento:
+Existen distintas formas de interconexión que se pueden dar entre controlador y procesador.
+Las más destacadas son las basadas en buffer tri-estado y en las MUX/DEMUX indicando sus ventajas/inconvenientes.
+Se suele usar más la alternativa basada en buffer tri-estado pues permite un mejor aprovechamiento de los dispositivos de E/S y la mejora de los mismos al dedicar mayor área de estos en la mejora de prestaciones y no en el interconexionado.
+Se implementan usando un bus compartido y buffer tri-estado para cada puerto y evitar así el "volcado" de información por parte de dos o más periféricos en el bus.
+Las características principales de este tipo de interconexión son:
+Se emplean MUX y DEMUX para seleccionar el periférico que podrá usar el bus compartido en un momento dado, impidiendo al resto de dispositivos acceder a este último.
+Las características principales de este tipo de interconexión son:
+La sincronización con el procesador o la memoria de los dispositivos de E/S consiste en la acomodación de velocidades de ambos, ya que los periféricos suelen ser más lentos.
+A fin de que no se imponga el ritmo del dispositivo más lento se establecen mecanismos para saber cuándo se deben enviar/recibir datos y es común que los controladores dispongan de buffers de almacenamiento temporal de palabras y permitan aceptar señales de control de conformidad que reflejan el estado del periférico en un momento dado (listo, petición, reconocimiento, ocupado, etc).
+La temporización de las operaciones de E/S puede ser de dos tipos:
+Existe otra definición de los términos Sincrono/Asincrono que se puede encontrar en diferentes textos/escritos de diferentes autores dichos términos refiriéndose a las distintas definiciones:
+En la temporización síncrona, la aparición de un evento está determinada por el reloj.
+El bus incluye una línea de reloj que es común a todos los dispositivos, y se suelen sincronizar durante el flanco de subida.
+Casi todos los eventos duran un único ciclo de reloj.
+Este tipo de temporización sólo funciona si el dispositivo de E/S es suficientemente rápido para responder a la espera que le brinda el procesador, en caso contrario se producirán errores en la escritura de los puertos y se leerán datos no válidos del bus, por lo que las operaciones de E/S no serían correctas.
+Otro tema importante es que, si no se incorporan rutinas para detectar hardware inexistente, el programa podría fallar por tratar de direccionar un dispositivo que o bien no existe o bien ha sido "desconectado" del equipo.
+Las operaciones de lectura y escritura funcionan de la siguiente manera:
+La traducción de "handshaking" es "apretón de manos" y viene a significar que el procesador y los periféricos intercambian señales de control que les permiten sincronizar sus acciones y "colaborar" conjuntamente en la transferencia de información.
+Generalmente se suele considerar que existe sólo una señal de sincronización llamada ACK (aunque puede haber tantas señales de sincronización como se necesiten y esto depende del hardware del dispositivo en cuestión).
+Con este procedimiento mejoramos el rendimiento de las operaciones de E/S e impedimos que se produzcan los fallos en la escritura/lectura que podían suceder con la temporización síncrona para un dispositivo existente.
+Sin embargo al igual que en el caso sincrono se han de incorporar rutinas que determinen si se intenta acceder a un dispositivo inexistente o "desconectado" puesto que esto si provocaría errores (entraría en un bucle infinito esperando a ACK).
+La solución que generalmente se adopta es que el procesador da un tiempo límite de espera por encima del cual se genera una excepción y se aborta la operación E/S.
+El funcionamiento de las operaciones de lectura y escritura es el siguiente:
+Además de las funciones principales, existen otras tareas de las que un sistema de E/S debe hacerse cargo.
+Estas son las más importantes:
+Dispositivos o periféricos de comunicación entre computadoras, tales como módems y tarjetas de red, por lo general sirven para entrada y salida.
+También, los dispositivos de almacenamiento de datos, como los discos rígidos, la unidad de estado sólido, las memorias flash, las disqueteras, entre otros, se pueden considerar periféricos de entrada/salida.
+Ejemplos:
+En ocasiones, se consideran periféricos de E/S a los dispositivos de almacenamiento de datos, como por ejemplo, las lectograbadoras de discos ópticos, ‘lectoras’ de tarjetas de memoria, discos duros portátiles o externos, memorias USB o memorias flash, etcétera.
+También, los dispositivos de redes o de comunicación, suelen considerarse periféricos de E/S porque su función es la interacción o interconexión entre dos o más computadoras, o entre la computadora y otro periférico externo.
+Ejemplos: módem, tarjeta de red, concentrador, conmutador (dispositivo de red), enrutador, comunicación inalámbrica, bluetooth.

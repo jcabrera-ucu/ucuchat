@@ -1,0 +1,72 @@
+En topología algebraica, la homología simplicial formaliza la idea del número de agujeros de una dimensión dada en un complejo simplicial.
+Esto generaliza la idea del número de componentes conexas (caso de dimensión 0).
+La homología simplicial surge como una manera de estudiar los espacios topológicos cuyos componentes estructurales son n-símplices, los análogos n-dimensionales de los triángulos.
+Ellos incluyen el punto (símplice de dimensión 0), la línea (símplice de dimensión 1), el triángulo (símplice de dimensión 2) y el tetraedro (símplice de dimensión 3).
+Por definición, un espacio es homeomórfico a un complejo simplicial (más precisamente la realización geométrica de un complejo simplicial abstracto) tal como un homeomorfismo está referido a una triangulación del espacio dado.
+Muchos espacios topológicos de interés pueden ser triangulados, incluyendo cada variedad suave, por Cairns y Whitehead.
+La homología simplicial está definida por un simple método para todo complejo simplicial abstracto.
+Es un hecho notable que la homología simplicial solo depende del espacio topológico asociado.
+Como resultado esta brinda una forma computable de distinguir un espacio de otro.
+La homología singular es una teoría relacionada, comúnmente más usada por los matemáticos hoy en día.
+Está definida para todos los espacios topológicos, y concuerda con la homología simplicial para espacios que pueden ser triangulados.
+No obstante, ya que es posible computar la homología de un complejo simplicial automáticamente y eficientemente, es que la homología simplicial se ha vuelto importante para aplicaciones en tiempo real, como análisis de imágenes, imagen médica y análisis de datos en general.
+Un concepto clave en la definición de homología simplicial es la noción de orientación de un símplice.
+Por definición una orientación de un k-símplice está dada por el ordenamiento de los vértices, escrito como (v0,...,vk), con la regla de que dos ordenaciones definen la misma orientación si y sólo si ellas difieren en la paridad de una permutación.
+De esta forma cada símplice tiene exactamente dos orientaciones, e intercambiando el orden de dos vértices cambia la orientación a la opuesta.
+Sea S un complejo simplicial.
+Una k-cadena simplicial es la combinación lineal:
+Donde cada ci es un entero y σi  es un k-símplice orientado.
+En esta definición declaramos que cada símplice orientado es igual al negativo del símplice con la orientación opuesta.
+Por ejemplo:
+El grupo de k-cadenas en S se escribe como Ck.
+Este es un grupo abeliano libre el cual tiene una base en una correspondencia de uno a uno con el conjunto de k-símplices en S. Para definir una base explícitamente, hay que escoger una orientación para cada símplice.
+Una forma estándar para hacer esto es escoger un ordenamiento de todos los vértices y dar a cada símplice la orientación correspondiente al ordenamiento inducido de sus vértices.
+Sea σ = (v0,...,vk) un k-símplice orientado, visto como un elemento base en Ck.
+El '''operador de borde
+es el homomorfismo definido por:
+donde el símplice orientado
+es la ith cara de σ, obtenida de eliminar su ith vértice.
+En Ck, elementos del subgrupo:
+son referidos como ciclos, y el subgrupo:
+es llamado borde.
+Una computación directa muestra que ∂2 = 0.
+Esto significa que el conjunto borde del vacío no tiene borde.
+Equivalentemente, los grupos abelianos
+forman un complejo de cadena. Otra afirmación equivalente es que Bk está contenido en Zk.
+El kth grupo de homología Hk de S está definido como el grupo abelianocociente:
+Esto indica que el grupo de homología Hk(S) es distinto de cero exactamente cuando hay k-ciclos en S que no son bordes.
+En un sentido, significa que hay agujeros k-dimensionales en el complejo.
+Por ejemplo, considera el complejo S obtenido por la unión de dos triángulos (no cubiertos) por una de sus aristas.
+Las aristas de cada triángulo pueden estar orientadas de modo que formen un ciclo.
+Estos dos ciclos son por construcción no bordes (como cada 2-cadena es cero).
+Se puede computar que el grupo de homología H1(S) es isomorfo a Z2, con una base dada por los dos ciclos mencionados.
+Esto especifica la idea informal que S tiene dos “agujeros de dimensión 1”.
+Los agujeros pueden ser de dimensiones diferentes.
+El rango del kth grupo de homología, el número:
+se denomina el kth número de Betti de S. Esto da una medida del número de k-agujeros dimensionales en S.
+Sea S el triángulo (no cubierto), visto como un complejo simplicial.
+De esta forma S tiene tres vértices, que podemos llamar v0, v1, v2, y tres símplices de dimensión 1.
+Al computar los grupos de homología de S, comenzamos describiendo los grupos de cadenas Ck. Es decir, C0 es isomorfo a Z3 con bases (v0), (v1), (v2), y C1 es isomorfo a Z3 con bases dadas por los símplices de dimensión 1 orientados (v0, v1), (v0, v2) y (v1, v2).
+Los grupos de cadenas en otras dimensiones son cero.
+El homomorfismo borde ∂: C1 → C0 está dado por:
+Como C−1 = 0, cada 0-cadena es un ciclo, y los 0-bordes son generados por los tres elementos a la derecha de estas ecuaciones.
+Entonces el 0th grupo de homología H0(S) = Z0/B0 es isomórfico a Z, con bases dadas (por ejemplo) por la imagen del 0-ciclo((v0)).
+(De hecho, los tres vértices se vuelven iguales en el grupo cociente, esto expresa el hecho que S es conexo.)
+Luego, el grupo de 1-ciclos es el núcleo del homeomorfismo ∂ anterior, el cual es isomórfico a Z, con bases dadas (por ejemplo) por (v0,v1) − (v0,v2) + (v1,v2).
+(Una imagen revela que este 1-ciclo va alrededor del triángulo en una de las dos posibles direcciones.) Como C2 = 0 el grupo de 1-bordes es vacío, y entonces el grupo de homología H1(S) es isomórfico a Z/0 ≅ Z.
+Esto precisa la idea de que el triángulo tiene un agujero de dimensión 1.
+El grupo de homología Hi(S) es cero para i de 0 o 1.
+Sea S y T complejos simpliciales.
+Una aplicación simplicial f de S a T es una función del conjunto de vértices de S al conjunto de vértices de T tal que la imagen de cada símplice en S (visto como un conjunto de vértices) es un símplice en T.
+Una aplicación simplicial f: S → T  determina un homeomorfismo de grupos de homología Hk(S) → Hk(T)  para cada entero k.
+Este es el homeomorfismo asociado a un mapa de cadenas del complejo de cadenas de S al complejo de cadenas de T.
+Explícitamente este mapa de cadenas está dado en k-cadenas por:
+Si f(v0), ..., f(vk) son todos distintos, y por otra parte f((v0, ..., vk)) = 0.
+Esta construcción hace a la homología simplicial un functor de un complejo simplicial a grupos abelianos.
+Esto es esencial para aplicaciones en la teoría, incluyendo el Teorema del Punto Fijo de Brouwer y la invariante topológica de la homología simplicial.
+Un escenario estándar en muchas aplicaciones de computadoras es una colección de puntos (medidas, pixeles oscuros en un mapa de bits, etc) en el cual es deseable encontrar un rasgo topológico.
+La Homología puede servir como una herramienta cualitativa para buscar tales rasgos, ya que es realmente computable desde datos combinatorios como un complejo simplicial.
+Sin embargo, los puntos en los datos tienen primero que ser triangulados, lo que significa reemplazar los datos con una aproximación de un complejo simplicial.
+Computar la persistencia homológica (Edelsbrunner et al.2002 [ Robins, 1999]) involucra análisis de homología de diferentes resoluciones, registrando clases de homología (agujeros) que persisten si la resolución cambia.
+Tales características pueden ser usadas para detectar estructura de moléculas, tumores en rayos X, y estructuras de cluster en datos complejos.
+De forma general la homología simplicial juega un rol central en el análisis de datos topológicos, una técnica en el campo de la Minería de datos.

@@ -1,0 +1,51 @@
+Skydweller, anteriormente conocido como Solar Impulse, es un proyecto para desarrollar un avión alimentado únicamente mediante energía solar fotovoltaica, tanto de día como de noche.
+El prototipo puede volar durante el día propulsado por las células solares que cubren sus alas, a la vez que carga las baterías que le permiten mantenerse en el aire durante la noche, lo que le da una autonomía casi ilimitada.
+El proyecto está dirigido por Bertrand Piccard y André Borschberg, ambos pilotos profesionales, y aspira a conseguir dar la vuelta al mundo sin escalas en esta aeronave, por medio de energías renovables y sin combustibles fósiles.
+El proyecto empezó en el año 2005 con un costo previsto aproximado de 90 millones de dólares, y en un primer momento experimentó problemas por falta de financiación.
+Los primeros vuelos de prueba se realizaron en 2009 con el prototipo denominado Solar Impulse HB-SIA, llevando a cabo posteriormente vuelos de demostración por Europa, Marruecos y Estados Unidos.
+El siguiente paso consistió en la construcción de un aeroplano similar al anterior pero dotado de mejoras técnicas y una cabina mayor para que el piloto pueda pasar más horas en mejores condiciones.
+Este modelo se denominó HB-SIB, y fue presentado oficialmente en abril de 2014, con el objetivo de dar la vuelta al mundo desde Abu Dhabi, lo que logró el 26 de julio de 2016 tras realizar la circunnavegación del globo terrestre en 17 etapas, cubriendo una distancia de 40 000 kilómetros en 500 días y algo más de 558 horas de vuelo.
+Se realizaron varios vuelos de prueba: en abril de 2010 voló sobre Payerne (Suiza), realizando un vuelo de 87 minutos y alcanzando una altura de 1200 metros.
+El 8 de julio de 2010 el Solar Impulse estableció dos nuevos récords mundiales: el primero en número de horas, al volar durante 26 horas 9 minutos, lo que incluye una noche entera sin la ayuda de fuentes de energía externa; el segundo en altura, logrando un nuevo máximo para un avión sostenible, al alcanzar los 8564 metros sobre el nivel del mar.
+El 13 de mayo de 2011 el Solar Impulse completó su primer vuelo internacional, recorriendo en 13 horas la distancia que separa los aeródromos de Dübendorf en Suiza y de Bruselas en Bélgica.
+El 24 de mayo de 2011 se presentó en el aeropuerto de Bruselas, siendo una de las principales atracciones de la Semana Verde organizada por las instituciones de la Unión Europea (UE).
+El 11 de junio de 2011 tuvo que abandonar el segundo vuelo internacional que pretendía partir de Bruselas y aterrizar en París debido a la mala climatología, al agotarse sus baterías por falta de luz solar.
+Tres días después, el miércoles 15 de junio de 2011 el Solar Impulse HB-SIA finalizó con éxito su segundo viaje internacional entre Bruselas y París.
+El prototipo completó el trayecto en más de 16 horas, tras haber despegado de Bruselas a las 05.10 horas (03.10 GMT) y aterrizar en el aeropuerto de Le Bourget a las 21.15 horas (19.15 GMT).
+El avión llegó a la región parisina hacia las 15.00 hora local (13.00 GMT), pero tuvo que esperar sobrevolando una zona cercana a París por diferentes razones hasta poder tomar tierra (Meteorológicas: por la formación de corrientes ascendentes desde el suelo que podrían generar bolsas de aire que pueden desestabilizar el avión. Técnicas: el tráfico aéreo elevado hasta las 21.00 en la zona del aeropuerto comercial Charles de Gaulle, por el que el prototipo debía pasar camino de Le Bourget).
+Pese a ello este vuelo no pudo ser homologado dado que, tras fracasar el primer intento únicamente con energía solar tres días antes (el sábado 11 de junio de 2011), el avión recargó el 40 por ciento de sus baterías de forma convencional.
+En septiembre de 2013 realizó un vuelo entre San Francisco y Nueva York, atravesando los Estados Unidos de oeste a este.
+El vuelo inaugural de este segundo aparato tuvo lugar el 2 de junio de 2014, con el piloto de pruebas Markus Scherdel a los controles.
+El último reto propuesto es la culminación de una navegación circunterrestre.
+Este reto se comenzó a preparar en 2012 con vistas a ser realizado en una fecha prevista inicialmente para 2014.
+pero que finalmente se inició a comienzos de 2015.
+El lunes 9 de marzo de 2015 a las 7:12 a. m. (hora local) la aeronave despegó desde Abu Dabi (Al Bateen Executive Airport, AZI/OMAD) en los Emiratos Árabes Unidos, hacia Mascate (Muscat International Airport, MCT/OOMS) en el Sultanato de Omán, iniciando así un viaje de varios meses de duración durante el cual dará la vuelta al mundo.
+A finales de mayo de 2015, el avión había atravesado Asia.
+Realizó una parada no prevista en Japón para aguardar a un tiempo favorable antes de sobrevolar el océano Pacífico.
+El avión comenzó el vuelo de Japón a Hawái el 28 de junio de 2015.
+Con Borschberg como piloto, llegó a Hawái el 3 de julio, estableciendo nuevos récords: el vuelo más largo propulsado mediante energía solar tanto en tiempo (117 horas, 52 minutos) como en distancia (7212km o 4481millas).
+La duración dell vuelo también estableció un nuevo récord para vuelos en solitario, para cualquier avión.
+Durante dicho vuelo, no obstante, las baterías del avión se dañaron por sobrecalentamiento debido al exceso de aislamiento.
+Esto obligó a suspender las siguientes etapas del vuelo, al ser necesario sustituir las baterías dañadas por nuevas unidades.
+El avión permaneció en tierra, siendo custodiado en un hangar del Departamento de Transporte de Estados Unidos, en el aeropuerto de Kalaeloa, en la isla de Oahu.
+A comienzos de 2016 se instalaron finalmente en el avión las nuevas baterías.
+Se programaron nuevos vuelos de prueba para febrero, conforme se alargaban los días en el Hemisferio Norte, permitiendo suficientes horas de sol para cargar las baterías del Solar Impulse, y finalmente el Solar Impulse retomó su viaje de circunnavegación el 21 de abril de 2016, cruzando el este del océano Pacífico y aterrizando cerca de San Francisco, California hacia la medianoche del 23 de abril, hora local.
+Durante el vuelo, Piccard realizó una conexión de vídeo para hablar con Ban Ki-Moon y Doris Leuthard antes de la Asamblea General de las Naciones Unidas desde la cabina del Solar Impulse 2, con motivo de la firma histórica de los Acuerdo de París de 2015 y remarcando cómo el uso de tecnologías limpias puede crear trabajos y luchar contra el calentamiento global.
+Etapas adicionales del vuelo alrededor del mundo se añadieron según el Solar Impulse 2 volaba a Phoenix (Arizona), Tulsa (Oklahoma), Dayton, Ohio, Lehigh Valley, Pensilvania y Nueva York, llegando a esta ciudad el 11 de junio de 2016.
+Tras la travesía norteamericana, Piccard se encargó de pilotar la aeronave en su travesía a través del océano Atlántico.
+Partió de Nueva York el 20 de junio, con rumbo a Sevilla, en España, a donde llegó el 23 de junio.
+Tras ello despegó rumbo a El Cairo (Egipto), donde aterrizó el 13 de julio, y finalmente llegó a su lugar de partida, Abu Dhabi, el 26 de julio, completando la vuelta al mundo en un total de 17 etapas.
+El diseño del aparato está pensado para minimizar el consumo energético, utilizando materiales ligeros para reducir su peso.
+Las primeras estimaciones suponían un peso de 1500 kg, con una envergadura alar de 61 metros, debido a la gran superficie requerida para instalar las más de 15 000 células fotovoltaicas.
+Su envergadura es de 64,3 metros; similar a la de un Airbus A340 y posee una superficie alar de 204 metros cuadrados.
+Mide 21,85 m de longitud y 6,4 m de altura, pesando únicamente 1600 kilos —peso similar al de un automóvil mediano—.
+Está dotado de cuatro pequeños motores eléctricos de 7,5 kW (10 CV) cada uno, que mueven una hélice cada uno hasta velocidades de 400 revoluciones por minuto.
+Los motores se alimentan por medio de células fotovoltaicas que almacenan el excedente de energía en baterías de alto rendimiento.
+La velocidad de crucero del avión es de unos 70 kilómetros por hora.
+Su diseño le permite también volar mediante planeo lo que reduce prácticamente a cero el consumo eléctrico instantáneo.
+El almacenamiento y la capacidad de planeo permiten al Solar Impulse volar de noche.
+Características generales del Solar Impulse HB-SIB:
+Otros datos:
+El proyecto está parcialmente financiado por empresas privadas como Solvay, Omega SA,Schindler,ABB, Deutsche Bank, Altran y Swisscom.
+La EPFL, la Agencia Espacial Europea (ESA) y Dassault proporcionan también su experiencia tecnológica.
+En septiembre de 2019, el Solar Impulse 2 fue vendido a Skydweller, una empresa hispano-estadounidense que se encuentra desarrollando un vehículo autónomo no tripulado capaz de realizar un vuelo continuo  llevando "equipos de radar, óptica electrónica, dispositivos de telecomunicaciones, escucha telefónica y sistemas de intercepción”. Como parte de dicha venta, el Solar Impulse 2 fue trasladado de Suiza a España, aunque una vez que Skydweller complete sus vuelos de investigación y desarrollo, el avión será enviado de nuevo a Suiza para su exhibición permanente en el Museo Suizo de Transportes.  En febrero de 2023, Skydweller Aero había llevado a cabo su primer vuelo autónomo y planeaba contar con una aeronave operacional para 2024. Su objetivo es operar durante todo el año en latitudes entre Miami (26°N) y Río de Janeiro (23°S).

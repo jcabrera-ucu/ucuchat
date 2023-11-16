@@ -1,0 +1,17 @@
+En Biología, Genética o biología molecular un paquete de hélice o haz de hélice es un pequeño pliegue de proteínas compuesto por varias hélices alfa que suelen ser casi paralelas o antiparalelas entre sí.
+thumb|300px|Un ejemplo de un paquete de tres hélices en el dominio de la proteína [[villina expresada en pollos (PDB ID 1QQV).]]
+Un ejemplo del pliegue del haz de tres hélices, el dominio de la proteína villina expresada en pollos (PDB ID 1QQV).
+Los haces de tres hélices se encuentran entre los dominios estructurales de plegado cooperativo más pequeños y más rápidos conocidos.
+El paquete de tres hélices en el dominio del casco tiene solo 36 aminoácidos de largo y es un tema común de estudio en simulaciones de dinámica molecular porque su tiempo de plegado en escala de microsegundos está dentro de las escalas de tiempo accesibles para la simulación.
+La proteína accesoria del VIH de 40 residuos tiene un pliegue muy similar y también ha sido objeto de un estudio extenso.
+No hay un motivo de secuencia general asociado con los paquetes de tres hélices, por lo que no necesariamente se pueden predecir.
+Los haces de tres hélices a menudo se encuentran en proteínas de unión a actina y en proteínas de unión a ADN.
+Los haces de cuatro hélices consisten típicamente en cuatro hélices empaquetadas en una disposición en espiral con un núcleo hidrófobo estéricamente compacto en el centro.
+Los pares de hélices adyacentes a menudo se estabilizan adicionalmente mediante puentes de sal entre los aminoácidos cargados.
+Los ejes de la hélice están orientados típicamente a unos 20 grados de sus hélices vecinas, una pendiente mucho menos profunda que en la estructura helicoidal más grande del pliegue de la globina.
+La topología específica de las hélices depende de la proteína; las hélices adyacentes en secuencia suelen ser antiparalelas, aunque también es posible disponer enlaces antiparalelos entre dos pares de hélices paralelas.
+Debido a que las bobinas en espiral diméricas son en sí mismas relativamente estables, los haces de cuatro hélices pueden ser dímeros de los pares de bobinas en espiral, como en la proteína Rop.
+El paquete de cuatro hélices puede tener una estabilidad térmica de más de 100 °C.
+Otros ejemplos de haces de cuatro hélices incluyen citocromo, la ferritina , la hormona del crecimiento humana , citoquinas , y represor LacC-terminal.
+El pliegue del paquete de cuatro hélices ha demostrado ser un objetivo atractivo para el diseño de proteínas de novo, con numerosas proteínas de paquete de cuatro hélices de novo que se han diseñado con éxito mediante métodos racionales y combinatorios.
+Aunque la secuencia no se conserva entre los haces de cuatro hélices, los patrones de secuencia tienden a reflejar los de las estructuras de espirales en espiral en las que cada cuarto y séptimo residuo es hidrófobo.

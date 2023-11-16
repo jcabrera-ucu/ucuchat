@@ -1,0 +1,59 @@
+Las quinolonas son un grupo de agentes quimioterapéuticos (agentes con actividad antimicrobiana con toxicidad selectiva) sintéticos, es decir, que no son producidos por microorganismos, a diferencia de los antibióticos.
+La mayor parte de las quinolonas usadas en la clínica son del grupo de las fluorquinolonas (o fluoroquinolonas), caracterizadas por tener un grupo fluoruro en el anillo central, normalmente en posición 6.
+Esta clase de compuestos son particularmente importantes en el tratamiento de infecciones urinarias.
+Actualmente existen cuatro generaciones de quinolonas usadas como agentes quimioterápicos, entre los que se pueden encontrar, como conocidos exponentes, el ácido nalidíxico, el ciprofloxacino, el ofloxacino, el moxifloxacino y el levofloxacino.
+Estos compuestos suelen utilizarse contra microorganismos resistentes a antibióticos.
+Las quinolonas de primera y segunda generación inhiben selectivamente el dominio ligasa de la ADN girasa bacteriana (topoisomerasa II) dejando intacto el dominio nucleasa.
+La actividad de la ADN girasa en bacterias gram negativas es constante y esencial para el mantenimiento de la topología del ADN bacteriano.
+La actividad nucleasa sin la acción acompasada del dominio ligasa produce la fragmentación del ADN bacteriano.
+Las quinolonas de tercera y cuarta generación son más selectivas al dominio ligasa de la topoisomerasa IV, por lo tanto, son más adecuadas para cubrir infecciones de bacterias gram positivas.
+Interrumpe la reproducción bacteriana y la replicación del ácido ribonucleico, se necesita que estén separados los dos cordones de la doble hélice del ADN.
+Sin embargo, todo lo que separe los cordones ocasiona un desenrollado o un superenrollado positivo excesivo del ADN.
+Este proceso es regulado por la ADN girasa, la cual se encarga de la introducción continua de superespiras negativas, lo que alivia el enrollamiento del ADN.
+El grupo antibiótico quinolonas bloquea la actividad de la subunidad A de la ADN girasa bacteriana (topoisomerasa II).
+Tienen una acción bactericida rápida, que es dosis dependiente (en relación con la concentración del antibiótico).
+Las quinolonas interfieren en la replicación del ADN al bloquear o inhibir las enzimas topoisomerasa II y topoisomerasa IV, enzimas esenciales para la topología del ADN.
+La ADN girasa es un tipo de topoisomerasa II y uno de los blancos predilectos de las quinolonas para el caso de bacterias Gram-negativas.
+La ADN topoisomerasa IV, descubierta tiempo después de que se descubrió la ADN girasa, es otro de los objetivos de las quinolonas en el caso de bacterias Gram-positivas, al mismo tiempo de que se han detectado una cantidad de especies bacterianas en las cuales el mecanismo de acción involucra la inhibición de ambas enzimas.
+Ambas enzimas son vitales para la vida de la bacteria en el sentido de que la transcripción, replicación, reparación y almacenamiento del ADN depende indirectamente del buen funcionamiento de dichas enzimas; inhibir estas enzimas da como resultado la aniquilación de la bacteria.
+Se cree que el mecanismo de acción de las quinolonas, desde el punto de vista químico, involucra la interacción de las funciones carbonilo, carboxilo y flúor con residuos de ácido aspártico, serina y lisina de las enzimas arriba citadas y con los residuos de purina, guanina y magnesio(II) presentes en el ADN.
+Estas interacciones crean un "cerrojo" a las topoisomerasas, las cuales no pueden efectuar al movimiento (impulsado por ATP) para abrir las hebras de ADN, lo que da al traste con los procesos nucléicos necesarios para la vida de la bacteria.
+Las quinolonas poseen una función carboxilato que por sí misma posee la capacidad de formar sales con iones metálicos.
+La presencia de un carbonilo en la posición C3 adyacente al carboxilato hace un efecto quelante en virtud de su carácter extractor de densidad electrónica, lo cual se combina para formar fuertes quelatos metálicos.
+Los quelatos metálicos con los iones de metales de valencia superior como, por ejemplo, aluminio (III), magnesio (II), calcio (II), hierro (II y III) y cobre (II), usualmente conlleva a la formación de complejos metálicos insolubles en agua que pueden interferir con los niveles óptimos de concentración en sangre de la quinolona.
+Esto no solo es inconveniente desde el punto de vista de formulación del fármaco, sino también por la interacción con alimentos (especialmente derivados lácteos), con otros medicamentos (como los antiácidos a base de aluminio y magnesio) y también su interacción con suplementos alimenticios que contengan sales de hierro como fuente de hierro adicional.
+El problema de la quelatización puede ser evitado administrando conjuntamente un medio ácido para así prevenir la formación del carboxilato al favorecer la formación de la forma ácido carboxílico de la función carboxilato.
+Si tal coadministración es imposible, entonces es necesario asegurarse de que el paciente no coma nada una hora antes o una hora después de la administración del fármaco.
+Aunque la primera generación de quinolonas contiene un número alto de ejemplos de moléculas enteramente ácidas y de carácter hidrofóbico, el grueso de las quinolonas de importancia clínica usadas en la actualidad poseen un carácter anfotérico que muestran una marcada hidrofilicidad.
+De esta manera, las nuevas quinolonas poseen mínima solubilidad en disoluciones con pH cercanos o parecidos a los pH neutrales existentes en los tejidos celulares.
+Estas quinolonas son sales mucho más solubles en los extremos del espectro de acidez
+Puede notarse y deducirse que, en un medio alcalino, la quinolona tiene una carga negativa que favorece su solubilidad en agua; a medida que se modifica el pH del medio hacia valores más ácidos, se alcanza el punto isoeléctrico de la molécula con dos especies cargadas en equilibrio (conocido como zwitterión).
+Esta forma de la molécula se alcanza en valores de pH casi neutros, la cual se encuentra en equilibrio con la forma no cargada de la molécula (la forma que más se logra absorber a los pH neutros en los que se requiere absorber el medicamento).
+Este es un tema de decisiva importancia, ya que se sabe que en los tejidos de mamíferos y en las paredes celulares de las bacterias las quinolonas entran por toma pasiva o atravesando porinas.
+Por tanto, la biodisponibilidad del fármaco administrado por vía oral se puede predecir mediante la medición del coeficiente de partición en condiciones fisiológicas y, aún más, dado que la quinolona puede formar sales insolubles con disoluciones buffer, particularmente cuando dichos buffer tienen iones multivalentes, entonces debe tomarse en consideración la naturaleza del buffer.
+Ya que es deseable suministrar las quinolonas por medio de inyecciones, es común preparar disoluciones ácidas del antibiótico y suministradas vía infusión, para que su integración al torrente sanguíneo sea lenta y evitar, así, un dolor o constricción de canales sanguíneos debido a la posible precipitación de la quinolona.
+Las quinolonas se absorben adecuadamente una vez ingeridas y se distribuyen de manera amplia en los diversos tejidos corporales.
+Después de ingerir los fármacos, los alimentos no aminoran la absorción, pero pueden prolongar el lapso que media hasta que se alcanzan las concentraciones máximas.
+La dosis depende de la quinolona administrada.
+La biodisponibilidad de las fluoroquinolonas excede de 50 por ciento con todos los medicamentos; con algunos rebasa el 95 por ciento.
+La vida media plasmática varía de 3 a 5 horas, con el norfloxacino y el ciprofloxacino, hasta 20 horas con la esparfloxacina.
+El volumen de distribución es grande y las concentraciones en la orina son mayores que las observadas en el suero.
+Inicialmente fueron considerados antibióticos muy seguros, pero con la experiencia se hicieron evidentes varios efectos adversos.
+Por ejemplo, se supo de numerosos casos de rotura espontánea de tendones, especialmente cuando se usaban conjuntamente con corticoides.
+La incidencia de este efecto es especialmente rara, con menos de un caso por 10000 personas/año.
+Otros problemas descritos:
+El uso de fluoroquinolonas en aves de corral y ganado hizo posible que las cepas de las bacterias resistentes a los antibióticos y agentes patógenos en los animales entren en el cuerpo humano.
+Por consiguiente, algunas versiones humanas de este medicamento no resultaron eficaces para el tratamiento de personas infectadas por estas bacterias, que en los humanos se volvieron resistentes a los antibióticos, lo que podría ser mortal para los ancianos, los niños y todas aquellas personas que presentan sistemas inmunes deprimidos o condiciones debilitadas.
+Las fluoroquinolonas suelen prescribirse para el tratamiento de enfermedades gastrointestinales graves, entre ellas las provocadas por Campylobacter y Salmonela.
+Campylobacter representa cerca de dos millones de casos de la enfermedad y 100 muertes cada año, y a Salmonela se atribuyen 1,3 millones de casos y 500 muertes al año.
+Muy pocas bacterias se encontraron resistentes a las fluoroquinolonas hasta que estos fármacos comenzaron a utilizarse en aves de corral en 1995.
+En 1998, el 13 por ciento de los casos de Campylobacter estudiados en seres humanos fueron resistentes a las fluoroquinolonas, y en 1999 casi el 18 por ciento de casos de Campylobacter se encontraron resistentes.
+Después de la información recolectada, los Centros para el Control y la Prevención de Enfermedades (CDC) de los Estados Unidos y la Organización Mundial de la Salud han abogado durante años por su prohibición.
+En octubre de 2018, la AEMPS (Agencia Europea del Medicamento y Productos Sanitarios), ha emitido una nota aumentando sus restricciones de uso.
+Se desaconseja su utilización en infecciones leves y autolimitadas, debido a la gravedad de los efectos secundarios.
+Hay dos grandes grupos de quinolonas: las viejas quinolonas, representadas por el ácido nalidíxico y ácido pipemídico, y las nuevas quinolonas o fluorquinolonas, como la norfloxacina, la ciprofloxacina, la levofloxacina y la moxifloxacina, entre otras.
+La diferencia más sustancial entre estos dos grupos es el espectro donde las últimas actúan sobre Gram positivas y Gram negativas (Pseudomonas incluida) y las primeras exclusivamente sobre Gram negativas.
+Una clasificación más reciente divide a las quinolonas en cuatro generaciones:
+Las quinolonas son efectivas contra gran cantidad de gérmenes, entre los cuales se citan: E. coli, Salmonella, Shigella, Enterobacter, Haemophilus influenzae, Campylobacter, Neisseria, Pseudomonas aeruginosa, Enterococcus, neumococos, Staphylococcus aureus resistente a meticilina, Chlamydia, Mycoplasma, Legionella, Brucella, Mycobacterium tuberculosis, Serratia y Moraxella catarrhalis, entre otras.
+Las quinolonas no son efectivas contra los gérmenes anaerobios y puede surgir resistencia al tratamiento, en particular contra Pseudomonas aeruginosa y algunas cepas mutantes de E. coli.
+Existen diferencias entre los tipos de quinolonas:

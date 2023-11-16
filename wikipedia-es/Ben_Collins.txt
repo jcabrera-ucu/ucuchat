@@ -1,0 +1,4 @@
+Ben Collins, anteriormente ingeniero de la NASA, fue líder del Proyecto Debian desde abril de 2001 a abril de 2002.
+Bdale Garbee fue quien lo sucedió en el cargo.
+Collins actualmente trabaja para Canonical Ltd, como líder del equipo relacionado al núcleo Linux, para Ubuntu.
+Actualmente trabaja para BlueCherry como programador del núcleo Linux para sus tarjetas de codificador MPEG.

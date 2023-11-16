@@ -1,0 +1,6 @@
+SciPlore MindMapping es una aplicación de mind mapping programada en Java.
+Se encuentra bajo licencia GPL y se basa en el software de código abierto FreeMind.
+El objetivo de SciPlore MindMapping es combinar mapas mentales con la gestión de referencia y PDF.
+Es especialmente adecuado para las necesidades de los investigadores y científicos que ofrece características únicas cuatro.:
+SciPlore MindMapping se supone que es la primera herramienta de asignación de cuenta que integra la asignación de cuenta con administración de referencia y permite la importación de marcadores PDF.
+El software mantiene un formato de archivo compatible con FreeMind 0.9.

@@ -1,0 +1,42 @@
+Nuvoton Technology Corporation(Chino: 新唐科技股份有限公司) es una empresa de semiconductores de Taiwán, fundada en 2008.
+Cuando Winbond Electronics Corp. Dividió sus actividades y de la que es subsidiaria, la operación comenzó en julio de 2008 y IPO en septiembre de 2010.
+(TWSE: 4919)
+Las líneas de productos principales de Nuvoton son Microcontroladores, circuitos de Audio, Cloud & ICs de computación y Servicio de Foundry.
+Su Microcontrolador ARM Cortex™-M0  de la familia NuMicro ®  es conocido por su densidad y funcionalidad.
+El producto para PC y Cloud Computing sirve como chip clave para placas base de PC, ordenadores portátiles y servidores, ofreciendo soluciones completas de Super I/O, hardware control IC, IC de gestión de energía, IC de seguridad TPM, controlador de teclado de portátil y plataforma móvil encajados control (EC).
+Nuvoton cuenta con una fábrica de obleas de 6 pulgadas que proporciona servicio de fundición (foundry service) para los productos propios, así como para los de otros partners seleccionados.
+Nuvoton consta de tres grupos de productos: (1) Microcontrolador Business Group (2)  Computing Business Group  (3) Manufacturing Business Group
+1.Microcontrolador Business Group
+Las aplicaciones de los Microcontroladores de Nuvoton se centra principalmente en Microcontroladores de propósito general, voz y discurso.
+Nuvoton ha sido la primera compañía en lanzar los microcontroladores con core 32-bit ARM ® Cortex ™-M0  con su familia NuMicro en Asia..
+El producto tiene características tales como rango amplio del voltaje de entrada, diseño de inmunidad de ruido alto anti-interferencias, alta, especialmente indicado para el control del sistema Industrial como el microcontrolador de 8 bits.
+Los mercados de aplicación incluyen electrónica médica, brushless DC, táctil, USB.
+Los EmPowerAudio de Nuvoton proporciona l diseños basados en la voz con ventajas de bajo consumo de energía y rápido diseño y entrega, se expande en una amplia gama de dispositivos de audio portátil, sistemas de información y entretenimiento para automoción y telefonía VoIP.
+La gama de producto ARM Audio SoC de Nuvoton es el primer ChipCorder de la industria que cuenta con un núcleo de 32 bits ARM ® Cortex ™-M0 como microcontrolador.
+El dispositivo de ISD9160 concentra en un solo chip (SoC)  de low-power la grabación y reproducción de mensajes con una amplia gama de aplicaciones industriales, tales como dispositivos médicos portátiles, sistemas de seguridad y vehículos de transporte público, así como diseños de consumo, incluyendo equipos de audio inalámbrico, aplicaciones para paneles de touch capacitivos, electrodomésticos, juguetes y artículos de novedad.
+2.Cloud and Computing Business Group
+Nuvoton produce muchas clases de aplicaciones específicas (ASICs); apoyándose en la experiencia de años de Winbond en estos productos.
+Nuvoton se ha dedicado al desarrollo de lal aplicaciones claves para placas base de PC, ordenadores portátiles y servidores, ofrece completa y múltiples soluciones de Super I/O y componentes de IC para monitorización de hardware, gestión de energía, seguridad TPM, circuitos de control de teclado de portátil, etc... Sobre todo, Super I/O y productos para plataforma móvil CE que han adquirido una posición dominante en el mercado.
+3.Manufacturing Business Group
+Manufacturing Business Group de Nuvoton posee una FAB de fundición que cubre una variedad de tecnologías incluyendo Generic Logic, Mixed Signal (Mixed Mode), High Voltage, Ultra High Voltage, Power Management, Mask ROM (Flat Cell), embedded Logic Non-Volatile Memory processes, etc.
+En una tecnología que cubre un rango de 0.35um hasta  0.6um.
+Hsinchu, Taiwan
+Nuvoton Technology Corporation (Headquarters),
+Function：R&D, Marketing, Manufacture (Fab), Sales
+Taipei, Taiwan
+Taipei Sales Office
+Function：Sales, FAE
+Shanghai, China
+Nuvoton Electronics Technology (Shanghai) Limited
+Function：Sales, FAE
+Shenzhen, China
+Nuvoton Electronics Technology (Shenzhen) Limited
+Function：Sales, FAE
+Hong Kong, China
+Nuvoton Electronics Technology (H.K.) Limited
+Function：Sales
+San Jose, CA, USA
+Nuvoton Technology Corp. America
+Function：R&D, Sales
+Herzlia, Israel
+Nuvoton Technology Israel Ltd. Function：R&D

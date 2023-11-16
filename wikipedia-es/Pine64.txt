@@ -1,0 +1,9 @@
+Pine64 es una familia de ordenadores de una sola placa y el nombre de la empresa que los produce.
+Su primera computadora de una sola tabla, el Pine A64, fue diseñada para competir con el Raspberry Pi en potencia y precio.
+Su nombre desciende de las variables constantes pi y la constante de Euler.
+La A64 fue financiada por primera vez a través de una unidad de micromecenazgo Kickstarter en diciembre de 2015, donde la compañía recaudó más de $ 1.4 millones.
+El equipo fue lanzado en tres variaciones características.
+Mientras que el modelo de 512 MB sólo funciona con las distribuciones de Arch Linux y Debian Linux, los modelos con más memoria pueden ejecutar distribuciones como Android, Remix OS y Ubuntu.
+La revisión de [ Linux.com] se sorprendió de su capacidad para tenerlo completo, aunque lento, el entorno de escritorio Mate en el precio de la A64.
+Make escribió que el análogo más cercano del A64 era el DragonBoard, a dos o tres veces el precio de la A64.
+Yahoo News dijo que la A64 continuó la tendencia del Raspberry Pi de romper las barreras para los ingenieros.

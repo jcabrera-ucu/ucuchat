@@ -1,0 +1,8 @@
+La fibra óptica plástica (o POF, por Plastic -o Polymer- Optical Fibre) es un tipo de fibra óptica hecha esencialmente de plástico.
+Generalmente se construye con un núcleo de polimetilmetacrilato y un revestimiento de polímeros fluoruros.
+Fueron unos investigadores coreanos del Korea Institute of Science and Technology los que descubrieron que este tipo de fibra era una alternativa económica a la fibra óptica tradicional.
+En fibras de gran diámetro el 96% de su sección está destinada a la transmisión de la luz.
+El tamaño del núcleo es entre 20 y 100 veces mayor que el de la fibra de vidrio.
+Su uso está ampliamente extendido en electrónica automovilística y aeronáutica, y se instala cada vez más en la conexión interna de hogares entre el punto de acceso (interfaz con el proveedor de servicios) y los puntos de uso (rosetas o bases de toma).
+No es tan rápida como la fibra óptica tradicional.
+También se está usando la POF para el control industrial, la iluminación (carteles luminosos), la medicina, las telecomunicaciones y el mercado aeroespacial, entre otras aplicaciones.

@@ -1,0 +1,30 @@
+Los polos geomagnéticos son puntos antípodas donde el eje de un dipolo de mejor ajuste se cruza con la superficie de la Tierra.
+Este dipolo teórico es equivalente a una poderosa barra magnética en el centro de la Tierra, y se acerca más que cualquier otro modelo a describir el campo magnético observado en la superficie de la Tierra.
+Por el contrario, los polos magnéticos de la Tierra real no son antípodas; es decir, la línea en la que se encuentran no pasa por el centro de la Tierra.
+Debido al movimiento del fluido en el núcleo externo de la Tierra, los polos magnéticos reales se mueven constantemente.
+Sin embargo, durante miles de años, su dirección promedia el eje de rotación de la Tierra.
+En el orden de una vez cada medio millón de años, los polos se invierten (es decir, el norte cambia de lugar con el sur).
+Como una aproximación de primer orden, el campo magnético de la Tierra se puede modelar como un dipolo simple (como un imán de barra), inclinado alrededor de 9,6° con respecto al eje de rotación de la Tierra (que define los polos geográfico norte y sur) y centrado en el centro de la Tierra.
+Los polos geomagnéticos norte y sur son los puntos antípodas donde el eje de este dipolo teórico se cruza con la superficie de la Tierra.
+Por lo tanto, a diferencia de los polos magnéticos reales, los polos geomagnéticos siempre tienen el mismo grado de latitud y grados suplementarios de longitud respectivamente (2017: Lat. 80.5° N, 80.5° S; Long. 72.8° W, 107.2° E).
+Si el campo magnético de la Tierra fuera un dipolo perfecto, las líneas del campo serían verticales a la superficie en los polos geomagnéticos y se alinearían con los polos magnéticos norte y sur, con el polo norte magnético en el extremo sur del dipolo.
+Sin embargo, la aproximación es imperfecta, por lo que los polos magnético y geomagnético se encuentran a cierta distancia.
+Al igual que el polo norte magnético, el polo norte geomagnético atrae el polo norte de una barra magnética y, en un sentido físico, es en realidad un polo sur magnético.
+Es el centro de las líneas del campo magnético "abierto" que se conectan al campo magnético interplanetario y proporcionan una ruta directa para que el viento solar alcance la ionosfera.
+En 2020, estaba ubicado en 80.65°N, -72.68°W, en la isla de Ellesmere, Nunavut, Canadá, en comparación con 2015, cuando se encontraba en 80.37°N, -72.62°W, también en la isla de Ellesmere.
+El Polo Geomagnético Sur es el punto donde el eje de este dipolo inclinado que mejor se ajusta se cruza con la superficie de la Tierra en el hemisferio sur.
+En 2020 estaba localizado en -80.65°N, 107.32°W, mientras que en 2005, se calculó que se encuentra en -79.74°N, 108.22°W, cerca de la estación Vostok.
+Debido a que el campo magnético real de la Tierra no es un dipolo exacto, los polos geomagnéticos norte y sur (calculados) no coinciden con los polos magnéticos norte y sur.
+Si los campos magnéticos de la Tierra fueran exactamente dipolares, el polo norte de la aguja de una brújula magnética apuntaría directamente al Polo Norte Geomagnético.
+En la práctica, no es así porque el campo geomagnético que se origina en el núcleo tiene una parte no dipolar más compleja, y las anomalías magnéticas en la corteza terrestre también contribuyen al campo local.
+Las ubicaciones de los polos geomagnéticos son calculadas por el Campo de Referencia Geomagnético Internacional, un ajuste estadístico a las mediciones del campo de la Tierra por satélites y en observatorios geomagnéticos.
+Los polos geomagnéticos se mueven con el tiempo porque el campo geomagnético es producido por el movimiento de las aleaciones de hierro fundido en el núcleo exterior de la Tierra (geodinamo).
+Durante los últimos 150 años, los polos se han movido hacia el oeste a una tasa de 0.05° a 0.1° por año y más cerca de los polos verdaderos a 0.01° por año.
+Durante varios miles de años, la ubicación promedio de los polos geomagnéticos coincide con los polos geográficos.
+Los paleomagnetistas han confiado durante mucho tiempo en la hipótesis del dipolo axial geocéntrico (GAD), que establece que, además de durante las inversiones geomagnéticas, la posición promediada en el tiempo de los polos geomagnéticos siempre ha coincidido con los polos geográficos.
+Existe una considerable evidencia paleomagnética que respalda esta hipótesis.
+Durante la vida de la Tierra, la orientación del campo magnético de la Tierra se ha invertido muchas veces, y el norte geomagnético se ha convertido en sur geomagnético y viceversa &#x2013; un evento conocido como inversión geomagnética.
+La evidencia de inversiones geomagnéticas se puede ver en las dorsales oceánicas donde las placas tectónicas se separan.
+A medida que el magma se filtra fuera del manto y se solidifica para convertirse en un nuevo fondo oceánico, los minerales magnéticos que contiene se magnetizan en la dirección del campo magnético.
+El estudio de esta remanencia se llama paleomagnetismo.
+Por lo tanto, comenzando en el fondo del océano formado más recientemente, uno puede leer la dirección del campo magnético en tiempos anteriores a medida que se aleja hacia el fondo del océano más antiguo.

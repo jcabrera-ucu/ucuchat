@@ -1,0 +1,17 @@
+Los leptíctidos (Leptictida, del griego leptos iktis "comadreja pequeña/esbelta") son un orden extinto de mamíferos euterianos que vivieron en el holártico desde finales del Cretácico Superior hasta finales del Oligoceno inferior.
+De acuerdo con los estudios cladísticos, pueden estar (lejanamente) relacionados con Euarchontoglires (Rodentia, Primates y sus parientes), aunque, más a menudo, son considerados como la primera rama en separarse de los euterios basales.
+Los leptíctidos son un ejemplo característico de los mamíferos no-especializados que tomaron parte en la radiación evolutiva del Cretácico-Paleoceno, originalmente insertos en el Orden Insectivora.
+Se extinguieron durante el Oligoceno y sus arcaicos cráneos y dentición, hacen difícil determinar sus relaciones con otros grupos.
+Lo que se sabe de la anatomía postcranial leptictida y estilo de vida, se ha deducido a partir de especímenes de Leptictidium preservados desde el Eoceno Medio y encontrados en Messel, Alemania.
+Cladograma resumido.
+--o Orden Leptictida McKenna, 1975 (†)
+| |-- Género Gallolestes Lillegraven, 1976 (†)
+| |-- Género Labes Sigé, 1992 (†)
+| |-- Género Lainodon Gheerbrant & Astibia, 1994 (†)
+| |-- Género Praolestes Matthew et al., 1929 (†)
+| |-- Género Wania Wang, 1995 (†)
+| |-o Familia Didymoconidae Kretzoi, 1943 (†)
+| |-o Familia Gypsonictopidae (van Valen, 1967) (†)
+| |-o Familia Kulbeckiidae Nessov, 1993 (†)
+| `-o Familia Leptictidae Gill, 1872 (†)
+`-o Superorden Preptotheria (McKenna, 1975)

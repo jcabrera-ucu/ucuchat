@@ -1,0 +1,6 @@
+La interfaz periférica paralela (PPI por sus siglas en inglés Parallel Peripheral Interface) es un bus de datos periférico encontrado en la familia de microprocesadores Blackfin desarollada por Analog Devices.
+El PPI es una interfaz de datos semidúplex, bidireccional que se diseñó para conectar directamente con los LCD, Sensores CMOS, CCD, DACs de vídeo, ADC de vídeo o cualquier dispositivo de alta velocidad paralelo genérico.
+La cantidad de líneas de datos es programable y se puede fijar entre 8 y 16 bytes en incrementos de 1 byte.
+La última familia de Blackfin (BF54x) también ofrece un bus de 18/24-bit de ancho con conexión directa a los paneles del LCD.
+El PPI puede funcionar entre 0MHz hasta 66 MHz.
+El PPI tiene una línea dedicada de reloj, tres líneas multiplexadas y entre 16 y 24 líneas de datos

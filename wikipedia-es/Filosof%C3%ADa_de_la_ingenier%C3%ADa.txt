@@ -1,0 +1,23 @@
+La filosofía de ingeniería es una disciplina emergente que considera que es la ingeniería, lo que los ingenieros hacen, y cómo su trabajo afecta a la sociedad, por lo que incluye aspectos de ética y estética, así como de ontología, epistemología, etc. que podrían ser estudiados en, por ejemplo, la filosofía de la ciencia o la filosofía de la tecnología.
+La ingeniería es Y SERA la profesión que apunta a modificar el entorno natural, a través del diseño, fabricación y mantenimiento de artefactos y sistemas tecnológicos.
+Puede entonces ser contrastada con la ciencia, cuyo objetivo es el de entender la naturaleza.
+La ingeniería está centrada en causar cambios, y por lo tanto la administración del cambio es central en la práctica de ingeniería.
+La filosofía de la ingeniería es entonces la consideración de asuntos filosóficos cuando estos aplican a la ingeniería.
+Tales asuntos podrían incluir la objetividad de los experimentos, las consideraciones éticas de la actividad ingenieril en el ambiente de trabajo y en la sociedad, la estética de los artefactos con los que trabaja la ingeniería, etc.
+Mientras la ingeniería históricamente se ha asociado al trabajo relacionado con el ingenio, la distinción entre arte, oficio y tecnología no es clara.
+Tanto la raíz latina ars, como la raíz germánica kraft y la raíz griega techne se refieren a la habilidad o capacidad de producir algo, en oposición a la capacidad atlética.
+Ese algo podría ser tangible, como una escultura o un edificio, o no tan tangible, como un trabajo de literatura.
+Hoy en día, el arte es generalmente aplicado a lo visual, lo escénico o lo literario, especialmente lo referido a las bellas artes, el oficio normalmente aplica a la habilidad manual implicada en la fabricación de un objeto, como por ejemplo el bordado o la construcción de una aeronave, y la tecnología tiende a referirse a los productos y los procesos actualmente utilizados en una industria.
+En contraste, la ingeniería es la actividad de generar cambios a través del diseño y la fabricación de artefactos.
+Lo qué distingue al diseño de la ingeniería del diseño artístico es la necesidad del ingeniero de hacer predicciones cuantitativas del comportamiento y efecto del artefacto con anterioridad a su fabricación.
+Tales predicciones pueden ser más o menos certeras pero normalmente incluyen los efectos en los individuos y/o en la sociedad.
+En este sentido, la ingeniería puede ser considerada una disciplina tanto tecnológica como social y ser juzgada no sólo por los artefactos que se diseñan a través de esta funcionan, sino también por cómo influyen y sirven a los valores sociales.
+El trabajo de los ingenieros sujeto de una evaluación moral.
+Los sistemas socio-técnicos, como el transporte, los servicios públicos y las infraestructuras relacionadas con estos comprenden elementos humanos así como artefactos.
+Los modelos matemáticos y físicos tradicionales pueden no tomar en cuenta adecuadamente los efectos de ingeniería en las personas, y las cultura.
+Las disciplinas de la Ingeniería Civil tratan de asegurar que una estructura cumpla sus especificaciones y otros requisitos con anterioridad a su construcción real.
+Los métodos empleados referidos a esta etapa son los de Análisis y Diseño.
+Los Sistemas de modelado y descripción tratan de extraer la información que muchas veces yace oculta en los principios de la ingeniería.
+Las disciplinas tradicionales de la ingeniería parecen discretas pero la ingeniería de los artefactos tiene implicaciones que se extienden más allá de tales disciplinas acercándose a áreas que podrían incluirla psicología, las finanzas y la sociología.
+El diseño de cualquier artefacto entonces deberá tomar en cuenta las condiciones bajo las cuales será fabricado, las condiciones bajo las cuales será utilizado, y las condiciones bajo las cuales será puesto en su lugar.
+Los ingenieros deben considerar tales asuntos del "ciclo de vida del producto" sin perder la precisión y el rigor necesario para diseñar sistemas funcionales.

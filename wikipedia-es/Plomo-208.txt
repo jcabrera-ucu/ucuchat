@@ -1,0 +1,6 @@
+El plomo-208 es un isótopo estable del elemento químico plomo.
+Tiene un número másico de 208, con 82 protones y 126 neutrones y una masa atómica de 207,9766521 g/mol.
+Su energía de enlace nuclear es de 1636445728 ± 2921 eV.
+Es el más pesado de los isótopos estables conocidos.
+Tiene además la particularidad de disponer de un doble número mágico al presentarlo tanto en el número de protones como en el de neutrones.
+El plomo-208 es el producto final de la cadena de desintegración del Torio-232, por lo que también se le conoce con el nombre de Torio D.

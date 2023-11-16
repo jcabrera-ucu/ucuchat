@@ -1,0 +1,30 @@
+El gen INPP5E, también conocido como CPD4, CORS1, JBTS1, MORMS o PPI5PIV, está localizado en el brazo corto del cromosoma 9, en el locus 9q34.3 en humanos y codifica para la enzima de 72kDa, inositol polifosfato-5-fosfatasa.
+Esta proteína pertenece a la familia de Fosfoinositol Fosfatasas, las cuales son enzimas que catalizan la hidrólisis de grupos fosfato del inositol y se clasifican en 4 grupos en función de su especificidad de sustrato.
+Esta enzima particular pertenece al grupo IV debido a su preferencia por el fosfatidilinositol 3,4,5-trisfosfato (PtdIns (3,4,5) P3) y es producida en respuesta a diversos factores de crecimiento tales como PDGF.
+Esta enzima, caracterizada por su función molecular como una hidrolasa, cuya localización intracelular es en la membrana que recubre a la pila del Aparato de Golgi, el citoplasma y el axonema de los cilios, está involucrada en procesos biológicos como el metabolismo de lípidos.
+La presencia de esta proteína es controlada de forma estricta mediante su inactivación por fosfatasas y quinasas.
+El gen INPP5E se localiza en el locus 9q34.3, se sabe que se sobrelapa con el gen PMPCA (613036) y se transcribe en la dirección opuesta.
+La proteína contiene un dominio N-terminal rico en prolina con 13 motivos PxxP, seguido por un dominio proteico putativo de activación de inmunorreceptores (ITAM), 2 dominios críticos de 5-fosfatasa y una señal putativa de farnesilación C-terminal.
+También se puede identificar una variante que codifica una proteína que carece de una secuencia de 34 aminoácidos que cubre el dominio putativo de ITAM.
+En humanos se ha detectado una transcripción principal de 3,6 kb en todos los tejidos examinados, con la expresión más alta en cerebro, corazón, bazo, páncreas y testículo; se detectan transcripciones adicionales de 4,9 y 9,5 kb, predominantemente en testículos.
+Se ha detectado que la enzima inositol polifosfato-5-fosfatasa tiene una masa molecular aparente de 68 kD en cerebro humano, pero no en hígado, bazo o riñón.
+Por otro lado, en tejidos de ratón muestra la expresión más alta en testículos, corazón y cerebro, con una menor expresión en el timo y el pulmón, y muy poca expresión en el riñón, el bazo y el hígado.
+(Ver tabla.- Expresión del gen: Tejidos donde se expresa)
+Número C.E. (número de comisión enzimática): 3.1.3.56
+3. Hidrolasas
+3.1 Actúa en enláces tipo éster
+3.1.3 Hidrolasas de monoéster fosfórico
+3.1.3.56 fosfoinositol 5-fosfatasas
+Presenta diversas funciones dentro de la membrana como la comunicación, la estructura y el transporte a través de la misma, participa en la transducción de señal de ligandos que se unen a receptores celulares (actuando como segundo mensajero), ayuda en el transporte vesicular y tiene funciones en el citoesqueleto.
+La enzima controla la cantidad de 2-fosfoinosítidos (PtdInsPs, por su abreviatura en el inglés) que hay en la superficie celular y en otras superficies membranosas internas de la célula.
+Estos son lípidos que miden procesos celulares en organismos eucariontes, como la regulación mediante el reclutamiento y la activación de múltiples proteínas efectoras de unión a lípidos.La regulación precisa temporal y espacial de las señales de fosfoinosítidos por las actividades coordinadas de las fosfoinositidinasasas y fosfatasas es esencial para la homeostasis y el desarrollo.
+Se ha reportado que INPP5E tiene un rol esencial en el control del crecimiento de cilios y que su deficiencia esta realacionada con el desarrollo de desórdenes multiorgánicos asociados con defectos estructurales del cilio primario.
+Se ha planteado la hipótesis de que las proteínas PDE6D, CEP164 y ARL13B median pasos secuenciales al dirigir INPP5E a las membranas ciliares para la formación de cilios.
+Componentes que regulan la reacción (por activación o inhibición) de esta enzima:
+La enzima se encuentra activa en presencia de octil-glucósido o Triton X-100, pero está completamente inhibida en presencia de CTAB (Bromuro de hexadeciltrimetilamonio).
+La enzima inositol polifosfato-5-fosfatasa ha demostrado ser capaz de interaccionar con:
+Las mutaciones en el gen INPP5E y en el gen OCRL (que también codifica para la enzima inositol polifosfato-5-fosfatasa) son causantes de síndromes cerebro-renales: Síndrome de Joubert y Síndrome de Lowe.
+El gen INPP5E junto con OCRL exhiben especificidad de sustrato de fosfoinositida superpuesta y localización subcelular, incluida una asociación con los cilios primarios.
+El síndrome de Joubert (SJ) se caracteriza por una malformación congénita en el tronco cerebral y una agenesia o hipoplasia del vermis cerebeloso, que pueden provocar: problemas respiratorios, nistagmo, hipotonía, ataxia y retraso del desarrollo motor.
+La transmisión es de tipo autosómica recesiva, lo que quiere decir que para tener este síndrome, es necesario tener ambos alelos recesivos y su prevalencia se estima en alrededor de 1/100.000.
+El síndrome de Lowe, también conocido como el síndrome óculo-cerebro-renal (OCRL) es una condición genética rara que causa impedimentos físicos y médicos, algunos de éstos son: cataratas en los ojos en recién nacidos, tono muscular disminuido (hipotonía), desarrollo motor retrasado, problemas con los riñones que pierden substancias por la orina (acidosis tubular renal, tubulopatía), estatura baja, entre otros.

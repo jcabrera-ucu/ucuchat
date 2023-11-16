@@ -1,0 +1,16 @@
+Liber abaci (1202) es un libro histórico sobre aritmética escrito por Leonardo de Pisa, más conocido como Fibonacci.
+Su título tiene dos traducciones comunes, El libro del ábaco o El libro del cálculo; sin embargo Sigler (2002) expuso que la primera traducción es errónea: La intención del libro era describir métodos de hacer cálculos sin la ayuda del ábaco, y, como Ore (1948) confirma, durante siglos tras su publicación, los algoritmistas (los seguidores del estilo de cálculo demostrado en el Liber Abaci) estuvieron en conflicto con los abacistas (tradicionalistas que continuaron usando el ábaco en conjunción con el sistema romano de numeración).
+En este trabajo, Fibonacci introduce en Europa los números indoarábigos, elemento central de nuestro sistema decimal, que había aprendido cuando estudió con los árabes mientras vivía en Bugía (Argelia) con su padre, Guglielmo Bonaccio, quien quería que se convirtiera en comerciante.
+En aquella época Bugía era uno de los puertos más prósperos del Mediterráneo.
+Liber abaci fue de los primeros libros occidentales en describir los números indoarábigos, aunque el primero que los dio a conocer fue Crónica albeldense, de 976.
+Al estar dirigido a comerciantes y académicos, empezó a convencer al público de la superioridad del nuevo sistema numérico.
+La segunda versión de Liber abaci fue dedicada a Miguel Escoto en 1227.
+Hoy en día no hay ninguna versión del manuscrito original de 1202.
+La primera sección introduce el sistema de numeración indoarábigo, incluyendo métodos de conversión entre sistemas de representación diferentes.
+Esta sección incluye también la primera descripción conocida de la división por tentativa para comprobar si un número es compuesto y, si lo es, factorizarlo.
+La segunda sección presenta ejemplos del comercio, tales como conversiones de moneda y medidas, y cálculos de beneficio e interés.
+La tercera sección discute una serie de problemas matemáticos: por ejemplo, incluye (Cap. II.12) el teorema chino del resto, los números perfectos y los primos de Mersenne, así como fórmulas para progresiones aritméticas y para números piramidales cuadrados.
+Otro ejemplo en este capítulo, que describe el crecimiento de una población de conejos, fue el origen de la sucesión de Fibonacci, por la cual su autor es hoy especialmente conocido.
+La cuarta sección estudia aproximaciones, tanto numéricas como geométricas, de números irracionales del tipo de las raíces cuadradas.
+El libro también incluye demostraciones sobre la geometría euclidiana.
+El método de Fibonacci de resolución de ecuaciones algebraicas muestra la influencia del matemático egipcio del siglo décimo Abu Kamil, más conocido como El calculista egipcio.

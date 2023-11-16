@@ -1,0 +1,62 @@
+El heliocentrismo (del griego: ἥλιος-helios «Sol» y κέντρον-kentron «centro») es un modelo astronómico según el cual la Tierra y los planetas se mueven alrededor del Sol relativamente estacionario y que está en el centro del universo.
+Históricamente, el heliocentrismo se oponía al geocentrismo, que colocaba en el centro a la Tierra.
+La idea de que la Tierra gira alrededor del Sol fue propuesta desde el por Aristarco de Samos.
+Aunque no recibió apoyo de otros astrónomos de la antigüedad, sí fue citado por Arquímedes en El contador de arena.
+No fue sino hasta el, durante el Renacimiento, cuando un modelo matemático completamente predictivo de un sistema heliocéntrico fue presentado por el matemático, astrónomo y clérigo católico polaco Nicolás Copérnico, con la publicación póstuma en 1543 del libro De Revolutionibus Orbium Coelestium.
+Esto marcó el inicio de lo que se conoce en Historia de la ciencia como «revolución copernicana».
+En el siguiente siglo, Johannes Kepler extendió este modelo para incluir órbitas elípticas.
+Su trabajo se apoyó en observaciones hechas con un telescopio que fueron presentadas por Galileo Galilei.
+Con las observaciones de William Herschel, Friedrich Bessel y otros, los astrónomos terminaron por aceptar que el Sol no se encuentra en el centro del universo; en la década de 1920, Edwin Hubble demostró que formaba parte de un complejo aún mucho mayor: la galaxia (Vía Láctea), y que esta era tan solo una entre miles de millones de galaxias más.
+A cualquiera que se detenga a mirar el cielo, le parecerá que la Tierra se encuentra estática en un solo lugar mientras que todo en el cielo sale por el Oriente y se esconde por el Poniente una vez al día.
+Con algo más de escrutinio, sin embargo, se observarán movimientos más complicados.
+Por ejemplo, que los puntos de salida del Sol y de la Luna cambian a lo largo del año, o que algunas estrellas y planetas desaparecen durante muchos meses, o bien que los planetas a veces aparentan haberse movido en dirección contraria en relación con las estrellas de fondo (este «movimiento aparente» se conoce como retrogradación de los planetas).
+A medida que estos movimientos celestes fueron mejor observados y comprendidos, pudieron elaborarse mejores descripciones; la más conocida fue el «Sistema ptolemaico», que alcanzó su expresión más completa en el El sistema ptolemaico era un sofisticado sistema astronómico diseñado para calcular las posiciones de los planetas hasta un alto grado de exactitud.
+Ptolomeo mismo, en su Almagesto, señala que cualquier modelo que describa los movimientos planetarios es meramente un artilugio matemático, y como no hay manera de saber cuál es real, el modelo más sencillo y que arroje los números correctos es el que deberá utilizarse.
+Sin embargo, rechazó la idea de una rotación de la Tierra por absurda, pues imaginaba que se crearían grandes vientos.
+Sus hipótesis planetarias eran lo suficientemente convenientes como para que las distancias de la Luna, Sol, planetas y estrellas pudieran ser determinadas «creando órbitas celestes esféricas» como si fuesen «realidades contiguas».
+Esto colocó a las estrellas a menos de 20 unidades astronómicas (un retroceso en comparación con el esquema heliocéntrico de Aristarco de Samos, que desde hacía siglos había colocado a las estrellas necesariamente al menos dos órdenes de magnitud más lejos).
+El modelo no geocéntrico del universo fue propuesto por el filósofo pitagórico Filolao (hacia 390 a. C.).
+Según Filolao, hay en el centro del universo un «fuego central» alrededor del cual la Tierra, el Sol, la Luna y los planetas giran con un movimiento circular uniforme.
+Este sistema postulaba la existencia de un antimundo colineal con la Tierra y el fuego central, con el mismo periodo de revolución.
+El Sol gira alrededor del fuego central una vez por año y las estrellas están fijas; la Tierra muestra siempre la misma faz oculta de cara al fuego central, por lo que este y la anti-Tierra son invisibles desde la Tierra.
+El concepto pitagórico de «movimiento circular uniforme» para referirse a los movimientos celestes permaneció inmutable por los siguientes 2000 años aproximadamente, y fue a ellos a quienes se refirió Copérnico al mostrar que la noción de una Tierra móvil no era nueva ni revolucionaria.
+Heráclides Póntico explicaba el movimiento diario aparente de la esfera celeste por medio de la rotación de la Tierra.
+Suele decirse que creía que Mercurio y Venus orbitaban al Sol, el cual a su vez (junto a los demás planetas) orbitaba alrededor de la Tierra.
+La primera persona conocida que propuso un sistema heliocéntrico fue —con todo— Aristarco de Samos (c. 270 a. C.).
+Al igual que Eratóstenes, calculó el tamaño de la Tierra y midió el tamaño y las distancias de la Luna y del Sol en un tratado que ha sobrevivido; en este, Aristarco concluye que el Sol es seis o siete veces más ancho que la Tierra y por ende cientos de veces más voluminoso.
+<!--
+The first person known to have proposed a heliocentric system, however, was Aristarchus of Samos (c. 270 BCE).
+Like Eratosthenes, Aristarchus calculated the size of the Earth, and measured the size and distance of the Moon and Sun, in a treatise which has survived.
+From his estimates, he concluded that the Sun was six to seven times wider than the Earth and thus hundreds of times more voluminous.
+His writings on the heliocentric system are lost, but some information is known from surviving descriptions and critical commentary by his contemporaries, such as Archimedes.
+Some have suggested that his calculation of the relative size of the Earth and Sun led Aristarchus to conclude that it made more sense for the Earth to be moving than for the huge Sun to be moving around it.
+Though the original text has been lost, a reference in Archimedes' book The Sand Reckoner describes another work by Aristarchus in which he advanced an alternative hypothesis of the heliocentric model.
+Archimedes wrote:
+"You King Gelon are aware the 'universe' is the name given by most astronomers to the sphere the center of which is the center of the Earth, while its radius is equal to the straight line between the center of the Sun and the center of the Earth. This is the common account as you have heard from astronomers. But Aristarchus has brought out a book consisting of certain hypotheses, wherein it appears, as a consequence of the assumptions made, that the universe is many times greater than the 'universe' just mentioned. His hypotheses are that the fixed stars and the Sun remain unmoved, that the Earth revolves about the Sun on the circumference of a circle, the Sun lying in the middle of the orbit, and that the sphere of fixed stars, situated about the same center as the Sun, is so great that the circle in which he supposes the Earth to revolve bears such a proportion to the distance of the fixed stars as the center of the sphere bears to its surface."
+Aristarchus thus believed the stars to be very far away, and saw this as the reason why there was no visible parallax, that is, an observed movement of the stars relative to each other as the Earth moved around the Sun.
+The stars are in fact much farther away than the distance that was generally assumed in ancient times, which is why stellar parallax is only detectable with telescopes.
+Archimedes says that Aristarchus made the stars' distance larger, suggesting that he was answering the natural objection that heliocentrism requires stellar parallactic oscillations.
+He apparently agreed to the point but placed the stars so distant as to make the parallactic motion invisibly minuscule.
+Thus heliocentrism opened the way for realization that the universe was larger than the geocentrists taught.
+-->
+En el, el De revolutionibus orbium coelestium de Nicolaus Copernicus presenta una discusión completa de un modelo heliocéntrico del universo, de un modo muy parecido al que Ptolomeo, en su Almagesto, había presentado su modelo geocéntrico en el Copérnico discute las implicaciones filosóficas del sistema que propone, lo elabora geométricamente en detalle con observaciones astronómicas seleccionadas para derivar los parámetros de su modelo y escribe numerosas tablas astronómicas que permitían calcular las posiciones pasadas y futuras de las estrellas y planetas.
+Con esto, Copérnico movió el heliocentrismo, de la especulación filosófica, a la astronomía geométrica predictiva; aunque en realidad, no predecía la posición de los planetas mejor de lo que ya lo hacía el sistema ptolemaico.
+Las tres leyes de Kepler (comienzos de 1600) describen matemáticamente el movimiento de los planetas en sus órbitas alrededor del Sol.
+Tres pruebas aparentes de la hipótesis heliocéntrica fueron dadas, en 1727 por Bradley, en 1838 por Friedrich Wilhelm Bessel y en 1851 por Foucault.
+Bessel probó que el paralaje estelar era mayor que cero al medir un paralaje de 0.314 minutos de arco de la estrella 61 Cygni.
+El mismo año, Friedrich Georg Wilhelm Struve y Thomas Henderson midieron los paralajes de otras dos estrellas, Vega y Alfa Centauri.
+La idea de que el heliocentrismo tampoco resultaba verdadero en un sentido estricto, fue adquirida paulatinamente.
+Que el Sol no era el centro del universo sino una entre innumerables estrellas, fue sostenido vehementemente por Giordano Bruno.
+En el curso de los siglos y, el estatus del Sol meramente como una estrella más entre muchas se volvió cada vez más obvio.
+Para el, aun antes del descubrimiento de que hay muchas galaxias, ya no era tema de debate.
+El concepto de una velocidad absoluta, incluyendo el «estar en reposo» como un caso particular, está regido por el principio de relatividad, también eliminando cualquier «centro» obvio del universo como un origen de coordenadas natural.
+Algunas formulaciones del principio de Mach consideran que el marco en reposo con respecto a las masas distantes en el universo, posee propiedades especiales.
+Incluso si la discusión se limita al sistema solar, el Sol no está en el centro geométrico de la órbita de ningún planeta, sino aproximadamente en el foco de la órbita elíptica.
+Además, dado el hecho de que la masa de un planeta no puede despreciarse con relación a la masa del Sol, el centro de gravedad del sistema solar se encuentra ligeramente desplazado del centro del Sol (las masas de los planetas, principalmente Júpiter, representan el 0,14% de la del Sol).
+Es por esto que un astrónomo hipotético situado en un planeta extrasolar, observaría un «bamboleo» en el movimiento del Sol.
+En cálculos modernos, los términos «geocéntrico» y «heliocéntrico» se utilizan generalmente para referirse a sistemas de coordenadas que se escogen por razones prácticas.
+En tales sistemas, puede seleccionarse el origen como el centro de masas de la Tierra, del sistema Tierra-Luna, del Sol, del Sol más los planetas mayores o incluso del sistema solar en su totalidad.
+Sin embargo, dicha selección de coordenadas «geocéntricas» o «heliocéntricas» tienen únicamente implicaciones prácticas y no filosóficas o físicas.
+Una parte de la gente aun cree en el modelo geocéntrico.
+Aproximadamente uno de cinco estadounidenses cree que el Sol da vueltas a la Tierra, de acuerdo con encuestas de 1999 y 2006.
+Aproximadamente un tercio de los rusos creen en el modelo geocéntrico, según encuestas de 2011.

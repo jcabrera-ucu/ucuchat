@@ -1,0 +1,52 @@
+La termopotencia, o potencia termoeléctrica (también llamada coeficiente Seebeck) de un material es una medida de la magnitud de un voltaje termoeléctrico inducido en respuesta a una diferencia de temperatura a través de ese material.
+La termopotencia tiene unidades de voltios por kelvin (V/K), aunque se da más a menudo en microvoltios por kelvin (\muV/K).
+El término termopotencia es un nombre errado ya que mide el voltaje o campo eléctrico (no la potencia eléctrica) inducido a una diferencia de temperatura.
+Note que la unidad de termopotencia (V/K) es diferente de la unidad de potencia (vatios).
+El fenómeno cuantificado por la termopotencia se llama efecto Seebeck.
+El efecto Seebeck y dos fenómenos relacionados (el efecto Peltier y el efecto Thomson) se llaman en conjunto el "efecto termoeléctrico".
+Clásicamente, una diferencia de temperatura aplicada causa portadores cargados en el material, si hay electrones o huecos, para difundirse desde el lado caliente al lado frío, similar al gas clásico que se expande cuando se calienta.
+Portadores móviles cargados migran al lado frío dejando atrás su núcleo inmóvil opuestamente cargado al lado caliente dando origen así al voltaje termoeléctrico (termoeléctrico se refiere al hecho que el voltaje es creado por una diferencia de temperatura).
+Puesto que una separación de carga también crea un campo eléctrico, la acumulación de portadores cargados en el lado frío finalmente cesa en algún valor máximo ya que existe una cantidad de portadores cargados derivados movidos al lado caliente como resultado del campo eléctrico en equilibrio.
+Solo un incremento en la diferencia de temperatura puede reanudar una acumulación de más portadores de carga en el lado frío y así conllevar a un incremento en el voltaje termoeléctrico.
+Casualmente la termopotencia también mide la entropía por portador de carga en el material.
+La termopotencia de un material representada por S, depende de la temperatura y estructura cristalina del material.
+Típicamente los metales tienen termopotencias bajas porque la mayoría tiene bandas medio llenas.
+Ambos electrones (cargas negativas) y huecos (cargas positivas) contribuyen al voltaje termoeléctrico inducido así se cancelan cada uno con la contribución al voltaje de otro y hacerlo pequeño.
+En cambio, los semiconductores pueden estar dopados con una cantidad en exceso de electrones o huecos y así se puede tener grandes valores positivos o negativos de la termopotencia según la carga de los portadores en exceso.
+El signo de la termopotencia puede definir que portadores cargados domina el transporte eléctrico en ambos metales y semiconductores.
+Los superconductores tienen termopotencia cero pues los portadores cargados no producen entropía.
+Equivalentemente, la termopotencia es cero debido a que es imposible tener un voltaje ínfimo a través de un superconductor.
+(Por ejemplo, por Ley de Ohm, V=IR=0, la resistencia, R, es igual a cero en un superconductor.)
+Si la diferencia de temperatura \DeltaT entre dos extremos de un material es pequeña, entonces la termopotencia de un material es convencionalmente (aunque solo aproximadamente, ver abajo) definida como:
+donde \DeltaV es el voltaje termoeléctrico en los terminales.
+(ver abajo para mayor información de los signos de \DeltaV and \DeltaT.)
+Esto también puede escribirse en relación con el campo eléctrico E y el gradiente de temperatura \nabla T, por la ecuación:
+Estrictamente hablando, estas dos expresiones son solo aproximadas: El numerador de la primera ecuación debería ser la diferencia en (potencial electroquímico dividida por -e), no el potencial eléctrico, y también la segunda ecuación debería tener el gradiente del potencial electroquímico dividido por e en vez del campo eléctrico.
+Sin embargo, el potencial químico es a menudo constante relativamente en función de la temperatura, así que usar solo potencial eléctrico en estos casos es muy buena aproximación.
+Aquí, de nuevo, son las fórmulas para el coeficiente Seebeck, con el signo de forma explícita:
+donde "left" y "right" denotan dos extremos del material, y donde la segunda ecuación se entiende como vector multiplicación.
+Así, si S es positiva, el extremo con mayor temperatura tiene el menor voltaje, y viceversa, y el campo eléctrico apuntará en la misma dirección que el gradiente de temperatura.
+Nótese que hay un signo menos en la primera ecuación, pero no en la segunda.
+Esto es porque el campo eléctrico apunta de mayor voltaje hacia menor voltaje, mientras que el gradiente de temperatura apunta desde la menor temperatura hacia la mayor temperatura.
+Portadores de carga tienden a responder a un gradiente de temperatura moviéndose en dirección opuesta, es decir, del extremo caliente al extremo frío.
+Tienden a responder a un campo eléctrico en diferentes formas según su carga: cargas positivas tienden a moverse en la misma dirección del campo, mientras que las cargas negativas se mueven en la dirección opuesta del campo.
+Para alcanzarse el equilibrio, estas dos tendencias tienen que cancelarse.
+Así, para materiales puramente tipo p que solo tienen cargas móviles positivas (huecos), el campo eléctrico y el gradiente de temperatura deberían apuntar en la misma dirección en equilibrio, dando S>0.
+Así mismo, para materiales puramente tipo n que solo tienen cargas móviles negativas(electrones), el campo eléctrico y el gradiente de temperatura deberían apuntar en direcciones opuestas en equilibrio, dando S<0.
+En la práctica, materiales reales suelen tener ambos portadores de carga positivos y negativos, y el signo de S normalmente depende de cual de ellos predomina.
+En la práctica raramente se mide la termopotencia absoluta del material de interés.
+Debido a que los electrodos conectados al multímetro se pueden colocar en el material para de medir el voltaje termoeléctrico.
+El gradiente de temperatura también induce un voltaje termoeléctrico a través de una de las puntas de los electrodos.
+Por lo tanto la termopotencia medida es una contribución de la termopotencia del material de interés y del material de los electrodos de medida.
+Esta disposición de dos materiales se suele llamar termopar.
+La termopotencia medida es entonces una contribución de ambos y puede escribirse como:
+los Superconductores tienen termopotencia cero, como se mencionó anteriormente.
+Por usar guías superconductoras, es posible obtener una medida directa de la termopotencia absoluta del material de interés, ya que es la termopotencia de todo el termopar también.
+Una medida del Coeficiente Thomson, \mu, de un material también puede producir la termopotencia mediante la relación :
+El efecto termoeléctrico se usa a veces para generar potencia eléctrica, a partir de una fuente de un gradiente de temperatura.
+Por ejemplo, algunas naves espaciales son impulsadas de esta manera, explotando la diferencia de temperatura entre una placa calentada radiactivamente y el espacio vacío frío alrededor de la nave.
+Algunos investigadores esperan que, en el futuro, pueda hacerse un uso más amplio de la generación de la potencia termoeléctrica, incluso usando de calor residual de automóviles y plantas de energía.
+La eficiencia con la que un material termoeléctrico puede generar energía eléctrica depende de varias propiedades de los materiales, en la que quizás el más importante es el termopotencia.
+Un mayor voltaje termoeléctrico inducido para un gradiente de temperatura dado conllevará a una mayor eficiencia.
+Lo ideal es desear valores de termopotencia muy grandes ya que solo se necesita una cantidad pequeña de calor para crear un voltaje grande.
+Este voltaje se puede usar para producir potencia.

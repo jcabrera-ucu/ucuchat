@@ -1,0 +1,96 @@
+[[Archivo:PolygonsSetDifference.svg|thumb|200px|La diferencia entre los conjuntos
+A
+y
+B
+(y viceversa) es otro conjunto con todos los elementos del «minuendo», salvo los contenidos en el «sustraendo».]]
+En teoría de conjuntos, la diferencia de dos conjuntos es una operación que da como resultado otro conjunto con los elementos del primer conjunto sin los elementos del segundo conjunto.
+Por ejemplo, la diferencia entre el conjunto de los números naturales, \mathbb{N}, y el conjunto de los números pares sin incluir el cero, P, es el conjunto de los números que no son pares, es decir, los impares, I:
+Como no hay ningún elemento del conjunto
+P
+que no sea un número natural, la diferencia
+P
+menos
+N
+no tiene ningún elemento, por lo que es el conjunto vacío.
+La diferencia entre dos conjuntos
+A
+y
+B
+se denota por
+A \ B
+o
+A − B
+, por lo que:
+N \ P = I
+, y también
+P − N =
+.
+Dados dos conjuntos
+A
+y
+B
+, su diferencia es el conjunto que contiene algunos elementos de
+A
+que no están en
+B
+La diferencia entre
+A
+y
+B
+también se denomina complemento relativo de
+B
+en
+A
+, y se denota
+AB
+, cuando el segundo es un subconjunto del primero.
+Este nombre proviene de la relación entre las operaciones de diferencia y complemento (ver más abajo).
+La norma ISO da preferencia a la notación con barra invertida.
+undefined
+Ejemplo.
+y
+. Sus diferencias son
+A \ B = {&spades;, 5, R}
+y
+B \ A = {p, 9, &Delta;}
+y
+. La diferencia
+P \ P
+es entonces
+{n: n es par y no es primo} = {n: n es par y compuesto} = {4, 8, 6, ...}
+. Por otro lado,
+P \ P = {n: n es primo y no es par} = {n: n es primo e impar} = {3, 5, 7, 11, ...}
+.
+P \ N
+es el conjunto vacío.
+Además,
+P \ I
+es igual a
+P
+De la definición de la diferencia de conjuntos, puede deducirse inmediatamente.
+Estas igualdades son un caso particular de la siguiente propiedad:
+La intersección de dos conjuntos es la parte que tienen en común, mientras que la diferencia es la parte que no comparten.
+Esto se traduce en la siguiente propiedad:
+Esto quiere decir que la intersección y la diferencia entre
+A
+y
+B
+son una (posible) partición de
+A
+.
+La diferencia de conjuntos está muy relacionada con el complemento de un conjunto:
+Es por esto que la diferencia de dos conjuntos,
+A
+-
+B
+, se denomina también el complemento relativo de
+B
+respecto de
+A
+A \ B
+es el complemento absoluto de
+B
+, considerando a
+A
+como el conjunto universal.
+Las leyes de De Morgan y otras propiedades del complemento de un conjunto tienen entonces su contrapartida en la diferencia de conjuntos, si se tiene en cuenta que

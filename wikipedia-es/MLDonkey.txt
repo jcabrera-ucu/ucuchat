@@ -1,0 +1,18 @@
+MLdonkey es un programa P2P multired capaz de conectarse a varias redes simultáneamente, y descargar un solo fichero de varias redes a la vez, gracias al swarming.
+Recibió su nombre por haber sido diseñado como cliente para la red eDonkey.
+Fue el primer software que implementó el protocolo eDonkey, excluyendo el cliente oficial.
+El desarrollador original de MLDonkey es Fabrice Le Fessant del INRIA.
+Inició el desarrollo del programa a finales de 2001.
+Escrito en el lenguaje de programación Ocaml, se distribuye públicamente bajo licencia GNU.
+Versiones anteriores de la 3.0 tienen un vulnerabilidad de seguridad que permite al atacante con acceso a la interfaz web ver cualquier archivo del sistema.
+Funciona en dos partes, por un lado un núcleo trabajando de manera "invisible" y por otro lado una interfaz gráfica o GUI opcional.
+El funcionamiento del core se puede gestionar vía telnet, http o por medio de otros GUIs independientes.
+Esta función de core independiente de la interfaz además de ahorrar memoria y recursos del procesador, permite gestionar MLDonkey remotamente desde otra máquina, usar diferentes interfaces gráficos sin modificar o detener el core, o acceder simultáneamente desde los diferentes interfaces.
+Las opciones son modificables desde archivos de configuración o desde una interfaz de usuario independiente.
+MLDonkey es capaz de conectarse a varias redes usando diferentes protocolos de red.
+Adicionalmente puede descargar y unir varias partes de un mismo archivo que provengan de diferentes protocolos de red.
+Sin embargo esta función es comúnmente catalogada como experimental.
+Desde la versión 2.9.0, el soporte a las redes Gnutella y Gnutella2 ya no es compilado por defecto porque ambos plugins tienen errores y no tienen mantenimiento; sin embargo, aún es posible compilarlos modificando la opción adecuada en el archivo de configuración.
+MLDonkey puede ejecutarse en Windows, diversas distribuciones *NIX (la mayoría de los UNIX comerciales, GNU/Linux, Free/OpenBSD), Mac OS X, etc.
+MLDonkey soporta los siguientes protocolos, total o parcialmente:
+En anteriores versiones también se soportaban los siguientes protocolos, que ahora ya no se soportan por haber caído sus respectivas redes en desuso:

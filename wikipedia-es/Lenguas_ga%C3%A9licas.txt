@@ -1,0 +1,69 @@
+Las lenguas gaélicas o goidélicas son una subfamilia de las lenguas celtas que, descendiendo del protocelta, son una de las ramas de las lenguas indoeuropeas.
+En la subfamilia gaélica se incluyen el irlandés, el gaélico escocés y el manés.
+Otras lenguas célticas vivas, tales como el galés, el córnico y el bretón no son consideradas gaélicas (rama britónica).
+Los idiomas gaélicos han sido históricamente parte de un continuo lingüístico hablado desde el sur de Irlanda a través de la Isla de Man hasta el norte de Escocia.
+Se le agrega —erróneamente— el "Shelta", que es un dialecto producto de una mezcla entre el irlandés y el inglés, con una sintaxis primariamente inglesa.
+Una forma moderna de este grupo, conocida como irlandés moderno temprano o gaélico clásico, fue utilizada como lenguaje literario en Irlanda hasta el siglo XVII y en Escocia hasta el XVIII.
+Diferencias de ortografía entre estas dos formas se deben a reformas ortográficas más recientes, lo que ha dado como resultado estandarizaciones pluricéntricas complejas.
+La ortografía usada en el manés está basada en el inglés y el galés y fue introducida en 1610 por el obispo galés John Phillips.
+El árbol de las lenguas gaélicas es el siguiente:
+El subgrupo de idiomas gaélicos pertenece al grupo céltico insular.
+Otro subgrupo de esa rama son las lenguas britónicas, a las que pertenecen el galés, el córnico y el bretón.
+Ambos subgrupos son insulares, ya que se hablan principalmente en las islas británicas y comparten ciertas características, tales como el uso común de ciertas partículas verbales, el orden de la frase (Verbo, Sujeto, Objeto o Predicado), etc.
+Adicionalmente, la rama gaélica es también clasificada como celta-Q, debido a que el sonido protocelta *kw fue originalmente retenido en esta rama (a diferencia de la rama celta-P, en la que rápidamente se transformó en una [p] ) Más tarde, ese sonido también se transformó en esta rama, perdiendo su labiación y llegando a ser un simple [k].
+El celtíbero retuvo asimismo el sonido *kw, así que ese grupo puede ser considerado igualmente como parte del grupo celta-Q; sin embargo, ese lenguaje no es gaélico, dado que no es insular.
+Así pues, algunos autores consideran esta subdivisión como superficial y explicable en términos de contactos externos.
+No obstante, hay diferencias adicionales entre los dos subgrupos que hacen conveniente su retención por lo menos de manera provisional.
+Por ejemplo, en el grupo gaélico los sonidos *an, am se han transformado a una é, vocal desnasalizada y con alargamiento antes de un sonido fricativo.
+Así, por ejemplo, el irlandés antiguo éc ("muerte"), écath ("anzuelo"), dét ("diente"), cét ("cien"), comparados con el galés angau, angad, dant y cant.
+El siguiente cuadro compara algunas formas léxicas en celta-P (galo-britónico) y en celta-Q (gaélico):
+! rowspan=2|Protocelta
+! rowspan=2| GLOSA
+escocés
+! *kwennos
+! *kwetwar-
+! *kwenkwe
+! *kweis
+(ant. cia)
+Los numerales para diferentes lenguas gaélicas son:
+! GLOSA
+! Irlandés
+antiguo !!
+Irlandés !!
+Gaélico
+escocés !!
+Manés
+! PROTO-
+GAÉLICO
+in̪
+ɯːn || nane
+neːn || *oin-
+d̪o
+ɣɑː || jees
+ʤiːs || *dā
+tʲɹʲi
+t̪ʰɾiː || tree
+tʰɾiː || *trī
+cæhɪɹʲ
+ˈkʰʲehiɾʲ || kiare
+kʲeːr || *ketʰair
+(<*kʷetʰair)
+kuɟ
+kʰoːkʲ || queig
+kweg || *kʷĩkʷe
+ʃe
+ʃia̯ || shey
+ʃeː || *sē(χ)
+ʃɑxt̪
+ʃaxk || shiaght
+ʃaːx || *seχt
+ʌxt̪
+ɔxk || -oght
+ɑːx || *-oχt
+n̪ˠi
+n̪ˠɯːi || nuy
+niː/nei || *noi
+dʲɛ
+ʧeç || jeih
+ʤɛi || *deχ-
+(<*dek-)

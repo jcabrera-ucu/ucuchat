@@ -1,0 +1,97 @@
+Las cetoacil sintasas (CSs) EC 2.3 catalizan la reacción de condensación de acil-CoA o acil-acil ACP con malonil-CoA para formar 3-cetoacil-CoA o con malonil-ACP para formar 3-cetoacil-ACP.
+Esta reacción es un paso clave en el ciclo de síntesis de ácidos grasos, ya que la cadena del acilo resultante es dos átomos de carbono más largo que el anterior.
+Las CSs existen como enzimas individuales, como en la síntesis de ácidos grasos tipo II y en la síntesis de policétidos tipo II, o como dominios en enzimas multidominio, como la ácido graso sintasa tipo I y las policétido sintasas.
+Las CSs están divididas en cinco familias: KS1, KS2, KS3, KS4, y KS5.
+La ácido graso sintasa (AGS) es el sistema enzimático implicada en la síntesis de novo de ácidos grasos.
+La AGS es una multienzima iterativa que consiste de varios componentes enzimáticos, de los cuales uno es la cetoacil sintasa.
+Existen dos tipos de AGS: tipo I y tipo II.
+Las AGC de tipo I son enzimas multidominio altamente integradas.
+Contienen dominios funcionales discretos responsables de actividades catalíticas específicas de las reacción secuencial, ya sea en un único polipéptido o en dos proteínas multifunción diferentes.
+Las AGS tipo II son sistemas disociados, lo que quiere decir que los componentes de la enzima son proteínas diferentes codificados por genes separados.
+Las policétido sintasas (PCS) están estructural y funcionalmente relacionadas con las AGS, ambas son enzimas que catalizan la condensación de metabolitos primarios activados como el acetil-CoA y el malonil-CoA.
+La reacción principal que catalizan es:
+Como las AGS, las PCS se conforman de una β-cetoacil sintasa, una malonil-acil transferasa opcional y una proteína transportadora de acilos fosfopantetienilados (ACP) o coenzima A (CoA).
+Ambas contienen también una cetorreductasa, una deshidratasa y una enoíl reductasa para crear un esqueleto de acilos totalmente saturados.
+A diferencia de las AGS, las PCS emplean típicamente un gran número de bloques biosintéticos y dar lugar a un número más variado de longitudes de las cadenas.
+Las reacciones de reducción de la AGS también son opcionales para la PCS.
+Omitiendo estos pasos, hay un mayor potencial paara un patrón más complejo de funcionalización.
+Existen tres tipos principales de PCS: tipo I, tipo II y tipo III.
+Las tipo I son muy similares a las AGS tipo I, en tanto que contienen dominios catalíticos alineados y unidos covalentemente dentro de enzimas grandes multifuncionales.
+Las tipo II tienden a ser complejos más disociables, con dominios enzimáticos monofuncionales.
+Otra forma en la que las PCS se diferencian de las AGS es que existe un tercer tipo, el tipo III.
+Las PCS tipo III son multifuncionales escogiendo una unidad inicial, ensamblando la cadena y promoviendo el plegamiento.
+Casi todas los miembros de la familia CS1 se encuentran en bacterias, algunas en eucariotas y solo una en una arquea.
+Existen 12 subfamilias.
+La enzima dominante de esta familia es la 3-cetiacil-ACP sintasa III (KAS III), conocida también como 3-oxoacil-ACP sintasa III y β-cetoacil-ACP sintasa III, y se define como EC 2.3.1.180.
+La reacción característica de la β-cetoacil-ACP sintasa III es malonil-ACP + acetil-CoA → acetoacil-ACP + CO2 +CoA.
+Cisteína, histidina y asparagina forman la triada catalítica en la KAS III, que usa el mecanismo cinético de ping-pong.
+En Escherichia coli, un organismo en el que se encuentra típicamente KAS III, esta se inhibe débilmente por tiolactomicina.
+En el mismo organismo, KAS III presenta un pH óptimo de 7 y una temperatura óptima de 30-37 °C.
+Los inhibidores, pH y temperatura óptimas cambian ligeramente en cada organismo.
+Sin embargo, estos números son indicativo del ambiente idóneo para la enzima.
+Todas las enzimas de la familia CS2 se encuentran en eucariotas, casi todas en plantas.
+Las enzimas más comunes en esta familia son las 3-cetoacil-CoA sintasas, ácido graso elongasas y enzimas condensadoras de ácidos grasos de cadena muy larga.
+La caracterización más común de estas enzimas es EC 2.3.1.-; sin embargo, algunas se definen como 2.3.1.119.
+La mayoría de enzimas en la familia CS2 catalizan reacciones para producir ácidos grasos de cadena muy larga.
+La familia CS2 se divide en 10 subfamilias.
+La 3-cetoacil-CoA sintasa I en Arabidopsis thaliana está implicada en la síntesis de ácidos grasos de cadena muy larga, que tienen un papel importante en la biosíntesis de ceras.
+Las enzimas catalizan la siguiente reacción:
+Acil-CoA de cadena muy larga + malonil-CoA → 3-oxoacil-CoA de cadena muy larga + CoA + CO2
+Es una elongasa implicada en la producción de ácidos grasos de 26 carbonos y más largos.
+Mefluidida y perfluidona actúan como inhibidores selectivos de esta enzima.
+La familia CS3 es la familia más grande del sistema de CS, con 14 subfamilias.
+Las enzimas de la familia CS3 se encuentran principalmente en bacterias, unas pocas en eucariotas y arqueas.
+Las CS en esta familia contienen dominios CS presentes tanto en las AGS de tipo I como en las PCS modulares de tipo I. Aunque hay pequeñas diferencias entre las enzimas de esta familia, las dos más comunes son la 3-cetoacil-ACP sintasa I y sintasa II.
+La 3-cetoacil-ACP sintasa I (EC2.3.1.41) está implicada en el proceso de elongación en la AGS tipo II.
+La deficiencia de esta enzima produce un déficit de ácidos grasos insaturados.
+Emplea como sustratos tioésteres de ACP y CoA de ácidos grasos como sustratos y tiene una especificidad similar a la β-cetoacil-ACP sintasa II.
+Típicamente, esta enzima realiza reacciones de condensación, así como en descarboxilaciones y transferencias del grupo acilo.
+La reacción es:
+acil-[acil-proteína transportadora] + malonil-[acil-proteína transportadora] → oxoacil-[acil-proteína transportadora] + CO2 + acil-proteína transportadora
+En Escherichia coli, por ejemplo, esta enzima se usa para sintetizar cadenas de acilos mediante una reacción de condensación de Claisen en tres pasos.
+La reacción empieza con una trans tioesterificación del sustrato acilo receptor.
+El sustrato acilo donante se descarboxila, formando un carbanión intermediario, que atacará el C1 del sustrato receptor, y crean la cadena de acilos elongada.
+Existen un gran número de moléculas que inhiben a la sintasa I. Por ejemplo,en algunos casos, el acil-CoA por sí mismo inhibe la enzima a concentraciones altas en Escherichia coli.
+La cerulenina inhibe la sintasa I en Carthamus tinctorius, Spinacia oleracea, Brassica napus, Allium ampeloprasum, Streptococcus pneumoniae, Escherichia coli, Mycobacterium tuberculosis, y otras más.
+En Mycobacterium tuberculosis, el palmitoil-CoA actúa como un inhibidor, así como la tiolactomicina en un gran número de organismos.
+El pH óptimo varía mucho entre cada organismo, pero de media tiende a estar entre 5.5-8.5.
+La temperatura óptima es la misma, con 20 °C en un lado del espectro y 37 °C en el otro.
+La 3-cetoacil-ACP sintasa II forma parte de la AGS tipo II de plantas y bacterias.
+Aunque es muy similar a la β-cetoacil-ACP sintasa I, hay una pequeña diferencia entre las dos.
+Una diferencia principal es que la sintasa II es capaz de usar palmitoleoil-ACP como sustrato, mientras que la sintasa I no puede, Esto permite el control de la regulación dependiente de temperatura de la composición de ácidos grasos.
+La reacción es:
+(Z)-hexadec-11-enoil-[acil-proteína transportadora] + malonil-[acil-proteína transportadora] → (Z)-3-oxooctadec-13-enoil-[acil-proteína transportadora] + CO2 + [acil-proteína transportadora]
+En Streptococcus pneumoniae, por ejemplo, la sintasa II se usa como una enzima de condensación en la elongación.
+Contiene la triada catalítica de Cys134, His337 y His303, así como Phe396 y una molécula de agua unidos al sitio activo.
+La cisteína nucleofílica se requiere para la formación de acilo-enzima, e interviene en la actividad de condensación global.
+La His337 se usa también para la actividad de condensación, específicamente en la estabilización de la carga negatica en el carbonilo tioestérico del malonil en el estado de transición.
+La His303 se usa para acelerar el procesos de catálisis desprotonando la molécula de agua para permitir un ataque nucleofílico del malonato, liberando así bicarbonato.
+La Phe 396 actúa como un portero, controlando el orden de adición de sustratos.
+Existe un gran número de moléculas que inhiben esta enzima.
+Por ejemplo, la cerulenina inhibe a la sintasa II en Spinacia oleracea, Allium ampelprasum, Eschericha coli y Streptococcus pneumonia.
+En Eschericha coli, platensimicina, tiolactomicina e iodoacetamida actúan como inhibidores.
+El pH óptimo varía entre especies.
+En Escherichia coli, el rango es de 5.5-6.1.
+En Streptococcus pneumonia, 6.8-7, en Plasmodium falciparum 7.5 y en Spinacea oleracea, 8.1-8.5.
+La temperatura óptima también varía, pero se encuentra mayormente en el rango de 30-37 °C.
+La mayoría de las enzimas de la familia CS4 se encuentran en organismos eucariotas, y el resto en bacterias.
+Estas enzimas se clasifican normalmente como chalcona sintasa, estilbeno sintasas o PCS tipo III.
+Existen 10 subfamilias diferentes.
+Típicamente, los miembros de la familia CS4 tienen la triada catalítica Cys-His-Asn.
+Tanto las chalcona sintasas como las estilbeno sintasas catalizan los mismos pasos de transferencia de acilo, descarboxilación y condensación que la familia CS1.
+Sin embargo, también ciclan y aromatizan las reacciones hasta que se forma la chalcona final.
+La chalcona sintasa (EC 2.3.1.74), también conocida como narigenina-chalcona sintasa, es responsable de la reacción:
+3 malonil-CoA + 4-cumaril-CoA → 4 CoA + narigenina chalcona + 3 CO2
+En Medicago saticva, por ejemplo, la reacción ocurre en tres pasos: carga, descarboxilación y elongación.
+Se conocen unos cuantos inhibidores, como cerulenina en Sinapsis alba, Daucus carota y Phaseolus vulgaris, apigenina en Secale cereal y Avena sativa, y eriodictiol en Decale cereal, Daucus carota y Xanthisma gracile.
+El pH óptimo para esta enzima varía entre especies, pero se encuentra típicamente entre 6 y 8.
+Lo mismo puede decires para la temperatura óptima, en 30-45 °C.
+Los miembros de la familia CS5 están presentes en células eucariotas, principalmente animales.
+Muchas de estas enzimas se clasifican como ácido graso elongasas.
+Estas enzimas participan en la elongación de ácidos grasos de cadenai muy larga.
+La familia CS5 tiene 11 subfamilias.
+Aún se tiene poca información sobre la familia CS5.
+De momento, ninguna de estas enzimas tiene un número EC.
+Tampoco se ha resuelto ninguna triada catalítica.
+Se han encontrado residuos conservados de histidina y asparagina, estando la histidina en una región que abarca la membrana.
+Sin embargo, no se conocen todavía residuos de cisteína conservados.

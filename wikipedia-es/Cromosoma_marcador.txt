@@ -1,0 +1,23 @@
+Un cromosoma marcador se define como un cromosoma extra con una estructura anormal, que no responde al cariograma estándar.
+Se expresa como "mar+".
+El contenido del marcador varía según su procedente.
+Algunos ejemplos de cromosomas marcadores son los cromosomas anulares no identificados, derivativos y dicéntricos.
+Se encuentran cromosomas marcadores en 0,14-0,72 de cada 1000 recién nacidos, mientras que en exámenes prenatales se encuentran en un ratio de 0,65-1,5 de cada 1000.
+El riesgo de anormalidades fenotípicas asociadas al cromosoma marcador depende de factores tales como su heredabilidad, origen cromosómico, morfología, contenido (presencia o ausencia de eucromatina) y estructura de éste.
+Un cromosoma marcador puede ser heredado o aparece de novo.
+En el caso de que aparezca de novo, puede deberse a una anormalidad durante la duplicación del material genético en la meiosis y posterior reorganización cromosómica: separación de un cromosoma en su plano horizontal por el centrómero en lugar de separar las cromátidas hermanas, y posterior duplicación, translocación y posterior duplicación del material genético.
+Es por tanto en esencia, una trisomía parcial.
+Si el cromosoma marcador contiene material genético que no se transcribe, puede no tener un efecto en el fenotipo.
+De ahí que un marcador pueda ser heredado en una familia sin ninguna consecuencia fenotípica.
+Algunos marcadores pueden perderse durante la división celular si son lo suficientemente pequeños.
+Algunos individuos pueden tener varios cromosomas marcadores.
+El marcador más común proviene de una duplicación invertida del cromosoma 15, que deriva en el Síndrome de Inversión Duplicación del cromosoma 15, una enfermedad rara.
+El cromosoma extra se compone de la región centromérica junto al locus 15q11q13.
+En el proceso de gametogénesis, está región con numerosas repeticiones es muy susceptible a romperse, y en ocasiones puede duplicarse e invertirse para unirse a su secuencia hermana, dando lugar al cromosoma marcador.
+Durante la última década, las técnicas de análisis molecular han ayudado a la caracterización de estos cromosomas marcadores.
+La secuenciación del genoma humano ha hecho posible el avance en análisis estructural de los cromosomas y su secuencia, de modo que se pueden correlacionar con su fenotipo derivado.
+La técnica de diagnóstico molecular más usada para determinar la procedencia de un cromosoma marcador, es el FISH inverso.
+En un FISH inverso, el marcaje se realiza sobre el cariograma problema.
+Se aísla el cromosoma marcador del cariograma problema.
+A continuación, preparamos otra muestra de un cariograma con cromosomas sin anomalías de un varón (para tener también una muestra del cromosoma Y) y le añadimos nuestro cromosoma marcador como sonda, que hibridará con alguno de los cromosomas del donante por la complementariedad de su secuencia.
+De esta forma, podríamos determinar el origen del cromosoma marcador, que pasaría a denominarse "cromosoma derivativo".

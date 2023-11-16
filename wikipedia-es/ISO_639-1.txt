@@ -1,0 +1,13 @@
+ISO 639-1 es la primera parte del código ISO 639.
+Consiste en 184 códigos de dos letras usados para identificar los principales idiomas del mundo.
+Estos códigos son una taquigrafía internacional muy útil para indicar idiomas.
+Por ejemplo:
+La lista de códigos ISO 639-1 se convirtió en norma oficial en 2002, aunque ha existido en formato borrador desde hace años.
+El último código añadido fue <tt>ht</tt>, representando al criollo haitiano el 26 de febrero de 2003.
+El uso de la norma fue apoyado por IETF language tags, introducido por RFC 1766 en marzo de 1995, y continuado por RFC 3066 en enero de 2001 y por RFC 4646 en septiembre de 2006.
+No se añaden nuevos códigos ISO 639-1 a las lenguas que tengan código ISO 639-2 propio.
+Los sistemas que usan códigos ISO 639-1 y 639-2 con código 639-1 preferido, no tienen que cambiar sus códigos.
+Si un código ISO 639-2 que cubre un grupo de lenguas es usado, puede volverse obsoleto por un código ISO 639-1 para algunos datos.
+A continuación, la lista de lenguas ordenadas alfabéticamente siguiendo el estándar ISO 639-1
+La siguiente tabla muestra una de las tres partes de la norma ISO 639-1.
+También permite que, haciendo clic en un elemento de código, vaya a la página de la enciclopedia que detalla la información de los códigos ISO 639-1 correspondientes a cada idioma.

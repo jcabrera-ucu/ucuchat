@@ -1,0 +1,3 @@
+El miembro B de la familia de genes homólogos de Ras, también conocido como RHOB, es una proteína que en humanos está codificada por el gen RHOB.
+RHOB es un miembro de la familia de proteínas Rho de unión a GTP.
+Se ha demostrado que RHOB interactúa con CIT, ARHGEF3, ARHGDIG y RHPN2.

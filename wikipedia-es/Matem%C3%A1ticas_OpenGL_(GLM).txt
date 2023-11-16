@@ -1,0 +1,22 @@
+Matemáticas OpenGL o Opengl Maths es una librería multiplatforma ligera de sólo cabeceras con plantillas C++ (header-only) desarrollada por G-Truc Creation para realizar cálculos complejos de manera sencilla, intuitiva y centralizada.
+Trabaja con elementos como vectores, matrices, ángulos, cuaternión... y se encarga de casi todos aquellos cálculos y transformaciones sobre dichos tipos de datos.
+Principalmente, se usa en conjunto con las nuevas versiones de OpenGL para realizar los cálculos matriciales necesarios para dicha librería.
+A finales del 2004, apareció la versión 2.0 de OpenGL, en el cual el núcleo 1.x se despreció (deprecated), una de las principales características de OpenGL: la tubería de funcionalidad fija, o fixed-function pipeline.
+A partir de este punto, se empezaron a despreciar características principales de la librería, como la manipulación interna de matrices y las estructuras de datos que usaban.
+No fue hasta la estandarización y la nueva despreciación en el año 2008 cuando el núcleo de OpenGL 2.x entre disputas internas y aprovechando la desventaja de Windows Vista y Direct3D 10.0, que aparece el nuevo núcleo y estándar de programación de OpenGL, la versión 3.0, es aquí donde finalmente se deja atrás todo rastro de la 'fixed-function pipeline', siendo que antiguamente hasta la publicación de los documentos estándar de OpenGL 2.0 y posteriormente en 2006 de OpenGL 2.1, se venía pidiendo por escrito que se dejara de utilizar y mezclar el estándar de llamadas de 'fixed-functions' como glMatrixMode como mayormente destacado, entre otras.
+La característica que reemplazó a todos estos aspectos fueron los Shaders, que permitieron programar de manera cómoda de las acciones de renderizado.
+Para complementar los cálculos de las matrices principales que utilizaba OpenGL 1.x, GLM proporcionó funciones sencillas y rápidas, como el cálculo de una matriz inversa o una multiplicación de matrices entre la gran cantidad de contenido que ésta proporciona.
+GLM utiliza, principalmente, las siguientes estructuras de datos:
+GLM define vectores desde una dimensión hasta 4 dimensiones, de la siguiente manera:
+Y puede operar con vectores con acciones varias, por ejemplo:
+La librería acepta algunas funcionalidades básicas de trigonometría, por ejemplo:
+GLM permite matrices de dimensiones desde 2x2 hasta 4x4, incluyendo matrices cuadradas y no-cuadradas.
+Por ejemplo, podemos
+definir matrices de la siguiente manera:
+Y se pueden realizar operaciones incluyendo operaciones como las siguientes:
+Además, se pueden realizar transformaciones de matrices propias de OpenGL, como:
+Un cuaternión sirve para representar una orientación en el mundo sin problemas como Gimbal Lock, producido por representaciones como los Ángulos de Euler.
+Por ejemplo, se puede definir un objeto de este tipo de la siguiente tipo:
+Se puede usar GLM para muchos aspectos.
+Por ejemplo, fuera de OpenGL, puede usarse parar calcular la normal de un triángulo:
+U orientado a OpenGL, se puede usar para definir las propiedades de un emisor de luz:

@@ -1,0 +1,10 @@
+Nauru elige a nivel nacional un jefe de estado (el presidente) y una legislatura.
+El parlamento tiene 19 miembros (aumentó de 18 para las elecciones de 2013), elegidos por un período de 3 años en distritos electorales de varios asientos.
+El presidente es elegido por un período de 3 años por el parlamento.
+Sin embargo, hay frecuentes cambios de gobierno en Nauru que ocurren sin elección; más recientemente, en diciembre de 2007, el expresidente Marcus Stephen asumió el cargo luego de una moción de censura del Parlamento que anuló la anterior administración de Ludwig Scotty, reelegido apenas unas semanas antes con una mayoría aplastante.
+Los 19 escaños miembros del Parlamento de Nauru son elegidos a través del Sistema Dowdall, una modificación decimalizada del recuento Borda.
+El votante debe clasificar a todos los candidatos en orden de preferencia (ver votación preferencial).
+Cada voto se cuenta luego utilizando la fórmula 1/n, de acuerdo con el orden de clasificación.
+Por ejemplo, un candidato clasificado primero recibe un punto, el segundo candidato recibe la mitad de un punto, el tercer candidato recibe un tercio de punto, y así sucesivamente.
+Cada voto legal se agrega para determinar una puntuación decimal para cada candidato.
+Por ejemplo, en las elecciones parlamentarias de junio de 2010, el entonces presidente Marcus Stephen recuperado asiento del distrito electoral de Anetan después de recibir 349 617 decimales de votos de un total de 630 votos.

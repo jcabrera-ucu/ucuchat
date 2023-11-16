@@ -1,0 +1,6 @@
+El Interferómetro de Rayleigh se basa en hacer pasar una porción de un haz colimado a través de un medio de referencia y otra porción del haz a través de un medio de prueba, como se muestra en la figura.
+Este interferómetro puede ser utilizado también con fuentes de luz no coherentes, sin embargo en este caso se debe prescindir del objetivo de microscopio y es estrictamente necesario colocar la abertura micrométrica antes de la lente para formar un haz coherente.
+Una de las principales aplicaciones del interferómetro de Rayleigh es la medición del índice de refracción de un gas determinado mediante la interferencia de un haz de luz que atraviesa un gas de referencia con otro haz que atraviesa el gas analizado.
+Esto es útil para determinar la composición de un gas a partir de su índice de refracción, o bien, para la caracterización del mismo.
+Ventajas:
+Desventajas:

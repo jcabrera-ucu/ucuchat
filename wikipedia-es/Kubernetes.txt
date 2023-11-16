@@ -1,0 +1,80 @@
+Kubernetes (en inglés llamado habitualmente «K8s») es una plataforma de sistema distribuido de código libre para la automatización del despliegue, ajuste de escala y manejo de aplicaciones en contenedores que fue originalmente diseñado por Google y donado a la Cloud Native Computing Foundation (parte de la Linux Foundation).
+Soporta diferentes entornos para la ejecución de contenedores, incluido Docker (aunque se desaconseja usarlo desde la versión 1.20, y no se soporta desde la versión 1.24).
+Kubernetes (en griego κυβερνήτης «timonel, piloto») fue fundado por Joe Beda, Brendan Burns y Craig McLuckie, a quienes se les unieron rápidamente otros ingenieros de Google incluyendo a Brian Grant y Tim Hockin.
+Fue anunciado por Google a mediados de 2014.
+Su diseño estuvo fuertemente influido por el sistema Borg de Google y muchos de los principales contribuyentes al proyecto trabajaron antes en Borg.
+El nombre en clave original para Kubernetes dentro de Google era Project Seven («Proyecto Siete»), una referencia a un personaje de Star Trek que es un Borg más amigable.
+Los siete radios de la rueda del logotipo de Kubernetes es una referencia al nombre en clave.
+Kubernetes v1.0 fue liberada el 21 de julio de 2015.
+Junto a esta versión de Kubernetes, Google se asoció con la Linux Foundation para formar la Cloud Native Computing Foundation (CNCF) y ofreció Kubernetes como una tecnología semilla.
+Rancher Labs incluye una distribución Kubernetes en su plataforma de mejoramiento de contenedores Rancher.
+También está siendo utilizada por Red Hat para su producto OpenShift, CoreOS para su producto Tectonic, e IBM para su producto IBM Spectrum Conductor for Containers.
+Kubernetes define un conjunto de bloques de construcción (primitivas) que conjuntamente proveen los mecanismos para el despliegue, mantenimiento y escalado de aplicaciones.
+Los componentes que forman Kubernetes están diseñados para estar débilmente acoplados pero a la vez ser extensibles para que puedan soportar una gran variedad de flujos de trabajo.
+La extensibilidad es provista en gran parte por la API de Kubernetes, que es utilizada por componentes internos así como extensiones y contenedores ejecutados sobre Kubernetes.
+La unidad básica de planificación en Kubernetes se denomina cápsula (“pod” en idioma inglés).
+Esta agrega un nivel de abstracción más elevado a los componentes en contenedores.
+Un pod consta de uno o más contenedores en los que se garantiza su ubicación en el mismo equipo anfitrión y pueden compartir recursos.
+Cada pod en Kubernetes es asignado a una única dirección IP (dentro del clúster) que permite a las aplicaciones utilizar puertos sin riesgos de conflictos.
+Un pod puede definir un volumen, como puede ser un directorio de disco local o un disco de red, y exponerlo a los contenedores dentro del pod.
+Los pods pueden ser administrados manualmente a través de la API de Kubernetes, o su administración puede ser delegada a un controlador
+Kubernetes permite a los clientes (usuarios o componentes internos) vincular pares clave-valor llamados etiquetas (en inglés label) a cualquier objeto API en el sistema, como pods o nodos.
+Correspondientemente, selectores de etiquetas son consultas contra las etiquetas que resuelven a los objetos que las satisfacen.
+Las etiquetas y los selectores son el mecanismo principal de agrupamiento en Kubernetes, y son utilizados para determinar los componentes sobre los cuales aplica una operación.
+Por ejemplo, si un pod de una aplicación tiene la etiqueta para un nivel del sistema (“front-end”, “back-end”, por ejemplo) y un release_track (“canary”, “production”, por ejemplo), entonces una operación sobre todos los nodos “back-end” y “canary” podría utilizar un selector de etiquetas como el siguiente:
+nivel=back-end AND release_track=canary
+Un controlador es un bucle de reconciliación que lleva al estado real del clúster hacia el estado deseado.
+Hace esto mediante la administración de un conjunto de pods.
+Un tipo de controlador es un "Replication Controller", que se encarga de la replicación y escala mediante la ejecución de un número especificado de copias de un pod a través de un clúster.
+También se encarga de crear pods de reemplazo si un nodo subyacente falla.
+Otros controladores que forma parte del sistema central de Kubernetes incluye al "DaemonSet Controller" para la ejecución de exactamente un pod en cada máquina (o algún subconjunto de máquinas), y un "Job Controller" para ejecutar pods que ejecutan hasta su finalización, por ejemplo como parte de un trabajo batch.
+El conjunto de pods que un controlador administra está determinado por los selectores de etiquetas que forman parte de la definición del controlador.
+Un servicio Kubernetes es un conjunto de pods que trabajan en conjunto, como una capa de una aplicación multicapas.
+El conjunto de pods que constituyen un servicio está definido por el selector de etiquetas.
+Kubernetes provee de un servicio de descubrimiento y enrutamiento de pedidos mediante la asignación de una dirección IP estable y un nombre DNS al servicio, y balancea la carga de tráfico en un estilo round-robin hacia las conexiones de red de las direcciones IP entre los pods que verifican el selector (incluso cuando fallas causan que los pods se muevan de máquina en máquina).
+Por defecto un servicio es expuesto dentro de un clúster (por ejemplo, pods de un back end pueden ser agrupados en un servicio, con las peticiones de los pods de front end siendo balanceadas entre ellos), pero un servicio también puede ser expuesto hacia afuera del clúster.
+En forma práctica y general se describe a continuación la creación y administración de Cápsulas(Pods).
+undefined
+Kubernetes coordina un grupo de computadores de alta disponibilidad que están conectadas para funcionar como una sola unidad.
+Las abstracciones en Kubernetes le permiten implementar aplicaciones en contenedores en un clúster sin vincularlas específicamente a máquinas individuales.
+Para hacer uso de este nuevo modelo de implementación, las aplicaciones se deben empaquetar de una manera que las separe de los hosts individuales: deben estar en contenedores.
+Se puede crear y administrar una implementación utilizando la interfaz de línea de comandos de Kubernetes, Kubectl.
+Kubectl utiliza la API de Kubernetes para interactuar con el clúster.
+Cuando se crea una implementación, se deberá especificar la imagen del contenedor para su aplicación y el número de réplicas que se desean ejecutar.
+Se puede cambiar esa información más adelante actualizando su Implementación.
+Al crear una implementación, Kubernetes crea un Pod para alojar su instancia de aplicación.
+Un Pod es una abstracción de Kubernetes que representa un grupo de uno o más contenedores de aplicaciones (como Docker o rkt), y algunos recursos compartidos para esos contenedores.
+Los pods Kubernetes son mortales.
+Los pods de hecho tienen un ciclo de vida.
+Cuando un nodo trabajador "muere", los pods que se ejecutan en el nodo también se pierden.
+Luego, un controlador de replicación puede hacer que el clúster regrese dinámicamente al estado deseado mediante la creación de nuevos pods para mantener su aplicación en ejecución.
+Al crear un Despliegue se expone públicamente a través de un Servicio.
+La implementación creó solo un pod para ejecutar nuestra aplicación.
+Cuando el tráfico aumenta, se debe escalar (aumentar en recursos y número) la aplicación para satisfacer la demanda de los usuarios.
+El escalado se realiza cambiando el número de réplicas en una implementación.
+Los usuarios esperan que las aplicaciones estén disponibles todo el tiempo y se espera que los desarrolladores implementen nuevas versiones de ellas varias veces al día.
+En Kubernetes esto se hace con actualizaciones sucesivas.
+Las actualizaciones continuas permiten que la actualización de Implementaciones tenga lugar sin tiempo de inactividad al actualizar incrementalmente las instancias de pods con otras nuevas.
+Los nuevos Pods serán programados en Nodos con recursos disponibles.
+Kubernetes sigue una arquitectura maestro-esclavo.
+Los componentes de Kubernetes pueden ser divididos en aquellos que administran un nodo individual y aquellos que son partes de un panel de control.
+es un almacén de datos persistente, liviano, distribuido de clave-valor desarrollado por CoreOS que almacena de manera confiable los datos de configuración del clúster, representando el estado general del clúster en un punto del tiempo dado.
+Otros componentes escuchan por cambios en este almacén para avanzar al estado deseado.
+El servidor API es un componente central y sirve a la API de Kubernetes utilizando JSON sobre HTTP, que proveen la interfaz interna y externa de Kubernetes.
+El servidor API procesa y valida las peticiones REST y actualiza el estado de los objetos API en, así permitiendo a los clientes configurar flujos de trabajos y contenedores a través de los nodos esclavos.
+El planificador es el componente enchufable que selecciona sobre qué nodo deberá correr un pod sin planificar (la unidad básica de manejo del planificador) basado en la disponibilidad de recursos.
+El planificador lleva la cuenta de la utilización de recursos en cada nodo para asegurar que un flujo de trabajo no es planificado en exceso de la disponibilidad de los recursos.
+Para este propósito, el planificador debe conocer los requerimientos de recursos, la disponibilidad de recursos y una variedad de restricciones y políticas directivas como quality-of-service (QoS), requerimiento de afinidad, localización de datos entre otros.
+En esencia, el rol del planificador es el de emparejar la oferta de un recurso con la demanda de un flujo de trabajos.
+El administrador de controlador es el proceso sobre el cual el núcleo de los controladores Kubernetes como DaemonSet y Replication se ejecuta.
+Los controladores se comunican con el servidor API para crear, actualizar y eliminar recursos que ellos manejan (pods, servicios, etc.).
+El nodo, también conocido como esclavo o worker, es la máquina física (o virtual) donde los contenedores (flujos de trabajos) son desplegados.
+Cada nodo en el clúster debe ejecutar la rutina de tiempo de ejecución (como Docker), así como también los componentes mencionados más abajo, para comunicarse con el maestro para la configuración en red de estos contenedores.
+Kubelet es responsable por el estado de ejecución de cada nodo (es decir, asegurarse que todos los contenedores en el nodo se encuentran saludables).
+Se encarga del inicio, la detención y el mantenimiento de los contenedores de aplicaciones (organizados como pods) como es indicado por el panel de control.
+Kubelet monitorea el estado de un pod y, si no se encuentra en el estado deseado, el pod será desplegado nuevamente al mismo nodo.
+El estado del nodo es comunicado al maestro cada pocos segundos mediante una señal periódica ("heartbeat").
+Una vez que el nodo detecta la falla de un nodo, el Replication Controller observa este cambio de estado y lanza pods en otros nodos sanos.
+Kube-Proxy es la implementación de un proxy de red y balanceador de carga soportando la abstracción del servicio junto con otras operaciones de red.
+Es responsable del enrutamiento del tráfico hacia el contenedor correcto basado en la dirección IP y el número de puerto indicados en el pedido.
+cAdvisor es un agente que monitorea y recoge métricas de utilización de recursos y rendimiento como CPU, memoria, uso de archivos y red de los contenedores en cada nodo.

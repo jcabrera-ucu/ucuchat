@@ -1,0 +1,6 @@
+Ubuntu Budgie es una distribución oficial del proyecto Ubuntu, que utiliza el entorno de escritorio Budgie, basado en GNOME.
+Esta distribución ofrece una interfaz sencilla y fluida, que tiene un bajo consumo de recursos.
+Budgie es un escritorio creado y desarrollado por Ikey Doherty, quien fue creador de Solus, que usa las últimas tecnologías de GNOME, mantiene un aspecto clásico y agradable, es de comportamiento ágil y personalizable.
+Budgie-Remix se construye inicialmente sobre Ubuntu Mini 15.10, un Ubuntu sin entorno gráfico, luego es actualizado a las daily build en desarrollo de Ubuntu 16.04 LTS.
+La distribución incluye algunos elementos como:
+GNOME Software, el gestor de archivos Nemo, el dconf-editor (herramienta para retocar GNOME de bajo nivel), el navegador Mozilla Firefox como navegador web por defecto, Celluloid y Rhythmbox como reproductores de video y música respectivamente, además de la terminal Tilix, el dock Plank y distintos widgets para aumentar la productividad.

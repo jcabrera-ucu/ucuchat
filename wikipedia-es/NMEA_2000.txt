@@ -1,0 +1,68 @@
+NMEA 2000 abreviado como NMEA2k o N2K y normalizado como IEC 61162-3, es una norma de comunicación plug-and-play para interconectar sensores y dispositivos electrónicos para embarcaciones y barcos.
+la norma define desde el nivel físico, cableado y conectores, hasta el protocolo de comunicaciones pasando por el nivel eléctrico.
+Funciona a una velocidad de 250 kilobit por segundo y permite que cualquier sensor se comunique con cualquier display o dispositivo de la red compatible con el protocolo NMEA 2000.
+Eléctricamente NMEA 2000 es compatible con Controller Area Network ("Bus CAN") utilizado en vehículos y motores de combustión interna.
+El formato de alto nivel se basa en SAE J1939, con mensajes específicos para el entorno marino.
+Raymarine SeaTalk 2, Raymarine SeaTalkNG, Simrad Simnet y Furuno CAN son implementaciones propietarias de la norma NMEA 2000, aunque utilizan distintos conectores físicos de los normalizados en "DeviceNet Micro-C M12 5-pin" son eléctricamente compatibles y se pueden interconectar.
+El protocolo se utiliza para crear una red de dispositivos electrónicos, principalmente de instrumentación en una embarcación.
+Distintos dispositivos que cumplan el protocolo se conectan a un cable centralizado o troncal.
+A través de este cable troncal se da alimentación a los dispositivos y se intercambian los datos.
+Al ser plug-and-play se puede compartir la información entre dispositivos de distintos fabricantes.
+Ejemplos de dispositivos electrónicos que se pueden integrar en la red son receptores de GPS, pilotos automáticos, instrumentos de viento, corredera o profundidad, AIS, información de motores o niveles de depósitos.
+La interconexión de distintos dispositivos en la red permite por ejemplo que el GPS corrija el rumbo que gobierna el piloto automático.
+La norma NMEA 2000 fue definida y esta controlada por la National Marine Electronics Association (NMEA).
+Aunque NMEA divulga parte de la información de la norma posee los derechos de autor por lo que el contenido completo de la norma no esta disponible públicamente.
+Por ejemplo NMEA publica que mensajes existen y los campos que contienen, no revelan como interpretar los valores contenidos en esos campos.
+Sin embargo aficionados están lentamente haciendo progresos en la definición de estos PGN.
+Está basado en el protocolo de comunicaciones industrial Controller Area Network (también referido por el acrónimo CAN), que permite una alta fiabilidad de la señal y se encuentra diseñado para trabajar en red.
+NMEA 2000 se basa en el protocolo de alto nivel de SAE J1939 pero define sus propios mensajes.
+Dispositivos NMEA 2000 y SAE J1939 pueden coexistir en la misma red física.
+NMEA 2000 (IEC 61162-3) se puede considerar sucesor al protocolo NMEA 0183 (IEC 61162-1) bus de datos serie.
+Tiene una velocidad de transmisión significativamente más alta 250 kilobit por segundo frente a 4800 bit por segundo para MNEA 0183.
+Utiliza un formato binario compacto frente al protocolo serie ASCII usado por NMEA 0183.
+Otra mejora significativa es que NMEA 2000 es un bus y soporta múltiples emisores disciplinados y múltiples receptores mientras NMEA 0183 requiere un solo emisor, protocolo de comunicaciones serie (simplex).
+NMEA 2000 puede conectar en red hasta 50 dispositivos electrónicos diferentes.
+La red NMEA 2000 como la red SAE J1939 sobre la que se basa están organizadas en una topología en bus y requiere un terminador de 120Ω en cada extremo del troncal.
+Las resistencias quedan en paralelo por lo que un bus terminado correctamente tendrá una impedancia total de 60Ω.
+La longitud máxima de una derivación son 6 metros, la suma acumulada de todas las derivaciones no puede superar 78m.
+La longitud máxima del troncal es de 250m con cable troncal Mini o 100m utilizando cable troncal Micro.
+La única norma aprobada por NMEA para usarse con NMEA 2000 es la norma de cableado DeviceNet definida por "Open DeviceNet Vendors Association".
+estos cable pueden ser identificados como "Aprobados NMEA 2000".
+La norma DeviceNet define niveles de apantallamiento, grosores de conductores, impermeabilización y flexibilidad que no necesariamente cumplen las cables identificados como compatibles "NMEA 2000".
+Hay dos tamaños de cable definidos por la norma DeviceNet/ NMEA 2000.
+El mayor de los dos llamado cable "Mini" o "Grueso" Puede llevar hasta 8 amperios de corriente de alimentación.
+El menor llamado "Micro" o "Delgado" que utiliza los conectores de 5 pins M12 especificados en IEC 61076-2-101, puede llevar un máximo de 3 amperios.
+El cable "Mini" se utiliza principalmente como "troncal" en redes de barcos grandes, típicamente con longitudes de más de 20 metros.
+Con el cable "Micro" utilizado para hacer las derivaciones de los componentes individuales hasta el troncal.
+En redes de barcos pequeños generalmente se utiliza exclusivamente cable y conectores "Micro".
+Una red NMEA 2000 no es eléctricamente compatible con NMEA 0183 por lo que deberemos utilizar una interfaz para pasar mensajes de un tipo de red a la otra.
+También se requiere una interfaz para poder transmitir o recibir mensajes entre un PC y la red NMEA 2000.
+De acuerdo con el protocolo SAE J1939, los mensajes NMEA 2000 se envían como paquetes formados por una cabecera seguida de (usualmente) 8 Bytes de datos.
+La cabecera del mensaje especifica el dispositivo transmisor, el receptor (puede estar dirigido a todos los dispositivos), la prioridad del mensaje y el PGN (siglas de Número de Grupo de Parámetros, en inglés)El PGN indica el tipo de mensaje que se envía y por lo tanto como se deben interpretar los bytes de datos para determinar los campos de información que contiene el mensaje.
+Una definición de PGN puede contener más datos de los que puede contener una trama CAN.
+NMEA 2000 define un método de transferencia de una sola trama y dos métodos de transferencia de grupos de parámetros multi-trama.Comparación de los métodos a continuación:
+El protocolo multi-paquete especificado en ISO 11783-3 permite la transmisión de grupos de parámetros de varias tramas hasta 1,785 bytes.
+El protocolo encapsula el grupo de parámetros en un protocolo de transporte, globalmente o a una dirección especifica.
+En el caso de una dirección especifica mediante (RTS/CTS), el dispositivo receptor puede controlar el flujo de datos de acuerdo con recursos disponibles del receptor.
+El mensaje que se transmite se anuncia en la primera trama.
+En el caso (CTS/RTS) el receptor puede denegar el mensaje.
+En el caso BAM puede simplemente ignorarlo.
+El protocolo paquete rápido definido en NMEA 2000 permite enviar hasta 223 bytes de datos, con la ventaja que cada trama mantiene su identidad del grupo de parámetros y su prioridad.
+La primera trama transmitida usa 2 bytes para identificar grupos de parámetros de paquete rápido secuenciales y tramas secuenciales dentro de la transmisión de un único grupo de parámetros.
+El primer byte contiene un contador de secuencia para distinguir transmisiones consecutivas del mismo grupo de parámetros y un contador de tramas iniciado a cero.
+el segundo byte de la primera trama identifica el tamaño total de grupo de parámetros a continuación.
+tramas sucesivas solo usan un byte de datos para el contador de secuencia y el contador de trama.
+Como muchos de los parámetros de grupo de NMEA 2000 sobrepasan los 8 bytes no requieren los 1,785 bytes de capacidad del multi-paquete, el método de transmisión por de grupos de parámetros multi-trama por defecto en NMEA 2000 es usando el protocolo de paquete rápido.
+Independientemente del protocolo utilizado los grupo de parámetros multi-trama se transmiten trama a trama y pueden estar intercalados con otros grupos de parámetros de más alta prioridad, usando otro protocolo, o incluso grupos de parámetros de trama única.
+Cada dispositivo es responsable de re-ensamblar todas las tramas del grupo de parámetros transmitidas.
+Los dispositivos deben someterse a un proceso de certificación supervisado por la NMEA para poder publicitar el logotipo "Certificado NMEA 2000" una vez han superado el proceso.
+El proceso de certificación no garantiza el contenido de los datos, esta es responsabilidad de los fabricantes.
+sin embargo la certificación si asegura que productos de distintos fabricantes intercambian información de manera compatible y pueden coexistir en una misma red.
+Algunos fabricante, incluidos Simrad, Raymarine, Stowe y Mastervolt, tienen sus propias redes propietarias que son compatible o similares a NMEA 2000.
+La de Simrad se llama SimNet, la de Raymarine se llama SeaTalk NG, la de Stowe se llama Dataline 2000 y la de Mastervolt se llama CZone.
+Algunas de estas como SimNet y Seatalk NG son redes normalizadas NMEA 2000, pero usan conectores y cableados propietarios.
+Existen adaptadores para convertir a conectores normalizados NMEA 2000.
+O sencillamente el usuario puede sustituir un conector.
+El término "NMEA 2000" es una marca registrada de la NMEA.
+Los dispositivos que no están certificados no pueden legalmente utilizar la marca registrada NMEA 2000 en su publicidad.
+Normas relacionadas

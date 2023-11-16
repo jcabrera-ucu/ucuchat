@@ -1,0 +1,14 @@
+MOLCAS es un paquete de programas de química computacional, desarrollado y mantenido por el Departamento de Química Teórica de la Universidad de Lund, Suecia, y diversos colaboradores en Europa.
+Su uso precisa, más que en otros códigos del campo, cierto conocimiento de los métodos químico-cuánticos empleados, especialmente los de tipo multiconfiguracional.
+En el argot del campo se diría que no es un procedimiento caja negra.
+La motivación fundamental del programa es el estudio por métodos ab initio de gran exactitud de la estructura electrónica de sistemas moleculares, tanto en el estado fundamental como en estados excitados.
+Incluye opciones para el uso de métodos monodeterminantales como DFT, MP2, CC, CPF, CCSD (T), entre otros.
+Sin embargo, otro de los objetivos importante de MOLCAS es el tratamiento de sistemas degenerados o casi-degenerados, sistemas para los cuales es muy conveniente el uso de varios determinantes.
+De esta forma, la capacidad clave de MOLCAS es la aproximación multiconfiguracional.
+En este contexto, se emplea para cálculos CASSCF y RASSCF, y muy en particular para la aplicación del método CASPT2, teoría de perturbaciones multiconfiguracional de segundo orden.
+Es posible compilar y ejecutar MOLCAS en diversos procesadores, incluidos PC de 32 y 64 bits, G5, Altix, SGI, Sun y Alpha.
+Asimismo, también funciona en diversos sistemas operativos, generalmente de tipo UNIX o linux (por medio del emulador Cygwin es posible también utilizarlo desde Windows).
+El manual lista 31 subprogramas del paquete MOLCAS.
+Además de indicaciones para su uso y para la comprensión científica de lo que se está calculando en cada punto, se incluyen ejemplos sencillos, un tutorial y una guía de instalación.
+El desarrollo de MOLCAS tiene fines científicos y no de lucro —su precio de distribución es más asequible para los usuarios académicos que para las empresas— pero no es software libre.
+El número de citas que ha recibido en artículos científicos, indicador de su uso en el entorno académico, está entre el 1% y el 10% de las que recibe Gaussian.

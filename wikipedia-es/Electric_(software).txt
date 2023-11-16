@@ -1,0 +1,19 @@
+The Electric VLSI Design System es una herramienta de automatización de diseño electrónico, dedicada al diseño de componentes electrónicos asistidos por computadora (EDA o ECAD), escrita por Steven M. Rubin.
+Electric se usa para dibujar esquemas y disposiciones (layouts) de circuitos integrados.
+Puede manejar lenguajes (idiomas) de descripción de manejo de hardware tales como VHDL y Verilog.
+Electric ha sido open-source durante muchos años, y está disponible actualmente bajo licencia Free Software Foundation GNU.
+Electric tiene una poderosa forma de hacer esquemas de circuitos integrados (IC, por sus siglas en inglés).
+El sistema considera a los circuitos integrados como compuestos de nodos y arcos.
+Los nodos son elementos del circuito tales como transistores y contactos.
+Los arcos simplemente conectan los nodos.
+Este estilo de diseño es diferente de los típicos sistemas de diseño de IC, tales como, Magic y Cadence, que hacen el diseño de IC manipulando polígonos en diferentes capas de la oblea de silicio.
+Este potente estilo de diseño hace posible para el diseñador hacer comprobaciones de diagrama contra esquemático (LVS, Layout Versus Schematic) en disposiciones que no cumplen todavía con la comprobación de reglas de diseño (DRC, Design Rule Check).
+La mayoría de herramientas de diseño requiere que se cumplan las reglas DRC antes de realizar una comprobación LVS.
+Finalmente la comprobación LVS es excepcionalmente rápida, a menudo ejecutándose en un segundo en diseños de chip completo (como el reciente chip Marina).
+Esto ocurre porque las disposiciones de los nodos y arcos se almacenan internamente como grafos (en vez de dibujos).
+La habilidad para ejecutar LVS casi instantáneamente en diseños grandes tiene un gran impacto en la facilidad de diseñar.
+Otra ventaja adicional de almacenar los circuitos como un conjunto de nodos y arcos, es que hace posible agregar restricciones o reglas de diseño fijas a los arcos.
+Se puede configurar un arco para que siempre salga en el mismo ángulo, o para que se estire cuando el usuario mueve los nodos que están conectados por el arco.
+Configurando adecuadamente estas restricciones, el circuito se puede programar para que se mantenga correctamente conectado cuando se hacen cambios físicos.
+Electric incorpora muchas herramientas de síntesis y análisis:
+Electric soporta muy distintas tecnologías de diseño, tales como:

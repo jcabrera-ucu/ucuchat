@@ -1,0 +1,21 @@
+Un termostato programable o termostato programador es un dispositivo que sirve para mantener la temperatura de un ambiente (o de otro lugar) a distintos niveles según la hora o día de la semana.
+Consiste en un termostato y un dispositivo electrónico (actualmente, antiguamente eran mecanismos de relojería) que varía el punto de consigna de la temperatura ambiente, de modo automático y a determinadas horas, según los deseos del usuario.
+El uso de este aparato puede suponer un importante ahorro de energía.
+Las pérdidas de calor de una vivienda, sea aislada o apartamento en un edificio de vecinos, o de cualquier otro edificio habitado, dependen de la diferencia de temperaturas entre el exterior y el interior.
+La cuantía del ahorro depende del clima exterior, generalmente definido por una temperatura exterior de cálculo para calefacciones; a esta temperatura se llega solo unos pocos días en la temporada de calefacción, teniendo los demás días una temperatura exterior más alta. Puede decirse, con suficiente aproximación, que la temperatura media exterior a lo largo de la temporada de calefacción viene a ser la media aritmética entre la temperatura exterior de cálculo y la temperatura exterior a la que deja de hacer falta la calefacción (entre 18 y 20 °C).
+Por dar un ejemplo y simplificando, si la temperatura exterior de cálculo es de 0 °C, y 20 °C la temperatura a la que deja de hacer falta la calefacción, la temperatura media exterior será de 10 °C.
+Normalmente, por cada grado que se aumente la temperatura de consigna, aumentará el consumo en un 10% y, correspondientemente, por cada grado que se baje, disminuirá en la misma medida.
+Si la temperatura exterior de cálculo es más baja, la disminución del consumo también será menor.
+El termostato programable permite bajar, a ciertas horas, la temperatura del ambiente interior unos grados de forma programada automáticamente, consiguiendo un ahorro de energía durante ese tiempo.
+Esas horas son aquellas en que la casa está vacía (niños en el colegio y padres trabajando) o por la noche, que estando en la cama, bajo una buena manta, se puede tener una temperatura menor en las habitaciones.
+El termostato se dispone con dos temperaturas de consigna: una, la de las horas de casa habitada, a unos 20 °C y otra reducida, entre 4 y 6 °C menos, para las horas de sueño o casa vacía.
+En el ejemplo citado arriba, el ahorro sería de un 50% a esas horas, y aún mayor, porque precisamente las temperatura diarias mínimas, se dan durante la noche.
+Con este termostato programable, si se fija en 20 °C la temperatura de funcionamiento normal y en 15 °C la temperatura reducida, por término medio a esas horas se estará ahorrando un 50% del consumo.
+La programación puede hacerse diaria (aparatos más sencillos) o semanal.
+En el primer caso se dispone una hora de entrada a temperatura reducida un rato antes de la hora normal de ir a la cama y se dispone la vuelta a temperatura de consigna normal un rato antes del sonido del despertador, para que de tiempo al sistema a ganar la temperatura de consigna (20 °C) antes de levantarse de la cama.
+Vuelve a bajarse la temperatura un rato antes de salir todos de casa y así se mantiene hasta otro rato antes de que vuelvan los primeros a casa.
+El "rato" antes del apagado depende del tiempo que tarde la casa en perder la temperatura y el "rato" antes de volver a la de consigna, del tiempo que tarde en reponerse.
+En los fines de semana hay un botón, que hace que la temperatura se mantenga durante todo el día, hasta la hora de acostarse.
+Y mejor que esto, existe el termostato con programación semanal, el cual se programa para los siete días de la semana, con programas especiales para sábado y domingo.
+Es importante recalcar que no por subir la temperatura del termostato se calentará antes el local; la velocidd de calentamento depende de la potencia del calentador, no del termostato.
+Ni que decir tiene que este termostato puede utilizarse también en verano, con refrigeración, aunque por las noches la temperatura "aumentada" no debe ser demasiado alta.

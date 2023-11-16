@@ -1,0 +1,33 @@
+En química, un elemento sintético es un elemento químico que no aparece de forma natural en la Tierra, y solo puede ser creado artificialmente.
+Hasta el momento, se han creado 24 elementos sintéticos (los que tienen números atómicos 95-118).
+Todos son inestables, descomponiéndose con vidas medias que van desde 15,6 millones de años a unos pocos cientos de microsegundos.
+Otros cinco elementos fueron primero creados artificialmente, y por lo tanto considerados sintéticos, aunque más tarde se descubrió que aparecían de forma natural (en cantidades de trazas); entre ellos el plutonio —primero sintetizado en 1940—, el más conocido de los profanos, debido a su uso en bombas atómicas y reactores nucleares.
+El 31 de diciembre de 2015, un equipo de investigadores del centro nipón Riken confirmó la identificación del elemento número 113 de la tabla periódica, de carácter sintético y con el nombre provisional de ununtrio.
+Los elementos sintéticos son radiactivos y se desintegran rápidamente en otros elementos ligeros.
+Poseen vidas medias tan cortas en comparación con la edad de la Tierra (que se formó hace cerca de  de años), que cualquier átomo de estos elementos que pudiera haber existido cuando se formó el planeta hace mucho tiempo que se desintegró.
+Los átomos de los elementos sintéticos solo se producen en la Tierra mediante experimentos que involucran a reactores nucleares o aceleradores de partículas, vía fusión nuclear o absorción de neutrón de masa.
+La masa atómica para la vida natural se basa en la abundancia media ponderada de los isótopos naturales que se producen en la corteza y atmósfera de la Tierra.
+Para los elementos sintéticos, el isótopo depende de los medios de síntesis, por lo que el concepto de la abundancia isotópica natural no tiene sentido.
+Por lo tanto, para los elementos sintéticos el recuento total del núcleo (protones y neutrones) del isótopo más estable, es decir, el isótopo con la vida media más larga se enumeran como masa atómica entre llaves ( [ ] ).
+No todos los elementos radioactivos son sintéticos.
+Por ejemplo, el uranio y el torio no tienen isótopos estables, pero se producen de forma natural en la corteza y en la atmósfera de la Tierra.
+Otros elementos inestables, como el polonio, radio y radón —que se forman a través de la desintegración del uranio y del torio— también se encuentran en la naturaleza, a pesar de sus cortas vidas medias.
+El plutonio es un valor atípico: su vida media, dependiendo del isótopo, puede llegar a 80,8 millones de años.
+(El principal  isótopo de plutonio en uso tiene una vida media de 24.100 años.)
+El primer elemento descubierto a través de la síntesis fue el tecnecio (su descubrimiento fue confirmado definitivamente en 1936).
+Este descubrimiento llenó un vacío en la tabla periódica, y el hecho de que no existan isótopos estables de tecnecio explica su ausencia natural en la Tierra (y el vacío).
+Teniendo el isótopo de tecnecio de vida más larga, Tc-98, una vida media de 4,2 millones de años, ningún tecnecio queda desde la formación de la Tierra.
+Solo trazas minúsculas de tecnecio se producen de forma natural en la corteza terrestre, como un producto espontáneo de la fisión del uranio-238 o por captura neutrónica en menas de molibdeno —aunque el tecnecio está presente de forma natural en estrellas gigantes rojas.
+El primer elemento sintético descubierto fue el curio, sintetizado en 1944 por Glenn T. Seaborg, Ralph A. James y Albert Ghiorso mediante el bombardeo de plutonio con partículas alfa.
+Los descubrimientos del americio, berkelio y el californio siguieron pronto.
+El einstenio y fermio fueron descubiertos por un equipo de científicos dirigido por Albert Ghiorso en 1952, mientras estudiaban los restos radioactivos de la detonación de la primera bomba de hidrógeno.
+Los isótopos descubiertas fueron el einsteinio-253, con una vida media de 20,5 días, y el fermio-255, con una vida media de alrededor de 20 horas.
+Los descubrimientos del mendelevio, el nobelio y el lawrencio llegaron luego.
+Durante el apogeo de la Guerra Fría, la Unión Soviética y los Estados Unidos descubrieron independientemente el rutherfordio y el dubnio.
+Su nombramiento y el crédito del descubrimiento quedaron sin resolver durante muchos años, pero finalmente el crédito compartido fue reconocido por la IUPAC/IUPAP  en 1992.
+En 1997, la IUPAC decidió dar al dubnio su nombre actual en honor a la ciudad de Dubná —donde el equipo ruso hizo sus descubrimientos—, ya que los nombres elegidos por los estadounidenses ya habían sido utilizados para muchos elementos sintéticos existentes, mientras que el nombre de «rutherfordio» (elegido por el equipo estadounidense) fue aceptado para el elemento 104.
+Ningún elemento con un número atómico mayor de 99 tiene ningún uso fuera de la investigación científica, ya que tienen una vida media muy corta.
+Los siguientes elementos no se producen de forma natural en la Tierra.
+Todos son elementos transuránicos y tienen números atómicos de 95 y superiores.
+Todos los elementos con números atómicos desde el 1 al 94 aparecen naturalmente, al menos en cantidades traza, pero los siguientes elementos se producen generalmente a través de síntesis.
+Excepto el polonio y el francio, todos ellos fueron descubiertos a través de la síntesis antes de ser encontrados en la naturaleza.

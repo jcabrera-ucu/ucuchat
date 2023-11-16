@@ -1,0 +1,15 @@
+El término clasificación o el anglicismo ranking hacen referencia a una relación entre un conjunto de elementos de tal manera que para cualquiera de los dos elementos el primero está «clasificado más alto que», «clasificado más bajo que» o «clasificado igual a» el segundo.
+También se usan en español los términos lista, tabla clasificatoria o escalafón para referirse a esto, y se ha propuesto el uso de la adaptación «ranquin».
+En matemáticas, esto se conoce como un orden débil o preorden total de objetos.
+No es necesariamente un orden total de objetos porque dos objetos diferentes pueden tener la misma clasificación.
+Los rankings en sí están totalmente ordenados.
+Por ejemplo, los materiales están totalmente ordenados por dureza, mientras que los grados de dureza están totalmente ordenados.
+Si dos elementos son iguales en rango, se considera un empate.
+Al reducir las medidas detalladas a una secuencia de números ordinales, los rankings permiten evaluar información compleja de acuerdo con ciertos criterios.
+Así, por ejemplo, un motor de búsqueda en Internet puede clasificar las páginas que encuentra de acuerdo con una estimación de su relevancia, haciendo posible que el usuario seleccione rápidamente las páginas que es probable que desee ver.
+El análisis de los datos obtenidos por ranking comúnmente requiere estadísticas no paramétricas.
+No siempre es posible asignar posiciones de forma única.
+Por ejemplo, en una carrera o competencia, dos o más participantes podrían empatar por un lugar en la clasificación.
+Al calcular una medida ordinal, dos o más de las cantidades que se clasifican podrían medir igual.
+En estos casos, se puede adoptar una de las estrategias que se muestran a continuación para asignar las posiciones.
+Una forma abreviada común de distinguir estas estrategias de clasificación es por los números de la clasificación que se producirían para cuatro elementos, con el primer elemento clasificado por delante del segundo y el tercero (que se comparan por igual), ambos clasificados por delante del cuarto.

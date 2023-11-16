@@ -1,0 +1,10 @@
+Receptor 1 de agregación plaquetaria endotelial o Platelet Endothelial Aggregation Receptor 1 en inglés, es un receptor presente en las plaquetas que es responsable de la señalización que deriva en los contactos células-célula independientemente de la activación plaquetaria o de la agregación de estas.
+Está localizado en el cromosoma 1 de humanos en la posición rs12041331 y tiene un total de 7 transcritos, 115 ortólogos y 1 parálogo: DLK1
+Un estudio publicado en 2021 en la revista Nature Communications pone de manifiesto la indudable participación del gen PEAR1 en el desarrollo de ateroesclerosis en pacientes euroamericanos y afroamericanos.
+Los autores describieron la co-localización de loci situados en regiones no codificantes del genoma (intrones) implicados en la formación de agregados de plaquetas (ateroesclerosis) en respuesta a diferentes dosis de ADP, epinefrina y colágeno, todo ello gracias al empleo de eQTL, datos de RNA-seq obtenidos de plaquetas de 180 pacientes, estudios epigenéticos y búsqueda en bases de datos preexistentes.
+Se identificaron polimorfismos para los genes PEAR1 y RGS18.
+El primero únicamente tenía un SNP, mientras que para el segundo se observaron un gran número de variantes relacionadas con la enfermedad.
+Respecto al alelo menor de PEAR1, es conocido por provocar una disminución de la agregación plaquetaria debido a los bajos niveles de expresión del gen, y por tanto, de la proteína que codifica.
+En este estudio se encontró evidencia de su relación con un incremento en la posibilidad de desarrollar hemorragias gastrointestinales de hasta 6 veces por encima de lo normal, debido a un descenso en el fenómeno de agregación plaquetaria inducida por una menor expresión del gen.
+El Sticky platelet syndrome no está asociado a la presencia o acción de un gen especifico, si bien existen estudios que relacionan a PEAR1 con el desarrollo de la enfermedad.
+PEAR1 puede estar implicado en el fenómeno de reacción alérgica a este fármaco.

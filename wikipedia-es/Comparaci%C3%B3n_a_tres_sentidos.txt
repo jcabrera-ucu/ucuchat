@@ -1,0 +1,13 @@
+En informática, una comparación a tres sentidos toma dos valores A y B pertenecientes a un tipo con un orden total y determina si A &#x3C; B, A = B o A &#x3E; B en una única operación, de acuerdo con la ley matemática de tricotomía.
+El operador para la comparación a tres sentidos de números es tradicionalmente representado por el símbolo  (operador de nave espacial o spaceship operator) y es usado en lenguajes como Perl, Ruby, Apache Groovy, PHP y Eclipse Ceylon.
+Muchos procesadores tienen un juego de instrucciones que soporta una operación como esta en tipos primitivos.
+Algunas máquinas manejan enteros basados en una representación de signo y magnitud o de complemento a uno, los cuales permiten representan un cero positivo y negativo.
+Esto no viola la ley de tricotomía siempre y cuando se adopte un orden total consistente: tomar como válido −0 = +0 ó −0 &#x3C; +0.
+Los tipos de coma flotante, sin embargo, son una excepción a la ley de tricotomía: existe un valor especial "NaN" tal que x &#x3C; NaN, x &#x3E; NaN y x = NaN son falsos para todo x (también flotante), inclusive si x toma como valor NaN.
+En C, las funciones  y   realizan una comparación a tres sentidos entre cadenas y búferes de memoria, respectivamente.
+Estas pueden retornar un número negativo cuando el primer argumento es lexicográficamente más pequeño que el segundo, cero cuando los argumentos son iguales y un número positivo en cualquier otro caso.
+Esta convención de retornar el "signo de la diferencia" es extendida a las funciones de comparación arbitraria por la función estándar de ordenamiento, la cual toma una función de comparación como argumento.
+Desde C++20 se incluye el operador de nave espacial, el cual similarmente retorna el signo de la diferencia y también puede retornar diferentes tipos (convertibles a enteros con signo) dependiendo el rigor de la comparación.
+En Perl (únicamente para comparaciones numéricas, puesto que  se usa para comparación de cadenas), PHP (desde la versión 7), Ruby y Apache Groovy, el operador de nave espacial   retorna los valores -1, 0 o 1 dependiendo de si A < B, A = B o A > B, respectivamente.
+En Python 2.x (removido desde la versión 3), OCaml y Kotlin, las funciones,   y  , respectivamente, computan lo mismo.
+En la librería estándar de Haskell, la función de comparación a tres sentidos  es definida para todos los tipos en la clase  ; esta función retorna un objeto de tipo , cuyos valores son   (less than, menor que),   (equal, igual) y   (greater than, mayor que).

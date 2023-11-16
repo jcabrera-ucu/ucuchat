@@ -1,0 +1,24 @@
+El perfil de engranaje evolvente es el sistema actualmente más utilizado en el diseño de engranajes, junto con el engranaje cicloide todavía utilizado para algunas especialidades, como los relojes.
+En un engranaje evolvente, los perfiles de los dientes son las evolventes de una circunferencia.
+La evolvente de una circunferencia es la curva espiral trazada por el extremo de una cuerda tensa imaginaria que se desenrolla de la circunferencia estacionaria llamada circunferencia base.
+El perfil del engranaje evolvente fue un avance fundamental en el diseño de la maquinaria, ya que, a diferencia de otros sistemas de engranajes, el perfil del diente de un engranaje evolvente depende solo del número de dientes del engranaje, del ángulo de presión y del paso.
+Es decir, el perfil de un engranaje no depende del engranaje con el que se acopla.
+Por lo tanto, cualquier par de engranajes rectos evolventes con n y m dientes; y con un mismo ángulo de presión y un paso determinados se acoplarán correctamente, independientemente de n y de m. Esto reduce drásticamente la cantidad de formas de engranajes que deben fabricarse y mantenerse en inventario.
+En el diseño de estos engranajes, el contacto entre un par de dientes de engranajes acoplados se produce en un único punto instantáneo (ver la figura a la derecha) donde se encuentran las dos evolventes de la misma mano en espiral.
+El contacto en el otro lado de los dientes es donde ambas evolventes son de la otra mano en la espiral.
+La rotación de los engranajes hace que la ubicación de este punto de contacto se mueva a través de las superficies de los dientes respectivos.
+La tangente en cualquier punto de la curva es perpendicular a la línea generadora, independientemente de la distancia de montaje de los engranajes.
+Por lo tanto, la línea de la fuerza sigue la línea generadora, y es tangente a los dos círculos de base, y se conoce como la línea de acción (también llamada línea de presión o línea de contacto).
+Cuando esto es cierto, los engranajes obedecen la ley fundamental del engranaje:
+Esta propiedad es necesaria para una transmisión de potencia suave con variaciones mínimas de velocidad o par a medida que los pares de dientes entran o salen de la malla, pero no se requiere para engranajes de baja velocidad.
+Donde la línea de acción cruza la línea entre los dos centros se llama el punto de cabeceo de los engranajes, donde no hay contacto deslizante.
+La distancia realmente cubierta en la línea de acción se llama línea de contacto.
+La línea de contacto comienza en la intersección entre la línea de acción y el círculo de adición del engranaje conducido y termina en la intersección entre la línea de acción y el círculo de adición del engranaje impulsor.
+El ángulo de presión es el ángulo agudo formado entre la línea de acción y una normal a la línea que conecta los centros de los engranajes.
+El ángulo de presión del engranaje varía según la posición de la evolvente, pero los pares de engranajes deben tener el mismo ángulo de presión para que los dientes se engranen correctamente, para lo que deben coincidir porciones específicas de la evolvente.
+Si bien se pueden fabricar engranajes con cualquier ángulo de presión, los engranajes más comunes tienen un ángulo de presión de 20°, siendo mucho menos comunes los engranajes de ángulo de presión de 14½° y 25°.
+El aumento del ángulo de presión aumenta el ancho de la base del diente del engranaje, lo que lleva a una mayor resistencia y capacidad de carga.
+Disminuir el ángulo de presión proporciona menos holgura, un funcionamiento más suave y menos sensibilidad a los errores de fabricación.
+Los engranajes más comunes son rectos y con dientes rectos.
+La mayoría de los engranajes utilizados en aplicaciones de mayor resistencia son engranajes helicoidales evolventes, donde las espirales de los dientes son de diferente mano, y los engranajes giran en sentido opuesto.
+Existen pocos casos en los que se utilizan engranajes helicoidales evolventes tales que las espirales de los dientes son de la misma mano, las espirales de las dos evolventes son de 'mano' diferente y la línea de acción coincide con las tangentes externas a los círculos de la base (como en un transmisión por correa normal, mientras que los engranajes normales son como una transmisión por correa cruzada), de manera que los engranajes giran en la misma dirección, tal como se puede usar en diferenciales autoblocantes debido a sus bajas eficiencias, y en el bloqueo de diferenciales cuando las eficiencias son inferiores a cero.

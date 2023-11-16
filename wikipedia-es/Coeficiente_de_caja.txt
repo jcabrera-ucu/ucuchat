@@ -1,0 +1,42 @@
+El coeficiente de caja, también denominado coeficiente de encaje bancario, coeficiente legal de reservas, coeficiente de reservas o encaje legal, es la porción de depósitos de un banco que debe ser mantenido en reservas líquidas (en sus propias arcas o ante otras instituciones financieras), y por tanto no se puede usar para inversiones ni préstamos.
+Las autoridades monetarias de cada país establecen un coeficiente mínimo de reservas que todas las entidades financieras han de cumplir.
+En algunos casos, las entidades financieras pueden colocarse por encima del mínimo fijado legalmente.
+Los bancos no guardan el dinero depositado en ellos, ya que mantener los fondos inmovilizados en sus instalaciones es menos rentable, por ello todo banco toma gran parte del dinero depositado y lo intenta invertir, bien mediante créditos, en valores (bolsa) o en deuda (bonos).
+Un banco no puede invertir todos los depósitos que los ahorradores le entregan, ya que ello podría producir fallos de liquidez o quiebras de las instituciones.
+Para impedir estas situaciones (entre otros motivos), la normativa dictada por el banco central obliga a los bancos a mantener un porcentaje de los depósitos en su poder.
+El coeficiente de caja (c) es igual al porcentaje entre los activos del sistema bancario o reservas (ACSB) y los depósitos entregados por los ahorradores al banco (D).
+Esto quiere decir que un coeficiente de un 1 % (habitual en la eurozona hoy en día) significa que por cada 100 € que depositamos en ahorros en una entidad, esta mantiene 1 € como reservas legales (ACSB) y tiene la capacidad de invertir o conceder créditos por valor de 99 €.
+Las reservas se materializan en dos formas, en el dinero que los bancos guardan en sus cajas fuertes (reservas de caja) que es un valor adicional, y en las que están depositadas en el banco central, que suelen representar la parte más importante, puesto que los bancos adicionalmente mantienen un porcentaje mucho menor de reservas de caja.
+La finalidad de las reservas es garantizar la solvencia a corto plazo de los bancos (evitar la quiebra del sistema bancario, como los crack del 29 o el corralito de Argentina) e impedir la multiplicación de los fondos de un modo descontrolado.
+Cuanto mayor sea el coeficiente de caja más difícil es que un banco quiebre, pero también será menor la proporción de créditos concedidos por unidad de depósito y por tanto su rentabilidad y sus beneficios serán menores.
+El Banco Central Europeo fija para todos los países de la zona euro unas reservas mínimas que han de cumplir todas las entidades financieras, que se calcula multiplicando el coeficiente de reservas de cada categoría de pasivo, que es por tanto distinto en cada tipo de depósito, por el saldo de los pasivos citados.
+En Venezuela, el coeficiente de caja o encaje legal está dispuesto en el artículo n°48 y siguientes de la Ley del Banco Central de Venezuela.
+El coeficiente de caja es del 17 %.
+de esta manera un banco está obligado a guardar un 17 %, por todos los depósitos que tiene y por todas las operaciones que realice, es decir de todo su capital.
+El 01-07-2011 el encaje legal fue disminuido de 17 a 14 por ciento, medida dispuesta por el BCV con el fin de liberar fondos que serían utilizados por el Gobierno central para la Gran Misión Vivienda que en los momentos se lleva a cabo.
+De acuerdo a una Resolución del Banco Central de Venezuela del 31-03-2014, el encaje bancario fue elevado a 21.50%, por tercera vez en cinco meses (de 17 % a 19 % el 25 de octubre de 2013, de 19 % a 20,5 % el 6 de diciembre y 31 de marzo de 2014 a 21,5 %)
+El presidente del Banco Central de Venezuela (BCV), Calixto Ortega Sánchez, anunció que desde el 1 de septiembre de 2018, se llevará el encaje legal de la banca comercial al 100% de los depósitos.
+Esta medida aparece reflejada en la Resolución N° 18-08-01 del Banco Central de Venezuela (BCV).
+Según la resolución disponible en el sitio web del BCV, los bancos universales y microfinancieros, así como los comerciales “deberán mantener un encaje especial, adicional al encaje ordinario que deben constituir de conformidad con lo dispuesto en la Resolución del Directorio del Banco Central de Venezuela N° 14-03-02 del 13 de marzo de 2014, igual al cien por ciento (100%) sobre el incremento de las reservas bancarias excedentes al cierre del 31 de agosto de 2018
+Como se anunció el 15 de marzo de 2020, en Estados Unidos la Reserva Federal redujo los coeficientes de requisitos de reserva a cero por ciento a partir del 26 de marzo de 2020.
+Esta medida eliminó los requisitos de reserva para todas las instituciones de depósito.
+Históricamente, el coeficiente de caja era de 10 % para los depósitos a la vista (componente de la oferta de dinero M1) y del 0 % para los depósitos a plazo y en los demás depósitos.
+El coeficiente de caja (c) es uno de los parámetros de política monetaria que usan los bancos centrales para controlar la cantidad de dinero del mercado.
+La manipulación se puede hacer de dos formas:
+En realidad, raramente los Bancos Centrales de países desarrollados realizan modificaciones del coeficiente de caja, ya que dichas variaciones suponen cambios bruscos alejados de los intereses de los bancos centrales.
+Sí es muy relevante el modo en que el coeficiente de caja impacta en el multiplicador del dinero.
+Antes de ver un pequeño ejemplo, debemos definir otro coeficiente: el coeficiente de efectivo en manos del público (e).
+Este coeficiente es igual a:
+e = EMP / D
+Siendo EMP la cantidad de dinero moneda que poseen las personas en su poder y D el total de los depósitos bancarios entregados por los ahorradores en los bancos.
+En la economía europea es cercano al 10 %.
+Veamos un ejemplo de como se multiplica el dinero por efecto del sistema bancario.
+En este ejemplo e = 20 % y c = 10 % (para simplificar).
+Un futbolista recibe 96 € de un spot realizado en París, así que trae el dinero a España, como e = 20 %, se queda 16 € para sus gastos e ingresa 80 € en el banco (16/80 = 20 %).
+El banco inmediatamente ubica todo lo que puede en créditos, como c = 10, tiene que mantener 8 € en caja (ACSB) y presta el resto (72 €) a un periodista deportivo (por ejemplo).
+Éste, a su vez, siguiendo el mismo procedimiento, se queda 12 € y deposita en el banco 60 €.
+Se repite el ciclo de reserva y Créditos.
+Se puede observar que el dinero (EMP + D) se ha incrementado después de 4 movimientos, desde los 96 € iniciales hasta (16+80+12+60+...) = 262,5 €.
+Si continuáramos, el máximo teórico llegaría a los 384 € ( 96*(e+1)/(e+c) ).
+Si el público no se quedara con dinero metálico en mano (e=0 %); o sea, todo estuviera en depósitos (D); el máximo teórico alcanzaría los 960€ (96/c).
+Este efecto se conoce como multiplicador del dinero, y es la razón del control que realiza el Banco Central sobre el coeficiente de caja, que es un parámetro fundamental para determinar la cantidad de dinero, la inflación y el endeudamiento.

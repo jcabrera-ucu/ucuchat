@@ -1,0 +1,10 @@
+El factor activador de plaquetas (PAF) acetilhidrolasa IB subunidad alfa es una enzima que en los humanos está codificada por el gen PAFAH1B1.
+La proteína es mencionada a menudo como Lis1 y juega una función importante en regular la proteína motora Dineína.
+Se identificó que PAFAH1B1 codificaba un gen que cuándo mutaba o se perdía causaba la lisencefalia asociada con elsíndrome de Miller-Dieker.
+PAFAH1B1 codifica la subunidad alfa no catalítica de la isoforma intracelular del activador de plaquetas acetilhidrolasa, una enzima heterotrimérica que cataliza específicamente la eliminación del grupo acetilo en la posición SN - 2 del factor activador de plaquetas (identificado como 1-O-alquilo-2-acetil-sn-gliceril-3-fosforilcolina).
+Existen otras dos isoformas del factor activador de plaquetas intracelular acetilhidrolasa: una compuesta de múltiples subunidades, la otra, una sola subunidad.
+Además, una isoforma de una sola subunidad de esta enzima se encuentra en el suero.
+Según un estudio, PAFAH1B1 interacciona con el receptor VLDLR activado por reelina.
+El gen está localizado en el cromosoma 17p13.3 en la hebra de Watson (plus).
+El gen tiene 91,953 bases de longitud y codifica una proteína de 410 aminoácidos (peso molecular pronosticado 46.638 kiloDaltons).
+Se ha mostrado que PAFAH1B1 interacciona con DYNC1H1, CLIP1, NDEL1, NDE1, PAFAH1B3, PAFAH1B2, NUDC, TUBA1Un y Doblecortina.

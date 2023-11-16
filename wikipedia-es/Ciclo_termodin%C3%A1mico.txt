@@ -1,0 +1,17 @@
+Se denomina ciclo termodinámico a cualquier serie de procesos termodinámicos tales que, al transcurso de todos ellos, el sistema regresa a su estado inicial; es decir, que la variación de las magnitudes termodinámicas propias del sistema se anula.
+No obstante, a las variables como el calor o el trabajo no es aplicable lo anteriormente dicho ya que éstas no son funciones de estado del sistema, sino transferencias de energía entre este y su entorno.
+Un hecho característico de los ciclos termodinámicos es que la primera ley de la termodinámica dicta que: la suma de calor y trabajo recibidos por el sistema debe ser igual a la suma de calor y trabajo realizados por el sistema.
+Representado en un diagrama P-V (presión / volumen específico), un ciclo termodinámico adopta la forma de una curva cerrada.
+En este diagrama el volumen de un sistema es representado en abscisas y la presión en ordenadas de forma que como se tiene que el trabajo por cambio de volumen (o en general, si no se usa una rueda de paletas o procedimiento similar) es igual al área descrita entre la línea que representa el proceso y el eje de abscisas.
+El sentido de avance, indicado por las puntas de flecha, nos indica si el incremento de volumen es positivo (hacia la derecha) o negativo (hacia la izquierda) y, como consecuencia, si el trabajo es positivo o negativo, respectivamente.
+Por lo tanto, se puede concluir que el área encerrada por la curva que representa un ciclo termodinámico en este diagrama, indica el trabajo total realizado (en un ciclo completo) por el sistema, si este avanza en sentido horario o, por el contrario, el trabajo total ejercido sobre el sistema si lo hace en sentido antihorario.
+La obtención de trabajo a partir de dos fuentes térmicas a distinta temperatura se emplea para producir movimiento, por ejemplo en los motores o en los alternadores empleados en la generación de energía eléctrica.
+El rendimiento es el principal parámetro que caracteriza a un ciclo termodinámico, y se define como el trabajo obtenido dividido por el calor gastado en el proceso, en un mismo tiempo de ciclo completo si el proceso es continuo.
+Este parámetro es diferente según los múltiples tipos de ciclos termodinámicos que existen, pero está limitado por el factor o rendimiento del Ciclo de Carnot.
+Generalmente, el fluido empleado es agua, aunque se pueden emplear otras sustancias.
+Por ejemplo, el motor Ericsson emplea aire.
+Cuando la temperatura que alcanza el foco caliente no es demasiado elevada (aproximadamente menos de 300 °C), como en centrales termosolares de baja potencia o en centrales geotérmicas, el uso de fluidos orgánicos, haciendo uso del ciclo Rankine orgánico, proporciona un mayor rendimiento.
+Para centrales termosolares de gran tamaño, en cambio, se están desarrollando mezclas de dióxido de carbono supercríticas.
+Un ciclo termodinámico inverso busca lo contrario al ciclo termodinámico de obtención de trabajo.
+Se aporta trabajo externo al ciclo para conseguir que la transferencia de calor se produzca de la fuente más fría a la más caliente, al revés de como sucedería naturalmente.
+Esta disposición se emplea en las máquinas de aire acondicionado y en refrigeración.

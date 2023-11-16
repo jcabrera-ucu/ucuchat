@@ -1,0 +1,51 @@
+Subsistema Multimedia IP (IMS) o (IP Multimedia Subsystem) es un conjunto de especificaciones que describen la arquitectura de las redes de siguiente generación (Next Generation Network, NGN), para soportar telefonía y servicios multimedia a través de IP.
+Más concretamente, IMS define un marco de trabajo y arquitectura base para tráfico de voz, datos, video, servicios e imágenes conjuntamente a través de infraestructura basada en el enrutamiento de paquetes a través de direcciones IP.
+Esto permite incorporar en una red todo tipo de servicios de voz, multimedia y datos en una plataforma accesible a través de cualquier medio con conexión a Internet, ya sea fija o móvil.
+Sólo requiere que los equipos utilicen el protocolo de sesión SIP (Session Initiation Protocol) que permite la señalización de sesiones.
+Este concepto determina que cada dispositivo conectado a la red requiera sesiones multimedia, de voz y de datos, posea una dirección IP única, por lo que la cantidad de direcciones IP necesarias para tener operativa una red de estas características es mayor al actual soportado por el protocolo IPv4.
+Por lo mismo, IMS requiere la implementación previa del protocolo IPv6, que amplía la cantidad de direcciones IP disponibles para asignar.
+Las tecnologías que se utilizan en telecomunicaciones se han ido incorporando en distintos momentos a lo largo del tiempo y, por lo tanto, siendo soportadas por diversas plataformas específicas para cada una de ellas, principalmente, en concordancia con la tecnología que existía en los surgimientos de cada uno de los medios de comunicación.
+Inicialmente, las arquitecturas tecnológicas que soportaban cada una de las redes de comunicación estaban separadas y utilizaban protocolos distintos.
+La televisión usa altas frecuencias y ultra altas frecuencias, los teléfonos móviles usan GSM y los computadores personales Internet (a través del protocolo TCP/IP en la mayoría de los casos).
+Sin embargo, los equipos de acceso a estas redes incorporaban cada vez más tecnología que permitía obtener diversos contenidos multimedia.
+Los teléfonos móviles comenzaron a incorporar imágenes, música y vídeo.
+Además, existía un desafío en poder mantener las sesiones de los teléfonos móviles cuando cambiaban de red, ya sea a otra del mismo proveedor u otro diferente a través de Roaming.
+En consecuencia, el grupo 3rd Generation Partnership Project se planteó crear el IMS, el cual pretende ser una arquitectura que soporte el tráfico de voz, datos y multimedia mediante la conmutación de paquetes a direcciones IP y con independencia del medio de acceso: teléfonos móviles, fijos, computadores personales y todo dispositivo que pueda tener una dirección IP en la red.
+Sólo requiere que los equipos utilicen el protocolo de inicio de sesión SIP (Session Initation Protocol) que permite la señalización y administración de sesiones.
+IMS fue definido originalmente por un congreso llamado 3G.IP en 1999.
+3G.IP desarrolló la arquitectura original del IMS, la cual fue llevada a 3rd Generation Partnership Project (3GPP) como parte de su trabajo de estandarización de sistemas 3G para celulares en la red de Sistema Universal de Telecomunicaciones Móviles o UMTS por sus siglas en inglés.
+Su primera aparición fue en Release 5, cuando la multimedia basada en SIP fue incluida.
+Los pasos que un terminal de IMS tiene que dar para obtener funcionalidad dentro del núcleo de red son los siguientes:
+El grupo 3GPP fue el desarrollador de la tecnología 3G basadas en el estándar GSM y GPRS, y definió IMS como parte de su arquitectura de red.
+El grupo 3GPP2 en tanto, se ha encargado de desarrollar dicha tecnología, basada en estándares CDMA2000 e IS-41 y, asimismo, desarrolla el sistema IMS en sus redes en función de lo establecido por el grupo 3GPP.
+Por tanto, existen dos arquitecturas IMS similares, cada una desarrollada por uno de estos grupos.
+La arquitectura genérica del IMS soporta la comunicación entre equipos que utilizan SIP para la señalización y la administración de sesiones, además de los protocolos ‘Diameter’ y Megaco/H.248’ para operaciones y manejo de recursos multimedia, respectivamente.
+Parte fundamental de la arquitectura IMS está compuesta por los servidores de aplicación, quienes se encargan de: invocar los servicios, identificar qué señalización es requerida y de qué forma los servicios interactúan ente sí.
+La mejor forma de comprender IMS es presentarlo como una arquitectura de "Capas"
+En cualquiera de estos accesos, IMS soporta la conversión de protocolos, dentro de los cuales, lo que más nos interesa es la conmutación de circuitos, es decir, tecnologías de voz y datos que procedan de sistemas de señalización 7 (SS7) o SIGTRAN.
+Una red 3G se caracteriza por dividir el núcleo de la red en dos dominios:
+Para proveer servicios basados en el protocolo IP, el IMS debe cumplir con ciertos requisitos:
+La capa IMS se puede representar en un diagrama de la siguiente manera:
+El modelo de capas y los flujos que implementa IMS, también pueden ser representados de acuerdo a la imagen que se presenta a continuación:
+El grupo 3GPP2 definió la plataforma IP MMD, que consta de IMS y un subsistema de paquetes de datos (PDS: ‘Packet Data Subsystem’), para dar soporte a las sesiones multimedia.
+IP MMD fue diseñado para proveer servicios y conectividad IP “punta a punta” por medio de una red de núcleo PS.
+Como IMS 3GPP, 3GPP2 utiliza el protocolo SIP para la señalización y la mayoría de sus componentes tienen la misma funcionalidad.
+A pesar de sus similitudes, se requieren los cambios que se muestran en la siguiente tabla para utilizar IMS sobre 3GPP2:
+IMS define tres tipos de servidores de aplicación: Servidores SIP, OSA y CAMEL.
+Los SIP se comunican directamente con los S-CSCF a través del protocolo SIP.
+Los servidores OSA cumplen la misma función; pero requieren el uso de un servidor SCS (‘Service Capability Server’) como intermediario entre el servidor OSA y el S-CSCF para traducir mensajes SIP.
+El servidor CAMEL es un conjunto de mecanismos que permiten al operador de la red entregar servicios específicos de operador a los usuarios a través de IP-SSF, el cual traduce las solicitudes CAMEL a solicitudes SIP.
+Un AS puede contener más de una aplicación IMS.
+De esta forma, AS utiliza e interpreta los mensajes SIP enviados por el S-CSCF para enviar de vuelta una respuesta a través de este mismo servidor.
+IMS fue diseñado para dar soporte amplio y complejo a los servicios multimedia IP para un alto número de usuarios.
+A la vez, los servidores CSCF pueden ser asignados dinámicamente a los usuarios, permitiendo escalabilidad independiente del nivel de tráfico.
+Los servidores son distribuidos de tal modo que la capacidad es extensible.
+Además, el protocolo usado es SIP que, al ser basado en texto, es fácil de depurar, aunque el tamaño de los mensajes es grande.
+La arquitectura IMS, basada en capas (Acceso, Control y Servicios) y el uso de interfaces abiertos, hace que la implementación de un nuevo servicio, o capacidad, sea más fácil que en otro tipo de arquitecturas de red, reduciéndose el Time to Market.
+Por esta misma razón, este tipo de redes es más escalable y flexible, integrando soluciones, servidores o aplicaciones de terceros.
+La seguridad se divide, según 3GPP, en seguridad de acceso y seguridad en el dominio de la red:
+En relación con la seguridad de acceso, los mensajes SIP entre el P-CSCF y el terminal IMS son protegidos por dos asociaciones de seguridad IPsec después de la autentificación y la autorización en la etapa de registro.
+Para seguridad en el dominio de la red, se implementan SEGs en el borde del dominio de seguridad.
+Tanto autentificación como protección de integridad, en este intercambio, son obligatorias y se recomienda el cifrado.
+De esta forma, si el P-CSCF en una red visitada y el S-CSCF en la red local están en diferentes dominios de seguridad, se podrá mantener la seguridad de la sesión.
+Para analizar la seguridad de una infraestructura IMS, podemos hacerlo desde un acceso VoLTE por medio de un teléfono móvil, o desde una acceso de fibra óptica en domicilio o empresa (FTTH o FTTB), en ambos casos es posible, adoptando ciertas medidas, operar sobre la interfaz desde donde salen y entran los paquetes SIP o RTP y sobre el análisis de los mismos se puede estudiar con mucho detalle la seguridad de IMS.

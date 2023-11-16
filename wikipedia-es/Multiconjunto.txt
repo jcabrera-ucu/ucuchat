@@ -1,0 +1,19 @@
+En matemáticas un multiconjunto (también llamado bolsa o bag) difiere de un conjunto en que cada miembro del mismo tiene asociada una multiplicidad (un número natural), indicando cuántas veces el elemento es miembro del conjunto.
+Por ejemplo, en el multiconjunto { a, a, b, b, b, c }, las multiplicidades de los miembros a, b, y c son 2, 3, y 1, respectivamente.
+Para evitar confusión debiera escribirse: <a,a,b,b,b,c>
+Richard Dedekind ya usaba el término multiconjunto en un artículo publicado en 1888.
+En teoría de conjuntos, un multiconjunto se define como el par (A, m) donde A es un conjunto y m : A → N es una función de A a N (números naturales).
+A se conoce como el conjunto subyacente de elementos.
+Para cada a de A, la multiplicidad de a es el número m(a).
+Es común escribir la función m como un conjunto de pares ordenados {(a, m(a)) : a ∈ A}.
+Siendo esta, sin duda, la definición (utilizando teoría de conjuntos) de la función m.
+Por ejemplo:
+Si el conjunto A es finito, el tamaño o longitud del multiconjunto (A, m) es la suma de todas las multiplicidades para cada elemento de A:
+Un submulticonjunto (B, n) del multiconjunto (A, m) es un subconjunto B ⊆ A y una aplicación n : B → N tal que n(a) ≤ m(a).
+Uno de los ejemplos más simples es el multiconjunto de los factores primos de un número n.
+El conjunto subyacente de elementos, en este caso, es el conjunto de divisores primos de n.
+Por ejemplo, para el número 120 obtenemos la factorización:, que resulta el multiconjunto {2, 2, 2, 3, 5}.
+Otro ejemplo conocido es el multiconjunto de soluciones de una ecuación algebraica.
+Una ecuación cuadrática, por ejemplo, tiene dos soluciones; aunque en algunos casos, ambas pueden ser el mismo número.
+Así, el multiconjunto de soluciones de una ecuación cuadrática puede ser { 3, 5 }, pero también { 4, 4 }.
+En este último, la solución 4 tiene multiplicidad 2.

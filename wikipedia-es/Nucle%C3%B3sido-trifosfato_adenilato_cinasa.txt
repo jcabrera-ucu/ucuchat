@@ -1,0 +1,5 @@
+La nucleósido-trifosfato adenilato cinasa (número ) es una enzima que cataliza la conversión de un nucleósido trifosfato a nucleósido difosfato.
+El grupo aceptor del fosfato es el AMP que es convertido a ADP.
+Se presenta como monómero y su localización celular es la matriz mitocondrial.
+A esta enzima se la considera como perteneciente a la familia de las adenilato cinasas.
+Tiene como nombre alternativo adenilato cinasa 3 (AK3).

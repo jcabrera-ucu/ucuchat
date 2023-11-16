@@ -1,0 +1,133 @@
+El proteasoma o proteosoma es un complejo proteico grande presente en todas las células eucariotas y arqueas, así como en algunas bacterias, que se encarga de realizar la degradación de proteínas (denominada proteólisis) no necesarias o dañadas.
+En las células eucariotas los proteosomas suelen encontrarse en el citoplasma.
+Los proteosomas representan un importante mecanismo por el cual las células controlan la concentración de determinadas proteínas mediante la degradación de las mismas.
+Las proteínas al ser degradadas son marcadas por una pequeña proteína llamada ubicuitina.
+Una vez que una de estas moléculas de ubicuitina se ha unido a una proteína a eliminar, por medio de la enzima ubicuitina ligasa, se empiezan a agregar más proteínas de ubicuitina dando como resultado la formación de una cadena poliubicuitínica que le permite al proteasoma identificar y degradar la proteína.
+Estructuralmente un proteasoma es un complejo con forma de barril que contiene un "núcleo" compuesto de cuatro anillos apilados alrededor de un poro central.
+Cada uno de estos anillos está compuesto por siete proteínas individuales.
+Los dos anillos internos contienen subunidades proteicas β, conformando los sitios activos de las proteasas.
+Estos sitios se encuentran en las caras internas de los anillos, de manera que la proteína a ser degradada tenga que entrar a través del poro antes de ser procesada.
+Los dos anillos exteriores contienen subunidades α, cuya función es mantener una "puerta" por la cual las proteínas puedan entrar al barril.
+Las subunidades α son controladas por regiones reguladoras, a veces llamadas "pestañas", que reconocen los compuestos poliubicuitínicos en los sustratos de las proteínas e inician el proceso de degradación.
+El proceso de ubicuitinación más el proceso de degradación proteosómica recibe el nombre de sistema ubicuitino-proteosómico.
+La degradación proteosómica es un mecanismo esencial en varios procesos celulares, incluyendo el ciclo celular, la regulación de la expresión génica y las respuestas al estrés oxidativo.
+La importancia de la degradación proteica dentro de las células y el rol de la ubicuitina en dicho proceso fue reconocido con el Premio Nobel de Química en 2004, otorgado a Aarón Ciechanover, Avram Hershko y Irwin Rose.
+Antes del descubrimiento del sistema ubicuitino proteosómico, se pensaba que la degradación de proteínas se llevaba a cabo principalmente en los lisosomas, orgánulos cuyo interior es ácido y rico en proteasas que pueden degradar y reciclar proteínas exógenas y otros orgánulos dañados.
+Sin embargo, un trabajo de Alfred Goldberg en 1977 donde se estudiaba la degradación de una proteína dependiente de ATP en reticulocitos, los cuales carecen de lisosomas, sugería la existencia de un segundo sistema intracelular de degradación.
+En 1978 se demostró que este sistema contaba con varias cadenas distintas de proteínas, algo totalmente novedoso en cuanto a proteasas se refiere.
+Posteriores trabajos en la modificación de histonas llevaron a la inesperada identificación de una modificación covalente presenta en las histonas, que consistía en un enlace ramificado de un residuo de lisina de la histona con el residuo de glicina del extremo C-terminal de la ubicuitina, de función desconocida.
+Fue entonces cuando se descubrió que la proteína ya identificada como factor proteico dependiente de ATP 1 (FPA 1), involucrada en la degradación proteica, era la ubicuitina.
+Más tarde se descubrió el complejo proteolítico dependiente de ATP que era responsable de la degradación de proteínas dependiente de ubicuitina, siendo denominado proteasoma 26S.
+La mayor parte del trabajo que llevó al descubrimiento del sistema ubicuitino proteosómico tuvo lugar al final de los años 70 y principios de los 80, en el Instituto Tecnológico de Israel, concretamente en el laboratorio de Avram Hershko, donde Aarón Ciechanover trabajaba como estudiante graduado.
+Hershko pasó un año sabático en el laboratorio de Irwin Rose, en el Fox Chase Cancer Center de Filadelfia, Estados Unidos, concibiendo las ideas principales de la teoría.
+El papel de Rose en el descubrimiento también fue decisivo.
+Los tres científicos compartieron el Premio Nobel de Química en 2004 por el descubrimiento de este sistema.
+Aunque la microscopía electrónica revelaba los anillos apilados del proteosoma a mediados de los años 80, la primera estructura del núcleo proteosómico no fue resuelta hasta 1994 por medio de la cristalografía de rayos X.
+Y no fue hasta 2006 que se resolvió la primera estructura del núcleo formando un complejo con las zonas reguladoras.
+Las subunidades de los proteosomas son normalmente referidas según su coeficiente de sedimentación svedberg (S).
+La forma más común de proteosoma denominada 26S, que tiene alrededor de 2.000 kilodalton (kDa) de masa molecular, presenta un núcleo 20S y dos subunidades reguladores 19S.
+El núcleo, que es hueco, presenta una cavidad cerrada donde las proteínas son degradadas.
+Las aberturas en los extremos del núcleo sirven de entrada a las proteínas.
+Las subunidades reguladoras 19S situadas en los extremos del barril presentan múltiples sitios con actividad ATPasa y sitios de unión a ubicuitina, conformando así la estructura que se encarga tanto de reconocer a las proteínas poliubicuitinadas, como de transferirlas al núcleo catalítico.
+También existe una subunidad reguladora 11S alternativa, que básicamente actúa de la misma manera que las subunidades 19S.
+Se supone que las subunidades 11S juegan un papel fundamental en la degradación de péptidos exógenos producidos después de haber sufrido una infección viral.
+El número y la diversidad de las subunidades de los núcleos de 20S dependen del organismo.
+Las subunidades especializadas son mayores en número en los organismos multicelulares que en los unicelulares, y son mayores en las células eucariotas que en las procariotas.
+Todas los núcleos de 20S consisten de 4 anillos heptagonales apilados, compuestos por dos tipos distintos de subunidades; subunidades α, de naturaleza estructural y subunidades β, generalmente de naturaleza catalítica.
+Los dos anillos exteriores están compuestos de subunidades α, que sirven de anclaje a las partículas reguladoras y sirven de puerta evitando la entrada arbitraria de proteínas a la cavidad interior.
+Los dos anillos internos, compuestos de subunidades β, albergan los sitios activos de las proteasas que realizan las reacciones catalíticas.
+El tamaño de los protesomas es relativamente conservado y suele ser de 150 ángstrom (Å) a 115Å.
+La cámara interior es como mucho de 53Å de ancho, aunque la entrada puede ser de casi 13Å, dando a suponer que los substratos proteínicos deben ser desdoblados para poder entrar.
+Los organismos Archaea tienen todas las subunidades proteosómicas α y β idénticas, mientras que los proteosomas eucariontes tienen 7 tipos distintos de subunidades.
+En los mamíferos, las subunidades β1, β2 y β5 son catalíticas, y aunque presentan un mecanismo común, presentan 3 tipos distintos de sustratos específicos, uno sobre la base de quimotripsina, otro con base en tripsina y el otro con base en PHGH.
+Otras formas de subunidades β existen en β1i, β2i, y β5i, pudiendo expresarse en células hematopoyéticas, en respuesta a exposición de señales proinflamatorias, como las citocinas, en especial, el interferón gama.
+Los proteosomas que presentan estas subunidades especiales son conocidos como inmunoproteosomas.
+En los eucariotas, las partículas reguladoras de 19S, o pestañas, consisten de 19 proteínas individuales pudiendo dividirse estas en dos grupos; una "base" de 10 proteínas, que se une directamente al anillo α exterior del núcleo de 20S y una "tapa" de 9 proteínas donde se une el complejo poliubicuitínico.
+De las 10 proteínas de la base, 6 presentan sitios activos de ATPasa.
+La asociación entre el núcleo de 20S y las partículas reguladoras de 19S entre sí, requiere de la unión de ATP a los sitios activos de unión de ATP en las partículas de 19S.
+La hidrólisis de ATP es necesaria para que el complejo entero pueda degradar una proteína doblada y ubicuitinizada.
+Aun así, no está claro si la energía resultante de la hidrólisis es utilizada para el desdoblamiento del sustrato, o para permitir la entrada hacia el núcleo o ambos.
+Hasta el 2006 todavía no se ha resuelto la estructura de los proteosomas de 26S, pero se supone que tanto las partículas reguladoras de 19S y como las de 11S se unen de manera similar al anillo α del núcleo de 20S.
+Algunos componentes individuales de las partículas de 19S, también tienen su participación en otros sistemas reguladores.
+Por ejemplo, Gankyrin es una recién descubierta proteína oncogénica, que forma parte de la partícula reguladora de 19S, que une a la ciclina dependiente de kinasa CDK4, y también juega un rol importante en el reconocimiento de la proteína P53 ubicuitinizada, gracias a su afinidad a la ligasa de ubicuitina MDM2.
+Esta proteína es antiapoptótica y se ha demostrado su exceso en algunas células tumorales como las del carcinoma hepatocelular.
+Los núcleos de 20S también se pueden asociar a un segundo tipo de partículas reguladoras, denominadas de 11S, con forma de estructura heptagonal que no contienen sitios activos de ATPasa, siendo capaces de promover solo la degradación de pequeños péptidos y no de proteínas enteras.
+Se supone que esta incapacidad esta derivada de la imposibilidad de desdoblar sustratos mayores.
+La estructura recién mencionada es conocida con el nombre de PA28 o REG.
+Los mecanismos por los cuales se une al núcleo central a través de las terminales-C de sus subunidades proteicas, que inducen cambios en la conformación de los anillos α para abrir las partículas de 20S, parecerían ser similares a los de las partículas de 19S.
+La expresión de las partículas de 11S es inducida por el interferón gama y es responsable, junto con las subunidades β del inmunoproteosoma, de la generación de péptidos que se unen al complejo mayor de histocompatibilidad.
+El armado del proteosoma es un proceso complejo debido a la cantidad de subunidades que se deben unir para formar el complejo activo.
+Las subunidades β son sintetizadas con una terminal-N "pro-peptídica" que es modificada post-traduccionalmente durante el armado de las partículas de 20S para no exponer el sitio activo.
+Las partículas de 20S son armadas con dos mitades, cada una de ellas consiste en 7 partes pro β adheridas a un anillo de 7 partes α.
+La asociación de los anillos β de las 2 mitades proteosómicas dispara la autólisis dependiente de treonina de los propétidos para exponer el sitio activo.
+estas interacciones entre partículas β son mediadas por uniones iónicas e hidrofóbicas donde se conservan las hélices alfa, que de ser corrompidas por mutaciones dañarían la capacidad de armado del proteosoma.
+La unión de las dos mitades, se inicia con la formación de las subunidades α en forma de anillo heptagonal, formando el marco para la asociación de los correspondientes anillos β.
+Poco se sabe de la formación de los anillos α.
+En general, es poco lo que se sabe del armado y la maduración de las partículas reguladoras de 19S.
+Se cree que son armadas en dos distintos subcomponentes, la base contenedora de ATPasas y la tapa identificadora de proteínas ubicuitinizadas.
+Las 6 ATPasas en la base deben armarse en pares mediante interacciones coiled coil.
+El orden en que los 19 componentes de la partícula reguladora son ensamblados, probablemente sea un mecanismo que evita la exposición de los sitios activos hasta que el armado sea completo.
+La proteosoma de 20S es tanto ubicua como esencial en los eucariontes.
+Algunos procariontes, incluyendo algunas bacterias del orden actinomycetales tienen homólogos del proteosomas de 20S, mientras que la mayoría de las bacterias posee los genes hsIV y hsIU, cuyos productos genéticos son una proteasa ¡'¡' conformada por ¡'¡' anillos y ATPasa.
+la proteína del hsIV es considerada como el ancestro del proteosoma de 20S.
+El hsIV, por lo general, no es esencial en las bacterias y no todas las bacterias lo poseen.
+Algunos protistas poseen tanto el sistema del proteosoma de 20 S y el hsIV.
+Análisis de secuencia¡'¡' sugieren que las subunidades catalíticas β divergieron evolutivamente antes que las subunidades de predominancia estructural α.
+En bacterias con proteosomas de 20S, las subunidades β tienen mayor coincidencia secuencial con respecto a subunidades β de archaeas y eucariontes, mientras que las subunidades α la coincidencia es menor.
+La presencia de proteosomas de 20S en bacterias se podría adjudicar a transferencias horizontales genéticas¡'¡' mientras que la diversificación entre las subunidades eucariotas se adscriben a eventos múltiples de duplicación génica¡'¡'.
+La progresión del ciclo celular es controlada por la acción ordenada de kinasas dependientes de ciclinas (CDK) activadas por ciclinas específicas que demarcan las fases del ciclo celular.
+Las ciclinas mitóticas que persisten en la célula por unos pocos minutos, tienen uno de los tiempos de vida más cortos de todas las proteínas intracelulares.
+Una vez que el complejo de CDK + ciclina ha realizado su función, la ciclina asociada es poliubicuitinizada y degradada por el proteosoma, dándole continuidad al ciclo celular.
+Particularmente, la salida de la mitosis requiere la disociación dependiente de proteosomas del componente regulador ciclina B del complejo factor de promoción de mitosis.
+En células de vertebrados ¡'¡'.
+checkpoints tempranos como el ¡'¡' entra la fase G1 y la fase S similimarmente involucran la degradación proteosómica de la ciclina A, cuya ubicuitinización es promovida por el complejo promotor de anafase (APC), un E3 ligasa de ubicuitina.
+El APC y el ¡'¡' complejo proteínico (complejo SCF) son 2 reguladores ¡'¡' de la degradación ciclina y el checkpoints.
+El SCF es regulado por el APC mediante la ubicuitinización del componente ¡'¡', que previene la actividad SCF antes de la transición de la fase G1 a la fase S.
+En las plantas, la utilización de auxinas o fitohormonas, que ordenan la dirección y el tropismo del crecimiento, induce el marcado para la degradación proteosómica una clase de factor de transcripción represivo conocido como proteínas Aux/IAA.
+Estas proteínas son ubicuitinizadas mediante SCFTIR1 o SCF en complejo con el receptor de auxinas TIR1.
+La degradación de las proteínas Aux/IAA libera los factores de transcripción en el auxin response factor (ARF) family¡'¡' e induce la expresión de genes relacionados con el ARF.
+Las consecuencias a nivel celular de la activación del ARF depende del tipo de planta y de la etapa de desarrollo de la misma, pero en general dirigen el crecimiento de raíces y venas de hojas ¡'¡'.
+La especifidad de la respuesta de la liberación del ARF se piensa que es mediada por la especificidad de la respuesta en el apareamiento de proteínas individuales de ARF y Aux/IAA.
+Tanto señales internas como externas pueden inducir la apoptosis, o muerte celular programada.
+La consecuente deconstrucción de los componentes celulares es llevada a cabo principalmente por proteasas específicas llamadas caspasas, pero el proteosoma también juega diversos e importantes roles en los procesos apoptóticos.
+Durante la apoptosis, se ha observado a los proteosomas cercanos al núcleo trasladando al exterior a los blebs¡'¡' de la membranas, características de la apoptósis.
+La inhibición proteosómica tiene diferentes efectos en la inducción apoptótica de diferentes tipos celulares.
+El proteosoma, generalmente, no es requerido para la apoptosis, aunque su inhibición es proapoptótica en la mayoría de los tipos celulares que han sido estudiados.
+Sin embargo, algunas especies celulares- en especial tejidos primarios de células en fase estacionaria y diferenciadas como los linfocitos T y las neuronas, no inducen la apoptosis ante la exposición a inhibidores proteosómicos.
+El mecanismo de este efecto no está del todo claro, pero se supone que es específico en células en estados estacionarios o del resultado de una actividad distinta de la quinasa proapoptótica JNK.
+La habilidad de los inhibidores proteosómicos de inducir la apoptosis en células de rápida división ha sido explotada últimamente en el desarrollo de agentes quimioterapéuticos.
+En respuesta a situaciones de estrés celular, como pueden ser infecciones, cambios bruscos de temperaturas o daño oxidativo, se expresan proteínas de choque térmico, que identifican proteínas mal o no dobladas y las marca para la degradación proteosómica.
+Tanto Hsp27 como Hsp90 -proteínas chaperonas son implicadas en el incremento de la actividad del sistema ubicuitino proteosómico, aunque no sean participantes directos del proceso.
+Por el otro lado la proteína Hsp70 ¡'¡' en la superficie de las proteínas mal dobladas y utiliza ligasas de ubicuitina E3 como CHIP para marcar proteínas para la degradación proteosómica.
+La proteína CHIP (término carboxilo de la proteína interactuante con Hsp70) es regulada mediante la inhibición de las interacciones entre la enzima E3 CHIP y su compañero de ¡'¡' E2.
+Mecanismos similares existen para promover la degradación de proteínas altamente dañadas por oxidación¡'¡' mediante el sistema proteosómico.
+En particular, los proteosomas localizados cerca del núcleo son regulados por PARP y activados suelen degradar histonas oxidificadas¡'¡' inapropiadas.
+Las proteínas oxidificadas ¡'¡' suelen formar gigantes agregados amorfos en la célula, pueden ser degradados directamente por el núcleo de 20S sin la regulación de la partícula de 19S y no requieren hidrolización de ATP o ubicuitinización, como sea, altos niveles de daño oxidativo, incrementan el grado de cruzamiento ¡'¡' entre fragmentos de proteínas, ¡'¡' resistentes a la proteólisis.
+Gran cantidad y tamaño de esos agregados altamente oxidificados están relacionados con el envejecimiento.
+La deteriorada actividad proteosómica ha sido sugerida como una explicación para algunas de las enfermedades neurodegenerativas de avanzada edad que comparten la presencia característica de proteínas mal dobladas, como la Enfermedad de Parkinson o el Mal de Alzheimer.
+En estas enfermedades, grandes agregados insolubles de proteínas mal dobladas pueden formarse y causar neurotoxicidad, a través de mecanismos que todavía no son bien entendidos.
+El descenso de la actividad proteosómica ha sido sugerido como una de las causas de la agregación y formación de cuerpos de lewi en la Enfermedad de Parkinson.
+Esta hipótesis es avalada por la observación que modelos de levaduras de Parkinson son más susceptibles a la toxicidad de α-sinuclein, la principal proteína componente de los cuerpos de lewy, bajo condiciones de baja actividad proteosómica.
+Los proteosomas juegan un rol secundario pero a la vez crítico en el funcionamiento del sistema inmune adaptativo.
+Los péptidos antígenicos son presentados por las proteínas del sistema mayor de histocompatibilidad clase I (MHC I) en la superficie de todas las células nucleadas del organismo.
+Estos péptidos son productos de la degradación proteaosómica de proteínas originadas por el patógeno invasor.
+Aunque los proteosomas comunes pueden participar de este proceso, un complejo especializado compuesto de proteínas, cuya expresión está inducida por el interferón gamma y el factor de necrosis tumoral alfa, se encarga de producir péptidos con la composición y tamaños óptimos para la unión del MHC I. De entre las proteínas que aumentan su expresión ante la respuesta inmunológica, se encuentran la partícula reguladora de 11S, cuya principal función biológica conocida es la regulación de la producción de ligandos de MHC y las subunidades β especializadas llamadas β1i, β2i y β5i con afindades de sustrato específicas.
+El complejo formado con las subunidades β especializadas es llamado inmunoproteosoma.
+La fuerza de la unión MHC clase I y su ligando depende de la composición del extremo C-Terminal del ligando, los péptidos se unen mediante uniones puente de hidrógeno y mediante el contacto cercano con la región llamada "B pocket" de la superficie del MHC I. Varios alelos de MHC clase I presentan mayor afinidad por los residuos C-terminales hidrofóbicos de los péptidos; el inmunoproteosoma tiende a generar péptidos con extremos C-terminales hidrofóbicos.
+Debido a su rol en la generación de la forma activada de NF-kB, un regulador antiapoptótico y pro-inflamatorio de la expresión de citoquinas, la actividad proteaosómica ha sido relacionada con las enfermedades autoinmunes e inflamatorias.
+Niveles altos de actividad proteosómica están correlacionados con la presencia de enfermedades y han sido implicados en enfermedades autoinmunes como el lupus eritematoso y la artritis reumatoide.
+Los inhibidores proteosómicos tienen una efectiva actividad antitumoral en cultivos celulares, induciendo la apoptosis por la disrupción de la degradación reguladora de proteínas claves para ciclo celular.
+Este acercamiento a la selección inducida de la apoptosis en células tumorales ha probado efectividad en modelos animales y pruebas en humanos.
+Bortezomib, una moléluca desarrollada por millenium pharmaceuticals y conocida comercialmente como velcade, es el primer inhibidor proteosómico en alcanzar el uso clínico como agente quimioterapéutico.
+Bortezomib es usado en el tratamiento del mieloma múltiple.
+El mieloma múltiple ha sido observado incrementando el nivel de proteosomas en el plasma sanguíneo, que disminuye al realizarse una quimioterapia efectiva.
+Estudios en animales indicaría que bortezomib podría tener un efecto clínico significativo en el tratamiento de cáncer pancreático.
+Estudios preclínicos y clínicos tempranos han empezado a investigar la efectividad del uso de bortezomib en otros cánceres relacionados con células B, en especial algunos tipos de linfomas no hodgkinianos.
+La molécula ritonavir, llamada comercialmente Norvir, fue desarrollada como un inhibidor proteásico para atacar la infección del VIH.
+Sin embargo, se ha demostrado que inhibe proteosomas así como proteasas libres; específicamente, la actividad proteosómica de la quimotripsina, mientras la actividad de la tripsina de alguna forma se ve aumentada.
+Estudios en animales sugieren que el ritonavir quizá tenga efectos inhibitorios en el crecimiento de las células de gliomas¡'¡'.
+Los inhibidores proteosómicos también han mostrado promesas en el tratamiento de enfermedades autoinmunes en estudios en animales.
+Por ejemplo, estudios en ratones con trasplantes de piel humana, descubrieron una reducción en el tamaño de las lesiones de psoriasis, después del tratamiento con un inhibidor proteosómico.
+Los inhibidores proteosómicos también han mostrado efectos positivos en roedores con asma.
+El marcado y la inhibición del proteosoma es de interés en el laboratorio, tanto para estudios in vivo o in vitro de la actividad proteosómica celular, el más común inhibidor proteosómico usado en laboratorio es la Lactacystin, un producto natural sintetizado por la bacteria Streptomyces.
+Inhibidores fluorescentes también han sido desarrollados para poder marcar específicamente los sitios activos del proteosoma armado.

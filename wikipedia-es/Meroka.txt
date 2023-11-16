@@ -1,0 +1,14 @@
+El MeRoKa (ME hr RO hr KA none, cañón multitubo) es un sistema CIWS (acrónimo en inglés de "Close-in Weapon System", traducible como "Sistema de armamento de proximidad"), o propiamente, un sistema artillero antimisil/antiaéreo de proximidad desarrollado por FABA Sistemas.
+Se trata de una sofisticada arma defensiva de origen español (FABA Navantia), empleada en navíos de combate modernos para defenderse de misiles antibuque cuando están a menos de dos kilómetros de su blanco o aviones en proximidad, en el momento en el que el contacto es inminente y otros recursos defensivos van fallando.
+Se diseñó también una versión terrestre, aunque no llegó a entrar en producción.
+Este sistema de la Armada española consiste en una batería de 12 cañones automáticos Oerlikon 20/120 de 20 mm, montados en 2 hileras superpuestas de a 6 cañones cada una.
+El objetivo primario del sistema es la defensa contra misiles antibuque y otras armas de guiado preciso.
+También puede ser usado como arma antiaérea contra aviones y helicópteros, buques, objetivos costeros y minas marinas.
+Se monta en los buques de la Armada española: portaaviones Príncipe de Asturias (R-11), las fragatas de la Clase Santa María y en su día las fragatas Clase Baleares.
+A diferencia de los cañones automáticos rotativos del sistema Gatling, el Meroka dispara sus cañones fijos de forma individual en secuencia de salvas simultáneas de fuego de barrera, que amplían el área de impacto.
+La batería se monta en una torreta y es conducida por radar con sistema de detección y control óptico, optrónico y térmico.
+La versión original del Meroka estaba dirigida por diferentes radares.
+Luego se cambió al radar Lockheed Electronics VPS-2 Sharpshooter.
+Este radar fue diseñado para adquirir objetivos a 5000 metros, permitiendo al Meroka hacer un primer disparo a 1800 metros y la destrucción del objetivo a 500 metros.
+Versiones posteriores incluyen un sistema de puntería optrónico para uso en caso de interferencias electrónicas.
+Las últimas modificaciones incluyen un sensor de infrarrojos de alta tecnología desarrollado en Israel y otros avanzados dispositivos electrónicos de fabricación española suministrados por Indra.

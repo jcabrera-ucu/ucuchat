@@ -1,0 +1,2 @@
+SOAP with Attachments (SwA) o MIME for Web Services se refiere al método de usar Servicios Web para enviar y recibir ficheros usando una combinación de SOAP y MIME, principalmente sobre HTTP.
+SwA no es una nueva especificación, sino un mecanismo para usar facilidades SOAP y MIME para perfeccionar la transmisión de ficheros usando invocaciones a Servicios Web.

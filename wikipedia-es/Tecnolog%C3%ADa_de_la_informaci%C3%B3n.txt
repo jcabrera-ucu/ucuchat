@@ -1,0 +1,106 @@
+La tecnología de la información (TI) es la aplicación de ordenadores y equipos de telecomunicación para almacenar, recuperar, transmitir y manipular datos, con frecuencia utilizado en el contexto de los negocios u otras empresas.
+El término se utiliza como sinónimo para los computadores y las redes de computadoras, pero también abarca otras tecnologías de distribución de información, tales como la televisión y los teléfonos.
+Múltiples industrias están asociadas con las tecnologías de la información: hardware y software de computadoras, electrónica, semiconductores, internet, equipos de telecomunicación, el comercio electrónico y los servicios computacionales.
+Frecuentemente, los términos TI y TIC suelen usarse indistintamente: mientras que TI se refiere a tecnologías de la información, TIC implica, además, las destinadas a la comunicación.
+De esta forma, TI es un término más amplio, que engloba las TIC.
+"Las TI abarcan el dominio completo de la información, que incluye al hardware, al software, a los periféricos y a las redes. Un elemento cae dentro de la categoría de las TI cuando se usa con el propósito de almacenar, proteger, recuperar y procesar datos electrónicamente".
+Los seres humanos han estado almacenando, recuperando, manipulando y comunicando información desde que los sumerios en Mesopotamia desarrollaron la escritura, cerca del año 3000 a. C., pero el término tecnología de la información, en su significado moderno, hizo su aparición en 1958, en un artículo publicado en la revista Harvard Business Review.
+Sus autores, Harold J. Leavitt y Thomas L. Whisler, comentaron que “la nueva tecnología no tiene aún un nombre establecido.
+Deberíamos llamarla tecnología de la información (TI)”.
+Su definición consistía en tres categorías: técnicas de procesamiento, la aplicación de métodos estadísticos y matemáticos para la toma de decisión y la simulación del pensamiento de orden superior a través de programas computacionales.
+Basándose en la tecnología de almacenamiento y procesamiento empleada, es posible distinguir cuatro eras del desarrollo de la TI: pre-mecánica (3000 a. C.-1450 d. C.), mecánica (1450-1840), electromecánica (1840-1940) y electrónica (1940 al presente).
+La informática puede definirse como la ciencia que se encarga del estudio de la obtención de información por medios automáticos.
+Para entender mejor esta definición, hace falta conocer lo que se entiende por información, datos y medios automáticos.
+Los datos son el conjunto de elementos que, a través de indicaciones, deben darse a una máquina para que los procese y ofrezca un resultado.
+La información es el conjunto de datos y los resultados que entrega la máquina.
+Un medio automático es una máquina que es capaz, por ella sola, de elaborar o procesar una cierta información sobre la base de unos ciertos datos de entrada que nos condicionarán los resultados del procesamiento de esta.
+Han sido utilizados dispositivos para asistir a la computación durante miles de años, iniciando probablemente con el palo tallado.
+El mecanismo de Anticitera, que data cerca del comienzo del primer siglo a. C., es considerado generalmente como la computadora análoga más antigua descubierta, y el más antiguo mecanismo de engranaje.
+Dispositivos de engranaje comparables no surgieron en Europa hasta el, y no fue hasta 1645 cuando se inventó la primera calculadora mecánica capaz de realizar las cuatro operaciones aritméticas básicas.
+Las computadoras electrónicas, usando tanto relés como válvulas, comenzaron a aparecer a comienzos de la década de 1940.
+La electromecánica Zuse Z3, terminada en 1941, fue la primera computadora programable del mundo, y, según los estándares modernos, una de las primeras máquinas que podrían ser consideradas de cómputo completa.
+Colossus, desarrollada durante la Segunda Guerra Mundial para desencriptar mensajes alemanes, fue la primera computadora electrónica digital.
+Aunque era programable, no era de uso general, habiendo sido diseñada para realizar una única tarea.
+Carecía además de la capacidad de almacenar su programa en una memoria; su programación se realizaba usando enchufes e interruptores para alterar su cableado interno.
+La primera computadora de programas almacenados electrónica digital reconocible fue la Máquina Experimental de Pequeña Escala de Mánchester (SSEM por su nombre en inglés: Manchester Small-Scale Experimental Machine), que ejecutó su primer programa el 21 de junio de 1948.
+El desarrollo de los transistores a finales de la década de 1940 en los Laboratorios Bell permitió una nueva generación de computadoras diseñadas con un consumo de energía reducido considerablemente.
+La primera computadora de programa almacenado disponible comercialmente, la Ferranti Mark I, contenía 4050 válvulas y tenía un consumo energético de 25 kilowatts.
+En comparación, la primera computadora transistorizada, desarrollada en la Universidad de Mánchester y operacional en noviembre de 1953, consumía solo 150 watts en su versión final.
+La tecnología de la información comenzó a desarrollarse con fuerza en la década de 1960, junto con la aparición y el desarrollo de los primeros sistemas de información.
+IBM lanzó el primer disco duro en 1956, como componente del sistema informático 305 RAMAC.
+En la actualidad, la mayoría de los datos digitales se almacenan magnéticamente en discos duros u ópticamente en soportes como el CD-ROM.
+Antes de 2002, la mayor parte de la información se almacenaba en dispositivos analógicos, pero ese año la capacidad digital superó a la de los dispositivos analógicos por primera vez.
+En 2007, casi el 94% de los datos almacenados en todo el mundo se almacenan digitalmente: El 52% en discos duros, el 28% en dispositivos ópticos y el 11% en cinta magnética digital.
+Se calcula que la capacidad mundial de almacenamiento de los dispositivos electrónicos ha pasado de menos de 3 exabytes en 1986 a 295 exabytes en 2007, duplicándose aproximadamente cada 3 años.
+Una entrada es el proceso por el cual un ordenador recibe datos.
+Ya que estos son digitales, cualquier entrada recibida debe ser digitalizada.
+Para poder enviar datos a un ordenador se requiere de hardware, los periféricos de entrada.
+Estos son algunos de los más habituales:
+En un algoritmo, los datos de entrada son aquellos que la computadora va a procesar.
+Los datos de salida son obtenidos a partir del procesamiento de los datos de entrada.
+Se recurre a las tecnologías de la información, basadas y utilizando racionalmente los logros modernos en el campo de la tecnología informática y otras tecnologías avanzadas, las últimas herramientas de comunicación, software y experiencia práctica, para resolver problemas sobre la organización efectiva del proceso de información para reducir el costo del tiempo, mano de obra, energía y recursos materiales en todos los ámbitos de la vida humana y la sociedad moderna.
+Las tecnologías de la información interactúan y, a menudo, forman parte de los servicios, la gestión, la producción industrial y los procesos sociales.
+Las primeras computadoras electrónicas, como la Colossus, hacían uso de cintas perforadas, una larga tira de papel en donde los datos son representados por una serie de agujeros, una tecnología ahora obsoleta.
+El almacenamiento electrónico de datos usado por las computadoras modernas data de la Segunda Guerra Mundial, cuando una forma de memoria de línea de retardo fue desarrollada para eliminar el desorden de las señales de radar; la primera aplicación práctica de esto fue la línea de retardo de mercurio.
+El primer dispositivo de almacenamiento digital de acceso aleatorio fue el Tubo Williams, basado en un tubo de rayos catódicos estándar, pero la información almacenada en ella y en la memoria de línea de retardo era volátil, por lo que debía ser continuamente refrescada, y por lo tanto se perdía una vez que se desconectaba de la energía.
+La primera forma de almacenamiento computacional no volátil fue la memoria de tambor, inventada en 1932 y usada en la Ferranti Mark I, la primera computadora de uso general disponible comercialmente.
+IBM introdujo el primer disco duro en 1956, como un componente de su sistema computacional 305 RAMAC.
+La mayoría de los datos digitales al día de hoy son almacenados magnéticamente en discos duros, u ópticamente en medios como los CD-ROMs.
+Hasta 2002, la mayoría de la información era almacenada en dispositivos analógicos, pero ese año la capacidad de almacenamiento digital superó al analógico por primera vez.
+En 2007 cerca del 94 % de los datos almacenados mundialmente eran digitales: 52 % en discos duros, 28 % en medios ópticos y 11 % en cintas magnéticas digitales.
+Se ha estimado que la capacidad mundial de almacenamiento de información en dispositivos electrónicos creció de menos de 3 exabytes en 1986 a 295 exabytes en 2007, doblándose aproximadamente cada tres años.
+Los sistemas de administración de bases de datos surgieron en la década de 1960 para abordar el problema de almacenar y recuperar grandes cantidades de datos de manera precisa y rápida.
+Uno de los primeros sistemas fue el Information Management System de IBM, el cual sigue siendo ampliamente implementado más de 40 años después.
+El IMS almacena datos jerárquicamente, pero en la década de 1970, Ted Codd propuso como alternativa los modelos de almacenamiento relacionales basándose en la teoría de conjuntos y en la lógica de predicados y en conceptos familiares como lo son las tablas, filas y columnas.
+El primer sistema de gestión de bases de datos relacionales (RDBMS del inglés: Relational Database Management System) comercial disponible fue el de Oracle en 1980.
+Todos los sistemas de administración de bases de datos consisten en un número de componentes que juntos permiten que los datos que ellos almacenan sean accedidos simultáneamente por varios usuarios mientras mantienen su integridad.
+Una característica de todas las bases de datos es que la estructura de los datos que contienen es definido y almacenado de manera separada de los datos mismos, en el llamado esquema de la base de datos.
+El lenguaje de marcas extensible o XML, siglas en inglés de eXtensible Markup Language, se ha vuelto un formato para la representación de datos popular en los últimos años.
+Aunque los datos XML pueden ser almacenados en sistemas de archivos normales, son comúnmente usados en bases de datos relacionales para aprovechar su “aplicación robusta verificada durante años por esfuerzos tanto teóricos como prácticos”.
+Como una evolución del Estándar de Lenguaje de Marcado Generalizado o SGML, las estructuras basadas en texto XML ofrecen la ventaja de poder ser leídas por máquinas como por humanos.
+Una Base de conocimiento (o knowledgebase en inglés; KB, kb oro Δ) es un tipo especial de base de datos para la gestión del conocimiento.
+Provee los medios para la recolección, organización y recuperación computarizada de conocimiento.
+Las bases de conocimiento se han clasificado en dos grandes tipos:
+Lo más importante aspecto de una base de conocimiento es la calidad de la información que ésta contiene.
+Las mejores bases de conocimiento tienen artículos cuidadosamente redactados que se mantienen al día, un excelente sistema de recuperación de información (motor de búsqueda), y un delicado formato de contenido y estructura de clasificación.
+Una base de conocimiento puede usar una ontología para especificar la estructura (tipo de entidades y relaciones) y su esquema de clasificación.
+Una ontología, junto con un grupo de instancias de sus clases constituyen una base de conocimiento.
+El modelo relacional introdujo un lenguaje de programación independiente llamado Structured Query Language, basado en el álgebra relacional.
+El término “dato” e “información” no son sinónimos.
+Cualquier cosa almacenada es un dato, pero solo se transforma en información cuando es organizada y presentada de forma significativa.
+La mayoría de los datos digitales a nivel mundial están desestructurados y almacenados en una variedad de diferentes formatos físicos, incluyó aquellos pertenecientes a una misma organización.
+Los almacenes de datos comenzaron a ser desarrollados en la década de 1980 para integrar estos diversos depósitos de datos.
+Por lo general contienen datos extraídos de variadas fuentes, incluidas fuentes externas como Internet, y organizadas de tal manera que sirva a los Sistemas de Soporte a Decisiones (DSS por sus siglas en inglés Decision Support System).
+La transmisión de datos contempla tres etapas: transmisión, propagación y recepción.
+Puede ser ampliamente categorizada como broadcasting, en donde la información es transmitida unidireccional y descendentemente, o como telecomunicación, con canales bidireccionales tanto ascendentes como descendentes.
+XML ha sido empleado cada vez más como medio de intercambio de información desde comienzos de la década de 2000, particularmente para interacciones orientadas a la máquina como aquellas involucradas en protocolos web como SOAP, describiendo “datos en tránsito en vez de datos en reposo”.
+Uno de los retos de su uso es convertir datos de una base de datos relacional en estructuras como la Document Object Model o DOM.
+Hilbert y López identificaron un ritmo exponencial de cambio tecnológico (una especie de Ley de Moore): la capacidad per cápita de las máquinas de uso específico para procesar información se duplicó aproximadamente cada 14 meses entre 1986 y 2007; la capacidad per cápita de las computadoras de uso general se duplicó cada 18 meses durante las mismas dos décadas; la capacidad mundial de telecomunicaciones per cápita se duplicó cada 34 meses; la capacidad de almacenaje global per cápita necesitó aproximadamente 40 meses para duplicarse (cada tres años); y la información difundida per cápita se duplicó cada 12,3 años.
+Enormes cantidades de datos son almacenados cada día a nivel mundial, pero a menos que pueda ser analizada y presentada de manera efectiva se cataloga en lo que se han llamado tumbas de datos: “archivos de datos que rara vez son visitados”.
+Para abarcar ese problema, el campo de la minería de datos (“el proceso de descubrir patrones interesantes y conocimiento desde grandes cantidades de datos”) emergió a finales de la década de 1980.
+El concepto de sistema de apoyo a las decisiones (DSS por sus siglas en inglés Decision support system ) es muy amplio, porque hay muchos enfoques para la toma de decisiones y debido a la extensa gama de ámbitos en los que se toman.
+Estos sistemas de apoyo son del tipo OLAP o de minería de datos, que proporcionan información y apoyo para tomar una decisión.
+Un DSS puede adoptar muchas formas diferentes.
+En general, podemos decir que un DSS es un sistema informático utilizado para servir de apoyo, más que automatizar, el proceso de toma de decisiones.
+La decisión es una elección entre alternativas basadas en estimaciones de los valores de estas alternativas.
+El apoyo a una decisión significa ayudar a las personas que trabajan solas o en grupo a reunir inteligencia, generar alternativas y tomar decisiones.
+Apoyar el proceso de toma de decisión implica el apoyo a la estimación, la evaluación y / o la comparación de alternativas.
+En la práctica, las referencias a DSS suelen ser referencias a aplicaciones informáticas que realizan una función de apoyo.
+En un contexto académico, la Association for Computing Machinery define TI como “programa de licenciatura que prepara a los estudiantes para conocer las necesidades de tecnología de computación de negocios, gobiernos, centros médicos y otros tipos de organización.
+Los especialistas de TI asumen la responsabilidad de seleccionar los productos de hardware y software apropiados para una organización, integrando estos productos con las necesidades de éstas y la infraestructura e instalaciones, personalizando y manteniendo aquellas aplicaciones para los usuarios de computadoras de la organización”.
+En un contexto de negocios, la Information Technology Association of America ha definido TI como “el estudio, diseño, desarrollo, aplicación, implementación, soporte o mantenimiento de sistemas computacionales de información”.
+Las responsabilidades de este trabajo en el área incluyen administración de redes, desarrollo de software e instalación, y la planificación y administración del ciclo de vida de las tecnologías de una organización, en donde el hardware y software son mantenidos, actualizados y reemplazados.
+Las empresas del campo de la tecnología de la información a menudo se discuten como grupo como el "sector tecnológico" o la "industria tecnológica".
+Estos títulos pueden ser engañosos en ocasiones y no deben confundirse con “empresas de tecnología”; que son generalmente corporaciones con fines de lucro a gran escala que venden software y tecnología de consumo.
+También vale la pena señalar que, desde una perspectiva comercial, los departamentos de tecnología de la información son un "centro de costos" la mayor parte del tiempo.
+Un centro de costos es un departamento o personal que incurre en gastos, o "costos", dentro de una empresa en lugar de generar ganancias o flujos de ingresos.
+Las empresas modernas dependen en gran medida de la tecnología para sus operaciones diarias, por lo que los gastos delegados para cubrir la tecnología que facilita los negocios de una manera más eficiente generalmente se consideran “solo el costo de hacer negocios”.
+Los departamentos de TI reciben fondos por parte de la alta dirección y deben intentar lograr los entregables deseados sin salirse de ese presupuesto.
+El gobierno y el sector privado pueden tener diferentes mecanismos de financiación, pero los principios son más o menos los mismos.
+Esta es una razón que a menudo se pasa por alto para el rápido interés en la automatización y la inteligencia artificial, pero la presión constante para hacer más con menos está abriendo la puerta para que la automatización tome el control de al menos algunas operaciones menores en las grandes empresas.
+Muchas empresas ahora tienen departamentos de TI para administrar las computadoras, las redes y otras áreas técnicas de sus negocios.
+Las empresas también han buscado integrar la TI con los resultados comerciales y la toma de decisiones a través de un departamento de operaciones comerciales o BizOps.
+El valor de negocio de las tecnologías de información recae en la automatización de procesos de negocio, provisión de información para la toma de decisiones, conectando los negocios con sus clientes y la provisión de herramientas de productividad para incrementar la eficiencia.
+El campo de la ética de la información fue establecida por el matemático Norbert Wiener en la década de 1940.
+Algunos de los problemas éticos asociados con el uso de las tecnologías de la información incluyen:
+Gilbert y López señalan el crecimiento exponencial del progreso tecnológico (una especie de ley de Moore ) como una duplicación de la densidad de potencia per cápita de todas las máquinas de procesamiento de información cada 14 meses entre 1986 y 2007; el potencial mundial de telecomunicaciones per cápita se duplica cada 34 meses; la cantidad de información ingresada en el mundo per cápita se duplica cada 40 meses (es decir, cada tres años), y la transmisión de información per cápita tiende a duplicarse aproximadamente cada 12,3 años.

@@ -1,0 +1,10 @@
+El problema del camino más corto de Euclides es un problema en geometría computacional: dado un conjunto de obstáculos poliédricos en un espacio Euclídeo, y dos puntos, encontrar el camino más corto entre los puntos que no se interseque con ninguno de los obstáculos.
+En dos dimensiones, el problema puede resolverse en tiempo polinómico en un modelo de computación que permita sumar y comparar números reales, a pesar de las dificultades teóricas que implica la precisión numérica necesaria para realizar dichos cálculos.
+Estos algoritmos se basan en dos principios diferentes, ya sea realizando un algoritmo que dé el camino más corto como el algoritmo de Dijkstra en un grafo de visibilidad derivado de los obstáculos o propagando un frente de onda desde uno de los puntos hasta que se encuentra con el otro.
+En tres dimensiones (y mayores) el problema es NP-Hard en el caso general, pero existen algoritmos de aproximación eficientes que se ejecutan en tiempo polinomial basados en la idea de encontrar una muestra adecuada de puntos en los bordes de los obstáculos y realizar un cálculo gráfico de visibilidad utilizando estos puntos de muestra.
+Hay muchos resultados en el cálculo de las trayectorias más cortas que permanecen en una superficie poliédrica.
+Dados dos puntos s y t, digamos en la superficie de un poliedro convexo, el problema es calcular el camino más corto que nunca salga de la superficie y conecte s con t.
+Esta es una generalización del problema de 2 dimensiones pero es mucho más fácil que el problema de 3 dimensiones.
+Además, hay variaciones de este problema, donde los obstáculos son pesados, es decir, uno puede pasar a través de un obstáculo, pero esto tiene un costo extra para pasar a través ese obstáculo.
+El problema estándar es el caso especial en el que los obstáculos tienen un peso infinito.
+Esto se denomina el problema de la región pesada.

@@ -1,0 +1,29 @@
+La matriz energética, mezcla energética o mix energético es la combinación de fuentes de energía primaria que se utiliza en una zona geográfica.
+La matriz energética no solo incluye las fuentes empleadas, sino también el porcentaje de cada fuente.
+La zona estudiada puede ser un país, un continente o todo el mundo.
+En algunos casos (carbón, petróleo) es posible utilizar directamente la energía primaria.
+En otros es necesario transformarla en energía secundaria, normalmente en electricidad, lo que supondrá inevitablemente una pérdida de energía en forma de calor.
+La matriz energética que un país elija lo expondrá a mayores o menores coste, vulnerabilidad a subidas en los precios internacionales, posibilidad de accidentes, dependencia exterior, déficit comercial, contribución al calentamiento mundial, efectos de la sequía, apagones y otras eventualidades.
+Por ello se debe planificar cuidadosamente.
+No es estático, sino que evoluciona con el tiempo, debido a la variación del coste de las diferentes tecnologías de generación, consideraciones políticas o medioambientales.
+La transformación de la matriz energética, abandonando las energías fósiles y sustituyéndolas por renovables, es fundamental para la descarbonización de la economía (transición energética) en la que el mundo se halla embarcado para luchar contra el cambio climático.
+La energía nuclear, que no emite dióxido de carbono ni gases de efecto invernadero, no es, sin embargo, una alternativa, debido a su coste superior a las renovables (incluso sin tener en cuenta el coste de las pólizas de seguro para los posibles daños de un accidente, los costes incrementados de seguridad tras la catástrofe de Fukushima ni el coste de gestión de los residuos).
+Un concepto semejante es el de Oferta Total de Energía Primaria (OTEP), usada por ejemplo por la CEPAL.
+El análisis de la matriz energética es fundamental para orientar la planificación del sector energético con el fin de garantizar la producción, la seguridad energética y el uso adecuado de la energía disponible.
+De acuerdo con la revisión estadística de la energía mundial BP 2017 (BP Statistical Review of World Energy 2017) en 2016 el consumo mundial de energía primaria ascendió a 13 276 millones de toneladas equivalentes de petróleo (TEP).
+De ellas 4 418 fueron de petróleo (33,3 %), 3 204 de gas natural (24,1 %), 3 732 de carbón (28,1 %), 592 de nucleares (4,5 %), 910 de centrales hidroeléctricas (6,9 %), y 420 de otras renovables (3,2 %).
+Según la Agencia Internacional de la Energía, el 75,9 % de la energía consumida en la Unión Europea durante 2007 provino de combustibles fósiles, el 14,1 % de centrales nucleares, el 7 % de biocombustibles y el 2,9 % de energías renovables.
+Ese mismo año la UE se marcó el objetivo de, para 2020, aumentar la participación de las renovables en la matriz energética hasta el 20 %.
+El consumo de energía primaria en EE.
+UU.
+en 2015 se basó principalmente en el petróleo (3,7 × 1016 kJ), el gas natural (3,1 × 1016 kJ) y el carbón (1,7 × 1016 kJ).
+Las renovables contribuyeron con 0,95 × 1016 kJ y la nuclear, con 0,84 × 1016 kJ.
+En el mismo año, se generaron en los EE.
+UU.
+aproximadamente 4 millones de GWh de electricidad, de los que el 67 %  provino de combustibles fósiles (carbón, gas natural y menos del 1 % del petróleo), 20 % de nuclear, 6 % de energía hidráulica y 7 % de otras renovables.
+California se marcó en 2017 el objetivo de que para 2045 su matriz energética sea totalmente renovable.
+En España durante 2016 se consumieron 123,5 millones de TEP, de las que 10,4 fueron de carbón (8,5 %), 54,6 de petróleo (44,2 %), 25,0 de gas natural (20,3 %), 15,3 de energía nuclear (12,4 %) y 17,2 de energías renovables (13,9 %).
+En 2018 se cifran los costes de cada tipo de generación en 43 euros (€)/MWh para la energía nuclear, 55 €/MWh para las centrales de gas natural de ciclo combinado y menos de 30 €/MWh para las energías renovables.
+En 2018, la matriz energética desde renovables fue de 40% y se fijó el objetivo de que para 2050 la matriz energética de España sea renovable al 100 %.
+Aunque el aumento del consumo de energía en el mundo debido al crecimiento poblacional no puede ser inmediatamente contrarrestado, sí puede mejorarse parcialmente la sostenibilidad dando mayor participación en la matriz energética a las energías renovables.
+Las fuerzas principales en este proceso son las políticas energéticas nacionales e internacionales, y la industria de la energía junto con sus cabilderos.

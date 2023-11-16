@@ -1,0 +1,18 @@
+Julia Guiomar Niso Galán, (Barcelona, 1985), es una ingeniera y científica española cuya investigación está centrada en el estudio de la dinámica cerebral.
+Ingeniera de telecomunicación y doctora en ingeniería biomédica, sus contribuciones se enmarcan en el campo de la electrofisiología y la neuroimagen para el estudio del cerebro humano impulsando diferentes iniciativas de ciencia abierta.
+Se licenció en Ingeniería de Telecomunicación por la ETSIT de la Universidad Politécnica de Madrid en 2008 y obtuvo el doctorado en Ingeniería Biomédica en el Centro de Tecnología Biomédica de la misma universidad en 2013.
+Ha realizado estancias predoctorales en el Instituto Max Planck para la investigación del cerebro y en el Instituto de Neurociencias de Holanda.
+De 2013 a 2016 realizó su investigación postdoctoral en el Instituto Neurológico de Montreal.
+En 2017, recibió financiación internacional del Fondo de Investigación de AXA para estudiar marcadores tempranos de la enfermedad de Alzheimer a partir de alteraciones en la actividad electromagnética del cerebro.
+De 2020 a 2023 trabajó para la Universidad de Indiana.
+Actualmente trabaja en el Instituto Cajal del CSIC.
+Su liderazgo ha sido reconocido por varios galardones como el Premio Ada Byron a la Mujer Tecnóloga Joven o su reciente nombramiento como Académica de Número de la Academia Joven de España.
+Lidera numerosos proyectos de investigación e iniciativas internacionales de ciencia abierta, incluyendo software abierto, repositorios de datos abiertos y estándares abiertos para organizar, procesar y compartir datos de neuroimagen.
+Lideró el desarrollo de HERMES, una herramienta de software abierto dedicada al estudio de la conectividad funcional cerebral a partir de datos neurofisiológicos .Contribuye en el desarrollo de Brainstorm, una aplicación colaborativa dedicada al preprocesado, análisis y visualización de señales cerebrales: MEG, EEG, fNIRS, ECoG, electrodos de profundidad y neurofisiología invasiva animal.
+Y es parte del equipo principal de Brainlife, una plataforma en la nube para el análisis seguro y reproducible de datos de neurociencia.
+Además, ha sido responsable de la creación de OMEGA (The Open MEG Archive), la primera base de datos abierta principalmente dedicada a registros de MEG en colaboración con el Prof. Sylvain Baillet del Instituto Neurológico de Montreal.
+Dirige los esfuerzos del consorcio internacional que desarrolla la estructura de datos de imágenes cerebrales, BIDS (Brain Imaging Data Structure) el primer estándar común para organizar, describir y compartir datos de neuroimagen.
+Lideró la creación de la extensión del estándar MEG-BIDS para datos neurofisiológicos de MEG coordinando múltiples laboratorios alrededor del mundo y ha contribuido a varias extensiones más, como PET-BIDS para la tomografía por emisión de positrones y Microscopy-BIDS para la microscopía, entre otras.
+En 2019, fue elegida presidenta del equipo directivo de BIDS, promoviendo que la investigación en neuroimagen sea cada vez más abierta, interoperable y eficiente.
+Consciente de la crisis de reproducibilidad en la ciencia, y en particular en neuroimagen, ha liderado varios consorcios internacionales que trabajan promoviendo buenas prácticas científicas y proponiendo herramientas que permitan a los científicos realizar sus investigaciones de manera abierta y reproducible.
+En el ámbito clínico investiga enfermedades neurológicas como la epilepsia, la ceguera, el dolor, el envejecimiento humano y la enfermedad de Alzheimer.

@@ -1,0 +1,9 @@
+El motor W16 es un motor de combustión interna que está compuesto por 16 cilindros, resultado de la unión de 2 grupos de Motor VR8.
+Este motor fue realizado tras una gran investigación por los ingenieros de Bugatti y Volkswagen.
+Fue construido en el lugar de ensamblado de la marca alemana y emplea materiales usados en aeronáutica.
+El motor, de 8.0 L de cilindrada y con 4 turbocompresores, es capaz de generar 1500 CV.
+El ángulo entre los 2 bloques puede variar entre 72 y 90 grados.
+Este motor conforma 4 filas de 4 cilindros en línea, con una configuración que se destaca por su funcionamiento sin vibraciones, por lo que no necesita árboles contrarrotantes de equilibrado.
+Por lo tanto, el motor W16 abarca mayor fineza de funcionamiento debido a que las explosiones de los cilindros se hacen en intervalos de tiempo menores, produciéndose una por cada 45° de giro del cigüeñal, lo que también posibilita el funcionamiento del motor a pocas revoluciones (menos de 1500 rpm) sin vibraciones ni tendencia a calarse.
+A pesar de su potencia superior con respecto a los motores en V, su uso en automóviles es mucho menos popular.
+Uno de los pocos modelos que lo incorporan es el Bugatti EB 16.4 Veyron, Bugatti Chiron y Audi Rosemeyer

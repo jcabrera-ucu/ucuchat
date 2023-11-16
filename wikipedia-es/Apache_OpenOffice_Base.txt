@@ -1,0 +1,9 @@
+Apache OpenOffice Base (OpenOffice.org Base hasta diciembre de 2011) es una aplicación que forma parte de la suite ofimática Apache OpenOffice desde la versión 2.
+Es comparable a MS Access pero a diferencia de este es software libre.
+Base integra la manipulación de bases de datos con Apache OpenOffice.
+Es posible crear y modificar tablas, formularios, consultas e informes bien utilizando el sistema gestor de bases de datos HSQL que se incluye con Base o bien cualquier otro.
+La aplicación proporciona diferentes asistentes, vistas de diseño, y vistas SQL para los usuarios principiantes y avanzados.
+Base incluye una versión completa del SGBD HSQL que guarda los datos en ficheros XML.También puede acceder de forma nativa a ficheros DBase para realizar trabajos simples.
+Para usos más avanzadas, Base proporciona soporte nativo para diferentes bases de datos (Adabas D, ADO, Microsoft Access, MySQL), o cualquier otra base de datos si se utilizan los conectores ODBC y JDBC.
+También soporta agendas LDAP, Microsoft Outlook, Microsoft Windows y Mozilla.
+A partir de la versión 2.3 Apache OpenOffice Base integrará el generador de informes en OLAP y XML Report Designer basado en el motor de informes de código abierto del software Pentaho.

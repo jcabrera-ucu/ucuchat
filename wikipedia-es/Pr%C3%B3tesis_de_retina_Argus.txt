@@ -1,0 +1,37 @@
+La prótesis de retina Argus, también conocida como ojo biónico, es un implante electrónico de retina fabricado por la compañía estadounidense de productos médicos Second Sight.
+Se utiliza como prótesis visual para mejorar la visión de personas con casos graves de retinitis pigmentaria.
+La versión Argus II del sistema fue aprobada para su comercialización en la Unión Europea en marzo de 2011 y recibió la aprobación en los Estados Unidos en febrero de 2013 bajo un dispositivo humanitario de exención.
+El sistema Argus II cuesta alrededor de 150.000 dólares norteamericanos, excluyendo el costo de la cirugía de implantación y la formación para aprender a utilizar el dispositivo.
+El Argus II está diseñado específicamente para tratar a las personas con retinitis pigmentaria.
+El dispositivo fue aprobado con datos de un ensayo clínico de un solo grupo que incluyó a treinta personas con retinitis pigmentaria grave; el seguimiento más largo de un individuo del ensayo fue de 38.3 meses.
+A las personas del ensayo el implante se les implantó solo en un ojo y las pruebas se realizaron con el dispositivo encendido, o apagado como medida de control.
+Con el dispositivo encendido, alrededor del 23% de los individuos mejoraron la visión; todos se habían situado en el rango 2,9 o más alto en la escala LogMAR y las mejoras oscilaron entre poco menos de 2,9 y 1,6 LogMAR – el equivalente a 20/1262 en capacidad de lectura.
+El 96% de los individuos fueron capaces de identificar mejor un cuadrado blanco en una pantalla de computadora negra; el 57% supieron determinar mejor la dirección en la que una barra blanca se movía a través de una pantalla de computadora negra.
+Con el dispositivo encendido, un 60% fue capaz de caminar con precisión hasta una puerta situada a más de 6 metros, a diferencia del 5% que lo lograba con el dispositivo apagado; el 93% no tuvo cambios en su percepción de luz.
+Entre los treinta individuos participantes en el ensayo clínico, se registraron nueve sucesos graves, lo que incluye presión intraocular inferior a la normal, erosión de la conjuntiva, reapertura de la herida quirúrgica, inflamación dentro del ojo, y desprendimientos de retina.
+También existe riesgo de infección bacteriana por los cables implantados, que conectan el implante al procesador de la señal.
+La operación de implante dura varias horas, y el paciente que recibe el implante está bajo anestesia general.
+El cirujano extrae el humor vítreo y cualquier membrana de la retina donde se colocará el implante.
+El implante está unido a la superficie de la retina con un aplicador.
+Los cables que conectan el implante al procesador se dirigen a través de la pars plana, una región cercana en la que el iris y la esclerótica se tocan.
+El elemento externo primario del implante Argus es una cámara digital montada sobre un marco de gafas, que obtiene imágenes del entorno del usuario; las señales de la cámara se transmiten inalámbricamente a un procesador de imágenes informatizado.
+El procesador está a su vez conectado por cables al mismo implante, que se implanta quirúrgicamente en la superficie de la retina del paciente, donde se sujeta.
+El implante consta de 60 electrodos, cada uno de 200 micras de diámetro.
+La resolución de la imagen de la rejilla rectangular de 6 puntos por 10 puntos (producida por la guía de 6 por 10 de un total de 60 electrodos, de los cuales 55 están activados) es una visión muy reducida en comparación con la agudeza visual normal.
+Esto permite la detección visual de los extremos de las grandes áreas de alto contraste, como marcos de puertas y aceras y para proporcionarle al paciente capacidad de recorrer su entorno de manera más segura.
+El fabricante del implante Second Sight Medical Products se fundó en Sylmar, California, en 1998, por Alfred Mann, Samuel Williams y Gunnar Bjorg.
+Williams, un inversor de una empresa de implantes cocleares gestionada por Mann, intentó convencer a Mann para fundar una empresa y desarrollar un producto similar dirigido al ojo.
+Mann convocó una reunión a la que invitaron a Robert Greenberg, que trabajaba en la fundación de Mann.
+Greenberg había trabajado previamente en prótesis de retina como estudiante de posgrado en la Universidad Johns Hopkins.
+Creó el plan de empresa y fue nombrado CEO de la nueva empresa cuando comenzó a funcionar.
+Greenberg lideró la empresa como CEO hasta 2015 (y fue presidente de la junta hasta 2018).
+La primera versión de la prótesis, el Argus I, fue probada clínicamente en seis personas a partir de 2002.
+La segunda versión, el Argus II, fue diseñada para ser más pequeña y más fácil de implantar, y fue inventada conjuntamente por Mark Humayun, del Instituto del Ojo de la Universidad del Sur de California, USC, quien había participado en las pruebas clínicas del Argus I. El Argus II fue probado por primera vez en México, en 2006, y luego se llevó a cabo un ensayo clínico en 30 personas en 10 centros médicos de toda Europa y Estados Unidos.
+El Argus II recibió la aprobación para su uso comercial en la Unión Europea en marzo de 2011.
+En febrero de 2013, la FDA aprobó el dispositivo Argus II en el marco de una excepción humanitaria y autorizó su uso para hasta 4.000 personas al año en los Estados Unidos.
+El Argus II estaba disponible inicialmente en un número limitado de clínicas en Francia, Alemania, Italia, Países Bajos, Reino Unido y Arabia Saudita, a un precio de mercado de 115.000 dólares norteamericanos.
+Cuando se lanzó el Argus II en los Estados Unidos en febrero de 2013, Second Sight anunció que el precio sería de unos 150.000 dólares excluyendo el coste de la cirugía y el entrenamiento para su uso.
+En agosto de 2013, Second Sight anunció que se habían aprobado los reembolsos por los pagos del Argus II para los beneficiarios ciegos de Medicare en los Estados Unidos.
+En 2017 empezó en Inglaterra un ensayo a diez pacientes financiado por el National Health Service (NHS).
+Lentes de contacto biónicas.
+Página web oficial de Second Sight.

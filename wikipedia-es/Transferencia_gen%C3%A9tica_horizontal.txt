@@ -1,0 +1,68 @@
+La transferencia genética horizontal (TGH) es el movimiento de material genético entre organismos unicelulares y/o pluricelulares, que no es a través de la transmisión vertical (la transmisión del ADN de padres a su descendencia).
+La TGH es sinónimo de transferencia genética lateral (TGL) y ambos términos son intercambiables.
+Este movimiento ha demostrado ser un factor importante en la evolución de muchos organismos.
+La transferencia genética horizontal es la razón principal de que se propague en las bacterias la resistencia a los antibióticos.
+y juega un papel importante en la evolución de bacterias que pueden degradar compuestos nuevos como los pesticidas creados por los humanos, y en la evolución, el mantenimientos y la transmisión de virulencia.
+Esta transferencia genética horizontal normalmente involucra el uso de virus, plásmidos y transposones.
+A su vez, los virus pueden recibir genes especiales de otros agentes más pequeños conocidos como virus satélite.
+Los plásmidos y transposones pueden recibir genes especiales de los integrones que son casetes de genes con movilidad.
+Esto demuestra que hay movimiento masivo de genes inclusive entre las partículas vectoras.
+Los genes que son responsables de la resistencia a antibióticos en una especie de bacteria pueden ser transferidos a otra especie a través de varios mecanismos (e.g. via F-pilus), subsecuentemente armando al recipiente de genes contra antibióticos, lo que se está convirtiendo en un reto médico.
+La mayoría de los trabajos en genética se han concentrado en la transferencia vertical, pero hay un incremento en la conciencia que la transferencia genética horizontal es un fenómeno sumamente significativo entre organismos unicelulares, probablemente la forma dominante de transferencia genética.
+La transferencia genética horizontal artificial es una forma de ingeniería genética.
+La transferencia genética horizontal fue descrita por primera vez en Seattle en 1951 en una publicación que demostraba que la transferencia de un gen viral a Corynebacterium diphtheriae creó una forma virulenta de una especie no virulenta, resolviendo casi simultáneamente el acertijo de la difteria (que los pacientes podían estar infectados con la bacteria pero sin presentar ningún síntoma, y después cambiaba repentinamente o nunca), y dando el primer ejemplo para la relevancia del ciclo lisogénico.
+La transferencia genética inter-bacteriana fue descrita por primera vez en Japón en una publicación de 1959 que demostraba la transferencia de resistencia a antibióticos entre diferentes especies de bacteria.
+En los mediados de los 80, Syvanen predijo que la transferencia genética lateral existía, tenía significancia biológica, y estaba involucrada en la formación de la historia evolutiva y del inicio de la vida en la Tierra.
+Como mencionan Jian, Rivera y Lake (1999): "Estudios de genes y genomas están indicando que ha ocurrido considerable transferencia genética horizontal en procariotes" (véase también Lake y Rivera, 2007).
+El fenómenos parece tener algún significado para eucariotas unicelulares también.
+Como menciona Bapteste et al. (2005), "más evidencia sugiere que la transferencia genética también pueda ser un mecanismo evolutivo importante en la evolución protista."
+Los injertos a una planta de otra pueden transferir cloroplastos (ADN especializado en plantas que puede conducir la fotosíntesis) ADN mitocondrial y el núcleo celular completo conteniendo el genoma para potencialmente hacer una nueva especie Algunos Lepidoptera (e.g. mariposas monarca y gusanos de seda) han sido modificados genéticamente por transferencia genética horizontal del virus de la avispa.
+Mordidas del insecto Reduviidae (bicho asesino) pueden, a través de un parásito, infectar humanos con la enfermedad trypanosomal de Chagas, que puede insertar su ADN al genoma humano.
+Se ha sugerido que la transferencia lateral en humanos puede desempeñar un papel importante para el tratamiento del cáncer.
+Richardson y Palmer (2007) argumentan que: "La transferencia genética horizontal ha jugado un papel importante en la evolución bacteriana y es bastante común en algunos eucariotas unicelulares. Sin embargo, la prevalencia y la importancia de la TGH en la evolución de eucariotas pluricelulares permanece incierta.."
+Debido al incremento en la cantidad de evidencia sugiriendo la importancia de estos fenómenos para la evolución, los biólogos moleculares como Peter Gogarten han descrito la transferencia genética horizontal como "Un nuevo paradigma para la Biología".
+Algunos argumentan que puede representar un peligro oculto en la ingeniería genética, ya que puede permitir que el ADN transgénico se propague entre especies.
+Hay varios mecanismos para la transferencia genética horizontal:
+Un transposón (gen saltarín) es un segmento móvil de ADN que a veces puede recoger un gen resistente e insertarlo en un plásmido o cromosoma, por tanto induciendo la transferencia genética horizontal de resistencia a antibióticos.
+La transferencia genética horizontal es inferida típicamente usando métodos de bioinformática, tanto para identificar firmas de secuencias atípicas (métodos "paramétricos" ) o identificando fuertes discrepancias entre la historia evolutiva de secuencias particulares comparadas a las de sus huéspedes.
+El virus llamado mimivirus infecta a las amebas. Otro virus, llamado Sputnik, también infecta a las amebas, pero no puede reproducirse a menos que mimivirus ya haya infectado la misma célula.
+"El genoma de Sputnik revela más visión hacia su biología. Aunque 13 de sus genes muestran poco similitud a cualquier otro gen conocido, tres están cercanamente relacionados con genes de mimivirus y mamavirus, quizás canibalizados por el pequeño virus ya que empaca partículas en alguna parte de su historia. Esto sugiere que el virus satélite puede realizar la transferencia genética horizontal entre virus, de manera paralela a la manera en que los bacteriófagos llevan los genes entre las bacterias."
+La transferencia genética horizontal también se observa en geminivirus en las plantas de tabaco.
+La transferencia genética horizontal es común entre las bacterias, incluso entre las que su relación está más distanciada.
+Este proceso se cree es una causa significativa de la aumentada resistencia a fármacos cuando una célula bacteriana adquiere resistencia, y los genes de resistencia son transferidos a otras especies.
+Transposición y transferencia genética horizontal, junto con poderosas fuerzas naturales y selectivas han llevado a especies como Staphylococcus aureus a ser resistentes a varios fármacos y otras bacterias patogénicas.
+Un claro ejemplo que concierne la propagación de exotoxinas es la evolución adaptativa de toxinas Shiga en E. coli a través de la transferencia genética horizontal vía transducción con especies de Shigella.
+Estrategias para combatir ciertas infecciones bacterianas al marcar estos factores específicos de virulencia y los elementos genéticos móviles han sido propuestos.
+Por ejemplo, los elementos genéticos transferidos horizontalmente juegan papeles importantes en la virulencia de E. coli, Salmonella, Streptococcus y Clostridium perfringens.
+En procariotas, los sistemas de modificación de restricción son conocidos por proporcionar inmunidad contra la transferencia genética horizontal y en estabilizar elementos genéticos móviles.
+Los genes codificando los sistemas de modificación de restricción han reportado mover entre genomas procariontes dentro de elementos genéticos móviles como plásmidos, profagos, inserción de secuencias/transposones, e integrones.
+Son una barrera codificada cromosómicamente para los elementos genéticos móviles más que una herramienta de elementos genéticos móviles para infección celular.
+"Las comparaciones en las secuencias sugiere transferencia horizontal reciente de muchos genes entre diversas especies incluyendo a través de las fronteras de los "dominios" filogenéticos. En consecuencia, determinar la historia filogenética de una especie no se puede hacer de manera concluyente determinando árboles evolucionarios para genes sencillos."
+La transferencia horizontal de transposones (THT) se refiere al paso de piezas del ADN que están caracterizadas por su habilidad de moverse de un locus a otro entre genomas por otros medios aparte de herencia de padre a descendencia.
+La transferencia genética horizontal se ha pensando es crucial para la evolución procarionte, pero existe información que sigue aumentando mostrando que la THT es un fenómeno común y bastante esparcido en la evolución eucarionte.
+Del lado del elemento transponible, a través de transferencia horizontal puede ser visto como una estrategia para escapar una limpieza debido a selección de purificación, decaimiento mutacional y/o mecanicismos de defensa del huésped.
+THT puede ocurrir con cualquier tipo de elementos transponibles, pero los transposones de ADN, y los retrotransposones LTR, tienen mayor probabilidad de ser capaces de la THT porque ambos tienen un intermediario de una doble cadena de ADN, estable que se cree es más fuerte que una sola hebra de intermediario de ARN de retrotransposones no-LTR, que pueden ser altamente degradables.
+La THT ha sido demostrada que ocurre entre especies y a través de continentes en ambos, plantas y animales.
+(Ivancevic et al. 2013), aunque algunos elementos transponibles han mostrado mayor éxito en colonizar genomas de ciertas especies sobre otras.
+Tanto la proximidad espacial como taxonómica ha sido propuesta para favorecer transferencias horizontales de transposones en plantas y animales.
+No se conoce como la densidad de una población puede afectar la velocidad de los eventos de THT dentro de la población, pero la proximidad cercanas debido a parasitismo y cruza de contaminación debido al acumulamiento han sido propuestos para favorecer THT en plantas y animales.
+La transferencia exitosa de elementos transponibles requiere la entrega del ADN del donado a la célula huésped (y a la línea de gérmenes para organismos pluricelulares), seguido de la integración al genoma recibidor del huésped.
+Aunque el mecanismo real del transporte de elementos transponibles de células donadoras a células de huésped no se conoce, está establecido que el ADN desnudo y el ARN pueden circular en fluido corporal.
+Muchos vectores propuestos incluyen artrópodos, virus, caracol de agua dulce.
+bacteria endosimbiótica, y bacteria intracelular parasítica.
+En algunos casos, incluso los elementos transponibles transportan otros elementos transponibles.
+La ingeniería genética es esencialmente transferencia genética horizontal, aunque con casetes sintéticos de expresión.
+El sistema de transposones "Bella durmiente" fue desarrollado como un agente sintético de transferencia genética que fue basado en las habilidades de los transposones Tc1/mariner para invadir genomas de especies extremadamente diversas.
+Este sistema, ha sido usado para introducir secuencias genéticas en gran variedad de genomas animales.
+(Véase también terapia génica )
+La transferencia genética horizontal es un factor cofundador en inferir árboles filogenéticos basados en la secuencia de un gen. Por ejemplo, dadas dos bacterias relacionadas distantemente que han intercambiado un gen un árbol filogenético incluyendo esas especies demostrará que están relacionadas cercanamente porque ese gen es el mismo aunque muchos otros genes no son similares.
+Por esta razón a veces es ideal usar otra información para inferir grande filogenia como la presencia o ausencia de genes, o más común incluir como un gran rango de genes para el análisis filogenético.
+Por ejemplo, el gen más común en ser usado para construir relaciones filogenéticas en procariotas es el gen ARNr 16s ya que su secuencia tiende a conservarse entre miembros con distancias filogenéticas cercanas, pero suficiente variables que las diferencias se pueden medir.
+Sin embargo, en años recientes se ha argumentado que los genes de ARNr 16s también pueden transferirse horizontalmente.
+Aunque esto puede ser no muy frecuente, la validez de los árboles filogenéticos de ARNr 16s debe ser revaluada.
+El biólogo Johann Peter Gogarten sugiere que "la metáfora original de un árbol ya no se ajusta a los datos de las investigaciones recientes sobre el genoma", por lo que "los biólogos deberían utilizar la metáfora de un mosaico para describir las diferentes historias combinadas en los genomas individuales y utilizar la metáfora de una red para visualizar el rico intercambio y los efectos cooperativos del HGT entre los microbios" Existen varios métodos para inferir dichas redes filogenéticas.
+Usando genes sencillos como marcadores filogenéticos, es difícil rastrear la filogenía en la presencia de la transferencia genética horizontal.
+Combinando el simple modelo de cladogenesis con raros eventos de TGH sugiere que no había un simple ancestro en común más reciente que contuviera todos los genes ancestrales a esos compartidos entre tres dominios de la vida.
+Cada molécula contemporaria tiene su propia historia y se rastrea en la historia a una molécula individual.
+Sin embargo, estos ancestros moleculares era más probable encontrarlos en diferentes organismos en diferentes momentos."
+Hay evidencia de transferencia histórica horizontal de los siguientes genes:

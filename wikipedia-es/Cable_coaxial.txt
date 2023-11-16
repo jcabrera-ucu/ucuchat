@@ -1,0 +1,60 @@
+El cable coaxial, coaxil, coaxcable o coax, es un cable utilizado para transportar señales eléctricas de alta frecuencia que posee dos conductores concéntricos, uno central, llamado núcleo, encargado de llevar información, y uno exterior, de aspecto tubular, llamado malla, blindaje o trenza, que sirve como referencia de tierra y retorno de las corrientes.
+Entre ambos se encuentra una capa aislante dieléctrica, de cuyas características dependerá principalmente la calidad del cable.
+Todo el conjunto suele estar protegido por una cubierta aislante (también denominada camisa exterior).
+El cable coaxial se empleó en los primeros cables telegráficos transatlánticos a partir de 1858, pero su teoría no fue descrita hasta 1880 por el ingeniero eléctrico y matemático inglés Oliver Heaviside, que patentó su diseño ese mismo año.
+El conductor central puede estar constituido por un alambre sólido o por varios hilos retorcidos de cobre; mientras que el exterior puede ser una malla trenzada, una lámina enrollada o un tubo corrugado de cobre o aluminio.
+En este último caso resultará un cable semirrígido.
+Debido a la necesidad de manejar frecuencias cada vez más altas y a la digitalización de las transmisiones, en años recientes se ha sustituido paulatinamente el uso del cable coaxial por el de fibra óptica, en particular para distancias superiores a varios kilómetros, porque el ancho de banda de esta última es muy superior.
+La elección del diseño afecta al tamaño, flexibilidad y las propiedades eléctricas del cable.
+Un cable coaxial consta de un núcleo de hilo de cobre rodeado por un aislante (o dieléctrico), un apantallamiento o blindaje de metal trenzado y una cubierta externa.
+El núcleo de un cable coaxial transporta señales electrónicas que constituyen la información.
+Este núcleo puede ser sólido (normalmente de cobre) o de hilos.
+Rodeando al núcleo existe una capa aislante dieléctrica que la separa de la malla de hilo.
+La malla de hilo trenzada actúa como masa, y protege al núcleo del ruido eléctrico y de la distorsión que proviene de los hilos adyacentes.
+El núcleo y la malla deben estar separados uno del otro.
+Si llegaran a tocarse, se produciría un cortocircuito, y el ruido o las señales que se encuentren perdidas en la malla, atravesarían el hilo de cobre.
+El apantallamiento tiene que ver con el trenzado o malla de metal (u otro material) que rodea los cables.
+El apantallamiento protege los datos que se transmiten, absorbiendo el ruido, de forma que no pasa por el cable y no existe distorsión de datos.
+Al cable que contiene una lámina aislante y una capa de apantallamiento de metal trenzado se le llama cable apantallado doble.
+Para grandes interferencias, existe el apantallamiento cuádruple.
+Este apantallamiento consiste en dos láminas aislantes, y dos capas de apantallamiento de metal trenzado.
+Un cortocircuito ocurre cuando dos hilos o un hilo y una tierra se ponen en contacto.
+Este contacto causa un flujo directo de corriente (o datos) en un camino no deseado.
+En el caso de una instalación eléctrica común, un cortocircuito causará el chispazo y el fundido del fusible o del interruptor automático.
+Con dispositivos electrónicos que utilizan bajos voltajes, el efecto es menor, y casi no se detecta.
+Estos cortocircuitos de bajo voltaje causan un fallo en el dispositivo y lo normal es que se pierdan los datos que se estaban transfiriendo.
+Una cubierta exterior no conductora (normalmente hecha de goma, teflón o plástico) rodea todo el cable para evitar las posibles descargas eléctricas.
+El cable coaxial es más resistente a interferencias y atenuación que el cable de par trenzado; por esto hubo un tiempo en que fue el más usado.
+La malla de hilos absorbe las señales electrónicas perdidas, de forma que no afecten a los datos que se envían a través del cable interno.
+Por esta razón, el cable coaxial es una buena opción para grandes distancias y para soportar de forma fiable grandes cantidades de datos con un sistema sencillo.
+En los cables coaxiales los campos debidos a las corrientes que circulan por el interno y externo se anulan mutuamente.
+La característica principal de la familia RG-58 es el núcleo central de cobre.
+Se consideran los siguientes tipos:
+La mayoría de los cables coaxiales tiene una impedancia característica de 50, 52, 75 o 93 ohmios, siendo la de 75 la más usual.
+La industria de RF usa nombres de tipo estándar para cables coaxiales.
+En las conexiones de televisión (por cable, satélite o antena), los cables RG-6 son los más comúnmente usados para el empleo en el hogar, y la mayoría de conexiones fuera de Europa es por conectores F.
+Aquí mostramos unas tablas con las características:
+Existen múltiples tipos de cable coaxial, cada uno con un diámetro e impedancia diferentes.
+El cable coaxial no es habitualmente afectado por interferencias externas, y es capaz de lograr altas velocidades de transmisión de datos en largas distancias.
+Por esa razón, se utiliza en redes de comunicación de banda ancha (CATV) y cables de banda base (Ethernet).
+El tipo de cable que se debe utilizar depende de la ubicación del cable.
+Los cables coaxiales pueden ser de dos tipos:
+El policloruro de vinilo es un tipo de plástico utilizado para construir el aislante y la cubierta protectora del cable en la mayoría de los tipos de cable coaxial.
+El cable coaxial de PVC es flexible y se puede instalar fácilmente en cualquier lugar.
+Sin embargo, cuando se quema, desprende gases tóxicos.
+Es más dado a daño por corrosión en exteriores; para ello se emplean las cubiertas de polietileno.
+El plenum contiene materiales especiales en su aislamiento y en una clavija del cable.
+Estos materiales son resistentes al fuego y producen una mínima cantidad de humos tóxicos.
+Se puede encontrar un cable coaxial:
+Antes de la utilización masiva de la fibra óptica en las redes de telecomunicaciones, tanto terrestres como submarinas, el cable coaxial era ampliamente utilizado en sistemas de transmisión de telefonía analógica basados en la multiplexación por división de frecuencia (FDM), donde se alcanzaban capacidades de transmisión de más de 10 000 circuitos de voz.
+Asimismo, en sistemas de transmisión digital, basados en la multiplexación por división de tiempo (TDM), se conseguía la transmisión de más de 7000 canales de 128 kbps.
+El cable utilizado para estos fines de transmisión a larga distancia necesitaba tener una estructura diferente al utilizado en aplicaciones de redes locales, ya que, debido a que se instalaba enterrado, tenía que estar protegido contra esfuerzos de tracción y presión, por lo que normalmente aparte de los aislantes correspondientes llevaba un armado exterior de acero.
+Par trenzado cargado – Es un par trenzado al que se le adiciona de forma intencional inductancia, la cual es bastante común en las líneas de telecomunicaciones, aunque en ciertas frecuencias existen excepciones.
+Estos inductores añadidos se conocen como bobinas de Pupin y logran reducir la distorsión.
+Par trenzado unido – Es una variante del cable par trenzado, en donde los pares se van uniendo de manera individual, consiguiendo que el cable sea más robusto.
+Las especificaciones eléctricas para el cable siguen siendo las mismas, pese al manejo de rudo.
+Cable trenzado de cinta – Es una variante para el estándar de cable de cinta, en el cual se utilizan conductores adyacentes, los cuales están en modo esclavo y trenzados.
+Respecto a los pares trenzados se anota que son esclavos ligeramente uno de los otros con un formato de cinta.
+De forma periódica y según se avance por la cinta, van a darse secciones pequeñas en las que no hay trenzado para garantizar que los conectores y cabeceras con circuito impreso se terminen con técnicas usuales para un cable de cinta IDC.
+Los cables coaxiales que forman parte de la infraestructura de telecomunicaciones, son denominados líneas de transmisión.
+Un tipo específico de cable coaxial es el leaky feeder o cable radiante

@@ -1,0 +1,14 @@
+El comando df muestra el uso del disco duro y otras informaciones como punto de montaje y sistema de ficheros.
+Si no se indica ninguna opción, muestra el espacio usado.
+df -h
+Produce la siguiente salida:
+S.ficheros    Tamaño Usados  Disp Uso% Montado en dev              1,9G      0  1,9G   0% /dev
+run             1,9G   1,2M  1,9G   1% /run
+/dev/sda1       285G    21G  249G   8% /
+tmpfs           1,9G    80M  1,9G   5% /dev/shm
+tmpfs           1,9G      0  1,9G   0% /sys/fs/cgroup
+tmpfs           1,9G    50M  1,9G   3% /tmp
+tmpfs           386M    48K  386M   1% /run/user/1000
+df -hT /etc
+Produce la siguiente salida:
+S.ficheros    Tipo Tamaño Usados  Disp Uso% Montado en /dev/sda1      ext4   285G    21G  249G   8% /

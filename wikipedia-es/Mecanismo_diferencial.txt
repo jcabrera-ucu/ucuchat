@@ -1,0 +1,16 @@
+Un diferencial es el elemento mecánico que permite que las ruedas derecha e izquierda de un vehículo giren a distinta velocidad, según este se encuentre tomando una curva hacia un lado o hacia el otro.
+Cuando un vehículo toma una curva, por ejemplo hacia la derecha, la rueda derecha recorre un camino más corto que la rueda izquierda.
+Para entenderlo, hay que recordar que en una pista de atletismo el corredor que da la curva abierta recorre más distancia que el contrincante de la vuelta cerrada.
+Antiguamente, las ruedas de los vehículos estaban montadas de forma fija sobre el eje.
+Este hecho significaba que una de las dos ruedas no giraba adecuadamente, desestabilizando al vehículo.
+Mediante el diferencial se consigue que cada rueda pueda girar correctamente en una curva, sin perder por ello la fijación de ambas sobre el eje, de manera que la tracción del motor actúa con la misma fuerza sobre cada una de las dos ruedas.
+El diferencial consta de engranajes dispuestos en forma de "U" en el eje.
+Cuando ambas ruedas recorren el mismo camino, por ir el vehículo en línea recta, el engranaje se mantiene en situación neutra, sin embargo, en una curva los engranajes se desplazan ligeramente, compensando con ello las diferentes velocidades de giro de las ruedas.
+La diferencia de giro también se produce entre los dos ejes.
+Las ruedas directrices describen una circunferencia de radio mayor que las no directrices, por ello se utiliza el diferencial.
+Un vehículo con tracción en las cuatro ruedas puede tener hasta tres diferenciales: uno en el eje frontal, uno en el eje trasero y un diferencial central.
+En el hipotético caso de que ambos ejes sean directrices, el que tenga mayor ángulo de giro describirá un radio mayor.
+Dado que un diferencial ordinario reparte el par por igual entre ambas ruedas (reparto 50%-50%), la capacidad de tracción máxima es siempre el doble de la rueda con menor tracción.
+En caso de que esta sea cero en una de las ruedas, la capacidad de tracción total es lógicamente cero.
+Para solucionar este problema se emplean diferenciales autoblocantes o bloqueables.
+Estos últimos pueden forzar a ambas ruedas a girar a la misma velocidad, eliminando el efecto diferencial y enviando hasta el 100% del par a una rueda.

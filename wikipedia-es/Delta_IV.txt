@@ -1,0 +1,15 @@
+El cohete Delta IV es un vector o vehículo lanzador desechable de United Launch Alliance fabricado por Boeing.
+Creado en 2001, es el cohete más grande de la familia Delta alcanzando, en su versión Heavy, más de 70 metros de altura.
+El Delta IV es el resultado del Programa de Vehículo de Lanzamiento No-Reutilizable Evolucionado (Evolved Expendable Launch Vehicle Program, EELV) desarrollado por Boeing, es el esfuerzo a lo largo de muchos años de la U.S. Air Force (USAF) encaminado a la reducción de costes de los lanzamientos en un 50 % de la cantidad actual de aproximadamente US$26 500 por kg de carga a poner en órbita.
+Durante la primera fase, cuatro competidores, McDonnell Douglas, Lockheed Martin, Boeing Defense & Space Group y Alliant Techsystems, completaron un contrato de 15 meses para la validación de los conceptos de bajo costo.
+La Fuerza Aérea (USAF) seleccionó dos de las propuestas en diciembre de 1996 (Eligió McDonnell Douglas, integrada en la actualidad con The Boeing Company y Lockheed Martin) para seguir adelante con la fase dos del programa EELV, en concreto la fase de Pre-Ingeniería, Manufactura y Desarrollo (Pre-EMD).
+La Pre-EMD era un contrato fijo de 17 meses por valor de 60 millones de dólares para cada compañía.
+La fase final era Ingeniería, Manufactura y Desarrollo (EMD) permite al seleccionado dedicarse en su totalidad al desarrollo de la familia EELV acordándose la realización de la primera prueba de vuelo para el 2001.
+El valor del contrato del Módulo EMD es de 1400 millones de dólares.
+El diseño de las tres variantes del Delta IV emplea como combustible hidrógeno líquido y un motor común de combustión interna basado en oxígeno líquido, con un empuje de casi 300 000 kgf, más eficiente que los propulsores convencionales de oxígeno líquido y queroseno.
+El motor del propulsor común es, por tanto, neutro para el ambiente, produciendo tan sólo agua como producto de desecho de combustión.
+Las fases superiores del Delta II y del Delta III, evolucionadas como fruto de décadas de servicio fiable contrastado, se añaden al cuerpo principal del propulsor para completar el vehículo.
+Cabe añadir que los motores principales RS-68 se basan en una simplificación de los motores del transbordador espacial SSME (son hasta un 80 % más sencillos), a costa de que solamente permiten un solo uso; todo ello reduce su coste en gran medida (recordar que los motores del transbordador son de los más costosos de la historia).
+El modelo Delta IV-Small incluye la segunda fase del Delta II, opcionalmente la tercera fase, y una cofia de 3 metros de diámetro.
+El modelo Delta IV-Medium añade el propulsor criogénico de la segunda fase del lanzador Delta III y la cofia compuesta de 4 m de diámetro para mayor protección de la carga.
+El modelo Delta IV-Heavy incluye tres de los nuevos propulsores unidos para la fase de lanzamiento, y añade el motor de la fase superior del lanzador Delta III con modificaciones sobre los tanques de combustible para aumentar la capacidad de propelente, así como la cofia de 5 m de diámetro que fabrica Boeing para su vehículo de lanzamiento Titan IV.

@@ -1,0 +1,3 @@
+En sistemas tipo Unix, los usuarios son representados por un identificador de usuario, normalmente abreviado como UID o User ID.
+Las características básicas son:
+Recientemente, a los usuarios se les asigna un UID dentro del rango del sistema, 1–1000, o en el rango 65530–65535.

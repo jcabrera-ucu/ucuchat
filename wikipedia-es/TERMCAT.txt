@@ -1,0 +1,16 @@
+TERMCAT es un organismo creado en Barcelona el año 1985 por el Departamento de Cultura de la Generalidad de Cataluña y por el Institut d'Estudis Catalans (IEC) con el fin de estudiar la terminología en catalán.
+Desde el año 1994 es un consorcio dirigido por las dos entidades ya mencionadas y por el Consorci per a la Normalització Lingüística.
+Las líneas de actuación de TERMCAT son la elaboración de recursos terminológicos, la normalización de neologismos y el asesoramiento terminológico.
+Así pues, con el objetivo de favorecer la sistematización y la difusión de la terminología de los diferentes sectores de actividad, el TERMCAT elabora y promueve la elaboración de diccionarios, vocabularios, léxicos y material de divulgación multilingües de diferentes ámbitos del conocimiento en varios formatos, establece la denominación de los nuevos términos y asesora a instituciones, empresas y particulares para la elaboración, traducción o edición de obras terminológicas y especializadas.
+El TERMCAT colabora con medios de comunicación, universidades, colegios profesionales y asociaciones como, por ejemplo, AENOR, TRIAC o Softcatalà, y participa actividades terminológicas nacionales e internacionales.
+Forma parte, además, del equipo directivo de la Asociación Europea de Terminología.
+Todas las fichas elaboradas por TERMCAT se encuentran disponibles al Cercaterm, servicio de consultas en línea que ayuda a resolver cualquier duda terminológica que surja en la redacción o traducción de textos especializados en catalán.
+Con respecto a la detección de terminología nueva o en uso en otras lenguas y las nuevas propuestas de equivalencias para el uso en catalán, el Consejo Supervisor de TERMCAT busca discernir la forma más coherente con los patrones de formación de neologismos terminológicos de la lengua catalana desde una perspectiva lingüística, terminológica y de uso.
+Todos los neologismos normalizados se pueden consultar a la Neoloteca.
+TERMCAT cuenta con una plantilla de unos 25 trabajadores y es asesorado por profesionales externos de muchos campos.
+El presupuesto del organismo es de 1,5 millones de euros anuales.
+Cercaterm es el servicio automatizado de consultas en línea multilingüe del TERMCAT que contiene más de 230.000 fichas terminológicas a disposición pública.
+Permite acceder a la consulta de los términos normalizados por el Consejo Supervisor del TERMCAT; productos terminológicos publicados desde el año 1985; información proveniente de los trabajos de investigación del Centro; términos provenientes de los trabajos de asesoramiento y proyectos en fase de investigación avanzada; fichas elaboradas por otros organismos y profesionales, y fichas de criterios terminológicos elaboradas por el Centro.
+La interfaz funciona con un motor de búsqueda multilingüe y temático que, además, permite dirigir consultas terminológicas al TERMCAT a través de un módulo de atención personalizada.
+Las sugerencias y comentarios que dirigen los usuarios son una de las fuentes de incorporación de nuevas fichas al Cercaterm.
+Las fichas incorporan un marcaje de procedencia que permite los usuarios conocer la fuente de la información y ponderar la fiabilidad de los datos.

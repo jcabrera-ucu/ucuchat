@@ -1,0 +1,8 @@
+Las pruebas beta, del inglés beta testing, son las pruebas de software que se realizan cuando el sistema está teóricamente correcto y pasa a ejecutarse en un entorno real.
+Es la fase que le sigue a las pruebas Alpha.
+No importa cuán bueno que sea nuestro proceso de desarrollo, siempre habrá fallos que no han sido descubiertos por los desarrolladores ni por el equipo de pruebas.
+Las pruebas beta son pruebas para localizar esos problemas que no han sido detectados y poder corregirlos antes de liberar una versión; la prueba debería ser realizada por usuarios finales.
+De este modo, dependiendo de la naturaleza del software, la prueba podría, por ejemplo, ser realizada por compañeros de trabajo, por algunos clientes reales o por una combinación de ambos.
+A los que realizan las pruebas beta se les suele llamar betatester.
+Debido a que realizar este tipo de pruebas y comunicar los errores puede ser muy tedioso y frustrante, normalmente se brinda alguna clase de incentivo.
+Por ejemplo, se le ofrece un descuento a cierto cliente que se preste a usar la versión para las pruebas beta o se motiva de alguna forma a los compañeros involucrados en este tipo de pruebas.

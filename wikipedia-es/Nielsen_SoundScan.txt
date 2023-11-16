@@ -1,0 +1,11 @@
+Nielsen SoundScan es un sistema de información creado por Mike Fine y Mike Shalett que graba datos de ventas de sencillos, álbumes y videos musicales en Canadá y Estados Unidos para Billboard y otras compañías de música.
+MTV, VH1, y otros canales musicales de cable estadounidenses usan también información de Nielsen SoundScan.
+Nielsen SoundScan empezó a registrar ventas para Billboard el 1 de marzo de 1991, y la primera cartilla Hot 100 que debutó con este sistema fue la del 30 de noviembre de 1991.
+Previo a eso, Billboard registraba las ventas llamando a las tiendas de todo el país, un método sujeto a error y abierto al fraude.
+Asociación Estadounidense de la Industria Grabada (RIAA, por sus siglas en inglés) también registra las ventas (o más específicamente, los envíos menos devoluciones) a través del sistema de certificación RIAA, el único método que ha usado siempre.
+Datos de ventas de las cajas registradoras se recogen de 14.000 puntos, sean convencionales, de consumo masivo, o en línea, en Canadá y los Estados Unidos.
+Aunque esto incluye a los más grandes distribuidores, no es una muestra 100% representativa de los récords de ventas, pues excluye los clubes de música, así como muchos distribuidores independientes y tiendas en línea.
+En comparación el sistema RIAA es más confiable, pues contabiliza todo lo que se despacha, pero no puede registrar las ventas en tiempo real.
+El código de barras está en el reverso de la mayoría de los CD o casetes etiquetados.
+Cuando el cliente canadiense o estadounidense compra un álbum o sencillo, entonces el vendedor pasa el código de barras por un escáner.
+La venta se va a la computadora de la tienda y la información es enviada a Nielsen Media Research.

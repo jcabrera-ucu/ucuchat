@@ -1,0 +1,16 @@
+La síntesis de Petrenko-Kritschenko es una reacción orgánica clásica de componentes múltiples que está estrechamente relacionada con la síntesis de Robinson-Schöpf de la tropinona, pero fue publicada 12 años antes.
+En la publicación original se utilizó α-cetoglurato de dietilo,  en combinación con  amoníaco y benzaldehído.
+La estereoquímica relativa no fue aclarada en la publicación original ya que el análisis estructural con rayos X o RMN no estaba disponible en estos días.
+En ausencia de sales de amonio o amoníaco, se forma el  4-oxotetrahidropirano correspondiente.
+En contraste con la síntesis de Robinson, que no emplea dialdehidos como succinaldehído o glutaraldehído, sino que utiliza aldehídos más simples como el benzaldehído.
+Por lo tanto, el producto de la reacción no es una estructura bicíclica (ver tropinona y pseudopeletierina), sino una 4-piperidona.
+La síntesis de tropinona puede ser vista como una variante de la reacción de Petrenko-Kritschenko en el que las dos funciones aldehído se unen covalentemente en una sola molécula.
+Aparte de la síntesis de Hantzsch, la reacción de Petrenko-Kritschenko es uno de los pocos ejemplos en los que se puede obtener un precursor simétrico de un anillo de piridina con varios componentes por una reacción de condensación  seguida por una reacción de oxidación.
+La oxidación con óxido de cromo en ácido acético da lugar a una 4-piridona sustituida simétricamente; la descarboxilación produce derivados no sustituidos en las posiciones 3 y 5.
+Un éster acetoacético se puede utilizar en lugar del α-cetoglurato de dietilo en la presencia de sales de indio [4].
+El uso de la anilina también ha sido reportado en la publicación original.
+En el producto de esta reacción se muestra la configuración tipo trans de los grupos fenilo en C-2 y C-6.
+La reacción ha sido utilizada para sintetizar la precoccinelina, un alcaloide encontrado en algunos coccinélidos:
+Cuando el benzaldehído es sustituido con 2-piridincarboxaldehído, la reacción puede ser utilizada para preparar precursores de ligandos bispidona.
+En esencia, este método se basa en dos reacciones de Petrenko-Kritschenko  posteriores.
+Estos ligandos se puede utilizar para la preparación de compuestos con alto contenido de hierro de alta valecia, que son capaces de oxidar el ciclohexano en presencia de peróxido de hidrógeno.

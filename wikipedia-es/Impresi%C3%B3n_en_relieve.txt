@@ -1,0 +1,6 @@
+La impresión en relieve es una familia de métodos de impresión en los que un bloque, placa o matriz de impresión a la que se ha aplicado tinta en su superficie, pero no en áreas empotradas, se pone en contacto con el papel.
+Las áreas de la placa de impresión con tinta dejarán tinta en el papel, mientras que las áreas rebajadas de la placa de impresión dejarán el papel sin tinta.
+Es posible que no se necesite una imprenta, ya que la parte posterior del papel se puede frotar o presionar a mano con una herramienta simple como un brayer o un rodillo.
+En muchos procesos históricos, la matriz en la impresión en relieve se crea comenzando con una superficie original plana y luego eliminando (por ejemplo, tallando) las áreas destinadas a imprimir en blanco.
+Las áreas restantes de la superficie original reciben la tinta.
+La familia de técnicas en relieve incluye el grabado en madera, la (xilografía), el grabado en metal, el aguafuerte, el linograbado, el sello de goma, la impresión de lámina espuma o fomi, y algunos tipos de colagrafía.

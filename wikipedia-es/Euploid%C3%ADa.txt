@@ -1,0 +1,14 @@
+Euploidía es el estado celular en el cual la célula tiene uno o más juegos completos de cromosomas (dotaciones monoploides (x)) de su especie; dependiendo de especies, se excluyen los cromosomas sexuales.
+Los individuos con euploidía pueden presentar o no un número anormal de cromosomas diferente al habitual.
+Por ejemplo, un humano, tiene 46 cromosomas, que es el doble de 23, su número de cromosomas monoploide (x) (que en el caso de los humanos coincide con el número de cromosomas haploide (n); x = n = 23), por lo tanto es euploide (2x = 2n = 46).
+Un humano hipotético anormal, pero con juegos enteros de cromosomas, por ejemplo, 69, sería también euploide, en tanto que 69 sería múltiplo entero del número monoploide (3x = 69).
+No se debe confundir con la aneuploidía, que, en contraposición a la euploidía, se refiere a una alteración en la cantidad de uno de los tipos de cromosomas homólogos.
+La euploidía puede ser de dos tipos:
+- Monoploidía: la que poseen los organismos haploides (n); significa que solo tienen un único cromosoma de cada tipo.
+- Poliploidía: la poseen individuos con varios juegos completos de cromosomas homólogos (triploidías 3n, tetraploidías 4n...).
+A su vez se divide en autopoliploidía, si las distintas dotaciones pertenecen originariamente a una única especie, o alopoliploidía, si son producto de hibridación de dos o más especies.
+Es bastante frecuente en plantas, sobre todo en angiospermas (47%), y se utiliza en biotecnología de forma inducida para mejorar los cultivos y la producción agrícola.
+El ejemplo más conocido de organismo alopoliploide es el trigo actual de consumo, que es alohexaploide, cuyo número de cromosomas es 42 en el estado diploide (2n = 42) y 21 en los gametos, haploides (n).
+Es un organismo hexaploide (6x), porque tiene 6 copias del juego monoploide (x) de 7 cromosomas (6x = 42) (con más precisión, es un alohexaploide, el prefijo alo- es porque originariamente, los juegos monoploides de 7 cromosomas provienen de especies diferentes).
+Cualquiera de las células de esta especie que tuviera juegos completos de cromosomas con 7, 14, 21, 28, 35 o 42 cromosomas sería un euploide.
+La euploidía y el contenido de ADN de las células eucariotas varía entre especies y entre las células de un mismo organismo.

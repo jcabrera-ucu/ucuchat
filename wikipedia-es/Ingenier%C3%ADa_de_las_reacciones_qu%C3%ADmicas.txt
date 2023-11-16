@@ -1,0 +1,29 @@
+La ingeniería de las reacciones químicas (ingeniería de la reacción o ingeniería de los reactores químicos) es una especialidad en ingeniería química o química industrial que trata sobre los reactores químicos.
+Con frecuencia, el término se refiere específicamente a sistemas de reacción catalítica en los que están presentes un catalizador homogéneo o heterogéneo en el reactor.
+A veces, un reactor en sí no está presente por sí mismo, sino que se integra en un proceso, por ejemplo, en recipientes de separación reactiva, retortas, ciertas celdas de combustible y superficies fotocatalíticas.
+La cuestión de los efectos de los disolventes en la cinética de la reacción también se considera parte integrante.
+La ingeniería de reacciones químicas como disciplina comenzó a principios de la década de 1950 bajo el impulso de investigadores en el centro de investigación Shell Amsterdam y en la universidad de Delft.
+El término ingeniería de reacción química fue aparentemente acuñado por J.C. Vlugter mientras preparaba el 1er Simposio Europeo sobre Ingeniería de la Reacción Química que se celebró en Ámsterdam en 1957.
+La ingeniería de las reacciones químicas tiene como objetivo estudiar y optimizar las reacciones químicas para definir el mejor diseño de reactor.
+Por lo tanto, las interacciones de los fenómenos de flujo, transferencia de masa, transferencia de calor y cinética de reacción son de primordial importancia para relacionar el rendimiento del reactor con la composición de la alimentación y las condiciones de operación.
+Aunque originalmente se aplicó a las industrias petrolera y petroquímica, su metodología general que combina los conceptos de química de reacción e ingeniería química permite la optimización de una variedad de sistemas donde se necesita modelado o ingeniería de reacciones.
+Los enfoques de ingeniería de reacción química están realmente diseñados para el desarrollo de nuevos procesos y la mejora de las tecnologías existentes.
+La serie más importante de simposios son los simposios internacionales sobre ingeniería de la reacción química o conferencias ISCRE.
+Estas conferencias de tres días se llevan a cabo cada dos años, rotando entre sitios en América del Norte, Europa y la región de Asia-Pacífico, en un ciclo de seis años.
+Estas conferencias reúnen durante tres días a investigadores internacionales distinguidos en ingeniería de reacción, profesionales industriales destacados y nuevos investigadores y estudiantes de este campo multifacético.
+Los simposios de ISCRE son un lugar de reunión único para los ingenieros de reacción donde se consolidan los logros de la investigación y se exploran nuevas fronteras.
+El estado del arte de varias subdisciplinas de ingeniería de reacción se revisa de manera oportuna y se discuten nuevas iniciativas de investigación.
+La Junta de ISCRE administra dos premios de estreno en ingeniería de reacciones químicas para investigadores senior y junior cada tres años.
+En 1996, la Junta Directiva de ISCRE estableció el Premio Neal R. Amundson a la Excelencia en Ingeniería de Reacción Química.
+Este premio reconoce a un pionero en el campo de la Ingeniería de Reacción Química que ha ejercido una gran influencia en la teoría o la práctica del campo, a través de la originalidad, la creatividad y la novedad del concepto o la aplicación.
+El premio se otorga cada tres años en una reunión de ISCRE y consiste en una placa y un cheque por un monto de $ 5000.
+El Premio Amundson está generosamente respaldado por una subvención de ExxonMobil Corporation.
+Los ganadores del premio incluyen:
+En 2016, la Junta de Directores de ISCRE, Inc. otorgó el primer Rutherford Aris Young Investigator Award a la Excelencia en Ingeniería de Reacción Química.
+Este premio reconoce contribuciones sobresalientes en la investigación experimental y/o teórica de investigación de ingeniería de investigadores en etapas tempranas de su carrera.
+El destinatario debe tener menos de 40 años de edad al final del año calendario en el que se presenta la adjudicación.
+El Aris Award cuenta con el apoyo generoso de una subvención de UOP, L.L.C., una compañía de Honeywell.
+El premio consiste en una placa, un honorario de $ 3000 y hasta $ 2000 en fondos de viaje para presentar en una conferencia ISCRE/NASCRE y presentar una conferencia en UOP.
+Este premio complementa el otro gran honor de ISCRE, el Premio Neal R. Amundson.
+Los ganadores del premio incluyen:
+<references group="" responsive="">

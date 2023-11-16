@@ -1,0 +1,28 @@
+La relación diámetro/carrera se utiliza para definir una de las principales características mecánicas de un motor de explosión alternativo.
+Es una condición propia de la geometría de los pistones, directamente relacionada con parámetros como la relación de compresión y el régimen de giro, que a su vez influyen en la potencia de un motor.
+En los turismos suelen ser habituales valores bajos (carrera larga) primando la durabilidad del motor, mientras que en la alta competición, como la Fórmula 1, en la que el número de revoluciones del motor es determinante, suelen ser valores altos (carrera corta).
+En ocasiones se utiliza el valor inverso, es decir, la relación entre la carrera y el diámetro.
+Existen bielas que cuentan con un mecanismo que modifica por medio de un bastidor, el pie de biela(donde va el perno del pisotón), que tiene un buje excéntrico, permitiendo modificar el largo de la carrera, en marcha.
+La relación entre el diámetro y la carrera es un parámetro adimensional.
+Se calcula dividiendo el diámetro por la carrera del pistón de un motor de explosión, expresando ambas cantidades con la misma unidad (por ejemplo, en milímetros):
+Según el valor de la relación existente entre el diámetro y la carrera, los motores se denominan de la siguiente manera:
+La elección del diámetro para un motor de una determinada cilindrada está determinada por el resultado que se quiera obtener.
+De hecho, dependiendo de cuánto más grande sea el diámetro, más tendrá que disminuir la carrera, lo que conlleva ciertas ventajas y desventajas:
+Con la misma cilindrada, el uso de una alta relación diámetro/carrera (supercuadrado) conduce a ciertas ventajas:
+S = D × π × C
+Solo para los motores de dos tiempos, el uso de un pistón (y por ende, un cilindro) de gran diámetro conduce a ciertas ventajas:
+56 mm × 50,6 mm
+frente a una de
+54 mm × 54,5 mm
+) se produce una dinámica de fluidos diferente, que permite un menor frente de contacto entre los dos elementos, lo que permite tener una menor dispersión de la mezcla fresca y en consecuencia también mejorar el llenado del cilindro.
+El uso de un pistón o cilindro de gran diámetro también conlleva ciertas desventajas:
+Solo para motores de dos tiempos, el uso de un pistón o cilindro de gran diámetro también conlleva ciertas desventajas:
+El uso de un pistón o cilindro de gran diámetro no tiene ventajas ni desventajas para:
+F = P × S
+La elección de las diversas relaciones entre diámetro y carrera, que generalmente varían entre 0.6:1 y 1.4:1, se basa en lo que se intenta obtener del motor.
+En los turismos, generalmente se usan motores de carrera larga, mientras que en los coches deportivos, como en la Fórmula 1, se utilizan motores super-cuadrados se usan con una proporción de 2.5:1.
+Como es fácil de ver, los motores de carrera larga permiten obtener más fácilmente un relaciones de compresión elevadas, pero en los motores supercuadrados los pistones sufren menores tensiones, por lo que pueden alcanzar una velocidad de rotación superior a 40.000 rpm.
+Sin embargo, muchos coches deportivos están equipados con motores de carrera larga.
+Esto viene dado especialmente por la regulación que impone ciertos límites en las revoluciones máximas o medidas que deben respetarse (diámetro y carrera igual a los modelos estándar), como en las competiciones de rallies, en las que desarrollar motores más potentes implica utilizar relaciones de compresión más altas.
+En los motores de dos tiempos de los deportes de los años 1980 y los primeros 1990, se usaron relaciones supercuadradas porque los materiales y lubricantes en el mercado requerían una reducción en la fricción interna, con la ventaja de poder alcanzar altos regímenes de operación.
+Con la mejora progresiva de los materiales utilizados y de los aceites, dada la mayor complicación de realizar ciclos de combustión con rendimientos constantes en regímenes cada vez mayores, así como la gran dificultad en la fabricación de dispositivos electrónicos de encendido que permitiesen altas revoluciones sin aumentar el costo de producción de los vehículos de serie, se pasó, también para estos motores, a una relación sub-cuadrada (carrera larga), que luego se introdujo también en las competiciones, donde permitió mejorar la eficiencia térmica debido a la cámara de combustión más recogida, sin desventajas significativas.

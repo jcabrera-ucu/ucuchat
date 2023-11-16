@@ -1,0 +1,7 @@
+El RTS Index (RTSI) es un índice de 50 valores de compañías rusas que se negocia en la bolsa de Moscú.
+La lista de compañías del índice se revisa trimestralmente por el Comité de Información del Russian Trading System (RTS).
+El valor del índice se calcual en tiempo real.
+El primer día de cotización de este índice fue el 1 de septiembre de 1995 con un valor de referencia de 100.
+RTS también publica el RTS-2 Index y 5 índices sectoriales.
+El RTS-2 Index se compila similarmente, con los 69 siguientes valores de la bolsa.
+Durante el periodo de 17 de marzo de 2017 a 16 de junio de 2017, la comporición del RTS Index es la siguiente:

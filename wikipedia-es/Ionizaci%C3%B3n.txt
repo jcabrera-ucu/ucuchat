@@ -1,0 +1,83 @@
+La ionización es el fenómeno químico o físico mediante el cual se generan iones, estos son átomos o moléculas cargadas eléctricamente debido al exceso o deficiencia de electrones de acuerdo a un átomo o molécula neutra.
+A la especie química con más electrones que el átomo o molécula neutros se le llama anión, y posee una carga neta negativa, y a la que tiene menos electrones catión, teniendo una carga neta positiva.
+Hay varias maneras por las que se pueden formar iones de átomos o moléculas.
+Los iones cargados negativamente se producen cuando un electrón libre choca con un átomo y posteriormente queda atrapado dentro de la barrera de potencial eléctrico, liberando cualquier exceso de energía.
+El proceso se conoce como ionización por captura de electrones.
+Los iones cargados positivamente se producen transfiriendo una cantidad de energía a un electrón unido en una colisión con partículas cargadas (por ejemplo, iones, electrones o positrones) o con fotones.
+La cantidad umbral de la energía requerida se conoce como potencial de ionización.
+El estudio de tales colisiones es de fundamental importancia con respecto a los sistemas de pocos cuerpos, que es uno de los principales problemas sin resolver de la física.
+Los experimentos cinemáticamente completos, es decir, los experimentos en los que se determina el vector de momento completo de todos los fragmentos de colisión (el proyectil disperso, el ion objetivo en retroceso y el electrón expulsado) han contribuido a importantes avances en la comprensión teórica del problema de los pocos cuerpos en los últimos años.
+La ionización adiabática es una forma de ionización en la que se elimina o se agrega un electrón a un átomo o molécula en su estado de energía más bajo para formar un ion en su nivel energético más bajo.
+La descarga de Townsend es un buen ejemplo de la creación de iones positivos y electrones libres debido al impacto de iones.
+Es una reacción en cascada que involucra electrones en una región con un campo eléctrico suficientemente alto en un medio gaseoso que puede ser ionizado, como el aire.
+Después de un evento de ionización original, debido a una radiación ionizante, el ion positivo se desplaza hacia el cátodo, mientras que el electrón libre se desplaza hacia el ánodo del dispositivo Si el campo eléctrico es lo suficientemente fuerte, el electrón libre gana suficiente energía para liberar un electrón adicional cuando choca con otra molécula.
+Luego, los dos electrones libres viajan hacia el ánodo y obtienen suficiente energía del campo eléctrico para causar la ionización por impacto cuando ocurran las próximas colisiones; etcétera.
+Esto es efectivamente una reacción en cadena de generación de electrones y depende de que los electrones libres obtengan suficiente energía entre colisiones para sostener la avalancha.
+La eficiencia de ionización es la relación entre el número de iones formados y el número de electrones o fotones utilizados.
+La tendencia de la energía de ionización de los átomos se utiliza a menudo para demostrar el comportamiento periódico de los átomos con respecto al número atómico, tal como se resume al ordenar los átomos en la tabla periódica de los elementos.
+Se trata de una valiosa herramienta para establecer y comprender el ordenamiento de los electrones en orbitales atómicos sin entrar en los detalles de las funciones de onda o del proceso de ionización.
+En la figura de la derecha se presenta un ejemplo.
+La disminución periódica abrupta del potencial de ionización después de átomos de gases raros, por ejemplo, indica la aparición de una nueva cáscara en metales alcalinos.
+Además, los máximos locales en el diagrama de energía de ionización, que se mueven de izquierda a derecha en una fila, son indicativos de las subcáscaras s, p, d y f.
+La física clásica y el modelo de Bohr del átomo pueden explicar cualitativamente la fotoionización y la ionización mediada por colisión.
+En estos casos, durante el proceso de ionización, la energía del electrón supera la diferencia de energía de la barrera de potencial que intenta atravesar.
+La descripción semiclásica, sin embargo, no puede describir la ionización túnel ya que el proceso implica el paso del electrón a través de una barrera de potencial clásicamente prohibida.
+La interacción de átomos y moléculas con pulsos láser suficientemente potentes conduce a la ionización en iones con carga simple o múltiple.
+La tasa de ionización, es decir, la probabilidad de ionización en unidad de tiempo, sólo puede calcularse mediante mecánica cuántica.
+En general, las soluciones analíticas no están disponibles, y las aproximaciones necesarias para realizar cálculos numéricos manejables no proporcionan resultados suficientemente precisos.
+Sin embargo, cuando la intensidad del láser es suficientemente alta, la estructura detallada del átomo o molécula puede ignorarse y es posible la solución analítica para la tasa de ionización.
+.
+La ionización túnel es la ionización debida al efecto túnel.
+En la ionización clásica, un electrón debe tener suficiente energía para superar la barrera de potencial, pero la tunelización cuántica permite que el electrón simplemente atraviese la barrera de potencial en lugar de superarla completamente debido a la naturaleza ondulatoria del electrón.
+La probabilidad de que un electrón atraviese la barrera disminuye exponencialmente con la anchura de la barrera de potencial.
+Por lo tanto, un electrón con una energía más alta puede llegar más arriba en la barrera de potencial, dejando una barrera mucho más fina para atravesar por túnel y, por lo tanto, una mayor probabilidad de hacerlo.
+En la práctica, la ionización túnel es observable cuando el átomo o la molécula interactúan con impulsos láser intensos en el infrarrojo cercano.
+Este proceso puede entenderse como un proceso mediante el cual un electrón ligado, a través de la absorción de más de un fotón del campo láser, se ioniza.
+Esta imagen se conoce generalmente como ionización multifotónica (MPI).
+Keldysh modeló el proceso MPI como una transición del electrón desde el estado fundamental del átomo a los estados Volkov.
+En este modelo se desprecia la perturbación del estado básico por el campo láser y no se tienen en cuenta los detalles de la estructura atómica en la determinación de la probabilidad de ionización.
+La mayor dificultad del modelo de Keldysh era que no tenía en cuenta los efectos de la interacción de Coulomb en el estado final del electrón.
+Como se observa en la figura, el campo de Coulomb no es muy pequeño en magnitud comparado con el potencial del láser a mayores distancias del núcleo.
+Esto contrasta con la aproximación realizada despreciando el potencial del láser en regiones cercanas al núcleo.
+Perelomov et al.
+incluía la interacción de Coulomb a distancias internucleares mayores.
+Su modelo (que llamamos modelo PPT) se derivó para un potencial de corto alcance e incluye el efecto de la interacción de Coulomb de largo alcance a través de la corrección de primer orden en la acción cuasiclásica.
+Larochelle et al. han comparado las curvas de ionización frente a intensidad predichas teóricamente de átomos de gases raros que interactúan con un láser Ti:Sapphire con mediciones experimentales.
+Han demostrado que la tasa de ionización total predicha por el modelo PPT se ajusta muy bien a los rendimientos experimentales de iones para todos los gases raros en el régimen intermedio del parámetro de Keldysh.
+La tasa de MPI en un átomo con un potencial de ionización E_i en un láser polarizado linealmente con frecuencia \omega viene dada por
+donde
+Los coeficientes f_{lm}, g(\gamma) and C_{n^* l^*} vienen dados por
+El coeficiente viene dado por
+donde
+En ciertas reacciones químicas la ionización ocurre por transferencia de electrones; por ejemplo, el cloro reacciona con el sodio para formar cloruro de sodio, que consiste en iones de sodio (Na+) e iones de cloruro (Cl-).
+La condición para que se formen iones en reacciones químicas suele ser una fuerte diferencia de electronegatividad entre los elementos que reaccionan o por efectos de resonancia que estabilizan la carga.
+Además la ionización es favorecida por medios polares que consiguen estabilizar los iones.
+Así el pentacloruro de fósforo (PCl5) tiene forma molecular no iónica en medios poco polares como el tolueno y disocia en iones en disolventes polares como el nitrobenceno (O2NC6H5).
+La presencia de ácidos de Lewis como en los haluros de aluminio o el trifluoruro de boro (BF3) también puede favorecer la ionización debido a la formación de complejos estables como el [AlCl4-].
+Así la adición de tricloruro de aluminio a una disolución del cloruro de tritl (Cl-CPh3), un compuesto orgánico, resulta en la formación del tetracloroaluminato de tritilio ([AlCl4]-[CPh3]+), una sustancia iónica y la adición de cloruro de aluminio a tetraclorociclopropeno (C3Cl4, un líquido orgánico volátil) proporciona el tetracloroaluminato de triclorociclopropenilio ([AlCl4]-[C3Cl3]+) como sólido incoloro.
+A este proceso se le suman las sumas de los electrones compuestos por menos cargas negativas al núcleo del primer átomo consecutivo.
+En el ambiente (aire, agua, suelo, etc.) existen algunos microorganismos o microbios que podrían ser dañinos para la salud humana, y sobreviven aprovechando los nutrientes a su alcance para desarrollarse o permanecer en ellos.
+La esterilización es la práctica que tiene por fin destruir o eliminar todos los microbios.
+El efecto bactericida de las radiaciones es conocido desde tiempos antiguos, así por ejemplo se sabe que la radiación solar, o más precisamente las radiaciones ultravioletas, son agentes naturales de esterilización.
+Sin embargo, las radiaciones electromagnéticas infrarrojas son las menos eficaces debido a su gran longitud de onda.
+La esterilización mediante rayos gamma es una tecnología que ha sido identificada como una alternativa segura para reducir la carga microbiana en alimentos y en insumos que entran en contacto directo con ellos, reduciendo el riesgo de contagio de enfermedades transmitidas por alimentos, en la producción, procesamiento, manipulación y preparación de estos, todo lo cual aumenta la calidad y competitividad de los productos otorgándoles un mayor valor añadido.
+La energía ionizante se puede originar a partir de tres fuentes distintas: rayos gamma, una máquina generadora de electrones y rayos X.
+La fuente más común de los rayos gamma es el cobalto-60.
+Los rayos gamma se componen de ondas electromagnéticas de longitud de onda muy cortas que penetran en los envases y productos expuestos a dicha fuente, ocasionando pequeños cambios estructurales en la cadena de ADN de las bacterias o microorganismos, causándoles la muerte o dejándolas inviables o estériles, sin capacidad de replicarse.
+La tecnología permite el tratamiento de los productos en su envase final.
+La energía ionizante es factible de ser aplicada a una gran variedad de productos, con el fin de esterilización o reducción de carga microbiana, eliminando patógenos que pueden ser dañinos para la salud.
+Entre los productos tratados se encuentran: Alimentos, cosméticos, productos médicos, hierbas medicinales, productos de laboratorio y farmacéutico, alimento animal y embalajes.
+La tecnología existe en forma comercial desde la década de 1950 y está autorizada su uso en más de treinta países, para más de cincuenta productos alimentarios.
+Cuenta con la aprobación de importantes organismos internacionales como: la WHO, FAO y la IAEA.
+También cuenta con la aprobación de la FDA, que plasma su normativa en el código 21 CFR 179.26.
+Estas entidades pueden recomendar, regular o legislar sobre la correcta aplicación de la tecnología, estableciendo los parámetros adecuados de operación y las dosis máximas aplicables a cada tipo de producto.
+Los rayos gamma no dejan ningún tipo de residuos y es efectivo contra organismos patógenos y permite la obtención de alimentos inocuos y sanos.
+Así lo aseguran quienes han apostado por esta alternativa, cuyo uso ha venido ampliándose en los últimos años.
+Diversas investigaciones han demostrado que no se producen pérdidas significativas de nutrientes en los alimentos.
+Otra aplicación importante aún en fase de I+D es la de la detección de explosivos y sustancias peligrosas o prohibidas mediante la ionización por electrospray, conjuntamente con análisis de movilidad (DMA) y espectrometría de masas (MS / MS).
+En España, una empresa tecnológica, SEDET (Sociedad Europea de Detección), está desarrollando un equipo con estas características útil para la detección de explosivos, drogas o cualquier tipo de sustancias peligrosas o prohibidas que utilizaría la ionización por electrospray.
+El equipo se denomina "Air Cargo explosivo Screener (ACES)" y está dirigido fundamentalmente a contenedores de carga aérea o puertos.
+Sedet es una Joint Venture creada por SEADM, Morpho y el centro tecnológico CARTIF con el fin de desarrollar esta nueva generación de sistemas de detección de las trazas que dejan las sustancias explosivas.
+Un electro-spray (ES) ionizador es un dispositivo que fue propuesto originalmente por Fenn.
+La mezcla de este aerosol cargado iónicamente con una muestra de aire que pueda contener vapores de explosivos (o partículas) conduce a la ionización de las moléculas de explosivos, ya sea por el contacto con las gotas o por intercambio de carga con los iones producidos por la evaporación de gotas ES.
+Esto conduce a la formación de iones moleculares que pueden ser analizados en la DMA y la MS. La ionización ES se utiliza con mayor frecuencia para las grandes especies de peso molecular biológicos, pero también es ideal para trazar la detección de explosivos de baja volatilidad por las razones siguientes:

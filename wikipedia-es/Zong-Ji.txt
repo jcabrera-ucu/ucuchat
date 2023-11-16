@@ -1,0 +1,88 @@
+Zong-Ji es un juego para tablets y smartphones, recuperado de una antigua tradición china hace 4500 años.
+Con este juego la capacidad mental del jugador aumenta, ya que el hecho de calcular sumas sin la ayuda de papel y lápiz, agiliza la fluidez en el cálculo mental.
+Zong-Ji significa literalmente sumar en chino tradicional.
+El juego Zong-Ji fue propuesto en 2011 por Josep A. Esteve i Torres, desde la empresa Tons of Toons.
+En 2012, la empresa AppStar se hizo con los derechos de promoción de la aplicación.
+En un principio el juego fue diseñado como Appgame para smartphone y tablet, aunque se ha desarrollado también para prensa escrita.
+El origen del concepto de este juego, se basa en la llamada Leyenda Zong-Ji recogida en un texto manuscrito del que a su vez reproduce con esquemas y dibujos un texto anterior del , hallado en el noreste de España, donde se describen los increíbles hallazgos de un personaje llamado Jaume de Vilanova que acompañó la segunda expedición de Marco Polo a China y que regresó a Europa muchos años más tarde que el navegante genovés.
+El funcionamiento mecánico de la numeración del Zong-Ji se basa en el concepto de Metacubo, creado también por Josep A. Esteve en 2011.
+El Zong-Ji es un juego de habilidad matemática en forma de matriz cuadrada (2x2, 3x3,…), o grupo de matrices desde 2(2x2) hasta 9(3x3).
+Las columnas y las filas de la matriz tienen un valor de suma.
+El usuario/jugador debe encontrar los elementos de la matriz a partir de los valores de la suma que han sido dados.
+La estructura del Zong-Ji 3x3 y 2x2 se representa como muestran las siguientes figuras :
+(1) y (2)
+Los elementos de la matriz del Zong-Ji 2x2 (y en general para todos los Zong-Ji), se describen de la siguiente forma:
+--> a11,a12,a21, a22 : Números de la matriz que el jugador debe deducir.
+Pueden ser positivos o negativos.
+--> ∑F1, ∑F2, ∑C1,∑C2 : Sumas finales horizontales y verticales resultantes de operar sobre los números de la matriz.
+Es el resultado correcto de las sumas.
+Esta información se le entrega al jugador.
+--> SF1, SF2, SC1,SC2 : Sumas parciales de juego.
+Son los resultados parciales que obtiene el jugador mientras busca el resultado definitivo de los valores numéricos de la matriz.
+De forma simplificada podemos dibujar el Zong-Ji 2x2 y 3x3 de la forma:
+(3) y (4)
+Se pueden realizar combinaciones de matrices como indican las figuras siguientes:
+(5) y (6)
+El juego estará resuelto cuando se resuelva la matriz.
+Se dará como acabado el juego, cuando los valores de solución SF1, SF2, SC1,SC2  coincidan uno a uno con los valores de búsqueda ∑F1, ∑F2, ∑C1,∑C2 .
+Para el caso de los Concursos de Zong-Ji, el valor de la resolución del juego no lo dará solo el hecho de haber resuelto la matriz, sino también el tiempo que se ha tardado en hacerlo.
+Será el valor del tiempo el que indique, ante la misma resolución, quién es el ganador.
+Un metacubo es un dado de infinitas caras de juego, esto es, manteniendo la estructura clásica de un cubo poliédrico normal, el jugador podrá ir rotando rotaciones en X-abscisas e Y-ordenadas) indefinidamente el cubo apareciendo conceptos nuevos en las caras del mismo. El número de conceptos nuevos (caras) es indefinido, pudiendo ser infinito. Los números de la matriz del Zong-Ji serán la cara de Dados–Metacubos.
+En el caso del Zong-Ji Appgame, el dado-metacubo puede tener el valor 0,1,2,3,4,5,6,7,8,y 9 en ambos ejes de rotación.
+En la rotación horizontal el color de la cara será negro y el valor del número será positivo.
+En la rotación vertical el color de la cara será rojo y el valor del número será negativo.
+Así mismo, las combinaciones de cambio de color por cambio de eje de rotación.
+Todos los casos se representan en las siguientes figuras, usando como ejemplo el cambio de cero a uno.
+(7) y (8)
+Tal como se ha indicado el Zong-Ji es un juego de habilidad matemática que consiste en encontrar los números que componen la matriz de juego y son responsables de las sumas resultantes en vertical y horizontal.
+A pesar de que las normas de juego son extraordinariamente simples, el Zong-Ji puede tener distintos niveles de dificultad que permite establecer una escala de complejidad de juego y por tanto de Niveles de competición.
+La complejidad viene determinada por los siguientes conceptos y sus combinaciones:
+-Rango de la matriz: La matriz dictamina el nombre del Zong-Ji en juego, esto es, si la matriz es 2x2, hablaremos de un Zong-Ji 2x2.
+Si es 3x3, hablaremos de un Zong-Ji 3x3, y así sucesivamente.
+-Número de colores: Existen dos ejes de rotación de juego para los dados-metacubos, con dos direcciones posibles para cada rotación, por tanto existen cuatro movimientos diferenciados:
+-->Horizontal de derecha a izquierda
+-->Horizontal de izquierda a derecha
+-->Vertical de arriba abajo
+-->Vertical de abajo a arriba
+A cada movimiento se le puede adjudicar un color y por tanto una característica de juego.
+Normalmente el Zong-Ji establece:
+-->Un color (negro) para todos los movimientos.
+Los números son siempre positivos.
+Se llama Zong-Ji de un solo color
+-->Dos colores (negro y rojo) para los pares de rotaciones.
+Los números pueden ser positivos (negros) o negativos (rojos)
+-Número de valores posibles de los números de la matriz: Los números de la matriz pueden obtener los valores  de la base numérica que se quiera.
+Así, pueden establecerse valores en un rango de 0 a 6, o de 0 a 3, etc…a efectos prácticos siempre serán bases de un dígito, esto es, base de valores del conjunto (0,1,2,3,4,5,6,7,8,9).
+-Ayudas para el usuario.
+Números liberados: Dependiendo de cómo se combinen los conceptos expuestos hasta ahora, podemos diseñar Zong-Jis de muy distinta complejidad.
+Para contra restar esta complejidad pueden darse ayudas al usuario jugador de varias maneras:
+-->Mostrando algunos de los valores de los números de la matriz a resolver.
+-->Limitando valores, colores o rango matricial.
+Dependiendo de las ayudas aportadas o requeridas por el jugador, el valor de dificultad se establecerá en niveles de usuario y marcará un rango de niveles de dificultad o competitividad, estableciendo un hándicap para el jugador del Zong-Ji a la usanza de un jugador de golf.
+-Presentación: Existen dos formas de presentar el Zong-Ji a resolver:
+-->Normal: Cuando se propone al jugador la resolución del juego, con todas las sumas a la vista.
+-->Punteada: Cuando se muestran solo determinados valores de las sumas o elementos de la matriz, para que el jugador complete el resto.
+Las dos figuras siguientes muestran las dos formas de presentar el Zong-Ji, la Normal y la Punteada:
+(9) y (10)
+El Zong-Ji simple, esto es, el compuesto por una sola matriz de Metacubos puede contener una enorme cantidad de variaciones según el número de colores de los números usados, lo cual establece una jerarquía de niveles:
+-Zong-Ji 2x2 a 1 color con operador suma sobre valores de 0 a 9: Existen 10.000 (104 ) combinaciones posibles.
+Nivel infantil.
+-Zong-Ji 2x2 a 2 colores con operador suma sobre valores de 0 a 9: existen 160.000 (204 ) combinaciones posibles.
+Nivel infantil a juvenil.
+-Zong-Ji 3x3 a 1 color con operador suma sobre valores de 0 a 9.Existen 1.000.000.000 (109 ) combinaciones posibles.
+Nivel juvenil a sénior.
+-Zong-Ji 3x3 a 2 colores con operador suma sobre valores de 0 a 9.
+Existen 512.000.000.000 (209 ) combinaciones posibles.
+Nivel sénior a superior.
+Como caso extremo de complejidad se pueden componer los Zong-Jis 4x4
+-Zong-Ji 4x4 a 1 color con operador suma sobre valores de 0 a 9.Existen 10.000.000.000.000.000 (1016) combinaciones posibles.
+-Zong-Ji 4x4 a 2 colores con operador suma sobre valores de 0 a 9.
+Existen 655.000.000.000.000.000.000 (2016 ) combinaciones posibles.
+El Zong-Ji Libre será aquel que sea costumizable por el propio usuario/jugador, estableciendo él mismo los valores de juego que le interesen.
+La complejidad del Zong-Ji simple diseñado, se establecerá por el número de combinaciones posibles de la matriz, esta combinatoria se calculará con la ecuación
+(ax)v con  v= n2
+donde:
+a: número de colores.
+x: valores posibles de los números de la matriz.
+n: rango de la matriz.
+Para el caso de los Zong-Jis compuestos de varias matrices, el número de combinaciones y niveles aumenta extraordinariamente.

@@ -1,0 +1,11 @@
+El Samsung Galaxy S Duos (S7562), ocasionalmente samsung Galaxy Trend (S7560)) es un teléfono inteligente de gama media creado por la compañía Samsung que soporta dos tarjetas SIM (DualSIM), lanzado en Europa en septiembre de 2012. Está basado e inspirado en el Samsung Galaxy SIII, sobre todo a nivel de diseño.
+Qualcomm Snapdragon 7227A (familia Snapdragon S1) single core de 45 nanómetros con arquitectura ARM Cortex a 1 Ghz.
+768MB de RAM (512MB disponible para el usuario), 4GB de memoria interna (1,8GB disponibles para el usuario) y ranura para tarjeta MicroSD de hasta 32GB.
+Chip Adreno 200.
+Cuenta con una cámara de 5 megapíxeles y un zum digital 2x, además de flash led, autoenfoque y otras posibles características como disparo por sonrisa o función panorámica.
+Posee también una cámara frontal VGA.
+El Galaxy S Duos viene equipado con una pantalla TFT WVGA de 4 pulgadas con una resolución de 480x800px y 233ppi., equipado con TouchWiz.
+El Galaxy S Duos sale de fábrica con el sistema Android Ice Cream Sandwich (4.0.4) dotado con la interfaz Touchwiz (4.0) propia de Samsung, además de algunas aplicaciones, como Kies, ChatON y Games Hub.
+Además, cuenta con numeroso soporte y desarrolladores que han creado ROM personalizadas para este modelo.
+El terminal se inspira en el Samsung Galaxy S III y hereda su aspecto externo de bordes redondeados y una carcasa que combina borde plástico color metal y plástico blanco.
+El S7560M posee las mismas características tanto de aspecto como de funciones internas, solo que no comparte la función de dual sim.

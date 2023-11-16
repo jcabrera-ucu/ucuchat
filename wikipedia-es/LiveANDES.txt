@@ -1,0 +1,9 @@
+LiveANDES (Advanced Network for the Distribution of Endangered Species) es una plataforma web de acceso gratuito que permite ingresar, visualizar y compartir datos georreferenciados y fotos de avistamientos de fauna silvestre de Chile.
+Actualmente está en versión beta.
+Uno de los objetivos de esta plataforma es aportar al conocimiento y conservación de las especies promoviendo la observación e intercambio de registros de presencia de fauna silvestre y así en un futuro crear una comunidad mundial de conservación en las Américas, gracias a la promoción de la ciencia ciudadana.
+El valor de intercambio de datos para las ubicaciones de la vida silvestre se refiere principalmente a la necesidad de cartografiar la presencia y distribución de las especies en peligro de extinción, para de esta forma poder evaluar su estado de conservación de acuerdo a las normas internacionales (Lista roja IUCN).
+En el contexto de ciencia ciudadana, cualquier persona puede ingresar un avistamiento, de gran utilidad para científicos y organismos públicos y privados preocupados de la conservación y manejo de vida silvestre.
+Por otro lado, los usuarios pueden aprender más sobre la distribución de especies, organizar sus avistamientos y aportar a la conservación.
+LiveANDES cuenta con una base de datos de referencia para el ingreso de todos los vertebrados terrestres (aves, mamíferos, reptiles y anfibios) y tortugas marinas de Chile y es posible visualizar dichos avistamientos por áreas ecológicas, administrativas y de protección en todo el país.
+Los próximos pasos incluyen agregar las bibliotecas de especies en peligro de extinción de Bolivia, México y próximamente toda América para el intercambio de datos y la cartografía.
+Actualmente se encuentra disponible como aplicación móvil para dispositivos con Windows Phone.

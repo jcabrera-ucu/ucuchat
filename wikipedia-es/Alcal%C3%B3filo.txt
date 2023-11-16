@@ -1,0 +1,9 @@
+Los alcalófilos o basófilos son microorganismos extremófilos que se desarrollan en ambientes con valores de pH comprendidos entre 8,5 y 11.
+Los hábitats donde viven son muy básicos, como lagos sódicos o suelos muy carbonatados.
+Los alcalófilos mejor estudiados pertenecen al género Bacillus sp.
+Los organismos alcalófilos necesitan aislar el interior de la célula del medio alcalino exterior, ya que algunas moléculas como las de ARN no son estables si el pH es superior a 8.
+- Alcalófilos obligados: Necesitan un pH elevado para sobrevivir.
+- Alcalófilos facultativos: Pueden sobrevivir cuando el pH es elevado pero también crecen en medios normales.
+Como algunas bacterias aeróbicas no marinas, como muchas especies de Bacillus spirulina (cianobacterias) y de arqueas.
+- Haloalcalófilos: son también organismos halófilos, y necesitan altas cantidades de sal para sobrevivir.
+La mayoría pertenecen al dominio Archaea.

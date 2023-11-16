@@ -1,0 +1,6 @@
+Cyclos es un sistema de banca en línea de código abierto para instituciones microfinancieras, bancos locales (en países en vías de desarrollo) y sistemas de moneda local como LETS, redes de trueque y bancos de tiempo.
+Cyclos tiene las siguientes funcionalidades:
+A Cyclos se puede acceder a través de la Web pero también soporta la utilización de teléfonos móviles (WAP/SMS) y dispositivos de puntos de venta (POS), habilitando pagos a través de mensajes SMS y tarjetas.
+Links de Cyclos 
+Software de monedas complementarias
+Hosts de Cyclos 

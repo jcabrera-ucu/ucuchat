@@ -1,0 +1,26 @@
+Jungle Hunt es un videojuego creado por Taito en 1982.
+También es conocido como Jungle King en lanzamientos anteriores.
+El jugador controla a un explorador de la jungla que lleva un Sombrero de explorador y un atuendo de safari.
+El jugador debe rescatar a la novia del explorador, que está en manos de una tribu caníbal.
+Para hacer esto, el jugador va a tener que desplazarse de liana en liana, bucear a través de un río infestado de cocodrilos, saltar unas rocas que caen por una cuesta y finalmente salvar a la chica saltando a los caníbales y llegando hasta la olla en la que la estaban cocinando.
+Jungle Hunt ha cambiado su nombre en varias ocasiones.
+El videojuego original se iba a llamar Jungle Boy, que más tarde fue cambiado a Jungle King para su publicación en las arcades.
+En esas versiones más antiguas el jugador era un hombre con un taparrabos parecido a Tarzán.
+El videojuego volvió a ser publicado como Jungle Hunt debido a problemas de copyright, en el cual se cambiaron estos elementos:
+También ha sido publicada una variante del juego llamada Pirate Pete.
+El videojuego era el mismo solo que con un pirata sustituyendo al explorador.
+Los niveles de Pirate Pete están basados en objetos piratas.
+Hay cuatro escenas, cada una con su objetivo.
+En la escena 1, el explorador ha de saltar de liana en liana.
+Para esto solo se usa un botón.
+Si se falla, el explorador se cae al suelo.
+En la escena 2 el explorador sale nadando en un río infestado de cocodrilos.
+El explorador los puede atacar con su cuchillo, a no ser que los cocodrilos tengan la boca abierta.
+El explorador tiene que volver de vez en cuando a la superficie para respirar, donde él no puede atacar a los cocodrilos.
+Las burbujas empujan al explorador a la superficie por unos segundos, lo cual puede hacer que le devoren los cocodrilos.
+En la escena 3 en explorador sube una cuesta llena de rocas que están cayendo de un volcán.
+En la escena final, el explorador debe esquivar los golpes de los caníbales y llegar hasta el caldero donde está la princesa.
+Después de eso, aparece la palabra "Congratulations!"
+en la pantalla, tras la cual sale el mensaje de amor "I Love You!!!", y por último la princesa besa al explorador.
+El juego repite las escenas con más dificultad.
+Jungle Hunt está disponible para estas plataformas:

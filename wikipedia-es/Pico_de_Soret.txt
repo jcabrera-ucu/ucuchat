@@ -1,0 +1,3 @@
+El pico de Soret o la banda de Soret, en espectroscopia, es un pico intenso en la longitud de onda azul del espectro visible.
+Este pico es llamado en honor de su descubridor, Jacques-Louis Soret.
+El término es comúnmente usado en espectroscopia de absorción, el cual corresponde a una longitud de onda de máxima absorción alrededor de los 400 nm en la región azul del espectro visible.

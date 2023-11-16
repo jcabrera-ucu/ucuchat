@@ -1,0 +1,109 @@
+El biogás es un combustible que se genera en medios naturales o en dispositivos específicos, por las reacciones de biodegradación de la materia orgánica, mediante la acción de microorganismos y otros factores, en ausencia de oxígeno (esto es, en un ambiente anaeróbico).
+Este gas se ha venido llamando gas de los pantanos.
+El biogás se obtiene de desperdicios orgánicos, puesto que en ellos se produce una biodegradación de residuos vegetales semejante a la descrita.
+La producción de biogás por descomposición anaeróbica es un modo útil de tratar residuos biodegradables, ya que produce un combustible valioso, además de generar un efluente que puede aplicarse como acondicionador de suelo o abono genérico.
+El resultado es una mezcla constituida por metano en una proporción que oscila entre un 50% y un 70% en volumen, y dióxido de carbono más pequeñas proporciones de otros gases como hidrógeno, nitrógeno, oxígeno y ácido sulfhídrico/sulfuro de hidrógeno.
+El biogás tiene como promedio un poder calorífico entre 18,8 y 23,4 megajulios por metro cúbico (MJ/m³).
+Este gas, adecuadamente depurado, se puede utilizar para producir energía eléctrica mediante turbinas o plantas generadoras a gas, y también para producir calor en hornos, estufas, secadores, calderas, calefacción u otros sistemas debidamente adaptados.
+La composición química del biogás depende primordialmente de dos factores: los materiales empleados en la digestión y la tecnología utilizada para el proceso.
+Teniendo eso en cuenta, el biogás puede contener entre 55 - 70% de metano, 30 - 45% de dióxido de carbono y < 5% trazas de otros gases (considerados impurezas).
+Entre sus características el biogás posee un poder calorífico entre 6 - 6,5 kWh/Nm³, su equivalente en combustible es de 0,6 - 0,65 L de petróleo por metro cúbico de biogás.
+Temperatura de ignición de 650 a 750 °C.
+Presión crítica de 74 a 88 atmósfera.
+Temperatura crítica de -82,5 °C.
+Densidad de 1,2 kg/m³.
+Masa molar de 16,043 g/mol.
+El proceso de producción de biogás mediante digestión anaeróbica de la materia orgánica se divide en cuatro etapas.
+Así lo han demostrado estudios bioquímicos y microbiológicos realizados hasta la actualidad.
+Para iniciar el proceso de descomposición anaeróbica es necesario que los compuestos orgánicos puedan atravesar la pared celular y así aprovechar la materia orgánica.
+Los microorganismos hidrolíticos producen enzimas extracelulares capaces de convertir la materia orgánica polimérica en compuestos orgánicos solubles.
+Esta etapa es determinante en la velocidad global del proceso de producción de biogás y puede verse afectada por factores como: la temperatura, el pH, el tamaño de las partículas, la composición bioquímica del sustrato, entre otros.
+Se produce la transformación de las moléculas orgánicas solubles en compuestos que pueden ser aprovechados por las bacterias metanogénicas (acético, fórmico e hidrógeno), otros más reducidos como (valérico, propiónico, láctico y otros) y ciertos compuestos que no pueden ser aprovechados por estas bacterias (etanol, ácidos grasos, y compuestos aromáticos).
+También eliminan cualquier traza de oxígeno presente en el biodigestor.
+Aprovechan los compuestos que no pueden ser metabolizadas por las bacterias metanogénicas (etanol, ácidos grasos, y compuestos aromáticos) y los transforman en compuestos más simples como acetato e hidrógeno.
+Unos microorganismos acetogénicos muy especiales, denominados homoacetogénicos son capaces de solo producir acetato y pueden ser empleados para mantener bajas presiones parciales de gas hidrógeno ya que no lo producen.
+Las bacterias metanogénicas actúan sobre los productos de las etapas anteriores y completan el proceso de descomposición anaeróbica mediante la producción de metano.
+Se ha demostrado que el 70% del metano producido en biodigestor es resultado de la descarbolixación del ácido acético, debido a que solo dos géneros de bacterias metanogénicas pueden usar el acetato.
+Un biodigestor es un sistema natural o artificial que aprovecha la digestión anaerobia (en ausencia de oxígeno) de las bacterias que ya habitan en el estiércol, para transformar este en biogás y fertilizante.
+El biogás puede ser empleado como combustible en las cocinas, y en grandes instalaciones se puede utilizar para alimentar un generador que produzca electricidad o puede producir energía térmica utilizando un quemador.
+El fertilizante, llamado biol, inicialmente se ha considerado un producto secundario, pero actualmente se está considerando de la misma importancia, o mayor, que el biogás, ya que provee a las familias campesinas de un fertilizante natural que mejora mucho el rendimiento de las cosechas.
+Los biodigestores familiares de bajo costo han sido desarrollados y están ampliamente implantados en países del sureste asiático, pero en Sudamérica, solo países como Argentina, Cuba, Colombia y Brasil tienen desarrollada esta tecnología.
+Estos modelos de biodigestores familiares, construidos a partir de mangas de polietileno tubular, se caracterizan por su bajo costo, fácil instalación y mantenimiento, así como por requerir sólo de materiales locales para su construcción.
+Por ello se consideran una ‘tecnología apropiada’.La falta de leña para cocinar en diferentes regiones de Bolivia hacen a estos sistemas interesantes para su difusión y divulgación a gran escala.
+Las familias dedicadas a la agricultura suelen ser propietarias de pequeñas cantidades de ganado (dos o tres vacas, por ejemplo) y pueden, por tanto, aprovechar el estiércol para producir su propio combustible y un fertilizante natural mejorado.
+Se debe considerar que el estiércol acumulado cerca de las viviendas supone un foco de infección, olores y moscas que desaparecerán al ser introducido el estiércol diariamente en el biodigestor familiar.
+También es importante recordar la cantidad de enfermedades respiratorias que sufren, principalmente las mujeres, por la inhalación de humo al cocinar en espacios cerrados con leña o excremento seco.
+La combustión del biogás no produce humos visibles y su carga en ceniza es infinitamente menor que el humo proveniente de la quema de madera.
+En el caso de Bolivia, donde existen tres regiones diferenciadas como altiplano, valle y trópico, esta tecnología se introdujo en el año 2002 en Mizque, (2200 Cochabamba) como parte de la transferencia tecnológica a una ONG cochabambina.
+Desde entonces, en constante colaboración por Internet con instituciones de Camboya, Vietnam y Australia, y la ONG de Cochabamba, estos sistemas han sido adaptados al altiplano.
+La primera experiencia fue en el año 2003 instalando un biodigestor experimental a 4100 que aprovechaba el efecto invernadero.
+Este diseño preliminar sufrió un desarrollo para abaratar costes y adaptarlo a las condiciones rurales manteniendo el espíritu de tecnología apropiada.
+Son tres los límites básicos de los biodigestores: la disponibilidad de agua para hacer la mezcla con el estiércol que será introducida en el biodigestor, la cantidad de ganado que posea la familia (tres vacas son suficientes) y la apropiación de la tecnología por parte de la familia.
+Este modelo de biodigestor consiste en aprovechar el polietileno tubular (de color negro en este caso) empleado en su color natural transparente en capas solares, para disponer de una cámara de varios metros cúbicos cerrada herméticamente.
+Este hermetismo es esencial para que se produzcan las reacciones biológicas anaerobias.
+El film de polietileno tubular se amarra por sus extremos a tuberías de conducción, de unos 150 mm de diámetro, con tiras elásticas recicladas de las cámaras de las ruedas de los autos.
+Con este sistema, calculando convenientemente la inclinación de dichas tuberías, se obtiene un depósito hermético.
+Al ser el polietileno tubular flexible, es necesario construir una ‘cuna’ que lo albergue, ya sea cavando una zanja o levantando dos paredes paralelas.
+Una de las tuberías servirá como entrada de materia prima (mezcla de estiércol con agua de 1:4).
+En el biodigestor se alcanza finalmente un equilibrio de nivel hidráulico, por el cual, según la cantidad de estiércol mezclado con agua que se introduzca, saldrá una determinada cantidad de fertilizante por la tubería del otro extremo.
+Debido a la ausencia de oxígeno en el interior de la cámara hermética, las bacterias anaerobias contenidas en el propio estiércol comienzan a digerirlo.
+Primeramente se produce una fase de hidrólisis y fermentación, posteriormente una acetogénesis y finalmente la metanogénesis por la cual se produce metano.
+El producto gaseoso llamado biogás realmente tiene otros gases en su composición, como son nitrógeno molecular (2-3%) y sulfhídrico (0,5-2%), siendo el metano el más abundante con un 60-80%.
+La conducción de biogás hasta la cocina se hace directa, manteniendo todo el sistema a la misma presión: entre 8 y 13 cm de columna de agua dependiendo de la altura y el tipo de fogón.
+Esta presión se alcanza incorporando en la conducción una válvula de seguridad construida a partir de una botella de refresco.
+Se incluye un ‘tee’ en la conducción, y mientras sigue la línea de gas, el tercer extremo de la tubería se introduce en el agua contenida en la botella de 8 a 13 cm. También se añade un reservorio, o almacén de biogás, en la conducción, permitiendo almacenar unos 2 o 3 metros cúbicos de biogás.
+Estos sistemas adaptados para altiplano han de ser ubicados en ‘cunas’ enterradas para aprovechar la inercia térmica del suelo, o bien dos paredes gruesas de adobe en caso de que no se pueda cavar.
+Además se encierran los biodigestores en un invernadero de una sola agua, apoyado sobre las paredes laterales de adobe.
+En el caso de biodigestores de trópico o valle, el invernadero es innecesario pero se ha de proteger el plástico con una semisombra.
+Los costes en materiales de un biodigestor pueden variar de 110 dólares para trópico a 170 dólares para altiplano, ya que en la altura tienen mayores dimensiones y requieren de carpa solar.
+Los biodigestores deben ser diseñados de acuerdo con su finalidad, la disposición de ganado y tipo, y la temperatura a la que van a trabajar.
+Un biodigestor puede ser diseñado para eliminar todo el estiércol producido en una granja de cerdos, o bien como herramienta de saneamiento básico en un colegio.
+Otro objetivo sería el de proveer de cinco horas de combustión en una cocina a una familia, para lo que ya sabemos que se requieren 20 kilos de estiércol fresco diariamente.
+Como se comentó anteriormente, el fertilizante líquido obtenido es muy preciado, y un biodigestor diseñado para tal fin a permitir que la materia prima esté más tiempo en el interior de la cámara hermética, así como reducir la mezcla con agua a 1:3.
+La temperatura ambiente en que va a trabajar el biodigestor indica el tiempo de retención necesario para que las bacterias puedan digerir la materia.
+En ambientes de 30 °C se requieren unos 10 días, a 20 °C unos 25 y en altiplano, con invernadero, la temperatura de trabajo es de unos 10 °C de media, y se requieren 55 días de tiempo de retención.
+Por esta razón, para una misma cantidad de materia prima entrante, se requiere un volumen cinco veces mayor para la cámara hermética en el altiplano que en el trópico.
+Existen instalaciones diseñadas para producir biogás gracias a la recepción de residuos industriales.
+Gracias a estas plantas muchos de estos residuos ya no acaban en vertederos o tirados en el suelo como lixiviados que contaminan los acuíferos.
+La gran mayoría de residuos procedentes de granjas como los purines, residuos procedentes de la agricultura como maíz o cereales, otros residuos orgánicos de la industria alimentaria o incluso algunos lodos de depuradora o la fracción orgánica de los residuos sólidos urbanos pueden ser susceptibles de ser tratados en plantas de biogás para su aprovechamiento energético.
+En todo este proceso de desarrollo, divulgación y difusión de esta tecnología en Bolivia hay varias lecciones aprendidas.
+La introducción de los biodigestores en una familia significa que ya no se requiere buscar leña diariamente para cocinar, tarea normalmente asignada a las mujeres y niños.
+Es necesario apropiarse de la tecnología como nuevo combustible para cocinar.
+Incluso para hacer las cocinas de biogás se han adaptado las cocinas tradicionales de barro mejorado para que la combustión de biogás sea más eficiente.
+Esta liberación de la carga de trabajo implica mayor disponibilidad de tiempo para otros usos productivos, capacitación, participación social, etc. Por otro lado, la producción de fertilizante despierta mayor interés en el hombre, ya que suele ocuparse de los cultivos, y por tanto es importante capacitarle convenientemente en su uso, de forma que él también se apropie de la tecnología que le provee de un fertilizante ecológico y natural.
+Los niños y niñas también es importante tenerlos en cuenta, y hacerlos partícipes como parte de la familia, evitando que en juegos o vandalismo, pudieran dañar el biodigestor.
+La estrategia para la divulgación y diseminación de esta tecnología que se ha visto más acertada es a través de biodigestores demostrativos.
+Esto es, instalar uno o dos biodigestores por comunidad, en una granja municipal si hay interés de las autoridades o en granjas o centros educacionales ‘modelo’ que existan, de forma que los vecinos vean su funcionamiento, manejo y beneficios.
+Esta estrategia no es agresiva y se da a conocer una tecnología nueva, de modo que las familias tendrán información y criterios propios para decidir la conveniencia de introducir, o no, un biodigestor en sus viviendas y manejo agropecuario.
+En posteriores visitas a las comunidades se puede hacer ya una diseminación mayor a las familias interesadas.
+Una lección de última hora aprendida es introducir los biodigestores demostrativos en dos familias a la vez en una comunidad, de forma que se genera un apoyo mutuo entre ambas familias en cuanto a trabajo, dudas y transmisión de conocimiento.
+La participación de la familia en toda la instalación de biodigestor ayuda a su apropiación y entendimiento de la tecnología.
+Se han dado casos en los que la familia ha desmontado y vuelto a montar un biodigestor por considerar otra ubicación más idónea, o para repararlo.
+Es importante valorar el trabajo propio de la familia cavando la zanja que servirá de ‘cuna’ e instalando la línea de biogás desde el biodigestor hasta la cocina.
+Cuando un biodigestor se instala, se realiza su primer llenado con gran cantidad de estiércol y agua, hasta que el lodo interior tape las bocas de las tuberías de entrada y salida para asegurar una atmósfera anaerobia.
+Es importante hacer un seguimiento posterior, puesto que el biodigestor tardará tantos días como tiempo de retención se haya considerado para entrar en plena producción de biogás y fertilizante.
+En el caso del altiplano esto puede suponer dos meses cargando diariamente un biodigestor que aún no da los productos esperados, y por tanto es necesario acompañar y apoyar a la familia en este proceso para que sienta que el trabajo no es vano.
+Es importante aprovechar las estructuras sociales propias de cada lugar, como por ejemplo la asociación de productores de leche local u otros tipos de asociaciones.
+De esta manera ya existe una forma de representación, de comunicación, convocatoria y de control interno que no es necesario generar con cada nuevo proyecto.
+En caso de existir subvenciones monetarias para adquirir los materiales, ya sea por parte de ONG, municipios o cualquier otro tipo de ayuda, nunca ha de ser total, y por tanto hay que hacer partícipe a la familia en los costos.
+Es importante que la familia no solo ponga parte de la mano de obra para la construcción de la ‘cuna’, sino que además aporte dinero.
+Esta cantidad de dinero puede ser variable de acuerdo al contexto social, pero es recomendable que no sea inferior a los 30$us.
+De esta forma las familias que decidan instalar un biodigestor, lo harán en un grado muy importante de apropiación de la tecnología, además que obliga a la institución o promotor a tener una responsabilidad y dar garantía en los materiales empleados y en el funcionamiento del sistema.
+De otro modo, tanto la apropiación de la tecnología por parte de la familia así como el compromiso del buen hacer del instalador pueden ser menores.
+Disponiendo de una tecnología apropiada, de gran potencial en Bolivia, pero de poca difusión, divulgación y diseminación, la mejor forma de comenzar es a través de talleres prácticos.
+El objetivo de estos talleres es capacitar a personas en el diseño, instalación, propuesta y ejecución de proyectos de diseminación de biodigestores.
+Los talleres se plantean de forma intensiva con una duración de cuatro días.
+El primer día se tratan los conceptos biológicos que rigen este sistema natural, se dan las claves y parámetros para su diseño según el objetivo del biodigestor (generación de biogás, producción de fertilizante o de manejo de residuos orgánicos por criterios medioambientales).
+Además se invita a personas con experiencia en biogás, proyectos de biodigestores, manejo del fertilizante, etc. para que compartan sus experiencias con los asistentes.
+El segundo día resulta el más interesante, ya que se traslada a los participantes a alguna comunidad campesina cercana para la instalación de un biodigestor.
+Previamente la familia ya ha construido la cuna donde se albergará el biodigestor.
+Durante una mañana se trabaja junto con los participantes y la familia en la instalación, paso por paso, del biodigestor.
+Este día sirve de clase práctica al taller, no sólo en cuanto a tecnología, sino también en la capacitación de la familia en su construcción, manejo y mantenimiento.
+Y el tercer día se imparten clases sobre la ejecución de proyectos, su identificación, planificación, presupuestos y forma de diseminación y ejecución.
+A la tarde, en una mesa redonda entre todos los participantes, se plantea las formas de financiamiento y sostenibilidad de esta tecnología a medio plazo en Bolivia.
+Además se realiza un mapeo nacional de los primeros proyectos que coordinarían las instituciones participantes en el taller.
+A partir de estos talleres son varias las instituciones que deciden incorporar a los biodigestores familiares de bajo costo en sus programas de desarrollo rural.
+Es importante subvencionar inicialmente la tecnología.
+A través de contribuciones como las del proyecto NANOCLEAN se están desarrollando nuevas formas para obtener biogás basadas en la aplicación de nanotecnología para optimizar la producción de gas, a través de la introducción controlada de nanopartículas de óxido de hierro en el proceso de tratamiento de materia orgánica, generando nuevas oportunidades de empleo.
+El biometano no es lo mismo que el biogás, al igual que la gasolina no es lo mismo que el petróleo.
+Como el biogás, el biometano se produce por la fermentación anaeróbica de materia orgánica, pero ese gas de fermentación es sometido a un proceso de mejora (upgrading) que eleva el contenido de CH4 de alrededor del 55% a más del 90%, lo que hace al gas resultante apto para inyectarlo en las redes de gas natural.

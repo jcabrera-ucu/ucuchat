@@ -1,0 +1,9 @@
+El término monstrous moonshine describe una inesperada relación descubierta en los años 1970 entre las ramas de teoría de grupos y teoría de números.
+El término fue creado por J. H. Conway.
+En inglés, moonshine no se refiere sólo al brillo de la Luna, sino también, entre otras cosas, es un sinónimo de tonterías.
+Sin embargo, "moonshine" es una palabra del argot para el whisky destilado ilegalmente, y de hecho el nombre se puede explicar en este punto de vista también.
+En noviembre de 1978 el matemático John McKay escribió a John Thompson comentándole la posible existencia de una relación entre el coeficiente de grado uno de la función modular j\,, y el grado de la representación irreducible más pequeña del grupo monstruo.
+En concreto, el primer valor es 196884 y el segundo es 196883.
+Éste le contestó que "estaba leyendo hojas de té".
+En aquel momento, Thompson se encontraba en Princeton junto con Bernd Fischer.
+Cuando ambos volvieron a Cambridge, los matemáticos Simon P. Norton y J. H. Conway se les unieron y encontraron más relaciones entre otros coeficientes de la función y otros grados de representaciones del monstruo.

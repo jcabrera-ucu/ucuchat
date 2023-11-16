@@ -1,0 +1,2 @@
+(minúscula: ) es una letra del alfabeto latino.
+La lambda latino no ha sido codificado del Unicode.

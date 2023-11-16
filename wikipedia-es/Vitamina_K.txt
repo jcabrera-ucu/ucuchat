@@ -1,0 +1,73 @@
+La vitamina K es una vitamina soluble en grasa que se conoce principalmente por coagulación sanguínea.
+Fue descubierta en 1935, por el danés Henrik Dam que la nombró K por la palabra danesa para coagulación: koagulation.
+Naturalmente, se presenta en dos formas: vitamina K1 (filoquinona) en vegetales de hojas verdes y vitamina K2 (menaquinonas) en derivados de las carnes y alimentos fermentados como el queso o el nattō.
+La vitamina K se requiere como cofactor para la activación de proteínas que son necesarias para una serie de procesos biológicos siendo los más conocidos los factores de coagulación hepáticos, protrombina y factor X, entre otros.
+Este nutriente se relaciona con procesos fisiológicos como la reparación tisular (en caso de lesiones y hemorragias), infartos y la menstruación
+También es necesaria para activar proteínas de la matriz extracelular de células óseas y de músculo liso que permiten la unión del calcio, regulando el metabolismo de los huesos y reduciendo el riesgo de calcificación vascular y eventualmente la enfermedad cardiovascular.
+La vitamina K tendría un efecto protector frente al cáncer hepático, la leucemia, el cáncer de pulmón, de colon, oral, de mama y vesical.
+Químicamente, la vitamina K comprende derivados de 2-metil-1,4-naftoquinona, pero difieren en la estructura de la posición 3 (3-).
+Además de sus derivados naturales, la filoquinona (vitamina K1) y las menaquinonas (vitamina K2s), existen tres fuentes sintéticas: la menadiona (vitamina K3), la VK4 y la VK5.
+La menadiona se utiliza en alimentos para mascotas y como suplemento dietético en algunos países.
+En 1929, un científico danés llamado Henrik Dam investigó el rol del colesterol alimentando a pollos con una dieta deficiente de colesterol.
+Después de varias semanas, los animales desarrollaron hemorragias e iniciaron sangrado.
+Estos defectos no pudieron ser resueltos adicionando colesterol purificado a la dieta.
+Al parecer, junto con el colesterol, un segundo componente había sido extraído del alimento y este componente fue llamado «vitamina de la coagulación».
+La nueva vitamina recibió el nombre de Vitamina K, debido a que el descubrimiento inicial fue publicado en una revista alemana, en la cual fue designada como vitamina de la coagulación (koagulation, en alemán).
+Edward Adelbert Doisy (de la Universidad de San Luis), contribuyó notablemente al descubrimiento de la estructura química y natural de la Vitamina K.
+Dam y Doisy compartieron el premio Nobel de Medicina en 1943, por sus trabajos sobre la Vitamina K. Diversos laboratorios sintetizaron el componente en 1939.
+Todos los miembros del grupo de la vitamina K comparten un anillo metilado de naftoquinona en su estructura, y varía en la cadena lateral alifática unida en la tercera posición.
+La filoquinona (también conocida como vitamina K1) invariablemente contiene en su cadena lateral cuatro residuos isoprenoides, uno de los cuales es insaturado.
+Las menaquinonas tienen una cadena lateral compuesta de un número variable de residuos isoprenoides insaturados, generalmente designados como MK-n, donde la letra n especifica el número de isoprenoides.
+Se acepta generalmente que la naftoquinona es el grupo funcional, así que el mecanismo de acción es similar para todas las formas de la vitamina K. Se pueden esperar diferencias sustanciales, sin embargo, con respecto a la absorción intestinal, transporte, distribución a los tejidos y biodisponibilidad.
+Estas diferencias son causadas por las diferentes afinidades por lípidos de las cadenas laterales, y por las diversas matrices del alimento en las cuales ocurren.
+Su biosíntesis está vinculada a la ruta del 1,4-dihidronaftoato, en donde el precursor se oxida a la quinona (componente de la molécula que es esencial para animales, por eso la denominación del compuesto como "vitamina"), se descarboxila y se alquila con una cadena poliprenólica de entre 1 y 15 unidades isoprénicas.
+Todos estos pasos los lleva a cabo una enzima, la 1,4-dihidroxi-2-naftoato polipreniltransferasa (EC 2.5.1.74).
+La metilación se realiza mediante una segunda enzima con SAM como coenzima, la S-adenosil-L-metionina:desmetilmenaquinona metiltransferasa (EC:2.1.1.163)
+centro|800px
+Las diferentes funciones asociadas a la vitamina K, en realidad se basan en la actividad como cofactor en la síntesis de las llamadas proteínas Gla, aquellas que contienen residuos de ácido gammacarboxiglutámico (Gla), un aminoácido común en todas las proteínas dependientes de la vitamina K. Hasta el momento, catorce proteínas humanas dependiente de la vitamina K que contienen dominio Gla han sido descubiertas y juegan un papel clave en la regulación de tres procesos fisiológico: Coagulación de la sangre: (protrombina (factor II), Factores VII, IX, X, proteína C, proteína S y proteína Z).
+Metabolismo óseo: osteocalcina, también llamada proteína-Gla ósea (BGP siglas en inglés), y proteína gla de la matriz(MGP).
+Biología vascular.
+Los residuos Gla son esenciales para la actividad biológica de todas las proteínas y minerales conocidas como proteínas Gla.
+La vitamina K está involucrada en la carboxilación de ciertos residuos glutámicos de proteínas que forman residuos gamma-carboxiglutamatos (abreviado como Gla-residuos).
+Estos residuos modificados se sitúan dentro de los dominios específicos de la proteína llamados los dominios de Gla.
+Los residuos Gla usualmente están implicados en la unión del calcio.
+La función precisa de la Vitamina K no fue descubierta hasta 1974, cuando tres laboratorios aislaron el factor de coagulación protrombina dependiente de la vitamina K (Factor II), en vacas que recibieron una alta dosis de un antagonista de Vitamina K: Warfarina.
+Se demostró que mientras que las vacas tratadas con warfarina tenían una forma de protrombina que contenía diez residuos del aminoácido glutamato cerca del amino terminal de esta proteína, las vacas no tratadas contenían diez residuos inusuales, los cuales eran químicamente identificados como gamma-carboxiglutamatos o Gla.
+El grupo carboxilo extra en Gla; era claro que la vitamina K jugaba un papel importante en la reacción de carboxilación durante el cual Glu es convertido a Gla.
+El mecanismo por el cual la vitamina K convierte Glu en Gla, ha sido aclarado hace más de treinta años en laboratorios académicos a través del mundo.
+Dentro de la célula, La Vitamina K experimenta una reducción de electrón hacia una forma de la vitamina K reducida (llamada vitamina K hidroquinona) por la enzima epóxido-reductasa.
+Otra enzima oxida entonces a la vitamina K hidroquinona para permitir la carboxilación de Glu a Gla; esta enzima es llamada gamma-glutamil carboxilasa o carboxilasa dependiente de vitamina K. La reacción de carboxilación solo procederá si la enzima carboxilasa está disponible para oxidar la vitamina K hidroquinona a vitamina K epóxido al mismo tiempo; las reacciones de carboxilación y epoxidación son llamadas reacciones acopladas.
+El epóxido de vitamina K es entonces reconvertido a vitamina K por la vitamina K epóxido reductasa.
+Estas dos enzimas conforman el llamado ciclo de la vitamina K. Una de las razones por las cuales es raramente deficiente en la dieta humana es porque la vitamina es continuamente reciclada en nuestras células.
+La warfarina y otras drogas cumadinas bloquean la acción de la epóxido reductasa.
+Esto resulta en disminución en las concentraciones de la vitamina K e hidroquinona en los tejidos, e igualmente las reacciones de carboxilación realizadas por la Glutamil Carboxilasa son ineficientes.
+Esto conduce a la producción de factores de coagulación con una disminución parcial o completa de residuos Gla.
+Sin los residuos Gla sobre el amino Terminal de estos factores, ellos no logran mantener estable el endotelio de los vasos sanguíneos y no pueden activar la coagulación que permite la formación de un coágulo durante una lesión o daño al tejido.
+Como la administración de Warfarina a un paciente suprime la respuesta de coagulación, debe ser cuidadosamente monitoreada para evitar sobredosis.
+En el presente, las siguientes proteínas-Gla han sido caracterizadas por el nivel de su estructura primaria: los factores de coagulación II (protrombina), VII, IX, y X, las proteínas anticoagulantes: proteína C y S, y el Factor proteína Z. La proteína Gla ósea osteocalcina, la proteína inhibitoria de calcificación Matriz Gla-proteína (MGP), el gen específico de regulación de crecimiento celular 6 proteína (Gas6) puede funcionar como un factor de crecimiento que activa el receptor Axl de tirosina cinasa y estimula la proliferación celular o previene la apoptosis en algunas células.
+En todos los casos en los cuales su función es conocida, la presencia de residuos Gla en estas proteínas resulta ser esencial para la actividad funcional.
+Las proteínas Gla son conocidas que existen en una amplia variedad de vertebrados: mamíferos, pájaros, reptiles y peces.
+El veneno de un número de serpientes australianas activan el sistema de coagulación sanguíneo en el humano.
+Remarcadamente, en algunos casos la activación es acoplada por una enzima que contiene residuos Gla en la serpiente que se liga al endotelio de los vasos sanguíneos humanos y cataliza la conversión de factores de coagulación procoagulantes en factores activados, conduciendo a una coagulación no deseada y potencialmente mortal.
+Otra clase de invertebrados interesantes que contienen proteínas Gla es el pez caracol cazador Conus Geographus.
+Este caracol produce un veneno que contiene cientos de péptidos neuroactivos o conotoxinas, lo cual es suficientemente tóxico para matar a un adulto humano.
+Varias de estas conotoxinas contienen de dos a cinco residuos Gla.
+Muchas bacterias, como la Escherichia coli, encontradas en el intestino grueso, pueden sintetizar vitamina K2 (menaquinona), pero no vitamina K1 (filoquinona).
+En esta bacteria, la menaquinona transferirá dos electrones entre dos diferentes moléculas pequeñas, en un proceso llamado respiración anaeróbica.
+Por ejemplo, una molécula pequeña con un exceso de electrones (también llamado electrón donador) como el lactato o NADH; con la ayuda de una enzima, pasará dos electrones a la menaquinona.
+La menaquinona, con la ayuda de otra enzima, transferirá estos dos electrones a un oxidante conveniente como fumarato o nitrato (también llamado aceptor de electrones).
+Adicionar estos dos electrones al fumarato o nitrato convertirá la molécula en succinato o nitrito más agua, respectivamente.
+Algunas de estas reacciones generan una fuente de energía celular, ATP, de una manera similar a la respiración aeróbica de la célula eucariota, excepto que el aceptor final de electrones no es oxígeno molecular (O2), (el cual acepta cuatro electrones de un donador de electrones como el NADH para ser convertido a agua), sino fumarato o nitrato.
+La deficiencia de la vitamina K puede ocurrir por alteraciones en la absorción intestinal, lesiones en el tracto gastrointestinal (como podría ocurrir en obstrucción del conducto biliar), ingesta terapéutica o accidental de antagonistas de la vitamina K o, muy raramente, por deficiencia nutricional.
+Como resultado de un defecto adquirido de deficiencia de vitamina K, los residuos Gla no se forman o se forman incompletamente y, por lo tanto, las proteínas Gla son inactivas.
+Debido a la ausencia de control de los tres procesos antes mencionados, se puede dar: riesgo de hemorragia interna masiva y descontrolada, calcificación del cartílago y severa malformación del desarrollo óseo o deposición de sales de calcio insolubles en las paredes de los vasos arteriales.
+La deposición de calcio en tejidos blandos, incluyendo paredes arteriales, es muy común, especialmente en aquellos que sufren arterioesclerosis, sugiriendo que la deficiencia de vitamina K es más común de lo que previamente se pensaba.
+La alta propensión del recién nacido a presentar hemorragias por deficiencia de vitamina K se debe a que nacen con una reserva muy baja de esta vitamina, ya que no atraviesan con facilidad la placenta y a que la leche materna es una fuente muy pobre en esta vitamina, esto sumado a que su intestino es estéril y no posee bacterias capaces de sintetizarla.
+Es por ello, de manera preventiva que se suministra vitamina K exógena a los recién nacidos.
+La ingesta dietética de vitamina K considerada adecuada para un varón adulto es de 120 microgramos/día.
+No se han determinado niveles máximos tolerables.
+El cuerpo humano almacena vitamina K, así que no es necesario suplementar diariamente.
+La filoquinona (vit. K1) es sintetizada por las plantas verdes, por lo que verduras de hoja verde oscura son las principales fuentes como la espinaca, el brócoli, el kale y las coles.
+Las Menaquinonas (MKs) o vit.
+K2, son sintetizadas por bacterias (incluyendo aquellas de la microflora intestinal normal) y algunos Actinomyces spp.
+Otras vitaminas:

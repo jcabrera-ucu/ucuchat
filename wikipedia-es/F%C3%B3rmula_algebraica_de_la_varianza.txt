@@ -1,0 +1,15 @@
+En teoría de la probabilidad y estadística, se dispone de varias fórmulas algebraicas para calcular la varianza de una variable aleatoria.
+La utilidad de estos procedimientos depende de lo que ya se sabe sobre la variable aleatoria; por ejemplo, una variable aleatoria puede definirse en términos de su función de densidad de probabilidad o por construcción a partir de otras variables aleatorias.
+El propósito del presente artículo es mostrar expresiones algebraicas para determinar la varianza teórica de una variable aleatoria, en contraste con la cuestión de estimar la varianza de una población a partir de datos de una muestra, problema para el que se deben efectuar consideraciones especiales a la hora de idear los correspondientes algoritmos para calcular la varianza (especialmente utilizando ordenadores).
+Si se conocen los momentos E(X) y E(X2) de un variable aleatoria X (donde E(X) es la esperanza matemática de X), entonces la Var(X) viene dada por:
+El resultado se denomina fórmula de König-Huygens en la literatura en lengua francesa y se conoce como teorema de traslación de Steiner en Alemania.
+Existe una fórmula para determinar la estimación de la varianza a partir de los datos de una muestra, que puede ser de utilidad en los cálculos manuales.
+Esta es una identidad estrechamente relacionada, que está estructurada para crear una estimación no sesgada de la varianza de la población:
+Sin embargo, el uso de estas fórmulas puede ofrecer resultados erróneos en la práctica, cuando se usa aritmética de punto flotante con una precisión limitada: restar dos valores que tengan una magnitud similar puede llevar a cancelaciones catastróficas desde el punto de vista numérico, y por lo tanto, provocar una pérdida incontrolada de precisión cuando.
+Esto ha llevado al diseño de varios otros algoritmos para calcular la varianza numéricamente estables para usar con números de punto flotante.
+La fórmula computacional para la varianza de la población se deduce de manera directa a partir de la linealidad de los valores esperados y de la definición de la varianza:
+Esta fórmula se puede generalizar para la covarianza, con dos variables aleatorias Xi y Xj:
+así como para la matriz de covarianza de orden n por n de un vector aleatorio de longitud n:
+y para la matriz de covarianza cruzada de orden n por m entre dos vectores aleatorios de longitudes n y m:
+donde los valores esperados se toman en forma de elementos y y  son vectores aleatorios de longitudes respectivas n y m.
+Téngase en cuenta que esta fórmula adolece del mismo problema de pérdida de significancia que la fórmula para la varianza si se usa para calcular estimaciones de la covarianza, y se deben usar algoritmos alternativos en su lugar.

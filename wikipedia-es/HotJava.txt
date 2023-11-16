@@ -1,0 +1,7 @@
+HotJava es un navegador web modular y extensible de Sun Microsystems que puede ejecutar applets Java.
+Fue el primer navegador compatible con estos applets y fue la plataforma de demostración de Sun para la entonces nueva tecnología.
+Desde entonces el producto ha sido retirado y Sun ya no proporciona asistencia sobre este.
+En 1994 un equipo de desarrolladores Java comenzó a escribir un clon del navegador Mosaic llamado WebRunner, el nombre hace tributo a la película Blade Runner.
+En 1995, John Gage y James Gosling llevaron algunas estaciones de trabajo a la conferencia de tecnología, entretenimiento y desarrollo en Monterrey, California, para mostrar WebRunner al público.
+La conferencia era un tanto aburrida, ya que a nadie le interesaba un clon de Mosaic, entonces Gosling movió el ratón sobre la imagen de una molécula en 3D, la cual rotó con el movimiento del ratón y de pronto todos en la habitación estuvieron impresionados por cómo la Internet se había vuelto interactiva.
+A continuación Gosling y Gage impactaron a la audiencia con un algoritmo de ordenamiento de líneas animado que Gosling había escrito.

@@ -1,0 +1,5 @@
+Receptor de potencial transitorio, subfamilia V, miembro 4, también conocido como TRPV4 (Transient receptor potential cation channel, subfamily V, member 4), es un gen humano.
+Este gen codifica para TRPV4, un miembro de la familia tipo-OSM9 transient receptor potential channel (OTRPC) de la subfamilia transient receptor potential (TRP) perteneciente a la superfamilia de canales iónicos.
+.
+La proteína codificada es un canal catiónico no selectivo, permeable a Ca2+, que se cree está involucrado en la regulación de la presión osmótica sistémica.
+Se han encontrado dos variantes transcripcionales para este gen.

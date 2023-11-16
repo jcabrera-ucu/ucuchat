@@ -1,0 +1,17 @@
+GNU Radio es una herramienta de desarrollo libre y abierta que provee bloques de procesamiento de señal para implementar sistemas de radio definida por software.
+Puede utilizarse con hardware de RF de bajo costo para crear radios definidas por software, o sin hardware en un ambiente de simulación.
+Es utilizada extensivamente por ambientes académicos, aficionados y comerciales para dar soporte a la investigación en comunicaciones inalámbricas y en sistemas de radio en el mundo real.
+Las aplicaciones de GNU Radio se construyen mediante un entorno gráfico GNU Radio Companion o mediante lenguaje de programación Python directamente mientras que la parte que requiere alto rendimiento se implementa en lenguaje C++, como es el caso de sus librerías.
+Así, el desarrollador es capaz de desarrollar sistemas de radio en tiempo real y alto rendimiento mediante el uso simple y rápido de su entorno de  desarrollo de aplicaciones.
+GNU Radio permite el desarrollo de algoritmos de procesamiento de señal usando datos generados o grabados previamente, evitando la necesidad de utilizar hardware real.
+GNU Radio es un paquete de procesamiento de señales, que se distribuye bajo la licencia GNU GPL.
+Todo el código tiene los derechos de autor de la Free Software Foundation.
+La ventaja de esto es proveer un software a gente común para que tenga la oportunidad de desarrollar la habilidad de estudiar a nivel técnico y a profundidad el espectro electromagnético, que sirve para entender el espectro de radio y aprender como se utiliza.
+Como todos los sistemas de radio definidos por software, la reconfigurabilidad es una característica clave.
+En vez de adquirir comercialmente varios tipos de radio, se puede adquirir una simple radio genérica la cual utiliza procesamiento de señal por software.
+Actualmente solo algunas formas de radio pueden procesarse en GNU Radio pero si se conoce la matemática de un sistema de transmisión de radio, se puede reconfigurar GNU Radio para recibirla.
+El proyecto GNU Radio utiliza Universal Software Radio Peripheral (USRP) que es un transceptor computarizado que contiene cuatro conversores analógico digital (A/D) de 64 mega muestras-por-segundo (MS/s) de 12-bit, cuatro conversores digital a analógico (D/A) de 128 MS/s de 14-bit, y soporta circuitos para la interfaz con una computadora.
+Dependiendo del modelo, la interfaz computadora-a-USRP es a través de un puerto USB 2.0 o Gigabit Ethernet.
+USRP puede procesar señales de hasta 25-MHz de ancho de banda, dependiendo del modelo.
+Algunos transmisores y receptores pueden incluir placas que pueden extender la cobertura a bandas de entre 0 y 5.9 GHz.
+USRP fue desarrollado por Matt Ettus.

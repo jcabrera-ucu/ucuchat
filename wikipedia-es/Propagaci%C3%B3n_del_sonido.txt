@@ -1,0 +1,12 @@
+El sonido se propaga de un lugar a otro, pero siempre lo hace a través de un medio material, como el aire o el agua.
+En el vacío, el sonido no puede propagar, porque no hay medio material.
+En el aire el sonido se propaga a una velocidad de 340metros por segundo.
+La propagación del sonido en los fluidos y toma la forma de fluctuaciones de presión.
+En los cuerpos sólidos la propagación del sonido implica variaciones del estado tensional del medio.
+La propagación del sonido supone un transporte de energía sin transporte de materia, en forma de ondas mecánicas que se propagan a través de la materia sólida, líquida o gaseosa.
+Como las vibraciones se producen en la misma dirección en la que se propaga el sonido, se trata de una onda longitudinal, que se transmite en línea recta, desde el punto de origen.
+el sonido pasa a 340 m/s dependiendo del aire
+, el sonido que se mueve a través del viento aumentará su velocidad de propagación por la velocidad del viento si el sonido y el viento se mueven en la misma dirección
+La velocidad de propagación de la onda sonora (velocidad del sonido) depende de las características del medio en el que se transmite dicha propagación; presión, temperatura, densidad, humedad.
+En general, la velocidad del sonido es mayor en los sólidos que en los líquidos y en los líquidos mayor que en los gases, dada la densidad de las partículas que permite un mayor intercambio de energía cuando estas se encuentran más cerca.
+Velocidad del sonido/

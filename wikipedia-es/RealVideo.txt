@@ -1,0 +1,13 @@
+RealVideo es el formato de vídeo propietario de RealMedia que, al igual que RealAudio, lo desarrolla y patenta RealNetworks.
+Se utiliza sobre todo en aplicaciones de Streaming.
+Los archivos comprimidos con RealVideo están libres de pérdida de datos.
+La calidad de los archivos de RealVideo son, por lo general, de calidad en términos comparativos.
+Sin embargo, versiones más antiguas son, en comparación con formatos como el MPEG, de menor calidad.
+Las versiones actuales cuentan con una calidad equiparable a videocodes MPEG-4 como por ejemplo Xvid o DivX, así como Windows Media Video 9.
+Para RealVideo 5 (<tt>RV10</tt>) y RealVideo G2 (<tt>RV20</tt>) existen compresores y decompresores de código abierto en el proyecto FFmpeg.
+Desde la introducción de RealVideo 9 y el comienzo de la Comunidad Helix a finales de 2002, el creador del formato de RealVideo, Karl Olav Lillevold, mantiene un contacto directo con los usuarios en el Foro Doom9.
+Desde entonces también se lanzan de forma regular nuevas versiones del codificador.
+Existen 4 versiones de RealVideo no compatibles entre ellas, las cuales se identifican con un código de 4 letras al igual que ocurre con el formato AVI:
+RealVideo se encuentra en el contenedor de RealMedia y lleva su extensión de archivo propia, que puede ser .rv, .ram, .rm, o .rmvb; el tipo de MIME es <tt>audio/x-pn-realvideo</tt>, si bien también se puede utilizar en Matroska (con la extensión .mkv).
+RealVideo puede crearse por medio del productor Helix en diferentes sistemas operativos de forma gratuita.
+También existen diferentes front-ends para los programas que solo se pueden controlar por medio de archivos de configuración o línea de comandos.

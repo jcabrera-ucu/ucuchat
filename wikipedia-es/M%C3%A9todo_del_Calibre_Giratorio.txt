@@ -1,0 +1,65 @@
+En Geometría computacional, el Método del Calibre Giratorio (en inglés, Rotating Caliper) es un método usado para construir algoritmos eficientes para varios
+problemas, como el diámetro de un conjunto de puntos o Mayor distancia entre dos polígonos convexos.
+El método fue usado por primera vez por Michael Shamos en 1978 para determinar todos los pares de puntos antipodales de un polígono convexo.
+El término rotating caliper fue acuñado en 1983 por el matemático Godfried Toussaint quien
+aplicó este enfoque a otros problemas dentro de la geometría computacional.
+El nombre viene de la analogía entre esta técnica
+e ir rotando una herramienta de medición cuyo nombre es Calibre de Vernier (conocido como pie de rey dentro de algunos países de habla hispana) alrededor de la parte exterior de un polígono convexo.
+Esta técnica la explicaremos a través del problema de determinar todos los todos los pares de puntos antipodales de un polígono convexo.
+Definición 1:
+Recta soporte de un conjunto de puntos S es aquella que pasa por un punto del conjunto y deja a todo S en uno de los 2 semiplanos que delimita.
+Definición 2:
+Paralelas soporte son 2 rectas de soporte paralelas.
+Definición 3:
+Dos puntos de S se dicen antipodales si por ellos pasan paralelas soporte, es decir, si podemos trazar un par de rectas que pasen cada una por uno de los puntos, sean paralelas entre sí y contengan a todos los puntos de S en el espacio entre ambas rectas.
+El algoritmo para encontrar los pares de puntos antipodales de un polígono se apoya en tres lemas, cuya demostración puede encontrarse en [ ].
+Lema 1:
+Sea u_{k-1} u_k una arista de un polígono convexo P. Se recorren los vértices de P en el orden contrario al recorrido de las manecillas de un reloj comenzando por el vértice u_k.
+Sea u_i el primer vértice más
+lejano de u_{k-1} u_k en el recorrido (es decir, la distancia del segmento u_{k-1} u_k al vértice u_i es mayor que a los vértices u_{i-1} y u_{i+1}), entonces ningún vértice entre u_k y u_i forma un par antipodal con u_k.
+Lema 2:
+Sea u_{k-1} u_k una arista de un polígono convexo P. Se recorren los vértices de P en el orden contrario al recorrido de las manecillas de un reloj comenzando por el vértice u_k.
+Sea u_r el último vértice más
+lejano de u_{k-1} u_k en el recorrido, entonces ningún vértice entre u_r y u_{k-1} (en orden contrario al que siguen las manecillas del reloj) forma un par antipodal con u_{k-1}.
+Lema 3:
+Dado un par de puntos antipodales de un conjunto de puntos S, se cumple que dichos puntos pertenecen a la envolvente convexa
+del conjunto S.
+Es conocido que un punto p está en la envolvente convexa de S si y solo si existe una línea que pasa por p tal que todos los
+puntos del conjunto S están enteramente contenidos en uno de los dos semiplanos determinados por dicha línea [2].
+Usando este
+resultado se puede inducir que si por un punto pasa una recta soporte de S entonces ese punto pertenece a la envolvente convexa
+de S, por lo que si dos puntos son antipodales esto significa que a través de ellos pasan rectas soportes de donde se concluye
+que estos puntos se encuentran en la envolvente convexa de S.
+Lo que muestra el lema 3 es que encontrar los pares de puntos antipodales de un conjunto arbitrario de puntos se puede
+reducir a encontrar los pares de puntos antipodales de la envolvente convexa de S y estaríamos en presencia del problema discutido
+anteriormente debido a que la envolvente convexa de un conjunto de puntos en el plano es un polígono convexo.
+Existen varios
+algoritmos que encuentran la envolvente convexa de un conjunto de puntos eficientemente, quizás el más famoso de ellos sea el algoritmo de Graham scan.
+Basándonos en los dos primeros lemas, para hallar todos los pares de puntos antipodales de un polígono convexo seleccionamos una arista u_{k-1} u_k del polígono y comenzamos a recorrer los
+puntos del mismo en el sentido contrario de las manecillas del reloj comenzando por u_{k-1 } hasta que alcancemos
+al primer vértice más lejano de u_{k-1} u_k,al cual llamaremos u_i.
+Por el lema 2 u_i
+es el primer vértice que forma un par antipodal con u_k, luego continuamos moviéndonos hasta alcanzar el último
+vértice más lejano con respecto a la arista u_k u_{k+1} el cual está después u_i en el recorrido
+que estamos realizando y denotaremos a dicho vértice como u_r.Por el lema 3 u_r es el último vértice que constituye un par
+forma un par antipodal con u_k y todos los vértices visitados entre u_i y u_r también
+forman pares antipodales con u_k.
+Este proceso lo continuamos repitiendo hasta encontrar todos los pares
+antipodales y lo interesante es que se puede realizar el recorrido completo con costo temporal de O(n) usando
+dos contadores.
+Algoritmo Puntos Antipodales:
+Entrada: Un polígono convexo P= {u(1), u(2), u(3),...., u(m)} con los vértices ordenados siguiendo un orden contrario al de las
+manecillas del reloj.
+Consideraremos que el vértice u(0) y el vértice u(m) son el mismo vértice.
+Salida: Todos los pares de puntos antipodales.
+BEGIN:
+END
+Note que el punto u_i tal que área del triángulo es máxima es precisamente el punto (uno de los puntos) más lejanos con respecto al lado u_{k-1} u_k debido a que el área de un triángulo que contenga a la arista u_{k-1} u_k y a otro punto p es igual a  donde  es igual a la distancia entre el punto p y la recta u_{k-1} u_k.
+El algoritmo puede adaptarse para resolver múltiples problemas geométricos, como por ejemplo
+El diámetro de un conjunto S, de puntos en el plano, es la mayor distancia entre dos puntos de S. Sean u y v dos puntos extremos de un diámetro de S. Notemos que u y v son puntos antipodales ya que si trazamos una recta perpendicular al segmento que une a u con v a través de v todos los puntos de S están de esa recta ya que si hubiese un punto z que estuviese en un semiplano distinto al semiplano donde esta u, la distancia entre z y u fuese mayor que la distancia entre u y v. Lo mismo sucede con la perpendicular a |uv| que pasa por el punto v, por lo que se concluye que los puntos u y v son antipodales ya que a través de ellos pasan dos rectas soportes paralelas(las perpendiculares antes mencionadas).
+Usando el resultado anterior, si queremos encontrar el diámetro de un conjunto de puntos S iteramos por todos los pares antipodales de la envolvente convexa de S y devolvemos la pareja de puntos con mayor distancia entre los dos puntos del par (o la distancia entre ellos).
+La envolvente convexa la podemos encontrar con costo temporal de O(nlog(n)) mientras
+todos los pares antipodales los podemos encontrar en O(n), de esta forma encontraríamos el diámetro de un conjunto de puntos de O(nlog(n)) lo cual es considerablemente mejor que el algoritmo fuerza bruta que itera por todos los pares de puntos y devuelve los dos puntos más distantes (o la distancia entre los mismos) con costo temporal de O(n^2).
+La anchura de un conjunto de puntos en el plano S es la menor distancia entre dos rectas paralelas s1 y s2 tal que el conjunto S este contenido en el espacio comprendido entre las rectas s1 y s2.
+Este problema puede verse como la búsqueda del par de puntos antipodales de la envolvente convexa de S cuya distancia entre sí sea mínima, por lo que se resuelve de manera análoga al problema anterior.
+El valor de la anchura de un conjunto de puntos nos permite determinar si el cierre convexo de un polígono es capaz de atravesar un pasillo o una ventana de ancho conocido (siendo una versión simplificada del conocido Problema del sofá), y tiene muchas otras aplicaciones industriales.

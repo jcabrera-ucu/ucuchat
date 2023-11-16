@@ -1,0 +1,46 @@
+El colesterol es un lípido (del tipo esterol) que se encuentra en la membrana plasmática eucariota, los tejidos corporales de todos los animales y en el plasma sanguíneo de los vertebrados.
+Pese a que las cifras elevadas de colesterol en la sangre tienen consecuencias perjudiciales para la salud, es una sustancia estructural esencial para la membrana plasmática.
+Abundan en las grasas de origen animal.
+François Poulletier de la Salle identificó por primera vez el colesterol en forma sólida en los cálculos de la vesícula biliar en 1769.
+Sin embargo, fue en 1815 cuando el químico Michel Eugène Chevreul nombró el compuesto «colesterina», del griego χολή, kolé, ‘bilis’ y στερεος, stereos, ‘sólido’.
+La fórmula química del colesterol se representa de dos formas: C27H46O / C27H45OH.
+Es un lípido esteroide, derivado del ciclopentanoperhidrofenantreno (o esterano), constituido por cuatro carbociclos condensados o fusionados, denominados A, B, C y D, que presentan varias sustituciones:
+En la molécula de colesterol se puede distinguir una cabeza polar constituida por el grupo hidroxilo y una cola o porción apolar formada por el carbociclo de núcleos condensados y los sustituyentes alifáticos.
+Así, el colesterol es una molécula tan hidrófoba que la solubilidad de colesterol libre en agua es de 10−8 M y, al igual que los otros lípidos, es bastante soluble en disolventes apolares como el cloroformo (CHCl3).
+La biosíntesis del colesterol tiene lugar en el retículo endoplasmático liso de prácticamente todas las células de los animales vertebrados.
+Mediante estudios de marcaje isotópico, Rittenberg y Bloch demostraron que todos los átomos de carbono del colesterol proceden, en última instancia, del acetato, en forma de acetil coenzima A.
+Se requirieron aproximadamente otros 30 años de investigación para describir las líneas generales de la biosíntesis del colesterol, desconociéndose, sin embargo, muchos detalles enzimáticos y mecanísticos a la fecha.
+Los pasos principales de la síntesis de colesterol son:
+Resumidamente, estas reacciones pueden agruparse de la siguiente manera:
+El ser humano no puede metabolizar la estructura del colesterol hasta CO2 y H2O.
+El núcleo intacto de esterol se elimina del cuerpo convirtiéndose en ácidos y sales biliares las cuales son secretadas en la bilis hacia el intestino para desecharse por heces fecales.
+Parte de colesterol intacto es secretado en la bilis hacia el intestino el cual es convertido por las bacterias en esteroides neutros como coprostanol y colestanol.
+En ciertas bacterias sí se produce la degradación total del colesterol y sus derivados; sin embargo, la ruta metabólica es aún desconocida.
+La producción en el humano del colesterol es regulada directamente por la concentración del colesterol presente en el retículo endoplásmico de las células, habiendo una relación indirecta con los niveles plasmáticos de colesterol presente en las lipoproteínas de baja densidad (LDL por su acrónimo inglés).
+Una alta ingesta de colesterol en los alimentos conduce a una disminución neta de la producción endógena y viceversa.
+El principal mecanismo regulador de la homeostasis de colesterol celular aparentemente reside en un complejo sistema molecular centrado en las proteínas SREBPs (Sterol Regulatory Element Binding Proteins 1 y 2: proteínas que se unen a elementos reguladores de esteroles).
+En presencia de una concentración crítica de colesterol en la membrana del retículo endoplásmico, las SREBPs establecen complejos con otras dos importantes proteínas reguladoras: SCAP (SREBP-cleavage activating protein: proteína activadora a través del clivaje de SREBP) e Insig (insulin induced gene) 1 y 2.
+Cuando disminuye la concentración del colesterol en el retículo endoplásmico, las Insigs se disocian del complejo SREBP-SCAP, permitiendo que el complejo migre al aparato de Golgi, donde SREBP es escindido secuencialmente por S1P y S2P (site 1 and 2 proteases: proteasas del sitio 1 y 2 respectivamente).
+El SREBP escindido migra al núcleo celular donde actúa como factor de transcripción uniéndose al SRE (Sterol Regulatory Element: elemento regulador de esteroles) de una serie de genes relevantes en la homeostasis celular y corporal de esteroles, regulando su transcripción.
+Entre los genes regulados por el sistema Insig-SCAP-SREBP destacan los del receptor de lipoproteínas de baja densidad (LDLR) y la hidroxi-metil-glutaril CoA-reductasa (HMG-CoA-reductasa), la enzima limitante en la vía biosintética del colesterol.
+El siguiente diagrama muestra de forma gráfica los conceptos anteriores:
+Tras dilucidar los mecanismos celulares de captación endocítica de colesterol lipoproteico, trabajo por el cual fueron galardonados con el Premio Nobel en Fisiología o Medicina en el año 1985, Michael S. Brown y Joseph L. Goldstein han participado directamente en el descubrimiento y caracterización de la vía de los SREBPs de regulación del colesterol corporal.
+Estos avances han sido la base del mejor entendimiento de la fisiopatología de diversas enfermedades humanas, fundamentalmente la enfermedad vascular aterosclerótica, principal causa de muerte en el mundo occidental a través del infarto agudo al miocardio y los accidentes cerebrovasculares y el fundamento de la farmacología de las drogas hipocolesteromiantes más potentes: las estatinas.
+Es importante reseñar que el tratamiento hipolipemiante se ha relacionado consistentemente con una reducción de la mortalidad por todas las causas, la mortalidad cardiovascular y el riesgo de ictus.
+Al tratamiento con estatinas se le ha atribuido clásicamente una elevada frecuencia de efectos adversos, fundamentalmente a nivel muscular en forma de mialgias.
+Estudios aleatorizados, doble ciego, comparando estatinas frente a placebo, muestran una frecuencia similar de mialgias en pacientes tomadores de estatinas y aquellos que solo estaban tomando placebo, demostrando la influencia de la sugestión en la percepción de dicho efecto adverso.
+Esto se denomina efecto nocebo.
+El colesterol es imprescindible para la vida animal por sus numerosas funciones:
+La concentración actualmente aceptada como normal de colesterol en el plasma sanguíneo (colesterolemia) de individuos sanos es de 120 a 200 mg/dL.
+Sin embargo, debe tenerse presente que la concentración total de colesterol plasmático tiene un valor predictivo muy limitado respecto del riesgo cardiovascular global (ver más abajo).
+Cuando esta concentración aumenta se habla de hipercolesterolemia.
+Dado que el colesterol es insoluble en agua, el colesterol plasmático solo existe en la forma de complejos macromoleculares llamados lipoproteínas, principalmente LDL, HDL y VLDL, que tienen la capacidad de fijar y transportar grandes cantidades de colesterol.
+La mayor parte de dicho colesterol se encuentra en forma de ésteres de colesterol, en los que algún ácido graso, especialmente el ácido linoleico (un ácido graso de la serie omega-6), esterifica al grupo hidroxilo del colesterol.
+Habitualmente se afirma que la existencia sostenida de niveles elevados de colesterol LDL (popularmente conocido como "colesterol malo") por encima de los valores recomendados, incrementa el riesgo de sufrir eventos cardiovasculares (principalmente infarto de miocardio agudo) hasta diez años después de su determinación, según indicaba el estudio de Framingham iniciado en 1948.
+En sentido estricto, el nivel deseable de colesterol LDL debe definirse clínicamente para cada sujeto en función de su riesgo cardiovascular individual, el cual está determinado por la presencia de diversos factores de riesgo, entre los que destacan:
+Es preferible que el LDL sea bajo.
+En general, el nivel de LDL se considera demasiado elevado si es de 190 mg/dL o mayor.
+Recientemente se han actualizado los niveles de colesterol que se consideran elevados.
+Las guías de práctica clínica de la Sociedad Europea de Cardilogía de 2019 definen nuevos niveles de riesgo cardiovascular y establecen niveles objetivos de colesterol menores a los que se establecían en las guías de 2016.
+Los niveles entre 79 y 189 mg/dL suelen considerarse excesivamente altos en pacientes diabéticos con edades comprendidas entre 40 y 75 años, pacientes diabéticos con riesgo alto de desarrollar enfermedades cardíacas y personas con riesgo de medio a alto de padecer enfermedades cardíacas.
+En relación al colesterol total, pueden darse las siguientes cifras orientativas, aunque el riesgo es muy variable, dependiendo de otros factores asociados, como tabaquismo, diabetes mellitus e hipertensión arterial.

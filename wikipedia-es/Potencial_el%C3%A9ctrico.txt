@@ -1,0 +1,138 @@
+El potencial eléctrico o también trabajo eléctrico en un punto, es el trabajo a realizar por unidad de carga para mover dicha carga dentro de un campo electrostático desde el punto de referencia hasta el punto considerado, ignorando el componente irrotacional del campo eléctrico.
+Dicho de otra forma, es el trabajo que debe realizar una fuerza externa para traer una carga positiva unitaria q desde el punto de referencia hasta el punto considerado, en contra de la fuerza eléctrica y a velocidad constante.
+Aritméticamente se expresa como el cociente:
+El potencial eléctrico solo se puede definir unívocamente para un campo estático producido por cargas que ocupan una región finita del espacio.
+Para cargas en movimiento debe recurrirse a los potenciales de Liénard-Wiechert para representar un campo electromagnético que además incorpore el efecto de retardo, ya que las perturbaciones del campo eléctrico no se pueden propagar más rápido que la velocidad de la luz.
+Si se considera que las cargas están fuera de dicho campo, la carga no cuenta con energía y el potencial eléctrico equivale al trabajo necesario para llevar la carga desde el exterior del campo hasta el punto considerado.
+La unidad del Sistema Internacional es el voltio (V).
+Todos los puntos de un campo eléctrico que tienen el mismo potencial forman una superficie equipotencial.
+Una forma alternativa de ver al potencial eléctrico es que a diferencia de la energía potencial eléctrica o electrostática, él caracteriza solo una región del espacio sin tomar en cuenta la carga que se coloca ahí.
+Considérese una carga eléctrica puntual q en presencia de un campo eléctrico \vec E. La carga experimentará una fuerza eléctrica:
+Esta fuerza realizará un trabajo para trasladar la carga o elemento de un punto A a otro B, de tal forma que para producir un pequeño desplazamiento dl la fuerza eléctrica hará un trabajo diferencial dW expresado como:
+Por lo tanto, integrando la expresión se obtiene el trabajo total realizado por el campo eléctrico:
+Un caso particular de la fórmula anterior, es el del caso de un campo eléctrico creado por una carga puntual estática Q.
+Sea una carga puntual q que recorre una determinada trayectoria A - B en las inmediaciones de una carga Q tal y como muestra la figura 1.
+Siendo dr el desplazamiento infinitesimal de la carga q en la dirección radial, el trabajo diferencial dW se puede expresar así:
+Para calcular el trabajo total, se integra entre la posición inicial A, distante r_A \,\!
+de la carga Q y la posición final B, distante r_B \,\!
+de la carga Q:
+En la expresión, \epsilon_0 es la permitividad del vacío; de dicha expresión se concluye que el trabajo W no depende de la trayectoria seguida por la partícula, solo depende de la posición inicial y final, lo cual implica que la fuerza eléctrica es una fuerza conservativa.
+Por lo tanto se puede definir una energía potencial que permite calcular el trabajo más fácilmente:
+El trabajo realizado por la fuerza eléctrica para desplazar una partícula entre A y B será:
+Usualmente, el nivel cero de energía potencial se suele establecer en el infinito, es decir, si y solo si (esto tiene que ver con la elección de la constante de integración en la fórmula del potencial).
+Considérese una carga de prueba positiva q_0 \,\!
+en presencia de un campo eléctrico y que se traslada desde el punto A al punto B conservándose siempre en equilibrio.
+Si se mide el trabajo que debe hacer el agente que mueve la carga, la diferencia de potencial eléctrico se define como:
+El trabajo W_{AB} \,\!
+puede ser positivo, negativo o nulo.
+En estos casos el potencial eléctrico en B será respectivamente mayor, menor o igual que el potencial eléctrico en A.
+La unidad en el SI para la diferencia de potencial que se deduce de la ecuación anterior es Joule/Coulomb y se representa mediante una nueva unidad, el voltio, esto es: 1 voltio = 1 Joule/Coulomb.
+Un electronvoltio (eV) es la energía adquirida para un electrón al moverse a través de una diferencia de potencial de 1 V, 1 eV = 1,6x10-19 J. Algunas veces se necesitan unidades mayores de energía, y se usan los kiloelectronvoltios (keV), megaelectronvoltios (MeV) y los gigaelectronvoltios (GeV).
+(1 keV=103 eV, 1 MeV = 106 eV, y 1 GeV = 109 eV).
+Aplicando esta definición a la teoría de circuitos y desde un punto de vista más intuitivo, se puede decir que el potencial eléctrico en un punto de un circuito representa la energía que posee cada unidad de carga al paso por dicho punto.
+Así, si dicha unidad de carga recorre un circuito constituyendóse en corriente eléctrica, ésta irá perdiendo su energía (potencial o tensión) a medida que atraviesa los diferentes componentes del mismo.
+Obviamente, la energía perdida por cada unidad de carga se manifestará como trabajo realizado en dicho circuito (calentamiento en una resistencia, luz en una lámpara, movimiento en un motor, etc.).
+Por el contrario, esta energía perdida se recupera al paso por fuentes generadoras de tensión.
+Es conveniente distinguir entre potencial eléctrico en un punto (energía por unidad de carga situada en ese punto) y corriente eléctrica (número de cargas que atraviesan dicho punto por segundo).
+Usualmente se escoge el punto A a una gran distancia (en rigor el infinito) de toda carga y el potencial eléctrico V_A \,\!
+a esta distancia infinita recibe arbitrariamente el valor cero.
+Esto permite definir el potencial eléctrico en un punto poniendo V_A =0 \,\!
+y eliminando los índices:
+siendo W \,\!
+el trabajo que debe hacer un agente exterior para mover la carga de prueba q_0 \,\!
+desde el infinito al punto en cuestión.
+Obsérvese que la igualdad planteada depende de que se da arbitrariamente el valor cero al potencial V_A \,\!
+en la posición de referencia (el infinito) el cual hubiera podido escogerse de cualquier otro valor así como también se hubiera podido seleccionar cualquier otro punto de referencia.
+También es de hacer notar que según la expresión que define el potencial eléctrico en un punto, el potencial en un punto cercano a una carga positiva aislada es positivo porque debe hacerse trabajo positivo mediante un agente exterior para llevar al punto una carga de prueba (positiva) desde el infinito.
+Similarmente, el potencial cerca de una carga negativa aislada es negativo porque un agente exterior debe ejercer una fuerza (trabajo negativo en este caso) para sostener a la carga de prueba (positiva) cuando esta (la carga positiva) viene desde el infinito.
+Por último, el potencial eléctrico queda definido como un escalar porque W \,\!
+y q_0 \,\!
+son escalares.
+Tanto W_{AB} \,\!
+como son independientes de la trayectoria que se siga al mover la carga de prueba desde el punto A hasta el punto B.
+Si no fuera así, el punto B no tendría un potencial eléctrico único con respecto al punto A y el concepto de potencial sería de utilidad restringida.
+Es posible demostrar que las diferencias de potencial son independientes de la trayectoria para el caso especial representado en la figura.
+Para mayor simplicidad se han escogido los puntos A y B en una recta radial.
+Una carga de prueba puede trasladarse desde A hacia B siguiendo la trayectoria I sobre una recta radial o la trayectoria II completamente arbitraria.
+La trayectoria II puede considerarse equivalente a una trayectoria quebrada formada por secciones de arco y secciones radiales alternadas.
+Puesto que estas secciones se pueden hacer tan pequeñas como se desee, la trayectoria quebrada puede aproximarse a la trayectoria II tanto como se quiera.
+En la trayectoria II el agente externo hace trabajo solamente a lo largo de las secciones radiales, porque a lo largo de los arcos, la fuerza \vec F \,\!
+y el corrimiento son perpendiculares y en tales casos  es nulo.
+La suma del trabajo hecho en los segmentos radiales que constituyen la trayectoria II es el mismo que el trabajo efectuado en la trayectoria I, porque cada trayectoria está compuesta del mismo conjunto de segmentos radiales.
+Como la trayectoria II es arbitraria, se ha demostrado que el trabajo realizado es el mismo para todas las trayectorias que unen A con B.
+Aun cuando esta prueba solo es válida para el caso especial ilustrado en la figura, la diferencia de potencial es independiente de la trayectoria para dos puntos cualesquiera en cualquier campo eléctrico.
+Se desprende de ello el carácter conservativo de la interacción electrostática el cual está asociado a la naturaleza central de las fuerzas electrostáticas.
+Para un par de placas paralelas en las cuales se cumple que, donde d es la distancia entre las placas paralelas y E es el campo eléctrico constante en la región entre las placas.
+Sean A y B dos puntos situados en un campo eléctrico uniforme, estando A a una distancia d de B en la dirección del campo, tal como muestra la figura.
+Considérese una carga de prueba positiva q moviéndose sin aceleración, por efecto de algún agente externo, siguiendo la recta que une A con B.
+La fuerza eléctrica sobre la carga será qE y apunta hacia abajo.
+Para mover la carga en la forma descrita arriba, se debe contrarrestar esa fuerza aplicando una fuerza externa F de la misma magnitud pero dirigida hacia arriba.
+El trabajo W \,\!
+realizado por el agente que proporciona esta fuerza es:
+Teniendo en cuenta que:
+sustituyendo se obtiene:
+Esta ecuación muestra la relación entre la diferencia de potencial y la intensidad de campo en un caso sencillo especial.
+El punto B tiene un potencial más elevado que el A.
+Esto es razonable porque un agente exterior tendría que hacer trabajo positivo para mover la carga de prueba de A hacia B.
+En el caso más general de un campo eléctrico no uniforme, este ejerce una fuerza sobre la carga de prueba, tal como se ve en la figura.
+Para evitar que la carga acelere, debe aplicarse una fuerza que sea exactamente igual para todas las posiciones del cuerpo de prueba.
+Si el agente externo hace que el cuerpo de prueba se mueva siguiendo un corrimiento a lo largo de la trayectoria de A a B, el elemento de trabajo desarrollado por el agente externo es.
+Para obtener el trabajo total W_{AB} \,\!
+hecho por el agente externo al mover la carga de A a B, se suman las contribuciones al trabajo de todos los segmentos infinitesimales en que se ha dividido la trayectoria.
+Así se obtiene:
+Como, al sustituir en esta expresión, se obtiene que
+Si se toma el punto A infinitamente alejado, y si el potencial V_A \,\!
+al infinito toma el valor de cero, esta ecuación da el potencial en el punto B, o bien, eliminando el subíndice B,
+Estas dos ecuaciones permiten calcular la diferencia de potencial entre dos puntos cualesquiera si se conoce \vec E \,\!.
+El potencial eléctrico suele definirse a través del campo eléctrico a partir del teorema del trabajo de la física.
+donde E es el campo eléctrico vectorial generado por una distribución de carga eléctrica.
+Esta definición muestra que estrictamente el potencial eléctrico no está definido sino tan solo sus variaciones entre puntos del espacio.
+Por lo tanto, en condiciones de campo eléctrico nulo el potencial asociado es constante.
+Suele considerarse sin embargo que el potencial eléctrico en un punto infinitamente alejado de las cargas eléctricas es cero por lo que la ecuación anterior puede escribirse:
+En términos de energía potencial el potencial en un punto r es igual a la energía potencial entre la carga Q:
+El potencial eléctrico según Coulomb, también puede calcularse a partir de la definición de energía potencial de una distribución de cargas en reposo:
+donde es un volumen que contiene la región del espacio que contiene las cargas (se asume que dicha región es acotada en el espacio).
+Considérense los puntos A y B y una carga puntual q_0 situada en el origen, tal como muestra la figura.
+Consideremos que una carga de prueba, q, se mueve desde A hasta B. Si, por fijar ideas, q_0>0, según se muestra, \vec E \,\!
+apunta a la derecha y, que siempre está en la dirección del movimiento, apunta hacia el origen.
+Por consiguiente:
+Ahora bien, al moverse la carga una trayectoria hacia el origen, el módulo del desplazamiento infinitesimal d\vec{l} es igual a la disminución de la distancia r al origen, es decir, dl=-dr.
+Así pues:
+Por lo cual:
+Combinando esta expresión con la de E para una carga puntual se obtiene:
+Escogiendo el punto de referencia A en el infinito, esto es, haciendo que, considerando que V_A=0 \,\!
+en ese sitio y eliminando el subíndice B, se obtiene:
+Esta ecuación muestra claramente que las superficies equipotenciales para una carga puntual aislada son esferas concéntricas a la carga puntual.
+El potencial en un punto P debido a dos cargas es la suma de los potenciales debido a cada carga individual en dicho punto.
+Siendo r_1\,\!
+y r_2\,\!
+las distancias entre las cargas q_1\,\!
+y q_2\,\!
+y el punto P respectivamente.
+El potencial en un punto cualquier debido a un grupo de cargas punto se obtiene calculando el potencial V_n \,\!
+debido a cada carga, como si las otras cargas no existieran, y sumando las cantidades así obtenidas, o sea:
+siendo q_n \,\!
+el valor de la enésima carga y r_n \,\!
+la distancia de la misma al punto en cuestión.
+La suma que se efectúa es una suma algebraica y no una suma vectorial.
+En esto estriba la ventaja de cálculo del potencial sobre la de intensidad del campo eléctrico.
+Las superficies equipotenciales cortan perpendicularmente a las líneas de campo.
+En el gráfico se representa la intersección de las superficies equipotenciales con el plano XY.
+La ecuación de las líneas equipotenciales es:
+Si la distribución de carga es continua y no una colección de puntos, la suma debe reemplazarse por una integral:
+siendo dq un elemento diferencial de la distribución de carga, r su distancia al punto en el cual se calcula V y dV el potencial que dq produce en ese punto.
+Un plano infinito con densidad de carga de superficie \sigma \,\!
+crea un campo eléctrico saliente en la dirección perpendicular al plano de valor constante
+Si x es la dirección perpendicular al plano y este se encuentra en x=0 el potencial eléctrico en todo punto x es igual a:
+Donde se ha considerado como condición de contorno V(x)=0 en x=0
+Sea Q la carga total almacenada en la esfera conductora.
+Por tratarse de un material conductor las cargas están situadas en la superficie de la esfera siendo neutro su interior.
+Potencial en el exterior de la corteza:
+El potencial en el exterior de la corteza es equivalente al creado por una carga puntual de carga Q en el centro de la esfera.
+donde r \,\!
+es la distancia entre el centro de la corteza y el punto en el que medimos el potencial eléctrico.
+Potencial en el interior de la corteza:
+El campo eléctrico en el interior de una esfera conductora es cero, de modo que el potencial permanece constante al valor que alcanza en su superficie.
+Donde R \,\!
+es el radio de la esfera.
+Elektrostatik

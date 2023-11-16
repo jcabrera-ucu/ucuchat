@@ -1,0 +1,12 @@
+Quassel IRC, o Quassel, es un cliente IRC, introducido en 2008.
+Se distribuye bajo la Licencia Pública General de GNU para los sistemas operativos Linux, Unix, OS X y Windows.
+Desde el lanzamiento de Kubuntu 9.04 Quassel es él es el cliente IRC predeterminado de Kubuntu.
+Quassel utiliza la biblioteca multiplataforma Qt.
+Quassel se basa en un modelo de cliente-servidor.
+La aplicación principal utiliza LAN o Internet para conectar uno o más clientes, y también varios servidores IRC.
+El cliente no se comunica directamente con el servidor IRC, lo hace a través de un núcleo.
+De esta manera la conexión a la red de IRC es mantenida por el núcleo, a pesar de que no se están utilizando clientes.
+El sistema es parecido a lo que Irssi, WeeChat con GNU Screen, y Smuxi utilizan.
+Quassel permite conexiones simultáneas a varios servidores IRC y crear diferentes identidades, mensajes de ausencia, etc. Cada identificación puede ser asignada a más de un servidor.
+Anexo:Clientes IRC
+quassel-irc.org

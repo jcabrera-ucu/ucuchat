@@ -1,0 +1,139 @@
+JavaScript (abreviado comúnmente JS) es un lenguaje de programación interpretado, dialecto del estándar ECMAScript.
+Se define como orientado a objetos, basado en prototipos, imperativo, débilmente tipado y dinámico.
+Se utiliza principalmente del lado del cliente, implementado como parte de un navegador web permitiendo mejoras en la interfaz de usuario y páginas web dinámicas y JavaScript del lado del servidor (Server-side JavaScript o SSJS).
+Su uso en aplicaciones externas a la web, por ejemplo en documentos PDF, aplicaciones de escritorio (mayoritariamente widgets) es también significativo.
+Desde 2012, todos los navegadores modernos soportan completamente ECMAScript 5.1, una versión de JavaScript.
+Los navegadores más antiguos soportan por lo menos ECMAScript 3.
+La sexta edición se liberó en julio de 2015.
+JavaScript se diseñó con una sintaxis similar a C++ y Java, aunque adopta nombres y convenciones del lenguaje de programación Java.
+Sin embargo, Java y JavaScript tienen semánticas y propósitos diferentes.
+Su relación es puramente comercial, tras la compra del creador de Java (Sun Microsystems) de Netscape Navigator (creador de LiveScript) y el cambio de nombre del lenguaje de programación.
+Todos los navegadores modernos interpretan el código JavaScript integrado en las páginas web.
+Para interactuar con una página web se provee al lenguaje JavaScript de una implementación del Document Object Model (DOM).
+Javascript es el único lenguaje de programación que entienden de forma nativa los navegadores.
+Tradicionalmente se venía utilizando en páginas web HTML para realizar operaciones y únicamente en el marco de la aplicación cliente, sin acceso a funciones del servidor.
+Actualmente es ampliamente utilizado para enviar y recibir información del servidor junto con ayuda de otras tecnologías como AJAX.
+JavaScript se interpreta en el agente de usuario al mismo tiempo que las sentencias van descargándose junto con el código HTML.
+Desde el lanzamiento en junio de 1997 del estándar ECMAScript 1, han existido las versiones 2, 3 y 5, que es la más usada actualmente (la 4 se abandonó ).
+En junio de 2015 se cerró y publicó la versión ECMAScript 6.
+JavaScript fue desarrollado originalmente por Brendan Eich de Netscape con el nombre de Mocha, el cual fue renombrado posteriormente a LiveScript, para finalmente quedar como JavaScript.
+El cambio de nombre coincidió aproximadamente con el momento en que Netscape agregó compatibilidad con la tecnología Java en su navegador web Netscape Navigator en la versión 2002 en diciembre de 1995.
+La denominación produjo confusión, dando la impresión de que el lenguaje es una prolongación de Java, y fue considerada por muchos como una estrategia de mercadotecnia de Netscape para obtener prestigio e innovar en el ámbito de los nuevos lenguajes de programación web.
+«JAVASCRIPT» es una marca registrada de Oracle Corporation.
+Es usada con licencia por los productos creados por Netscape Communications y entidades actuales como la Fundación Mozilla.
+Microsoft dio como nombre a su dialecto de JavaScript «JScript», para evitar problemas relacionadas con la marca.
+JScript fue adoptado en la versión 3.0 de Internet Explorer, liberado en agosto de 1996, e incluyó compatibilidad con el Efecto 2000 con las funciones de fecha, una diferencia de los que se basaban en ese momento.
+Los dialectos pueden parecer tan similares que los términos «JavaScript» y «JScript» a menudo se utilizan indistintamente, pero la especificación de JScript es incompatible con la de ECMA en muchos aspectos.
+Para evitar estas incompatibilidades, el World Wide Web Consortium diseñó el estándar Document Object Model (DOM, o Modelo de Objetos del Documento en español), que incorporan Konqueror, las versiones 6 de Internet Explorer y Netscape Navigator, Opera la versión 7, Mozilla Application Suite y Mozilla Firefox desde su primera versión.
+En 1997 los autores propusieron JavaScript para que fuera adoptado como estándar de la European Computer Manufacturers 'Association ECMA, que a pesar de su nombre no es europeo sino internacional, con sede en Ginebra.
+En junio de 1997 fue adoptado como un estándar ECMA, con el nombre de ECMAScript.
+Poco después también como un estándar ISO.
+Netscape introdujo una implementación de script del lado del servidor con Netscape Enterprise Server, lanzada en diciembre de 1994 (poco después del lanzamiento de JavaScript para navegadores web).
+A partir de mediados de la década de los 2000, ha habido una proliferación de implementaciones de JavaScript para el lado servidor.
+Node.js es uno de los notables ejemplos de JavaScript en el lado del servidor, siendo usado en proyectos importantes.
+JavaScript se ha convertido en uno de los lenguajes de programación más populares en internet y más usados.
+Al principio, sin embargo, muchos desarrolladores renegaban del lenguaje porque el público al que va dirigido lo formaban publicadores de artículos y demás aficionados, entre otras razones.
+La llegada de Ajax devolvió JavaScript a la fama y atrajo la atención de muchos otros programadores.
+Como resultado de esto hubo una proliferación de un conjunto de frameworks y bibliotecas de ámbito general, mejorando las prácticas de programación con JavaScript, y aumentado el uso de JavaScript fuera de los navegadores web, como se ha visto con la proliferación de entornos JavaScript del lado del servidor.
+En enero de 2009, el proyecto CommonJS fue inaugurado con el objetivo de especificar una biblioteca para uso de tareas comunes principalmente para el desarrollo fuera del navegador web.
+En junio de 2015 se cerró y publicó el estándar ECMAScript 6 con un soporte irregular entre navegadores y que dota a JavaScript de características avanzadas que se echaban de menos y que son de uso habitual en otros lenguajes como, por ejemplo, módulos para organización del código, verdaderas clases para programación orientada a objetos, expresiones de flecha, iteradores, generadores o promesas para programación asíncrona.
+La versión 7 de ECMAScript se conoce como ECMAScript 2016, y es la última versión disponible, publicada en junio de 2016.
+Se trata de la primera versión para la que se usa un nuevo procedimiento de publicación anual y un proceso de desarrollo abierto.
+Las siguientes características son comunes a todas las implementaciones que se ajustan al estándar ECMAScript, a menos que especifique explícitamente en caso contrario.
+JavaScript es compatible con gran parte de la estructura de programación de C (por ejemplo, sentencias, bucles  , sentencias  , etc.).
+Con una salvedad, en parte: en C, el ámbito de las variables alcanza al bloque en el cual fueron definidas; sin embargo JavaScript no es compatible con esto, puesto que el ámbito de las variables es el de la función en la cual fueron declaradas.
+Esto cambia con la versión de ECMAScript 2015, ya que añade compatibilidad con block scoping por medio de la palabra clave.
+Como en C, JavaScript hace distinción entre expresiones y sentencias.
+Una diferencia sintáctica con respecto a C es la inserción automática de punto y coma, es decir, en JavaScript los puntos y coma que finalizan una sentencia pueden ser omitidos.
+JavaScript se encuentra oficialmente bajo la organización de Mozilla Foundation, y periódicamente se añaden nuevas características del lenguaje.
+Sin embargo, solo algunos motores JavaScript son compatibles con estas características:
+La última versión del lenguaje es ECMAScript 2016 publicada el 17 de junio del año 2016.
+Las variables en JavaScript se definen usando la palabra clave var:
+A considerar los comentarios en el ejemplo de arriba, los cuales van precedidos con 2 barras diagonales.
+No existen funcionalidades para I/O incluidas en el lenguaje; el entorno de ejecución ya lo proporciona.
+La especificación ECMAScript en su edición 5.1 hace mención:
+"... en efecto, no existen provisiones en esta especificación para entrada de datos externos o salida para resultados computados."
+Sin embargo, la mayoría de los entornos de ejecución tiene un objeto llamado  que puede ser usado para imprimir por el flujo de salida de la consola de depuración.
+He aquí un simple programa que imprime “Hello world!”:
+Una función recursiva:
+Ejemplos de función anónima (o función lambda) y una clausura:
+Las expresiones con invocación automática permiten a las funciones pasarle variables por parámetro dentro de sus propias clausuras.
+El siguiente código muestra varias características de JavaScript.
+El siguiente ejemplo muestra la salida que debería ser mostrada en la ventana de un navegador.
+El uso más común de JavaScript es escribir funciones embebidas o incluidas en páginas HTML y que interactúan con el Document Object Model (DOM o Modelo de Objetos del Documento) de la página.
+Algunos ejemplos sencillos de este uso son:
+Dado que el código JavaScript puede ejecutarse localmente en el navegador del usuario (en lugar de en un servidor remoto), el navegador puede responder a las acciones del usuario con rapidez, haciendo una aplicación más sensible.
+Por otra parte, el código JavaScript puede detectar acciones de los usuarios que HTML por sí sola no puede, como pulsaciones de teclado.
+Las aplicaciones como Gmail se aprovechan de esto: la mayor parte de la lógica de la interfaz de usuario está escrita en JavaScript, enviando peticiones al servidor (por ejemplo, el contenido de un mensaje de correo electrónico).
+La tendencia cada vez mayor por el uso de la programación Ajax explota de manera similar esta técnica.
+Un motor de JavaScript (también conocido como intérprete de JavaScript o implementación JavaScript) es un intérprete que interpreta el código fuente de JavaScript y ejecuta la secuencia de comandos en consecuencia.
+El primer motor de JavaScript fue creado por Brendan Eich en Netscape Communications Corporation, para el navegador web Netscape Navigator.
+El motor, denominado SpiderMonkey, está implementado en C. Desde entonces, ha sido actualizado (en JavaScript 1.5) para cumplir con el ECMA-262 edición 3.
+El motorRhino, creado principalmente por Norris Boyd (antes de Netscape, ahora en Google) es una implementación de JavaScript en Java.
+Rhino, como SpiderMonkey, es compatible con el ECMA-262 edición 3.
+Un navegador web es, con mucho, el entorno de acogida más común para JavaScript.
+Los navegadores web suelen crear objetos no nativos, dependientes del entorno de ejecución, para representar el Document Object Model (DOM) en JavaScript.
+El servidor web es otro entorno común de servicios.
+Un servidor web JavaScript suele exponer sus propios objetos para representar objetos de petición y respuesta HTTP, que un programa JavaScript podría entonces interrogar y manipular para generar dinámicamente páginas web.
+Debido a que JavaScript es el único lenguaje por el que los más populares navegadores comparten su apoyo, se ha convertido en un lenguaje al que muchos frameworks en otros lenguajes compilan, a pesar de que JavaScript no fue diseñado para tales propósitos.
+A pesar de las limitaciones de rendimiento inherentes a su naturaleza dinámica, el aumento de la velocidad de los motores de JavaScript ha hecho de este lenguaje un entorno para la compilación sorprendentemente factible.
+A continuación se muestra un breve ejemplo de una página web (ajustándose a las normas del estándar para HTML5) que utiliza JavaScript para el manejo del DOM:
+Debido a que JavaScript se ejecuta en entornos muy variados, una parte importante de las pruebas y la depuración es probar y verificar que el código JavaScript funciona correctamente en múltiples navegadores.
+La interfaz DOM para acceder y manipular páginas web no es parte del estándar ECMAScript, o de la propia JavaScript.
+El DOM es definido por los esfuerzos de estandarización del W3C, una organización independiente.
+En la práctica, las implementaciones que hacen de JavaScript los distintos navegadores difieren tanto entre ellos mismos como de las normas del estándar.
+Para hacer frente a estas diferencias, los autores de JavaScript pudieron ser capaces de escribir código compatible con los estándares que también fuera capaz de ejecutarse correctamente en la mayoría de los navegadores, o en su defecto, que al menos se pudiera escribir código capaz de comprobar la presencia de ciertas funcionalidades del navegador y que se comportase de manera diferente si no se dispusiese de dicha funcionalidad.
+Existen casos en los que dos navegadores pueden llegar a implementar la misma característica, pero con un comportamiento diferente, hecho que a los programadores les puede resultar de ayuda para detectar qué navegador se está ejecutando en ese instante y así cambiar el comportamiento de su escritura para que coincida.
+Los programadores también suelen utilizar bibliotecas o herramientas que tengan en cuenta las diferencias entre navegadores.
+Además, los scripts pueden no funcionar para algunos usuarios.
+Por ejemplo, un usuario puede:
+Para apoyar a estos usuarios, los programadores web suelen crear páginas que sean tolerante de fallos según el agente de usuario (tipo de navegador) que no admita JavaScript.
+En particular, la página debe seguir siendo útil aunque sin las características adicionales que JavaScript habría añadido.
+Un enfoque alternativo que muchos encuentran preferible es primero crear contenido utilizando las tecnologías que funcionan en todos los navegadores, y mejorar el contenido para los usuarios que han permitido JavaScript.
+Suponiendo que el usuario no haya desactivado la ejecución de código JavaScript, en el lado del cliente JavaScript debe ser escrito tanto con el propósito de mejorar las experiencias de los visitantes con discapacidad visual o física, como el de evitar ocultar información a estos visitantes.
+Los lectores de pantalla, utilizados por los ciegos y deficientes visuales, pueden ser tenidos en cuenta por JavaScript y así poder acceder y leer los elementos DOM de la página.
+El código HTML escrito debe ser lo más conciso, navegable y semánticamente rico posible, tanto si JavaScript se ejecuta como si no.
+JavaScript no debería de ser totalmente dependiente de los eventos de ratón del navegador y debería ser accesible para aquellos usuarios que no quieran hacer uso del ratón (informática) para navegar o que opten por utilizar solamente el teclado.
+Hay eventos independientes del dispositivo, tales como  y   que son preferibles en la mayoría de los casos.
+JavaScript no debe ser utilizado para crear confusión o desorientación al usuario web.
+Por ejemplo, modificar o desactivar la funcionalidad normal del navegador, como cambiar la forma en que el botón de navegar hacia atrás o el evento de actualización se comportan, son prácticas que generalmente son mejores evitar.
+Igualmente, desencadenar eventos que el usuario puede no tener en cuenta reduce la sensación de control del usuario y provoca cambios inesperados al contenido de la página.
+A menudo, el proceso de dotar a una página web compleja el mayor grado accesibilidad posible, se convierte en un problema no trivial donde muchos temas se acaban llevando al debate y a la opinión, siendo necesario el compromiso de todos hasta el final.
+Sin embargo, los agentes de usuario y las tecnologías de apoyo a personas con discapacidad están en constante evolución y nuevas directrices e información al respecto siguen publicándose en la web.
+JavaScript y el DOM permite que existan programadores que hagan un uso inapropiado para introducir scripts que ejecuten código con contenido malicioso sin el consentimiento del usuario y que pueda así comprometer su seguridad.
+Los desarrolladores de los navegadores tienen en cuenta este riesgo utilizando dos restricciones.
+En primer lugar, los scripts se ejecutan en un sandbox en el que solo se pueden llevar a cabo acciones relacionadas con la web, no con tareas de programación de propósito general, como la creación de archivos.
+En segundo lugar, está limitada por la política del mismo origen: los scripts de un sitio web no tienen acceso a la información enviada a otro sitio web (de otro dominio) como pudiera ser nombres de usuario, contraseñas o cookies.
+La mayoría de los fallos de seguridad de JavaScript están relacionados con violaciones de cualquiera de estas dos restricciones.
+Existen proyectos como AdSafe o Secure ECMA script (SES) que proporcionan mayores niveles de seguridad, en especial en el código creado por terceros (tales como los anuncios).
+La Política de Contenido Seguro (CSP) es el método principal previsto para garantizar que solo código de confianza pueda ser ejecutado en una página web.
+Un problema común de seguridad en JavaScript es el cross-site scripting o XSS, una violación de la política de mismo origen.
+Las vulnerabilidades XSS permiten a un atacante inyectar código JavaScript en páginas web visitadas por el usuario.
+Una de esas webs podría ser la de un banco, pudiendo el atacante acceder a la aplicación de banca con los privilegios de la víctima, lo que podría revelar información secreta o transferir dinero sin la autorización de la víctima.
+Una solución para las vulnerabilidades XSS es utilizar HTML escaping cuando se muestre información de fuentes no confiables.
+Algunos navegadores incluyen una protección parcial contra los ataques XSS reflejados (el atacante está en la misma petición web).
+El atacante proporciona una URL incluyendo código malicioso.
+Sin embargo, incluso los usuarios de los navegadores son vulnerables a otros ataques XSS, tales como aquellos en los que el código malicioso se almacena en una base de datos.
+Solo el correcto diseño de las aplicaciones Web en la parte servidora puede prevenir totalmente XSS.
+Las vulnerabilidades XSS también pueden ocurrir debido a errores de ejecución por los desarrolladores del navegador.
+Otra vulnerabilidad es la falsificación de petición de sitio cruzado o CSRF.
+En CSRF, el código del sitio web atacante engaña al navegador de la víctima, permitiendo al atacante realizar peticiones en nombre de la víctima, haciendo imposible saber a la aplicación de destino (por ejemplo, la de un banco haciendo una transferencia de dinero) saber si la petición ha sido realizada voluntariamente por el usuario o por un ataque CSRF.
+El ataque funciona porque, si el sitio de destino hace uso únicamente de las cookies para autenticar las solicitudes de la víctima, las peticiones iniciadas por el código del atacante tendrán las mismas credenciales de acceso legítimo que las solicitudes iniciadas por el propio usuario.
+En general, la solución a CSRF consiste en introducir un campo de formulario oculto cuyo valor se utilice para realizar la autenticación, y no solo por medio de las cookies, en solicitudes que puedan tener efectos duraderos.
+La comprobación de la cabecera HTTP referer también puede servir de ayuda.
+"Hijacking JavaScript" es un tipo de ataque CSRF en el que una etiqueta en el sitio web del atacante explota una vulnerabilidad en la página del sitio de la víctima que le hace devolver información privada, en forma de JSON o código JavaScript.
+Las posibles soluciones son:
+En JavaScript, disponer de un depurador se convierte en necesario cuando se desarrollan grandes aplicaciones, no triviales.
+Dado que puede haber diferencias de implementación entre los diferentes navegadores (especialmente en cuanto al DOM), es útil tener acceso a un depurador para cada uno de los navegadores a los cuales nuestra aplicación web irá dirigido.
+Los depuradores web están disponibles para Internet Explorer, Firefox, Safari, Google Chrome y Opera.
+Existen tres depuradores disponibles para Internet Explorer: Microsoft Visual Studio es el más avanzado de los tres, seguido de cerca por Microsoft Script Editor (un componente de Microsoft Office) y, finalmente, Microsoft Script Debugger, que es mucho más básico que el otro dos, aunque es gratuito.
+El IDE gratuito Microsoft Visual Web Developer Express ofrece una versión limitada de la funcionalidad de depuración de JavaScript en el Microsoft Visual Studio.
+Internet Explorer ha incluido herramientas de desarrollo desde la versión 8 (se muestra pulsando la tecla F12).
+Las aplicaciones web dentro de Firefox se pueden depurar usando el Firebug add-on o el antiguo depurador Venkman.
+Firefox también tiene integrada una consola de errores básica, que registra y evalúa JavaScript.
+También registra errores de CSS y advertencias.
+Opera incluye un conjunto de herramientas llamado Dragonfly.
+El Inspector Web de WebKit incluye un depurador de JavaScript utilizado en Safari, junto con una versión modificada de Google Chrome.
+Existen algunas herramientas de ayuda a la depuración, también escritas en JavaScript y construidas para ejecutarse en la Web.
+Un ejemplo es el programa JSLint, desarrollado por Douglas Crockford, quien ha escrito extensamente sobre el lenguaje.
+JSLint analiza el código JavaScript para que este quede conforme con un conjunto de normas y directrices y que aseguran su correcto funcionamiento y mantenibilidad.

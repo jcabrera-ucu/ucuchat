@@ -1,0 +1,48 @@
+Un videojuego gratuito (en inglés, free-to-play o F2P y también conocidos como free-to-start) es un tipo de videojuego que permite a los jugadores el acceso al conjunto de su contenido, o al menos a una parte importante del mismo, sin necesidad de pagar.
+Este concepto se puede contrastar con el de "pagar por jugar", en el que se requiere el pago antes de usar un servicio por primera vez.
+Existen varios tipos de modelos de negocio de videojuegos gratuitos.
+El más común se basa en el modelo de software freemium; por lo tanto, los videojuegos gratuitos no suelen ser completamente gratuitos.
+Para los videojuegos freemium, los usuarios tienen acceso a un videojuego completamente funcional, pero se les incentiva a pagar microtransacciones para acceder a contenido adicional (a menudo la mayoría del contenido) sin pasar mucho tiempo "desbloqueándolo".
+Otro método para generar ingresos es integrar anuncios en el videojuego.
+El modelo se utilizó por primera vez popularmente en los primeros videojuegos multijugador masivo en línea dirigidos a jugadores casuales, antes de encontrar una adopción más amplia entre los videojuegos lanzados por los principales editores de videojuegos para combatir la piratería de videojuegos y los altos requisitos del sistema.
+Este modelo comenzó a usarse en los videojuegos de multijugador masivo en línea más conocidos como MMO buscando atraer la atención de los jugadores casuales, antes de que esta fuera ocupada por algún otro juego con mayor peso y para evitar la piratería.
+Al principio, estos juegos eran más simples y tenían menos requisitos, por ello podían ejecutarse en ordenadores que no tuviesen un hardware excesivamente caro.
+Algunos de estos juegos pueden incluir publicidad dentro del juego, como pequeños anuncios en los tiempos de carga o que los personajes utilicen distintos productos existentes en la realidad.
+Los juegos gratuitos son la contraparte de los juegos de pago en los cuales es necesario un pago inicial antes de poder jugarlo.
+Los juegos de pago normalmente ofrecen una experiencia equitativa para todos los jugadores, mientras que los gratuitos suelen darle ventajas a los usuarios que realizan ingresos.
+Esta última modalidad se rige ante un modelo llamado freemium el cual es un modelo de negocios que funciona ofreciendo servicios básicos gratuitos, mientras se cobra por otros más avanzados o especiales.
+No hay una diferencia clara entre el shareware y lo gratuito.
+Sin embargo, las versiones shareware normalmente poseen muchas más restricciones y menos de un cuarto del total de las características funcionales que la aplicación total posee.
+Si no hay ninguna forma de ingresar dinero o pagar en un juego, se le llama freeware.
+El origen del modelo gratuito se remonta a esos MMO que tenían como objetivo a los niños y los jugadores casuales, como por ejemplo Furcadia (1996), Neopets (1999) o RuneScape (2001).
+Este último tiene aproximadamente 10 millones de cuentas activas por mes y posee aproximadamente 200 millones de cuentas creadas y es reconocido por el libro Guinness de los récords como el MMORPG gratuito más popular del mundo.
+RuneScape tiene aproximadamente 10 millones de cuentas activas por mes, cerca de 200 millones de cuentas registradas,
+Viendo tales éxitos, las compañías con mayor peso económico comenzaron a utilizar este modelo y salieron a la luz proyectos que actualmente son bastante populares, como por ejemplo FarmVille (Zynga, 2009), Battlefield Heroes (Electronic Arts, 2009), Free Realms (Sony, 2009), Quake Live (id Software 2010) y Team Fortress 2 (Valve 2011).
+Por otro lado, los desarrolladores independientes también comenzaron a hacer juegos free to play, pudiendo tomar iniciativa e innovar ya que para sus proyectos no era necesario un presupuesto enorme (al contrario que los juegos AAA) recibiendo a cambio una cantidad de ingresos considerable ya que normalmente estos desarrolladores son uno o dos personas.
+Internet ha sido citado como la mayor influencia sobre el crecimiento de uso de los gratuitos, particularmente entre las grandes empresas de videojuegos, a las cuales constantemente se les pide nuevo contenido, gratuito.
+En PC actualmente surge el conocidísimo problemas que hace que los juegos se vayan haciendo de este modelo: la piratería.
+Además poseen una experiencia con bastante publicidad y microtransacciones para conseguir contenido extra.
+Los primeros juegos que pasaron del modelo de suscripción mensual al gratuito fueron The Lord of the Rings Online: Shadows of Angmar (2007), Age of Conan: Hyborian Adventures (2008), Champions Online (2009) y Heroes of Newerth (2010).
+Actualmente la modalidad gratuita se conoce como una categoría recién nacida y las compañías de videojuegos todavía están intentando determinar cuál es la mejor forma de conseguir los ingresos más altos con sus juegos.
+Los jugadores coinciden en que es mejor pagar por un juego una determinada cifra ya que es muy satisfactorio saber todo lo que el juego brinda, al contrario que los free to play, que muchas de las características requieren microtransacciones haciendo que el término pueda llegar a ser tomado como negativo.
+Charles Onyett comento a la editorial de IGN que «las compras caras y realizadas una vez son un factor en extinción».
+Él cree que el modelo el cual se rige por pagar una vez provocará que los juegos desaparezcan completamente, quizás cuando la próxima generación de consolas vea la luz.
+Aunque admite que las compañías continuaran teniendo pequeños problemas para vender muchas unidades y que los desarrolladores independientes directamente tendrán que pasarse al modelo gratuito para poder sobrevivir.
+Esto se debe a los ridículos precios ya preestablecido por las compañías con un capital económico ampliamente superior a la de los desarrolladores independientes.
+Algunos juegos tienen versiones gratuitas y de pago, las cuales ofrecen una versión completa del juego y todas las actualizaciones disponibles.
+Ambos tipos de juego, utilizan un sistema comercial de incentivos para atraer nuevos usuarios.
+El término Free to Play suele asociarse a MMO (multijugador masivo en línea).
+Algunos utilizan el término gratuito de por vida (FF2P, forever free to play) para distinguir a los MMO que prometen no cobrar una tarifa de suscripción de aquellos que comienzan siendo gratuitos pero en el futuro pueden llegar a dejar de serlo, aunque esto era antes y no suele pasar actualmente.
+Varios desarrolladores de videojuegos mantienen una versión gratuita para que la gente pueda probar el juego antes de pagar por él.
+Además, ayuda a atraer más usuarios.
+Otros desarrolladores generan beneficios por medio de la venta de objetos dentro del juego, los cuales aumentan la experiencia del juego.
+Estos objetos pueden ser puramente estéticos, aumentar el poder de los jugadores o acelerar el progreso dentro del juego.
+Una técnica muy común es que los objetos comprados en realidad solo puedes utilizarlos durante un determinado periodo de tiempo, para que, una vez transcurrido ese tiempo, el usuario vuelva a pagar otra vez por ese objeto si quiere volver a utilizarlo.
+La descarga e instalación de estos juegos es gratuita, pero una vez que el jugador entre al juego, podrá comprar contenido como objetos, personajes, mapas y de más artículos.
+A los críticos de la categoría de videojuegos gratuitos les preocupa que los jugadores que pagan por elementos especiales, tengan alguna ventaja respecto de los jugadores que no compran los mismos elementos; la experiencia de juego no va a ser tan agradable como en otros juegos, ya que los jugadores que pagaron más dinero tienen más éxito que los que simplemente se basan en su habilidad y esfuerzo.
+A los juegos en los que pasa esto se les llama paga para ganar (abreviado como P2W, pay to win).
+En cambio, algunos sugieren que los pagos sólo deben utilizarse para ampliar la experiencia de juego sin afectar al juego en sí.
+También afirman que el secreto está en encontrar el equilibrio: hacer que los jugadores quieran pagar por características adicionales para hacer el juego más especial, garantizando al mismo tiempo que los jugadores que deciden no pagar no se sienten como si estuvieran recibiendo un producto inferior.
+La teoría es que los jugadores que no pagan por los elementos de un juego aumentarán la difusión del juego por el boca a boca, enriqueciendo así la experiencia de juego de los otros jugadores, lo que finalmente beneficia indirectamente el juego a pesar de que no se reciban ingresos directos de estos jugadores.
+Una preocupación común acerca de la categoría gratuita es si estos juegos tienen que pedir constantemente que el jugador compre contenido adicional para poder sobrevivir o continuar en el juego, y si es así, en qué momento se convierte en una molestia o hace que el jugador se sienta incómodo al respecto.
+Ejemplo de juego F2P pero con modalidad Pay to Win:

@@ -1,0 +1,8 @@
+Un  curvímetro, también conocido como opisómetro es un dispositivo mecánico o electrónico (instrumento de medida), utilizado para medir la longitud de una curva sobre un plano.
+En cartografía se utiliza para medir pequeñas distancias sobre un mapa.
+El instrumento consiste básicamente en una rueda conectada a un contador de vueltas.
+Es decir está compuesto por una rueda áspera o bola que cuando el usuario hace girar sobre el mapa o plano a lo largo de la trayectoria a cuantificar, y un dispositivo para convertir la rotación de acuerdo con la escala de distancias del mapa o plano, con gradaciones de escala o con una conversión electrónica.
+Para medir la longitud de una curva, el usuario, después de ponerlo a cero, hace girar la rueda del curvímetro a lo largo de la curva, cubriendo el recorrido de la misma.
+El número de vueltas de la rueda queda registrado en el contador en forma de unidades de longitud en diferentes escalas.
+En el curvímetro de tipo electrónico, después de ponerlo a cero y hacerlo girar sobre el plano, aparece la distancia directamente en el display en las unidades y escala elegidas previamente en el menú de configuración.
+En un mapa, con el curvímetro, se puede medir el recorrido de un río (sin tener en cuenta las lagunas) o también la longitud de un camino, por ejemplo, ya que la altura en estos casos no varía de manera significativa.

@@ -1,0 +1,49 @@
+En metalurgia, el término mata designa a un material sulfuroso semimetálico con carácter de producto intermedio en los procesos pirometalúrgicos para la extracción de metales no ferrosos.
+Es el resultado de la primera fusión de una mena sulfurosa de metales como cobre, plomo, plata, antimonio o níquel.
+La mata es de interés solo por su composición química y por el hecho de que se debe fundir para extraer el metal que contiene.
+Químicamente, es comparable a una sal fundida compuesta por elementos calcófilos.
+La palabra francesa ("matte") aparece escrita hacia 1627 para designar a un producto metalúrgico intermedio.
+Un siglo antes, el término "matte" parece que daba nombre a un metal en bruto depurado de sus principales impurezas por martilleo.
+El término, según el El tesoro de la lengua francesa o mediante un análisis dialectal simple proviene del étimo indoeuropeo mate* que significa "compacto, cada vez más compacto".
+Los herreros no son los únicos en utilizarlo, los ganaderos llaman matte (en femenino) o maton (en masculino) a la leche cuajada, material que luego puede ser prensado o compactado para hacer queso blanco en una primera etapa.
+El antiguo verbo francés del matoner significa cuajar, coagular.
+Sorprendentemente, muchos diccionarios etimológicos franceses a menudo especifican un origen oscuro o incierto para este término técnico.
+En alemán der Lech o das Rohmetal puede significar mata en metalurgia.
+Los mundos técnicos anglosajones y francófonos tienen el mismo término escrito "matte".
+En español, la palabra "mata", tal como figura en el Diccionario de la Real Academia, procede directamente del francés "matte".
+La mata contiene, además del metal buscado en el mineral, otros metales calcófilos como hierro o níquel.
+Los elementos metálicos suelen estar presentes en forma de sulfuros de fórmulas complejas, a veces modeladas bajo la fórmula genérica:
+Siempre que el azufre esté presente, se habla de mata.
+La mejor manera de representarla es compararla con una sal fundida.
+Cuando se ha eliminado el azufre, normalmente se obtiene una aleación totalmente metálica, que si contiene mucho hierro (especialmente en el caso de la métalurgia extractiva del níquel) se habla de una ferroaleación.
+En la metalurgia extractiva del cobre, la mata antes de ser afinada en un convertidor a veces se denomina "mata de bronce".
+. Contiene 40 a 50% de cobre (con respectivamente 32 a 22% de hierro para una mata hecha con alto horno), pero es posible, en algunos casos, bajar a 32% de cobre Cuando todo el hierro se ha oxidado, el metal ha alcanzado un contenido de cobre de alrededor del 80 %.
+Ya no contiene hierro, pero sigue siendo rico en azufre y en elementos difíciles de oxidar: esta aleación intermedia se denomina "mata blanca".
+El soplado continúa hasta obtener un metal que contiene más del 99 % de cobre, denominado “blister”.
+En la metalurgia extractiva del níquel, el refinado por convertidor de la mata se detiene cuando todo el hierro se ha oxidado; por lo tanto, queda algo de azufre al final del soplado.
+Existen, pues, dos matas de níquel: una "mata en bruto", que contiene níquel, hierro, azufre y otros metales (cobalto, cobre y metales preciosos), y una "mata blanca" (o mata de convertidor, o mata refinada), que contiene esencialmente níquel y azufre, al que se añaden dependiendo de la naturaleza del mineral, posiblemente algo de cobre y metales preciosos.
+La oxidación del hierro en el convertidor aumenta así el contenido de níquel del 15-60 % en la mata bruta al 40-70 % en la mata refinada.
+En la metalurgia extractiva de metales del grupo del platino se obtiene y refina mata de níquel-cobre como mata de níquel.
+Después de la oxidación del hierro en un convertidor (del tipo top-blown, Peirce-Smith o continuo), la mata blanca contiene de de elementos preciosos por tonelada.
+Más generalmente, la mata se puede definir como una mezcla de azufre y metales.
+Edward Peters lo resume de esta forma:
+thumb|250px|[[Punto de fusión|Temperatura de fusión de una mata cuprosa]]
+En algunos casos, la mata se puede obtener de forma muy sencilla.
+Por ejemplo, el calentamiento a 600 °C de rocas que contienen estibina genera el flujo de una mata de antimonio fundida, que así se separa de la roca estéril.
+Para otras matas, un proceso de tostación precede a la fusión de los materiales metálicos sulfurosos contenidos en las menas.
+La mata fundida se separa naturalmente de los otros componentes porque su densidad, que está entre en el caso de la metalurgia del cobre, es menos densa que el metal fundido, pero más densa que la escoria sobrenadante.
+Esta última es una fase silícea a base de.
+Debido a su estructura iónica y parcialmente metálica, la mata es inmiscible con la escoria, y difícil de mezclar con el metal fundido.
+Al principio de, en la metalurgia extractiva del níquel, la obtención de la mata se puede realizar de tres formas diferentes:
+mini|250px|Principio del "método galés", un proceso secreto desarrollado durante la Revolución Industrial. Mantenido en secreto, aseguró a los galeses la supremacía de la producción de cobre. En el, el agotamiento de las minas de Cornualles y el progreso de la química dejaron obsoleto este conocimiento
+La mata debe ser despojada de azufre y hierro para convertirse en un metal listo para ser usado.
+Un método de refinamiento histórico es el método galés, basado en tostados sucesivos en hornos de reverbero.
+Este método, mantenido en secreto, permitió a Gran Bretaña adquirir una posición preponderante en la producción de cobre hasta la década de 1880.
+El refinado de la mata consiste, para simplificar, en 6 pasos en el horno de reverbero.
+En 1880, la invención del proceso Manhès-David, inspirado en el convertidor Bessemer, contribuyó a la desaparición del método galés.
+Mientras que el procesamiento del mineral requiere de y consume  de carbón con el método antiguo, la fundición y el soplado de mata con el proceso Manhès-David se realiza en  y solo requiere  de coque.
+Al comienzo del, el proceso Manhès-David seguía siendo el método dominante para refinar las matas, aunque había evolucionado considerablemente.
+En 2010, todavía representaba el 90 % del afinado de matas de cobre.
+Participa en el procesamiento de minerales de níquel sulfuroso, interviniendo, en 2011, en el 60% de la extracción de níquel
+La generalización del convertidor Peirce-Smith a principios del, por lo tanto, mantuvo la mata como un producto intermedio esencial en la metalurgia extractiva de metales no ferrosos a partir de minerales sulfurosos (blenda, calcopirita, galena, pentlandita y otros).
+Sin embargo, en la metalurgia extractiva del cobre, algunas fundiciones que utilizan hornos fusión flash potencian la oxidación para quemar todo el azufre contenido en la mata, con el fin de producir el metal directamente.

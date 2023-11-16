@@ -1,0 +1,19 @@
+Es aquella sustancia utilizada como indicador de un estado biológico.
+La medida de los niveles molecular, bioquímico o celular de los biomarcadores, tanto en poblaciones naturales provenientes de hábitats contaminados, como en organismos expuestos experimentalmente a contaminantes, indican que el organismo ha estado expuesto a sustancias tóxicas y la magnitud de la respuesta del organismo al contaminante.
+Por tanto un biomarcador debe poder medirse objetivamente y ser evaluado como un indicador de un proceso biológico normal, estado patogénico o de respuesta a un tratamiento farmacológico.
+Desde el punto de vista toxicológico, un biomarcador se puede definir, como la presencia de un xenobiótico en un fluido o tejido biológico y/o las alteraciones inducidas por el mismo sobre los componentes celulares o bioquímicos o sobre procesos, estructuras o funciones en un organismo vivo, que son cuantificables en un sistema biológico o muestra.
+Una importante ventaja que supone el uso de biomarcadores es que considera las variaciones interindividuales (diferencias en la absorción, biodisponibilidad, excreción o en los mecanismos reparadores del ADN) e incluso, intraindividuales como consecuencia de una alteración fisiopatológica concreta en un período de tiempo determinado.Por otro lado, un inconveniente importante radica en que no pueden aplicarse a sustancias que ejercen sus efectos tóxicos de forma instantánea, o sustancias que tienen una tasa de absorción muy pequeña.
+Un biomarcador ideal debería permitir una sencilla recolección de la muestra y fácil análisis.
+Debería ser específico para un tóxico, reflejar únicamente un cambio subclínico y reversible, permitir adoptar medidas preventivas y debe ser éticamente aceptable.
+La mayoría de los biomarcadores no cumplen todos los requisitos mencionados.
+Resulta relevante destacar el importante papel que juegan los biomarcadores para facilitar actividades de diagnóstico, tratamiento, prevención, evaluación de la progresión de la enfermedad y respuestas a la terapia, así como su aplicación en la evaluación experimental toxicológica para el desarrollo de medicamentos o pesticidas.
+Además de su contribución en el desarrollo de diferentes campos de estudio como la toxicología, salud ocupacional y la carcinogénesis.
+Los biomarcadores pueden clasificarse atendiendo a tres categorías, pero pueden, en ocasiones, pertenecer a más de una.
+Evalúa en un organismo la presencia de una sustancia exógena, un metabolito o el producto de la interacción entre el agente xenobiótico y una molécula o célula diana.
+. Se pueden distinguir a su vez dos subgrupos: selectivos y no selectivos, basándose en la especificidad de las pruebas de detección.
+Los biomarcadores selectivos
+se basan en la medida directa del tóxico o sus metabolitos en fluidos o tejidos biológicos y los no selectivos constituyen un grupo de indicadores inespecíficos de exposición.
+Es un indicador de la sensibilidad individual, de la capacidad heredada genéticamente o adquirida de un organismo para responder a la exposición a una sustancia xenobiótica.
+Evalúa la alteración bioquímica, fisiológica o de comportamiento producida en el organismo resultado de la exposición a xenobióticos y que puede ser asociada con una enfermedad.
+Incluyen modificaciones en la composición celular sanguínea, alteraciones en actividades enzimáticas, aparición de aductos del ADN, incrementos localizados de ARN-m, aumento de determinadas proteínas, e incluso aparición de anticuerpos específicos contra un xenobiótico o frente a fracciones celulares.
+En las siguientes tablas se exponen algunos de los biomarcadores más relevantes en el campo de la toxicología, y el contexto en el que son usados.

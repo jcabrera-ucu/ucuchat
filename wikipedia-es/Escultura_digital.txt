@@ -1,0 +1,35 @@
+La escultura digital, también conocida como modelado de escultura o escultura en 3D, es el uso de software que ofrece herramientas para empujar, jalar, alisar, agarrar, pellizcar o manipular un objeto digital como si estuviera hecho de una sustancia de la vida real, como la arcilla.
+La geometría utilizada en los programas de escultura digital para representar el modelo puede variar; cada uno ofrece diferentes beneficios y limitaciones.
+La mayoría de las herramientas de escultura digital en el mercado utilizan geometría basada en malla, en la que un objeto se representa mediante una malla de superficie interconectada de polígonos que se pueden empujar y tirar.
+Esto es algo similar al proceso físico de batir placas de cobre para esculpir una escena en relieve.
+Otras herramientas de escultura digital utilizan geometría basada en vóxeles, en la que el volumen del objeto es el elemento básico.
+El material se puede agregar y quitar, al igual que esculpir en arcilla.
+Aún otras herramientas hacen uso de más de una representación geométrica básica.
+Una ventaja de los programas basados ​​en mallas es que permiten esculpir en múltiples resoluciones en un solo modelo.
+Las áreas del modelo que están finamente detalladas pueden tener polígonos muy pequeños, mientras que otras áreas pueden tener polígonos más grandes.
+En muchos programas basados ​​en mallas, la malla se puede editar en diferentes niveles de detalle, y los cambios en un nivel se propagarán a niveles superiores e inferiores de detalle del modelo.
+Una limitación de la escultura basada en mallas es la topología fija de la malla; la disposición específica de los polígonos puede limitar las formas en que se pueden agregar o manipular los detalles.
+Un beneficio de la escultura basada en vóxeles es que los vóxeles permiten una libertad total sobre la forma.
+La topología de un modelo se puede modificar continuamente durante el proceso de esculpido a medida que se agrega y se resta material, lo que libera al escultor de considerar el diseño de los polígonos en la superficie del modelo.
+Los vóxeles, sin embargo, están más limitados en el manejo de múltiples niveles de detalle.
+A diferencia del modelado basado en mallas, los cambios amplios realizados en los vóxeles con un bajo nivel de detalle pueden destruir por completo los detalles más finos.
+Esculpir a menudo puede introducir detalles en las mallas que, de otro modo, habrían sido difíciles o imposibles de crear utilizando las técnicas tradicionales de modelado 3D.
+Esto lo hace preferible para lograr resultados fotorrealistas e hiperrealistas, aunque también se logran muchos resultados estilizados.
+La escultura se utiliza principalmente en el modelado orgánico de alta poli (la creación de modelos 3D que consisten principalmente en curvas o superficies irregulares, a diferencia del modelado de superficies duras).
+También lo utilizan los fabricantes de automóviles en el diseño de automóviles nuevos.
+Puede crear las mallas de origen para los modelos de juegos de baja poli utilizados en los videojuegos.
+Junto con otras técnicas de texturizado y modelado 3D, mapeo normal y de desplazamiento, puede mejorar en gran medida la apariencia de las mallas del juego, a menudo hasta el punto del fotorrealismo.
+Algunos programas de esculpido como 3D-Coat, Zbrush y Mudbox ofrecen formas de integrar sus flujos de trabajo con los programas tradicionales de modelado y renderizado en 3D.
+Por el contrario, las aplicaciones de modelado 3D como 3ds Max, Maya y MODO ahora también están incorporando la capacidad de esculpir, aunque generalmente son menos avanzadas que las herramientas que se encuentran en las aplicaciones específicas de esculpir.
+Las esculturas de alto contenido polivinílico también se utilizan ampliamente en obras de arte generadas por ordenador para películas, diseño industrial, arte, ilustraciones fotorrealistas y para la creación de prototipos en la impresión 3D.
+La ropa virtual son prendas digitales usadas para personajes de videojuegos (avatares/modelos 3D), en películas de animación y comerciales, y como ropa para dobles digitales en películas como "El Hobbit", para escenas peligrosas o cuando simplemente es imposible usar un actor de la vida real La ropa virtual también se usa comúnmente para vestir el avatar de un jugador en un juego de mundo virtual, así como para vender ropa virtual en mercados 3D como Second Life.
+Los usos adicionales de la ropa digital son las tecnologías de realidad virtual e inteligencia artificial, los catálogos de tiendas en línea de los minoristas de moda y la recreación de la escena del crimen.
+Los escultores y artistas digitales utilizan la escultura digital para crear un modelo (o gemelo digital) que se materializará a través de tecnologías de control numérico, incluida la impresión 3D.
+Las esculturas finales a menudo se denominan escultura digital o arte impreso en 3D.
+Si bien las tecnologías digitales han surgido en muchas disciplinas artísticas (pintura, fotografía), este es menos el caso de la escultura digital debido a la mayor complejidad y las limitaciones tecnológicas para producir la escultura final.
+Los softwares de modelado 3D o aplicaciones de modelado, son softwares especializados en usar cálculos computacionales para construir y modificar simulaciones de objetos tridimensionales o modelos 3D.
+Estos modelos representan un objeto tridimensional usando una colección de puntos en el espacio cartesiano, para conectar dichos puntos se utilizan diferentes entidades geométricas: líneas, triángulos, superficies curvas, etc.
+Hay una serie de herramientas de escultura digital disponibles.
+Algunas herramientas populares para crear son:
+Las suites tradicionales de modelado 3D también están comenzando a incluir la capacidad de esculpir.
+Los programas de modelado 3D que actualmente presentan alguna forma de escultura incluyen los siguientes:

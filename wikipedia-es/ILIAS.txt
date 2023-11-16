@@ -1,0 +1,6 @@
+ILIAS open source es un sistema de gestión para la enseñanza, LMS, desarrollado en código abierto.
+Ha sido desarrollado con la idea de reducir los costes de utilización de las nuevas tecnologías en la educación, teniendo en cuenta, siempre y en todo momento, las ideas de los usuarios del sistema de enseñanza.
+ILIAS está disponible como software libre de código abierto bajo la licencia GPL (GNU General Public Licence) y puede ser utilizado sin ninguna restricción pero con derecho de copyright adecuado, para que no se puedan crear interferencias entre el locutor e ILIAS.
+Debido a esta característica, ILIAS puede ser fácilmente adaptado a los requerimientos específicos de cada organización.
+Usuarios de todo el mundo contribuyen en el desarrollo de la plataforma, coordinados por un equipo de la Universidad de Colonia en Alemania.
+El nombre de ILIAS viene de una abreviación de una definición en alemán denominada ILIAS (Integriertes Lern-,Informations- und Arbeitskooperations-System), por sus siglas en inglés: Integrated Learning, Information and Cooperation System y al español como: Sistema Integrado de Cooperación, Información y Aprendizaje.

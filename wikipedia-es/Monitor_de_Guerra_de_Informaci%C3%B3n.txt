@@ -1,0 +1,32 @@
+El Monitor de Guerra de Información (del inglésInformation Warfare Monitor) (IWM) era un proyecto de investigación avanzada que rastreaba la aparición del ciberespacio como ámbito estratégico.
+Fue cerrada en enero de 2012.
+Era un proyecto público-privado entre dos instituciones canadienses: El Grupo SecDev, un instituto de pensamiento operacional basado en Ottawa (Canadá), y el Citizen Lab en la  Escuela Munk de Asuntos Globales, de la Universidad de Toronto.
+Los investigadores principales y co-fundadores de la IWM son Rafal Rohozinski (del Grupo Secdev) y Ronald Deibert (de Citizen Lab).
+IWM es parte de la red de proyectos de investigación avanzada del Citizen Lab, los que incluyen la Iniciativa OpenNet, el Centro de Metodología de la Fusión, y PsiLab.
+Era un esfuerzo de investigación independiente y su misión declarada era construir y ampliar la base de evidencia disponible a académicos, responsables de políticas, y otros.
+La investigación del IWM era apoyada por el Centro Canadiense para Estudios de Seguridad Global (Universidad de Toronto), una subvención de la Fundación John D. Y Catherine T. MacArthur, de contribuciones de personal del Grupo SecDev, y una donación de software de Palantir ecnologies Inc.
+El Monitor de Guerra de Información fue fundado en 2003 por Rafal Rohozinski (Grupo de Investigación Avanzado de Red, Universidad de Cambridge) y Ronald Deibert (Citizen Lab, Escuela Munk de Asuntos Globales, Universidad de Toronto), como un proyecto hermano a la Iniciativa Open Net del cual Deibert y Rohozinski eran investigadores principales junto con John Palfrey (Centro Berkman para Internet y Sociedad, Universidad de Harvard) y Jonathan Zittrain (Instituto de Internet de Oxford).
+Entre 2003 y 2008, el IWM llevó a cabo un número de estudios, incluyendo el monitoreo del estado del Internet iraquí durante la invasión de 2003, la guerra Israel-Hezbollah 2006, la guerra ruso-georgiana del 2008, y las operaciones israelíes en Gaza en enero de 2009.
+El IWM era también un socio organizador para dos talleres Rusia-OTAN que examinaban guerra de la información y ciberterrorismo.
+El proyecto IWM cerró en enero de 2012, habiendo conducido actividad avanzada de investigación que rastrea la aparición del ciberespacio como ámbito estratégico.
+El IWM tiene tres actividades primarias:
+Estudio de casos. El IWM diseña y lleva a cabo investigación de estudio de casos activa.
+Estos son actividades autogeneradas consistentes con la misión del IWM.
+Emplea una aproximación rigurosa y multidisciplinaria en todos los estudios de caso fusionando métodos cualitativos, técnicos y cuantitativos.
+Como regla general, sus investigaciones constan de al menos dos componentes:
+Investigaciones basadas en campo. El IWM se involucra en investigación cualitativa entre audiencias objetivo afectadas y emplea técnicas que incluyen entrevistas, interacción con socios de largo plazo in situ, y extensa recolección técnica de datos que implica monitoreo de sistemas, reconocimiento de redes e interrogatorio.
+Sus equipos de terreno son apoyados por analistas séniors y especialistas regionales, incluyendo científicos sociales, profesionales de seguridad informática, expertos de políticas y lingüistas, quiénes proporcionan soporte contextual adicional y apoyo sustantivo.
+Exploración técnica y análisis de laboratorio. Los datos recogidos en el campo son analizados utilizando una variedad de métodos de fusión avanzada de datos y de visualización.
+Las pistas desarrolladas por actividades de campo son continuadas a través de “exploración técnica”, que incluye investigaciones de redes computacionales, y los datos resultantes y su análisis es compartido con equipos en terreno y socios para verificación y para generar puntos adicionales de entrada para investigaciones de seguimiento.
+Análisis de tendencias del código abierto. El IWM recoge información de código abierto de la prensa y de otras fuentes que siguen tendencias globales en ciberespacio.
+Estos están publicados en su sitio web público.
+Talleres analíticos y extensión. El IWM trabaja estrechamente con la academia, organizaciones de derechos humanos, y la comunidad de defensa y de inteligencia.
+Publica informes y ocasionalmente conduce talleres conjuntos.
+Su trabajo es independiente, y no se somete a clasificación de gobierno, Su objetivo es animar un debate enérgico alrededor de asuntos críticos de política.
+Esto incluye involucrarse en consideraciones éticas y legales de operaciones de información, ataques de redes de computadores y explotación de red de computadores, incluyendo el uso orientado de troyanos y malware, ataques de denegación de servicio y filtrado de contenidos.
+En 2008, el IWM descubrió una red de vigilancia que era operada por Skype y su Socio chino, TOM On-line, el cual en forma rutinaria e insegura recolectó, registró y capturó millones de registros (incluyendo información personal y detalles de contacto de cualquier charla de texto y/o llamadas de voz puestas por usuarios de TOM-Skype, incluyendo las de la plataforma Skype ).
+En 2009, después de una investigación de 10 meses, IWM descubrió y llamó GhostNet, a lo que se supone es una operación de ciberespionaje, basada principalmente en la república Popular China, la cual ha infiltrado al menos 1.295 ordenadores en 103 países, 30% de los cuales eran objetivos de alto valor, incluyendo ministerios de relaciones exteriores,  embajadas, organizaciones internacionales, medios informativos, y ONGs.
+En su informe de seguimiento de 2010, Sombras en la Nube: Investigando Ciber Espionaje 2.0, la IWM documentó un ecosistema complejo de ciber espionaje que sistemáticamente apuntaba y comprometía sistemas computacionales en India, las Oficinas del Dalai Lama, las Naciones Unidas, y muchos otros países.
+La investigación logró encontrar una gran cantidad de documentos robados – incluyendo material sensible y clasificado– que pertenecía a sistemas de redes de gobiernos, empresas, académicos y otros sistemas de red de ordenadores y otros objetivos políticamente sensibles.
+Habiendo descubierto copias archivadas de la infraestructura de botnet Koobface en un servidor de comando y control bien-conocido, investigadores del IWM documentaron las formas de trabajo internos de Koobface en su informe del 2010, Koobface: Dentro de una red de Crimeware.
+Los investigadores descubrieron que en solo un año, Koobface generó más de 2millones de dólares americanos en beneficios.

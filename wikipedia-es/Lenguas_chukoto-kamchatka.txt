@@ -1,0 +1,29 @@
+Las lenguas chukotko-kamchatka o luorawetlanas son una familia de lenguas hablada en Siberia.
+A veces estas lenguas son agrupadas junto a otras lenguas no relacionadas en el grupo de lenguas paleosiberianas.
+La familia consiste en 5 lenguas:
+Sobre la base de la comparación léxica el proyecto ASJP proporciona tentativamente el siguiente árbol clasdístico:
+De acuerdo con Fortescue, el proto-chukotko-kamchatka tiene el siguiente inventario consonántico (todos los signos usados proceden del AFI):
+es propiamente oclusiva palatal sorda (no la africada č).
+Nótese que el proto–chukotko-kamchatka tiene solo oclusivas sordas.
+Aunque sí tiene fricativas sonoras, que no tienenn contrapartida sorda (como serían ).
+es una fricativa labiodental (como la v del inglés o el francés).
+es una fricativa velar sonora (similar a la g del alemán en sagen en algunos dialectos, la gamma del griego moderno, la qāf del persa, etc.).
+*/ʁ/ es una fricativa uvular, como la r del francés (ver R gutural).
+Toda la serie es alveolar, no dental.
+El inventario vocálico viene dado por:
+! !! Anterior !!
+Central !!
+Posterior
+!Cerrada
+!Media
+! Abierta
+Los numerales en diferentes lenguas chukotko-kamchatkas son:
+! rowspan=2| GLOSA
+! rowspan=2| Chukchi
+! colspan=3| Koryak-Alyutor
+! rowspan=2| Itelmen
+! rowspan=2| PROTO- CHUKOTKO- KAMCHATKA
+! Altutor !!
+Kerek !!
+Koryak
+Los numerales entre paréntesis del itelmen son simplemente préstamos léxicos tomados del ruso.

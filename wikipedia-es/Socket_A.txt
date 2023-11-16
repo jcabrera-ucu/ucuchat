@@ -1,0 +1,4 @@
+El Socket A (también conocido como Socket 462) es utilizado por los procesadores de AMD, desde el Athlon K7 hasta el Athlon XP 3200+, y por los de bajo presupuesto Duron y Sempron.
+El socket es una rejilla para 462 pines.
+Es el sucesor del Slot A, que ha sido descontinuado en 2000.
+El Socket A ha sido reemplazado por AMD al lanzar su nueva gama de procesadores Athlon 64 por nuevos tipos de socket como el Socket 754 (canal simple de memoria) utilizado por los procesadores Sempron y Athlon 64, el Socket 939 ( canal doble de memoria ) utilizado por los Athlon 64, Athlon 64 FX y AMD64 x2 ( doble núcleo ) y el socket AM2 similar al 939 pero con soporte para los nuevos procesadores que trabajan con memoria DDR2.

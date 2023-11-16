@@ -1,0 +1,4 @@
+El Dextre (también conocido como el Manipulador diestro de propósito especial o Special Purpose Dexterous Manipulator (SPDM)) es un robot de dos brazos, o telemanipuladores, que es parte del Canadarm 2 en la Estación Espacial Internacional (EEI), y extiende la función de este sistema para reemplazar algunas actividades que de otra forma requerirían paseos espaciales.
+Fue lanzado el 11 de marzo de 2008 en la misión STS-123.
+Dextre es parte de la contribución de Canadá a la EEI y recibe su nombre de su naturaleza diestra.
+A veces también es denominado como la mano de Canadá, por analogía con el Canadarm (brazo de Canadá) y Canadarm 2 (brazo 2 de Canadá).

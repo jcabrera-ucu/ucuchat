@@ -1,0 +1,14 @@
+El índice de aterogenicidad (IA) de los ácidos grasos indica el potencial de obstrucción de las arterias y toma en cuenta los ácidos grasos láurico (12 carbonos), mirístico (14 carbonos) y palmítico (16 carbonos), en relación con los ácidos grasos monoinsaturados y poliinsaturados.
+Mientras más bajo sea el IA, menor es el riesgo de sufrir enfermedades cardiovasculares.
+Por regla general, en los hombres se considera que existe riesgo a partir de un IA de 5,5, mientras que en las mujeres este límite es de 5,0.
+undefined
+Formula para estimar el índice de aterogenicidad (IA) es:
+Atherogenic index = (C12:0 + 4 × C14:0 + C16:0)/[ Σ monounsaturated fatty acids + Σ polyunsaturated fatty
+acids (n-6) + (n-3)] Caroprese et al., 2010 de Ulbricht and Southgate’s (1991).
+Abreviada =(C12 + (4 * C14)+ C16)/( MUFA+ N6+N3)
+Los ácidos grasos láurico, mirístico y palmítico aumentan el colesterol dañino (LDL) y disminuyen el colesterol beneficioso (HDL) por lo que provoca ateromas (arteriosclerosis con alteraciones grasientas en arterias).
+Los ácidos grasos de 10 carbonos o menos, no son aterogénicos debido a su solubilidad en agua.
+Asimismo, los ácidos grasos de 18 carbones tampoco son aterogénicos porque tienen la capacidad de transformarse en otros ácidos grasos mono o poliinsaturados.
+Los ácidos láurico, mirístico y palmítico, además de ser insolubles en el torrente sanguíneo, no se metabolizan a ninguna otra sustancia.
+Se considera que los productos con mayor potencial de obstrucción de las arterias son las mantequillas, las lactocremas, el aceite de palma (muy utilizado en la fabricación de bollería industrial) y algunas marcas de manteca, por lo que no se recomienda su consumo.
+undefined

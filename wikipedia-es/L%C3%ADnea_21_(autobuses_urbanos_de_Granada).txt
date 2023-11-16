@@ -1,0 +1,8 @@
+La línea 21 es una línea circular de autobús urbano de la ciudad española de Granada.
+Es operada por la empresa Transportes Rober.
+Realiza un recorrido circular en sentido horario por los ejes de Gran Vía y Camino de Ronda.
+Tiene una frecuencia media de 10 a 15 minutos.
+La línea surge de la división de la precedente línea 11 en las líneas  y.
+Ambas son circulares que recorren los dos ejes principales de la ciudad, Gran Vía y Camino de Ronda, cada línea en un sentido.
+Fueron separadas para que la línea accediera a El Serrallo, aumentando el servicio en la zona.
+La mayoría de las paradas de esta línea son servidas por la línea en sentido contrario, aunque esta línea no accede a El Serrallo.

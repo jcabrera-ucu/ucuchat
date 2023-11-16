@@ -1,0 +1,11 @@
+En ingeniería naval, se denomina toneladas por centímetro de inmersión o TPC a la masa en toneladas que debe agregarse a una embarcación, aplicado éste en el centro de gravedad de un buque, para lograr un incremento de un centímetro en el calado medio.
+El nuevo plano de flotación se mantiene paralelo al inicial.
+Dado que la carena de un buque no es un paralelogramo, el valor del coeficiente TPC varía en función del calado medio considerado.
+Esta variación de calado es igual al peso de la rebanada de carena cuya base es el área de flotación  inicial y su altura de un centímetro (volumen de la rebanada) por el peso específico del agua en que se encuentra flotando la embarcación.
+Para el caso de agua de mar con un peso específico de 1,025 t/m³ tendríamos
+donde Af es el área de flotación.
+Las unidades se muestran en rojo.
+El coeficiente TPC es proporcional al área de flotación, por lo que a mayor tamaño de buque mayor será el valor TPC.
+Es muy usual encontrase para buques construidos en países sajones con el concepto tonaledas por pulgada, el concepto es el mismo, pero debe tenerse en cuenta que se refiere a toneladas inglesas y no a toneladas métricas.
+Una tonelada inglesa o tonelada corta equivale a 907,18474 kg.
+Conocer este valor permite calcular con relativa facilidad la cantidad de carga a alijar para zafar una varadura que requiera una disminución de calado en una cantidad determinada de centímetros.

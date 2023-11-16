@@ -1,0 +1,2 @@
+En análisis real, se denomina axioma del supremo o axioma de completitud a uno de los axiomas que componen el cuerpo de los números reales, el cual establece:
+Esta propiedad es esencial para que el cuerpo de los números reales se vuelva un espacio completo, ya que otros cuerpos que no satisfacen el axioma, como el cuerpo de los números racionales, no son completos.

@@ -1,0 +1,9 @@
+El radar de tráfico o radar de velocidad es un radar que se utiliza entre otras aplicaciones para el control de la velocidad en el tráfico rodado.
+Está basado en el efecto Doppler aplicado a un haz de radar para medir la velocidad de los objetos a los que se dirige.
+La mayoría de los radares de hoy en día operan en las bandas X, K, Ka, y Ku.
+Una alternativa reciente, el LIDAR, usa un pulso de luz de láser.
+El radar de tráfico fue inventado por Bryce K. Brown de Decatur Electronics en marzo de 1954 y se usó por vez primera en Chicago en abril de 1954.
+En España la Dirección General de Tráfico (DGT) ha desplegado radares fijos y móviles a lo largo de todo el territorio nacional.
+A 2019 hay 2.041 radares en el territorio competencia de la DGT (Cataluña y Euskadi, con competencias transferidas en materia de tráfico aportan los restantes 443 radares que tienen en sus respectivos territorios).
+En total, en España hay 2.484 radares (de ellos, 928 son fijos, 1.457 son móviles y 99 son de tramo).
+Los radares competencia de la DGT son desde el 1 de marzo de 2008 gestionados desde su Centro de Tratamiento de Denuncias Automatizadas situado en Onzonilla (León).

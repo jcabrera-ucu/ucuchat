@@ -1,0 +1,42 @@
+Philippe Kahn (nacido el 16 de marzo de 1952) es un innovador tecnológico y empresario, conocido por ser el creador de la primera fotografía tomada con el teléfono y compartida al instante desde una red pública.
+Kahn ha fundado cuatro empresas de tecnología: Fullpower Technologies, Starfish Software, LightSurf Technologies y Borland.
+Kahn, hijo de inmigrantes judíos de escasos recursos, se crio en París, Francia.
+Su madre fue una sobreviviente de Auschwitz, era violinista y teniente de la resistencia francesa, su padre, un ingeniero mecánico autodidacta con una inclinación socialista.
+Kahn estudió matemáticas en la ETH Zúrich, Suiza (Instituto Politécnico Federal de Suiza), gracias a una beca completa y en Universidad de Niza, Francia.
+Obtuvo el masters en Matemáticas y también se especializó en composición y musicología (musicology) para concierto de flauta clásica en el Conservatorio de Música de Zúrich en Suiza.
+Ya como estudiante, Kahn desarrolló un software para la MICRAL.
+El MICRAL está ahora acreditado por el Computer History Museum como el primer ordenador personal basado en un microprocesador.
+Kahn está casado con Sonia Lee, con quien cofundó Fullpower Technologies, LightSurf y Starfish Software, y con quien tiene una hija.
+Kahn tiene otros tres hijos de un matrimonio anterior.
+Kahn ha fundado cuatro empresas de software: Fullpower Technologies, fundada en 2003, LightSurf Technologies, fundada en 1998 (adquirida por VeriSign en 2005), Starfish Software, fundada en 1994 (adquirida por Motorola en 1998), y Borland, fundada en 1982 (adquirida por Micro Focus en 2009).
+El 11 de junio de 1997, Philippe Kahn consigue compartir sin cables la fotografía de su hija recién nacida con miles de familiares, amigos y compañeros de trabajo de todo el mundo.
+Tras su descubrimiento, Philippe trabajó para Motorola para producir el primer móvil con cámara integrada.
+El procedimiento que Philippe siguió fue el siguiente: primero hizo la fotografía de su hija Sophie con una cámara compacta, luego pasarla a su ordenador portátil.
+Al ver que no tenía conexión inalámbrica (aún no existía el Wi-Fi), decidió utilizar la señal de su teléfono móvil para enviar la fotografía del portátil a su ordenador de casa que siempre tenía conectado a Internet.
+Una vez la fotografía llegó a su PC, ésta se reenvió por correo a los contactos de Philippe en tiempo real.
+Nacía la comunicación visual instantánea.
+El gran invento tuvo lugar en el hospital donde nació la hija de Philippe Kahn.
+Mientras esperaba la llegada de su hija, recibió una llamada por el móvil.
+Después de colgar, se dio cuenta de que quería enviar una fotografía al instante, como quien envía voz al hablar por el móvil.
+Así que se puso a trabajar en la sala de espera del hospital.
+Fueron 18 horas las que Philippe estuvo trabajando bajo presión y sin ayuda, deseando encontrar la clave para enviar un archivo desde el móvil.
+Cuando lo llamaron para ver a su hija, él ya lo tenía todo preparado, sólo había que hacer la foto.
+Kahn fue presidente y consejero delegado desde el inicio cuando, sin capital de riesgo, Borland pasó de no tener ingresos a ganar 500 millones de dólares por tasa de ejecución.
+Kahn fue el co-fundador de Borland desde 1982 hasta 1994, cuando Borland era un competidor de Microsoft.
+Kahn y el consejo de Borland llegaron a un desacuerdo sobre la manera de enfocar la empresa y en enero de 1995, Kahn fue obligado por el consejo a dimitir de su cargo de director general.
+Cuando Borland fue adquirida por Micro Focus, el 6 de mayo de 2009, el San Jose Mercury News informó que Kahn calificó el acuerdo como un "gran ajuste" y la "sinergia de ambas compañías ha llevado a un excelente resultado para los empleados, clientes y accionistas".
+Starfish Software fue fundada en 1994 por Philippe Kahn como un spin-off simplificado de la unidad de negocio de Borland.
+La visión de los fundadores de Starfish era la "sincronización global y la integración de dispositivos inalámbricos y de línea fija", lo que se tradujo en la plataforma TrueSync a: "Introducir o editar la información en cualquier lugar, la sincronización es automática en todas partes."
+Starfish desarrolló la mayor parte de la investigación básica para la sincronización de dispositivos, especialmente en la industria inalámbrica.
+TrueSync fue el primer sistema de sincronización Over-The-Air (OTA).
+Finalmente, Motorola adquirió Starfish por 325 millones de dólares en 1998.
+Kahn fundó LightSurf en 1998 poco después de haber creado el primer teléfono con cámara capaz de compartir fotografías al instante en las redes públicas en 1997.
+La tecnología principal de LightSurf son 6 estándares abiertos de Plataforma MMS Plataforma LightSurf, era un conjunto de servicios MMS, de envío y de gestión que permitía a los usuarios capturar, ver, anotar y compartir mensajes multimedia con cualquier teléfono o dirección de correo electrónico, independientemente del dispositivo, tipo de archivo u operador de red.
+Los productos de LightSurf incluyen la primera solución para móvil de mensajes de imagen en América del Norte (GSM), La primera solución de mensajería de imágenes móviles en una red  GPRS, la primera solución de MMS entre operadores desplegado comercialmente en América del Norte.
+También incluye el mayor volumen de mensajes con fotos y video en América del Norte y más de 400 millones de mensajes multimedia compartidos en la red de Sprint (alimentado por LightSurf).
+En 2005, LightSurf fue adquirida por VeriSign por 300 millones de dólares.
+Después, Syniverse Technologies adquirió el software en 2009 de VeriSign.
+Fullpower, fundada en 2003 y se centra en la convergència de las ciencias, la tecnología inalámbrica, la nanotecnología y los sistemas microelectromecánicos.
+Su plataforma tecnológica MotionX es muy conocida.
+Presentado por primera vez en público con el lanzamiento de la Apple's App Store en julio de 2008, MotionX proporciona la tecnología subyacente para el funcionamiento de la navegación y las aplicaciones de fitness de la App Store.
+Estos incluyen:

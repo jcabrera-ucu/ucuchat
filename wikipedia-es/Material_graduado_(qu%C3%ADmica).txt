@@ -1,0 +1,7 @@
+Material graduado es un tipo de material volumétrico que se utiliza en el laboratorio y posee una escala graduada (serie de líneas)
+medir el volumen de un líquido.
+En lo que respecta a las capacidades, los materiales graduados más pequeños miden volúmenes de 5 mL máximo, y en el otro extremo, los que poseen una capacidad de hasta 1000 mL.
+No todos los materiales graduados tiene la misma precisión.
+Los más precisos son las buretas y las pipetas graduadas debido a que su escala está dividida en pequeñas subdivisiones y brindan medidas que se acercan al valor real del volumen de un líquido con mayor exactitud.
+Las pipetas y las buretas se emplean por lo general en análisis químicos, por ejemplo valoraciones o titulaciones, donde es necesario tener medidas confiables.
+De acuerdo a que el resto del material graduado es más impreciso, se lo utiliza en aquellos casos donde es necesario realizar operaciones de laboratorio adicionales tales como contener líquidos, realizar tratamientos de muestras, precipitar, calentar, mezclar, trasvasar, agitar, filtrar, además de medir volúmenes aproximados.

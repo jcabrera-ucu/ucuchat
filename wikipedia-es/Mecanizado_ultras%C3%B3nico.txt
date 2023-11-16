@@ -1,0 +1,15 @@
+El mecanizado ultrasónico (Ultrasonic Machining) (USM) es un proceso de índole mecánica en el que se remueve material de la pieza dejando una forma específica en ella.
+Para ello la herramienta vibra a 20 kHz y gira a unos 5 krpm, todo ello acompañado por un líquido abrasivo que además sirve para refrigerar la pieza, los materiales normalmente usados son el Acero, acero inox, y molibdeno, etc. La forma de la herramienta es importante para que no recoja energía, la punta nunca toca la pieza que suele ser de materiales dúctiles, el material abrasivo (contenido en una pasta) es el que realmente se come el material, normalmente las partículas de abrasivo suelen ser duras, como por ejemplo diamante, nitruro cúbico de boro, carburo de boro, carburo de silicio y óxido de aluminio, de esto el más usado es el carburo de boro.
+El equipo puede ser usado en distintas variantes, ya sea en un torno para mejorar la versatilidad de la máquina.
+La potencia de estos equipos oscila entre los 200 y los 2400 W, la potencia influye en el material removido.
+La fuente de vibración convierte potencia de baja frecuencia (60 Hz) en potencia de alta frecuencia (20 kHz).
+Las partes más importantes del transductor son un electromagneto y una pila de placas de níquel.
+En este proceso se obtiene en la pieza una forma inversa a la de la herramienta y con una medida el doble del tamaño del gránulo del abrasivo mayor que las dimensiones de la herramienta.
+El mecanizado por ultrasonidos rotatorio (Rotary Ultrasonic Machining) (RUM) se usa para mejorar el trabajo del taladrado, corte, fresado o roscado de materiales que son difíciles con el mecanizado tradicional.
+A diferencia del mecanizado ultrasónico, en el RUM se usan herramientas de diamante que tienen contacto directo con la pieza.
+No requiere sistema de recirculamiento del abrasivo.
+Permite mecanizar materiales que con otros sistemas son prácticamente imposibles, es un proceso no convencional.
+Se basa en el empleo de herramientas de diamante que eliminan el material por la combinación de un giro y de una vibración ultrasónica en dirección axial.
+La separación continua entre herramienta y pieza consigue que las fuerzas de corte se reduzcan y que el calor sea menor.
+Lo que conlleva una protección de la herramienta y de la pieza aumentando la productividad en hasta 5 veces y con unos acabados superficiales de 0,2 µm.
+Se puede observar que todas las aplicaciones tienen en común propiedades de alta dureza, resistencia mecánica al desgaste, baja densidad, resistencia a la abrasión a altas temperatura, capacidades ópticas, etc. Se puede crear geometrías que difícilmente podrían conseguirse con otros procesos de fabricación.

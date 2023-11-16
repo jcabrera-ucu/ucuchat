@@ -1,0 +1,25 @@
+Project Euler (Proyecto Euler, llamado así por el matemático Leonhard Euler) es un sitio web dedicado a una serie de problemas matemáticos diseñados para ser resueltos por programas computacionales.
+El proyecto atrae a adultos y a estudiantes interesados en matemáticas y programación informática.
+Desde su creación en 2001 por Colin Hughes, Project Euler ha ganado notabilidad y popularidad internacional.
+Incluye más de 700 problemas, con uno nuevo siendo agregado cada fin de semana, excepto durante el verano.
+Los problemas varían de dificultad, pero todos son resolubles en menos de un minuto usando un algoritmo eficiente.
+Un fórum específico para cada pregunta puede ser visitado después de que el usuario haya respondido correctamente a una pregunta dada.
+Para noviembre de 2016, Project Euler alcanzó a 650 000 usuarios alrededor del mundo que han resuelto al menos un problema.
+Los participantes pueden consultar su progreso mediante logros basados en el número de problemas resueltos.
+Un nuevo logro es alcanzado por cada 25 problemas resueltos.
+Existen premios especiales por resolver combinaciones de problemas especiales; por ejemplo, hay un logro ofrecido por resolver cincuenta problemas numerados como primos.
+También existe un nivel especial para registrar logros basados en los cincuenta primeros usuarios que resuelven problemas nuevos.
+Un subset de problemas de Project Euler fue usado en un concurso de programación de APL.
+Hay 97 secuencias en la Enciclopedia Electrónica de Secuencias de Enteros (OEIS) referenciadas en problemas de Project Euler.
+El primer problema de Project Euler es:
+Aunque este problema es mucho más simple que los tradicionales, sirve para ilustrar la gran diferencia que un algoritmo eficiente hace.
+El algoritmo de fuerza bruta examina cada número natural menor a 1000 y realiza una suma de aquellos que cumplen estos requisitos.
+Este método es sencillo de implementar, como se indica en el siguiente pseudocódigo:
+Set TOTAL to 0;
+for NUM from 1 through 999 do if NUM mod 3 = 0 or if NUM mod 5 = 0 then
+add NUM to TOTAL;
+output TOTAL
+Para problemas más difíciles, se vuelve más importante encontrar un algoritmo eficiente.
+Para este problema, podemos reducir 1000 operaciones a unas pocas usando el principio de inclusión-exclusión y usando una sumatoria de forma cerrada:
+Aquí, denota una suma de varias k menores de n.
+En una cota superior asintótica, el algoritmo de fuerza bruta es O(n) y el algoritmo eficiente es O(1) (asumiendo tiempo constante de operaciones aritméticas).

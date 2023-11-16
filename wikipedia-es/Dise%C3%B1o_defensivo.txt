@@ -1,0 +1,5 @@
+El diseño defensivo es una técnica de diseño empleada para evitar que se den contingencias en el uso de dispositivos, objetos, procedimientos o rutinas.
+Con él se busca evitar que el usuario final pueda ocasionar fallas por desconocer la forma adecuada de usar o ejecutar, impidiéndole tener más de una forma de hacer las cosas.
+El origen de esta técnica se encuentra en la Ley de Murphy.
+En el momento de estar diseñando, se realiza el estudio de las diferentes maneras en que el procedimiento, objeto o dispositivo puede ser mal realizado o ejecutado; y se desarrollan mecanismos para que estas maneras incorrectas no se puedan realizar, forzando a un uso o ejecución correcto.
+Ejemplos comunes resultados de esta técnica los vemos en algunos conectores, donde la clavija y el enchufe están diseñados de tal manera que solo se puedan conectar de una sola forma, como los USB y Firewire.

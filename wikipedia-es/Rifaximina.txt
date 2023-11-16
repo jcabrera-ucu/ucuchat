@@ -1,0 +1,5 @@
+La rifaximina es un antibiótico semisintético derivado de la rifampicina con un amplio espectro antibiótico contra bacterias grampositivas y gramnegativas aerobias y anaerobias.
+Al ser administrado por vía oral la absorción intestinal es despreciable (<0,4%) por lo que se utiliza para tratamientos localizados en el tracto intestinal.
+Se emplea en la medicina humana para el tratamiento de enfermedades intestinales tales como la sobrecrecimiento bacteriano del intestino delgado, el síndrome del intestino irritable, encefalopatía hepática, colitis ulcerosa, enfermedad diverticular, diverticulitis aguda y la colitis pseudomembranosa.
+Su mecanismo de acción consiste en inhibir la síntesis del ARN bacteriano, dificultando de esta forma la multiplicación del agente infeccioso.
+Además de su efecto bactericida y bacteriostático, la rifampicina produce otros efectos sobre la microbiota intestinal, tales como la disminución de la respuesta inflamatoria intestinal inhibiendo la activación del factor nuclear (NF)-κB vía el receptor X de pregnano (PXR) y reduciendo la expresión de las citocinas inflamatorias interleucina (IL)-1B y el factor de necrosis tumoral alfa (TNFα).

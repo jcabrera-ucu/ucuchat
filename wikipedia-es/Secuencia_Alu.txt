@@ -1,0 +1,107 @@
+Una secuencia Alu es un fragmento de ADN de aproximadamente 300 pares de bases que con ligeras variaciones puede encontrarse en un gran número de lugares en el genoma de los primates.
+Las primeras secuencias de este tipo se identificaron mediante la endonucleasa Alu, de la cual han recibido su nombre, aunque actualmente se analizan mediante técnicas basadas en la reacción en cadena de la polimerasa y electroforesis.
+Son las secuencias móviles más abundantes del genoma humano.
+Derivan probablemente del gen 7SL ARN, que forma parte del complejo ribosomal.
+La aparición de las secuencias Alu se sitúa hace aproximadamente 65 millones de años, coincidiendo con el origen y expansión de los primates.
+Inserciones con esta secuencia han sido vinculados con varias enfermedades heredables en humanos, incluyendo varias formas de cáncer.
+El estudio de las secuencias Alu es útil para investigar la diversidad del patrimonio genético de las poblaciones humanas y la evolución del orden primates.
+Los elementos de ADN móvil, también conocidos como elementos genéticos transponibles, tienen la característica poco común de desplazarse dentro del genoma a lo largo de sucesivas generaciones.
+Son secuencias de ADN moderadamente repetido en forma de repeticiones dispersas, diseminadas en todos los genomas de mamíferos y que constituyen desde un 25% a un 50% de su genoma (en el caso particular del ser humano suponen alrededor del 45%).
+Fueron descubiertos en eucariotas entre 1951 y 1957 por Barbara McClintock (1902 - 1992), quien recibió el Premio Nobel de Fisiología y Medicina en 1983 por este hallazgo.
+Posteriormente se describieron también en procariotas.
+Hasta la fecha no se conoce su función específica aunque pudieran haber tenido cierta importancia evolutiva; también existe la posibilidad de que se trate simplemente de secuencias de  ADN egoísta ya que su única función conocida es la de mantenerse a sí mismos, en opinión de Francis Crick (1916 - 2004, Premio Nobel de Fisiología y Medicina en 1962 por sus descubrimientos de la estructura del ADN).
+Como en el resto de modificaciones genéticas, cuando la transposición ocurre en células germinales, estas variaciones pueden transmitirse a las siguientes generaciones.
+Así, los elementos móviles han sido capaces de multiplicarse y acumularse en los genomas eucariotas a lo largo de la evolución, constituyendo una porción significativa del ADN.
+En el caso de las células somáticas, las transposiciones son sólo transmitidas a las células derivadas de estas.
+En muy raros casos estas inserciones pueden llevar a mutaciones con efectos fenotípicos perjudiciales.
+Los elementos móviles se pueden clasificar en aquellos que se transponen directamente como ADN (transposones de ADN) y en los que se transponen a través de un intermediario de ARN (retrotransposones).
+Este último grupo puede dividirse en virales y no virales.
+Dentro de los retrotransposones no virales, los elementos más abundantes en mamíferos son los que carecen de repeticiones terminales largas (LTR, Long Terminal Repetitions) y se dividen en dos clases: elementos dispersos largos (long interspersed elements, LINE) y elementos dispersos cortos (SINE).
+En los seres humanos los LINE de longitud completa tienen aproximadamente 6kb de largo y los SINE 300bp.
+Los SINE constituyen el 13% del genoma humano y su longitud varía entre 100 y 400 pares de bases (bp), siendo la mayor parte de unas 300bp.
+Son derivados de genes estructurales del ARN.
+La mayoría contienen una secuencia rica en A/T en su extremo 3’ y son transcritos por la ARN polimerasa III, la misma enzima nuclear que transcribe los genes que codifican para los ARN de transferencia, ARN ribosómico 5S y otros ARN estables pequeños.
+De los 1,6 millones de sitios del genoma humano en los que aparecen estos elementos dispersos cortos, 1,1 millones son elementos Alu, denominados así porque la mayoría de ellos contienen un sitio de reconocimiento para la enzima de restricción Alu I.
+La aparición de las inserciones Alu se sitúa hace aproximadamente 65 millones de años coincidiendo con el origen y expansión de los primates por lo que son interesantes para estudios antropogenéticos.
+Las inserciones Alu son marcadores bialélicos que se definen por la presencia o ausencia de secuencias de aproximadamente 300bp, que podrían derivar por retrotransposición del gen 7SL ARN que forma parte del complejo ribosomal.
+Esta hipótesis, que se basa en la duplicación del gen 7SL ARN en los comienzos de la radiación de los primates y en su posterior evolución hasta las Alu actuales, es la más aceptada.
+La mayoría de estas inserciones son recientes por lo que a menudo son polimórficas, pudiendo tomar valores diferentes de frecuencias en distintas poblaciones humanas.
+Se consideran eventos mutacionales únicos ya que es bastante improbable encontrar la misma inserción Alu en el mismo lugar, por lo que son especialmente interesantes en los estudios de evolución humana.
+Son inserciones estables del genoma.
+La selección natural no actúa sobre estos elementos ya que no son codificantes.
+No obstante se dan excepciones, puesto que una inserción puede determinar alteraciones en un gen próximo, promoviendo la aparición de alguna enfermedad genética, o bien puede encontrarse fuertemente ligada a un gen, por lo que las presiones selectivas que afectaran a este gen actuarían de forma indirecta sobre la inserción Alu contigua.
+Una secuencia Alu está compuesta por dos monómeros similares terminados en un fragmento poli-A.
+El monómero izquierdo controla la retrotransposición al contener un promotor de RNA polimerasa III del que carece el monómero derecho.
+Este último tiene un inserto de 32 nucleótidos.
+La secuencia no contiene ningún terminador polimerasa III d(T)4 de ARN; sin embargo éste se encuentra a menudo en el flanco 3’ de la secuencia genómica debido a la terminación poli-A de los transcritos de Alu.
+Los elementos Alu son retrotransposones no autónomos que suelen situarse cerca de LINEs porque dependen de las enzimas de estos últimos para llevar a cabo la movilización.
+Este proceso es similar a una transcripción inversa.
+Muy pocas Alu tienen la capacidad de transponerse.
+Las que lo hacen reúnen las siguientes condiciones: presencia del promotor y de la transcriptasa inversa, secuencias flanqueadoras, estructura secundaria, estado de metilación y longitud de la cola poli-A determinadas.
+Existen dos modelos a tener en cuenta para la comprensión de la evolución de los elementos Alu.
+Originalmente se pensó en el modelo de transposón el cual explica que estos tendrían la capacidad de replicarse a sí mismos y cada copia tendría, a su vez, capacidad de replicación tal y como lo hacen los virus o los transposones.
+De esta manera se daría una amplificación exponencial.
+Se observó que las copias de elementos Alu no se producían de manera exponencial, por lo que se estudió otro posible modo en que estos elementos se dispersaran por el genoma; así se propuso el modelo de gen maestro en el que se explica que los elementos Alu presentan copias de pseudogenes de uno o unos pocos loci activos.
+Uno de estos pseudogenes podrá sufrir una mutación que lo active, en ese momento el elemento Alu que lo contenga será capaz de amplificarse.
+De este modo sólo serán amplificables aquellos elementos que presenten este gen activo (gen maestro) y la amplificación dependerá de él.
+Así, el incremento de las copias del elemento Alu ocurrirá de forma lineal.
+La mutaciones ocurridas en los elementos Alu permiten la definición de sus grupos y familias.
+Así, pueden dividirse en tres grupos: Alu J (más antiguas), Alu S (de edad intermedia) y Alu Y (las más recientes).
+Estos grupos a su vez se componen de distintas familias.
+El método más empleado para la identificación de inserciones Alu en el genoma consiste en una PCR seguida de electroforesis.
+Para realizar este proceso, el ADN ha de ser previamente extraído y purificado.
+Se puede obtener ADN a partir de numerosos tejidos (sangre, células epiteliales, pelo, etc.).
+El método básico para la extracción de ADN radica en la ruptura de la membrana celular y nuclear para acceder al material genético.
+De este modo se obtiene ADN purificado y concentrado a partir del cual se podrán analizar todo tipo de polimorfismos genéticos.
+A continuación se analiza la calidad del ADN extraído (cuantificación) mediante la medida de su absorbancia en un fluorímetro.
+Para detectar los elementos Alu mediante electroforesis es necesario tener una cantidad suficiente de ADN.
+Con este fin se realiza una PCR (reacción en cadena de la polimerasa).
+Los polimorfismos de inserción Alu son unos marcadores muy interesantes para los estudios de la evolución humana, porque se producen por un único evento mutacional y se conoce su estado ancestral (no inserción).
+Son especialmente interesantes en antropogenética por aparecer hace unos 65 millones de años y encontrarse asociadas con el origen y expansión de los primates.
+Presentan varias ventajas entre las que cabe destacar: el conocimiento del estado ancestral (la ausencia del elemento Alu) de estos polimorfismos, la facilidad y rapidez de su detección y que, al ser estas inserciones acontecimientos únicos y estables en la historia evolutiva de nuestro genoma, se puede asegurar que los alelos detectados son idénticos por descendencia.
+La mayor parte de las inserciones Alu son relativamente recientes, por lo que no se han fijado o perdido, siendo polimórficas y pudiendo tomar diferentes valores de frecuencias en distintas poblaciones humanas.
+Muchas de estas inserciones han ocurrido en el último millón de años por lo que su presencia no es universal.
+Por ello, cabe esperar que a partir de un número limitado de inserciones Alu pueda obtenerse una buena discriminación entre poblaciones de diferentes continentes, lo que sustentaría el argumento de que estos marcadores son interesantes para los estudios de mestizaje.
+Distintas subfamilias de elementos Alu del genoma humano han sido descritas en detalle.
+El examen de estas jóvenes subfamilias ha proporcionado pistas sobre la dinámica y la evolución de los elementos Alu en el linaje homínido.
+Batzer y Deininger (2002) examinaron una subfamilia de elementos Alu en el genoma humano, conocida como el linaje AluYb.
+Compararon estos elementos con los presentes en los genomas de otras especies de primates, incluyendo chimpancés, bonobos, gorilas, orangutanes, gibones y siamangs.
+Encontraron que la subfamilia AluYb acapara aproximadamente el 40% de los elementos Alu específicos de los humanos y es actualmente uno de los linajes Alu más activos en su genoma.
+Algunos elementos AluYb todavía se movilizan activamente en nuestro genoma, causando mutaciones de inserción que han llevado al desarrollo de numerosas enfermedades hereditarias.
+El YAP (DYS287) o Y Alu Polimorphism, es el resultado de una inserción reciente de 305bp de un miembro de la familia Alu en el brazo largo del cromosoma Y (Yq11).
+El marcador YAP es particularmente útil para estudios sobre el origen y migración de poblaciones humanas porque representa probablemente un evento único con un estado ancestral conocido (alelo YAP-) y no presenta recombinación.
+La secuenciación ha mostrado que en el cromosoma Y el elemento Alu se inserta en la misma posición en diferentes individuos de distintas poblaciones y se considera que la inserción (YAP+) tiene un único origen.
+El hecho de que esté ausente en la región homóloga del cromosoma Y en chimpancés y gorilas sugiere que la inserción se ha producido tras la divergencia entre hombres y grandes simios.
+La presencia del elemento YAP es muy abundante en la población Sub-Sahariana (sobre todo en bantúes y africanos del Oeste), seguida de la del Norte de África.
+En Europa es poco frecuente, y nula en la mayoría de las poblaciones de Oceanía y Asia (excepto en Japón, donde muestra una frecuencia bastante elevada).
+Estos resultados podrían indicar que la distribución de cromosomas Y portando el YAP es posible que ocurriese por migración de varones Homo sapiens desde África hacia Europa y Asia.
+(ver Haplogrupo DE ADN-Y)
+En el campo de la biomedicina, el estudio de los elementos Alu resulta útil ya que algunas enfermedades genéticas están causadas por la inserción/deleción de los mismos.
+Cuando un elemento Alu cambia de posición y abandona el lugar en el que estaba, se produce, en ese punto, una deleción o pérdida de bases.
+Si el elemento Alu se inserta dentro de un gen se produce una adición de gran cantidad de nucleótidos que tendrá como consecuencia la pérdida de la función de dicho gen. Además si esta inserción tiene lugar en un intrón puede dar lugar a un procesamiento incorrecto del mRNA y en consecuencia a una proteína no funcional.
+A nivel cromosómico los elementos transponibles pueden ser los causantes de roturas cromosómicas.
+La recombinación entre las diferentes copias de un elemento transponible puede dar lugar a deleciones, inversiones o duplicaciones.
+Se estima que cerca del 0’5% de los desórdenes genéticos humanos son el resultado directo de inserciones de elementos Alu o recombinaciones no homólogas de los mismos.
+El primer informe de la relación de las inserciones Alu con enfermedades genéticas trataba sobre la predisposición hereditaria al cáncer.
+Ataques cardíacos: Existe una inserción Alu que se localiza en el intrón del gen activador del plasminógeno tisular en el cromosoma 8.
+La proteína activadora del plasminógeno tisular (TPA) disuelve los coágulos sanguíneos, siendo una primera línea de defensa contra la formación de los mismos.
+Las personas que carecen de la inserción Alu en los dos genes codificantes para la TPA (uno en cada cromosoma 8) no muestran riesgos de presentar esta complicación.
+Los individuos heterocigotos, que poseen en uno de los dos cromosomas la inserción, duplican el riesgo de ataque cardíaco.
+Y las personas homocigotas con dos copias del marcador cuadriplican el riesgo de sufrir un ataque.
+Hemofilia A y B: La hemofilia es una enfermedad hereditaria que afecta a la capacidad de coagulación del tejido sanguíneo, provocando sangrados anormales.
+La hemofilia A se debe a la deficiencia del factor VIII (cromosoma X) y la hemofilia B está asociada a la deficiencia del factor IX de coagulación (cromosoma X).
+Esta enfermedad afecta a los hombres, siendo las mujeres portadoras.
+La inserción de un elemento Alu en el intrón 18 del gen del factor VIII, origina un entrecruzamiento inapropiado, saltándose el exón 19.
+Se traduce en una forma grave de la hemofilia A.
+La hemofilia B es originada en algunos casos por una inserción Alu que provoca una deleción en parte de la proteína codificada por el factor IX.
+Cáncer de mama: El cáncer de mama, uno de los más comunes y con efectos más nocivos de todas las enfermedades que afectan a la mujer, se produce de manera hereditaria y esporádica.
+La heredabilidad es atribuible a mutaciones en genes supresores de tumores.
+Una de las mutaciones en la línea germinal del gen BRCA2 (relacionado con la patología) situado en el cromosoma 13 se debe a la inserción de un elemento Alu en el exón 22, que se traduce en la omisión de dicho exón.
+Neurofibromatosis tipo 1: La neurofibromatosis tipo 1 es el más común de los síndromes neurocutáneos.
+Es un trastorno genético del sistema nervioso que provoca el crecimiento de tumores no cancerígenos a lo largo de los nervios debido a un gen anormal del cromosoma 17.
+En el gen de la neurofibromatosis tipo 1 (NF1), una secuencia Alu se inserta en el intrón 5.
+Esto evita un entrecruzamiento apropiado por lo que el exón 6 queda fuera del mRNA maduro, originando un cambio en la pauta de lectura y un codón stop prematuro.
+Hipercolesterolemia familiar: esta enfermedad se caracteriza por la elevación del colesterol plasmático transportado por LDL (Light density lipoprotein), principal proteína de transporte de colesterol en el plasma.
+La enfermedad se debe a mutaciones en el gen estructural del cromosoma 19 que codifica para el receptor de LDL (proteína de superficie celular que enlaza LDL y la transporta al interior de la célula).
+Una de las posibles causas de la enfermedad está relacionada con los elementos Alu, en este caso el receptor llegaría a la superficie celular pero no podría enlazarse a la LDL; una recombinación incorrecta debida al alineamiento desigual y recombinación entre secuencias Alu repetidas causa una deleción en la parte del gen que codifica para el dominio del enlace de LDL.
+La recombinación homóloga entre secuencias repetitivas Alu está descrita como causa de la deleción.

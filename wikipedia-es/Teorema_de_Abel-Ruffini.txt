@@ -1,0 +1,15 @@
+Una solución general para cualquier ecuación cuadrática se puede obtener utilizando la fórmula cuadrática anterior.
+Existen fórmulas similares para las ecuaciones polinómicas de grado 3 y 4.
+Pero no hay tal fórmula para los polinomios de 5º grado; la solución real -1,1673 ...
+hasta la ecuación de quinto grado de abajo no se puede escribir usando operaciones aritméticas básicas y las raíces n-ésimas:
+En matemáticas el teorema de Abel-Ruffini (también conocido como Teorema de la imposibilidad de Abel) enuncia que no pueden resolverse por radicales las ecuaciones polinómicas generales de grado igual o superior a cinco.
+Es decir, no es posible encontrar las soluciones de la ecuación general:
+de grado superior o igual a cinco, aplicando únicamente un número finito de sumas, restas, multiplicaciones, divisiones y extracción de raíces a los coeficientes de la ecuación.
+El teorema fue nombrado por Paolo Ruffini, que hizo una prueba incompleta en 1799, y el noruego Niels Henrik Abel que proporcionó una prueba en 1823.
+Évariste Galois demostró de forma independiente el teorema en una obra que fue publicada póstumamente en 1846.
+El contenido de este problema es generalmente mal entendido:
+La siguiente demostración está basada en la Teoría de Galois.
+Uno de los teoremas fundamentales de la teoría de Galois dice que una ecuación se puede resolver en radicales si, y solo si tiene un Grupo de Galois que se puede resolver, entonces la demostración del teorema de Abel-Ruffini viene de calcular el grupo de Galois del polinomio general de quinto grado.
+Sea y_1 un número real trascendente sobre el cuerpo de los números racionales \Q, y sea y_2 un número real trascendente sobre \Q(y_1), y así hasta y_5 que es trascendente sobre.
+Estos números son llamados elementos trascendentes independientes sobre \Q.
+Sea y sea

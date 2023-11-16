@@ -1,0 +1,11 @@
+Physics engine o motor físico es una expresión empleada en informática para referirse a un software capaz de realizar simulaciones de ciertos sistemas físicos como la dinámica del cuerpo rígido, el movimiento de un fluido y la elasticidad.
+Se emplean sobre todo para los videojuegos.
+Es posible clasificar los physics engines en dos categorías de acuerdo con la capacidad de cálculo que requieran: aquellos de simulación en tiempo real y aquellos de alta precisión.
+Las simulaciones dinámicas de alta precisión requieren tal capacidad de cómputo que no es posible hacer simulaciones en tiempo real: éste es el caso de simulaciones de alta resolución.
+En la actualidad, los simuladores dinámicos son utilizados para modelar procesos de alta complejidad, que requieren una gran cantidad de cálculos y una alta precisión numérica.
+Muchas veces estas simulaciones vienen realizadas con un procesador vectorial.
+Para modelar el mundo real, los videojuegos utilizan simuladores dinámicos de alta calidad, ya que es mucho más importante ofrecer al usuario cualidades distintas a la precisión de los fenómenos físicos.
+En un computador, los objetos simulados están modelados mediante de una cantidad de puntos o de parámetros que es la mínima para representarlos con un grado de precisión que resulte operativo.
+Esta representación mínima viene llamada en inglés mesh.
+Generalmente, para detectar una colisión, cada uno de los objetos que se aproximan se considera en el interior de una caja imaginaria cuyo tamaño es el mínimo necesario para contenerlo, y la intersección de estas cajas se entiende como colisión.
+Otra opción consiste en el teselado de los objetos en volúmenes pequeños, con lo que también se puede llevar a cabo una simulación más precisa de la física del objeto mediante el método de los elementos finitos.

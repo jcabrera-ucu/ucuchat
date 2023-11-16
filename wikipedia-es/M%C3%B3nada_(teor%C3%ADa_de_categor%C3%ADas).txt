@@ -1,0 +1,31 @@
+En teoría de categorías, una rama de matemáticas, una mónada (también llamada terna, tríada, construcción estándar o construcción fundamental) es un endofunctor (un functor desde una categoría hacia ella misma), junto con dos transformaciones naturales. Las mónadas son utilizadas en la teoría de pares de functores adjuntos, y generalizan los operadores de clausura en conjuntos parcialmente ordenados  a categorías arbitrarias.
+Si F y G son un par de funtores adjuntos, con F adjunto izquierdo a G, entonces la composición G \circ F es una mónada.
+Por tanto, una mónada es un endofunctor.
+Si F y G son funtores inversos, la correspondiente mónada es el functor identidad.
+En general, las adjunciones no son equivalencias; relacionan categorías de naturalezas diferentes.
+La teoría de mónadas es relevante como parte del esfuerzo por capturar qué es lo que preservan las adjunciones.
+La otra mitad de la teoría, sobre qué puede ser aprendido de la misma forma pero considerando F \circ G constituye la teoría dual de comónadas.
+Los axiomas de una mónada pueden verse en un ejemplo simple: sea G el funtor de olvido de la categoría Grp de grupos a la categoría Set de conjuntos.
+Sea entonces F el funtor libre.
+Esto significa que la mónada
+toma un conjunto X y devuelve el conjunto subyacente del grupo libre sobre él,
+. En esta situación, nos han dado dos morfismos naturales:
+que se obtiene incluyendo cualquier conjunto X en el conjunto de manera natural, como cadenas de longitud 1.
+Y además,
+que puede obtenerse de manera natural como una concatenación o 'aplanado' de 'cadenas de cadenas'.
+Esto nos deja dos transformaciones naturales
+y
+Que satisfarán algunos axiomas sobre identidad y asociatividad resultantes de las propiedades de la adjunción.
+Otro ejemplo se tiene cuando T es el endofuntor en la categoría de los espacios vectoriales que lleva un espacio vectorial V a su álgebra tensorial T(V), y que lleva las aplicaciones lineales a su producto tensor.
+Tenemos entonces transformaciones naturales correspondiendo a la incrustación de V en su álgebra tensorial, y una transformación natural correspondiendo a la aplicación desde T(T(V)) a T(V) que se obtiene simplemente expandiendo todos los productos tensoriales.
+Estas satisfacen los axiomas de mónada.
+Cada mónada surge desde alguna adjunción, de hecho, típicamente desde varias adjunciones.
+Las dos construcciones introducidas anteriormente, la categoría de Kleisli y la categoría de álgebras de Eilenberg-Moore, son soluciones extremas al problema de construir una adjunción que da lugar a una cierta mónada.
+Si C es una categoría, una mónada en C consiste en un endofuntor junto a dos transformaciones naturales:  (donde 1_{C} denota el funtor identidad en C) y  (donde T^{2} es el funtor T \circ T, de C a C).
+A los que se les requiere que cumplan las siguientes condiciones (a veces llamadas condiciones de coherencia):
+Podemos reescribir esas condiciones usando los siguientes diagramas conmutativos:
+Véase el artículo sobre transformaciones naturales para una explicación de las notaciones T\mu y \mu T, o véanse los siguientes diagramas, que no usan esa notación:
+El primer axioma es similar a la asociatividad en monoides, el segundo axioma a la existencia de un elemento identidad.
+De hecho, una mónada en C puede ser definida de forma alternativa como un monoide en la categoría cuyos objetos son los endofuntores de C y cuyos morfismos son las transformaciones naturales entre ellos, con la estructura monoidal inducida por la operación de composición entre endofuntores.
+Las mónadas son usadas en programación funcional para expresar algunos tipos de computación secuencial (incluyendo en ocasiones efectos secundarios).
+Véase el artículo sobre mónadas en programación funcional.

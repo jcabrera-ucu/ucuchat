@@ -1,0 +1,39 @@
+En ciencias, una magnitud adimensional o magnitud de dimensión uno es una cantidad sin una dimensión física asociada, siendo por tanto un número puro que permite describir una característica física sin dimensión ni unidad de expresión explícita, y que como tal, siempre tiene una dimensión de 1.
+Las magnitudes adimensionales son ampliamente utilizadas en matemáticas, física, ingeniería o economía, y en la vida cotidiana (por ejemplo, en el conteo).
+Muchos números bien conocidos, como π, e y φ, son también adimensionales.
+Por el contrario, las magnitudes no adimensionales se miden en unidades de longitud, área, tiempo, etc.
+Las magnitudes adimensionales se definen a menudo como productos, razones o relaciones de cantidades que sí tienen dimensiones, pero cuyas dimensiones se cancelan cuando sus potencias se multiplican.
+Este es el caso, por ejemplo, de la deformación relativa, una medida de la deformación que se define como el cambio en la longitud en relación con la longitud inicial: ya que ambas cantidades tienen dimensiones L (longitud), el resultado es una magnitud adimensional.
+El análisis dimensional se utiliza para definir las cantidades adimensionales.
+La unidad del SI derivada asociada es el número 1.
+El Comité Internacional de Pesas y Medidas contempló la definición de la unidad 1 como el 'uno', pero la idea fue abandonada.
+Las magnitudes adimensionales están involucrados particularmente en la mecánica de fluidos y en la descripción de fenómenos de transporte, moleculares y convectivos, ya que utilizan la similitud de modelos reducidos o teoría de las maquetas y construye la interpretación de los resultados de ensayos.
+Se llaman números adimensionales, números sin dimensión o incluso de números característicos.
+Aunque una magnitud adimensional no tiene ninguna dimensión física asociada a ella, puede tener unidades adimensionales.
+Para mostrar la magnitud que se está midiendo (por ejemplo, la fracción de masa o fracción molar), a veces es útil usar las mismas unidades, tanto en el numerador como en el denominador (kg/kg o mol/mol).
+La magnitud también se puede administrar como una relación entre dos unidades diferentes que tienen la misma dimensión (por ejemplo, años luz por metros).
+Este puede ser el caso de los cálculo de pendientes en los gráficos, o al hacer conversiones de unidades.
+Esta notación no indica la presencia de dimensiones físicas, y es puramente una convención de notación.
+Otras unidades adimensionales comunes son el % (= 0,01), el ‰ ( = 0,001), la ppm ( = 10 -6), la ppb ( = 10-9), la ppt ( = 10-12) y unidades angulares (grados, radianes, grad).
+Las unidades de número como la docena y la gruesa también son adimensionales.
+Otros ejemplos son:
+La relación de dos cantidades con las mismas dimensiones es adimensional y tiene el mismo valor independientemente de las unidades utilizadas para calcularlas.
+Por ejemplo, si el cuerpo A ejerce una fuerza de magnitud F en el cuerpo B, y B ejerce una fuerza de magnitud f en A, entonces la relación F/f es siempre igual a 1, independientemente de las unidades reales utilizadas para medir  F  y f.
+Esta es una propiedad fundamental de las proporciones adimensionales y se sigue de la premisa de que las leyes de la Física son independientes del sistema de unidades utilizadas en su expresión.
+En este caso, si la relación F/f no siempre fuera igual a 1, se podría cambiar si se cambia del SI al CGS, eso significaría que la verdad o falsedad de la Tercera ley de Newton dependería del sistema de unidades utilizado, lo que estaría en contradicción con esa hipótesis fundamental.
+Este supuesto de que las leyes de la física no están supeditados a un sistema de unidades específico es la base del teorema π de Buckingham.
+Una declaración de este teorema es que cualquier ley física puede expresarse como una identidad que incluye únicamente las combinaciones adimensionales (proporciones o productos) de las variables vinculadas por la ley (por ejemplo, la presión y el volumen, que son inversamente proporcionales según la ley de Boyle).
+Si las combinaciones adimensionales de valores cambiasen con los sistemas de unidades, entonces la ecuación no sería una identidad, y el teorema de Buckingham no se cumpliría.
+Otra consecuencia del teorema π de Buckingham del análisis dimensional es que la dependencia funcional entre un cierto número de variables (sea n) se puede reducir por el número de dimensiones independiente (sea k) que afectan a esas variables para dar un conjunto de p = n &minus; k, cantidades adimensionales independientes.
+A los efectos del experimentador, diferentes sistemas que comparten la misma descripción por magnitudes adimensionales son equivalentes.
+Un ejemplo de este teorema, es el consumo de potencia de un agitador con una forma dada, que es una función de la densidad y la viscosidad del fluido en agitación, el tamaño del agitador dada por su diámetro y la velocidad del agitador.
+Por lo tanto, se tendrían n = 5 variables.
+Las n = 5 variables se construyen a partir de k = 3 dimensiones:
+De acuerdo con el teorema-π, las n = 5 variables se podrían reducir por las k = 3 dimensiones para formar p = n &minus; k = 5 &minus; 3 = 2 números adimensionales independientes, que son, en este caso del agitador:
+Ciertas constantes físicas fundamentales, como la velocidad de la luz en el vacío, la constante de gravitación universal, la constante de Boltzmann o la constante de Planck se pueden normalizar a 1 si se escogen las unidades apropiadas de tiempo, longitud, masa, carga eléctrica y temperatura.
+El sistema de unidades resultante se conoce como unidades naturales.
+Sin embargo, no todas las constantes físicas se pueden normalizar de esta manera.
+Por ejemplo, los valores de las siguientes constantes son independientes del sistema de unidades y deben ser determinadas experimentalmente:
+El dominio de aplicación par excellence de los números adimensionales es la mecánica de fluidos, aunque existen cientos de números con una gran parte dedicada a temas altamente especializados.
+A continuación se recoge una lista no exhaustiva de las magnitudes adimensionales más comunes.
+El sombreado tiene el siguiente significado:

@@ -1,0 +1,13 @@
+HD 215497 (HIP 112441 / SAO 247578) es una estrella en la constelación austral de Tucana de magnitud aparente +8,97.
+En 2009 se descubrieron dos planetas extrasolares orbitando en torno a esta estrella.
+HD 215497 es una enana naranja, una estrella que, como el Sol, genera su energía por la fusión nuclear de su hidrógeno interno.
+De tipo espectral K3V, tiene una temperatura efectiva de 5113 ± 93 K.
+Sus características son similares a las de ε Eridani o Gliese 892, pero está mucho más alejada que cualquiera de ellas, ya que se encuentra a 143 años luz de distancia.
+La metalicidad de HD 215497 es superior a la del Sol ([Fe/H] = +0,23 ± 0,07).
+Con una masa de 0,87 masas solares, su edad es inferior a 7000 millones de años.
+Su luminosidad es aproximadamente la mitad de la luminosidad solar.
+El planeta más interno, designado HD 215497 b, orbita a una distancia media de 0,047 UA respecto a la estrella.
+Es del tipo «Súper-Tierra», siendo su masa mínima 6,6 veces mayor que la masa de la Tierra.
+El segundo planeta, denominado HD 215497 c, tiene una masa mínima 0,33 veces la masa de Júpiter.
+Su distancia media a la estrella es de 1,28 UA y su período orbital es de 568 días.
+Ambos planetas han sido detectados con el espectrógrafo HARPS.

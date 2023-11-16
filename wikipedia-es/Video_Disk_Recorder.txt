@@ -1,0 +1,10 @@
+VDR es una aplicación para Linux de software libre bajo licencia GPL diseñada para permitir que cualquier computadora (que cumpla unos requisitos mínimos) funcione como un Grabador de Vídeo Personal (que en inglés suelen ser llamados PVR:Personal Video Recorder o también DVR:Digital Video Recorder).
+Esta es la introducción de su propio sitio Web:
+..."con la disponibilidad de codificadores y decodificadores MPEG y de discos duros de alta capacidad, me viene a la mente la idea de crear un completo Grabador de Vídeo Personal.
+Hay varios productos comerciales en el mercado que implementan esta funcionalidad.
+Algunos de ellos se enfocan en trabajar junto con un servicio ofrecido por el fabricante, que ofrece al usuario estrategias personalizadas de grabación - y que a veces están disponibles bajo un coste adicional.
+La desventaja de estos sistemas es que normalmente carecen de técnicas de programación de las grabaciones, y la tendencia de los fabricantes es implementar nuevos métodos para imponer la publicidad (dado que de otra forma sería muy fácil saltarse los anuncios comerciales).
+Además tampoco soportan, lo que por otro lado es natural, la edición en disco, y no suelen dejar acceder a los datos que se han grabado (por ejemplo para hacer copias de seguridad).
+VDR permite crear un sistema de grabación y programaciones basado en una computadora (PC) junto con Linux.
+El proyecto describe como crearte tu propio receptor digital (de satélite o de TDT) y crear el sistema de grabación de video.
+Inicialmente estaba basado principalmente en tarjetas receptoras DVB-S de un único fabricante, pero hoy en día se soportan muchas otras e incluso de otro tipo (como DVB-T, etc.), en general para todas aquellas para las que exista un driver desarrollado por el proyecto LinuxTV.

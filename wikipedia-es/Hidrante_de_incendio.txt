@@ -1,0 +1,14 @@
+Un hidrante de incendio, grifo o boca de incendio es una toma de agua diseñada para proporcionar un caudal considerable en caso de incendio.
+El agua puede obtenerse de la red urbana de abastecimiento o de un depósito, mediante una bomba.
+Hay dos tipos principales de bocas de incendio.
+Se sitúan en las inmediaciones de los edificios y es en la que los bomberos pueden acoplar sus mangueras.
+Pueden ser aéreas o enterradas; en el primer caso se trata de un poste con sus tomas (normalmente más de una) y en el segundo, se sitúan en una arqueta, con tapa de fundición, bajo el nivel del pavimento de la acera.
+También llamada boca de incendio equipada (BIE), se sitúa en lugares de los edificios que tienen además el equipamiento necesario para hacerla funcionar (sala de bombas).
+Una BIE suele estar en un armario, en el que hay una entrada de agua con una válvula de corte o válvula tipo teatro y un manómetro para comprobar en cualquier momento el estado de la alimentación.
+Tiene una manguera con uniones mandrilares, plegada (en plegadera) o enrollada (en devanadera), con su boca de salida (lanza y boquilla).
+Las mangueras pueden ser ø25mm (1"), ø45mm (1¾") y ø65mm (2½") (diámetro nominal), que permiten caudales elevados de agua: 1,6 y 3,3 litros por segundo, respectivamente. La de ø25mm puede utilizarse de forma individual, pero las de 45 y 65 mm deben usarse con ayuda de otra persona. Cuando se acciona y se abre la válvula, es aconsejable sujetar la lanza o boquilla de la manguera para evitar que, a causa de la presión, empiece a dar bandazos, pues podría herir a alguien. La boquilla puede ser regulable, para permitir la salida en forma de chorro pleno o niebla. El armario donde se encuentran suele estar cerrado con un vidrio, con la inscripción: "Rómpase en caso de incendio", porque cualquiera debe poder romperlo en caso de incendio, para utilizarla.
+Aunque no lo es exactamente, puede considerarse otro tipo de boca de incendio.
+Es de uso exclusivo para los bomberos.
+El sistema consiste en una tubería vacía (seca) que recorre el edificio en toda su altura (suele ser obligatoria en edificios que tiene una altura mayor de 20 o 30 m) y tiene ramificaciones hacia armarios con bocas de incendio en cada piso o cada dos pisos, a las cuales los bomberos conectan sus mangueras.
+A diferencia de los sistemas anteriores, la tubería no lleva agua; esta se introduce en la columna por una boca especial que hay en la fachada del edificio, donde los bomberos pueden conectar la manguera desde un hidrante, desde un camión cisterna o desde un hidrante (sin presión suficiente), pasando por una bomba del camión de bomberos, hasta la boca de la columna seca.
+Este sistema sirve para evitar desplegar muchos metros de manguera de forma innecesaria y, lo más importante, tener que subir rollos de manguera grandes hasta el piso (alto) donde sean necesarios.

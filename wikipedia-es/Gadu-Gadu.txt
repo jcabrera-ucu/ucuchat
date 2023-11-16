@@ -1,0 +1,9 @@
+Gadu-Gadu es un cliente de mensajería instantánea popular en Polonia que se financia mostrando mensajes publicitarios.
+Como con ICQ, los usuarios se identifican por sus números de serie.
+Hay numerosos add-ons disponibles para proporcionar funciones extra.
+La versión oficial proporciona más de 150 emoticonos, y permite mensajes offline, envío de datos, y VoIP (Voz sobre IP).
+Desde la versión 6.0, se puede usar una conexión segura SSL experimental.
+Una de las características más populares de Gadu-Gadu es la opción de estado, que permite a los usuarios mostrar mensajes cortos visibles bajo sus iconos identificativos en la lista de contactos de los demás usuarios.
+Gadu-Gadu utiliza su propio protocolo propietario.
+Se han creado muchos plug-ins no oficiales para expandir sus posibilidades.
+Muchos otros programas de mensajería instantánea como por ejemplo Pidgin, Kopete, Kadu, Tlen.pl o WTW tienen la opción de utilizar el protocolo GG.

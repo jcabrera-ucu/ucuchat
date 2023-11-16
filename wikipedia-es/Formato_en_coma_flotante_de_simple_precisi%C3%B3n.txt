@@ -1,0 +1,74 @@
+El formato en coma flotante de simple precisión es un formato de número de computador u ordenador que ocupa 4 bytes (32 bits) en su memoria y representa un amplio rango dinámico de valores mediante el uso de la coma flotante.
+En la norma o estándar IEEE 754-2008 el formato de 32 bits de base 2 se conoce oficialmente como binary32, aunque se le llamaba single en la versión previa del estándar IEEE 754-1985.
+En los equipos más antiguos, se utilizaron diferentes formatos de coma flotante de 4 bytes, como ejemplo, el tipo de datos de precisión simple en el lenguaje de programación GW-BASIC era un formato de coma flotante de 32 bits MBF (Formato Binario de Microsoft).
+Uno de los primeros lenguajes de programación en proporcionar tipos de datos de coma flotante de simple y doble precisión fue Fortran.
+Antes de la adopción generalizada del estándar IEEE 754-1985, la representación y las propiedades del tipo de datos simple y doble dependían del fabricante del equipo y el modelo de ordenador.
+El formato binario en coma flotante de simple precisión se utiliza por abarcar un rango de valores más amplio respecto al formato de coma fija (del mismo ancho de bits), pero a costa de menor precisión.
+Un entero con signo de 32 bits puede tener un valor máximo de 231</SUP> - 1 = 2,147,483,647, mientras que el valor máximo representable en coma flotante del estándar IEEE 754 es (2-2 −23) × 2127 ≈ 3,402823466×1038.
+Todos los números enteros con seis o menos dígitos decimales significativos se pueden convertir a un valor de coma flotante IEEE 754 sin pérdida de precisión, algunos números enteros hasta nueve dígitos decimales significativos pueden convertirse a un valor de coma flotante IEEE 754 sin pérdida de precisión, pero no es posible con los de más de nueve dígitos decimales significativos.
+Como ejemplo, el número entero de 32 bits 2,147,483,647 se convierte en 2,147,483,650 aplicando la norma IEEE 754.
+El formato de precisión simple se conoce como REAL en Fortran, float en C, C++, C#, Java, Float en Haskell, y, como Single en Delphi (Pascal), Visual Basic y MATLAB.
+Sin embargo, float en Python, Rubí, PHP, y OCaml y single en las versiones de Octave anteriores a la 3.2 se refieren a números de doble precisión.
+En la mayoría de las implementaciones de PostScript, la única precisión real es simple.
+El estándar IEEE 754 especifica que un formato binary32 consta de:
+Este formato proporciona una precisión de 6 a 9 dígitos decimales significativos.
+Si una cadena decimal de hasta 6 dígitos decimales significativos se convierte en formato IEEE 754 de precisión simple y luego se convierte de nuevo al mismo número de dígitos decimales significativos, la cadena final debe coincidir con el original y si un número de precisión simple IEEE 754 se convierte en una cadena decimal con al menos 9 dígitos decimales significativos y luego se convierte de nuevo a un número de precisión simple, entonces el número final debe coincidir con el original.
+El bit de signo (S) determina el signo del número, que también es el signo de la mantisa o significando.
+El exponente (E) es, tanto un número entero de 8 bits con signo en el rango de -126 a 127 (expresado en la forma de complemento a 2) como un entero sin signo (e) de 8 bits comprendido de 0 a 255 que es la forma sesgada aceptada en la definición del formato binary32 de IEEE 754.
+Si se utiliza el formato de número entero sin signo, el valor del exponente utilizado en la aritmética es el exponente desplazado por un sesgo (E).
+Para el caso del formato binary32, un valor de exponente desplazado de 127 representa el cero real (es decir, para que 2e-127 sea uno, "e" debe valer 127).
+El exponente desplazado (E=e-127) abarca desde −126 hasta +127 ya que los valores de −127 (todos ceros) y 128 (todos unos) son reservados para números especiales.
+La mantisa real del formato incluye 23 bits de la fracción a la derecha de la coma binaria y un bit de encabezado implícito (a la izquierda de la coma binaria) con valor de "1" a menos que el exponente se almacene con sus bits en cero.
+Por lo tanto sólo 23 bits de la mantisa aparecen en el formato de la memoria, pero la precisión total es de 24 bits (equivalente a log10 (224) dígitos ≈ 7225 decimales).
+Los bits se establecen como sigue, para este ejemplo concreto:
+El valor real asumido por un determinado dato en formato binary32 con un exponente sesgado (el número entero sin signo de 8 bits) y una fracción de 23 bits esː
+donde:
+por lo tanto:
+El exponente en los números binarios de precisión simple en coma flotante se codifica mediante una representación desplazada en binario, siendo +127 el desplazamiento cero; también conocido como sesgo de exponente en la norma IEEE 754.
+Los valores del exponente son establecidos asíː
+Por lo tanto, con el fin de obtener el verdadero exponente como se define por la representación binaria desplazada, se tiene que restar el desplazamiento de 127 del exponente almacenado lo que equivale a escribirlo en complemento a dos.
+Los valores de exponentes expresados en el rango de números en el sistema hexadecimal entre 0016 y FF16 se interpretan de forma especial como se indica en la siguiente tablaː
+El valor mínimo positivo normalizado es de 2 −126 ≈ 1.18 × 10 −38 y el valor mínimo positivo denormalizado es 2 −149 ≈ 1,4 × 10 −45.
+En general, se acude a la norma IEEE 754 en sí para la conversión estricta (incluyendo el comportamiento de redondeo) de un número real en su equivalente en formato binary32.
+Para convertir un número real decimal en uno de formato binary32 se debe seguir el siguiente procedimientoː
+La ventaja de este procedimiento es que, en el paso 5, se obtiene de inmediato la mantisa, la cual se convertirá a binario, sin necesidad de convertir la parte entera, la cual siempre será "1".
+A continuación, se presentan ejemplos de conversión a formato binary32 de números reales decimales mayores que 1 tanto enteros, como con parte fraccionaria y un número pequeño mayor que cero y menor que 1.
+Con números negativos, la única diferencia en el proceso es la de hacer el bit de signo igual a "1".
+Consideremos el número real entero 63.
+Aplicando el proceso descrito anteriormente, se obtiene:
+Por tanto, el valor "e" será el entero inmediatamente inferior, el cual es 5.
+Nuevamente usamos 63 aplicando el paso 5 del procedimiento:
+Ya que el exponente "e" es 5, se le suma el sesgo de 127 unidades, lo cual da 13210 equivalente a 100001002.
+La mantisa real consta de los 5 dígitos a la derecha de la coma (0,96875) la cual se convierte a binario hasta completar los 23 bits del campo T (111110000000000000000002).
+Uniendo los resultados, se consigue esta expresión:
+La expresión hexadecimal, como es habitual, se obtiene a agrupando todos los bits en 8 conjuntos de 4 y convirtiendo cada uno en el carácter respectivo.
+En el caso de un número real con parte fraccionaria, se procede de igual manera, con la diferencia de que el valor decimal de la mantisa será convertido a binario de manera aproximada.
+Para números reales muy grandes en notación científica como 7,3491 x 1022, es aplicable el procedimiento descritoːjj
+Redondeando al entero inferior más próximo, se obtiene e = 75.
+Ahora se calcula la mantisa:
+La parte fraccionaria es por tanto 0,945290573 equivalente a 0,111100011111111010010002.
+Al exponente decimal 75 se le suman 127 unidades para obtener 202=110010102.
+Uniendo las cadenas numéricas, se logra la siguiente expresión en formato binary32ː
+Consideremos el número decimal 1023 x 10−21.
+Nuevamente, aplicamos el procedimiento ya conocido.
+Igualando este número a 2x:
+El entero próximo inferior de "x" es e=-70.
+Nuevamente usamos el número a analizar y lo igualamos a m*2e:
+La parte fraccionaria de m (0,207745228) y se convierte a binario (0,001101010010111011001012) y al exponente e=-70 se le suma 127 y se le convierte a binario obteniéndose 001110012.
+Uniendo estas cadenas numéricas, se consigue la expresión en binary32:
+Si el valor para "m" se hubiera redondeado a 1,2077 por ejemplo, habrían existido errores que son inherentes al formato binary32 ya que se pierde precisión aunque se usen menos bits para expresar cantidades decimales.
+Los ejemplos que siguen son expresiones en hexadecimal y binario de valores en coma flotante que incluyen el signo, el exponente desplazado y la mantisa o significando.
+Los siguientes valores son el máximo y el menor valor finito expresable en formato de coma flotante
+Las siguientes expresiones prueban la existencia de dos tipos de ceros en el formato binary32:
+Estas expresiones representan los valores infinitos:
+Para este ejemplo de conversión, se comienza con el número hexadecimal 41C80000, el cual es convertido a binario:
+La cadena binaria debe ser dividida en tres partes: bit de signo (1 bit), exponente (8bits) y significando (23 bits).
+Luego, se añade el bit implícito al significando:
+y se decodifica el valor del exponente restándole 127: 131 − 127 = 4
+Cada uno de los 24 bits del significando (incluyendo el bit implícito), se multiplica por la potencia de 2 correspondiente:
+En este ejemplo la mantisa o significando tiene tres bits en "1 lógico": bit I (bit implícito, que siempre es "1"), bit 22 y bit 19.
+Sumando las tres contribuciones de estos bits :
+Este significando debe ser multiplicado por la potencia 4 de la base 2 para obtener el resultado final:
+La siguiente tabla indica como son representados los números dentro de los rangos indicados.
+El diseño del formato de coma flotante permite varias optimizaciones, resultantes de la fácil generación de una aproximación de un logaritmo binario desde una vista entera del patrón de bits sin procesar.
+La aritmética de números enteros y el desplazamiento de bits pueden producir una aproximación a la raíz cuadrada recíproca (raíz cuadrada inversa rápida), comúnmente requerida en gráficos computarizados.

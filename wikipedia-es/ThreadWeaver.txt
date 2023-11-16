@@ -1,0 +1,4 @@
+ThreadWeaver es un sistema de bibliotecas desarrollado inicialmente para la compilación de software de KDE 4 y más tarde refactorizado para KDE Frameworks 5.
+ThreadWeaver permite a los desarrolladores tomar ventaja de los procesadores multi-core y multithreading.
+En ThreadWeaver la carga de trabajo se divide en trabajos individuales, después la relación entre puestos de trabajo (acerca de qué orden deben ser completados o que tiene una prioridad más alta); a partir de eso ThreadWeaver deba funcionar de la forma más eficiente de ejecutar.
+Krita ha implementado un filtro visual de vistas previas de uso de ThreadWeaver para prevenir bloqueos en la GUI.

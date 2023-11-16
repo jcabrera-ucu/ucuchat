@@ -1,0 +1,12 @@
+Indiegogo es un sitio web de micromecenazgo para proyectos creativos, fundado en 2008 en San Francisco (Estados Unidos).
+La plataforma permite donar dinero a proyectos, empresas y organizaciones sin ánimo de lucro por un tiempo limitado.
+En función de la cantidad aportada, el donante puede recibir a cambio una recompensa del impulsor.
+El portal está enfocado a inventores y empresarios con un proyecto en fase inicial.
+Indiegogo permite dos tipos de contribución: un pago que solo se cobra si se alcanza el objetivo, o bien un pago que se recauda independientemente del resultado final.
+En ambos casos el presupuesto mínimo es de 500 dólares, si bien cada persona puede donar lo que desee.
+La plataforma se queda a cambio con un 5% sobre cada pago realizado, más un cargo del 3% por procesamiento de la tarjeta de crédito.
+Los impulsores de proyectos no pueden pausar, retirar ni suspender las campañas una vez se han publicado.
+Los términos de uso restringen el tipo de campaña que se puede promocionar y la entrega de recompensas.
+En ningún caso se acepta que el donante adquiera acciones de la empresa impulsora o cualquier otro incentivo financiero.
+Además, está prohibido ofrecer alcohol, drogas, armas, munición, y cualquier tipo de apuesta.
+Desde su creación, Indiegogo ha impulsado más de campañas —con una media diaria de 7000 proyectos activos— y cerca de  de personas han contribuido al menos en alguna ocasión, con más de 1000 millones de dólares recaudados en total.

@@ -1,0 +1,8 @@
+Un campo magnético rotativo o campo magnético giratorio es un campo magnético que rota a una velocidad uniforme (idealmente) y es generado a partir de una corriente eléctrica alterna trifásica.
+Fue descubierto por Galileo Ferraris en 1885, tres años después, Nikola Tesla obtuvo la patente en 1888, es el fenómeno sobre el que se fundamenta el motor de corriente alterna.
+thumb|Secuencia de giro basado en tres [[Imán (física)|imanes.
+]]
+Al repartir sobre un cilindro de hierro ferromagnético (estator para las máquinas eléctricas asíncronas) unas bobinas, se separan las entradas y salidas 120° entre sí y se alimentan con una corriente alterna, se obtiene por el efecto de la corriente conducida a través de ellas un campo magnético pulsante.
+Si se colocan otras dos bobinas predispuestas igual que la primera pero de modo que los planos que las contienen se sitúan a 60° a izquierda y a la derecha de la primera bobina y se alimenta cada grupo.
+Si cada grupo de bobinas tiene un número escaso de éstas, el campo magnético creado tendrá una onda de forma cuadrada.
+Para aproximarla a una senoide lo que se hace es aumentar el número de bobinas en cada grupo (fase), y distribuirlas lo máximo posible en el estátor.

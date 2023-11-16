@@ -1,0 +1,33 @@
+La nomenclatura química de los compuestos inorgánicos o nomenclatura IUPAC es un sistema de nomenclatura de compuestos químicos y de descripción de la ciencia y de la química en general.
+La nomenclatura IUPAC es solo otro método de calcular compuestos químicos.
+Las reglas para nombrar compuestos orgánicos e inorgánicos están contenidas en dos publicaciones, conocidas como el Libro Azul y el Libro Rojo, respectivamente.
+Una tercera publicación, conocida como el Libro Verde, describe las recomendaciones para el uso de símbolos para cantidades físicas (en asociación con la IUPAP), mientras que el cuarto, el Libro Dorado, contiene las definiciones de un gran número de términos técnicos usados en química.
+Una compilación similar existe para la bioquímica (en asociación con el IUBMB), el análisis químico y la química macromolecular.
+Estos libros están complementados por unas cortas recomendaciones para circunstancias específicas las cuales son publicadas de vez en cuando en la Revista de Química Pura y Aplicada.
+La función principal de la nomenclatura química es asegurar que la persona que oiga o lea un nombre químico no albergue ninguna duda sobre el compuesto químico en cuestión, es decir, cada nombre debería referirse a una sola sustancia.
+Se considera menos importante asegurar que cada sustancia tenga un solo nombre, aunque el número de nombres aceptables es limitado.
+Es también preferible que un nombre traiga algo de información sobre la estructura o la química de un componente.
+Los números CAS forman un ejemplo extremo de nombre que no toman en cuenta estas recomendaciones: cada uno se refiere a un componente en particular pero no contiene información de la estructura.
+La nomenclatura empezó probablemente validadas hasta cierto punto, es notable que el primer sistema “moderno” de la nomenclatura química haya aparecido al mismo tiempo que la distinción de Lavoisier entre elementos químicos y compuestos químicos, a principios del siglo XVIII, en su obra Tratado elemental de química.
+El químico francés Louis-Bernard Guyton de Morveau publicó sus recomendaciones en 1782, esperando que su “método constante de denominación” “ayudaría a la inteligencia y relevaría la memoria”.
+El sistema fue refinado en colaboración con Berthollet, Antoine François de Fourcroy y Lavoisier, y promovido por el último en un libro de textos que sobreviviría de largo después de su muerte.
+En 1913 se estableció una comisión del Consejo de la Asociación Internacional de Sociedades Químicas, pero su trabajo fue interrumpido por la Primera Guerra Mundial.
+Después de la guerra, la tarea pasó a la recién formada Unión Internacional de Química Pura y Aplicada, la cual designó comisiones para la nomenclatura inorgánica, orgánica y bioquímica en 1921 y continúa hasta nuestros días.
+La Unión Internacional de Química Pura y Aplicada (IUPAC) ha publicado cuatro conjuntos de reglas para normalizar la nomenclatura química.
+La Unión Internacional de Química Pura y Aplicada, (acrónimo IUPAC, por su nombre en inglés International Union of Pure and Applied Chemistry), es la autoridad universalmente reconocida sobre la nomenclatura y la terminología de la química.
+La organización cuenta con dos organismos que se encargan de esta actividad: la "División VIII", dedicada a la "Nomenclatura y la representación de estructuras" y el "Comité interdivisional sobre Terminología, Nomenclatura y Símbolos".
+Una de las principales actividades de la IUPAC es el desarrollo de "Recomendaciones" para el establecimiento de una nomenclatura y una terminología no ambigua, uniforme y consistente para campos científicos específicos.
+Estas recomendaciones pueden tomar la forma de:
+Las "recomendaciones" se publican en la revista Pure and Applied Chemistry y son a disposición pública el año siguiente a su publicación.
+También son incluidas a la base de datos en línea de la IUPAC un año después de su publicación en la revista.
+Por otro lado, la información sobre la terminología también está disponible a través de los libros de la IUPAC, una colección de siete libros conocidos por su color distintivo.
+Las dos áreas principales son:
+La nomenclatura de la IUPAC se utiliza para nombrar compuestos químicos, basándose en su composición química y su estructura.
+Por ejemplo, se puede deducir que el 1-cloropropano tiene un átomo de cloro en el primer carbono de la cadena de 3 carbonos del propano.
+La IUPAC define métodos de nomenclatura basados en la observación de :
+Así, hasta muchos años después de la aparición de un nuevo tipo de compuesto no se puede considerar la conveniencia de una nueva nomenclatura.
+Cuando se establezca la necesidad de nuevas normas, éstas deberán seguir lo más fielmente posible los principios básicos de la nomenclatura existente.
+A continuación, la IUPAC armoniza las propuestas de nomenclatura de los demás (a través de sus documentos científicos) y se asegura de que dichas propuestas no entren en conflicto con las normas vigentes.
+Para ello, se crea un grupo de trabajo de miembros de la IUPAC que propone un borrador que debe seguir el plan estratégico de la IUPAC.
+Tras su aceptación, el grupo de trabajo elabora sus recomendaciones y propone uno o varios borradores que se ponen a disposición del público o de los miembros del grupo.
+Los comentarios se incorporan al siguiente borrador.

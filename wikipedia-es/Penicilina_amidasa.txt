@@ -1,0 +1,3 @@
+Las penicilina amidasas (, CAS ) son enzimas empleadas durante la generación de penicilinas semisintéticas.
+Se trata de una familia de hidrolasas ampliamente empleadas que permiten generar el núcleo de las penicilinas mediante eliminación de la cadena lateral de la penicilina G producida en cultivos microbianos de cepas del hongo Penicillium.
+Esta reacción conduce a la formación del ácido 6-aminopenicilánico, componente que, mediante posteriores modificaciones catalizadas por otras enzimas, puede dar lugar a numerosos antibióticos.

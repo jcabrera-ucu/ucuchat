@@ -1,0 +1,6 @@
+El tiempo de retorno energético es el tiempo necesario para recuperar la energía invertida en la fabricación de un aprovechamiento energético renovable.
+Por ejemplo, actualmente los paneles fotovoltaicos recuperan la energía necesaria para su fabricación en un período comprendido entre 6 meses y 1,4 años.
+Si una célula fotovoltaica deja de funcionar antes de esa fecha, habrá supuesto un gasto energético en vez de una fuente de energía: hubiera sido más eficiente no haberla fabricado.
+Sin embargo, en caso de que alcance su vida útil media (superior a 30 años), producen electricidad limpia durante más del 95% de su ciclo de vida.
+Este concepto está íntimamente relacionado con la tasa de retorno energético de un aprovechamiento energético renovable, que compara el tiempo de retorno energético de un dispositivo frente a vida útil estimada de dicho dispositivo, para determinar su eficiencia energética real.
+Lamentablemente, el cálculo de los tiempos y tasas de retorno energético es extremadamente complejo, por lo que no es infrecuente encontrar resultados que difieren incluso en un orden de magnitud.

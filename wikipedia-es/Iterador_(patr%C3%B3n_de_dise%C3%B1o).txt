@@ -1,0 +1,25 @@
+En diseño de software, el patrón de diseño Iterador, define una interfaz que declara los métodos necesarios para acceder secuencialmente a un grupo de objetos de una colección.
+Algunos de los métodos que podemos definir en la interfaz Iterador son:
+Este patrón de diseño permite recorrer una estructura de datos sin que sea necesario conocer la estructura interna de la misma.
+El patrón Iterador es un mecanismo de acceso a los elementos que constituyen una estructura de datos para la utilización de estos sin exponer su estructura interna.
+El patrón surge del deseo de acceder a los elementos de un contenedor de objetos (por ejemplo, una lista) sin exponer su representación interna.
+Además, es posible que se necesite más de una forma de recorrer la estructura siendo para ello necesario crear modificaciones en la clase.
+La solución que propone el patrón es añadir métodos que permitan recorrer la estructura sin referenciar explícitamente su representación.
+La responsabilidad del recorrido se traslada a un objeto iterador.
+El problema de introducir este objeto iterador reside en que los clientes necesitan conocer la estructura para crear el iterador apropiado.
+Esto se soluciona generalizando los distintos iteradores en una abstracción y dotando a las estructuras de datos de un método de fabricación que cree un iterador concreto.
+El patrón iterator permite el acceso al contenido de una estructura sin exponer su representación interna.
+Además diferentes iteradores pueden presentar diferentes tipos de recorrido sobre la estructura (recorrido de principio a fin, recorrido con saltos...).
+Por otro lado los iteradores no tienen por qué limitarse a recorrer la estructura, sino que podrían incorporar otro tipo de lógica (por ejemplo, filtrado de elementos).
+Es más, dados diferentes tipos de estructuras, el patrón iterador permite recorrerlas todas utilizando una interfaz común uniforme.
+Las entidades participantes en el diseño propuesto por el patrón iterador son:
+Un iterador concreto es el encargado de guardar la posición actual dentro de la estructura de datos, interactuando con esta para calcular el siguiente elemento del recorrido.
+El patrón Iterador permite por tanto diferentes tipos de recorrido de un agregado y varios recorridos simultáneos, simplificando la interfaz del agregado.
+Para la creación del patrón iterador debe implementarse el control de la iteración (pudiendo ser un iterador externo que ofrece los métodos para que el cliente recorra la estructura paso a paso, o un iterador interno que ofrece un método de actuación sobre la estructura que, de manera transparente al cliente, la recorre aplicándose a todos sus elementos) y definirse el recorrido.
+A mayores se podrían implementar operaciones adicionales en el iterador o definir la estructura de este de una manera más robusta ante cambios en la estructura.
+Hay que tener especial cuidado en la implementación de iteradores con accesos privilegiados, iteradores para estructuras compuestas o iteradores nulos.
+Definición del iterador concreto.
+Ejemplo de uso
+En java ya existe una interfaz iterator que hace a las veces de abstracción.
+Todos los iteradores utilizados en sus librerías cumplen esta interfaz, lo que permite tratarlos a todos ellos de manera uniforme.
+Hacer que nuestro IteradorVector implementase Iterator permitiría que fuese utilizado por otras librerías y programas de manera transparente.

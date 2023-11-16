@@ -1,0 +1,49 @@
+Una cinta magnética de audio es un tipo de cinta magnética utilizado para la reproducción o grabación de sonido.
+Para grabar las cintas magnéticas se utiliza el sistema de grabación magnética analógica.
+Las primeras cintas magnéticas eran cintas de papel recubiertas de óxido de metal.
+Se desecharon porque era un soporte demasiado endeble que se deterioraban con gran rapidez.
+La multinacional química alemana BASF exhibió las primeras cintas magnéticas de plástico en la Exposición Radiotécnica de Berlín de 1935.
+Se trataba de una lámina alargada de material plástico en cuya superficie se añadían partículas ferromagnéticas capaces de retener el magnetismo inducido.
+Tras numerosas investigaciones, se popularizó el uso de cintas con una base de poliéster y recubrimiento de plástico.
+El poliéster se impuso por su gran resistencia.
+Los materiales anteriores resultaban deficientes porque se estiraban o se rompían.
+Según sea la composición de la emulsión magnética que cubre, hay cuatro tipos de cintas:
+Es la cinta que utiliza el magnetófono.
+Todas las cintas de bobina abierta llevan el número de lote impreso sobre la caja.
+Así, los profesionales pueden identificar todas las cintas de un mismo lote que, al ser fabricadas al mismo tiempo, deben tener propiedades magnéticas idénticas.
+Las cintas para magnetófono tienen una dimensión es ¼ de pulgada.(salvo las del magnetófono multipista que son más grandes).
+Las tapas del carrete protegen la cinta de cualquier daño, por lo que la cinta no debe llegar ni a sobrepasarlos ni a tocarlo.
+La cintas profesionales también se comercializan sobre un eje sin tapas, lo que se conoce como torta.
+La cinta de bobina abierta pueden tener diversos espesores.
+Al almacenar las cintas de bobina abierta, hay que tener en cuenta el denominado efecto copia.
+Es un problema que sobreviene por un mal almacenamiento de las cintas.
+El efecto eco se da cuando, por contacto entre dos cintas magnéticas, una induce su magnetismo a otra (o así misma, de una capa a otra adyacente).
+Este efecto eco, se manifiesta en forma de preeco o posteco.
+El posteco es preferible al preeco porque puede quedar enmascarado con la reverberación.
+Como el preeco afortunadamente es una señal de bajo nivel.
+Estos desagradables efectos se pueden eliminar utilizando técnicas de reducción de ruido, porque, como quedan antes o después de la señal, el equipo los interpreta como un ruido más.
+Para almacenar correctamente las cintas lo que hay que hacer es almacenar las cintas "de cola”.
+Esta expresión quiere decir que se ha de dejar la última zona grabada en la zona más externa del carrete, es decir sin rebobinarla.
+Tal cual ha quedado tras la grabación o reproducción, dejando una zona virgen, sin sonido.
+Si se almacenan las cintas “de cola”, se evita que dos zonas grabadas queden juntas, pues siempre se deja un fragmento virgen.
+Tampoco es conveniente rebobinar o bobinar la cinta mediante avance o rebobinado rápido, pues las cintas solo tienen un bobinado uniforme en reproducción o grabación.
+Almacenar las cintas "de cola" más importante de lo que parece.
+Tanto, que, incluso, se ha establecido una especie de protocolo sobre como ha de hacerse.
+Tras la última señal grabada se inserta un trozo de cinta roja que identifica el punto.
+Este formato consta de una cinta de 1/8 de pulgada (3mm) de ancho contenida en un cartucho plástico.
+En esta anchura se distribuyen 4 pistas que se desplazan a una velocidad de 4,75 cm/s.
+En 1963, la casa Philips lanzó al mercado los primeros reproductores - grabadores para cintas de casetes y las primeras cintas en 1963.
+La cinta magnética virgen apareció en 1965.
+La cinta virgen fue introducida de forma masiva por la casa japonesa Maxell, a mediados de los 70 y a finales de los años 70, Maxell y TDK se repartían el mercado de las cintas vírgenes.
+El casete, dependiendo de la longitud de la cinta, permite diversas duraciones de grabación.
+Precisamente, el nombre de la cinta, ya indica la duración de la misma.
+La más pequeña, la C5, permite 5 minutos, dos minutos y medio por cara.
+La más larga, C120, permite las dos horas de grabación (60 minutos por cara).
+<BR>A mayor longitud, más delgadas son las cintas, con el fin de que quepan en el mismo cartucho que las de menor longitud.
+Cuando más delgadas sean las cintas peor se adaptara a las guías del propio cartucho, lo que puede provocar un mal contacto cabeza-cinta que puede originar que la cinta se enrolle, se desenrolle y se enganche pudiendo estropear el reproductor.
+Los fabricantes desaconsejan enérgicamente el uso de C120 y de C90, aunque estas últimas en menor medida.
+Además, a mayor longitud, la cinta pesa más con lo que se acorta la vida útil del cabezal.
+El deficiente contacto cabeza- cinta también puede provocar pérdidas en respuesta en frecuencia y otros problemas.
+El cartucho está formado por una cinta magnética sinfín que graba por impulsos que marcan la cinta en el lugar exacto en que comienza y acaba la grabación, para luego reproducir el intervalo exacto.
+Los reproductores de cartuchos son las cartucheras.
+Cassette

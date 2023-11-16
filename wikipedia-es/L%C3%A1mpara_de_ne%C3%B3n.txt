@@ -1,0 +1,68 @@
+Una lámpara de neón es una lámpara de descarga de gas que contiene principalmente gas neón a baja presión.
+Este término se aplica también a dispositivos parecidos rellenos de otros gases nobles, normalmente con el objetivo de producir colores diferentes.
+En 1898 William Ramsay y Morris W. Travers descubrieron el gas neon.
+Inmediatamente se supo que, cuando se excitaba eléctricamente, emitía un color rojo brillante y característico; Más tarde Travers escribió, "el brillo de luz carmesí del tubo, cuenta su propia historia y fue una visión para vivirla y que no se olvida."
+La rareza del neón excluyó su uso para alumbrado eléctrico mediante lámparas de Moore, que empleaban descargas eléctricas en un gas, normalmente nitrógeno, encerrado en un tubo.
+Estas lámparas fueron comercializadas por su inventor, Moore, a principios de la década de 1900.
+Poco después, en 1902, la empresa Air Liquide, del francés Georges Claude, produciría cantidades industriales de neón, como subproducto del negocio de licuar el aire y, en diciembre de 1910 Claude mostró la iluminación moderna de luz de neón en tubos cerrados.
+En 1915 Claude obtuvo una patente en USA protegiendo su diseño de los electrodos para los tubos de luz de neón; Esta patente fue la base para el monopolio que la empresa de Claude Neon Lights ejerció en los USA desde principios de los años 1930.
+En 1923 Earle C. Anthony concesionario de automóviles Packard en Los Ángeles compró dos carteles que decían "Packard" a 1.250 dólares cada uno.
+La iluminación de neón se convirtió rápidamente en un accesorio popular en la publicidad al aire libre.
+Como esta iluminación es visible incluso de día, la gente se paraba a observar los carteles de neón y los llamaba "fuego líquido".
+Hacia 1917 Daniel Moore desarrolló la lámpara de neón, mientras trabajaba en la General Electric Company.
+La lámpara tiene un diseño muy diferente de los largos tubos usados para producir la luz de neón.
+Las diferencias de diseño fueron suficientes para que en 1919 obtuviera una patente nueva y distinta.
+Una web de la Smithsonian Institution señala: "estos dispositivos pequeños y de bajo consumo usan un principio físico llamado efecto corona. Moore montó dos electrodos muy juntos en una bombilla y añadió gas neón o argon. Los electrodos brillan en rojo o en azul, dependiendo del gas, y las lámparas duran años." Como los electrodos pueden tomar casi cualquier forma imaginable, una aplicación popular es la de crear lámparas decorativas muy variadas.
+El brillo de estas lámparas encontró un uso práctico como indicadores en paneles de instrumentación y en otras muchas aplicaciones caseras, hasta la comercialización de los diodos emisores de luz (LED) en la década de 1970.
+Se hace pasar por el tubo lleno de neón, una pequeña corriente eléctrica, que puede ser corriente alterna o continua, provocando que este emita un brillo rojo anaranjado.
+La fórmula exacta del gas es típicamente la mezcla Penning (99,5 % de neón y 0,5 % de argón), que tiene un voltaje de ruptura menor que el neón puro.
+La lámpara de neón es un dispositivo de resistencia negativa, en el que al incrementar el flujo de corriente incrementa el número de iones portadores de carga, reduciéndose así la resistencia de la lámpara y permitiendo que fluyan corrientes mayores.
+Debido a esto, la circuitería eléctrica externa a la lámpara de neón, debe proporcionar un método de limitar la corriente del circuito o este se incrementará hasta que la lámpara se autodestruya.
+Para lámparas del tamaño de intermitentes, se usa convencionalmente un resistor para limitar la corriente.
+Para las de tamaño rótulo, el transformador de alto voltaje suele limitar la corriente disponible, a menudo contando con una gran cantidad de inductancia de fuga en la bobina secundaria.
+Cuando la corriente que circula por la lámpara es menor que corriente del circuito de descarga de corriente más alto, la descarga luminosa puede volverse inestable y no cubrir toda la superficie de los electrodos.
+Esto puede indicar envejecimiento de la lámpara, y se aprovecha para las lámparas de neón decorativas que simulan una llama.
+Sin embargo, mientras una corriente demasiado baja provoca parpadeo, una corriente demasiado alta incrementa el desgaste de los electrodos estimulando la pulverización catódica, que recubre de metal la superficie interna de la lámpara y provoca que se oscurezca.
+El efecto de parpadeo está provocado por las diferencias en el potencial de ionización del gas, que depende del espacio entre los electrodos, la temperatura y la presión del gas.
+El potencial necesario para disparar la descarga es mayor que el necesario para sostenerla.
+Cuando no hay corriente suficiente para ionizar todo el volumen de gas en torno a los electrodos, sólo ocurre una ionización parcial y el brillo aparece sólo en torno a parte de la superficie de los electrodos.
+Las corrientes convectivas hacen que las zonas brillantes asciendan, de forma no muy diferente a las descarga en una escalera de Jacob.
+Un efecto de fotoionización puede observarse aquí, a media que la zona del electrodo cubierta con la descarga puede incrementarse por la luz brillando en la lámpara.
+<!-- == Description ==
+Si se hace pasar una corriente eléctrica pequeña (para una lámpara NE-2 con un bulbo de unos 5 mm de diámetro, sería de alrededor de 400 µA), sea alterna o continua, brilla en color rojo-anaranjado.
+A small electric current (for a 5 mm bulb diameter NE-2 lamp, the quiescent current is about which may be AC or DC, is allowed through the tube, causing it to glow orange-red.  The gas is typically a Penning mixture, 99.5% neon and 0.5% argon, which has lower striking voltage than pure neon, at a pressure of 1-20 torr.  The lamp glow discharge lights at its striking voltage. The voltage required to sustain the discharge is significantly (~30%) lower than the striking voltage. This is due to the organization of positive ions near the cathode.  Neon lamps operate using a low current glow discharge. Higher power devices, such as mercury-vapor lamps or metal halide lamps use a higher current arc discharge. Low pressure sodium-vapor lamps use a neon Penning mixture for warm up and can be operated as giant neon lamps if operated in a low power mode.
+Once the neon lamp has reached breakdown, it can support a large current flow.
+Because of this characteristic, electrical circuitry external to the neon lamp must limit the current through the circuit or else the current will rapidly increase until the lamp is destroyed.
+For indicator-sized lamps, a resistor typically limits the current.
+In contrast, larger sized lamps often use a specially constructed high voltage transformer with high leakage inductance or other electrical ballast to limit the available current (see neon sign).
+When the current through the lamp is lower than the current for the highest-current discharge path, the glow discharge may become unstable and not cover the entire surface of the electrodes.
+This may be a sign of aging of the indicator bulb, and is exploited in the decorative "flicker flame" neon lamps.
+However, while too low a current causes flickering, too high a current increases the wear of the electrodes by stimulating sputtering, which coats the internal surface of the lamp with metal and causes it to darken.
+The potential needed to strike the discharge is higher than what is needed to sustain the discharge.
+When there is not enough current, the glow forms around only part of the electrode surface.
+Convective currents make the glowing areas flow upwards, not unlike the discharge in a Jacob's ladder.
+A photoionization effect can also be observed here, as the electrode area covered by the glow discharge can be increased by shining light at the lamp.
+In comparison with incandescent light bulbs, neon lamps have much higher luminous efficacy.
+Incandescence is heat-driven light emission, so a large portion of the electric energy put into an incandescent bulb is converted into heat.
+Non-incandescent light sources such as neon light bulbs, fluorescent light bulbs, and light emitting diodes are therefore much more energy efficient than normal incandescent light bulbs.
+Green neon bulbs can produce up to 65 lumens per watt of power input, while white neon bulbs have an efficacy of around 50 lumens per watt.
+In contrast, a standard incandescent light bulb only produces around 13.5 lumens per watt.
+-->
+La mayoría de las lámpara de neón pequeñas, como las comunes NE-2, tienen una tensión disruptiva de entre 90 y 110 voltios.
+Esta característica permite su uso como reguladores de voltaje o dispositivos de protección de sobretensión simples.
+En la década de 1960 General Electric, Signalite y otras marcas hicieron pequeñas lámparas de neón extra-estables para usos electrónicos.
+Idearon incluso circuitos lógicos digitales, memorias binarias y divisores de frecuencia usando neones.
+Estos circuitos aparecieron en órganos electrónicos en la década de 1950, así como en alguna instrumentación.
+Las lámparas de neón pequeñas se usan como indicadores en equipos electrónicos.
+Las mayores se usan en letreros de neón, ya que debido a su bajo consumo eléctrico son buenas luces nocturnas.
+Debido a su relativamente rápido tiempo de respuesta, en los primeros desarrollos de la televisión las lámparas de neón se usaron como fuente de luz en muchas pantallas de televisión mecánica.
+También se usaron para muchos otros fines: dado que una lámpara de neón puede actuar como oscilador de relajación con la adición de una resistencia y un condensador, puede ser usada como una lámpara intermitente simple u oscilador de sonido.
+Las lámparas de neón con electrodos de diversas formas llamadas tubos Nixie también se usan como displays alfanuméricos,
+(fue creada en Estados Unidos).
+En las lámparas excitadas con corriente alterna ambos electrodos producen luz, pero en las excitadas con corriente continua sólo brilla el electrodo negativo, por lo que puede usarse para distinguir entre fuentes de corriente alterna y continua, así como para asegurar la polaridad de las fuentes de continua.
+Las lámparas de tamaño pequeño también pueden rellenarse con argón o xenón en lugar de neón, o mezclado con ese.
+Aunque la mayoría de las características operativas permanecen iguales, las lámparas emiten una luz azulada (incluyendo alguna ultravioleta) en lugar del característico brillo rojo anaranjado del neón.
+La radiación ultravioleta puede también usarse para excitar un recubrimiento de fósforo del interior de la bombilla y proporcionar así una amplia gama de diversos colores, incluyendo el blanco.
+Una mezcla de neón y kriptón puede usarse para obtener luz verde.
+El color de las lámparas depende de lo que estén rellenas
+Este tipo de Neón también puede utilizarse para hacer carteles exteriores, aunque antiguamente no se utilizaba tanto para esta utilidad ya que el trabajo que suponía era muy superior ha hacer cualquier tipo de letra corpórea.

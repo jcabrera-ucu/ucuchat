@@ -1,0 +1,60 @@
+Un termopar o termocupla por su traducción del inglés thermocouple, es un transductor formado por la unión de dos metales distintos que produce una diferencia de potencial muy pequeña (del orden de los milivoltios) que es función de la diferencia de temperatura entre uno de los extremos denominado «punto caliente» o «unión caliente» o de «medida» y el otro llamado «punto frío» o «unión fría» o de «referencia» (efecto Seebeck).
+Normalmente los termopares industriales están compuestos por un tubo de acero inoxidable u otro material.
+En un extremo del tubo está la unión, y en el otro el terminal eléctrico de los cables, protegido dentro de una caja redonda de aluminio (cabezal).
+En instrumentación industrial, los termopares son usados como sensores de temperatura.
+Son económicos, intercambiables, tienen conectores estándar y son capaces de medir un amplio rango de temperaturas.
+Su principal limitación está en la exactitud, pues es fácil obtener errores del sistema cuando se trabaja con precisiones inferiores a un grado Celsius.
+El grupo de termopares conectados en serie recibe el nombre de termopila.
+Tanto los termopares como las termopilas son muy usados en aplicaciones de calefacción a gas.
+Además de lidiar con la compensación de unión fría, el instrumento de medición debe además enfrentar el hecho de que la energía generada por un termopar no es una función lineal de la temperatura.
+Esta dependencia se puede aproximar por un polinomio complejo (de grado 5 a 9, dependiendo del tipo de termopar).
+Los métodos analógicos de linealización son usados en medidores de termopares de bajo costo.
+Los termopares están disponibles en diferentes formatos, como sondas.
+Estas últimas son ideales para variadas aplicaciones de medición, por ejemplo, en la investigación médica, sensores de temperatura para los alimentos, en la industria y en otras ramas de la ciencia, en generadores termoeléctricos de radioisótopos, etc.
+A la hora de seleccionar una sonda de este tipo debe tenerse en consideración el tipo de conector.
+Los dos tipos son el modelo «estándar», con pines redondos y el modelo «miniatura» con pines chatos, siendo estos últimos (contradictoriamente al nombre de los primeros) los más populares.
+Otro punto importante en la selección es el tipo de termopar, el aislamiento y la construcción de la sonda.
+Todos estos factores tienen un efecto en el rango de temperatura a medir, precisión y fiabilidad en las lecturas.
+Por otro lado, los termopares tipo B, R y S son los más estables, pero debido a su baja sensibilidad (10 µV/°C aprox.) generalmente son usados para medir altas temperaturas (superiores a 300 °C).
+Los termopares con una baja sensibilidad, como en el caso de los tipos B, R y S, tienen además una resolución menor.
+La selección de termopares es importante para asegurarse que cubren el rango de temperaturas a medir.
+La mayor parte de los problemas de medición y errores con los termopares se deben a la falta de conocimientos del funcionamiento de los termopares.
+A continuación, un breve listado de los problemas más comunes que deben tenerse en cuenta.
+La mayoría de los errores de medición son causados por uniones no intencionales del termopar.
+Se debe tener en cuenta que cualquier contacto entre dos metales distintos creará una unión.
+Si lo que se desea es aumentar la longitud de las guías, se debe usar el tipo correcto del cable de extensión.
+Así por ejemplo, el tipo K corresponde al termopar K. Al usar otro tipo se introducirá otra unión termopar (generando error en la medición).
+Cualquiera que sea el conector empleado debe estar hecho del material termopar correcto y su polaridad debe ser la adecuada.
+Lo más correcto es emplear conectores comerciales del mismo tipo que el termopar para evitar problemas y errores de medición.
+Para minimizar la desviación térmica y mejorar los tiempos de respuesta, los termopares están integrados con delgados cables.
+Esto puede causar que los termopares tengan una alta resistencia, la cual puede hacer que sea sensible al ruido y también puede causar errores debidos a la resistencia del instrumento de medición.
+Una unión termopar típica expuesta con 0,25 mm tendrá una resistencia de cerca de 15 ohmios por metro.
+Si se necesitan termopares con delgadas guías o largos cables, conviene mantener las guías cortas y entonces usar el cable de extensión, el cual es más grueso (lo que significa una menor resistencia) ubicado entre el termopar y el instrumento de medición.
+Se recomienda medir la resistencia del termopar antes de utilizarlo.
+El desajuste es el proceso de alterar accidentalmente la conformación del cable del termopar.
+La causa más común es la difusión de partículas atmosféricas en el metal a los extremos de la temperatura de operación.
+Otras causas son las impurezas y los químicos del aislante difundiéndose en el cable del termopar.
+Si se opera a elevadas temperaturas, se deben revisar las especificaciones del aislante de la sonda.
+Tenga en cuenta que uno de los criterios para calibrar un instrumento de medición, es que el patrón debe ser por lo menos 10 veces más preciso que el instrumento a calibrar.
+La salida de un termopar es una pequeña señal, así que es susceptible de error por ruido eléctrico.
+La mayoría de los instrumentos de medición rechazan cualquier modo de ruido (señales que están en el mismo cable o en ambos) así que el ruido puede ser minimizado al retorcer los cables para asegurarse que ambos recogen la misma señal de ruido.
+Si se opera en un ambiente extremadamente ruidoso (por ejemplo cerca de un gran motor), es necesario considerar usar un cable de extensión protegido.
+Si se sospecha de la recepción de ruido, primero se deben apagar todos los equipos sospechosos y comprobar si las lecturas cambian.
+Sin embargo, la solución más lógica es diseñar un filtro pasabajos (resistencia y condensador en serie) ya que es probable que la frecuencia del ruido (por ejemplo de un motor) sea mucho mayor a la frecuencia con que oscila la temperatura.
+O ponerle un repetidor después del termopar para que la señal en el cable sea mayor y que el equipo receptor este compensado para poder acoplar ese repetidor.
+Estas tensiones pueden ser causados tanto por una recepción inductiva (un problema cuando se mide la temperatura de partes del motor y transformadores) o por las uniones a conexiones terrestres.
+Un ejemplo típico de uniones a tierra sería la medición de un tubo de agua caliente con un termopar sin aislamiento.
+Si existe alguna conexión terrestre pueden existir algunos voltios entre el tubo y la tierra del instrumento de medición.
+Estas señales están una vez más en el modo común (las mismas en ambos cables del termopar) así que no causarán ningún problema con la mayoría de los instrumentos siempre y cuando no sean demasiado grandes.
+Los voltajes del modo común pueden ser minimizados al usar los mismos recaudos del cableado establecidos para el ruido, y también al usar termopares aislados.
+Si el sensor está expuesto a cables de alta tensión se puede presentar un voltaje que aparece en solo una de las líneas de este, este ruido se puede disminuir transmitiendo la señal en corriente.
+Al calentar la masa de los termopares se extrae energía que afectará a la temperatura que se trata determinar.
+Considérese por ejemplo, medir la temperatura de un líquido en un tubo de ensayo: existen dos problemas potenciales.
+El primero es que la energía del calor viajará hasta el cable del termopar y se disipará hacia la atmósfera reduciendo así la temperatura del líquido alrededor de los cables.
+Un problema similar puede ocurrir si un termopar no está suficientemente inmerso en el líquido, debido a un ambiente de temperatura de aire más frío en los cables, la conducción térmica puede causar que la unión del termopar esté a una temperatura diferente del líquido mismo.
+En este ejemplo, un termopar con cables más delgados puede ser útil, ya que causará un gradiente de temperatura más pronunciado a lo largo del cable del termopar en la unión entre el líquido y el aire del ambiente.
+Si se emplean termopares con cables delgados, se debe prestar atención a la resistencia de la guía.
+El uso de un termopar con cables delgados conectados a un termopar de extensión mucho más gruesa a menudo ofrece el mejor resultado.
+Estudios realizados sobre el comportamiento de termopares han permitido establecer tres leyes fundamentales:
+Por estas leyes se hace evidente que en el circuito se desarrolla una pequeña tensión continua proporcional a la temperatura de la unión de medida, siempre que haya una diferencia de temperaturas con la unión de referencia.
+Los valores de esta f.e.m. están tabulados en tablas de conversión con la unión de referencia a 0 °C.

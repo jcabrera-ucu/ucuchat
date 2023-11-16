@@ -1,0 +1,12 @@
+ROC de Música  o Reconocimiento Óptico de Música (OMR) es la tecnología que permite el reconocimiento óptico de caracteres (OCR por Optic Character Reconization) para interpretar partituras o partituras impresas en formato editable o reproducible.
+Una vez procesada, la música se puede guardar en formatos de uso común, por ejemplo: MIDI (para reproducción) y MusicXML (para diseño de página).
+Las primeras investigaciones en el reconocimiento de las partituras impresas se realizaron a finales de 1960 en el MIT y otras instituciones.
+Se hicieron esfuerzos sucesivos para localizar y eliminar las líneas del pentagrama musical dejando los símbolos para ser reconocidos y analizados.
+El primer producto comercial para analizar música, MIDISCAN (ahora SmartScore), fue lanzado en 1991 por la empresa Musitek.
+A diferencia de OCR de texto, donde las palabras se analizan de forma secuencial, la notación musical involucra elementos paralelos, como cuando varias voces están presentes junto con los símbolos de rendimiento desvinculados.
+Por lo tanto, la relación espacial entre las notas, marcas de expresión, dinámica, articulaciones y otras anotaciones son una parte importante para la expresión de la música.
+Entre los programas actuales para OMR están:
+PDFtoMUSIC por Myriad es a menudo visto como un software OCR música, pero de hecho no hace ningún reconocimiento óptico de caracteres.
+El programa simplemente lee los archivos PDF que han sido creados por algunos editores musicales, localiza los glifos musicales que se han escrito directamente como caracteres de una fuente de notación musical.
+El reconocimiento óptico consiste en la conclusión de la relación musical de esos glifos de su posición relativa en el espacio, es decir, en la página lógica del documento PDF, y combinar estos en una partitura musical.
+Sólo la versión profesional puede exportar a un archivo MusicXML, mientras que la versión estándar sólo funciona para los scorewriters por Myriad.

@@ -1,0 +1,27 @@
+En microelectrónica, una oblea o lámina es una placa fina de un material semiconductor, por ejemplo el silicio, con la que construyen microcircuitos mediante técnicas de dopado (por ejemplo, difusión o implantación de iones), grabado químico y deposición de varios materiales.
+Las obleas tienen, de esta manera, una importancia clave en la fabricación de dispositivos semiconductores tales como los circuitos integrados o las células solares.
+Se fabrican diferentes tamaños que abarcan desde 1 pulgada (25,4 mm) hasta 11,8 pulgadas (300 mm) y calibres del orden de medio milímetro.
+Generalmente se obtienen mediante el corte de grandes cilindros de material semiconductor utilizando discos de diamante para después ser pulidas por una de sus caras.
+En las obleas por debajo de 200 mm normalmente se indican los planos cristalográficos de alta simetría mientras que en las antiguas (aquellas con diámetro inferior a 100 mm) se indican la orientación de la oblea y el tipo de dopado (ver ilustración).
+Las obleas modernas cuentan con una muesca para referir esta información, evitando así el desperdicio de material.
+La orientación es importante en tanto en cuanto muchas de las propiedades electrónicas y estructurales de los cristales simples son altamente anisotrópicas.
+Por ejemplo, la formación de planos definidos en los cristales en las obleas solamente sucede en algunas direcciones concretas.
+Grabando las obleas en dichas direcciones facilita su posterior división en chips individuales de modo que los miles de millones de elementos de una oblea media pueden ser separados en multitud de circuitos individuales.
+A partir de las obleas se inicia el estampado en superficie de los circuitos integrados mediante fotolitografía, nanolitografía y otras técnicas.
+El testeo de las obleas tiene lugar durante la fabricación de los dispositivos semiconductores.
+En este paso, realizado antes de la división de la oblea, se prueban todos los circuitos integrados individuales presentes en ella para comprobar que no haya errores funcionales.
+Estas pruebas son llevadas a cabo por un dispositivo especial llamado probador de obleas o wafer prober, siendo las más comunes: Wafer Sort (WS), Wafer Final Test (WFT), Electronic Die Sort (EDS) y Circuit Probe (CP).
+Cuando un chip concreto supera todos estos patrones de prueba, se almacena su posición en la oblea para su uso posterior durante la fase de encapsulación.
+A veces un chip cuenta con recursos internos de repuesto disponibles para una eventual reparación (por ejemplo, los CI dedicados a memoria flash).
+Si un chip no supera las pruebas, pueden utilizarse estas partes; sin embargo, si no es posible aplicar la redundancia de componentes o ésta no soluciona el problema, el chip es considerado defectuoso y se descarta.
+Los circuitos no válidos suelen marcarse con una pequeña gota de tinta en el centro, así como en un archivo que funciona como mapa de la oblea llamado wafermap donde se clasifican los chips como válidos o no. Este archivo es enviado entonces a la zona de ensamblado de chips, donde solamente toman aquellos circuitos marcados como adecuados.
+En algunos casos muy específicos, un chip que pasa solamente algunas de las pruebas puede ser utilizado igualmente, pero con ciertas limitaciones.
+El ejemplo más común de ello es un microprocesador en el cual solamente una parte de la caché integrada funciona.
+En ese caso, el procesador puede que sea vendido como componente de bajo coste al contar con menos memoria y por tanto, proporcionar un menor rendimiento.
+Por otra parte, una vez que los chips defectuosos han sido identificados, éstos pueden ser empleados por el personal de la cadena de producción para pruebas del sistema de ensamblado.
+Los contenidos de todos los patrones de prueba y la secuencia en que son aplicados a un circuito integrado forman parte de lo que se conoce como programa de prueba.
+Una vez empaquetados, los chips serán comprobados de nuevo durante la fase de prueba del circuito integrado, normalmente con patrones iguales o muy similares a los anteriores.
+Por este motivo, puede pensarse que la comprobación de las obleas resulta innecesaria y redundante.
+En realidad no es así, ya que la retirada de los chips defectuosos supone un importante ahorro al no empaquetar en la siguiente fase dispositivos defectuosos.
+Sin embargo, en caso de que las pruebas de las obleas resulten más caras que el empaquetado de los dispositivos defectuosos puede saltarse el primer paso, pasando todos los chips a la fase de ensamblado.
+Adaptación de

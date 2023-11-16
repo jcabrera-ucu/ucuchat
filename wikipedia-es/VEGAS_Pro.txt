@@ -1,0 +1,69 @@
+Vegas Pro, anteriormente conocido como Sony Vegas, es un software de edición de video de tipo edición no lineal y editor de audio diseñado para PC.
+Está orientado tanto a la edición de vídeos profesionales como al mercado de consumidores.
+Anteriormente se llamaba Sony Vegas porque originalmente fue publicado por Sony Creative Software, pero tras ser comprado por la empresa MAGIX, el nombre pasó a ser Vegas Pro.
+Originalmente desarrollado como un editor de audio, con el tiempo se convirtió en un sistema de edición no lineal a partir de la versión 2.0.
+Ofrece edición de vídeo y audio en tiempo real en múltiples pistas, soporte de audio en 24-bit/192 kHz, mezclas de audio en calidad Dolby Digital, y soporte para complementos tales como DirectX y VST.
+Vegas Pro puede utilizarse en Windows XP hasta la versión 10, ya que la versión 11 sólo ofrece soporte desde Windows Vista en adelante.
+Desde la versión 12 Vegas Pro dejó de ofrecer su versión de 32 bits y solo puede utilizarse en sistemas operativos de 64 bits.
+Tiene una versión destinada a los consumidores llamada Vegas Movie Studio (anteriormente titulado  VideoFactory y Screenblast) que comparte la misma interfaz y el mismo código fuente con la versión profesional Vegas, aunque no incluye características profesionales como herramientas de composición avanzadas o creación de discos Blu-ray.
+En versiones anteriores, la parte de edición de vídeo de la suite profesional podía comprarse por separado de Sony DVD y el software de creación Blu-ray, DVD Architect Pro (anteriormente llamado DVD Architect, DVD Architect Studio en la versión de consumo), y luego un paquete llamado "Vegas + DVD" se hizo disponible mientras que Vegas 7 estaba fuera.
+Desde el lanzamiento de Vegas Pro 8.0, tanto en DVD Architect Studio Pro 4.5, Vegas Pro 8.0, Boris FX LTD  y Magic Bullet Looks HD Movie están todos agrupados y no siempre se puede comprar individualmente.
+Vegas Pro, como muchos editores de vídeo modernos, ofrece edición no destructiva de cualquier formato de vídeo reconocido; es decir, los archivos se manipulan sin alterar su contenido.
+Soporta vídeos en alta definición (HD, High Definition), 2K y 4K procedentes de cámaras RED, ilimitadas pistas de audio y vídeo y cualquier proporción de vídeo (4:3, 16:9, etc.), bajo numerosas tasas de cuadros por segundo (23, 24, 25, 29, 30, 60,97 etc.).
+Esta información se puede configurar en cualquier momento durante la edición.
+Reconoce, también, cámaras que utilizan interfaz digital Firewire y puede captar con calidad el vídeo sin necesidad de otros programas.
+Es capaz de manipular audio de alta definición 24-bit / 192 kHz, con más de 30 efectos personalizables incluidos en el software.
+También permite la edición de pistas multicanal 5.1 con soporte para el codec AC3 de Dolby Laboratories (popularmente Dolby Digital) y DTS, además de cambios en las posiciones de audio envolvente utilizando fotogramas clave.
+Tiene herramientas de creación de caracteres, transiciones convencionales o 3D, filtros de audio y vídeo y un sistema de composición 3D por encima de la media, con arreglo espacial de múltiples planos y utilización de fotogramas clave.
+El uso de fotogramas clave se da prácticamente en cualquier recurso disponible en el software, como efectos visuales, caracteres, medios generados, composición 2D o 3D y controles de máscaras, posición, rotación y tamaño.
+No necesita hardware específico para funcionar correctamente, por lo que el programa es compatible con cualquier ordenador que pueda ejecutar versiones de Windows desde XP.
+Sin embargo, por tratarse de un editor de vídeo, se recomienda una cantidad de memoria RAM y de vídeo razonable, ya que, para manipular archivos de video adecuadamente, son bastante solicitados.
+Las principales pestañas de la interfaz todavía quedaban en posiciones verticales diferentes de los otros editores no lineales, por ejemplo: la línea del tiempo (Timeline) se ubicaba por encima de la ventana de visualización del proyecto (Preview).
+Este hecho curioso está directamente vinculado a sus orígenes como editor de audio, pues, en otros programas de la antigua Sonic Foundry - que fue adquirida por Sony y posteriormente por MAGIX - como el Sound Forge (editor de audio profesional), esta configuración visual todavía está presente.
+Por definición, la interfaz invertida de Sony Vegas prosiguió hasta la versión 7.0.
+Desde el Sony Vegas Pro 8.0, lanzado en septiembre de 2007, se convierte en la línea de tiempo por debajo de la ventana de visualización del proyecto, como en la mayoría de los programas de edición de vídeo.
+La antigua interfaz sigue existiendo, pero como una función adicional a ser decidida por el usuario.
+Ventana situada en la esquina izquierda de la pantalla.
+En ella, hay varias fichas con diversas funciones, tales como navegar por los archivos del proyecto (Project Media), explorar archivos almacenados en las carpetas del ordenador, transiciones de vídeo (Transitions), efectos visuales (Video FX) y generador de caracteres (Media Generators).
+Antes opcional, a partir de la versión 9.0, se hace presente en la interfaz del software.
+La ventana de trimmer no suele ser utilizada de manera extensiva en VEGAS, sus propiedades se explotan en editores como Final Cut Pro y Adobe Premiere.
+Sin embargo, tiene como principales funciones la visualización - sin la necesidad de utilizar la línea del tiempo - de los archivos de proyecto depositados en la pestaña Proyecto Media y pre-edición del material a ser manipulado, con la posibilidad de cortes y consecuente creación de nuevos tramos.
+Se encuentra al lado del navegador.
+Ventana que, posiblemente, forma parte de todo el software de edición de vídeo.
+En ella, los medios manipulados en la línea del tiempo, incluyendo todos sus cambios, pueden ser visualizados.
+En la versión 9.0, la calidad de la reproducción, antes definida manualmente por el usuario, gana una función automática, que aumenta o disminuye la definición de acuerdo con la potencia de procesamiento del ordenador.
+Sigue, por supuesto, la posible modificación manual entre los diferentes modos de reproducción.
+Corazón de la edición de vídeo, esta región, en la pantalla, se localiza debajo de todas las otras ventanas y / o funciones arriba citadas.
+Suele ocupar toda la extensión horizontal de la pantalla y la mitad de la proporción vertical.
+En la Timeline (en español, Línea del Tiempo), todos los medios del proyecto son manipulados.
+El resultado de esta manipulación, de cortes y transiciones a efectos especiales y caracteres, es el archivo de vídeo editado.
+Sonic Foundry Inc anuncia el 18 de septiembre de 1999 su software de edición de vídeo con el nombre comercial de VideoFactory.
+Utilizando las mismas tecnologías de Sonic Foundry de Vegas, esta versión incluye nuevas características de edición como:
+El 23 de julio de 2001 se anuncia la nueva versión de VideoFactory con las siguientes características:
+El lanzamiento de Vegas Video 3 se anuncia en la DV Expo 2001 el 3 de diciembre de 2001.
+Sonic Foundry Inc. anuncia el primer seminario para orientar a los usuarios a maximizar el uso de las herramientas ACID PRO 4, Sound Forge 6 y Vegas Video 3.
+Los temas discutidos fueron:
+La empresa Sonic Foundry Inc anunció el 16 de enero de 2003 la liberación del Vegas 4.0 beta [6] y el 6 de febrero de 2003 anuncia el lanzamiento de la versión final.
+Sony Creative Software anuncia el Sony Vegas 5 el 10 de noviembre de 2004 con soporte para las cámaras HVR-Z1U y HVR-M1OU VTR.
+La empresa Sony Creative Software anuncia el 18 de abril de 2005 el lanzamiento de Vegas 6 con el nombre comercial de Vegas + DVD Production Suite.
+Anunciado la nueva versión de Vegas en la feria IBC el 7 de septiembre de 2006.
+Que se estrenó el 30 de agosto de 2007 y ahora comercialmente vendido como Sony Vegas Pro 8.0, esta versión ofreció una mejor integración de todas las fases de la edición de vídeo, audio, creación de DVD y producción de broadcast en un solo paquete.
+En este caso el usuario podría editar y procesar DV, AVCHD, HDV, SD / HD-SDI, y todos los formatos de XDCAM en tiempo real.
+El 20 de abril de 2009, el Sony Vegas Pro 9.0 se lanzó con el diferencial de soporte para cámaras digitales de cine, que incluyeron:
+La última versión de Sony Vegas Pro 9.0 fue la 9.0d (lanzada el 12 de abril de 2010), que incluía soporte para archivos PSD de Photoshop y mejoras en la importación de archivos en el formato de la Sony XDCAM MXF.
+Lanzado el 11 de octubre de 2010, Sony Vegas Pro 10 presentaba nuevas características como:
+Sony Vegas Pro 11 fue anunciado el 9 de septiembre de 2011 y lanzado el 17 de octubre de 2011.
+Anunciado el día 7 de septiembre de 2012 en la feria IBC y lanzado el día 10 del mismo mes, el Sony Vegas Pro 12 presenta a las siguientes novedades:
+Anunciado el 7 de abril de 2014, esta versión presenta nuevas herramientas colaborativas y la simplificación en el flujo de trabajo en tres configuraciones:
+Anunciado el 20 de septiembre de 2016, cuatro meses después de la adquisición de las acciones de Sony Creative Software, MAGIX lanzó la nueva versión del software, que dejó de ser asociado a la antigua marca y pasó a llamarse sólo VEGAS Pro 14.
+Entre las nuevas características, están el escalado en 4K, la automatización de funciones a través de scripts, soporte a las últimas cámaras RED, así como varias otras correcciones de problemas y diversos otros recursos.
+Anunciado el 28 de agosto de 2017, esta versión presenta nueva interfaz y nuevas herramientas, corrección de algunos comandos, aceleración de GPU y facilitación de otras herramientas.
+Fue anunciado en agosto de 2018 y presenta novedades como el seguimiento de movimiento avanzado, la estabilización de video de primera clase, el guion gráfico (storyboard) dinámico, la interacción entre guiones gráficos y líneas de tiempo, el soporte para edición de vídeo en 360°, un complemento OFX de máscara Bézier (para edición de audio y video poderosa), entre otras...
+Anunciado el 5 de agosto de 2019.
+Contiene estas nuevas características:
+Publicado el 3 de agosto de 2020.
+Nuevas funciones:
+Publicado el 18 de agosto de 2021.
+Nuevas funciones:
+Publicado el 10 de agosto de 2022.
+Nuevas funciones:

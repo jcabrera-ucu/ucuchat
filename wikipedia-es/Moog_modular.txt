@@ -1,0 +1,18 @@
+El término sintetizador modular Moog hace referencia a cualquier sintetizador ya sea modular monofónico o analógico, diseñado por el ingeniero estadounidense Robert Moog (1934-2005), quien fue pionero instrumentista electrónico.
+Este sintetizador fue fabricado por R.A Moog Co. (Moog Music después de 1972) aproximadamente desde 1963 hasta 1981.
+Con el Moog era posible crear un número casi infinito de sonidos.
+El Moog modular era un sintetizador que se formaba a partir de la combinación de distintos módulos, por lo que su estructura no era siempre la misma.
+Cada módulo controlaba unas funciones determinadas.
+Como los módulos se vendían por separado, cada Moog se podía configurar según las necesidades específicas que cada músico demandaba.
+Las posibilidades eran casi infinitas y cada cual buscaba la configuración que deseaba.
+El primer Moog modular fue ensamblado en un enorme armario.
+Los distintos circuitos que generaban y filtraban el sonido se conectaban mediante cables que se podían intercambiar, como si se tratase de una centralita telefónica (igual que en los patchs).
+El núcleo básico del sintetizador era el módulo con el filtro paso bajo (corta las altas frecuencias dejando pasar solo los sonidos graves en función del límite (frecuencia de corte) preseleccionada con el potenciómetro.
+Desde su primera versión, el Moog superaba en prestaciones a los prototipos que la Radio Corporation of America (RCA) comercializaba (desarrollos a partir de sus MARK I y II).
+Además, el Moog era mucho más barato, pues costaba 11.000 dólares frente a los 100.000 dólares de un prototipo de la RCA.
+En 1964, Robert Moog, también creó uno de los primeros módulos de tensión controlada para sintetizadores de música, y lo dio a conocer en la convención AES de ese año.
+Los empleados de Moog, empresa dedicada a fabricar y comercializar sus sintetizadores que, a diferencia de los sintetizadores creados por Don Buchla (otra figura destacada en la temprana historia del sintetizador), presentó un piano al estilo de teclado como una parte importante de la interfaz de usuario.
+Moog, también, estableció las normas para la interfaz del control del sintetizador analógico, con un control de tono logarítmico de un voltio por octava y un activador separado de la señal de pulso.
+El primer sistema de Moog fue comprado por el coreógrafo Alwin Nikolais.
+Lothar and the Hand People, una banda estadounidense de rock psicodélico, fueron pioneros en el uso del sintetizador modular Moog en 1965.
+Los compositores Jean-Jacques Perrey y Gershon Kingsley fueron los primeros en grabar un disco con este sintetizador, Kaleidoscopic Vibrations, en 1967.

@@ -1,0 +1,82 @@
+El óxido de grafito, formalmente llamado óxido grafítico o ácido grafítico, es un compuesto de carbono, oxígeno e hidrógeno en proporciones variables, obtenido tras el tratamiento de grafito con un oxidante fuerte.
+El producto con mayor grado de oxidación es un sólido amarillo con una proporción C:O de entre 2.1 y 2.9 que mantiene la estructura en capas del grafito pero con un espacio entre capas mucho más grande e irregular.
+El óxido de grafito en medio básico se dispersa en forma de hojitas monomoleculares conocidas como óxido de grafeno, por analogía con el grafeno, que es una única capa de grafito.
+El óxido de grafeno en forma de láminas se ha empleado para fabricar un material muy resistente y que recientemente ha atraído la atención como una posible fuente de obtención de grafeno.
+Sin embargo, este método, cuyos primeros resultados se alcanzaron en 2012, proporciona grafeno con una estructura muy defectuosa.
+El óxido de grafito lo sintetizó por primera vez el químico Benjamin C. Brodie en Oxford, en 1859, tratando grafito con una mezcla de clorato de potasio y ácido nítrico fumante.
+En 1957, William S. Hummers y Richard E. Offeman desarrollaron un método más seguro, rápido y eficiente usando una mezcla de ácido sulfúrico H2SO4, nitrato de sodio NaNO3 y permanganato potásico KMnO4, que se sigue usando ampliamente, a menudo con modificaciones.
+Cabe destacar que los óxidos de grafito tienen propiedades físicas y químicas distintas, dependiendo del grado de oxidación del grafito y el método de obtención.
+Por ejemplo, la temperatura de exfoliacion explosiva es en general más alta para el grafito obtenido mediante el método de Brodie, en comparación con el que se prepara según el método de Hummers.
+La diferencia llega a ser de 100 grados con el mismo calentamiento.
+Las propiedades de hidratación y solvatación de los óxidos de grafito de Brodie y Hummers también son muy distintas.
+Recientemente, una mezcla de H2SO4 y KMnO4 ha sido usada para abrir nanotubos de carbono a lo largo, dando lugar a cintas planas de grafeno de varios átomos de ancho, con los bordes cerrados con átomos de oxígeno(=O) o grupos hidroxilo (-OH).
+El óxido de grafeno también se puede preparar por el método de "Tan-Lau" en el que se utiliza glucosa.
+Este método es más seguro, simple y ecológico en comparación con las reacciones tradicionales en las que se usan oxidantes fuertes.
+Otra gran ventaja del método Tan-Lau es la posibilidad de controlar fácilmente el grosor de las láminas del producto.
+y se vuelve amarillo
+Aunque la estructura y propiedades del óxido de grafito dependen del método de obtención y el grado de oxidación.
+Normalmente se conserva la estructura de las capas de la materia prima, pero las láminas están separadas entre sí por el doble de distancia.
+(~0.7 nm) que en el grafito.
+Estrictamente hablando, "óxido" es un nombre incorrecto pero históricamente asentado.
+Además de grupos de oxígeno epóxido (átomos puente de oxígeno), se han hallado experimentalmente los siguientes grupos funcionales: carbonilo (=CO), hidroxilo (-OH), fenol y grupos organosulfurados enlazados por ambos lados
+El óxido de grafito es muy hidrofílico y es fácilmente hidratable si se expone a vapor de agua o se sumerge en agua, conduciendo a un aumento de la distancia interlaminar (hasta 1.2 nm en estado saturado).
+El estado de hidratación máximo del óxido de grafito en agua líquida corresponde a 3 capas de agua entre capas sucesivas de grafeno, el enfriamiento de muestras de óxido de grafito hidratado da lugar a una expansión térmica pseudonegativa.
+La eliminación completa del agua del óxido de grafito es muy complicada debido a que se produce una descomposición y degradación parcial entre 60 y 80 °C.
+Al igual que el agua, el óxido de grafito puede también incorporar fácilmente otros disolventes polares como los alcoholes.Sin embargo, la intercalación ocurre de forma distinta en los óxido de grafito obtenidos por el proceso de Brodie o de Hummers.
+En el caso del óxido de grafito de Brodie una capa de alcohol u otros disolventes polares se intercalan entre dos capas de óxido.
+(por ejemplo, la dimetilformamida y la acetona) cuando el disolvente líquido está disponible en exceso.
+La separación entre las capas de grafeno es proporcional al tamaño de la molécula del alcohol.
+El óxido de grafito de Hummers puede ser intercalado por dos capas de metanol o etanol a temperatura ambiente.
+La distancia entre capas en un medio con exceso de metanol o etanol aumenta con el descenso de la temperatura, alcanzando 19.4 y 20.6 Å a 140 K para el metanol y el etanol, respectivamente.
+La expansión gradual del óxido de grafito de Hummers corresponde a la inserción de al menos otras dos capas de disolvente.
+El óxido de grafito descompone rápidamente cuando se calienta a temperaturas moderadamente altas (~280–300 °C) formando carbono amorfo, parecido al carbón activado.
+Al disolver el óxido de grafito en agua, este se separa en láminas de grafeno.
+La disolución obtenida se filtra con la ayuda de una membrana especial en la que las capas de grafeno se vuelven juntar en una estructura más resistente que en el grafito.
+Las capas del grafito normal suelen estar débilmente unidas, pero en el papel de grafeno las capas se entrelazan entre sí lo que permite distribuir los esfuerzos por igual por toda la estructura, haciéndola más resistente.
+La forma en la que se entrelazan las distintas capas de grafeno permite un ligero movimiento de éstas haciendo que el material sea flexible.
+Lo que es más importante, se puede manipular químicamente las propiedades de este tipo de papel.
+Reduciendo la cantidad de átomos de oxígeno en las capas, se puede incrementar la conductividad eléctrica.
+La gran superficie plana del óxido de grafito permite investigar al mismo tiempo varias sondas de hibridación marcadas con distintos colorantes haciendo posible el hallazgo de varios objetivos de ADN en la misma disolución.La investigación futura puede dar como resultado un nuevo método de análisis de ADN más rápido y barato.
+Uno de los usos sugeridos del óxido de grafito es la eliminación del agua de contaminantes indeseables.
+El óxido de grafito de Brodie ha demostrado absorber selectivamente el metanol de mezclas metanol/agua en cierto rango de concentraciones de metanol.
+Desde la perspectiva de la ciencia de materiales, el grafeno ofrece el atractivo de poseer excelentes propiedades mecánicas, térmicas, eléctricas y ópticas, que le convierten en candidato ideal para aplicaciones en áreas tan diversas como la nanoelectrónica, los sensores moleculares, los materiales compuestos, el almacenamiento de energía o la liberación controlada de fármacos.
+La conductividad eléctrica se puede recuperar mediante la restauración de enlaces de carbono sp2 por lo que es muy importante la reducción del GO39.
+El óxido de grafeno, en particular es un precursor prometedor para la producción a granel de materiales basados en grafeno.
+Una de las ventajas es que se puede sintetizar en grandes cantidades a partir del polvo de grafito, el cual es de bajo costo por lo que es atractivo para aplicaciones industriales.
+Los métodos de reducción química más habituales son aquellos que emplean agentes químicos.
+Entre ellos, el más habitual es el monohidrato de hidracina (N2 H4 H2O) que ya se empleaban para reducir el óxido de grafito antes de que fuera aislado el grafeno.
+La toxicidad de este compuesto hace que sea inapropiado para la síntesis de RGO en grandes cantidades, por ello se han buscado otros agentes reductores para sustituirlo.
+Entre ellos están los híbridos metálicos como el borohidrudo de sodio (NaBH4) que es más eficaz que la hidracina con los grupos carbonilo, pero su eficacia es baja con los grupos epoxi y los carboxílicos y es incapaz de eliminar los grupos alcohol.
+El ácido ascórbico (vitamina C) se propone como sustituto de la hidracina, ya que no es tóxico y permita alcanzar relaciones atómicas C/O semejantes.
+Además de estos también se han empleado reductores como el ácido yodhídrico (HI), la hidroquinona, la hidroxilamina, etc. Dentro de la reducción química también se incluyen métodos como la reducción electroquímica y la solvotermal.
+El principal inconveniente de la reducción química es que no permite la total eliminación de los grupos funcionales y además puede introducir heteroátomos en la estructura, como es el caso del nitrógeno cuando se emplea la hidracina.
+La primera ruta “verde” para la producción de dispersiones de grafeno a partir de óxido de grafito fue propuesta por Fan y cols, que descubrieron de manera fortuita que las suspensiones fuertemente alcalinas de óxido de grafeno podían ser desoxigenadas en gran medida por simple calentamiento a temperaturas de 50-90 °C.
+Los resultados de la caracterización por C-NMR y espectroscopía XPS revelaron la disminución de la concentración de funcionalidades oxigenadas con respecto a la de carbono sp2.
+Este método es muy atractivo por su sencillez, pero los resultados de estudios recientes han mostrado que la reducción que se alcanza es sólo parcial en comparación con la lograda al reducir con hidracina.
+La reducción electroquímica del óxido de grafeno se basa en la transferencia de electrones que se produce al hacer pasar una corriente eléctrica a través de una celda electroquímica formada por un cátodo de óxido de grafeno y un electrodo inerte que actúa como ánodo, ambos sumergidos en un electrolito que puede ser acuoso u orgánico.
+El cátodo de óxido de grafeno consiste en un filme de dicho material depositado sobre un sustrato como, por ejemplo, óxido de estaño e indio, carbón vítreo u otros.
+El potencial de celda necesario para que se produzca la reducción depende del pH del electrolito, de forma que cuanto más bajo sea el pH, más favorable será la reacción, lo que ha llevado a algunos a autores a proponer el siguiente mecanismo de reacción.
+La reducción térmica se puede realizar a distintas temperaturas, las más utilizadas están entre 1000 -1100 C, en diversas atmósferas (He, Ar, NH3, etc.) empleando diferentes fuentes de calor (hornos eléctricos, microondas, láser, plasma o corriente eléctrica).
+Dependiendo de las condiciones empleadas para su reducción el RGO tendrá diferentes características.
+Una de las principales ventajas de la reducción térmica es que permite reducir el GO o exfoliar y reducir directamente el óxido de grafito en un solo paso y, además, no es necesario emplear reactivos químicos.
+La exfoliación térmica del óxido de grafito se produce por la rápida expansión de los gases (CO, CO2, H2O) generados por la descomposición de los grupos funcionales oxigenados.
+Estos gases originan una presión elevada entre las capas que provoca su separación.
+Los principales inconvenientes de la reducción térmica so la creación de defectos topológicos y vacantes producidos durante la eliminación de los grupos funcionales.
+No obstante a temperaturas superiores a 1000 C se favorece la restauración de la estructura sp2 lo que
+permite la obtención de RGO con conductividades del orden de 2300 Sm-1
+Aunque mucho se habla de los defectos presentes en las láminas después de haber ocurrido la reducción, estos defectos pueden ser utilizados para otro tipo de aplicaciones que no serían posibles para el caso del grafeno común.
+Como ejemplo, los defectos permiten preparar suspensiones sin necesidad de surfactantes y aportan ciertas ventajas en determinadas aplicaciones entre ellas destacan las pilas de combustible o en baterías.
+Además su extrema sensibilidad a pequeñas variaciones como la química superficial o el grado de apilamiento, puede ser favorable para algunas aplicaciones como la detección, conmutación y almacenamiento de datos, la administración de fármacos, etc.
+Los reductores de óxido de grafeno, debido a la severidad del tratamiento contienen en mayor o menor medida defectos que pueden consistir en vacantes atómicas, agujeros o grupos funcionales remanentes.
+Al llevar a cabo la reducción de este óxido se sabe que la restauración total de la estructura del grafito pristínico en el plano basal es muy difícil, siendo este hoy en día uno de los retos a resolver.
+•	El óxido de grafeno es muy soluble en agua con ultrasonido o agitación mecánica, así como la característica de ser un material anfifílico, es decir, tienen una parte hidrofóbica y otra parte hidrofílica, propiedad de los tensoactivos.
+•	El GO tiene la facilidad de formar enlaces por puentes de hidrógeno debido a la propiedad hidrofílica que presenta.
+Esto podría presentar alteraciones en las propiedades eléctricas, mecánicas y estructurales.
+•	Las películas de óxido de grafeno presentan propiedades antibacterianas.
+•	Se ha observado que el GO se ha utilizado como biosensor, debido a las propiedades fluorescentes.
+•	El óxido de grafeno ha tomado gran relevancia desde su descubrimiento, ya que es el precursor para la obtención de grafeno a gran escala.
+•	El papel de óxido de grafeno, incluyendo su uso en membranas con permeabilidad controlada, y para las baterías o supercondensadores destinados a usos en el ámbito energético.
+•	El papel de óxido de grafeno también podría emplearse para crear materiales híbridos que contengan polímeros, cerámicas o metales, donde tales compuestos se comportan mucho mejor que los materiales existentes, como por ejemplo, en componentes para aviones, automóviles, edificios y enseres del sector deportivo.
+•	Las películas de GO se pueden emplear en campo médico o en la industria alimentaria como agentes esterilizantes.
+•	Se ha utilizado en el campo de la biomedicina con la posibilidad de hacer un mejor diagnóstico contra el VIH mediante la detección de proteínas y DNA
+•	El óxido de grafeno es de gran interés gracias para la comunidad científica debido a la facilidad con la que este puede ser el vehículo para la obtención de materiales funcionalizados y optimizados con nanopartículas.

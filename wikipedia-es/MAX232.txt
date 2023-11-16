@@ -1,0 +1,11 @@
+El MAX232 es un circuito integrado de Maxim que convierte las señales de un puerto serie RS-232 a señales compatibles con los niveles TTL de circuitos lógicos.
+El MAX232 sirve como interfaz de transmisión y recepción para las señales RX (recepción de datos), TX (transmisión de datos), CTS (listo para enviar) y RTS (solicitud de envío).
+El circuito integrado tiene salidas para manejar niveles de voltaje del RS-232 (aprox. ± 7.5 V) que las produce a partir de un voltaje de alimentación de + 5 V utilizando multiplicadores de voltaje internamente en el MAX232 con la adición de condensadores externos.
+Esto es de mucha utilidad para la implementación de puertos serie RS-232 en dispositivos que tengan una alimentación simple de + 5 V.
+Las entradas de recepción de RS-232 (las cuales pueden llegar a ± 25 V), se convierten al nivel estándar de 5 V de la lógica TTL.
+estos receptores tienen un umbral típico de 1.3 V, y una histéresis de 0.5 V.
+La versión MAX232A es compatible con la original MAX232, y tiene la mejora de trabajar con mayores velocidades de transferencia de información (mayor tasa de baudios), lo que reduce el tamaño de los condensadores externos utilizados por el multiplicador de voltaje, – 0.1 μF en lugar del 1.0 μF usado en el dispositivo original.
+Una versión más nueva de este circuito integrado, el MAX3232 también es compatible con el original, pero opera en un rango más amplio, de 3 a 5.5 V.
+El MAX232 es compatible con las versiones de otros fabricantes ICL232, ST232, ADM232, HIN232.
+Cuando un circuito integrado MAX232 recibe un nivel TTL lo convierte, cambia un nivel lógico TTL de 0 a un nivel comprendido entre +3 y +15 V, y cambia un nivel lógico TTL 1 a un nivel comprendido entre -3 a -15 V, y viceversa, para convertir niveles de RS232 a TTL.
+(en inglés)

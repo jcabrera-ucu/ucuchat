@@ -1,0 +1,8 @@
+En matemáticas, un par de Aaron se refiere a un par de números naturales consecutivos para el que la suma de los factores primos de uno es igual a la suma de los factores primos del otro.
+Estos pares de números reciben su nombre en honor del beisbolista Hank Aaron quien el 8 de abril de 1974 anotó su jonrón número 715, batiendo la marca anterior de Babe Ruth con 714.
+Los matemáticos Carol Nelson, David Penney y Carl Pomerance, de la Universidad de Georgia observaron que
+y que
+Intrigados por esta propiedad estudiaron otros pares de números consecutivos que cumplieran la misma propiedad y publicaron sus hallazgos en el Journal of Recreational Mathematics donde elaboraron una conjetura sobre la dispersión asintótica de estos pares, que bautizaron pares de Aaron.
+Poco después de la publicación, Paul Erdős afirmó poder demostrar la conjetura y elaboró un artículo conjunto con Pomerance.
+Si sólo consideramos factores primos distintos, las primeras parejas son:
+Si contamos factores primos repetidos (por ejemplo,8=2x2x2 y 9=3x3;2+2+2=3+3=6) las primeras parejas son:

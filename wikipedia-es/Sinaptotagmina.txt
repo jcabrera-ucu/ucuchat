@@ -1,0 +1,2 @@
+Las sinaptotagminas (SYT) son una familia de proteínas compuesta por 17 miembros caracterizados por una estructura muy conservada que consta de un dominio transmembrana N-terminal, un conector y dos dominios C-terminales sensibles al calcio: C2A y C2B.
+La sinaptotagmina más estudiada es la sinaptotagmina 1, que se encuentra en las vesículas sinápticas y participa en la transmisión sináptica mediante la detección de iones de calcio intracelular.

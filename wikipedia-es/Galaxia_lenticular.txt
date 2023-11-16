@@ -1,0 +1,74 @@
+Una galaxia lenticular es un tipo de galaxia intermedia entre una galaxia elíptica y una galaxia espiral que en la Secuencia de Hubble se clasifica como S0.
+Las galaxias lenticulares son con forma de disco, (al igual que las galaxias espirales) que han consumido o perdido gran parte de su materia interestelar (como las galaxias elípticas), y por tanto carecen de brazos espirales, aunque a veces existe cierta cantidad de materia interestelar, sobre todo polvo.
+Constituyen solo el 3 % de las galaxias del universo.
+La clase S0 fue definida por primera vez por Edwin Powell Hubble en 1936 como una forma intermedia entre las galaxias elípticas y las espirales; Gerard de Vaucouleurs refinó posteriormente esta secuencia y en ella se clasifican como: S0 (sin barra central), SAB0 (rudimento de barra central), y SB0 (con barra central).
+Además, también se habla de: E/S0 (galaxias elípticas que recuerdan a una lenticular), S0- (galaxias lenticulares muy parecidas a una elíptica), S00 (galaxias lenticulares con cierta estructura interna), y S0+ (polvo presente y en algunos casos entroncando con las galaxias espirales -clasificación mixta S0/a-); las dos clasificaciones -según presencia o no de barra central y según estructuras visibles o no- se combinan entre sí, al igual que las que indican si existen anillos o no en ellas (ver para más Secuencia de Hubble).
+Un sistema de clasificación de aparición bastante reciente desarrollado por los astrónomos John Kormendy y Ralf Bender es uno muy similar al utilizado para las galaxias espirales según el tamaño de su bulbo central y que transcurre de modo paralelo a la secuencia de las galaxias espirales; así se tienen las galaxias S0a-S0b-S0c (con las gradaciones intermedias S0ab y S0bc), análogas a las clasificaciones Sa, Sab, Sb, Sbc, y Sc para galaxias espirales y que entroncan con las galaxias esferoidales enanas; este sistema también distingue entre galaxias lenticulares con o sin barra del mismo modo que se describe arriba.
+Este esquema, obtenido a partir de estudios realizados de galaxias lenticulares situadas en el Cúmulo de Virgo, refuerza la idea de que las galaxias lenticulares y esferoidales, al menos en cúmulos de galaxias ricos, proceden de galaxias espirales e irregulares que han perdido su materia interestelar cómo se detalla a continuación.
+Y las características de la clasificación de las galaxias son el significado de cada una de ellas (S0 (sin barra central), SAB0 (rudimento de barra central), y SB0 (con barra central). Además, también se habla de: E/S0 (galaxias elípticas que recuerdan a una lenticular), S0- (galaxias lenticulares muy parecidas a una elíptica), S00 (galaxias lenticulares con cierta estructura interna), y S0+ (polvo presente y en algunos casos entroncando con las galaxias espirales -clasificación mixta S0/a-).
+Las galaxias lenticulares son únicas porque tienen un componente de disco visible y un componente de protuberancia prominente.
+Tienen una relación protuberancia-disco mucho mayor que las espirales típicas y no tienen la estructura canónica de brazos espirales de las galaxias de tipo tardío, aunque pueden mostrar una barra central.
+Esta dominancia de la protuberancia puede verse en la distribución de la relación de ejes (es decir, la relación entre los ejes menor y mayor observados en una galaxia de disco) de una muestra de galaxias lenticulares.
+La distribución de las galaxias lenticulares aumenta de forma constante en el intervalo de 0,25 a 0,85, mientras que la distribución de las espirales es esencialmente plana en ese mismo intervalo.
+Las relaciones axiales mayores pueden explicarse observando galaxias de disco de frente o teniendo una muestra de galaxias esferoidales (dominadas por el bulbo).
+Imagina que observas dos galaxias de disco de canto, una con protuberancia y otra sin protuberancia.
+La galaxia con una protuberancia prominente tendrá una relación axial de borde mayor que la galaxia sin protuberancia, según la definición de relación axial.
+Por tanto, una muestra de galaxias de disco con componentes esferoidales prominentes tendrá más galaxias con relaciones axiales mayores.
+El hecho de que la distribución de galaxias lenticulares aumente al aumentar la relación axial observada implica que las lenticulares están dominadas por un componente central con protuberancia.
+A menudo se considera que las galaxias lenticulares constituyen un estado de transición poco conocido entre las galaxias espirales y las elípticas, lo que se traduce en su ubicación intermedia en la secuencia de Hubble.
+Esto se debe a que las lenticulares tienen componentes prominentes tanto en el disco como en el bulbo.
+El componente del disco suele carecer de características, lo que impide un sistema de clasificación similar al de las galaxias espirales.
+Como la protuberancia suele ser esférica, tampoco se pueden clasificar como galaxias elípticas.
+Por tanto, las galaxias lenticulares se dividen en subclases en función de la cantidad de polvo presente o de la prominencia de una barra central.
+Las clases de galaxias lenticulares sin barra son S01, S02, y S03 donde los números con subíndice indican la cantidad de absorción de polvo en el componente del disco; las clases correspondientes para las lenticulares con barra central son SB01, SB02, y SB03.
+Los perfiles de brillo superficial de las galaxias lenticulares están bien descritos por la suma de un modelo de Sérsic para la componente esferoidal más un modelo exponencialmente decreciente (índice de Sérsic de n ≈ 1) para el disco, y a menudo una tercera componente para la barra.
+A veces se observa un truncamiento en los perfiles de brillo superficial de las galaxias lenticulares a ~ 4 longitudes de escala del disco.
+Estas características son consistentes con la estructura general de las galaxias espirales.
+Sin embargo, el componente del bulbo de las lenticulares está más estrechamente relacionado con las galaxias elípticas en términos de clasificación morfológica.
+Esta región esferoidal, que domina la estructura interna de las galaxias lenticulares, tiene un perfil de brillo superficial más pronunciado (el índice de Sérsic suele oscilar entre n = 1 y 4) que el componente del disco.
+Las muestras de galaxias lenticulares se distinguen de la población de galaxias elípticas sin disco (excluyendo los pequeños discos nucleares) mediante el análisis de sus perfiles de brillo superficial.
+Al igual que las galaxias espirales, las galaxias lenticulares pueden poseer una estructura de barra central.
+Mientras que el sistema de clasificación de las lenticulares normales depende del contenido de polvo, las galaxias lenticulares con barras se clasifican por la prominencia de la barra central.
+Las galaxias SB01 tienen la estructura de barra menos definida y sólo se clasifican por tener un brillo superficial ligeramente aumentado a lo largo de los lados opuestos de la protuberancia central.
+La prominencia de la barra aumenta con el número de índice, por lo que las galaxias SB03, como NGC 1460 tienen barras muy bien definidas que pueden extenderse a través de la región de transición entre el bulbo y el disco.
+NGC 1460 es en realidad la galaxia con una de las barras más grandes observadas entre las galaxias lenticulares.
+Desgraciadamente, las propiedades de las barras en las galaxias lenticulares no se han investigado con gran detalle.
+Comprender estas propiedades, así como entender el mecanismo de formación de las barras, ayudaría a aclarar la historia de la formación o evolución de las galaxias lenticulares.
+NGC 1375 y NGC 1175 son ejemplos de galaxias lenticulares que presentan los llamados abultamientos en forma de caja.
+Se clasifican como SB0 pec.
+Los abultamientos en forma de caja se observan en galaxias de borde, en su mayoría espirales, pero raramente lenticulares undefined.
+En muchos aspectos, la composición de las galaxias lenticulares es similar a la de las elípticas.
+Por ejemplo, en ambas predominan las estrellas más viejas y, por tanto, más rojas.
+Se cree que todas sus estrellas tienen más de mil millones de años, de acuerdo con su desplazamiento a partir de la relación Tully-Fisher (véase más adelante).
+Además de estos atributos estelares generales, los cúmulos globulares se encuentran con más frecuencia en galaxias lenticulares que en galaxias espirales de masa y luminosidad similares.
+También tienen poco o ningún gas molecular (de ahí la falta de formación estelar) y ninguna emisión significativa de hidrógeno α o 21-cm.
+Por último, a diferencia de las elípticas, aún pueden poseer una cantidad significativa de polvo.
+Las galaxias lenticulares comparten propiedades cinemáticas tanto con las galaxias espirales como con las elípticas.
+Esto se debe a la importante naturaleza de protuberancia y disco de las lenticulares.
+El componente de protuberancia es similar al de las galaxias elípticas en el sentido de que está soportado por una dispersión de velocidad central.
+Esta situación es análoga a la de un globo, donde los movimientos de las partículas de aire (estrellas en el caso de una protuberancia) están dominados por movimientos aleatorios.
+Sin embargo, la cinemática de las galaxias lenticulares está dominada por el disco apoyado en la rotación.
+El soporte de rotación implica que el movimiento circular medio de las estrellas en el disco es responsable de la estabilidad de la galaxia.
+Así, la cinemática se utiliza a menudo para distinguir las galaxias lenticulares de las elípticas.
+La distinción entre galaxias elípticas y lenticulares suele basarse en las mediciones de la dispersión de la velocidad (σ), la velocidad de rotación (v) y la elipticidad (ε).
+Para diferenciar entre lenticulares y elípticas, se suele observar la relación v/σ para una ε fija.
+Por ejemplo, un criterio aproximado para distinguir entre galaxias lenticulares y elípticas es que las galaxias elípticas tengan v/σ < 0,5 para ε = 0,3.
+La motivación de este criterio es que las galaxias lenticulares tienen componentes prominentes de protuberancia y disco, mientras que las galaxias elípticas no tienen estructura de disco.
+Así, las lenticulares tienen relaciones v/σ mucho mayores que las elípticas debido a sus velocidades de rotación no despreciables (debidas al componente de disco), además de no tener un componente de protuberancia tan prominente en comparación con las galaxias elípticas.
+Sin embargo, este enfoque que utiliza una única relación para cada galaxia es problemático debido a la dependencia de la relación v/σ del radio hasta el que se mide en algunas galaxias de tipo temprano.
+Por ejemplo, las galaxias ES que forman un puente entre las galaxias E y S0, con sus discos de escala intermedia, tienen una relación v/σ alta en radios intermedios que luego desciende a una relación baja en radios grandes.
+La cinemática de las galaxias de disco suele determinarse mediante líneas de emisión Hα o de 21 cm, que no suelen estar presentes en las galaxias lenticulares debido a su falta general de gas frío, por lo que la información cinemática y las estimaciones aproximadas de la masa de las galaxias lenticulares suelen proceder de las líneas de absorción estelar, que son menos fiables que las mediciones de las líneas de emisión.
+También es muy difícil obtener velocidades de rotación precisas para las galaxias lenticulares.
+Estos efectos hacen que las mediciones cinemáticas de las galaxias lenticulares sean considerablemente más difíciles que las de las galaxias de disco normales.
+La conexión cinemática entre galaxias espirales y lenticulares es más clara cuando se analiza la relación Tully-Fisher para muestras espirales y lenticulares.
+Si las galaxias lenticulares son un estadio evolucionado de las galaxias espirales, entonces deberían tener una relación Tully-Fisher similar a la de las espirales, pero con un desplazamiento en el eje luminosidad / magnitud absoluta.
+Esto se debería a que las estrellas más brillantes y rojas dominan las poblaciones estelares de las lenticulares.
+Un ejemplo de este efecto puede verse en el gráfico adyacente,.
+en el que se aprecia claramente que las líneas de mejor ajuste para los datos de las galaxias espirales y las galaxias lenticulares tienen la misma pendiente (y, por tanto, siguen la misma relación Tully-Fisher), pero están desfasadas en ΔI ≈ 1,5.
+Esto implica que las galaxias lenticulares son más luminosas que las espirales.
+Esto implica que las galaxias lenticulares fueron en su día galaxias espirales, pero ahora están dominadas por estrellas viejas y rojas.
+Las galaxias lenticulares suelen abundar en cúmulos de galaxias ricos, en detrimento de las galaxias espirales, y al parecer fueron en tiempos galaxias espirales que perdieron su gas por rozamiento con el gas intergaláctico caliente que llena el espacio intergaláctico y/o por interacciones gravitatorias con otras galaxias (sufriendo a causa de lo segundo brotes estelares que contribuirían a la pérdida de su medio interestelar y al aumento de su bulbo central); dos formas intermedias (que quizás sean el mismo objeto) entre ambas son las galaxias espirales anémicas, con menos materia interestelar y formación estelar que una galaxia espiral equivalente y las galaxias espirales pasivas, con estructura espiral pero con muy poca o ninguna formación estelar; otra propuesta que se ha hecho también, sobre la base de simulaciones matemáticas, es que las galaxias lenticulares son el producto de la fusión entre dos galaxias espirales de masas desiguales y ricas en gas.
+En otros casos -galaxias lenticulares situadas no en cúmulos galácticos ricos o aisladas-, pueden haberse convertido en ese tipo de galaxia al haber agotado su materia interestelar.
+Sin embargo, y aunque haya cada vez más evidencias a favor de que las galaxias lenticulares existentes en cúmulos de galaxias pueden haber surgido a partir de galaxias espirales, la génesis de estos objetos, en particular de los más masivos, sigue siendo un problema abierto; de hecho, por ejemplo también se ha sugerido que la mayoría de las galaxias lenticulares pueden haber sido como son ahora desde su nacimiento -experimentando de cuando en cuando brotes de formación estelar-, en vez de galaxias espirales que han perdido su medio interestelar.
+El Catálogo Messier incluye algunos buenos ejemplos de esta clase de galaxias, por ejemplo M84 y M85.
+Otro excelente ejemplo de este tipo de galaxias es NGC 3115.

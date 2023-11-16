@@ -1,0 +1,8 @@
+F. P. Schäfer (Bad Hersfeld, 15 de enero de 1931 - Hannover, 25 de abril de 2011) fue un físico alemán y uno de los inventores del láser de colorante.
+Su libro Dye Lasers es considerado una obra clásica en el campo del láser sintonizable.
+En esta obra el capítulo escrito por Schäfer ofrece una amplia exposición desde las características de las moléculas de colorante hasta la física de los osciladores telescópicos y prismáticos.
+En su experimento original Schäfer y sus colegas usaron un láser de rubí para excitar varios colorantes infrarrojos los cuales emitieron radiación láser desde 731 nm hasta 835 nm.
+Los autores informaron sobre un ancho de banda de cerca de 10 nm.
+Schäfer y sus colegas también hicieron experimentos con vapores de moléculas de colorante usando excitación óptica y estudios de fluorescencia usando excitación electrónica.
+Además de sus contribuciones al láser de colorante, otros trabajos importantes de Schäfer incluyen sus experimentos con láseres de pulso femtosegundo y la aplicación de estos láseres para generar plasmas.
+Schäfer fue profesor Emérito de física láser y Director del Max-Planck-Institut für Biophysikalische Chemie en Göttingen.

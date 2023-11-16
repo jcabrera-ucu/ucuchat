@@ -1,0 +1,18 @@
+Ajedrez para tres jugadores es una familia de variantes de ajedrez especialmente diseñadas para ser jugadas entre tres personas.
+Hay muchas variantes para este juego.
+Usualmente usan un tablero exótico, por ejemplo, un tablero hexagonal o uno con tres lados conectado en el medio por un camino especial.
+Las variantes de este juego (y de otros) son difíciles de diseñar debido al des balance que se produce cuando dos jugadores atacan a uno, lo que es difícil de combatir para el jugador atacado.
+Algunas versiones evitan esto dándole la victoria al jugador que hace jaque primero.
+Los otros jugadores (el que ha         recibido mate y el que no) pierden.El tablero de ajedrez para tres personas tiene la característica de tener 96 casilleros.
+La introducción de un tercer jugador cambia drásticamente el estilo del juego, incluso si las piezas estándar son usadas.
+Muchas aperturas de ajedrez son inútiles debido a la ampliación del tablero y la introducción del tercer jugador.
+La introducción del «extra» puede presentar situaciones de estancamiento, por ejemplo, cuando una pieza de color blanco está indefensa y al mismo tiempo es atacada por dos piezas de color rojo y negro.
+La pieza negra no puede capturar a la pieza de color blanco, ya que entonces es atacada por la pieza de color rojo.
+Así, las piezas negras y rojas atacan simultáneamente a la pieza blanca y la defienden del ataque del otro jugador.
+En situaciones similares, una pieza puede moverse de manera segura un escaque atacado por dos opositores, ya que el oponente podría capturarla pero se arriesgaría a ser capturado por el tercer jugador.
+Cada jugador tiene que pensar dos veces previendo los movimientos de los opositores, con la complejidad añadida de que el próximo jugador puede mover para atacar a cualquiera de sus oponentes.
+En los juegos en los que el tercer jugador pierde tanto como el que sufrió jaque, los jugadores deben concentrarse no sólo en su propio ataque y defensa, sino en los ataques que los otros jugadores se hacen.
+Un jugador puede tomar ventaja de una posición de los oponentes para dar jaque al otro, pero debe tener cuidado de que el tercer jugador no haga jaque primero.
+El blanco podría dar jaque al rojo, solo para que su pieza sea capturada por una negra, que le da entonces jaque al rojo.
+En esta situación, el blanco perdería porque el negro hace el último movimiento de jaque.
+Esta estrategia también se aplica a los juegos en los que el jugador que da jaque toma el mando de la piezas del oponente (un jugador que le permite al segundo jugador dar jaque al tercero, sin duda va a perder debido al aumento de poder de su oponente, armado ahora con el tercer ejército).

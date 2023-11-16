@@ -1,0 +1,7 @@
+Estados Unidos estuvo representado en los Juegos Olímpicos de Tokio 2020 por un total de 614 deportistas, 282 hombres y 332 mujeres, que compitieron en 35 deportes.
+Los portadores de la bandera en la ceremonia de apertura fueron el jugador de béisbol Eddy Álvarez y la jugadora de baloncesto Sue Bird.
+El equipo olímpico estadounidense obtuvo las siguientes medallas:
+{| class="wikitable" width=55%
+! Nombre !!
+Deporte !!
+Competición

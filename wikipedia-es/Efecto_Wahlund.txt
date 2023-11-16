@@ -1,0 +1,13 @@
+En genética de poblaciones, el efecto Wahlund se refiere a una reducción en la heterocigosidad causada por la estructura de una subpoblación.
+Esto es, si dos o más subpoblaciones tienen diferentes frecuencias alélicas entonces la heterocigosidad total se ve reducida, aun si las mismas subpoblaciones se encuentran en equilibrio de Hardy-Weinberg.
+Las causas subyacentes de esta subdivisión de la población pueden ser debidas a barreras geográficas al flujo genético seguidas de deriva genética en las subpoblaciones.
+El efecto Wahlund fue documentado por vez primera por el genetista sueco Sten Wahlund en 1928.
+Suponiendo que existe una población P, con frecuencias alélicas A y a dadas por p and q respectivamente (p + q = 1).
+Si luego, esta población es dividida en dos subpoblaciones de igual tamaño, P_1 and P_2, y que todos los alelos A se encuentran en la subpoblación P_1 y todos los alelos a en la subpoblación P_2.
+Entonces, en la estructura subpoblacional de la misma, no se encuentran heterocigotas, aun a pesar de que las subpoblaciones se encuentren en equilibrio de Hardy-Weinberg.
+Siguiendo el ejemplo anterior, podemos decir que p_1 y p_2 representan las frecuencias alélicas de A en p_1 y p_2 respectivamente (y q_1 y q_2 de la misma manera representan a).
+Si la frecuencia alélica en cada población es diferente, es decir: p_1 \ne p_2.
+Si suponemos que cada población se encuentra en un equilibrio interno de Hardy-Weinberg de manera tal que las frecuencias genotípicas AA, Aa, y aa son p2, 2pq, y q2 respectivamente para cada población.
+Entonces, la heterocigosidad (H) en la población total está dada por la media de ambas:
+La cual es siempre menor que 2p(1-p) ( = 2pq) a no ser que p_1=p_2
+La reducción en la heterocigosidad puede ser cuantificada mediante la utilización de los estadísticos F.

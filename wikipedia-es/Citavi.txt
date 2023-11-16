@@ -1,0 +1,15 @@
+Citavi es un gestor de referencias bibliográficas y del conocimiento para Microsoft Windows.
+Citavi se usa en universidades para escribir tesis, textos académicos y publicaciones científicas, y en empresas para organizar el conocimiento en equipos y para escribir reportes.
+Citavi es desarrollado por Swiss Academic Software con sede en Wädenswil en Zúrich.
+Se basa en .NET.
+El predecesor de Citavi fue el programa 'LiteRat' desarrollado en la Universidad Heinrich Heine de Düsseldorf/Alemania.
+La versión 1.0 fue publicada en el año 1995.
+En 2006 se lanzó la versión&#x20;2.0 con el nombre de Citavi.
+Con la versión completamente revisada Citavi&#x20;3, publicada en 2010, fue introducido una interfaz en inglés.
+Desde 2013, con la Versión&#x20;4, la interfaz está disponible en alemán, español, francés, inglés, italiano, polaco y portugués y se introdujo un plugin para Word.
+Citavi 5 apareció en abril de 2015, con ediciones para usuarios individuales y para equipos.
+Con Citavi 6 se añaden en febrero de 2018 las funciones de guardar los datos en la nube de Citavi y de compartir proyectos con otros usuarios, invitándolos con derechos de acceso diferenciados.
+El desarrollo de Citavi para OS X fue interrumpido en 2011, se está desarrollando una versión web independiente del sistema operativo.
+Citavi integra la gestión de referencias bibliográficas y de los textos completos con funciones de organización del conocimiento, además de un planificador de tareas creado para las necesidades específicas del trabajo con textos.
+Los textos de "ayuda rápida" integrados en el programa se complementan con un manual en línea, vídeos y un foro en español, como también, para los poseedores de una licencia, del soporte personal.
+Los datos bibliográficos de los títulos guardados en Citavi pueden ser importados por otros gestores bibliográficos, y Citavi puede importar los datos de otros gestores, sea directamente, como en el caso de EndNote y de archivos BibTeX, sea a través de un filtro de importación o de un fichero RIS exportado desde Mendeley, ProCite, Reference Manager, RefWorks, Zotero u otros.

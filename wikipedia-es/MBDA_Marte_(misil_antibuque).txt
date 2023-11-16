@@ -1,0 +1,3 @@
+MBDA Marte es un misil antibuque fabricado por el consorcio europeo MBDA de corto y medio alcance.
+Se orienta mediante un radar activo desarrollado por OTO Melara.
+Se trata de un misil multiplataforma pues puede ser lanzado por aviones como el Eurofighter Typhoon, helicópteros como el NH-90 o buques de superficie.

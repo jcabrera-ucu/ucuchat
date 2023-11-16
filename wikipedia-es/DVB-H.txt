@@ -1,0 +1,27 @@
+DVB-H (Digital Video Broadcasting Handheld) es un estándar abierto desarrollado por DVB.
+La tecnología DVB-H constituye una plataforma de difusión IP orientada a terminales portátiles que combina la compresión de video y el sistema de transmisión de DVB-T, estándar utilizado por la TDT (Televisión Digital Terrestre).
+DVB-H hace compatible la recepción de la TV terrestre en receptores portátiles alimentados con baterías.
+Es decir, DVB-H es una adaptación del estándar DVB-T adaptado a las exigencias de los terminales móviles.
+Ha sido impulsado por Nokia y Motorola, como un estándar para la Unión Europea, por lo que los países que son miembros de esta, deberán dar soporte y potenciar el uso de dicho formato en los servicios de TV Móvil.
+El mayor competidor para este estándar es la tecnología DMB.
+Las necesidades comerciales del sistema se determinaron por el Proyecto DVB en 2002:
+Finalmente, el nuevo sistema debe ser similar al existente DVB-T.
+La estructura de las redes de DVB-H y DVB-T deben ser compatibles entre sí para permitir la reutilización de los equipos de transmisión.
+El diagrama de bloques del sistema de un terminal para recepción de DVB-H, contiene toda la circuitería necesaria para realizar la demodulación y decodificación de la señal.
+El demodulador DVB-H es básicamente un demodulador DVB-T con la posibilidad adicional de demodulación de señales en un tamaño de 4K (FFT de 4096) diferente a la DVB-T que proporciona las señales con un tamaño de 2K (FFT de 2048) y / o 8K (FFT de 8192).
+Además, el time-slicing proporciona un control completo sobre el receptor.
+DVB-H soporta el comportamiento producido por los Handover de manera muy eficiente.
+Este hecho se debe en gran medida a los periodos de silencio generados gracias al time-slicing.
+En estos periodos de silencio el receptor puede escanear otras frecuencias para encontrar aquella que le suministre una mayor potencia y llegado el caso, ejecutar el Handover.
+Cabe destacar que la posibilidad de hacer la evaluación de frecuencias alternativas en estos periodos de silencio sin perturbar la recepción del servicio en curso, es una característica muy importante del estándar DVB-H.
+En la siguiente tabla se muestran los diferentes modos de transmisión con OFDM.
+El sistema DVB-H no se especifica en un documento único.
+Se define por una familia de varias especificaciones debido a la existencia previa de las diversas especificaciones DVB que requieren modificaciones:
+La especificación del sistema determina los elementos obligatorios y opcionales.
+El time-slicing es obligatorio para todos los servicios DVB-H, por lo que se ha convertido en un rasgo característico de ellos.
+Desde el sector de fabricantes de terminales receptores se está apoyando el lanzamiento de servicios DVB-H.
+Este hecho parece indicar que será posible un boom comercial de la televisión en receptores portátiles.
+Para los radiodifusores, DVB-H es una evolución del servicio de difusión que utiliza el mismo espectro destinado a broadcast para difundir televisión a un nuevo tipo de receptores.
+Este hecho abre un nuevo mercado, ya que los hábitos en el consumo de la televisión se verán modificados generándose nuevas audiencias en horarios diferentes a los actuales.
+La posibilidad de que el terminal sea un teléfono celular permite generar modelos de servicio colaborativos entre los radiodifusores y los propios operadores móviles permitiendo, por ejemplo, posibles nuevos ingresos basados en una cuota de acceso al servicio y publicidad, entre otros.
+Por lo tanto, DVB-H ofrece una gran oportunidad para el desarrollo de la Sociedad de la Información ya que nos encontramos ante la convergencia de dos servicios que tienen un impacto bien universales: por un lado, la televisión como en flujo troncal, y por el otro, la comunicación móvil, no necesitando ninguno de los dos de aprendizajes adicionales en su uso por parte del usuario final.

@@ -1,0 +1,71 @@
+El ácido láctico, o su forma ionizada, el lactato (del lat. lac, lactis, leche), también conocido por su nomenclatura oficial ácido 2-hidroxi-propanoico o ácido α-hidroxi-propanoico, es un compuesto químico que desempeña importantes roles en varios procesos bioquímicos, como la fermentación láctica.
+Es un ácido carboxílico, con un grupo hidroxilo en el carbono adyacente al grupo carboxilo, lo que lo convierte en un ácido α-hidroxílico (AHA) de fórmula H3C-CH(OH)-COOH.
+En solución puede perder el hidrógeno unido al grupo carboxilo y convertirse en el anión lactato.
+El ácido láctico es quiral, por lo que se pueden encontrar dos enantiómeros (isómeros ópticos).
+Uno es el dextrógiro ácido D-(+)-láctico o d-ácido láctico (en este caso, el ácido (R)-láctico); el otro es el levógiro ácido L-(-)-láctico o ℓ-ácido láctico (en este caso, ácido (S)-láctico), que es el que tiene importancia biológica.
+La mezcla racémica (cantidades idénticas de estos isómeros) se llama d,ℓ-ácido láctico.
+Fue refinado por primera vez por el químico sueco Carl Wilhelm Scheele en 1780 a partir de leche agria.
+En 1808, Jöns Jacob Berzelius descubrió que se libera ácido láctico en los músculos al realizar esfuerzos físicos intensos.
+Su estructura fue determinada por Johannes Wislicenus en 1873.
+En 1856 Louis Pasteur descubrió el lactobacillus y su rol en la producción de ácido láctico.
+Este ácido comenzó a ser producido comercialmente por la compañía alemana Boehringer Ingelheim en 1895.
+En 2006 la producción global de ácido láctico alcanzó 265.000 toneladas con un crecimiento promedio anual de 15%.
+El ácido ℓ-láctico se produce a partir del ácido pirúvico a través de la enzima lactato deshidrogenasa (LDH) en procesos de fermentación.
+El lactato se produce continuamente en el metabolismo y sobre todo durante el ejercicio, pero no aumenta su concentración hasta que el índice de producción no supera al de eliminación.
+Este depende de varios factores, como los transportadores monocarboxilatos, concentración de LDH y capacidad oxidativa en los tejidos.
+La concentración de lactatos en la sangre usualmente es de 1 o 2 mmol/l en reposo, pero puede aumentar hasta 20 mmol/l durante un esfuerzo intenso.
+Se debe considerar que, a pH fisiológico en el cuerpo humano, es decir 7.35, se encuentra solo en su forma disociada, es decir, como lactato y no como ácido.
+El aumento de la concentración de lactatos ocurre generalmente cuando la demanda de energía en tejidos (principalmente musculares) sobrepasa la disponibilidad de oxígeno en sangre.
+Bajo estas condiciones la piruvato deshidrogenasa no alcanza a convertir el piruvato a Acetil-CoA lo suficientemente rápido y el piruvato comienza a acumularse.
+Esto generalmente inhibiría la glucólisis y reduciría la producción de Adenosín trifosfato (el ATP sirve para acumular energía), si no fuera porque la lactato deshidrogenasa reduce el piruvato a lactato:
+La función de la producción de lactato es oxidar NADH + H para regenerar la nicotinamida adenina dinucleótido (NAD+) necesaria para la glucólisis, y por tanto para que continúe la producción de ATP.
+El lactato producido sale de la célula muscular y circula por el torrente sanguíneo hasta el hígado, dónde se vuelve a transformar en glucosa por gluconeogénesis.
+Al ciclo que comprende la glicólisis en la célula muscular y su reciclaje por gluconeogénesis en el hígado se le conoce como ciclo de Cori.
+El hígado y el corazón tienen la facultad de oxidar el lactato de la sangre convirtiéndolo de nuevo a piruvato.
+La fermentación de ácido láctico también la producen las bacterias Lactobacillus.
+Estas bacterias pueden encontrarse en la boca, y pueden ser las responsables del progreso de la caries previamente iniciada por otras bacterias.
+En condiciones normales, el valor de referencia para el lactato en sangre es inferior a 2 mmol/L.
+Durante el ejercicio, la concentración de lactato puede incrementarse desde un nivel medio de 0.9 mmol/L hasta 12 mmol/L; durante la hipoxia tisular se aumenta la producción de este y es un marcador de gravedad.
+(Rev Med Inst Mex Seguro Soc. 2015;53(3):316-21).
+En medicina es uno de los compuestos de la solución láctica de Ringer, que es una solución que se inyecta intravenosamente a las personas cuando han sufrido una pérdida de sangre a causa de un traumatismo, cirugía o quemadura.
+La solución está compuesta por 129 mmol/L de Na, 109 mmol/L de cloro y 28 mmol/L de L-lactato.
+Es una solución que se usa alternativamente a la salina fisiológica (0.9%) para recuperar volumen.
+La diferencia de iones fuertes hace que el hartman (solución láctica de Ringer) sea utilizado por algunos como terapia en la hipovolemia.
+No obstante, por tener menos tonicidad (osmolaridad) que la solución salina, algunos prefieren esta.
+El efecto sobre el equilibrio ácido-base de la salina será promover acidosis (por el cloro), mientras el efecto del hartman será más alcalinizante por la diferencia de iones fuertes y por el ácido láctico.
+Durante un ejercicio de intensidad creciente con el tiempo, cuando hay demasiada demanda de energía, el lactato se produce más rápidamente que la capacidad de los tejidos para eliminarlo, y entonces la concentración de lactato muscular comienza a aumentar.
+Es un proceso benéfico, porque la regeneración de NAD+ asegura que la producción de energía continúe y así también el ejercicio.
+Contra lo que se creyó por mucho tiempo, el incremento de la cantidad de lactato no es causante directo de la acidosis ni es responsable tampoco de las agujetas (microroturas fibrilares causadas por el ejercicio) o calambres (por lo general debido al sobreesfuerzo).
+Esto se debe en primer lugar a que el ácido láctico no puede liberar el catión hidrógeno, y en segundo lugar a que el lactato no se encuentra como ácido láctico, sino en su forma base, como lactato.
+Los análisis realizados en la ruta glucolítica indican que no hay suficientes cationes hidrógeno presentes como para formar ácido láctico o cualquier otro tipo de ácido.
+Es importante señalar que, a pH fisiológico y a nivel de la célula muscular (miocito) y según el pKa ácido del ácido láctico (pKa:3.86), lo que se encuentra es la base, el lactato, y no el ácido láctico, debido a que estará totalmente disociado en estas condiciones.
+La acidosis que muchas veces se asocia a la producción de lactato durante ejercicios extremos proviene de una reacción completamente distinta y separada.
+Cuando el ATP se hidroliza (es decir, se "separa", en agua), se libera un catión hidrógeno, que es el principal responsable de la disminución del pH.
+Durante ejercicios intensos, el metabolismo oxidativo (aerobiosis) no produce ATP tan rápido como lo demanda el músculo.
+Como resultado, la glucólisis se transforma en el principal productor de energía y puede producir ATP a altas velocidades.
+Debido a la gran cantidad de ATP producido e hidrolizado en tan poco tiempo, los sistemas amortiguadores de los tejidos se ven agotados, lo que genera una caída del pH y produce acidosis.
+Este es uno de los factores, entre tantos, que contribuyen al dolor muscular agudo experimentado poco después del ejercicio intenso.
+Se obtienen industrialmente productos lácteos fermentados, como yogur y otros similares, por fermentación de leche o suero por bacterias del género Lactobacillus: Lactobacillus acidophilus, Lactobacillus casei, Lactobacillus delbrueckii subsp. bulgaricus (Lactobacillus bulgaricus), Lactobacillus helveticus, Lactococcus lactis y Streptococcus salivarius subsp. thermophilus (Streptococcus thermophilus).
+Como materia prima para la producción industrial de ácido láctico, casi cualquier fuente de carbohidratos que contenga C5 y C6 azúcar puede ser usado.
+Con frecuencia se utilizan sacarosa pura, glucosa del almidón, azúcar sin refinar y jugo de remolacha.
+Las bacterias productoras de ácido láctico se pueden dividir en dos clases: bacterias homofermentativas como Lactobacillus casei y Lactococcus lactis, que producen dos moles de lactato a partir de un mol de glucosa, y especies heterofermentativas que producen un mol de lactato a partir de un mol de glucosa, así como dióxido de carbono y ácido acético/etanol.
+La obtención de ácido láctico con enzimas o microorganismos vivos pueden producir isómeros dextrógiro o levógiros, dependiendo de la enzima involucrada en el proceso.
+undefined
+Puede obtenerse una mezcla racémica a partir de acetaldehído, cianuro de sodio y ácido sulfúrico:
+El proceso termina con un ataque nucleofílico del cianuro al grupo carbonilo del aldehído formando el nitrilo del ácido láctico de forma racémica.
+El nitrilo es saponificado en presencia de agua y un exceso de ácido sulfúrico para dar el ácido libre.
+Se encuentra en el jugo de la carne, en la leche ácida, en los músculos y en algunos órganos de algunas plantas o animales.
+Suele mencionarse como origen de las agujetas, el dolor muscular provocado por el ejercicio repentino sin tener costumbre o previo calentamiento.
+(ver importancia biológica).
+Se utiliza como la alternativa más amplia al uso de la glicerina como suavizante.
+Es usado principalmente como químico anti-edad para suavizar contornos; reducir el daño producido por la luz solar; para mejorar la textura y el tono de la piel, y el aspecto en general.
+Sin embargo deben tomarse serias precauciones al utilizar cosméticos con ácido láctico, porque aumentan la sensibilidad a los rayos ultravioleta del sol.
+El ácido láctico es utilizado en varios productos alimentarios como regulador de acidez.
+Aunque puede obtenerse de la lactosa (azúcar de la leche), la mayor parte del ácido láctico empleado comercialmente deriva del uso de bacterias como la Bacillus acidilacti, Lactobacillus delbrueckii o Lactobacillus bulgaricus para fermentar fuentes de carbohidratos como la maicena y las patatas.
+Así, lo que comúnmente se denomina "leche ácida" en algunos alimentos vegeterianos o veganos tienen ácido láctico como ingrediente.
+Como aditivo alimentario está aprobado para su uso en la Unión Europea,  Estados Unidos y Australia y Nueva Zelanda; aparece por su número INS 270 o como número E.
+E270.
+El ácido láctico se utiliza como conservante de alimentos, agente de curado y agente aromatizante.
+Es un ingrediente de los alimentos procesados y se utiliza como descontaminante durante el procesamiento de la carne.
+El ácido láctico se produce comercialmente mediante la fermentación de carbohidratos como la glucosa, la sacarosa o la lactosa, o por síntesis química.
+Las fuentes de carbohidratos incluyen el maíz, la remolacha y el azúcar de caña.

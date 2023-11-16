@@ -1,0 +1,12 @@
+En informática los términos descriptor de archivo o descriptor de fichero son usados generalmente en sistemas operativos POSIX.
+En la terminología de Microsoft Windows y en el contexto de la biblioteca <tt>stdio</tt>, se prefiere el término "manipulador de archivos" o "manipulador de ficheros", ya que es técnicamente un objeto diferente.
+En POSIX, un descriptor de archivo es un entero, específicamente del tipo <tt>int</tt> de C.
+Hay 3 descriptores de archivo estándar de POSIX que presumiblemente tiene cada proceso, salvo quizá los demonios:
+Generalmente, un descriptor de archivo es una clave a una estructura de datos residente en el núcleo, que contiene detalles de todos los archivos abiertos.
+En POSIX, esta estructura de datos se llama "tabla de descriptores de archivos", y cada proceso tiene la suya.
+La aplicación que lanza un usuario pasa al núcleo la clave abstracta mediante una llamada al sistema, y el núcleo tendrá acceso al archivo a nombre de la aplicación, que se basará en la clave.
+Esa misma aplicación no puede acceder a la tabla de descriptores de archivo directamente, ni para leer ni para escribir.
+En los sistemas Unix, los descriptores de archivo se pueden referir a archivos, directorios, dispositivos de bloques o dispositivos de caracteres (también llamados "archivos especiales"), sockets, FIFOs (también llamados "tuberías con nombre") o tuberías sin nombre.
+El manejador de archivos en las rutinas de la biblioteca <tt>stdio</tt> de Unix es, técnicamente, un puntero o una dirección a la primera capa de administración de una interfaz adicional (la interfaz al flujo de archivo <tt>stdio</tt>), que se apila encima del descriptor de archivo de bajo nivel real.
+Como "manejador de archivo" se refiere a esta interfaz adicional, no es intercambiable por "descriptor de archivo".
+Handle

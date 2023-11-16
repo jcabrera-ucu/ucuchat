@@ -1,0 +1,11 @@
+En modelos matemáticos y simulaciones computacionales, las condiciones de frontera periódicas o PBC por sus siglas en inglés son un conjunto de condiciones de frontera que son frecuentemente usadas para simular sistemas grandes a través de modelar una pequeña parte que esté lejos de su frontera.
+Las condiciones de frontera periódicas recuerdan la topología de algunos videojuegos; una celda unitaria o caja de simulación con una geometría adecuada para una división perfecta en tres dimensiones es definida, y cuando un objeto pasa a través de una cara de la celda, vuelve a aparecer en la cara opuesta con la misma velocidad En términos topológicos el espacio puede ser pensado como un mapeo a un toro.
+Las copias de estas divisiones en la celda unitaria son llamadas imágenes, de las cuales hay infinitas.
+Durante la simulación solo las propiedades de la celda unitaria deben ser guardadas.
+La convención de imágenes mínimas es una forma común de conteo de partículas en PBC donde cada partícula individual en la simulación interactúa con la imagen más cercana de las restantes partículas en el sistema.
+Un ejemplo en dinámica molecular, donde las condiciones de frontera periódicas son comúnmente aplicadas para simular acumulaciones de gas, líquidos, cristales y mezclas.
+Una aplicación común es usar las PBC para simular macromoléculas disueltas en un baño de un solvente explícito.
+Las condiciones de frontera de Born-Von Karman son condiciones de frontera periódicas para un sistema especial.
+Las condiciones de frontera periódicas son particularmente útiles para simular una parte de un sistema denso sin superficies presentes.
+Más aún, en simulaciones de superficies planas, es muy común simular dos dimensiones con condiciones periódicas y dejando la tercera dirección con otra condición de frontera, por ejemplo el vacío hacia el infinito.
+Esta configuración es conocida como condición de frontera de losa.

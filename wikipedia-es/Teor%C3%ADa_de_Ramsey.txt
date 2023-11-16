@@ -1,0 +1,30 @@
+La teoría de Ramsey, llamada así por Frank P. Ramsey, es un campo de las matemáticas que estudia las condiciones bajo las cuales debe aparecer el orden.
+Los problemas de la teoría de Ramsey son típicamente de la forma: ¿Cuántos elementos debe contener una estructura para garantizar la existencia de una propiedad particular?
+"El desorden completo es imposible"
+- Theodore S. Motzkin
+Supongamos que n palomas han sido alojadas en m nidos.
+¿Qué tamaño ha de tener n, con respecto a m, para que se pueda garantizar que al menos, un nido contenga dos palomas?.
+La respuesta está dada por el principio del palomar: si n > m por lo menos un nido tendrá al menos dos palomas.
+La teoría de Ramsey generaliza este resultado, como se explica a continuación.
+Un resultado típico de la teoría de Ramsey se inicia con alguna estructura matemática que se corta en trozos.
+¿Qué tamaño ha de tener la estructura original con el fin de garantizar que al menos una de las piezas tenga una propiedad interesante dada?
+Por ejemplo, consideremos un grafo completo de orden n, es decir, hay n vértices y cada vértice está conectado a todos los otros vértices por medio de una arista.
+Un grafo completo de orden 3 se llama triángulo.
+Ahora bien, cada arista puede tener uno de los siguientes colores: rojo o azul.
+¿Cómo de grande debe ser n para poder garantizar que exista un triángulo azul o un triángulo rojo?
+Resulta que la respuesta es 6.
+Véase el artículo sobre el teorema de Ramsey para una prueba rigurosa.
+Otra manera de expresar este resultado es el siguiente: en cualquier actividad con al menos seis personas, hay tres personas que son mutuamente conocidas o mutuamente desconocidas.
+Véase el teorema de la amistad.
+Este es un caso especial del teorema de Ramsey, que dice que para cualquier entero dado c, y dado los enteros n1,...,nc, existe el número: R(n1,...,nc), llamado número de Ramsey, tal que si las aristas de un grafo completo de orden R(n1,...,nc) se colorean con c colores distintos, entonces para algún i entre 1 y c, debe contener un subgrafo completo de orden ni cuyas aristas están todas coloreadas con el color i.
+El caso especial de arriba tiene c = 2 y n1 = n2 = 3.
+Para dos colores se conocen los siguientes valores exactos y cotas para R(r, s):
+Como R(r, s) = R(s, r), hay una simetría trivial con respecto la diagonal.
+También es trivial el caso R(n,2) ya que R(n,2)=n.
+Esta tabla está extraída del survey "Small Ramsey Numbers" de Stanisław Radziszowski, excepto R(4,6)≥36, probado por Geoffrey Exoo en 2012; R(3,10) ≤ 42, probado por Jan Goedgebeur y Stanisław Radziszowski en 2012; y R(4,8) ≥ 58, probado por Hiroshi Fujita en 2012.
+Para tres colores, el único valor exacto no trivial conocido es R(3,3,3)=17.
+De idéntica forma se puede definir el número de Ramsey de grafos que no sean completos, conociéndose para dos colores y grafos con a lo más 5 vértices, todos los valores exactos salvo los dos casos formados por dos grafos completos con 5 vértices y por uno completo de 5 vértices menos una arista y uno completo de 5 vértices.
+Algunos resultados importantes de teoría de Ramsey son:
+Los resultados en la teoría de Ramsey normalmente tienen dos características básicas.
+En primer lugar, generalmente no son constructivas, los resultados muestran la existencia de alguna estructura, pero no se da una receta o procedimiento para encontrarla (que no sea la Búsqueda de fuerza bruta).
+En segundo lugar, mientras los resultados de la teoría de Ramsey nos dicen que un objeto lo suficientemente grande deberá contener necesariamente una estructura dada, a menudo la prueba de estos resultados requiere que estos objetos sean enormemente grandes con límites que crecen de manera exponencial.

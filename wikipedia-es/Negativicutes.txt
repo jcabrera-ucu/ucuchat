@@ -1,0 +1,9 @@
+Negativicutes es una clase inusual de bacterias.
+Fue agrupada hasta hace poco como familia con el nombre de Acidaminococcaceae dentro de Clostridia, su agrupación se justifica principalmente por estudios genéticos, que los colocan en Firmicutes.
+Apoyando esta clasificación, varias especies son capaces de formar endosporas.
+Sin embargo, se diferencian de la mayoría de los otros Firmicutes por ser Gram-negativos, pues la composición de su envoltura celular es peculiar.
+Los miembros de esta familia son todos anaerobios obligados, y se encuentran en hábitats tales como ríos, lagos e intestinos de vertebrados.
+Se presentan en formas esféricas, tales como Megasphaera y Veillonella, o con forma de bacilos curvados, típicos de Selenomonas y Sporomusa.
+Selenomonas tiene forma de media luna característica, con los flagelos insertados en el lado cóncavo, mientras que Sporomusa es similar pero no móvil.
+Sus nombres se refieren a esta morfología distintiva: "selene" significa la luna y "musa" significa el plátano.
+El nombre de Selenobacteria también refiere a este grupo.

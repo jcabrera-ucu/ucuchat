@@ -1,0 +1,7 @@
+El problema de la iluminación es un problema matemático planteado por primera vez por Ernst Straus en 1950.
+Straus se preguntó si una habitación cuyas paredes son todas espejos siempre puede ser iluminada en su totalidad por una única fuente de luz puntual, permitiéndose la reflexión múltiple de la luz por los espejos en las paredes.
+La pregunta es equivalente a otra pregunta: "Si se puede construir una mesa de billar en cualquier forma requerida, ¿hay una forma tal de construir la mesa que existe un punto sobre la mesa que no puede ser alcanzado por la bola de billar, en el supuesto de que la bola sea puntual y continúa su movimiento en forma infinita sin detenerse por fricción?"
+El problema fue resuelto por primera vez en 1958 por Roger Penrose utilizando elipses para crear la habitación no iluminable de Penrose.
+Utilizando las propiedades de la elipse, Penrose demostró que existe una sala con paredes curvas que siempre tiene zonas oscuras si es iluminada por una única fuente puntual.
+Sin embargo, este era un caso límite, ya que un número finito de puntos oscuros (en lugar de regiones) no son iluminados desde cualquier posición en que se coloque la fuente puntual.
+Una solución mejorada fue presentada por D. Castro en 1997, con una sala de 24 lados con las mismas propiedades.

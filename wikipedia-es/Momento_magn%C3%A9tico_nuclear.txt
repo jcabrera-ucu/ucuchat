@@ -1,0 +1,11 @@
+El momento magnético nuclear es el momento magnético que poseen los núcleos atómicos y que se debe a la estructura compleja del núcleo atómico.
+El momento magnético nuclear se explica tanto por el momento angular asociado a los protones orbitando en el interior del núcleo así como al momento magnético de espín.
+Cada átomo tiene asociado un valor de momento magnético, ocasionado por el movimiento del núcleo (portador de una carga eléctrica) al girar sobre sí mismo (esta interpretación clásica sirve para entender el concepto, una interpretación cuántica sirve para hacer cálculos cuantitativos).
+El enfoque clásico del momento magnético nuclear lo representa como un vector, el vector momento magnético nuclear.
+Este vector se representa como m y su valor es de:
+Donde:
+A su vez el módulo del momento magnético nuclear viene dado por:
+Donde es una constante que depende de la estructura interna del núcleo atómico.
+En el seno de la mecánica cuántica el momento magnético nuclear debe ser tratado como un operador lineal vectorial acotado:
+Cumpliéndose la siguiente identidad entre el observable asociado al momento magnético nuclear y el operador de momento angular:
+Donde el número cuántico orbital principal del núcleo.

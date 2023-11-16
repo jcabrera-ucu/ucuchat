@@ -1,0 +1,13 @@
+Un diagrama polar es un dibujo técnico que refleja la radiación en que un determinado sistema capta o emite (radia) energía al espacio.
+Estas pueden ser, por ejemplo ondas de sonido o Radiación electromagnética.
+Entre otras aplicaciones, se utiliza en micrófonos y altavoces así como en antenas de todo tipo.
+Para ello, se representa el espacio como una circunferencia y el modo en el que las ondas se disipan en el entorno que está representado en grados.
+Dependiendo de su directividad, podemos diferenciar entre:
+Radian o captan por igual en todas direcciones, es decir, en los 360°.
+El diagrama polar tiene forma de ocho con dos lóbulos opuestos.
+Emiten o captan sonido tanto por delante como por detrás, mientras que son prácticamente “mudos” en los laterales.
+El ángulo preferente se sitúa en torno a los 100º.
+En altavoces, los diagramas polares bidireccionales no se utilizan en demasía por idénticas razones que los omnidireccionales: requieren de grandes cajas acústicas.
+Emiten o captan en una dirección muy marcada y son “relativamente muertos” en las otras.
+Tipo de unidireccional que se llama así porque el diagrama polar tiene forma de corazón, lo que se traduce en que radian o captan hacia o desde la parte frontal y tienen un mínimo de sensibilidad en su parte posterior, donde se produce una atenuación gradual.
+El ángulo preferente lo alcanza en un ángulo de 160º.

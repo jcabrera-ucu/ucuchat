@@ -1,0 +1,9 @@
+La Mecánica, Mecánicos o Problemas Mecánicos (Μηχανικά ; en latín, Problemata mechanica ) es un texto tradicionalmente atribuido a Aristóteles, aunque su autoría está en disputa.
+Thomas Nelson Winter ha sugerido que el autor era Arquitas.
+Sin embargo, Coxhead dice que solo es posible concluir que el autor fue uno de los primeros peripatéticos.
+Posiblemente siendo su autor Estratón.
+Durante el Renacimiento, una edición de este trabajo fue publicada por Francesco Maurolico.
+Esta obra trata de las palancas, poleas y balanzas y algunos principios físicos como la ley de las velocidades virtuales, el paralelogramo de fuerzas y la ley de la inercia.
+En esta obra se muestra una representación de la Paradoja de las ruedas de Aristóteles.
+La paradoja viene que si consideramos dos circunferencias concéntricas y las ponemos a rodar ambas circunferencias dan una vuelta en el mismo espacio de tiempo y recorren la misma distancia.
+Sin embargo es evidente que si los radios son distintos la longitud de ambas circunferencias no va a ser la misma y por lo tanto es imposible que hayan podido recorrer la misma distancia a lo largo del movimiento.

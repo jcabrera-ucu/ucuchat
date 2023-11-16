@@ -1,0 +1,11 @@
+El "filtro de partículas" es un método empleado para estimar el estado de un sistema que cambia a lo largo del tiempo.
+Más concretamente, es un método de Montecarlo (secuencial) usado comúnmente en visión artificial para el seguimiento de objetos en secuencias de imágenes.
+Fue propuesto en 1993 por N. Gordon, D. Salmond y A. Smith como filtro bootstrap para implementar filtros bayesianos recursivos.
+Básicamente, el filtro de partículas se compone de un conjunto de muestras (las partículas) y unos valores, o pesos, asociados a cada una de esas muestras.
+Las partículas son estados posibles del proceso, que se pueden representar como puntos en el espacio de estados de dicho proceso.
+Posee cuatro etapas principales:
+Para realizar el seguimiento de un objeto sobre una secuencia de imágenes, el filtro de partículas "lanza" al azar un conjunto de puntos sobre la imagen (etapa de inicialización, se crea un conjunto de partículas con un estado aleatorio), realizando cálculos se le asignará un valor, o valores, a cada uno de esos puntos (etapa de actualización).
+A partir de estos valores, se creará un nuevo conjunto de puntos que reemplazará al anterior.
+Esta elección también será al azar, pero los valores que se han adjudicado a cada uno de los puntos provocarán que sea más probable de elegir aquellos puntos que hayan capturado al objeto sobre el que quiere realizar el seguimiento (etapa de estimación).
+Una vez que se crea el nuevo conjunto de puntos, se realiza una leve modificación al estado (posición) de cada uno de ellos, con el fin de estimar el estado del objeto en el instante siguiente (etapa de predicción).
+Al terminar la etapa de predicción, se obtiene un nuevo conjunto de puntos al que se le vuelve a aplicar la etapa de actualización, repitiéndose este bucle hasta que termine la secuencia o desaparezca el objeto, caso en el cual se volvería a la etapa de inicialización.

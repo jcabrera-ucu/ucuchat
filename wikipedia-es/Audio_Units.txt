@@ -1,0 +1,10 @@
+Audio Units (AU) es una arquitectura de plugins a nivel de sistema proporcionada por Core Audio en Mac OS X desarrollada por Apple Inc. Audio Units es un conjunto de servicios de Interfaz de programación de aplicaciones proporcionados por el Sistema operativo para generar, procesar, recibir, manipular, etc. corrientes de audio en tiempo real con latencia mínima.
+La arquitectura de Apple es equivalente a otro popular formato de plugins, el VST de Steinberg.
+Debido a las muchas similitudes entre Audio Units y VST varias tecnologías de envoltura comerciales y gratuitas están disponibles (por ejemplo, Simbiosis y FXpansion VST-AU Adapter).
+Mac OS X viene con Audio Units integrado, permitiendo a uno hacer time stretching a un archivo de audio, convertir su frecuencia de muestreo y hacer streaming en una red de área local.
+Este También viene con una colección de plugins AU como filtros de ecualización, procesadores dinámicos, delay, reverb, y un instrumento de sintetizador soundbank.
+Audio Units está utilizado por aplicaciones de Apple como GarageBand, Soundtrack Pro, Logic Express, Logic Pro, Final Cut Pro, MainStage y por la mayoría de software de audio desarrollado para Mac OS X de terceras partes como Ardour, Ableton Live, REAPER y Digital Performer.
+RTAS de Digidesign.
+LADSPA, DSSI y LV2 para Linux.
+VST de Steinberg.
+DirectX de Microsoft.

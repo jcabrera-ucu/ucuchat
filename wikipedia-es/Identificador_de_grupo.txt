@@ -1,0 +1,21 @@
+En sistemas tipo Unix el identificador de grupo, abreviado como GID o Group ID, es un identificador que permite organizar a los usuarios por grupos.
+En los sistemas Unix, los múltiples usuarios se pueden combinar para formar "grupos".
+Según los establecido en POSIX, y por convención, los permisos del filesystem en UNIX están organizados en tres categorías, user, group, y others (usuario, grupo y otros, respectivamente).
+El uso de grupos ofrece posibilidades adicionales para delegar de una manera más organizada, como el caso de acceso a discos, a impresoras, y a otros periféricos.
+Este método, entre otros a su vez, habilita al Superusuario a delegar algunas tareas administrativas a usuarios normales.
+Algo parecido sucede en el grupo “Administradores” en Microsoft Windows NT y sus derivados.
+Un identificador del grupo, abreviado a menudo a GID, es un valor numérico usado para representar a un grupo específico.
+La gama de los valores para un GID varía entre diversos sistemas; entre por lo menos, un GID puede estar 0 y 32767, con una restricción: el grupo de la conexión para el superusuario debe tener GID 0.
+Este valor numérico se utiliza para referir a grupos en los archivos del /etc/passwd y del /etc/group o sus equivalentes.
+Los archivos de la contraseña de la sombra (/etc/shadow) y el servicio informativo de la red también refieren a GIDs numérico.
+El identificador del grupo es un componente necesario de Unix los sistemas del archivo y los procesos.
+Los límites en la gama de los identificadores posibles del grupo vienen de la memoria usada para almacenarlos.
+Originalmente, un número entero 16-bit firmado fue utilizado y permite las identificaciones de grupo entre 0 y 65535.
+Los sistemas operativos modernos utilizan generalmente los números enteros 32-bit sin firmar, que permiten las identificaciones de grupo entre 0 y 4294967295.
+El interruptor a partir del 16 a 32 bits no era originalmente una máquina primera necesidad o aún una red no sirvió más hicieron de 65536 usuarios en el tiempo de espera al eliminar la necesidad de hacer tan en el futuro, cuando sería más difícil poner en ejecución.
+En los sistemas de Unix, cada usuario debe ser un miembro por lo menos de un grupo, que es identificado por el GID numérico de la entrada de usuario adentro /etc/passwd.
+Refieren a este grupo como la identificación de grupo primaria.
+Un usuario puede ser enumerado como miembros de grupos adicionales en la entrada relevante de los grupos en /etc/group; las identificaciones de estos grupos se refieren como identificaciones de grupo suplementario.
+Los procesos de Unix tienen un eficaz y una identificación de grupo verdadera esta es normalmente idéntica, pero en proceso del gid es diferente.
+Esto es así que el proceso del gid puede realizar funciones privilegiadas usando al grupo privilegiado, con todo invierte fácilmente al grupo sin privilegios cuando es necesario.
+Éste debe evitar que el usuario que llama manipule el proceso para tener el acceso desautorizado al grupo privilegiado.

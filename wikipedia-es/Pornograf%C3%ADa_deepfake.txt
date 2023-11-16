@@ -1,0 +1,35 @@
+La pornografía deepfake, o simplemente pornografía falsa, es un tipo de pornografía sintética que se crea alterando una publicación pornográfica ya existente mediante la aplicación de tecnología deepfake en los rostros de las víctimas (usualmente personalidades públicas).
+La pornografía deepfake ha sido muy controvertida, ya que se ha utilizado comúnmente para colocar los rostros de celebridades femeninas en los cuerpos de las actrices porno, cuya imagen se utiliza normalmente sin su consentimiento.
+La pornografía deepfake apareció de manera destacada en Internet en 2017, particularmente en Reddit.
+El primero que llamó la atención fue el deepfake de Daisy Ridley, que apareció en varios artículos.
+Otras creaciones de pornografía deepfake destacadas fueron de varias otras celebridades.
+Un informe publicado en octubre de 2019 por la startup holandesa de ciberseguridad Deeptrace estimó que el 96% de todo el deepfake en línea era pornográfico.
+En diciembre de 2017, Samantha Cole publicó un artículo sobre r/deepfakes en Vice que atrajo la atención de la corriente principal sobre los deepfakes que se comparten en comunidades en línea.
+Seis semanas después, Cole escribió en un artículo de seguimiento sobre el gran aumento de la pornografía deepfake asistida por IA.
+Desde 2017, Samantha Cole de Vice ha publicado una serie de artículos que cubren noticias relacionadas con la pornografía falsa.
+Desde entonces, varios medios de comunicación social han prohibido o han hecho esfuerzos para restringir la pornografía deepfake.
+En particular, el subreddit r/deepfakes en Reddit fue prohibido el 7 de febrero de 2018 debido a la violación de la política de "pornografía involuntaria".
+En el mismo mes, representantes de Twitter declararon que suspenderían las cuentas sospechosas de publicar contenido deepfake no consensuado.
+Scarlett Johansson, un sujeto frecuente de la pornografía deepfake, habló públicamente sobre el tema a The Washington Post en diciembre de 2018.
+En una declaración preparada, expresó que a pesar de las preocupaciones, no intentaría eliminar ninguno de sus deepfakes, debido a su creencia de que no afectan su imagen pública y que las diferentes leyes entre países y la naturaleza de la cultura de Internet hacen cualquier intento de eliminar los deepfakes "una causa perdida".
+Si bien las celebridades como ella están protegidas por su fama, sin embargo, cree que el deepfake representa una grave amenaza para las mujeres de menor prominencia cuya reputación podría verse dañada por la representación en deepfake involuntario pornografía de venganza.
+En junio de 2019, se lanzó una aplicación descargable de Windows y Linux llamada DeepNude que usaba redes neuronales, específicamente redes antagónicas generativas, para quitar la ropa de las imágenes de mujeres.
+La aplicación tenía una versión paga y no paga, la versión paga costaba US$50.
+El 27 de junio, los creadores eliminaron la aplicación y reembolsaron a los consumidores, aunque siguen existiendo varias copias de la aplicación, tanto gratuitas como de pago.
+En GitHub, se eliminó la versión de código abierto de este programa llamado "open-deepnude".
+La versión de código abierto tenía la ventaja de permitir entrenarse en un conjunto de datos más grande de imágenes de desnudos para aumentar el nivel de precisión de la imagen de desnudos resultante.
+La tecnología deepfake ha hecho que la creación de material de abuso sexual infantil (CSAM), también conocido como pornografía infantil, sea más rápido, más seguro y más fácil que nunca.
+se puede utilizar deepfakes para producir un nuevo CSAM a partir de material ya existente o crear un CSAM a partir de niños que no han sido objeto de abuso sexual.
+Sin embargo, deepfake CSAM puede tener implicaciones reales y directas en los niños, incluida la difamación, la manipulación, la extorsión y la intimidación.
+Además, la pornografía infantil deepfake crea más obstáculos para la policía, lo que dificulta las investigaciones criminales y la identificación de víctimas.
+El software de pornografía deepfake puede usarse indebidamente para crear una pseudo pornografía de venganza sobre un individuo, lo que puede considerarse una forma de acoso.
+Actualmente, las imágenes producidas por software como DeepNude todavía están lejos de ser lo suficientemente sofisticadas como para ser indistinguibles de las imágenes reales bajo análisis forense.
+El 31 de enero de 2018, Gfycat comenzó a eliminar todas las imágenes deepfake de su sitio.
+En febrero de 2018, Reddit prohibió el subreddit r/deepfakes por compartir pornografía involuntaria.
+Otros sitios web también han prohibido el uso de deepfakes para la pornografía involuntaria, incluida la plataforma de redes sociales Twitter y el sitio de pornografía Pornhub.
+Sin embargo, algunos sitios web no han prohibido el contenido deepfake, incluidos 4chan y 8chan.
+También en febrero de 2018, Pornhub dijo que prohibiría los videos deepfake en su sitio web porque se considera "contenido no consensuado" que viola sus términos de servicio.
+También declararon previamente a Mashable que eliminarán el contenido marcado como deepfakes.
+Los escritores de Motherboard de Buzzfeed News informaron que la búsqueda de "deepfakes" en Pornhub todavía arrojó múltiples videos recientes de deepfakes a la fecha.
+El sitio de chat Discord ha tomado medidas contra el deepfake en el pasado, y ha adoptado una postura general contra este.
+En septiembre de 2018, Google agregó "imágenes pornográficas sintéticas involuntarias" a su lista de prohibición, lo que permite que cualquier persona solicite el bloqueo de resultados que muestran sus desnudos falsos.

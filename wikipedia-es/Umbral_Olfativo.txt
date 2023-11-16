@@ -1,0 +1,4 @@
+Umbral Olfativo o UMB es la concentración de una sustancia cuyo olor se percibe.
+Puede ser expresado tanto en unidades de volumen (ppm) como en masa / volumen (mg/m).
+Normalmente se presentan dos valores que se corresponden con promedios de sensibilidad olfativa.
+Esta magnitud sirve de punto de control para ser relacionada con la concentración máxima permitida, por ejemplo.

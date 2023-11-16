@@ -1,0 +1,54 @@
+Una entidad de interés variable (VIE) es un una compañía offshore parte de una estructura corporativa utilizada por ciertas empresas que buscan cotizar o cotizan en bolsas de valores.
+El Consejo de Normas de Contabilidad Financiera de los Estados Unidos (FASB) en FIN 46 utiliza este término para referirse a una entidad en la que el inversor adquiere una participación de control que no se basa en la mayoría de los votos.
+Es un tipo de estructura comercial legal utilizado por Bancos y empresas que quieren mantener el control de sus activos fuera de los inversionistas.
+Desde alrededor de 1999, un número cada vez mayor de VIE ha realizado ofertas públicas iniciales en bolsas de valores de EE.UU.
+En 2017, aproximadamente 20 empresas chinas que utilizan estructuras VIE realizaron o presentaron ofertas públicas iniciales (OPI) en los EE.UU.
+La primera empresa China en cotizar por medio de esta estructura fue SINA.
+Una estructura de entidad de interés variable (VIE), es una estructura comercial legal en la que una empresa desarrolla una entidad (Beneficiario secundario) cuya relación mutua se establece por medio de intereses contractuales, de propiedad o de otro tipo que pueden variar de acuerdo con cambios realizados en la empresa originaria (Beneficiario primario).
+Los inversionistas que colocan capital en empresas que trabajan bajo este modelo no adquieren control sobre la empresa en cuestión ni sus activos pues adquieren acciones sobre lo que podría considerarse una empresa pantalla cuya sede por lo general está ubicada en algún paraíso fiscal.
+Las estructuras VIE se han hecho populares entre las compañías chinas que buscan capital extranjero pero que trabajan en sectores considerados sensibles o estratégicos por el gobierno chino y en los que este prohíbe o limita la inversión extranjera directa.
+Por medio de las VIEs se puede recaudar fondos sin necesidad de poner en riesgo el control de la empresa y de sus activos.
+Ciertas industrias en China, incluida la industria de Internet, están fuertemente reguladas y la inversión extranjera en sus activos está severamente limitada o prohibida por el gobierno (Estas limitaciones se encuentran en las denominadas “listas negativas” ).
+Para operar legalmente en una industria restringida o prohibida, una empresa debe recibir una licencia comercial de MOFCOM (Ministerio del comercio de China).
+Antes de emitir la licencia, MOFCOM se asegura de que la compañía sea propiedad y esté controlada por propietarios chinos.
+Debido a que las responsabilidades regulatorias del MOFCOM también incluyen la evaluación de la inversión extranjera directa entrante, a las compañías les resulta difícil ocultar el capital extranjero en sus arcas.
+Como resultado, los abogados de valores diseñaron estructuras corporativas utilizando entidades de interés variable (VIE) que cumplen dos funciones fundamentales: (1) satisfacer a los reguladores chinos que la propiedad y el control real reside en los ciudadanos chinos y (2) convencer a los inversores extranjeros de que tienen propiedad y derechos de control.
+La estructura de Entidad de Interés Variable ("VIE") fue utilizada por primera vez en el 2000 cuando SINA tuvo su oferta pública inicial en NASDAQ, desde ese momento han sido decenas de empresas chinas las que se han financiado por medio de ese modelo.
+A pesar de que desde ese momento las VIEs se han presentado como una práctica común entre las empresas chinas que cotizan en bolsa y han obtenido cierta validación de los principales inversores, esa estructura pone a los accionistas públicos en una posición de vulnerabilidad.
+La estructura VIE consta de al menos tres entidades principales: una empresa china con las operaciones legítimas (denominada VIE u OpCo); una empresa de propiedad totalmente extranjera (WFOE) establecida como intermediario en China; y una compañía fantasma offshore que cotiza en una moneda extranjera de EE.UU.
+u otra (ListCo).
+Para que la empresa matriz (VIE) pueda cumplir con los reglamentos de Ministerio de comercio de China y pueda asegurar la licencia de comercio, esta debe mantenerse en todo momento en manos Chinas; en las de sus fundadores y demás directivos.
+Por lo que para entrar en los mercados internacionales deberá de establecer un intermediario, el WFOE, con quien establece una serie de compromisos contractuales.
+Por medio de estos contratos se otorgara control sobre sus finanzas sin otorgar propiedad sobre la empresa VIE ni sus activos.
+Dado que la WFOE no es propietaria directa de la VIE ni posee ningún activo que esté restringido a la inversión extranjera, no requiere una licencia MOFCOM y puede recibir inversión extranjera.
+A continuación, una empresa fantasma incorporada en una jurisdicción amigable para la administración, como las Islas Caimán o las Islas Vírgenes Británicas (BVI), lleva a cabo una OPI en una bolsa de valores, con frecuencia la Bolsa de Nueva York (NYSE) o Nasdaq.
+Esta ListCo es propietaria directa de la WFOE y canaliza capital de inversores extranjeros a China.
+Para agravar la complejidad de la estructura, ListCo es generalmente una compañía tenedora que lleva el mismo nombre que la VIE china, ocultando la realidad de que los inversores compran acciones en una compañía fantasma con una relación de tercer nivel con la lucrativa VIE.
+Los acuerdos contractuales que conectan el ListCo y su WFOE con el VIE chino y su propietario desempeñan un papel central para facilitar el flujo de capital extranjero hacia la industria restringida.
+Los contratos imitan la propiedad en función y forma sin otorgar a los inversores la propiedad de capital directo de la VIE china.
+Los contratos generalmente incluyen las siguientes características:
+Puesto que la mayoría de las empresas chinas que cotizan de esta forma son del sector de la tecnología y el internet, industrias que los inversionistas consideran "activos ligeros", esta estructura no se percibió como un problema puesto que la mayoría del valor de estas compañías no se derivaba de un reclamo sobre activos, sino que se derivaba de un reclamo sobre ingresos futuros y flujos de caja.
+Sin embargo, existen ciertas vulnerabilidades que trae consigo esta estructura comercial
+Puesto que el estatus de las VIEs no es del todo claro en las leyes Chinas, cualquier cambio en los reglamentos del MOFCOM que las legalice puede provocar la ruptura entre las VIEs y las WFOE trayendo consigo perdidas para los accionistas.
+En 1998, el gobierno prohibió abruptamente una estructura corporativa similar a las VIE que había tolerado anteriormente.
+Las compañías usaban esta estructura, llamada China-China-Foreign (CCF), para facilitar la inversión extranjera en violación de las prohibiciones del Catálogo del MOFCOM, tal como lo hacen las VIEs hoy.
+Estos precedentes subrayan el riesgo de que el gobierno chino en cualquier momento haga cumplir el Catálogo del MOFCOM y ordene a las compañías chinas que rescindan sus contratos con la WFOE.
+En 2015, el MOFCOM avivó los temores al emitir un proyecto de Ley de Inversión Extranjera que incluye "la capacidad de ejercer una influencia decisiva sobre una empresa a través de acuerdos contractuales" en la definición de control para designar empresas de inversión extranjera.
+Desde que se emitió el borrador para comentario público, MOFCOM no ha progresado en el avance de la ley.
+Sin embargo, si se implementa, este cambio de política podría proscribir la estructura VIE que emplean cerca de 100 empresas chinas que cotizan en bolsa.
+Puesto que los inversores compran acciones en las ListCo, entidades que solo poseen las WFOE, mientras que los activos reales de las empresas las manejan las VIEs, el valor de sus acciones deriva de la capacidad de la ListCo para consolidar el VIE chino en sus estados financieros, perder el VIE como resultado de contratos incumplidos (o la aplicación del gobierno) devaluaría significativamente las inversiones de los accionistas.
+Un ejemplo de esto se presentó entre Alibaba y sus accionistas, el conflicto entre la firma china de Internet y sus dos principales accionistas comenzó después de que Alibaba transfirió a Alipay a una compañía separada controlada por Jack Ma (El fundador de Alibaba) sin el consentimiento de sus accionistas, esto trajo como consecuencia que ni Yahoo! (Principal accionista de Alibaba con 43% para el momento) ni Softbank pudiesen beneficiarse de los ingresos de Alipay.
+Al final entre los tres llegaron a un acuerdo en el que Alibaba obtiene hasta $ 6 mil millones si la empresa de pagos móviles se hace pública o se vende.
+Esto representa una devaluación de las tenencias totales de Yahoo!
+en Alipay.
+En teoría, la VIE debería pagar todas sus ganancias a la WFOE bajo los términos del contrato de servicios para modelar la propiedad directa.
+El ListCo a su vez podría extraer las ganancias de China, ya que posee directamente la WFOE.
+Sin embargo, existen un conjunto de impuestos que reducirían la cantidad de dinero que llega a los accionistas y que podrían fomentar la reinversión de las ganancias en China.
+En China, las ganancias de la VIE están sujetas a un impuesto al valor agregado (IVA) promedio de 8.5% desde el principio.
+La VIE debería pagar el 91.5% restante de sus ganancias a la WFOE.
+Debido a la cuestionable legalidad de la estructura VIE, el tratamiento fiscal después del IVA es menos claro.
+En un escenario hipotético, pero potencialmente realista, Paul Gillis, editor del Blog de contabilidad de China, argumenta que la administración podría considerar el pago de VIE como un dividendo para el propietario chino de VIE, que luego lo transfiere a la WFOE.
+Esta formulación sometería al propietario de VIE a un impuesto a la renta individual del 20% y a la WFOE a un impuesto a la renta corporativo del 25%.
+Cuando la WFOE paga el resto a ListCo, extrayendo las ganancias de China, la administración aplicaría una retención adicional del 10%, lo que dejaría a la ListCo con menos del 50% de las ganancias.
+Un análisis del Council of Institutional Investors ha encontrado que menos de una quinta parte de las VIEs chinas que cotizan en los EE.UU.
+pagan dividendos a los accionistas, lo que deja como ganancia a los accionistas el posible aumento de sus acciones y su posterior venta.

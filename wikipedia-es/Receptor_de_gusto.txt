@@ -1,0 +1,5 @@
+Un receptor de gusto es un tipo de receptor celular que facilita el sentido del gusto.
+Por ejemplo el TAS2R16 y el TAS2R38.
+Se dividen en dos familias:
+Los genes de los receptores de amargo son nombrados TAS2R1 hasta el TAS2R64, con algunos huecos debido a la no existencia de genes, pseudo-gens, o genes propuestos que no han sido anotados al más reciente ensamblaje del genoma humano.
+Muchos de estos genes poseen también nombres sinónimos confusos, con varios nombres distintos haciendo referencia al mismo gen. Vea la tabla siguiente para una lista completa de los genes humanos de receptores de amargo:

@@ -1,0 +1,14 @@
+La fosfodiesterasa 9 (PDE9A) es una enzima que cataliza la reacción de hidrólisis del fosfato cíclico del guanosín monofosfato cíclico (cGMP).
+Esta enzima es uno de los 11 tipos de fosfodiesterasas cíclicas conocidos (PDE1-PDE11).
+En el ser humano se conoce una isozima de esta proteína (PDE9A) y dieciséis isoformas.
+Participa en la transducción de señales regulando la concentración intracelular del cGMP.
+La enzima se compone de un dominio catalítico C-terminal y de un dominio regulador N-terminal.
+Como cofactor utiliza dos cationes metálicos divalentes por subunidad cuyos sitios de unión se encuentra en el dominio catalítico.
+El sitio de unión 1 se une preferentemente a iones zinc, mientras que el sitio 2 tiene como preferencia los iones magnesio y/o manganeso.
+La enzima es inhibida por el zaprinast.
+La isoforma PDE9A1 se localiza en el aparato de Golgi y en el retículo enplasmático.
+La isoforma PDE9A2 se localiza en la región perinuclear.
+Las isoformas PDE9A3 y PDE9A17 se localizan en el retículo endoplasmático.
+La enzima se expresa en muchos tejidos (testículos, cerebro, intestino delgado, músculo esquelético, corazón, pulmones, timo, bazo, placenta, riñón, hígado, páncreas, ovarios y próstata) excepto en la sangre.
+Los mayores niveles de expresión se dan en el cerebro, riñón, bazo, próstata y colon.
+La isoforma PDE9A12 se encuentra en la próstata.

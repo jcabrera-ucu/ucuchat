@@ -1,0 +1,26 @@
+El momento resistente o módulo resistente es una magnitud geométrica que caracteriza la resistencia de un prisma mecánico sometido a flexión.
+De hecho, el momento resistente es calculable a partir de la forma y dimensiones de la sección transversal, y representa la relación entre las tensiones máximas sobre ella y el esfuerzo de flexión aplicado.
+El momento resistente flexional frecuentemente se designa mediante (como hace por ejemplo la EHE-08), mientras que el momento resistente torsional típicamente es designado como.
+Para una sección sometida a flexión simple la tensión (σ) viene dada por:
+Donde:
+El valor máximo sobre dicha sección se alcanza para el punto más alejado de la fibra neutra siendo esta tensión máxima:
+De donde se deduce que los momentos resistentes flexionales vienen dados por:
+Para una sección doble T con dos ejes de simetría, con ancho de ala b, altura h y espesores de alma y de ala eh y eb, el módulo resistente flexional elástico viene dado muy aproximadamente por:
+Para una sección maciza o tubular circular sometida a torsión simple la tensión tangencial (τ) viene dada por:
+Donde:
+El valor máximo sobre dicha sección se alcanza para el punto más alejado del centro de torsión siendo esta tensión tangencial máxima:
+De donde se deduce que para una sección circular maciza o hueca el momento resistente torsional viene dado por:
+Donde Rext es el radio exterior de la sección.
+Para secciones no-circulares no existe una relación sencilla entre el módulo de torsión y el momento resistente de torsión.
+El problema con secciones no-circulares presenta alabeo y a diferencia de lo que sucede en una sección circular las tensiones no son proporcionales a la distancia al centro de la sección.
+Además las tensiones difieren según la dirección en la que nos separemos del centro al no ser todas la direcciones equivalentes.
+Para algunas formas concretas como la sección triangular equilátera o la elíptica la función de alabeo es relativamente sencilla de obtener.
+Sin embargo, la expresión para una sección rectangular resulta bastante más complicado.
+Para secciones de pared delgada (tubo estructural o perfiles doble T) puede obtenerse una aproximación razonable a efectos de cálculo de forma muy sencilla.
+En la siguiente sección se dan expresiones para diferentes secciones.
+Es importante notar que
+En el cálculo plástico de la resistencia última de cierto tipo de estructuras, se admite que una sección esté totalmente plastificada.
+En caso de fallo por flexión simple, la tensión es aproximadamente constante sobre la sección en el caso plástico, a diferencia del caso elástico donde las tensiones son proporcionales a la distancia a la fibra neutra.
+Esta diferente distribución de las tensiones implica que el momento resistente efectivo es diferente en los dos casos, siendo en general el momento resistente plástico mayor que el momento resistente elástico.
+Donde:
+Donde W_F es el correspondiente momento resistente de flexión en régimen elástico.

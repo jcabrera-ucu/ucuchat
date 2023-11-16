@@ -1,0 +1,19 @@
+Por doble imposición se entiende el hecho de que sobre una misma manifestación de riqueza incidan varios impuestos en un mismo periodo impositivo.
+Pueden distinguirse dos categorías dentro de la doble imposición, la económica y jurídica.
+La primera se produce por la incidencia del poder tributario sobre una misma renta por impuestos de carácter similar pero en personas distintas.
+La doble imposición jurídica se da en aquellos casos en que se grava un mismo sujeto pasivo por una misma renta por impuestos similares.
+La doble imposición económica se pone de manifiesto cuando una misma renta está sujeta a más de un gravamen, aunque sea en personas distintas.
+Se pone de relieve, de manera destacada, en el ámbito del impuesto sobre sociedades, con la imposición consecutiva de los beneficios en un sociedad, y de los dividendos recibidos por su accionista, ya que los beneficios de las sociedades son gravados primero como tales beneficios y posteriormente, cuando son objeto de reparto en forma de dividendos, al constituir una renta del perceptor de dichos dividendos.
+Los mecanismos utilizados por el legislador para resolver esta situación pueden ser diversos:
+La doble imposición jurídica se produce en aquellos casos en que se grava a un mismo sujeto pasivo por una misma renta por impuestos similares.
+Se puede distinguir la doble imposición interna y la doble imposición internacional.
+La doble imposición jurídica conlleva aspectos negativos, tanto para exportadores de capital como para los receptores de esas inversiones, genera una carga fiscal inequitativa para el inversor, ya que su operación puede ser gravada dos veces, obstaculiza las inversiones, finalmente, se pierde neutralidad y eficiencia de la imposición internacional en la localización de los factores de producción.
+undefined
+La doble imposición internacional se produce cuando un contribuyente es a la vez residente a efectos fiscales en dos países.
+Los países pueden definir el concepto de residencia fiscal de forma dispar, de manera que un sujeto puede ser residente en dos países a un tiempo.
+También puede surgir la doble imposición por el hecho que un estado someta al principio de residencia, mientras que otro estado utilice el criterio de gravar las rentas obtenidas en un territorio con independencia de la residencia fiscal del perceptor.
+Las vías para resolver la doble imposición internacional pueden ser unilaterales, cuando una administración tributaria establece en su sistema impositivo los mecanismos para evitar la doble imposición sin tener en cuenta lo que legisla el resto de Estado, o bilaterales que se plasma en convenios de doble imposición firmados con cada país que tratan de resolver los casos de doble imposición que surjan en las relaciones económicas entre dos países.
+Los mecanismos para eliminar la doble imposición jurídica pueden ser clasificados según su origen y esencia.
+Cuando la renta obtenida en el extranjero no está libre de gravamen en un primer momento en el estado de fuente y en un segundo momento en el estado de residencia, este último aplica el régimen impositivo sobre la totalidad de la renta del contribuyente, sin importar el origen de la misma.
+Este método sirve para eliminar los efectos de la doble imposición internacional, pero solo alivia la carga, ya que esa doble imposición no se destruye, ya que dos estados diferentes sobre un mismo contribuyente se yuxtaponen en el mismo hecho imponible.
+Finalmente el método de imputación es una deducción parcial del impuesto extranjero, y si este crédito en algún momento es superior al impuesto gravado, ese crédito solo se otorga hasta el monto del impuesto correspondiente.

@@ -1,0 +1,20 @@
+Un triptongo es la unión de tres vocales en una misma sílaba.
+Siempre será una vocal cerrada más una abierta seguida de otra cerrada se forma "triptongo".
+En español, un triptongo es siempre la unión de tres vocales que se pronuncian en una misma sílaba, dos de ellas cerradas y una abierta, según el esquema:
+La vocal fuerte ocupa la posición central y está flanqueada por dos vocales débiles.
+Algunos ejemplos: riais, amortiguáis, aliviáis, acariciéis, Paraguay, Uruguay, despreciéis, criais, Guaiqueri, semiautomático y vieira.
+Hay 9 posibles combinaciones entre a, e, o centrales y las i, u de flancos: iai, iei, ioi; iau, ieu, iou; uai, uei, uoi.
+La siguiente combinación no es triptongo sino hiato+diptongo cuando el acento recae en la primera vocal débil, como sucede en la palabra rompíais.
+Es necesario que ninguna de las vocales cerradas sea tónica para que exista triptongo.
+Las palabras con triptongo siguen las reglas generales de acentuación.
+Así, lieis no lleva tilde por ser una palabra monosílaba.
+Triptongo es la secuencia de tres vocales que forman parte de una misma sílaba: a - pre - ciáis, co - piéis, buey.
+Para que exista un triptongo han de combinarse dos vocales cerradas (i, u) átonas y, en medio de estas, una vocal abierta (a, e, o): anunciáis, guau, miau, confiéis.
+No son triptongos en español las secuencias de vocal cerrada (débil) + vocal abierta (fuerte) + vocal cerrada (débil) cuando alguna de las dos vocales cerradas (débiles) es tónica.
+Entonces siempre que se acentúa la vocal cerrada (débil), el triptongo se destruye automáticamente sin importar cómo esté estructurada la palabra.
+Lo que hay en esos casos es un hiato seguido de un diptongo, cuando es tónica la primera vocal cerrada (débil): vivíais (vi - ví - ais); o un diptongo seguido de un hiato, cuando es tónica la segunda vocal cerrada: limpiaúñas (lim - pia - ú - ñas).
+Una misma secuencia de vocal cerrada átona + vocal abierta + vocal cerrada átona puede pronunciarse, en unas palabras, formando parte de la misma sílaba, esto es, como un triptongo y, en otras, en dos sílabas diferentes, es decir, como un hiato seguido de un diptongo, o viceversa; así, la secuencia iei se pronuncia como triptongo en la palabra cambiéis [cam - biéis] y como hiato + diptongo en confiéis [con - fi - éis], al menos en España y en los países americanos en los que la tendencia antihiática es menos fuerte.
+Sin embargo, a efectos de acentuación gráfica, cualquier secuencia formada por una vocal abierta entre dos vocales cerradas átonas siempre se considerará un triptongo, con independencia de su articulación real en una o en dos sílabas.
+Por lo regular son de terminación iái, por ejemplo:
+La tilde (en caso de necesitarla) va siempre sobre la vocal abierta: consensuéis (con-sen-suéis), habituáis (ha-bi-tuáis), tuáutem (tuáu-tem)..
+Siempre va acompañado del pronombre "vuestro"

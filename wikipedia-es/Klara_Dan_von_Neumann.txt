@@ -1,0 +1,17 @@
+Klára (Klari) Dán Von Neumann (Budapest, Hungría, 18 de agosto de 1911-San Diego, California, 10 de noviembre de 1963) fue una científica estadounidense pionera de la programación.
+Nació en Budapest en agosto de 1911, hija de Károly - Karl Dán y Camila Stadler.
+Su padre había servido anteriormente en el ejército austrohúngaro como oficial durante Primera Guerra Mundial, y se mudaron a Viena para huir de Bela Kun.
+No regresaron a Hungría hasta que el régimen fue derrocado.
+Su familia era rica y solía organizar fiestas en las que Dán pudo conocer a mucha gente de diferentes ámbitos.
+Con 14 años, fue campeona nacional de patinaje artístico, y poco después fue enviada a estudiar a un internado a Inglaterra.
+Estuvo casada en cuatro ocasiones, y después de su segundo divorcio, se casó con John von Neumann en 1938.
+Posteriormente, contrajo matrimonio con Carl Eckart en 1958.
+Murió en 1963 en extrañas circunstancias: tras abandonar una fiesta en honor a la ganadora del premio Nobel Maria Goeppert-Mayer, condujo desde su casa a la playa y se ahogó.
+Su cuerpo fue hallado en la playa de La Jolla.
+La policía consideró su muerte como un suicidio.
+Dán fue una de las primeras programadoras del mundo y ayudó a resolver problemas matemáticos usando código informático.
+Escribió el código utilizado en la máquina MANIAC I desarrollada por John von Neumann y Julian Bigelow en el Laboratorio Nacional de Los Álamos.
+También estuvo implicada en el diseño de nuevos controles para la ENIAC y era una de sus principales programadoras.
+Enseñó cómo programar a los científicos de aquella primera época.
+Escribió el prefacio de la influyente obra de John von Neumann Silliman Lectures, publicada póstumamente y más tarde editada y publicada por la editorial Yale University Press como "El ordenador y el cerebro".
+Aparece como una figura relevante en el libro de historia de la computación "La catedral de Turing: Los orígenes del universo digital" de George Dyson.

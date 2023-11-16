@@ -1,0 +1,60 @@
+El amitrol es un compuesto orgánico heterocíclico que consta de un 1,2,4- triazol sustituido con un grupo amino.
+Se trata de un inhibidor competitivo del producto del gen HIS3, es decir, de la imidazol-glicerol fosfato deshidratasa, enzima que cataliza la sexta etapa de la producción de histidina.
+El amitrol se emplea como herbicida sistémico no selectivo, utilizado en tierras de cultivo no alimentario para controlar los pastos anuales de hoja ancha y las malezas acuáticas.
+No se emplea en cultivos de alimentos debido a sus posibles propiedades cancerígenas en humanos y demostradas en estudios animales.
+Como herbicida se conoce también como aminotriazol, aminotriol o 3 - AT.
+Este compuesto fue incluido en la prohibición biocida, propuesto por la Agencia de Productos Químicos de Suecia y aprobada su inclusión por el Parlamento Europeo el 13 de enero de 2009
+== Historia ==
+El amitrol fue el compuesto químico que dio lugar a la Crisis del Arándano de 1959.
+Este evento supuso la primera aplicación de la Cláusula Delaney, que prohíbe que cualquier sustancia que cause cáncer pueda estar presente (independientemente de la cantidad) en o sobre los alimentos.
+También consiguió que los agricultores tuviesen más precauciones y leyeran el etiquetado para seguir las pautas más minuciosamente.
+En 1957, el herbicida fue aprobado por el Departamento de Agricultura para su uso en la cosecha de arándanos, siempre y cuando se aplicase justo después de esta.
+El mal uso de este plaguicida en cosechas posteriores, consecuencia de una aplicación excesiva de la temporada anterior o por ser aplicarlo antes de la cosecha, propició la aparición de residuos del amitrol en algunos de los cultivos, por lo que la Food and Drug Administration (FDA) incautó la cosecha guardándola en cámaras frigoríficas hasta asegurar la ausencia de riesgo.
+Tras realizar estudios en animales de experimentación y observar que dichas trazas de herbicidas acumuladas en los arándanos podían causar cáncer, Arthur Flemming, entonces Secretario de Salud, Educación y Bienestar Social, ordenó la retirada de la cosecha a pesar de que los niveles reales detectados en los arándanos eran muy bajos y sin que la FDA hubiese examinado todas las cosechas
+El precio de los arándanos descendió fuertemente, grandes cadenas de supermercados dejaron de venderlos y algunos restaurantes los retiraron de sus menús.
+Finalmente la FDA comprobó las existencias de arándanos y volvieron a incorporarse al mercado.
+== Mecanismo de acción ==
+El amitrol es un herbicida que inhibe la biosíntesis de carotenoides.
+Actúa en las fases iniciales de la ruta metabólica de los isoprenoides.
+Los efectos no son específicos a la producción de carotenoides sino que el modo de acción de este herbicida resulta de los daños fotodinámicos generados por la ausencia de los carotenoides.
+Los daños fotodinámicos celulares son causados por la absorción de energía luminosa por una molécula que es incapaz de disipar dicha energía de una manera inofensiva para la célula.
+Se observa una falta de pigmentación en las hojas, en ausencia de los carotenoides, las clorofilas son mucho más susceptibles a ser destruidas en presencia de luz solar.
+Sin estos pigmentos las plantas no pueden efectuar la fotosíntesis y por tanto morirán una vez que sus reservas de energía en la semilla sean agotadas.
+El de acción del amitrol es la ciclización.
+El licopeno es un intermediario linear que es ciclizado (para formar anillos de 6 átomos) en ambos extremos y formar los carotenos, los cuales a su vez pueden ser hidroxilados para formar las xantofilas.
+Las xantofilas son importantes carotenoides que extinguen la energía de centros de reacción sobreexcitados cuando las hojas reciben altas intensidades luminosas.
+Es importante tener en cuenta que los efectos toxicológicos han sido estudiados principalmente en animales, por los que se disponen de pocos datos en humanos, y los que hay han sido extrapolados a partir de dichos estudios.
+Así pues, podemos recoger ciertos efectos en ratas, ratones y conejos, que son los principales animales de estudio.
+El amitrol se absorbe rápidamente y casi totalmente en el tracto gastrointestinal (TGI) tras haber sido administrado por vía oral a ratas y ratones.
+Se distribuye rápidamente en la mayor parte de los tejidos corporales aunque se puede acumular ligeramente en los tejidos con rápida renovación celular (médula ósea, bazo, timo, TGI).
+En un estudio con hembras de ratón, se observó que el amitrol pasa directamente de la placenta al feto, presentando en éste el mismo modelo de distribución que en las madres.
+La transformación metabólica en los mamíferos produce dos metabolitos secundarios detectables en la orina: 3-amino-5-mercapto-1,2,4-triazol y el ácido 3-amino-1,2,4-triazolil-5-mercaptúrico.
+Este metabolismo tiene lugar principalmente en el hígado, y comporta la sustitución del átomo de hidrógeno de la posición 5.
+El amitrol es un compuesto de muy baja toxicidad aguda para los seres humanos y otros animales.
+Los síntomas asociados en humanos incluyen erupciones en la piel, vómitos, diarrea y hemorragias nasales
+No se observaron efectos tóxicos en una mujer que ingirió 20 mg/kg.
+Es una dosis muy baja comparada con la dosis de 1200 mg/kg necesaria para reducir la captación de yodo por el tiroides en personas sanas
+Estudios de toxicidad aguda en animales
+Los estudios realizados por vía oral en ratones y ratas dan como resultados DL50 (Dosis Letal 50) de 15000 mg/kg en ratones y 24600 mg/kg en ratas.
+En otro estudio, las dosis probadas de 4080 mg/kg por vía oral y 2500 mg/kg por vía dérmica, no produjeron efectos tóxicos en ratas, siendo en conejos superior a los 200 mg/kg.
+La aparición puede ocurrir algún tiempo después de la exposición al amitrol y pueden durar meses o años.
+El amitrol puede ser un carcinógeno humano ya que se ha demostrado que causa cáncer de tiroides e hígado en animales.
+Muchos científicos creen que no existe un nivel seguro de exposición a un carcinógeno.
+También entraña un riesgo para la salud reproductiva, podría causar daño al feto en desarrollo.
+Ciertos estudios realizados en animales afirman que el amitrol es bocígeno para algunos animales como la rata, los ratones y las ovejas, pero no en hámsteres de Siria, perros u otros bovinos.
+El mecanismo de toxicidad para el tiroides comporta la inhibición de la peroxidasa tiroidea, que a su vez tiene como consecuencia una reducción de los niveles de T4 y T3 en circulación.
+La OMS ha clasificado el amitrol como compuesto con pocas probabilidades de presentar riesgo agudo en el uso normal en personas.
+Se considera que para el hombre:
+== Medidas de prevención frente a la exposición al amitrol ==
+Utilizar guantes y traje de protección para evitar contacto directo con la piel debido a que puede provocar enrojecimiento de la misma; si existe contacto directo, quitar la ropa contaminada y lavar la piel con agua abundante.
+Utilizar gafas protectoras durante su empleo, combinado con el uso de protección respiratoria si el herbicida se encuentra en forma de polvo.
+El amitrol puede provocar enrjecmiento de ojos, así como dolor.
+Si se produce exposición, se debe enjuagar con agua abundante durante varios minutos y proporcionar asistencia médica.
+No comer, beber ni fumar durante el trabajo.
+En caso de ingerir alimentos o líquidos, enjuagar rápidamente la boca y recurrir a la asistencia médica.
+El amitrol es un producto combustible que puede incendiarse.
+En ese caso se desprenden humos o gases tóxicos e irritantes.
+Se deben evitar las llamas y pulverizar con agua, espuma, dióxido de carbono o polvo.
+En caso de inhalación del humo desprendido se debe retirar a la víctima del lugar de exposición y trasladarla inmediatamente a un centro de atención médica.
+En caso de fuga o derrame de amitrol se debe:
+Se trata de unas normas sencillas de seguridad que evitan la exposición del trabajador y evitan posibles incendios y fugas.

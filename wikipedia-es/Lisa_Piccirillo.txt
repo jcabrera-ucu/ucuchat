@@ -1,0 +1,16 @@
+Lisa Marie Piccirillo (Greenwood, Maine, Estados Unidos) es una matemática estadounidense que trabaja en geometría y topología de dimensiones bajas.
+En 2020, Piccirillo publicó una prueba matemática en la revista Annals of Mathematics que determina que el nudo Conway no es un nudo de rebanada, respondiendo a un problema no resuelto en la teoría de nudos, propuesto por primera vez, hace más de cincuenta años por el matemático inglés John Horton Conway.
+Piccirillo obtuvo una licenciatura en Matemáticas en el Boston College en 2013 y un doctorado en topología de baja dimensión en la Universidad de Texas en Austin bajo la supervisión de John Edwin Luecke en 2019, seguido de una investigación postdoctoral en la Universidad Brandeis.
+La profesora Elisenda Grigsby, del Boston College, mencionó la creatividad de Piccirillo como parte de su éxito, y agregó que Piccirillo no encajaba en el molde de "niña prodigio matemática estándar" durante sus estudios universitarios.
+El nudo Conway era un famoso problema en la teoría de los nudos sin resolver desde que se planteó en 1970.
+El nudo lleva el nombre de su descubridor, el matemático inglés John Horton Conway, quien escribió por primera vez sobre el nudo en 1970.
+En la década de 1980, se determinó que el nudo de Conway era topológicamente cortado, sin embargo, la naturaleza de su corte, y si fue o no suavemente corte, eludió a los matemáticos durante décadas hasta el avance de Piccirillo.
+El trabajo de Piccirillo en el nudo Conway completó la clasificación de los nudos cortados con menos de trece cruces, ya que el nudo Conway había sido el último nudo sobresaliente en su grupo sin clasificar por completo.
+El problema del nudo de Conway fue notable no solo por su trayectoria, permaneció sin resolver durante más de medio siglo, sino también porque la naturaleza de la pregunta en sí misma con respecto a la división del nudo Conway estaba "conectada a algunas de las preguntas más profundas en la topología de cuatro dimensiones".
+Según el matemático Joshua Greene, la cuestión de "si el nudo Conway es una rebanada había sido una especie de piedra de toque para muchos de los desarrollos modernos en torno al área general de la teoría de nudos".
+Piccirillo se enteró por primera vez del problema del nudo Conway en 2018 en una conferencia sobre topología y geometría de baja dimensión.
+Ella era una estudiante graduada en ese momento y pasó menos de una semana trabajando en el nudo en su tiempo libre antes de encontrar una respuesta.
+El Washington Post informó que su prueba había sido "aclamada como una cosa de belleza matemática, y su trabajo podría señalar nuevas formas de entender los nudos".
+Después de la publicación de la prueba de Piccirillo en la revista Annals of Mathematics, se le ofreció un puesto de permanencia en el Instituto de Tecnología de Massachusetts, que comenzaría catorce meses después de la finalización de su doctorado.
+Piccirillo recibió uno de los tres premios Maryam Mirzakhani New Frontiers de 2021, por los primeros logros de una mujer matemática.
+Las otras dos ganadoras fueron Nina Holden y Urmila Mahadev.

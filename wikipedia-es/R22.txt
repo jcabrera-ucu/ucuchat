@@ -1,0 +1,12 @@
+El R-22 o clorodifluorometano es un gas incoloro comúnmente utilizado para los equipos de refrigeración, en principio por su bajo punto de fusión, (-157 °C).
+El R-22 era hasta hace poco el gas refrigerante más utilizado en el sector del aire acondicionado, tanto para instalaciones de tipo industrial como domésticas, aunque está prohibido su distribución por ser altamente perjudicial para la capa de ozono.
+Actualmente ha sido sustituido para la fabricación de equipos nuevos por el R-407C o más modernamente por el R-410A.
+Para los antiguos equipos de aire acondicionado que requieran reposición de su carga de refrigerante a causa de alguna fuga se están utilizando sustitutos tales como el R-427A o R-417 en los casos y países donde de acuerdo a la normativa vigente ya se haya producido el retiro de la venta.
+Los sustitutos del R-22 cumplen ciertas características:
+Los candidatos más importantes son el R-410A, el R-407C y el R-134a.
+La normativa al respecto indica que desde el 1 de enero de 2004 se prohíbe la manufactura de todo tipo de equipos con HCFCs (Hidroclorofluorocarbonos).
+Desde el 1 de enero de 2010 está prohibido por la UE, según Reglamento (CE) N.º 1005/2009 sobre sustancias que agotan la capa de ozono, importar, producir, vender y/o usar R-22 virgen.
+Aún se permitirá el uso de R-22 regenerado hasta el 2015.
+Para cubrir la demanda de R-22 en instalaciones existentes, como posibles fugas, han nacido varios productos sustitutos como el R-427A que aseguran una transición sencilla y no son destructoras de la capa de ozono.
+El R-22 también es usado como agente espumante para el poliestireno extruido, y como esterilizante.
+La siguiente figura muestra el diagrama presión-entalpía del R22 con la referencia del Instituto Internacional del Frío.

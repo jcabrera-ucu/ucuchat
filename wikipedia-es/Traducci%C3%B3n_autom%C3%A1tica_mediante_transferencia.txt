@@ -1,0 +1,42 @@
+La traducción por transferencia es un tipo de traducción automática.
+Se fundamenta sobre las bases de interlingua, y es actualmente uno de los métodos de traducción automática más ampliamente utilizados.
+Tanto transferencia como interlingua parten de la misma idea: para conseguir una traducción es necesario tener una representación intermedia que capture el significado de la oración original para generar el texto traducido equivalente.
+En interlingua esta representación intermedia debe ser independiente de los lenguajes considerados, mientras que en transferencia tiene cierta dependencia con el par de lenguajes involucrados.
+El funcionamiento de un traductor automático basado en transferencia puede variar mucho, pero en general sigue un mismo esquema: se aplican conjuntos de reglas lingüísticas, que son las que definen cual es la correspondencia entre la estructura de una lengua respecto de otra.
+En una primera etapa se analiza la entrada, morfológica y sintácticamente, creando la representación interna.
+A partir de esta información, y mediante el uso de reglas gramaticales y vocabulario, se genera la traducción.
+Con este acercamiento es posible obtener traducciones de cierta calidad, pudiendo llegar a fiabilidades por encima del 90%.
+Es por esto que los sistemas de transferencia han dominado el mundo de la traducción automática durante las últimas décadas.
+Pese a que recientemente la mayor parte de la investigación en el campo de la traducción automática se está dirigiendo principalmente a métodos basados en el análisis de corpus lingüísticos (métodos estadísticos o basados en ejemplos), todavía está por demostrar que la traducción por transferencia puede ser válida.
+En un sistema de traducción automático basado en el modelo de transferencia, el texto original se analiza primero morfológica y sintácticamente, obteniendo como resultado una representación sintáctica superficial.
+Esta representación se transforma a continuación en otra más abstracta que hace especial énfasis en aspectos relevantes para el proceso de traducción e ignora otro tipo de información.
+El proceso de transferencia convierte esta última representación (ligada aún al idioma original) a una representación al mismo nivel de abstracción pero ligada al lenguaje objetivo.
+Estas dos representaciones son las llamadas normalizadas o intermedias.
+A partir de aquí el proceso se invierte: los componentes sintácticos generan una representación del texto y finalmente se genera la traducción.
+Se pueden utilizar distintos mecanismos antes de llegar al resultado final.
+Dependiendo del diseño del traductor se hace énfasis en uno u otro, e incluso se pueden llegar a combinar con análisis estadísticos, formando auténticos híbridos.
+Pero, en los traductores por transferencia más clásicos, normalmente se pueden encontrar los siguientes estadios:
+La principal característica de los sistemas de transferencia es la existencia de una fase que proyecta representaciones intermedias del texto original sobre representaciones del texto objetivo.
+Este componente puede trabajar en distintos niveles de análisis lingüístico, por lo que se pueden distinguir diferentes tipos de transferencia:
+Uno de los principales problemas de transferencia está relacionado con las representaciones abstractas intermedias, y por tanto también es aplicable a otros sistemas como interlingua.
+El traductor, cuando deriva una estructura a partir de su sintaxis, dejará de lado algunas diferencias en el orden que en principio no tienen repercusiones semánticas.
+Tómense por ejemplo las siguientes oraciones:
+Si el nivel de abstracción es suficientemente alto, la estructura intermedia será la misma para ambas, y por tanto siempre se traducirá igual.
+Es posible solucionar este problema imponiendo algún tipo de orden canónico e identificando las palabras puramente gramaticales (sin contenido léxico) en las categorías pertinentes.
+Otro inconveniente a este método de traducción automática es la cantidad de recursos que necesita, debido a los diferentes componentes que son necesarios.
+Esto, más que un problema de capacidad de cálculo (superado por los ordenadores actuales), puede suponer un problema de recursos humanos, ya que producir las reglas requiere esfuerzo e investigación.
+Esto es algo especialmente importante en sistemas plurilingües, ya que no solo es necesario definir las reglas de análisis y generación de cada idioma, sino que además se requiere el componente de transferencia para cada par de lenguas.
+(Esto es, para un sistema que trabaje con n lenguas, deberían crearse al menos n(n-1) componentes.)
+A continuación veamos como se traduciría un texto del castellano al catalán por transferencia superficial.
+En concreto, el ejemplo que se reproduce a continuación está basado en Apertium.
+El objetivo es traducir «vi una señal», que se traduce en catalán como «vaig veure un senyal».
+En primer lugar se realiza un análisis morfológico para descomponer la frase en diferentes unidades:
+Como se puede apreciar, ya se ha categorizado tanto «vi» como «señal» correctamente.
+Sin embargo, se encuentran ambigüedades en «una».
+En este punto entra en acción el categorizador léxico, que debe decidir en función del contexto.
+En este caso, analizando las otras dos palabras se puede ver que solo la primera definición tiene sentido:
+Con este resultado ya se puede aplicar la transferencia léxica.
+Este paso es el equivalente a una traducción palabra por palabra, y por lo tanto requiere de un diccionario bilingüe.
+Cabe destacar que en esta fase también es conveniente la transferencia estructural (encargada de la re-ordenación de las palabras, la traducción a géneros correctos, etc.):
+Llegados a este punto, la traducción por transferencia aplicaría el generador morfológico obteniendo como resultado la frase traducida:
+«vaig veure un senyal».

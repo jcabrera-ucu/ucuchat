@@ -1,0 +1,59 @@
+Colibacilosis se llama a toda enfermedad del tracto digestivo, que puede cursar a nivel entérico local o sistémico, producida por Escherichia coli, sea cual sea la especie animal afectada.
+E. coli es una bacteria gram-negativo, móvil (con flagelo), cocobacilar, con un tamaño de entre 0,5 y 3,4 µm.
+Posee una cápsula con lipopolisacáridos, que tiene relación antifagocítica y además tiene la capacidad de adherirse a la mucosa intestinal.
+Esta propiedad de adherirse se debe al ácido D-poliglutámico que posee la cápsula.
+Para poder identificar E. coli, hay que tener en cuenta además, que fermenta la lactosa y que es IMViC ++--, lo que diferencia E. coli de Salmonella.
+Este microorganismo bacteriano debe su patogenicidad a las toxinas, tanto enterotoxinas (exotoxinas), fundamentalmente responsables de las diarreas, como endotoxinas, las cuales forman parte del lipopolisacárido de la cápsula.
+Los diferentes factores de virulencia estructurales (pili, etc.), tienen distintas sustancias antigénicas, las cuales se pueden usar para tipificar las distintas cepas de E. coli.
+Desde el punto de vista práctico, y para la tipificación, E. coli posee tres antígenos de superficie: antígeno O (somático), antígeno H (flagelar) y antígeno K (capsular).
+El resultado de serotipificación (análisis de los antígenos) se llama serotipo.
+clínicamente, en la práctica, el antígeno H no es importante.
+La identificación de una cepa de E. coli es exclusivamente por los antígenos O y K, que se denomina serogrupo.
+Factores:
+Es el agente bacteriano más frecuentemente aislado en las enfermedades entéricas de los lechones y los terneros, también identificado en las de los corderos y los potrillos.
+Aunque es un huésped habitual del tracto digestivo de los mamíferos y las aves, algunas cepas pueden causar problemas gastrointestinales en el hombre y en otros animales, como por ejemplo alpacas, conejos o canarios.
+El hecho de que enfermen los terneros y los lechones se debe fundamentalmente, a las cepas bacterianas y a las condiciones de manejo (alimentación, destete, hacinamiento, inmunización de las madres, etc.).
+Escherichia coli actúa sobre las células de Lieberkun del intestino delgado, provocando que estas absorban las enterotoxinas que produce la célula y no los electrolitos normales, lo cual lleva a una diarrea profusa hipersecretoria.
+Las infecciones provocadas por la E. coli en las vellosidades del intestino deja a estas células intactas, en cambio en las infecciones provocadas por Coronavirus las vellosidades se ven alteradas.
+La toxina responsable de la diarrea es la enterotoxina lábil (LT).
+Esta, actúa provocando una elevación del AMPc celular y disposición de los flujos normales de los iones en el epitelio intestinal.
+Estructuralmente, la toxina consta de tres partes, estas son: A1, A2 y B. La parte estructural de la enterotoxina que cumple su función tóxica es la A1.
+Esta es una proteína reguladora que tiene acción enzimática (ribosilación de la adenilciclasa GTP).
+La porción A2 participa en la internalización de la toxina (porción A1).
+Las porciones B ejercen una función de unión a los receptores específicos celulares, permitiendo la acción de la estructura A1.
+En la patogenia de la colibacilosis, existen dos factores determinantes, el animal y la cepa bacteriana.
+La propiedad de la cepa actuante va a determinar si la enfermedad es una colibacilosis septicémica (cepa invasiva) o, si es simplemente diarrea (cepa productora de enterotoxina).
+En terneros con septicemia, las manifestaciones se evidencian a los 4 días de vida aproximadamente.
+Hay depresión, taquicardia, anorexia, con temperatura elevada al principio que luego desciende por debajo de la temperatura normal.
+Puede haber diarrea y signos de disentería.
+También puede haber evidencia de afecciones en otras localizaciones; artritis, meningitis, panoftalmitis, neumonía, etc.
+En los terneros con colibacilosis enterotóxica, las primeras manifestaciones clínicas aparecen entre 1 y 2 semanas de vida.
+Hay debilidad severa, temperatura disminuida, mucosas pálidas, piel fría, colapso de venas superficiales, irregularidad cardíaca, movimientos convulsivos y apnea.
+Es importante la toxemia entérica, hay diarrea acuosa, amarillenta, pálida o blanca, con estrías de sangre, olor fétido y desagradable.
+La muerte sobreviene de forma aguda, luego de 2 a 6 horas de aparición de los primeros síntomas.
+En los lechones la forma septicémica de la enfermedad es poco común; generalmente aparecen lechones muertos o moribundos en la piara de un día para otro.
+En la enterotoxemia hay pérdida de peso (30-40%) por anorexia y diarrea, la cual puede ser pastosa o acuosa de color amarillenta o marrón.
+Los ojos aparecen hundidos debido a la deshidratación.
+La cola está parada y mojada y la temperatura está normal o por debajo de la normal.
+La muerte aparece luego de 24 horas.
+En la forma septicémica no se aprecian grandes alteraciones.
+En los casos severos, hay hemorragias subserosas y submucosas, exudados fibrinosos en las articulaciones, onfaloflevitis y peritonitis en las cavidades serosas.
+En la forma entérica de los lechones podemos encontrar los intestinos distendidos y la mucosa normal o hiperémica.
+En el estómago, es común encontrar leche cuajada.
+La atrofia de las vellosidades, es rara, aunque posible.
+En los terneros podemos encontrar contenido amarillento acuoso en las heces.
+La mucosa abomasal presenta pequeñas hemorragias.
+En el intestino las vellosidades se encuentran caídas o pegadas.
+Hay infiltración neutrofílica.
+El tratamiento debe basarse en los datos epidemiológicos, clínicos, anatomopatológicos y análisis de laboratorio que sean pertinentes.
+Epidemiológicamente, debe hacerse un relevamiento inmunológico de las madres, fundamentalmente si son primerizas, ya que generalmente son sus lechones los que más enferman.
+Si las madres no son primerizas, se debe ver si fueron desafiadas con vacunas con cepas de campo.
+Clínicamente, debe verse la diarrea, la cual debe ser acuosa, transparente y profusa; igualmente este signo no es patognomónico.
+Anatomopatológicamente, debe tenerse en cuenta que las diarreas producidas por E. coli se deben a daño funcional y no estructural, como sucede en la salmonelosis (infección por Salmonella spp.).
+En los análisis de laboratorio debe detectarse si hubo septicemia en la afección por Escherichia coli; para ello debe aislarse el agente de la sangre.
+Se puede hacer el aislamiento de la bacteria y de las enterotoxinas de las heces.
+Puede hacerse un tratamiento mediante la administración por vía parenteral u oral inmediata, de: sulfonamida, trimetropin más sulfonamida o gentamicina.
+Para el control es importante hacer un buen manejo productivo y sanitario (inmunitario) de los animales, incluyendo los animales de incorporación reciente.
+Para la producción de los porcinos es importante tener buenos lugares de parición para las madres y las naves deben tener buena ventilación.
+Los animales de reciente incorporación deben ser sometidos a un régimen de cuarentena.
+La vacunación actualmente no es muy satisfactoria, pero es importante saber que animales ya fueron desafiados.

@@ -1,0 +1,8 @@
+El efecto Ferranti es una sobretensión producida en una larga línea de transmisión, relativa a la tensión al final de la misma, que ocurre cuando esta está desconectada de la carga, o bien con una carga muy pequeña.
+Este efecto es debido a la capacitancia distribuida de la línea.
+El efecto Ferranti será más acentuado cuanto más larga sea la línea, y mayor el voltaje aplicado.
+La sobretensión es proporcional al cuadrado de la longitud de la línea.
+Debido a su alta capacitancia, este efecto es mucho más pronunciado en cables subterráneos, incluso en líneas cortas.
+Cuando la línea está en vacío o con muy poca carga, al no circular una cantidad significativa de corriente a través de las inductancias serie distribuidas, la absorción de reactivos por parte de la línea será mínima en comparación con la inyección de reactivos por parte de las capacitancias distribuidas.
+Cuando se produce una caída de tensión negativa; y, por lo tanto, la tensión en carga es superior a la de vacío.
+Este caso especial se producen cargas muy capacitivas y se conoce como efecto Ferranti.

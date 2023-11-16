@@ -1,0 +1,42 @@
+Un punto neutro o punto de intercambio de Internet (en inglés IXP, Internet Exchange Point) es una infraestructura física a través de la cual los proveedores de servicios de Internet (PSI o ISP, por sus siglas en inglés) intercambian el tráfico de Internet entre sus redes.
+Esta instalación reduce la porción del tráfico de un PSI que debe ser entregado hacia su proveedor de conectividad, lo que reduce el costo promedio por bit de la entrega de su servicio.
+Además, el aumento del número de rutas "aprendidas" a través del punto neutro mejora la eficiencia de enrutamiento y la tolerancia a fallos.
+El propósito principal de un punto neutro es permitir que las redes se interconecten directamente, a través de la infraestructura, en lugar de hacerlo a través de una o más redes de terceros.
+Las ventajas de la interconexión directa son numerosas, pero las razones principales son el costo, la latencia y el ancho de banda.
+El tráfico que pasa a través de la infraestructura no suele ser facturado por cualquiera de las partes, a diferencia del tráfico hacia el proveedor de conectividad de un PSI.
+La interconexión directa, a menudo situada en la misma ciudad que ambas redes, evita la necesidad de que los datos viajen a otras ciudades (potencialmente hacia otros continentes) para pasar de una red a otra, lo que reduce la latencia y el costo.
+La tercera ventaja, la velocidad, es más notable en las áreas que tienen poco desarrolladas las conexiones de larga distancia.
+Los PSI en estas regiones podrían tener que pagar entre 10 o 100 veces más por el transporte de datos que los PSI en América del Norte, Europa o Japón.
+Por lo tanto, estos PSI tienen normalmente conexiones más lentas y limitadas hacia el resto de la Internet.
+Sin embargo, una conexión a un punto neutro local les puede permitir el transferir datos sin límite, y sin costo, mejorando enormemente el ancho de banda entre los clientes de los dos PSI adyacentes.
+En mercados donde hay muchos PSI pequeños, que normalmente acceden a tarifas altas de conexión, el volumen agregado del IXP puede permitir acceder a precios muchos menores.
+Un Punto Neutro normalmente consiste en uno o más conmutadores de red, a los cuales se conectan cada uno de los PSI participantes.
+Antes de la existencia de los conmutadores, los puntos neutros normalmente usaban concentradores con enlaces de fibra óptica entre repetidores (FOIRL) o anillos FDDI, migrando hacia los conmutadores Ethernet y FDDI tan pronto estos estuvieron disponibles en 1993 y 1994.
+Los conmutadores ATM fueron brevemente usados por unos pocos puntos neutros al final de los años 90, llegando aproximadamente el 4% del mercado en su mejor momento y hubo un intento fallido del punto neutro de Suecia, NetNod, para utilizar SRP/DPT (tecnología conjunta de FDDI y SONET), pero ha prevalecido Ethernet, que representa más del 95% de los conmutadores en Internet.
+Todas las velocidades de puerto Ethernet se encuentran en los puntos neutros actuales, que van desde los puertos de 10 Mbit/s en uso en países pequeños, hasta los puertos de 10 Gbit/s en centros importantes como los de Seúl, Nueva York, Londres, Fráncfort, Ámsterdam, y Palo Alto.
+Puertos con 100 Gbps están disponibles, por ejemplo, en AMS-IX en Ámsterdam y en DE-CIX de Fráncfort.
+La técnica y la logística de negocios de intercambio de tráfico entre los PSI se rige por los acuerdos de interconexión mutua (peering).
+En virtud de dichos acuerdos, el tráfico a menudo se intercambia sin compensación.
+Cuando un punto neutro incurre en costos de operación, por lo general éstos son compartidos entre todos sus participantes.
+En los intercambios más caros, los participantes pagan una cuota mensual o anual, por lo general determinada por la velocidad del puerto o puertos que están usando, o menos comúnmente por el volumen de tráfico efectuado a través de la infraestructura del punto neutro.
+Las cuotas basadas en el volumen de tráfico no son populares porque no ofrecen incentivos al crecimiento del punto neutro.
+Algunos puntos neutros cobran una tarifa de configuración para compensar los gastos de puerto del puerto del conmutador y cualesquiera adaptadores de medios (tales como convertidores de interfaces gigabit, XENPACK, transceptores enchufables, transceptores XFP, etc.) que requieran.
+Una segunda etapa de los puntos de intercambio ocurre cuando debido al aumento de tráfico, se hace más interesante para otros proveedores (de contenido como Akamai o Google) para conectarse, reforzando las mejoras de costos, latencia y volumen intercambiado.
+Asimismo, se hacen viables servicios locales que requieren baja latencia como redes privadas virtuales, streaming y Voz sobre ip.
+En algunos casos, estos lugares se hacen interesantes para otras mejoras tales como la instalación de mirrors de servidores raíz, por ejemplo en ESPANIX o servidores de tiempo que ayuden a todos los PSI, como en el caso de KIXP.
+La forma de operar de los IXP se han adoptado varios modelos institucionales.
+Pueden clasificarse en cuatro categorías:
+El intercambio de tráfico de Internet entre dos participantes de un IXP es facilitada por configuraciones de enrutamiento de Border Gateway Protocol (BGP) entre ellos.
+Eligen anunciar rutas a través de la relación de interconexión - ya sea rutas a sus propias direcciones o rutas a direcciones de otros ISP a los que se conectan, posiblemente a través de otros mecanismos.
+La otra parte en el peering puede entonces aplicar filtrado de rutas, donde elige aceptar esas rutas, y enrutar el tráfico en consecuencia, o hacer caso omiso de esas rutas, y utilizar otras vías para llegar a esas direcciones.
+En muchos casos, un ISP tendrá tanto un enlace directo a otro ISP y aceptará una ruta (normalmente ignorada) al otro ISP a través del punto neutro; si el enlace directo falla, el tráfico empezará a fluir a través del punto neutro.
+De esta manera, el punto neutro actúa como un enlace de respaldo.
+Cuando se cumplen estas condiciones, y existe una estructura contractual para crear un mercado para la compra de los servicios de red, el IXP a veces se llama una central de tránsito.
+El Vancouver Transit Exchange, por ejemplo, se describe como un "centro comercial" de los proveedores de servicios en una ubicación central, por lo que es fácil cambiar de proveedor - "tan simple como conseguir un VLAN a un nuevo proveedor."
+El VTE es dirigido por BCNET, una entidad pública.
+Los defensores de los planes de banda ancha verdes y servicios de telecomunicaciones más competitivos a menudo abogan por una agresiva expansión de los puntos de tránsito en todas las áreas municipales para que los proveedores de servicios que compiten puedan colocar equipos como servicios para Vídeo bajo demanda y centrales RTC para servir equipamiento telefónico existente, sin tener que depender de un operador incumbente monopólico.
+Actualmente en España existen los puntos neutros de:
+Espanix el más importante en cuanto a cantidad de tráfico en España undefined, y uno de los más altos de Europa, pasando de los 380 Gb por segundo.
+En tanto, DE-CIX ocupa el segundo lugar en España.
+Actualmente en América Latina existen los siguientes puntos neutros:
+IX.br - São Paulo (anteriormente conocido como PTT Metro) es actualmente el punto neutro más grande del mundo, sólo seguido por DE-CIX y AMS-IX Amsterdam.

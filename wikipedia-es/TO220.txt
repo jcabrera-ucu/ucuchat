@@ -1,0 +1,4 @@
+El TO-220 es un tipo de encapsulado de dispositivos electrónicos, comúnmente usado en transistores, reguladores de tensión y diversos circuitos integrados.
+El encapsulado TO-220 trae usualmente tres patas, aunque existen también de dos, cuatro, cinco e, incluso, siete patas.
+Una característica notable de este tipo de encapsulado es el reverso metálico, que posee un agujero utilizado para montar el dispositivo sobre un disipador.
+Los componentes que poseen un encapsulado TO-220 pueden manejar mayores potencias que aquellos que son construidos sobre encapsulados TO-92.

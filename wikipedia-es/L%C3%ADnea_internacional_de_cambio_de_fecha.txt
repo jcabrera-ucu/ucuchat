@@ -1,0 +1,16 @@
+La línea internacional de cambio de fecha es una línea imaginaria superficial terrestre trazada sobre el océano Pacífico y próxima al meridiano 180°.
+Por conveniencia de algunos países cuyo territorio atraviesa, en ellos la hora legal o local y la fecha pueden ser las correspondientes a las del otro hemisferio.
+Pasar de un lado al otro de la línea implica cambiar de fecha, exactamente un día.
+En 1612, un historiador francés de nombre Nicolás Bergier vio la necesidad de tener un meridiano donde cambiase la fecha.
+Como en aquel momento el meridiano de referencia para la navegación era el de las islas Canarias, propuso el que se encontraba a 180° de ese meridiano.
+El empleo del meridiano 180° como la línea internacional del cambio de fecha fue ideada en 1879 por sir Sandford Fleming, quien la defendió en numerosos congresos, incluyendo el de 1884 en Washington, Estados Unidos, donde se decidió establecer como origen tanto para la longitud geográfica como para los husos horarios, al meridiano de Greenwich.
+La elección del meridiano 180° como la línea internacional de cambio de fecha se basa en la característica conveniente de que atraviesa zonas oceánicas prácticamente despobladas.
+La línea internacional de cambio de fecha corresponde al meridiano 180° del planeta en su mayor parte, excepto en el territorio cercano al estrecho de Bering donde se define que Siberia y Alaska tengan diferentes fechas.
+La mayor parte de esta línea se ubica sobre el océano Pacífico y define la fecha local en los territorios cercanos a ella.
+Al atravesar la línea internacional de cambio de fecha de este a oeste (desde América a Asia por el océano Pacífico) la fecha debe adelantarse un día en todos los relojes, es decir, se pierde un día.
+En cambio, si un viajero cruza dicha línea de oeste a este la fecha deberá ser retrasada un día (ganando un día).
+Esto se debe a que la tierra gira de oeste a este y por cada huso horario cruzado en esa dirección (hacia el Oriente) se añade una hora hasta acumular 24 horas justo antes de atravesar dicha línea, resultando la misma hora pero del día siguiente.
+En esta idea se basó Julio Verne para escribir su famosa novela La vuelta al mundo en ochenta días, en la que el protagonista viaja al encuentro del Sol, de oeste a este, motivo por el cual debía retrasar un día de su propia cuenta de viaje (81 días) para coincidir con la fecha de quienes lo esperaban "al otro lado de la línea" y contaron solo 80 días desde su partida.
+Tal como se explica en el concepto de huso horario, cada meridiano múltiplo de 15° es el centro de un huso horario que abarca 7° y medio a cada lado.
+La aplicación de esta idea, quizá también errónea, conduce a confusiones originadas por dos paradojas:
+Así, cuando es mediodía en el meridiano 0°, ya hace media hora que pasó el sol por el meridiano 7.5° de longitud este, lo cual equivale a indicar que el avance del movimiento solar aparente siempre tiene efecto de media hora retroactiva en cada huso horario, algo sin sentido: cada hora debe comenzar en los meridianos múltiplos de 15° hacia el oeste, de la misma forma que las horas del reloj comienzan en el número correspondiente y avanzan en sentido horario hasta el número siguiente: treinta grados en los relojes de dos agujas y doce horas en un día.

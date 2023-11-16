@@ -1,0 +1,32 @@
+Las lenguas baltoeslavas son un conjunto de lenguas indoeuropeas que se hablan en una buena parte de la Europa Oriental y Central, que integran a las lenguas eslavas y las lenguas bálticas, dos familias que presentan numerosas afinidades lingüísticas.
+Si bien es innegable que ha existido un período de desarrollo común entre estos dos grupos de lenguas —de hecho, el báltico y el eslavo son los más cercanos de todos los grupos filogenéticos reconocibles dentro de la familia indoeuropea—, existen varias visiones sobre el parecido.
+Diversos autores han interpretado esto de diferentes maneras:
+Dichas lenguas se pueden dividir en dos subgrupos:
+Todavía existen discrepancias menores sobre la clasificación interna de las lenguas indoeuropeas.
+En concreto, la mayor área de dificultades constituye el conjunto de lenguas paleobalcánicas, algunas de las cuales comparten numerosas isoglosas con las lenguas baltoeslavas, aunque no está claro si algunas de ellas formarían una unidad filogenética válida con algún grupo de las lenguas baltoeslavas.
+El báltico y el eslavo comparten muchas similitudes fonológicas, léxicas, morfosintácticas y acentológicas.
+Los primeros estudiosos de las lenguas indoeuropeas Rasmus Rask y August Schleicher (Compendium der vergleichenden Grammatik der indogermanischen Sprachen, 2 vols., 1861-1862) propusieron una solución simple: del protoindoeuropeo descendía la lengua baltoeslava-germánica, de la cual se separaría el protogermánico y el proto-baltoeslavo (luego dividido en protobáltico y protoeslavo).
+La propuesta de Schleicher fue retomada y refinada por Karl Brugmann, quien enumeró ocho innovaciones como evidencia de una rama baltoeslava en su Esquema de la gramática comparada de las lenguas indoeuropeas (Grundriß der vergleichenden Grammatik der indogermanischen Sprachen, 1886 y 1916).
+El grado de relación de las lenguas bálticas y eslavas está indicado por una serie de innovaciones comunes no compartidas con otras lenguas indoeuropeas, y por la cronología relativa de estas innovaciones que se puede establecer.
+Los idiomas bálticos y eslavos también comparten algunas palabras heredadas.
+Esto no se encuentra en absoluto en otros idiomas indoeuropeos (excepto cuando se toman prestados) o se heredan del protoindoeuropeo (PIE), pero han sufrido cambios idénticos en el significado en comparación con otros idiomas indoeuropeos.
+Esto indica que las lenguas báltica y eslava comparten un período de desarrollo común: la lengua proto-baltoeslava.
+Aunque algunos lingüistas rechazan una relación genética entre estos, la mayoría de los estudiosos aceptan que las lenguas bálticas y eslavas experimentaron un período de desarrollo común.
+Este punto de vista también se refleja en la mayoría de los libros de texto estándar modernos sobre lingüística indoeuropea.
+La aplicación de Gray y Atkinson (2003) de un análisis de divergencia del árbol indoeuropeo apoya una relación genética entre los idiomas báltico y eslavo, que data la división de la familia alrededor del
+Las innovaciones baltoeslavas comunes incluyen otros cambios, que también comparten por varias ramas indoeuropeas.
+Por tanto, no se trata de una prueba directa de la existencia de una familia baltoeslava común, pero la corroboran.
+Algunos ejemplos de palabras compartidas entre la mayoría o todas las lenguas baltoeslavas:
+A pesar de los desarrollos léxicos exclusivos del baltoeslavo y que muestran evidencia de una etapa de desarrollo común, existen diferencias considerables entre los vocabularios del báltico y el eslavo.
+Rozwadowski señaló que cada campo semántico contiene un vocabulario central que es etimológicamente diferente entre las dos ramas.
+Andersen prefiere un modelo continuo de dialectos donde los dialectos más al norte se convirtieron en bálticos, a su vez, los dialectos más al sur se desarrollaron en eslavos (con el eslavo absorbiendo más tarde cualquier idioma intermedio durante su expansión).
+Andersen piensa que diferentes lenguas vecinas y de sustrato podrían haber contribuido a las diferencias en el vocabulario básico.
+Los numerales en diversas lenguas ramas de las lenguas baltoeslavas son:
+! rowspan=2| GLOSA
+! colspan=4|Lenguas eslavas
+! rowspan=2| PROTO- BÁLTICO
+! rowspan=2| PROTO- BÁLTO-ESL.
+! PROTOESL. Meridional
+! PROTOESL. OCCIDENTAL
+! PROTOESL. ORIENTAL
+! PROTO- ESLAVO

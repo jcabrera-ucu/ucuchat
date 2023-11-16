@@ -1,0 +1,45 @@
+La economía del reciclaje en un cierto número de mercados que ponen en relación a generadores ,hasta que lleguemos nosotros los usuarios.
+El ciclo completo del reciclaje de los materiales es un complejo proceso que se compone de varias etapas e intervenciones (ver gráfico 1).
+El gráfico 1 presenta los principales actores que participan en cada etapa y del flujo de materiales entre cada uno de los procesos.
+Además, en cada etapa se van eliminando parte de los materiales; los mismos están representados por las flechas discontinuas.
+Las conexiones entre cada uno de los actores está representado por pequeños diagramas de oferta y demanda entre las diversas etapas del ciclo.
+El tamaño y composición de los flujos de materiales dependerán de las decisiones de la oferta y la demanda de estos mercados.
+Los productores y envasadores determinan el diseño de los productos y los materiales que serán empleados en la producción y deciden las proporciones de suministros nuevos y reciclados.
+Los consumidores optan entre productos que contienen diferentes tipos y cantidades de materiales; también decidirán cómo eliminar los distintos productos una vez consumidos.
+Y por último, una de las etapas del ciclo lo forman los recolectores los cuales recogen, transportan y separan los materiales para ponerlos a disposición de los reprocesadores.
+Este último, convierte los diversos materiales de residuos sólidos a formas que permitan la reutilización por parte de los productores y envasadores, cerrando así el ciclo.
+Los residuos sólidos constituyen un problema por las dificultades inherentes a la fijación de precios en los diversos mercados que componen el ciclo.
+Ej.
+Vamos a analizar el primer mercado en donde los productores de bienes y servicios adquieren diversos tipos y cantidades de materia (gráfico 1).
+La curva de demanda puede estar representada por una empresa ó por todo un sector industrial, en donde se encuentra la demanda de un material a lo largo de cierto periodo.
+Además, este material puede ser reciclado ó nuevo.
+Una condición es que la cantidad de material que se emplea en la empresa ó industria sea pequeña en relación con el total, de modo que el precio pueda ser fijo.
+El precio señalado como pv es la línea horizontal que corta la curva de demanda en q0.
+Ahora bien, la empresa puede conseguir el mismo material reciclado, pero en este caso los costos son más complejos (recolección, separación, transporte, reprocesamiento, entre otros).
+Por ende, el precio del material reciclado será más elevado (curva de oferta de material reciclado creciente, como O1 y O2).
+Cada una de estas curvas representa un uso diferente de tecnologías.
+Veamos que ocurre con la curva O1.
+Si la empresa o industria se enfrenta a esta curva de oferta, decidirá emplear q1 de materiales reciclados (el productor usará material reciclado hasta que el precio coincida con el de materias primas).
+Por otra parte, la mayor parte de las iniciativas municipales de reciclaje es conseguir que los programas de separación y recogido de residuos de la vía pública minimicen sus costos de material reciclado.
+En el gráfico 2, estos programas pretenden desplazar hacia abajo la curva de oferta de materiales reciclados, digamos que de O1 a O2.
+Con esta medida, el empleo de materiales reciclados aumentaría a q2.
+Otra forma de aumentar la tasa de reciclaje (q2 / q1), es de reducir la demanda general de materiales manteniendo constante el empleo de materiales reciclados.
+En el gráfico 2, esto implica desplazar hacia la izquierda la curva de demanda de materiales.
+Esta reducción también podría lograrse, por ejemplo, fabricando los mismos productos con menos materiales.
+También podría darse como resultado de un cambio en las preferencias de los consumidores a favor de los productos que usen menos materiales.
+Por último, para reducir el total de las materias empleadas y aumentar simultáneamente la cantidad de material reciclado, se puede aumentar el precio de las materias primas, de esa manera se incrementaría la demanda de material reciclado.
+Otra medida sería, si las autoridades aplicaran un impuesto que eleve el precio de las materias primas, por ejemplo, hasta p2, los productores se desplazarían hacia arriba, a lo largo de la curva de oferta de materiales reciclados y de la curva de demanda de materias primas.La economía del reciclaje consiste en un cierto número de mercados que ponen en relación a generadores y usuarios
+El ciclo completo del reciclaje de los materiales es un complejo proceso que se compone de varias etapas e intervenciones (ver gráfico 1).
+El gráfico 1 presenta los principales actores que participan en cada etapa y del flujo de materiales entre cada uno de los procesos.
+Además, en cada etapa se van eliminando parte de los materiales; los mismos están representados por las flechas discontinuas.
+Las conexiones entre cada uno de los actores está representado por pequeños diagramas de oferta y demanda entre las diversas etapas del ciclo.
+El tamaño y composición de los flujos de materiales dependerán de las decisiones de la oferta y la demanda de estos mercados.
+Los productores y envasadores determinan el diseño de los productos y los materiales que serán empleados en la producción y deciden las proporciones de suministros nuevos y reciclados.
+Los consumidores optan entre productos que contienen diferentes tipos y cantidades de materiales; también decidirán cómo eliminar los distintos productos una vez consumidos.
+Y por último, una de las etapas del ciclo lo forman los recolectores los cuales recogen, transportan y separan los materiales para ponerlos a disposición de los reprocesadores.
+Este último, convierte los diversos materiales de residuos sólidos a formas que permitan la reutilización por parte de los productores y envasadores, cerrando así el ciclo.
+Los residuos sólidos constituyen un problema por las dificultades inherentes a la fijación de precios en los diversos mercados que componen el ciclo.
+Ej.
+La recogida de materiales primas conlleva diversos costes económicos.
+Como las materias primas cuestan poco, un empresario tendría dificultades para ofrecer productos alternativos que fuesen competitivos a partir de materiales que se hayan derivado de los residuos para hacerlos reutilizables.
+Los residuos sólidos descartados generan costos ambientales que deberían reflejarse en el precio que pagan los consumidores por las diferentes alternativas de eliminación

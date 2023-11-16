@@ -1,0 +1,64 @@
+El retoque fotográfico es una técnica que permite obtener otra imagen modificada, ya sea para lograr una mejor calidad o más realismo, o para obtener una composición totalmente diferente que distorsione la realidad.
+Para llevar a cabo dicho proceso, se utilizan mayoritariamente programas informáticos.
+Utilizando distintas técnicas de retoque fotográfico es bastante simple mejorar la calidad de las imágenes originales procesadas, consiguiendo así un resultado notablemente superior en calidad con respecto a la imagen original.
+Además también pueden conseguirse efectos impactantes o simplemente corregir diversos errores en las imágenes originales.
+Antes de la existencia de la fotografía en color era muy frecuente emplear acuarelas líquidas u otros pigmentos para ofrecer la imagen coloreada.
+También se retocaban los negativos fotográficos para eliminar imperfecciones.
+Las técnicas de retoque fotográfico digital son hoy en día muy utilizadas como método de posproducción, sobre todo en ámbitos donde la imagen es lo que vende.
+Se da mucho su utilización en las producciones de modelaje, ya que la perfección en las modelos debe ser alcanzada a toda costa.
+También se utiliza para publicidad cumpliendo una parte muy importante del trabajo final.
+Muchas veces nos encontramos con fotografías que son irreproducibles en la realidad solamente utilizando una cámara.
+Para esto se recurre al "fotomontaje" o retoque digital en donde se pueden manipular varias fotografías para crear una composición final.
+Hoy por hoy la tecnología permite un sinfín de propuestas gracias a los distintos software utilizados y las distintas técnicas (ilustración, CGI, 3D y más).
+El programa más usado en la actualidad es el Adobe Photoshop.
+Los filtros mayormente son utilizados para hacer correcciones en los colores de las imágenes, aunque existe una variedad realmente amplia de ellos.
+Hay filtros de textura, de efectos como pintura, entre muchos otros.
+En esta sección solamente hablaremos sobre los filtros básicos que comparten la mayoría de los programas de retoque fotográfico.
+'''Los filtros básicos de retoque fotográfico
+La utilización de estos filtros presentes en la mayoría de los programas de retoque fotográfico representan el nivel básico de retoque que se puede dar a una imagen.
+Aunque puede variar el nombre del filtro dependiendo del editor usado (Adobe Photoshop, Gimp, Corel Photo-Paint, etc) normalmente están presentes en la mayoría de estos programas.
+También puede variar su funcionamiento y la calidad del trabajo final.
+Más abajo pueden verse ejemplos de estos filtros en el programa Gimp, así como una breve explicación sobre su uso.
+Este filtro permite corregir irregularidades en imágenes claras u obscuras, así como también realzar los colores de las mismas mediante el contraste.
+Es ideal para solventar problemas de iluminación.
+Además puede ser muy útil para crear efectos de gran dramatismo en algunas fotografías.
+Muy útil a la hora de solventar problemas de color en fotografías en las cuales un color predomina sobre el resto, normalmente por una iluminación inapropiada.
+Por ejemplo, la mayoría de las imágenes sacadas en interior donde hay luz incandescente tienden a ser amarillentas.
+Este filtro permite corregir la intensidad de los colores y de esta manera equilibrar la imagen.
+Este filtro sirve para corregir las imágenes que por una u otra razón presentan exceso o falta de color, así como tintes de colores que no son correctos.
+Así mismo, también se puede utilizar para cambiar completamente el rango de color (como se ve en la imagen de ejemplo) y así generar un efecto llamativo.
+Esta herramienta es muy similar en funcionamiento y función a las curvas de color, pero su forma de uso difiere bastante.
+Es ideal para corregir rápidamente tintes de color tanto en la luz, tonos medios y sombra de manera independiente entre sí y entre cada uno de los canales ya que permite aumentar y disminuir o aumentar la presencia de cada color.
+Su funcionamiento aunque similar al equilibrio de color, difiere de este último porque permite regular no solo la fuerza de cada color, sino su luminosidad y gama en la imagen en general o en cada uno de los canales que la conforman.
+Es ideal para corregir imágenes muy oscuras o muy claras que además tengan problemas con el tinte en general.
+Este filtro es ideal para dar un tinte general a toda la imagen.
+Ya sea para hacer una imagen sepiada o de cualquier otro color.
+Puede utilizarse, por ejemplo, si la imagen original es un campo de césped (casi en su totalidad de un color determinado), pero posee zonas donde hay colores no deseados como lo podría ser el pasto seco, etc.
+Este filtro trabaja separando la imagen en 2 colores plenos (negro y blanco) y gracias a la utilización del punto medio se puede definir donde está el umbral de separación de ambos con respecto a la luminosidad original de la imagen.
+Es muy útil a la hora de limpiar (por ejemplo) dibujos hechos a lápiz, ya que realza los bordes y genera una imagen de alto contraste.
+También puede utilizarse en unión a otros filtros para generar distintos efectos.
+De esta manera como se explica anteriormente se podrá realizar una diferenciación entre colores, la cual nos permite realizar una buena selección de diferencial.
+Las capas o layers amplían las capacidades de un editor fotográfico enormemente.
+Estas pueden verse como recortes que pueden superponerse sobre un fondo o sobre otro recorte.
+Además cuentan con filtros propios para la mezcla de las imágenes, así como efectos de transparencia.
+De esta manera, gracias a esta herramienta, es posible unir dos imágenes o fragmentos de las mismas para conformar una nueva.
+Por ejemplo, podría tomarse la cara de una persona y colocarla en el cuerpo de otra.
+También es útil para representar texturas sobre diversos fondos.
+Podría tomarse el cuerpo de una persona y superponer una imagen de piel de leopardo y, utilizando el método de fundido texturizado, permitir que sobre los colores de la imagen original, se superponga la luminosidad de la textura elegida.
+Luego aplicando una transparencia general se combinarían ambas sombras sin perder demasiado detalle de la imagen original.
+Después, con una transparencia lineal, podría hacer que desaparezca la textura de leopardo gradualmente a medida que sube por el fondo original.
+De esta manera se estarían utilizando casi completamente las capacidades de las capas.
+Normalmente al utilizar esta técnica se la debe complementar con los filtros de corrección de color para compensar la diferencia de atmósfera, luz e intensidad de color de las imágenes utilizadas.
+Esto se logra llevando a todas las mismas a un punto neutro y luego se aplica una atmósfera general (puede lograse simplemente haciendo que predomine más un color) que termine de unir todas las imágenes.
+Su uso puede ser muy variado y está limitado (más allá de las capacidades propias del programa utilizado) solo a la imaginación del usuario.
+De esta manera abre una puerta de posibilidades enormes a la hora de editar una imagen, desde efectos espectaculares y complejos, o tan sutiles que no pueden ser diferenciados de una imagen sin retocar.
+Cada editor fotográfico cuenta con sus propios nombres para las herramientas, así como configuración particular.
+Igualmente la mayoría de los distintos programas comparten las mismas herramientas básicas.
+Entre ellas están las de pincel, que permiten hacer trazos simulando desde acuarelas hasta aerógrafos, pasando por lápices, tiza, marcadores, etc. En el ámbito del retoque fotográfico su uso está destinado casi exclusivamente a retoques en el color de la imagen.
+Con herramientas como el aerógrafo se pueden hacer desaparecer las ojeras en un rostro (así como también ponerlas), correcciones en los ojos destinadas a resaltar sus características, además de otros usos.
+Otra herramienta es la de clonación, que permite copiar segmentos de otra imagen, o de la misma imagen, con el añadido de poder utilizarlo como un pincel más.
+Esta herramienta es muy útil para quitar pequeñas o grandes imperfecciones en la piel, o por ejemplo quitar a una persona de una fotografía, entre otros.
+También existen herramientas de recorte que permiten seleccionar solo algunas partes de las imágenes.
+Esta se utiliza generalmente para aplicar filtros en zonas definidas.
+Por ejemplo, podría seleccionarse el cielo de un paisaje solamente y cambiarle el color.
+Esta herramienta está muy ligada a las capas o layers.

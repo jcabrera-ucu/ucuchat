@@ -1,0 +1,27 @@
+SimCopter es un simulador de vuelo de 1996, desarrollado por Maxis.
+El jugador se encuentra en una ciudad 3D.
+Al igual que en Streets of SimCity, SimCopter permite importar mapas de SimCity 2000 al juego.
+Es también el primer juego en utilizar el idioma simlish.
+SimCopter es un juego basado en un piloto de helicóptero.
+Hay dos modos de juego: modo de usuario y modo carrera.
+El modo de usuario (modo libre) permite al jugador volar por las ciudades que ha creado libremente (las cuales pueden importarse desde SimCity 2000) o cualquiera de las 30 ciudades del juego.
+En el modo carrera el jugador se pone en la piel de un piloto encargado de hacer varios trabajos en toda una ciudad.
+El dinero y los puntos se obtienen completando misiones.
+También puedes perderlo si fracasas en ellas por no completarlas o no lograr completarlas dentro del tiempo especificado.
+De hecho hay algunas misiones como MEDEVAC o las de bomberos que serán realmente graves si muere alguna víctima o si el fuego arrasa con alguna zona.
+Cuando el jugador consigue suficientes puntos, podrá desplazarse a la siguiente ciudad.
+Hay 12 niveles de dificultad, a medida que se avanza van añadiéndose nuevos tipos de trabajo en misiones, compaginándolos con los que ya teníamos anteriormente.
+El jugador comienza con un pequeño helicóptero.
+Es pequeño y lleva un megáfono y un cubo que se puede llenar de agua para apagar fuegos, solo puede tener 2 pasajeros.
+Cuando acumulas cierta cantidad de dinero, puedes adquirir otros helicópteros y nuevo equipamiento para mejorarlos.
+De esta forma, nuestros helicópteros podrán ser más veloces, grandes y resistentes.
+Cada helicóptero tiene un tanque de combustible que dura aproximadamente media hora de vuelo y luego es necesario volver al hangar a repostar, lo que cuesta dinero.
+La lista de helicópteros en SimCopter es:
+Los mapas con un Apache en ellos, en ocasiones también tienen un OVNI volando en los alrededores.
+Secuestran Sims con una fuerza misteriosa (los Sims bailarán mientras ascienden) y también lanzan rayos verticales de forma aleatoria que pueden prender árboles o edificios.
+Si el rayo impacta en el jugador, la pantalla se pone blanca y el helicóptero se destruye automáticamente.
+Si el ovni cae al agua, tenemos la oportunidad de rescatar a un superviviente abducido para obtener más puntos.
+Si se derriba un ovni, el jugador obtiene 1 000 puntos.
+El juego se hizo polémico al descubrir que su diseñador Jacques Servin introdujo huevo de pascua por el que aparecían hombres sin camiseta en un bañador Speedo que se abrazaban y se besaban en ciertas fechas, como los viernes 13.
+El huevo de pascua se descubrió al poco de lanzar el videojuego y se eliminó de las siguientes copias del juego.
+Servin fue despedido por añadir contenido no autorizado al juego (lo que retrasó la publicación definitiva del juego y provocó que Maxis no pudiera aprovechar la época navideña).

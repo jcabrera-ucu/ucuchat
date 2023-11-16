@@ -1,0 +1,4 @@
+El término intracelular en biología celular, biología molecular y campos relacionados, significa "dentro de la célula".
+Se utiliza en contraste con extracelular (fuera de la célula).
+La membrana celular (y, en muchos organismos, la pared celular) es la barrera entre los dos, y la composición química del medio intra y extracelular (Milieu intérieur) puede ser radicalmente diferente.
+En la mayoría de los organismos, por ejemplo, una ATPasa de Na+/K+ mantiene un alto nivel de potasio dentro de las células mientras mantiene el sodio bajo, lo que lleva a la excitabilidad química.

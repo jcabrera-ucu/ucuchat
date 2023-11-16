@@ -1,0 +1,2 @@
+El punto muerto inferior (PMI) se refiere a la posición que alcanza el pistón al final de una carrera descendente, admisión o combustión, en el cual no existe fuerza que actúe sobre él y sólo se encuentra moviéndose gracias a su inercia o fuerza potencial, en este instante ha finalizado su carrera descendente y comienza su carrera ascendente de compresión o escape.
+En un motor de cuatro tiempos este punto marca el inicio de la fase de compresión o de escape.

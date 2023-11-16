@@ -1,0 +1,49 @@
+Una hiper-heurística es un método de búsqueda heurística que busca automatizar, a menudo mediante la incorporación de técnicas de aprendizaje automático, el proceso de seleccionar, combinar, generar o adaptar varias heurísticas más simples (o componentes de tales heurísticas) para resolver eficientemente problemas de búsqueda computacional.
+Una de las motivaciones para estudiar la hiperheurística es construir sistemas que puedan manejar clases de problemas en lugar de resolver un solo problema.
+Puede haber múltiples heurísticas que se pueden elegir para resolver un problema, y cada heurística tiene su propia fuerza y debilidad.
+La idea es diseñar automáticamente algoritmos combinando la fuerza y compensando la debilidad de las heurísticas conocidas.
+En un marco hiperheurístico típico existe una metodología de alto nivel y un conjunto de heurísticas de bajo nivel (heurísticas constructivas o perturbativas).
+Dada una instancia de problema, el método de alto nivel selecciona la heurística de bajo nivel que debe aplicarse en un momento dado, dependiendo del estado del problema actual o de la etapa de búsqueda.
+La diferencia fundamental entre las metaheurísticas y las hiperheurísticas es que la mayoría de las implementaciones metaheurísticas buscan dentro de un espacio de búsqueda de soluciones de problemas, mientras que las hiperheurísticas siempre buscan dentro de un espacio de búsqueda de heurísticas.
+Por lo tanto, cuando se utiliza hiper-heurística, estamos tratando de encontrar el método correcto o secuencia de heurísticas en una situación dada en lugar de tratar de resolver un problema directamente.
+Además, estamos buscando una metodología generalmente aplicable en lugar de resolver una sola instancia problemática.
+El objetivo de las hiper-heurísticas es ser métodos genéricos, los cuales deben producir soluciones de calidad aceptable, basadas en un conjunto de heurísticas de bajo nivel fáciles de implementar.
+A pesar de los progresos significativos en la construcción de metodologías de búsqueda para una amplia variedad de áreas de aplicación hasta el momento, tales enfoques todavía requieren especialistas para integrar sus conocimientos en un determinado dominio de problema.
+Muchos investigadores de la ciencia de la computación, la inteligencia artificial y la investigación operacional ya han reconocido la necesidad de desarrollar sistemas automatizados para reemplazar el papel de un experto humano en tales situaciones.
+Una de las principales ideas para automatizar el diseño de la heurística requiere la incorporación de mecanismos de aprendizaje automático en algoritmos para guiar la búsqueda de forma adaptativa.
+Tanto los procesos de aprendizaje como los de adaptación pueden realizarse en línea o fuera de línea, y basarse en heurísticas constructivas o perturbativas.
+Una hiperheurística suele tener como objetivo reducir la cantidad de conocimiento del dominio en la metodología de búsqueda.
+El enfoque resultante debería ser barato y rápido de implementar, requiriendo menos experiencia en el dominio del problema o en los métodos heurísticos, y (idealmente) sería lo suficientemente robusto como para manejar efectivamente un rango de instancias problemáticas de una variedad de dominios.
+El objetivo es elevar el nivel de generalidad de la metodología de apoyo a la toma de decisiones tal vez a expensas de la calidad de la solución reducida -aunque aceptable- en comparación con los enfoques metaheurísticos hechos a la medida.
+Con el fin de reducir la brecha entre los esquemas a medida y las estrategias hiperheurísticas, se han propuesto hiperheurísticas paralelas.
+El término "hiperheurística" fue acuñado por primera vez en una publicación de 2000 de Cowling y Soubeiga, que la utilizó para describir la idea de "heurística para elegir la heurística".
+Utilizaron un enfoque de aprendizaje de la "función de elección" que intercambia la explotación y la exploración al elegir la siguiente heurística a utilizar.
+Posteriormente Cowling, Soubeiga, Kendall, Han, Ross y otros autores investigaron y ampliaron esta idea en áreas tales como algoritmos evolutivos y heurísticas patológicas de bajo nivel.
+El primer artículo de la revista para utilizar el término apareció en 2003.
+El origen de la idea (aunque no el término) se remonta a principios de 1960 y fue descubierto y ampliado de forma independiente varias veces durante los años 90.
+En el ámbito de Job Shop Scheduling, el trabajo pionero de Fisher y Thompson, planteó la hipótesis y probó experimentalmente, utilizando el aprendizaje probabilístico, que la combinación de reglas de programación (también conocida como prioridad o reglas de despacho) era superior a cualquiera de las normas adoptadas por separado.
+Aunque el término no estaba entonces en uso, este fue el primer artículo "hiperheurístico".
+Otra raíz que inspira el concepto de hiperheurística proviene del campo de la inteligencia artificial.
+Más específicamente, proviene del trabajo sobre sistemas de planificación automatizados, y su eventual enfoque hacia el problema del conocimiento del control del aprendizaje.
+El llamado sistema COMPOSER, desarrollado por Gratch et al, se utilizó para controlar los horarios de comunicaciones por satélite que implican una serie de satélites en órbita terrestre y tres estaciones terrestres.
+El sistema se puede caracterizar como una búsqueda de escalada en el espacio de posibles estrategias de control.
+Hasta ahora, los enfoques hiper-heurísticos pueden clasificarse en dos categorías principales.
+En la primera clase, capturada por la heurística frase para elegir la heurística, el marco hiper-heurístico se proporciona por un conjunto de heurísticas preexistentes, generalmente ampliamente conocidos para resolver el problema objetivo.
+La tarea es descubrir una buena secuencia de aplicaciones de estas heurísticas para resolver eficazmente el problema.
+En la segunda clase, la heurística para generar heurística, la idea clave es "desarrollar nuevas heurísticas haciendo uso de los componentes de las heurísticas conocidas".
+El proceso requiere, como en la primera clase de hiperheurísticas, la selección de Un conjunto adecuado de heurísticas conocidas por ser útiles para resolver el problema objetivo.
+Sin embargo, en lugar de suministrarlas directamente al marco, las heurísticas se descomponen primero en sus componentes básicos.
+Estos dos tipos amplios principales se pueden categorizar más adelante según si se basan en la búsqueda constructiva o perturbativa.
+Una clasificación ortogonal adicional de hiperheurísticas considera que la fuente proporciona retroalimentación durante el proceso de aprendizaje, que puede ser una instancia (aprendizaje en línea) o muchas instancias del problema subyacente estudiado (aprendizaje fuera de línea).
+Descubra buenas combinaciones de heurísticas de bajo nivel fijas, diseñadas por humanos y bien conocidas.
+Generar nuevos métodos heurísticos utilizando componentes básicos de métodos heurísticos previamente existentes.
+El aprendizaje tiene lugar mientras el algoritmo está resolviendo una instancia de un problema, por lo tanto, las propiedades locales dependientes de la tarea pueden ser utilizadas por la estrategia de alto nivel para determinar la heurística de bajo nivel apropiada que se aplicará.
+Ejemplos de enfoques de aprendizaje en línea dentro de la hiperheurística son: el uso del aprendizaje de refuerzo para la selección heurística y, en general, el uso de metaheurísticas como estrategias de búsqueda de alto nivel sobre un espacio de búsqueda de heurísticas.
+La idea es recopilar conocimientos en forma de reglas o programas, a partir de un conjunto de instancias de formación, que se espera generalizar al proceso de resolver instancias invisibles.
+Ejemplos de enfoques de aprendizaje fuera de línea en las hiperheurísticas son: aprendizaje de sistemas clasificadores, razonamiento de base de casos y programación genética.
+Las hiper-heurísticas se han aplicado en muchos problemas diferentes.
+De hecho, una de las motivaciones de la hiperheurística es poder operar a través de diferentes tipos de problemas.
+La siguiente lista es una selección no exhaustiva de algunos de los problemas y campos en los que se han explorado las hiperheurísticas:
+Las hiper-heurísticas no son el único enfoque que se investiga en la búsqueda de metodologías de búsqueda más generales y aplicables.
+Muchos investigadores de la informática, la inteligencia artificial y la investigación operacional ya han reconocido la necesidad de desarrollar sistemas automatizados para reemplazar el papel de un experto humano en el proceso de ajuste y adaptación de las metodologías de búsqueda.
+La siguiente lista describe algunas áreas de investigación relacionadas:

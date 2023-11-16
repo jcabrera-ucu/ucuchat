@@ -1,0 +1,20 @@
+El factor acéntrico se define como un parámetro necesario para calcular el factor de compresibilidad de un gas, este mide la desviación en la presión de vapor de un compuesto, respecto a gases nobles como el criptón, xenón y argón (también llamados fluidos simples) para los cuales el factor acéntrico toma el valor de cero.
+El factor acéntrico se define matemáticamente como
+donde
+Es entonces que el factor acéntrico mide la no-esfericidad de la molécula cuando se trata de moléculas no polares, por ejemplo, hidrocarburos: un incremento en la longitud de la cadena (aumento de la no-esfericidad) produce un apartamiento en el valor de la presión reducida del compuesto.
+Como es lógico, este apartamiento es mínimo en el metano entre los hidrocarburos.
+El apartamiento también es pequeño para moléculas pequeñas y que son aproximadamente esféricas como oxígeno y nitrógeno moleculares.
+Sin embargo, la definición abarca tanto compuestos polares como alcoholes, cetonas o incluso agua.
+En estos casos, la desviación en la presión de vapor se debe no solo a la forma de la molécula, sino a las interacciones específicas entre ellas como dipolo-dipolo o puente de hidrógeno.
+El factor acéntrico puede ser utilizado para hacer cálculos aproximados de la presión de vapor.
+De la definición matemática se nota, que la presión de vapor reducida de un gas noble es aproximadamente 1, cuando la temperatura reducida es 0,7.
+Con esto se intuye que conociendo las propiedades críticas de un compuesto y su factor acéntrico, se tiene un punto de la curva de presión de vapor.
+Integrando la relación de Clausius-Clapeyron:
+suponiendo que
+se tiene
+e integrando entre una presión de referencia,, y una punto de la curva de presión de vapor cualquiera,
+Esta ecuación es fácilmente reescrita como una versión simplificada de la ecuación de Antoine.
+Si se toma el punto crítico como referencia, se intercambia logaritmo natural por decimal y se utiliza el valor del factor acéntrico para definir el punto, el resultado final es
+Esta ecuación es muy buena para estimaciones rápidas de la presión de vapor.
+Sin embargo se debe entender que se trata de una aproximación.
+En general da buenos resultados arriba de = 0,5; pero el error puede incrementarse por debajo de los 2 bar.

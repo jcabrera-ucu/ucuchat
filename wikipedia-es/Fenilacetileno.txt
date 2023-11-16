@@ -1,0 +1,10 @@
+El fenilacetileno es un hidrocarburo alquino que contiene un grupo fenilo.
+Existe como un líquido incoloro y viscoso.
+En investigación, a veces se usa como un análogo del acetileno; al ser líquido, es más fácil de manejar que el acetileno que es gaseoso.
+En el laboratorio, el fenilacetileno se puede preparar mediante la eliminación del bromuro de hidrógeno del dibromuro de estireno usando amida de sodio en amoníaco:
+También se puede preparar mediante la eliminación del bromuro de hidrógeno del bromoestireno usando hidróxido de potasio fundido.
+El fenilacetileno es un acetileno terminal prototípico, que experimenta muchas reacciones esperadas de ese grupo funcional.
+Se somete a semihidrogenación sobre catalizador Lindlar para dar estireno.
+En presencia de sales básicas y de cobre (II), se somete a un acoplamiento oxidativo para dar difenilbutadieno.
+En presencia de catalizadores metálicos, sufre oligomerización, trimerización e incluso polimerización.
+En presencia de reactivos de oro o mercurio, el fenilacetileno se hidrata para dar acetofenona:

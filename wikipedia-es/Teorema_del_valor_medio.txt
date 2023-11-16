@@ -1,0 +1,85 @@
+En matemáticas, el teorema de valor medio (de Lagrange), teorema de los incrementos finitos, teorema de Bonnet-Lagrange o teoría del punto medio es una propiedad de las funciones derivables en un intervalo.
+Algunos matemáticos consideran que este teorema es el más importante del cálculo (véase también el teorema fundamental del cálculo integral).
+El teorema de valor medio puede usarse para demostrar el teorema de Taylor y el teorema de Rolle, ya que ambos son un caso especial.
+De manera precisa el teorema enuncia que si f es una función continua en un intervalo cerrado [a,b] y diferenciable en el intervalo abierto (a,b) entonces existe un punto c en (a,b) tal que la recta tangente en el punto c es paralela a la recta secante que pasa por los puntos (a,f(a)) y (b,f(b)), esto es
+Un caso especial de este teorema fue descrito por primera vez por Paramésuara (1370–1460), de la escuela de Kerala de astronomía y matemáticas en la India, en sus comentarios sobre Govindasvāmi y Bhaskara II.
+Una forma restringida del teorema fue demostrada por Michel Rolle en 1691; el resultado fue lo que ahora se conoce como teorema de Rolle, y se demostró sólo para polinomios, sin las técnicas de cálculo.
+El teorema del valor medio en su forma moderna fue declarado y probado por Cauchy en 1823.
+Sea una función continua en el intervalo cerrado [a,b] y diferenciable en el intervalo abierto (a,b) con a<b entonces existe al menos algún punto c\in(a,b) tal que
+El teorema del valor medio es una generalización del teorema de Rolle, las hipótesis son que si una función es continua en [a,b] y diferenciable en (a,b) y toma valores iguales en los extremos del intervalo, esto es, f(a)=f(b) entonces existe al menos algún punto c\in(a,b) tal que f'(c)=0, esto es, el lado derecho de la expresión anterior es cero.
+Primero se consideran dos puntos (a,f(a)) y (b,f(b)) pertenecientes al gráfico de la función.
+La ecuación de la recta que pasa por estos dos puntos es:
+Se define una función auxiliar:
+Dado que f es continua en [a,b] y diferenciable en (a,b) entonces g también lo es.
+Además g satisface las condiciones del Teorema de Rolle en [a,b] ya que:
+Por el Teorema de Rolle, como g es diferenciable en (a,b), y g(a)=g(b) entonces existe un punto c\in(a,b) tal que g'(c)=0 y por tanto:
+y así
+que es lo que se quería demostrar.
+Sea m_{ab} la pendiente de la recta secante entre [a,b], se define la ecuación punto-pendiente:
+o también,
+De acuerdo al enunciado la función es derivable en (a,b), por lo que se puede escoger algún valor x=c en dicho intervalo tal que f'(c) existe y es la pendiente de la recta tangente en dicho punto y por ende la recta tangente tiene la forma (punto-pendiente):
+o también,
+Se observa que se llega a un sistema lineal de 2x2
+La matriz del sistema es:
+Y su determinante es:
+Para que el sistema no tenga solución se debe cumplir det(A)=0, por lo tanto las rectas son paraleas en x=c, es decir f'(c) = mab
+Entonces, existe al menos un punto que no da solución al sistema y además la recta tangente al mismo es paralela a la recta entre a y b, es decir:
+o también,
+Con ello queda demostrado el teorema del valor medio.
+Sea una función continua en el intervalo [a,b] entonces existe un valor c\in[a,b] tal que
+Dado que el valor medio de f en [a,b] está definido como
+por lo que podemos interpretar que f alcanza su punto medio en algún c\in(a,b).
+En general, si es continua y g es una función integrable que no cambia signo en [a,b] entonces existe c\in(a,b) tal que
+Supóngase que es continua y que g es una función integrable no negativa en [a,b], por el teorema del valor extremo existen m y M tal que para x\in[a,b]  y, como g es no negativa entonces
+Sea
+si I=0 entonces ya terminamos pues
+esto es
+por lo que para todo c\in(a,b)
+Si I\neq0 entonces
+por el teorema del valor intermedio, existe al menos un c\in[a,b] tal que
+esto es
+Finalmente, si g es negativa en [a,b] entonces
+y seguiremos obteniendo el mismo resultado que antes.
+Aplicando la integración de Riemann
+La suma aloja todos los x_i dentro del intervalo [a,b], por lo que procederemos a escoger un x_i=c fijo de dicho intervalo y que por ende hace que f(x_i)=f(c)
+Al reemplazar, la integral queda de la siguiente manera:
+como f(c) es constante respecto a la suma entonces
+Reemplazando
+Simplificando
+Como b-a y f(c) no son afectados por el límite ya que son constantes entonces
+Despejando f(c)
+Por lo tanto, queda verificado la existencia de c\in[a,b] en donde la función evaluada en él, toma el valor de, es decir,
+Y así, queda demostrado el teorema del valor medio para integrales.
+El teorema del valor medio se puede generalizar para funciones reales de argumento vectorial.
+Esto se puede hacer parametrizando a la función y usando el teorema del valor medio de una variable.
+Sea G un subconjunto abierto y convexo de \R^n y sea f:G\to\R una función diferenciable.
+Sean x,y\in G y definamos.
+Como g es una función diferenciable de una variable, el teorema del valor medio nos da:
+para algún c entre 0 y 1.
+Pero aparte tenemos g(1)=f(y) y g(0)=f(x), calculando g'(c) tenemos, explícitamente:
+donde \nabla denota al gradiente y \cdot al producto interno.
+Esto es un análogo exacto del teorema del valor medio en una variable (en el caso n=1 éste es de hecho el teorema en una variable).
+Por la desigualdad de Cauchy–Schwarz, la ecuación nos da la estimación:
+En particular, cuando las derivadas parciales de f están acotadas, f es Lipschitz continua (y por lo tanto uniformemente continua).
+Cabe mencionar que no requerimos que f sea continuamente diferenciable o continua en la cerradura de G.
+Sin embargo, para calcular g' usando la regla de la cadena, necesitamos que f sea diferenciable en G; la existencia de las derivadas parciales con respecto a x y y no es por sí misma una condición suficiente para garantizar la validez del teorema.
+Como una aplicación directa del teorema, podemos demostrar que f es constante si G es abierto, conexo y toda derivada parcial de f es 0.
+Sea un punto arbitrario x_0\in G, y sea.
+Queremos demostrar que g(x)=0 para todo x\in G.
+Sea ahora.
+EntoncesE es cerrado y no vacío.
+para cada y en alguna vecindad de x.
+(En este paso es muy importante que x y y estén suficientemente cerca.) Como G es conexo, concluimos que E=G.
+Los argumentos anteriores no dependen de nuestro sistema de coordenadas; por lo tanto se pueden generalizar en caso de que G sea un subconjunto de un espacio de Banach.
+No existe un análogo estricto del teorema de valor medio para aplicaciones.
+En este caso, sólo es posible establecer la siguiente desigualdad en términos de la norma:
+Teniendo en cuenta que dada una función
+se tiene que si
+\ I[x,y]
+es el segmento formado por \ x,y \in A (siendo A conexo y abierto), es y entonces
+de donde se tiene que como
+es
+Para ver [1] basta tener en cuenta que si
+y se tiene que
+Sea la función h tal que
+entonces esta función es constante sobre este intervalo.

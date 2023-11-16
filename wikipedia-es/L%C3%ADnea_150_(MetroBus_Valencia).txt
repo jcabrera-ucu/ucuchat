@@ -1,0 +1,4 @@
+La línea 150, es una línea regular de autobús metropolitano de la ciudad de Valencia, gestionada por la empresa Autobuses Metropolitanos de Valencia (MetroBus).
+Hace su recorrido entre Valencia y el Aeropuerto de Manises, con una frecuencia 20-26 de min los días laborables y de 25-26 min los sábados.
+En el Aeropuerto de Valencia tiene parada en las zona de salidas de la T1.El aeropuerto está situado en la zona tarifaria B. Se puede adquirir el billete en el autobús.
+Valencia <-> Mislata <-> Cuart de Poblet <-> Manises <-> Aeropuerto

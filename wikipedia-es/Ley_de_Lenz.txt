@@ -1,0 +1,12 @@
+La ley de Lenz para el campo electromagnético relaciona cambios producidos en el campo eléctrico por un conductor con la propiedad de variar el flujo magnético, y afirma que las tensiones o voltajes aplicadas a un conductor generan una fuerza electro motriz (fem) cuyo campo magnético se opone a toda variación de la corriente original que lo produjo.
+Esta ley se llama así en honor del físico germano-báltico Heinrich Lenz, quien la formuló en el año 1834.
+En un contexto más general que el usado por Lenz, se conoce que dicha ley es una consecuencia más del principio de conservación de la energía aplicado a la energía del campo electromagnético.
+La polaridad de una tensión inducida es tal, que tiende a producir una corriente cuyo campo magnético se opone siempre a las variaciones del campo existente producido por la corriente original.
+El flujo de un campo magnético uniforme a través de un circuito plano (superficie constante) con un campo constante viene dado por
+donde
+Si el conductor está en movimiento, el valor del flujo será:
+La Ley de Faraday afirma que la tensión inducida ε en cada instante tiene por valor:
+donde \varepsilon es el voltaje inducido,
+d\Phi/dt es la tasa de variación temporal del flujo magnético
+\Phi y N el número de espiras del conductor.
+La dirección del voltaje inducido (el signo negativo en la fórmula) se debe a la oposición al cambio de flujo magnético.

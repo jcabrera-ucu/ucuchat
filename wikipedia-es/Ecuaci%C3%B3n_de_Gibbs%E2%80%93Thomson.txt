@@ -1,0 +1,50 @@
+El efecto Gibbs-Thomson, en el uso común de la física, se refiere a las variaciones en la presión de vapor o potencial químico a través de una superficie o interfaz curvada.
+La existencia de una energía interfacial positiva aumentará la energía requerida para formar partículas pequeñas con alta curvatura, y estas partículas exhibirán un aumento de la presión de vapor.
+Ver la ecuación de Ostwald-Freundlich.
+Más específicamente, el efecto Gibbs-Thomson se refiere a la observación de que los cristales pequeños están en equilibrio con su líquido fundido a una temperatura más baja que los cristales grandes.
+En los casos de geometría confinada, como los líquidos contenidos en medios porosos, esto conduce a una depresión en el punto de congelación / fusión que es inversamente proporcional al tamaño de poro, como lo indica la ecuación de Gibbs-Thomson.
+La técnica está estrechamente relacionada con el uso de la adsorción de gas para medir el tamaño de los poros, pero utiliza la ecuación de Gibbs-Thomson en lugar de la ecuación de Kelvin.
+Ambos son casos particulares de las ecuaciones de Gibbs de Josiah Willard Gibbs: la ecuación de Kelvin es el caso de temperatura constante, y la ecuación de Gibbs-Thomson es el caso de presión constante.
+Este comportamiento está estrechamente relacionado con el efecto capilar y ambos se deben al cambio en la energía libre total causada por la curvatura de una superficie interfacial bajo tensión.
+La ecuación original solo se aplica a partículas aisladas, pero con la adición de los términos de interacción de la superficie (generalmente expresados en términos del ángulo de humectación de contacto) se puede modificar para aplicar a líquidos y sus cristales en medios porosos.
+Como tal, ha dado lugar a diversas técnicas relacionadas para medir las distribuciones de tamaño de poro.
+(Ver Termoporometría y Criocometría.) El efecto Gibbs-Thomson reduce tanto el punto de fusión como el de congelación, y también aumenta el punto de ebullición.
+Sin embargo, simple enfriamiento de una muestra de todo-líquido por lo general conduce a un estado de no equilibrio enfriamiento súper y solo eventual de no equilibrio congelación.
+Para obtener una medición del evento de congelación de equilibrio, primero es necesario enfriar lo suficiente como para congelar una muestra con un exceso de líquido fuera de los poros, luego calentar la muestra hasta que el líquido de los poros se haya derretido, pero el material a granel todavía esté congelado.
+Luego, al volver a enfriar, se puede medir el evento de congelación de equilibrio, ya que el hielo externo crecerá en los poros.
+Esto es en efecto una medida de "intrusión de hielo" ( cf. intrusión de mercurio ), y como tal en parte puede proporcionar información sobre las propiedades de la garganta del poro.
+Se puede esperar que el evento de fusión proporcione información más precisa sobre el cuerpo del poro.
+Para una partícula sólida esférica aislada de diámetro xen su propio líquido, la ecuación de Gibbs-Thomson para la depresión del punto de fusión estructural se puede escribir:
+Donde:
+El "4" en la ecuación anterior proviene de la geometría esférica de la interfaz sólido-líquido.
+Nota: xse utiliza para el tamaño de poro en lugar de dpor un número de razones  :
+Se pueden aplicar ecuaciones muy similares al crecimiento y fusión de los cristales en la geometría confinada de los sistemas porosos.
+Sin embargo, el término de geometría para la interfaz cristal-líquido puede ser diferente, y puede haber términos adicionales de energía de la superficie a considerar, que se pueden escribir como un término de ángulo de humectación \cos\phi\,.
+El ángulo se considera generalmente cerca de 180 °.
+En los poros cilíndricos hay evidencia de que la interfaz de congelación puede ser esférica, mientras que la interfaz de fusión puede ser cilíndrica, en base a mediciones preliminares para la relación medida para en poros cilíndricos.
+Así, para una interfaz esférica entre un cristal no humectante y su propio líquido, en un poro de diámetro cilíndrico infinito x, la depresión del punto de fusión estructural viene dada por:
+La ecuación de Gibbs-Thomson puede escribirse de forma compacta:
+donde el coeficiente de Gibbs-Thomson k_{GT} asume diferentes valores para diferentes líquidos  y diferentes geometrías interfaciales (esféricas / cilíndricas / planas).
+Más detalladamente:,
+Donde: k_ges una constante geométrica dependiente de la forma interfacial,
+Ya en 1886, Robert von Helmholtz (hijo del físico alemán Hermann von Helmholtz ) había observado que los líquidos finamente dispersados tienen una mayor presión de vapor.
+Para 1906, el químico físico alemán Friedrich Wilhelm Küster (1861–1917) había predicho que, dado que la presión de vapor de un sólido volátil finamente pulverizado es mayor que la presión de vapor del sólido a granel, entonces el punto de fusión del polvo fino debería ser menor que la del sólido a granel.
+Investigadores como los químicos físicos rusos Pavel Nikolaevich Pavlov (o Pawlow (en alemán), 1872–1953) y Peter Petrovich von Weymarn (1879–1935), entre otros, buscaron y finalmente observaron tal depresión del punto de fusión.
+Para 1932, el investigador checo Paul Kubelka (1900–1956) había observado que el punto de fusión del yodo en el carbón activado disminuía hasta 100 °C.
+investigadores reconocieron que la depresión del punto de fusión ocurrió cuando el cambio en la energía de la superficie fue significativo en comparación con el calor latente de la transición de fase, condición que se obtuvo en el caso de partículas muy pequeñas.
+Ni Josiah Willard Gibbs ni William Thomson ( Lord Kelvin ) derivaron la ecuación de Gibbs-Thomson.
+Además, aunque muchas fuentes afirman que el físico británico JJ Thomson derivó la ecuación de Gibbs-Thomson en 1888, no lo hizo.
+A principios del siglo XX, los investigadores derivaron precursores de la ecuación de Gibbs-Thomson.
+Sin embargo, en 1920, la ecuación de Gibbs-Thomson fue derivada por primera vez en su forma moderna por dos investigadores que trabajaban de forma independiente: Friedrich Meissner, un estudiante del químico físico estonio-alemán Gustav Tammann, y Ernst Rie (1896–1921), un físico austriaco.
+en la universidad de viena  Estos primeros investigadores no llamaron a la relación la ecuación de "Gibbs-Thomson".
+Ese nombre estaba en uso en 1910 o antes; originalmente se refería a las ecuaciones relativas a la adsorción de solutos por interfaces entre dos fases: ecuaciones que Gibbs y luego JJ Thomson derivaron.
+Por lo tanto, en el nombre de la ecuación de "Gibbs-Thomson", "Thomson" se refiere a JJ Thomson, no a William Thomson (Lord Kelvin).
+En 1871, William Thomson publicó una ecuación que describe la acción capilar y relaciona la curvatura de una interfaz líquido-vapor con la presión de vapor:
+donde
+En su disertación de 1885, Robert von Helmholtz (hijo del físico alemán Hermann von Helmholtz ) mostró cómo la ecuación de Ostwald-Freundlich
+Podría derivarse de la ecuación de Kelvin.
+La ecuación de Gibbs-Thomson puede entonces derivarse de la ecuación de Ostwald-Freundlich a través de una simple sustitución utilizando la forma integrada de la relación de Clausius-Clapeyron :
+La ecuación de Gibbs-Thomson también se puede derivar directamente de la ecuación de Gibbs para la energía de una interfaz entre fases.
+Cabe mencionar que en la literatura aún no hay acuerdo sobre la ecuación específica a la que se refiere el nombre de "ecuación de Gibbs-Thomson".
+Por ejemplo, en el caso de algunos autores, es otro nombre para la "ecuación de Ostwald-Freundlich", que, a su vez, a menudo se denomina "ecuación de Kelvin", en el caso de otros autores, el "Gibbs –La relación de Thomson "es la energía libre de Gibbs que se requiere para expandir la interfaz, y así sucesivamente.
+<references group="" responsive="">

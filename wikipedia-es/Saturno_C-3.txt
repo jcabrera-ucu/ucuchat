@@ -1,0 +1,17 @@
+El Saturno C-3 fue uno de los cohetes inicialmente considerados (en 1960) para llevar a cabo el primer alunizaje tripulado del programa Apolo.
+No pasó de la fase de estudio.
+Fue pensado para poner en práctica el esquema de "cita en órbita terrestre", en el que se realizaban varios lanzamientos para montar en órbita baja terrestre las naves que luego viajarían hasta la Luna.
+La versión básica.
+Estudio de 1961.
+Estudio de 1961 en el que se proponía una tercera etapa propulsada por energía nuclear.
+Después del desastre del transbordador espacial Challenger, la Fuerza Aérea de los Estados Unidos (USAF) y la Administración Nacional de Aeronáutica y Espacio (NASA) realizaron un estudio conjunto del Sistema de Lanzamiento Avanzado (1987-1990).
+Hughes Aircraft y Boeing desempolvaron el anterior diseño de Saturno C-3 y presentaron su propuesta para el lanzamiento de Jarvis.
+El Jarvis sería un cohete de tres etapas, 58 m (190 pies) de altura y 8.38 m (27.5 pies) de diámetro.
+Diseñado para elevar 38 toneladas a LEO, utilizará motores de cohetes F-1 y J-2 y herramientas en almacenamiento del programa de cohetes Saturn V junto con tecnologías más recientes de la era Shuttle para proporcionar menores costos de lanzamiento.
+A partir de abril de 2012, Dynetics anunció que estaban haciendo equipo con Pratt & Whitney Rocketdyne para resucitar el poderoso motor F-1 del cohete Saturn V para impulsar el lanzamiento pesado del sistema de lanzamiento espacial de la NASA previsto para el vehículo, diciendo que el motor de la era Apolo ofrecería significativamente más rendimiento Que los impulsores de combustible sólido actualmente en desarrollo.
+Dynetics of Huntsville, AL, está liderando el equipo del contratista proponiendo el diseño del motor F-1.
+Pratt & Whitney Rocketdyne es el socio de propulsión de la oferta y constructor de motores.
+Cook, el exgerente de la NASA del programa de cohetes Ares, dijo que cada uno de los dos impulsores de Dynetics, en una misión SLS, sería propulsado por un par de RP-1 / LOX F-1B, una variante avanzada del F-1.
+1,5 millones de libras de empuje) que se utilizó en el Saturno V, y el F-1A. Desarrollado durante las últimas etapas del programa Apolo, el F-1A fue probado, pero nunca voló. Varios fueron almacenados por Rocketdyne (más tarde Pratt & Whitney Rocketdyne). La compañía también ha mantenido un programa de retención de conocimiento F-1 / F-1A para sus ingenieros durante todo el período en que el motor ha sido neutralizado. "Cada uno de esos motores (F-1A) puede llegar a 1,8 millones de libras de empuje (8.000 kN)", dijo Cook en una entrevista el miércoles. "Este propulsor es un refuerzo muy simple y muy estándar, tiene diámetro de 18 pies (5.5 pies) y usa los mismos puntos de unión que el actuador de cohetes sólidos de cinco segmentos".  El propulsor de Dynetics se unirá en estos puntos, en el diseño de puesta en escena paralela SLS, que difiere del diseño de etapas en serie de los cohetes de Saturno.
+Debido a que aplica empuje a una viga de empuje superior en el núcleo SLS, se eleva en la parte superior en lugar de en la parte inferior (Saturno S-IC etapa tenía una estructura de empuje).
+El propulsor propuesto de Dynetics es similar a la primera etapa del Saturn C-3 en que emplearía dos motores de la herencia F-1.

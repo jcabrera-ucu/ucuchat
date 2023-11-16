@@ -1,0 +1,12 @@
+p Velorum (p Vel / HD 92139 / HD 92140 / HR 4167) es un sistema estelar en la constelación de Vela, la vela del Navío Argos, de magnitud aparente +3,84.
+Situado a 87,5 años luz de distancia del sistema solar, p Velorum es un sistema triple.
+En primera instancia se pueden distinguir dos estrellas: p Velorum A, la más brillante con magnitud +4,2, separada visualmente 0,39 segundos de arco de p Velorum B, de magnitud +5,1.
+La separación proyectada entre ellas es de 9,9 UA, siendo el período orbital de 16,5 años.
+La órbita es notablemente excéntrica (ε = 0,75), por lo que la distancia entre p Velorum A y B varía entre 17,5 y 2,5 UA; el último periastro tuvo lugar a mediados de 2003.
+La componente menos brillante, p Velorum B, es una estrella blanca de la secuencia principal de tipo espectral A6V con una masa 2,41 veces mayor que la del Sol.
+Por su parte, p Velorum A es una binaria espectroscópica, constituida por una subgigante blanco-amarilla de tipo F3IV y una estrella de la secuencia principal probablemente de tipo F0V.
+Estas dos estrellas se mueven a corta distancia —su período orbital es de 10,21 días— y sus masas respectivas son 2,13 y 1,81 masas solares.
+Los parámetros fotométricos son conocidos solo para el sistema estelar en su conjunto.
+Esto es así para su temperatura superficial, 7360 ± 20 K, y para su luminosidad, 16,2 veces superior a la luminosidad solar.
+La edad del sistema se estima en 100 ± 50 millones de años y su contenido metálico equivale a un 60% del existente en el Sol.
+Observaciones llevadas a cabo con el telescopio espacial Spitzer no han detectado un exceso en el infrarrojo que evidencie la presencia de un disco circunestelar de polvo y escombros.

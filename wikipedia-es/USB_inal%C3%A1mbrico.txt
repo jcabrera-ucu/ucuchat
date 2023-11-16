@@ -1,0 +1,20 @@
+El USB inalámbrico (Wireless Universal Serial Bus (WUSB) en inglés) es una conexión eficaz de alta velocidad sin cables basada en la tecnología de conexión USB para PC.
+Con el creciente uso de los medios digitales en los ordenadores personales y entornos de comunicación móvil, se necesita un estándar de comunicación común para soportar una convergencia de entornos WUSB, capaz de soportarlos todos.
+El objetivo es garantizar una alta calidad de servicio para las aplicaciones como pueden ser la difusión y retransmisión de vídeo SDTV/DVD con un consumo entre 3 y 7 Mbps o HDTV entre 19 y 24 Mbps.
+El WUSB podrá administrar varios flujos de HDTV.
+Otros dispositivos comunes como mandos, impresoras, escáneres, cámaras, reproductor multimedia portátil, discos duros, USB, etc. Estos dispositivos funcionaran de la misma forma que si lo hicieran con un USB cableado.
+Este grupo es compuesto por siete empresas líderes: Agere Systems, HP, Intel, Microsoft Corporation, NEC, Philips Semiconductors and Samsung Electronics.
+Este grupo definió las especificaciones de WUSB con un velocidad de transferencia de 480Mbps pero solo hasta 3 metros a partir de ahí se bajara a 110Mbps.
+Esta especificación mantiene la misma arquitectura del USB cableado 802.11n, esto facilitara la migración, puede trabajar en las frecuencias de 3.1 GHz hasta 10.6 GHz.
+En esta topología los hosts inician todo el tráfico de dato entre los dispositivos conectados distribuyendo time slots y data bandwidth para cada dispositivo conectado, esta relación es referido como cluster.
+Las conexiones son punto a punto y dirigido entre el WUSB host y los dispositivos WUSB.
+El WUSB host puede conectar lógicamente a un máximo de 127 dispositivos.
+La vida de la batería es un requerimiento importante que se tomó en cuenta para WUSB, la duración de las baterías con las tecnologías actuales y los usos comunes pueden durar de 2 a 5 días.
+La seguridad de WUSB asegurará el mismo nivel de la seguridad como USB cableado.
+La seguridad de nivel de conexión entre dispositivos asegurará que el dispositivo apropiado es asociado y autentificado antes de que la operación entre el dispositivo  sea permitida.
+El más alto nivel de seguridad que involucra el cifrado, debe ser implementado en el nivel de aplicación.
+Uno de los objetivos principales cuando se implementa una interconexión inalámbrica es fácil de instalar y usar.
+Las conexiones inalámbricas, por otro lado, debido a las características ambientales, pueden establecer rutas de conexión que no son obvias.
+A decir verdad, no puede ser obvio cuando un dispositivo es conectado.
+Así que dispositivos WUSB instalados por primera vez deben automáticamente instalar sus controladores, características de seguridad y así con sistemas con los que pueden interactuar.
+Los dispositivos WUSB son compstibles con la tecnología «Enchufar y usar».

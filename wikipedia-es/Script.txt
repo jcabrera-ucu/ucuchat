@@ -1,0 +1,22 @@
+En informática, un script, secuencia de comandos o guion  (traduciendo desde inglés) es un término informal que se usa para designar un lenguaje de programación que se utiliza para manipular, personalizar y automatizar las instalaciones de un sistema existente.
+Regularmente almacenadas en un archivo de texto que deben ser interpretados línea a línea en tiempo real para su ejecución, se distinguen  de   los   programas,   pues   deben   ser   convertidos   a   un   archivo   binario ejecutable para que funcionen.
+Los scripts regularmente no se compilan con anticipación a código máquina, sino que son ejecutados por un intérprete que lee el archivo de código fuente al momento; o incluso por una consola interactiva donde el usuario suministra el programa al intérprete paso a paso.
+Los scripts o guiones se pueden usar para hacer prototipos de programas, automatizar tareas repetitivas, hacer procesamiento por lotes e interactuar con el sistema operativo y el usuario (debido a esto, los intérpretes de comandos o shells suelen diseñarse con funcionalidades de programación).
+Algunos lenguajes de programación son considerados «lenguajes de scripts» (scripting languages) si son idóneos para realizar guiones con soltura, pese a que también se utilizan para codificar programas mucho más complejos.
+Por ejemplo, Python a menudo se considera un lenguaje de scripting, sin embargo también se puede usar para programar aplicaciones sofisticadas (ejemplo: Deluge) o bibliotecas enteras (como SciPy); las cuales se consideran más que simples scripts.
+Los archivos script suelen ser identificados por el sistema a través de uno de los siguientes encabezamientos en el contenido del archivo, conocido como shebang:
+Aunque en entornos UNIX la mayoría de los guiones son identificados por dicho encabezamiento, también pueden ser identificados a través de la extensión " ", siendo esta quizá menos importante que el encabezamiento, ya que casi todos los sistemas no necesitan dicha extensión para ejecutar el guion, por lo tanto, esta suele ser añadida por tradición, o más bien, es útil para que el usuario pueda identificar estos archivos a través de una interfaz de línea de comandos sin necesidad de abrirlo.
+Difieren de los programas de aplicación, debido a que los últimos son más complejos; además, los guiones son más bien, un programa que le da instrucciones a otros más avanzados.
+En el sistema operativo DOS, a los scripts creados para ser interpretados por cmd.exe o el obsoleto COMMAND.COM se les conoce como archivos «batch» (procesamiento por lotes) y acaban en  o.
+En el sistema operativo Windows, existen varios lenguajes interpretados como Visual Basic Script (VBScript), JScript, Batch, y PowerShell.
+Los scripts en Internet se pueden clasificar en guiones del lado del cliente y del lado del servidor.
+Los guiones del lado del cliente se deben incluir con la etiqueta, incluyendo el atributo   con el tipo MIME.
+Generalmente se usa JavaScript, pero se puede usar VBScript (solo Internet Explorer o Google Chrome).
+Tiene como objetivo, por lo general, AJAX o manipulación del DOM.
+No tienen los problemas de accesibilidad que pueden presentar los guiones del lado del cliente.
+También permiten modificar las cabeceras HTTP, u obtenerlas.
+Además, permiten acceso a bases de datos y otros archivos internos.
+El término inglés script se tomó del guion escrito de las artes escénicas, el cual es interpretado por una serie de actores/actrices (o, en este caso, programas) siguiendo un orden establecido.
+En algunos textos se traduce script como «guion».
+Esta traducción de momento está empezando a establecerse y es bastante frecuente en el ámbito de algunas comunidades y publicaciones sobre software libre —como el equipo de traducción de KDE, que traduce en la mayoría de las aplicaciones para este escritorio, script como «guion»—, o diversas guías y manuales de software.
+No obstante su uso es todavía minoritario a nivel general, pero junto con las expresiones «secuencia de comandos» y «archivo de órdenes», empleada esta última en América, es la castellanización más difundida.

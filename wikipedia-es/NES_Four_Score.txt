@@ -1,0 +1,16 @@
+El NES Four Score es un accesorio multitap creado por Nintendo en 1990 para la Nintendo Entertainment System.
+Algunos juegos pueden utilizarlo para habilitar el juego de hasta cuatro jugadores.
+El NES Four Score es similar al NES Satellite previamente introducido, un dispositivo que permite que cuatro jugadores se conecten al NES y amplía el alcance mediante la comunicación inalámbrica por infrarrojos.
+Antes del advenimiento del soporte de múltiples pulsaciones en NES, los juegos NES que admiten más de dos jugadores requieren que los jugadores se emparejen y luego alternen los turnos mientras comparten el mismo par de controladores NES.
+Algunos juegos que originalmente cuentan con soporte para más de dos jugadores, como algunos juegos de arcade, solo admiten dos jugadores simultáneos en sus versiones de NES.
+En el NES Four Score, hay una opción para cambiar entre los modos de dos jugadores y cuatro jugadores, y hay botones turbo A y B que dan a cualquiera de los controladores conectados un impulso de fuego rápido.
+El NES Four Score también se puede usar como un cable de extensión de controlador porque el cable que conduce desde el accesorio al NES tiene varios pies de largo.
+Estos juegos son compatibles con NES Four Score, para más de dos jugadores simultáneos.
+Estos juegos homebrew también son compatibles.
+El Adaptador de 4 jugadores (4人プレイヤーズアダプタ) es un periférico con licencia lanzado para la Famicom en Japón por Hori.
+Es el equivalente de Famicom al NES Four Score.
+Su propósito es permitir que hasta cuatro jugadores jueguen simultáneamente en juegos compatibles al permitir que se conecten controladores adicionales a través del puerto de expansión de la consola.
+El adaptador también cuenta con un interruptor que permite a los dos primeros jugadores usar controladores externos en lugar de los controladores estándar de Famicom, lo que le da a cada jugador la opción de usar un controlador externo.
+Muchos de los títulos de la serie Kunio-kun de Technōs Japan son compatibles con el adaptador.
+Los siguientes juegos se destacan por tener tres o más jugadores alternativos o simultáneos a pesar de no hacer uso de NES Four Score o NES Satellite.
+También se espera que algunos tengan tres o más jugadores simultáneos debido a la existencia de la opción Four Score junto con el hecho de que se lanzó después de la disponibilidad de Four Score, y una o más versiones del juego para otros sistemas tenían esta función (es decir, no usar el Four Score para juegos de cuatro jugadores publicados más tarde parece irracional).

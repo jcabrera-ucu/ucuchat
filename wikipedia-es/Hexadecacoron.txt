@@ -1,0 +1,25 @@
+El hexadecacoro o 16-cell es uno de los seis politopos regulares convexos de 4 dimensiones.
+Estos polícoros fueron descritos por vez primera por el matemático suizo Ludwig Schläfli a mediados del.
+El hexadecacoro tiene 16 celdas, todas ellas tetraedros.
+Tiene 32 caras triangulares, 24 aristas y 8 vértices.
+las 24 aristas limitan 6 cuadrados que yacen en los 6 planos de coordenadas.
+El símbolo de Schläfli del hexadecacoro es {3,3,4}.
+Las figuras de los vértices son todas octaedros regulares.
+Hay 8 tetraedros, 12 triángulos y 6 aristas que se encuentran en cada vértice.
+Hay cuatro tetraedros y cuatro triángulos que se encuentran en cada arista.
+El polícoro dual del hexadecacoro es el teseracto o cubo tetradimensional.
+Cuando se interpretan como cuaterniones, los vértices del hexadecacoro son los ocho cuaterniones unidad {±1, ±i, ±j, ±k}.
+Estos forman un grupo bajo la multiplicación cuaterniónica llamado grupo de cuaterniones.
+Se puede teselar el espacio euclidiano tetradimensional mediante 16-cells regulares.
+El símbolo de Schläfli de esta teselación es {3,3,4,3}.
+Cada 16-cell tiene 16 vecinos con los que comparte un octaedro, 24 vecinos con los que comparte solo una arista, y 72 vecinos con los que comparte solo un punto.
+En cualquier vértice dado de esta teselación se encuentran 24 hexadecacoros.
+La proyección gráfica con los vértices primero del 16-cell en el espacio tridimensional tiene una envoltura de proyección en forma de octaedro.
+Este octaedro puede dividirse entre 8 volúmenes tetraédricos, cortando a lo largo de los planos de coordenadas.
+Cada uno de estos volúmenes es la imagen de un par de celdas del 16-cell.
+El vértice del 16-cell más cercano (o más lejano) al observador se proyecta sobre el centro del octaedro.
+La proyección paralela con las celdas primero del 16-cell en el espacio tridimensional tiene una envoltura cúbica.
+Las celdas más cercana y más lejana se proyectan sobre los dos tetraedros inscritos en el cubo, correspondiéndose con las dos formas posibles de inscribir un tetraedro en un cubo.
+Rodeando cada uno de esos tetraedros hay otros cuatro volúmenes tetraédricos irregulares que son las imágenes de las 4 celdas tetraédricas que los rodean, llenando el espacio entre el tetraedro inscrito y el cubo.
+Las 6 celdas restantes se proyectan sobre las caras cuadradas del cubo.
+En esta proyección del hexadecacoro, todas las aristas yacen en las caras de la envoltura cúbica.

@@ -1,0 +1,6 @@
+El test de Landolt es un test para medir la agudeza visual, creado por Edmund Landolt, oftalmólogo suizo.
+Para realizarlo, el paciente mira hacia un dibujo formado por filas de caracteres circulares de trazado no continuo, sino con una discontinuidad cuyo hueco hay que identificar (anillos de Landolt).
+El sistema de cálculo de la agudeza visual es el mismo que en el test de Snellen: hacia arriba, caracteres cada vez más grandes; hacia abajo, cada vez menores.
+El paciente tendrá que resolver dónde está la discontinuidad: arriba, abajo, derecha o izquierda, además de las posiciones intermedias.
+Se usa con pacientes que no saben leer, o que tienen problemas para identificar las letras, por ejemplo dislexia, o que en el alfabeto de su idioma no se usan caracteres latinos.
+En esto coincide con el test de Lea.

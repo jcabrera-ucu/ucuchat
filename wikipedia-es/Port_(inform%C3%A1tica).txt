@@ -1,0 +1,60 @@
+En ingeniería de software, un port es una adaptación de un programa a otra plataforma.
+Un programa se considera portable si el precio de adaptarlo a otra plataforma es significativamente menos que el precio de programarlo desde cero.
+El término port proviene del latín portāre, 'portar'.
+Si un programa no es compatible con un sistema operativo o arquitectura particular, el código debe ser «portado» al nuevo sistema.
+El término generalmente no se aplica al proceso de adaptar un programa para usar menos memoria en el mismo sistema operativo y CPU, ni al proceso de escribir desde cero el código de fuente en otro lenguaje de programación (es decir, conversión de lenguaje o traducción).
+Algunos desarrolladores de software afirman que su código es portable, refiriéndose a que poco esfuerzo se necesita para adaptar el programa a otro sistema.
+Sin embargo, cuanto esfuerzo se necesita depende de varios factores, incluidas la diferencia del sistema original entre el sistema nuevo y la experiencia de los autores originales en saber en qué cada lenguaje de programación constituye.
+También esto es teniendo en cuenta que muchas librerías de terceros son imposibles de ser portadas.
+El número de CPUs y sistemas operativos significativamente diferentes instalados en las computadoras de hoy es mucho más pequeño que en el pasado.
+El predominio de la arquitectura x86 significa que la mayoría de software nunca se porta a una CPU diferente.
+En el mismo mercado, la elección de sistemas operativos fue efectivamente reducida a tres: Microsoft Windows, MacOS y GNU/Linux.
+Sin embargo, en los sistemas embebidos y en el mercado móvil, la portabilidad sigue siendo un problema significativo, con la ARM siendo una alternativa ampliamente usada.
+Las normas internacionales, como las que promulgó la ISO, facilitan el desarrollo de ports por la especificación de detalles del entorno informático que ayuda a reducir diferencias entre plataformas que conforman con normas diferentes.
+Escribir programas conformes a las normas especificadas representa un esfuerzo práctico pero no trivial.
+Hacer un port de tal programa entre dos plataformas que cumplen con las mismas normas puede ser mera cuestión de cargar el código de fuente y volver a compilarlo en la nueva plataforma.
+Sin embargo, los practicantes encuentran que varias correcciones menores se requieren, debido a las diferencias sutiles entre plataformas.
+La mayoría de las normas sufren de «áreas grises» donde las diferencias de interpretación de normas causan variaciones pequeñas dependiendo de la plataforma.
+También existe un gran número creciente de herramientas para facilitar el desarrollo de ports, como el GNU Compiler Collection, que provee lenguajes de programación consistentes en diferentes plataformas, y Autotools, que automatiza la detección de variaciones menores en el entorno y adapta el software según corresponda antes de compilarlo.
+Los compiladores de algunos lenguajes de programación de alto nivel, (por ejemplo Eiffel y Esterel) obtienen portabilidad ejecutando el código de fuente en otro lenguaje intermedio (como C) para el cual muchas plataformas están generalmente disponibles.
+Dos conceptos relacionados con ports, pero distintos, son emuladores y compiladores cruzados.
+En vez de traducir directamente a un lenguaje de máquina, los compiladores modernos traducen a un código intermedio independiente de la máquina para mejorar la portabilidad del compilador y minimizar empeños de diseño.
+El lenguaje intermedio define una máquina virtual que puede ejecutar todos los programas escritos en el lenguaje intermedio (una máquina se define por su lenguaje y viceversa).
+Las instrucciones del lenguaje intermedio se traducen a secuencias equivalentes por un generador de código para crear código ejecutable.
+También es posible omitir la generación de código de máquina implementando un interpretador o JIT para la máquina virtual.
+El uso de código intermedio mejora la portabilidad del compilador, porque solo el código dependiente de la máquina (el interpretador o el generador de código) necesita ser portado al nuevo sistema.
+El resto del compilador puede ser portado como código intermedio y luego procesado por el generador de código portado o el interpretador, así produciendo el software del compilador o directamente ejecutando el código intermedio en el interpretador.
+La parte que depende de la máquina puede desarrollarse y testearse en otra máquina (la máquina anfitriona).
+Esto reduce significativamente los empeños de diseño, porque la parte independiente de la máquina necesita desarrollarse solamente una vez para crear código intermedio portable.
+Un interpretador es menos complejo y es más fácil de portar que un generador de código, porque no es capaz de hacer optimización de código debido a su acceso limitado al código del programa.
+(solo procesa una instrucción a la vez, y necesita una secuencia para la optimización).
+Algunos interpretadores son extremadamente fáciles de portar, porque únicamente hacen suposiciones mínimas sobre el conjunto de instrucciones del hardware subyacente.
+Como resultado, la máquina virtual es aún más simple que la CPU de destino.
+Escribir las fuentes del compilador completamente en el lenguaje de programación que el compilador debe traducir, hace más factible el siguiente enfoque, mejor conocido como bootstrap de compiladores, en la máquina de destino:
+La parte difícil de la optimización de código se hace empleando lenguaje de alto nivel en vez del lenguaje ensamblador del destino.
+Según los diseñadores del lenguaje BCPL, el código interpretado (en el caso de BCPL) es más compacto que el código de máquina; típicamente por un factor de dos a uno.
+Sin embargo, ejecutar código interpretado es 10 veces más lento que código compilado en la misma máquina.
+Los diseñadores del lenguaje de programación Java intentan aprovecharse de la compacidad del código interpretado, porque un programa de Java tal vez necesite ser transmitido a través de Internet antes de su ejecución en la máquina virtual Java de destino.
+Port también se refiere al hecho de convertir un videojuego diseñado a ejecutarse en una sola plataforma, ya sea de arcade, una consola de videojuegos, o una computadora personal, para ejecutarse en otra plataforma.
+Desde el comienzo de videojuegos hasta 1990, muchos ports, en aquel entonces llamados «conversiones», no eran ports, sino versiones recreadas de juegos.
+Sin embargo, muchos videojuegos del siglo XXI se desarrollan usando software (comúnmente usando C++) capaz de ejecutar código en una o más consolas sin la necesidad de hacer port (usando el port común de la librería de componentes individual).
+Hacer ports de juegos de arcade para casas con hardware inferior resultó difícil.
+La versión port de Pac-man del sistema Atari 2600 omitió muchos de los aspectos visuales del juego original para compensar la falta de espacio en la imagen ROM.
+Hubo problemas de mal funcionamiento de hardware cuando estaba más de un fantasma en la pantalla, haciéndola parpadear.
+Algunos eruditos citan que la crisis del videojuego de 1983 se debió a los malos resultados del port de Pac-Man.
+Muchos de los primeros ports sufrieron problemas significativos de jugabilidad a causa de las grandes diferencias existentes entre computadoras.
+Richard Garriott dijo que en 1984 en Origins Game Fair que Origin Systems desarrolló videojuegos para la familia de computadores de Apple II primero y luego hizo ports de ellos para los sistemas Commodore 64 y Atari 8-bit, ya que por los sprites y aspectos de estas últimas máquinas, hacer ports a sistemas Apple era «mucho más difícil, quizás incluso imposible».
+Hubo quejas sobre ports que sufrieron de "Apple conversionitis", conservando "el audio pésimo y los gráficos blanco-negro-verde-violeta" de Apple; después de la declaración de Garriott, cuando le preguntó Danielle Bunten Berry a la audiencia «gente de Atari y Commodore, ¿están felices con las reescrituras de Apple?», la audiencia gritó, «¡No!» Garriott respondió, «[sino] la versión de Apple nunca va a ser terminada.
+Desde el punto de vista de un editor, sería imprudente en cuanto al dinero.»
+Sin embargo, algunos juegos eran diferentes.
+Por ejemplo, Ozark Softscape, escribió M.U.L.E. primero en la Atari porque prefirió desarrollar en los computadores más avanzados, removiendo o cambiando aspectos según sea necesario al hacer el port.
+Pero esta policía no era del todo factible; Bunten dijo que, "M.U.L.E. no puede ser hecha para un sistema de Apple," y que las versiones no Atari de The Seven Cities of Gold eran inferiores.
+Compute!'s Gazette escribió en 1986 que al portar desde Atari a Commodore la original era usualmente superior.
+La calidad de la nueva mejoró cuando se comenzó a desarrollar software para ella a finales de 1983, cita la revista.
+Que un juego sea «arcade perfect», quiere decir que el juego fue portado de una versión de arcade a otra platafoma, como a una consola o una computadora, sin alteraciones significativas al funcionamiento del juego.
+Esto significa que el gráfico, el audio y la jugabilidad, junta con las otras características del juego (como bugs), son iguales a los de la versión original.
+Esto usualmente significa que las diferencias son menores (como tiempo de carga más largo), o simplemente que el port era el que más conservó la experiencia del juego original.
+Port (de consola) es un juego originalmente hecho para una consola (como una Wii o Xbox 360) antes de la creación de una versión idéntica que puede ser jugada en una computadora personal o en cualquier otra consola.
+Este término ha sido altamente usado por la comunidad de videojuegos.
+El proceso de portar un juego de una consola a PC muchas veces se considera negativamente debido a que se infravaloren los niveles altos de rendimiento que generalmente tienen las PCs, parcialmente porque se lanzan versiones de arreglo de hardware de consolas durante su curso (con juegos siendo desarrollados para specs de consolas), mientras las PCs se vuelven más poderosas como se evolucione el hardware, pero también porque a veces los ports de juegos están mal optimizados para PC, o hechos perezosamente.
+Aunque es muy similar, puede ser por las diferencias de arquitectura, como el uso memoria unificada en una consola.

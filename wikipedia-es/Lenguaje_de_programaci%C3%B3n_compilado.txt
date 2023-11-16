@@ -1,0 +1,13 @@
+Un lenguaje compilado es un lenguaje de programación cuya implementaciones es normalmente compiladores (traductores que generan código de máquina a partir del código fuente) y no intérpretes (ejecutores paso a paso del código fuente, donde no se lleva a cabo una traducción en la pre-ejecución).
+El término es un tanto vago.
+En principio, cualquier lenguaje puede ser implementado con un compilador o un intérprete.
+Sin embargo, es cada vez más frecuente una combinación de ambas soluciones: un compilador puede traducir el código fuente en alguna forma intermedia (muchas veces llamado Bytecode), que luego se pasa a un intérprete que lo ejecuta.
+Los programas compilados a código nativo en tiempo de compilación tienden a ser más rápidos que los traducidos en tiempo de ejecución, debido a la sobrecarga del proceso de traducción.
+Sin embargo, las nuevas tecnologías como la compilación en tiempo de ejecución, y mejoras generales en el proceso de traducción están empezando a reducir esta brecha.
+En algún punto intermedio, tiende a ser más eficiente la solución mixta usando bytecode.
+Los lenguajes de programación de bajo nivel son típicamente compilados, en especial cuando la eficiencia es la principal preocupación, en lugar de soporte de plataformas cruzadas.
+Para los lenguajes de bajo nivel, hay más correspondencias uno a uno entre el código programado y las operaciones de hardware realizadas por el código máquina, lo que hace que sea más fácil para los programadores controlar más finamente la CPU y uso de memoria.
+Con un poco de esfuerzo siempre es posible escribir compiladores incluso para las lenguajes tradicionalmente interpretados.
+Por ejemplo, Common Lisp puede ser compilado a Java bytecode, que es interpretado por la máquina virtual de Java; a código C, que se compila a código máquina nativo; o es compilado directamente a código nativo.
+Los lenguajes de programación que soportan múltiples objetivos de compilación ofrecen un mayor control para que el desarrollador elija la velocidad de ejecución o la compatibilidad entre plataformas.
+Algunos lenguajes que comúnmente se consideran compilados:

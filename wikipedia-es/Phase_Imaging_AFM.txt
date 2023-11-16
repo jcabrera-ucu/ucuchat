@@ -1,0 +1,12 @@
+La técnica Phase Imaging AFMo Visualización por fase, es una técnica microscópica que permite observar en tiempo real y de manera simultánea cualquier cambio de forma o composición que se produzca en células, moléculas biológicas, circuitos nanoelectrónicos u otros objetos a escala nanométrica.
+Esta está basada en la microscopía de fuerzas y utiliza la energía disipada a nivel molecular para realizar las mediciones de los objetos.
+El microscopio de fuerza atómica mide la energía que transfiere a la molécula o sistema bajo una punta de silicio muy afilada, terminada en un átomo, que se hace oscilar a pocos ángstrom sobre la superficie del objeto analizado.
+En esta situación, el átomo de la punta es muy sensible a las fuerzas de interacción con los átomos, moléculas o nanoestructuras.
+“La composición química de la molécula depende de la transferencia de energía y de las fuerzas de interacción que se producen entre la molécula y la punta de silicio”.
+La sensibilidad de esta nueva técnica permite detectar variaciones de energía que se corresponden con décimas y centésimas de las energías de enlace entre átomos, alcanzando así una resolución nanométrica y molecular.
+La técnica Phase Imaging AFM, ha sido perfeccionada en el marco del proyecto europeo FORCETOOL, coordinado por el investigador del CSIC Ricardo García García profesor de investigación en el Instituto de Microelectrónica de Madrid y elegido Fellow de la American Physical Society (2007).
+La misión de este proyecto es desarrollar un método de microscopía capaz de funcionar en un entorno tecnológico y que ofrezca una resolución espacial de un nanómetro.
+La investigación aspira ahora a obtener información cuantitativa sobre todas las propiedades del sistema u objeto que estudia.
+La nueva técnica permite observar la superficie de materiales heterogéneos y aportar datos sobre alguna de sus propiedades; además de mostrar y procesar, por primera vez de forma independiente y en tiempo real, datos sobre la topografía y la composición del objeto.
+El investigador Ricardo García García ejemplifica posibles usos para la medicina: “Ahora podemos ver en detalle cómo interaccionan un antígeno y un anticuerpo.
+En un futuro, con el avance de esta técnica, se podrá ver paso a paso cómo interacciona un medicamento con una célula enferma”.

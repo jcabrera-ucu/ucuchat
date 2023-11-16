@@ -1,0 +1,10 @@
+En anatomía humana, el sistema extrapiramidal es una red neuronal que forma parte del sistema nervioso central y es parte del sistema motor, relacionado con la coordinación del movimiento.
+Está constituido por las vías nerviosas polisinápticas que incluyen los núcleos basales y los núcleos subcorticales.
+Este sistema es llamado "extrapiramidal" para distinguirlo de los tractos de la corteza motora que viajan a través de las pirámides de la médula.
+Los centros del sistema extrapiramidal se encargan de la modulación y regulación (control indirecto) de las células del asta anterior mientras que las vías piramidales (tractos corticoespinal y corticobulbar) inervan directamente las motoneuronas de la médula espinal y tronco cerebral (asta anterior y algunos núcleos de los pares craneales).
+Los tractos extrapiramidales nacen principalmente en la formación reticular del puente y el bulbo raquídeo, y sus neuronas diana en la médula espinal están relacionadas con los reflejos, la locomoción, los movimientos complejos y el control postural, complementando al sistema piramidal, que se encarga de los movimientos voluntarios fundamentalmente.
+Estos tractos están a su vez modulados por varias partes del sistema nervioso central, incluyendo el cuerpo estriado, los núcleos basales, el cerebelo, los núcleos vestibulares y diferentes áreas sensoriales de la corteza cerebral.
+Todos estos componentes reguladores pueden ser considerados parte del sistema extrapiramidal, en cuanto a que modulan la actividad motora sin inervar directamente a las motoneuronas.
+Los neurotransmisores implicados en la función del sistema extrapiramidal son dopamina, serotonina, acetilcolina y ácido gamma-aminobutírico.
+Origen capas profundas del Colículo superior ,su función controla movimientos de la cabeza y miembro superior en relación con reflejos posturales.
+Reflejos asociados con la dilatación pupilar en la oscuridad.

@@ -1,0 +1,13 @@
+Se denomina cortocircuito al fallo en un aparato o línea eléctrica por el cual la corriente eléctrica pasa directamente del conductor activo o fase al neutro o a tierra en sistemas monofásicos de corriente alterna, entre dos fases o igual al caso anterior para sistemas polifásicos, o entre polos opuestos en el caso de corriente continua.
+Es decir: es un defecto de baja impedancia entre dos puntos de potencial diferente y produce arco eléctrico, esfuerzos electrodinámicos y esfuerzos térmicos.
+El cortocircuito se produce normalmente por los fallos en el aislante de los conductores, cuando estos quedan sumergidos en un medio conductor como el agua o por contacto accidental entre conductores aéreos por fuertes vientos o rotura de los apoyos.
+Debido a que un cortocircuito puede causar importantes daños en las instalaciones eléctricas e incluso incendios en edificios, estas instalaciones están normalmente dotadas de fusibles o interruptores magnetotérmicos a fin de proteger a las personas y los objetos.
+Además cabe señalar que en sistemas de corriente alterna se producen por diferencia en ángulos de desfase eléctrico.
+En un circuito cerrado el voltaje, corriente eléctrica y la resistencia deben tener valores debidamente controlados para un buen funcionamiento del sistema.
+Una condición de cortocircuito queda determinada al eliminarse, desde el punto de vista práctico, la resistencia de consumo del circuito.
+Según la ley de Ohm se tiene que
+Por tanto, si la resistencia se disminuye aproximadamente a cero la intensidad de la corriente tiende a infinito.
+Esta situación se da, por ejemplo, al caer una barra de metal sobre los conductores y formar un puente.
+En este caso se dice que han quedado "puenteados" el vivo o fase y el neutro del circuito, oponiendo este una resistencia prácticamente igual a 0 al paso de corriente eléctrica.
+Según el efecto Joule la corriente que circula por un conductor genera un calor que puede determinarse según la relación:
+Por lo que si la corriente adquiere valores excesivos, la cantidad de calor puede ser tal que puede fundir casi instantáneamente los conductores del circuito, siendo este el fenómeno más apreciable en un cortocircuito.

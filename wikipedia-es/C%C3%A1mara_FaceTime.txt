@@ -1,0 +1,5 @@
+La cámara FaceTime, anteriormente conocida como la iSight, es un periférico para el uso de cámara web.
+Se introdujo en el 2003, en la Worldwide Developers Conference con una capacidad de video a 480 SD.
+Con la aparición del iPhone 4 y del iPod touch de 4.ª generación (ambos con cámara delantera y trasera para videoconferencias), la pasa a denominarse Cámara FaceTime, ya que éstas también se pueden usar para conferencias FaceTime.
+Recientemente con la remodelación de la gama MacBook Pro, Apple cambio el nombre y calidad de imagen de la cámara denominándola ahora "FaceTime HD".
+Solo en este modelo actualmente (720p), cuenta con una mejor resolución y se espera que se incluya en futuros modelos de Mac.

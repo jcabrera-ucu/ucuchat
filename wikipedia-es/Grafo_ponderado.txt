@@ -1,0 +1,32 @@
+En teoría de grafos, un grafo ponderado, valorado o con pesos es un grafo en el que las aristas tienen un valor o peso asociado.
+En análisis de redes sociales y ciencia de redes, este tipo de grafos sirven para representar redes sociales o redes complejas con relaciones valoradas.
+Formalmente, un grafo ponderado se puede definir como un trío ordenado, donde es su conjunto de vértices,  es su conjunto de aristas, y  es el conjunto de pesos asociados a cada arista.
+Asimismo, W se puede representar también como una función de asignación de pesos, de modo que para cualquier arista e\in E, su peso es.
+Dado que cualquier conjunto finito de valores se puede asociar a un subconjunto de los números reales, las aristas también admiten solo números enteros, o bien valores no numéricos, tales como letras o colores.
+En redes sociales, es común restringirse a números naturales.
+Por definición, los grafos signados son un caso particular de grafos ponderados, en que los valores válidos para cada arista se reducen a un valor booleano, 0 o 1, o bien -1 o +1.
+Asimismo, un grafo normal sin valores en las aristas también se puede considerar un caso particular de grafo ponderado, en que todas las aristas tienen un mismo valor 1.
+Varias métricas para grafos o redes sin aristas valoradas pueden ser adaptadas para grafos ponderados.
+Por ejemplo, las medidas de centralidad clásicas como el grado, cercanía o intermediación, también pueden considerar los pesos de las aristas.
+Asimismo, el coeficiente de agrupamiento global y local también se puede aplicar considerando ternas de valores o fórmulas algebraicas.
+Las trayectorias basadas en la noción de camino también se pueden definir para aristas valoradas, estando bien definidos conceptos de valor y longitud de un camino, así como de accesibilidad entre vértices.
+Una ventaja teórica de los grafos ponderados es que permiten derivar relaciones entre diferentes métricas de la red, también llamados conceptos de red, estadísticos o índices.
+Por ejemplo, simples relaciones entre métricas de la red pueden derivarse a partir de grupos de nodos (comunidades) en las redes ponderadas.
+Para las redes ponderadas de correlación, puede usarse la interpretación angular de las correlaciones para proporcionar una interpretación geométrica de los conceptos teóricos de la red, y derivar relaciones inesperadas entre ellas.
+En general, medir o registrar la importancia de los diferentes enlaces, permite crear grafos ponderados que capturan más información que los grafos sin pesos.
+En redes del mundo real, no siempre todos los vínculos tienen la misma importancia o capacidad.
+En muchos casos, se les asocia a los vínculos un valor que los diferencia en términos de fuerza, intensidad o capacidad.
+Acerca de las redes sociales, Mark Granovetter argumentó en 1973 que la importancia de las relaciones es función de su duración, intensidad emocional, intimidad e intercambio de servicios.
+En el análisis de redes sociales, el concepto de camino de nivel c se utiliza para estudiar subgrupos cohesivos para grafos ponderados.
+Para otros tipos de redes complejas, con frecuencia los pesos refieren a la función que cumplen los vínculos.
+Ejemplos de esto son diferentes valores de flujos de carbono (mg / m² / día) entre especies en las redes alimentarias, la cantidad de sinapsis y las uniones de brechas en redes neuronales, o la cantidad de tráfico vehicular a lo largo de las conexiones en redes de transporte.
+Las redes ponderadas también se usan ampliamente en aplicaciones genómicas y de sistemas biológicos.
+Por ejemplo, el análisis de redes ponderadas de coexpresión de genes (WGCNA, por sus siglas en inglés) se usa a menudo para construir una red entre diferentes genes o productos genéticos, basados en datos de expresión de genes como micromatrices.
+De manera más general, pueden definirse otras redes ponderadas de correlación a partir de determinar un umbral entre pares entre variables, como activación de distintas partes del cerebro o expresión de diferentes genes).
+En teoría de la probabilidad, los grafos ponderados pueden restringirse a valores de probabilidades entre 0 y 1, esto es, funciones de pesos w:E\to[0,1], para representar procesos estocásticos conocidos como cadenas de Márkov.
+En estos grafos, además, la suma de los pesos incidentes desde cada nodo suman 1.
+A las sociomatrices o matrices de adyacencia de dichos grafos se les conoce como matriz de transiciones o matrices estocásticas.
+Existe un gran número de paquetes de software que pueden usarse para analizar redes ponderadas.
+Entre estos se encuentran el software propietario UCINET y el paquete de código abierto tnet.
+El paquete de R, WGCNA, implementa funciones para construir y analizar redes ponderadas, particularmente redes de correlación.
+En general, la gran mayoría de herramientas para análisis de redes sociales permiten trabajar con grafos ponderados.

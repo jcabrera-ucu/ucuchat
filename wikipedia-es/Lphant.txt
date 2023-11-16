@@ -1,0 +1,18 @@
+Lphant fue un cliente P2P escrito en C#; en el cual el código del núcleo es independiente del de la interfaz gráfica.
+Lphant es de los primeros programas que permiten la descarga de un mismo archivo a través de la unión de las redes eDonkey 2000 y BitTorrent.
+Además, permite el uso de la opción Webcaché.
+Para ejecutar el programa (en las versiones 3.00 y posteriores), es necesario tener instalado en nuestro sistema el .NET Framework v2.0 (el cual puede ser descargado directamente desde la página oficial de Windows Update), si trabajamos bajo sistemas Windows.
+Si trabajamos con sistemas GNU/Linux o Mac OS, necesitaremos tener instalada la plataforma Mono.
+En la actualidad, con cada versión aparecen 3 clientes:
+En marzo de 2009 Discordia Ltd. se adueñó por la fuerza de la página web de LPhant, por medio de artimañas legales.
+Ya había aplicado con éxito la misma táctica con la página de Shareaza en 2008.
+Discordia Ltd. es un grupo creado con la intención de combatir la piratería, atacando los medios de distribución P2P.
+En el caso de LPhant se han adueñado de la página, con la intención de eliminar este software de la siguiente manera:
+La publicidad del software LPhant sugiere al usuario que actualice a la nueva versión 4.
+El usuario visita la página oficial de LPhant, en manos de Discordia, y descarga un programa que al instalarse elimina la versión anterior.
+Este programa es un fake, un disfraz; no es compatible con Torrent ni con eDonkey.
+En este punto el usuario descubre que ha perdido el cliente P2P de LPhant, y la página para descargar la versión anterior (v 3.51) ya no existe.
+Adicionalmente, mediante un asistente, el sistema de instalación de dicha versión 4, insta al usuario a realizar un registro en línea para poder usar el programa.
+Posteriormente, si el usuario desea cancelar su suscripción, ni el programa ni la página web ofrecen un método claro para realizarlo (si no inexistente).
+Al tiempo que Discordia tomó el control de la página de LPhant, fueron eliminadas las entradas de Wikipedia en inglés referidas a este software, y retiradas las posibilidades de descarga de las versiones anteriores de LPhant, de los numerosos sitios de descarga en Internet.
+Los desarrolladores de LPhant están decidiendo su estrategia para continuar, aunque se presume que se encuentren limitados a causa de algún acuerdo legal que debieron firmar con Discordia, en el que entregaron la página.

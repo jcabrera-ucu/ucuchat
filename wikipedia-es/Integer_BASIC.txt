@@ -1,0 +1,30 @@
+El Integer BASIC, escrito por Steve Wozniak, era el interpretador BASIC de los computadores Apple I y del original Apple II.
+Originalmente disponible en casete (para el Apple I), luego incluido en el ROM de la computadora original del Apple II en el lanzamiento de 1977.
+Era la primera versión de BASIC usada por muchos dueños de los primeros computadores personales.
+Miles de programas fueron escritos en el Integer BASIC.
+Steve Wozniak, que había estado anteriormente involucrado con Atari en el desarrollo de la versión original del Breakout, se fijó como una meta interna en el diseño de la computadora Apple II, poder reproducir fielmente ese juego, usando solamente instrucciones del BASIC.
+Esto se ve en el diseño de los modos gráficos "low-res" (de baja resolución) y el hacer del Apple II uno de los primeros microcomputadores en usar gráficos de color.
+Esta meta de diseño fue realizada con el programa "Little Brick Out" cuando fue demostrado en una reunión del Homebrew Computer Club en 1976.
+También debe ser observado que Wozniak no tenía ninguna herramienta de desarrollo de software para el procesador 6502 con excepción de un manual de referencia del lenguaje ensamblador, y escribió el software con pluma y papel y después ensambló a mano las instrucciones en código de máquina puro, para el 6502.
+El defecto más frecuentemente citado del Integer BASIC, como puede uno esperar del nombre, era que sus variables eran todas números enteros de 16 bits y era muy difícil escribir un programa que pudiera hacer cálculos usando números de punto flotante, o aún de números enteros fuera del rango de -32768 a +32767.
+Por lo tanto era muy difícil de escribir programas financieros o de matemáticas.
+Apple Computer licenció un BASIC de Microsoft, con muchas más características, pero también mucho más lento, introduciendo algunos ajustes, llamándolo Applesoft BASIC, e incluyó la segunda versión de éste en los ROM del Apple II Plus, que fue lanzado en 1979.
+El Integer BASIC fue relegado a un archivo en el sistema de disco blando que los usuarios del Apple II podían cargar en una tarjeta de RAM para la compatibilidad hacia atrás, si fuese necesario.
+El Applesoft BASIC fue incluido en las ROM de todos los modelos de Apple II desde el Apple II Plus en adelante, y eventualmente se convirtió en la plataforma para mucho más programas.
+La ventaja de la velocidad del Integer BASIC era en parte debido a que la verificación de sintaxis era realizada en tiempo de entrada del programa, como también que los números eran convertidos a forma binaria, en vez de hacer estas cosas en tiempo de ejecución.
+Una técnica popular de optimización de velocidad, en la mayoría de los interpretadores BASIC - incluyendo Applesoft - es poner todas las constantes usadas frecuentemente en variables, porque leer el valor de la variable es más rápido que convertir un número desde texto - una diferencia que llega a ser significativa, dado, quizás, centenares de iteraciones.
+Este método es superfluo en el Integer BASIC.
+Las ROM del Integer BASIC también incluyeron un "Mini-Assembler" que permitía a los programadores mecanografiar programas en lenguaje ensamblador, línea por línea, que eran entradas en memoria.
+Esto era, por supuesto, mucho más fácil que mirar los opcodes correspondientes en lenguaje de máquina y mecanografiarlos.
+Estas ROM también incluyeron a un interpretador para un lenguaje bytecode de 16 bits, llamado SWEET16, que era muy simple, compacto, y digno de estudio.
+Estas dos características, algunas rutinas de la entrada/salida de la cinta de casete, y algunas rutinas raramente usadas de matemáticas de punto flotante fueron removidas en la transición de las ROM del Integer BASIC a las ROM del Apple II Plus, para poder acomodar el tamaño más grande del interpretador Applesoft BASIC.
+Cuando se corría en Apple DOS, era posible (a expensas de borrar el programa BASIC actual de la memoria) cambiar entre el BASIC de Applesoft y el Integer BASIC, mecanografiando INT (para entrar al Integer BASIC) o FP (para entrar al Applesoft BASIC) - suponiendo, por supuesto, que el lenguaje solicitado estaba en el ROM o cargado en RAM.
+Había también una tarjeta enchufable que se podía instalar en la ranura 0 que permitió que el usuario cambiara entre la ROM interna de la tarjeta o una externa.
+El prompt de la línea de comandos para el Integer BASIC era una punta de flecha apuntando hacia la derecha (el símbolo de mayor que) (>).
+(El prompt del Applesoft era un corchete derecho (]), dando al usuario una indicación clara de cual BASIC estaba usando).
+El método de edición para el Integer BASIC (realmente parte de la subrutina de entrada de línea del monitor del sistema) era una versión levemente más primitiva del método disponible en el firmware del Apple II Plus.
+Presionar Escape seguido por A, B, C, o D movería el cursor a la derecha, izquierda, abajo, o arriba, respectivamente.
+Era necesario presionar Escape cada vez - a diferencia del Escape K, J, M, e I (del Apple II Plus y posteriores) y Escape derecha, izquierda, abajo, arriba del (Apple IIe y posteriores).
+Cada versión sucesiva soporta todos los métodos anteriores; por ejemplo, incluso en el Apple IIe, uno podía presionar el Escape, luego A y mover justo un espacio.
+En todos los sistemas, pulsar la tecla de flecha derecha, mientras no se estaba en el modo del Escape, cogería el carácter debajo del cursor, permitiendo que el texto en pantalla fuera efectivamente reescrito en el buffer de entrada.
+Había programas de terceros - por ejemplo PLE, GPLE de Northwest Synergistic Software y posteriormente de Beagle Bros, y el GALE - que ofrecían facilidades de edición más poderosas y amigables al programador.

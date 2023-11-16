@@ -1,0 +1,19 @@
+Un radiomódem o módem de radio transfiere datos de forma inalámbrica a una distancia que puede llegar a decenas de kilómetros, salvando obstáculos como montañas.
+La comunicación que se establece se suele denominar de datos de radio frecuencia (Radio Frequency Data Communication o RFDC).
+Los módems de radio son una forma moderna de crear redes de radio privadas (PRN).
+Las redes de radio privadas se utilizan en aplicaciones industriales críticas, cuando se requiere la comunicación de datos en tiempo real.
+También los radiomódems permiten al usuario ser independiente de los operadores de las redes de satélite o de telecomunicaciones.
+En la mayoría de los casos, los usuarios utilizan frecuencias con licencia, ya sea en UHF (450–470 MHz, principalmente) o VHF (por lo general, 220-240MHz), con una salida de potencia de RF de 5 vatios, modulación MSK y una alimentación eléctrica de 12.5 V. La frecuencia licenciada queda reservada para el usuario dado en una cierta área, garantizando así que haya menos probabilidad de tener interferencias de radio de otros transmisores de RF.
+También están disponibles frecuencias libres de licencia, en la mayoría de los países, lo que permite una fácil implementación, pero al mismo tiempo otros usuarios pueden usar la misma frecuencia.
+Además de UHF/VHF, también se puede utilizar HF (la comprendida entre 3 y 30Mhz).
+Se pueden llegar a velocidades de hasta 1 Mbit/s.
+Los usuarios industriales típicos para módems de datos de radio son: GPS diferencial de agrimensura, gestión de flotas, aplicaciones SCADA (redes de distribución de servicios públicos), la lectura automática del medidor (AMR), aplicaciones de telemetría y muchas más.
+Dado que las aplicaciones por lo general requieren una alta fiabilidad de transferencia de datos y un tiempo de actividad muy alto, el rendimiento de la radio juega un papel clave.
+Los factores que influyen en el rendimiento de radio son: altura y el tipo de la antena, la sensibilidad de la radio, la potencia de salida de la radio y el diseño del sistema completo.
+Para las necesidades de transferencia de datos inalámbricos a través de unos pocos kilómetros, SATELLINE-1870E es una solución sencilla.
+Este módem de radio opera en la banda sin licencia de ámbito europeo 868-870 MHz y tiene una potencia de transmisión máxima de 500 mW, lo que permite una cobertura de hasta 2,5 km. Con la creación de una red con módems de radio repetidores, se pueden lograr distancias mayores.
+El radiomódem puede acomodar comunicaciones punto a punto, así como punto a multipunto.
+SATELLINE-1915 es un módem de radio similar, que emplea el salto de frecuencia (frequency hopping ) y tecnologías de espectro extendido (spread spectrum technologies).
+Este radiomódem compacto opera en la banda de 902-928 MHz y, por lo tanto, se puede utilizar en las bandas libres de licencia de Australia y muchos países de América del Norte y del Sur.
+Los fabricantes utilizan el estándar denominado PCC (Pacific Crest Corporation) protocol.
+Para capacidad redundante se utilizan módems MultiSIM.

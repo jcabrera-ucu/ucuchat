@@ -1,0 +1,19 @@
+Se llama fotomultiplicador, tubo fotomultiplicador o por sus siglas en inglés PMT (Photo Multiplier Tube) a un tipo de detector óptico de vacío que aprovecha el efecto de emisión secundaria de electrones para responder a niveles muy bajos de iluminación, manteniendo un nivel de ruido aceptable.
+Con la llegada de los dispositivos de carga acoplada y su gran eficiencia cuántica, los fotomultiplicadores han visto reducirse grandemente sus aplicaciones, quedando prácticamente reducidas a los detectores de partículas, basados en la radiación de Cherenkov.
+Un fotomultiplicador está compuesto de un fotocátodo, que emite electrones cuando sobre él inciden fotones de energía adecuada.
+Un campo eléctrico acelera estos electrones y los dirige hacia un ánodo, que en estos tubos recibe el nombre de dínodo.
+La energía de los electrones incidentes provoca la emisión un número mayor de electrones secundarios que son dirigidos hacia un segundo dínodo.
+El número de dínodos y su disposición varía con el modelo de fotomultiplicador.
+Un tubo fotomultiplicador consiste de un cátodo fotoemisivo (fotocátodo), consistente de metales alcalinos con funciones de trabajo bajas, seguido de electrodos enfocadores.
+Además del cátodo fotoemisor el tubo contiene una serie de electrodos recubiertos llamados dínodos cada uno sometido a un potencial más positivo que el precedente.
+El cátodo está recubierto con una superficie fotoemisora como la utilizada en los fototubos.
+Los dínodos están recubiertos con compuestos como BeO, CsSb que desprenden varios electrones cuando son bombardeados con electrones de alta energía.
+Cada dínodo está configurado para enfocar los electrones emitidos hacia el dínodo siguiente.
+Por último, posee un colector de electrones (ánodo) en un tubo al vacío.
+Cuando la luz entra al fotocátodo, este convierte la energía de la luz incidente en fotoelectrones emitidos al vacío, los cuales son enfocados hacia los dínodos, donde son multiplicados en un proceso de emisión secundaria.
+Al final, la señal de salida se obtiene en el ánodo.
+La eficiencia en la conversión o sensibilidad del cátodo, varia con la longitud de onda de la luz incidente.
+La relación entre la sensibilidad del cátodo y la longitud de onda se llama respuesta espectral característica.
+Debido a la mencionada emisión secundaria de cada dínodo, el tubo fotomultiplicador tiene una alta sensibilidad y un bajo ruido.
+Un dínodo conforma el sistema de multiplicación de electrones.
+La gran sensibilidad de los tubos fotomultiplicadores (consiste en amplificación de corriente y relación señal ruido altas) es debida al uso de tal sistema, que permite el proceso de emisión secundaria.

@@ -1,0 +1,30 @@
+En los sistemas operativos que cumplen la especificación POSIX, un grupo de procesos es una colección de uno o más procesos.
+Los grupos de procesos se utilizan para la distribución de señales.
+Una señal dirigida a un grupo de procesos es recibida por todos los procesos miembros de ese grupo.
+Los grupos de procesos están a su vez agrupados en sesiones.
+Los grupos de procesos no pueden migrar de una sesión a otra, y un proceso sólo puede crear nuevos grupos de procesos que pertenezcan a la misma sesión a la que pertenece.
+Un proceso únicamente puede unirse a un grupo de procesos que esté en su misma sesión.
+Nuevas imágenes de proceso creadas por una llamada a una función de la familia exec hereda el grupo de proceso y la sesión de la imagen antigua.
+Un segundo uso no relacionado del término grupo de procesos aparece en el contexto de sincronía virtual, un modelo de ejecución distribuido en el que grupos de procesos corriendo en diferentes máquinas se asocian para compartir eventos, replicar datos o coordinar acciones.
+La distribución de señales a grupos de procesos es la base del control de trabajos empleado por las shell.
+El driver de dispositivo tty incorpora la noción de un grupo de proceso en primer plano, al cual envía las señales SIGTSTP, SIGQUIT y SIGINT generadas por las interrupciones de teclado.
+También envía las señales SIGTTIN y SIGTTOU a los procesos que intentan leer desde (y, dependiendo de la configuración, escribir a) el terminal que no se hallan en el grupo de procesos en primer plano.
+El intérprete de comandos a su vez, particiona las tuberías de los procesos que crea en grupos de procesos, controlando qué grupo está en el primer plano del terminal de control, determinando por tanto qué procesos (y por ende qué tuberías) pueden realizar entrada/salida desde y hacia la consola en cualquier momento.
+Cuando el intérprete de comandos pasa a ejecutar una orden y expande un nuevo proceso hijo, tanto la shell padre como el proceso hijo intentan convertir al nuevo proceso en el líder del grupo de procesos para el nuevo comando.
+Intentan hacerlo los dos para evitar una condición de carrera entre el hijo convirtiéndose en el líder y ejecutando la imagen del programa y el padre o el driver del sispositivo tty intentando enviar señales al grupo de procesos para control de trabajos.
+Cuando se usan terminales de texto en sistemas de tipo Unix, las sesiones suelen implementar una sesión de login.
+Un único proceso, el líder de la sesión interactúa con la terminal de control para asegurar que finalizan todos los procesos cuando "se cae" la conexión al terminal.
+Cuando el líder no está presente, se espera que sean gestionados por los procesos del grupo en primer plano.
+En los entornos con una interfaz gráfica de usuario.
+el concepto de sesión se hay amuy diluido, y la noción de sesión del núcleo a menudo ignorada.
+Las interfaces gráficas de usuario, como el manejador de pantalla X utilizan un mecanismo distinto para implementar las sesiones de login.
+La llamada al sistema  crea una nueva sesión con un único grupo de procesos, siendo el proceso actual el líder de la sesión y el nuevo grupo.
+Los grupos de procesos son identificados por un entero positivo, el ID de grupo de proceso, que es el pid del proceso que es (o era) el líder del grupo de procesos.
+Los grupos de procesos no tienen por qué tener líderes, si bien siempre se inician con uno.
+Las sesiones son identificadas por el ID de rupo de proceso del líder de la sesión.
+POSIX prohíbe cambiar el ID de grupo de proceso de un líder de sesión.
+La llamada al sistema  establece el ID de grupo de procesos de un proceso, bien asignando el proceso a un grupo existente, o bien creando un nuevo grupo de procesos con la en la sesión del proceso, convirtiendo al proceso actual en el líder del nuevo grupo.
+POSIX prohíbe reutilizar un pid cuando aún existe un grupo de procesos con él (ha terminado el líder del grupo, pero siguen existiendo procesos en el grupo).
+Por tanto garantiza que nuevos procesos no pueden convertirse accidentalmente en los líderes de uun grupo.
+La llamada al sistema  es capaz de enviar señales tanto a procesos individuales como a grupos de procesos.
+Processo Background

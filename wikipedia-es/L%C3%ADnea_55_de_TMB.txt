@@ -1,0 +1,3 @@
+La línea 55 es una línea regular de autobús urbano de la ciudad de Barcelona gestionada por la empresa TMB.
+Hace su recorrido entre el Parc de Montjuic y la Pl. Catalana, con una frecuencia en hora punta de 11-13min.
+<references group=Nota/>

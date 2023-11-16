@@ -1,0 +1,54 @@
+Megaupload fue un sitio web de servicio de alojamiento de archivos, fundado el 21 de marzo de 2005 por Megaupload Limited en Hong Kong, China.
+El 19 de enero de 2012 fue cerrado por el FBI en una operación policial alegando que el sitio facilitaba a sus usuarios a cometer actos de infracción de derechos de autor sin ningún tipo de restricción.
+El dominio megaupload.com atrajo por lo menos diez millones de visitas en 2008 de acuerdo con un estudio de Compete.com.
+El servicio básico se encontraba disponible de forma gratuita y permitía a los usuarios subir archivos de hasta 2 GB.
+El usuario libre no podía descargar archivos de más de 1 GB, sin embargo el usuario registrado podía descargar 100 GB de archivos almacenados.
+Cualquier archivo subido por anónimos expiraba si no había descargas en más de 21 días (los subidos por usuarios gratuitos, 90 días, y los subidos por Premium, nunca).
+En un primer momento, los usuarios debían rellenar un texto basado en captcha al descargar un archivo, más tarde se eliminó este.
+Hasta fecha reciente, los usuarios no registrados debían esperar unos 45 segundos en la cola de la descarga, mientras que los usuarios con un registro gratuito tenían que esperar 25 segundos; más tarde, después de una remodelación en la página de descargas, se eliminó el límite de tiempo.
+Ambos debían esperar una cierta cantidad de tiempo entre las transferencias después de que una cierta cantidad de megabytes se hubiera descargado desde los servidores de Megaupload.
+Mediante pago se podía obtener una cuenta Premium, que otorgaba una amplia gama de privilegios, tales como no esperar ninguna cola de archivos, realizar más de una descarga de forma simultánea, usar el programa Mega Manager en su totalidad (sin restricciones), subir archivos protegidos con contraseña, un espacio online ilimitado para subir sus archivos y no tener restricciones de ningún tipo al subir archivos, entre otras.
+Megaupload poseía Megavideo, un sitio de vídeo streaming para alojar archivos de vídeo, similar a YouTube, aunque más especializado en vídeos largos, como películas y series, y Megaporn, otro sitio de vídeo streaming pero con temática pornográfica.
+El 9 de julio del 2016, su creador Kim Dotcom informó que el sitio volvería el 20 de enero de 2017.
+Aunque por problemas técnicos y fiscales, Dotcom, se vio obligado a suspender el relanzamiento de la página.
+Kim Dotcom también anunció que está trabajando en una red que pretende el magnate, sea la sucesora de Internet.
+Llamada MegaNet, Que no se basará en intercambio de paquetes por IP, sino que utilizará principalmente la telefonía móvil como principal método de soporte de la MegaNet.
+Aunque existen dudas al respecto sobre cómo soportará la red móvil tal peso.
+Sin embargo, se cree que con la evolución de la tecnología en los dispositivos móviles, esto sea posible.
+Megaupload permitía descargar grandes volúmenes de archivos con gran facilidad.
+Si bien Megaupload disponía de su propio buscador, los usuarios en general suelen preferir alojar sus contenidos en foros especializados donde además de los enlaces propiamente dichos añaden una sinopsis del contenido alojado y algunas imágenes representativas de los mismos.
+Megaupload disponía de un servicio de puntos mediante el cual un usuario subía archivos y por cada una de las descargas que otros usuarios hacían de esos archivos el que lo subió recibía un punto.
+Al alcanzar cierto número de puntos, se podían canjear por cuentas premium o incluso dinero (sólo si dicha cuenta había sido comprada con tarjeta de crédito anteriormente).
+El servicio de Megaupload poseía 4 tipos de cuentas para la descarga de archivos almacenados.
+El usuario solo podía descargar un archivo simultáneamente, y además la velocidad de descarga era reducida.
+Este tipo de descarga no resultaba adecuado para personas que se veían en la necesidad de descargar archivos de gran tamaño.
+Aun así, con el paso de los años, el servicio gratuito de Megaupload fue progresando, permitiendo descargar, aun no teniendo todas las ventajas de un usuario premium, a una velocidad más que envidiable.
+Era aconsejable utilizar el gestor jDownloader o Mipony para aprovechar al máximo una cuenta gratuita, dado que se encargaba de automatizar todos los pasos requeridos.
+Al estar registrado en la página de Megaupload, lo cual solo requería llenar pocos espacios de información básica, tales como correo electrónico y nombre de nuevo usuario, se necesita para poder obtenerla, se daban algunas mejoras para descargar archivos desde aquella página.
+Se considera algo mejor que la gratis, pero muy inferior a la cuenta premium.
+El usuario premium podía realizar varias descargas simultáneamente, posibilidad de enlaces directos sin pasar por la página y gran velocidad de descarga.
+A diferencia del usuario gratuito, este usuario tenía que pagar por una suscripción a Megaupload (o subir y compartir archivos hasta conseguir la cantidad de puntos requerida).
+El usuario pagaba una media de 200-300 euros y obtenía una cuenta con funciones prémium de por vida sin tener que pagar ninguna mensualidad.
+El 30 de noviembre de 2010 Megaupload realizó cambios importantes, creando servicios nuevos tales como Megapix (para almacenaje y distribución de fotos), Megabox (venta de música), Megalive (para proyectar tus vídeos caseros en directo), Megafund (sistema de financiación para proyectos empresariales) y diversas webs más.
+Actualizó sus límites para los usuarios gratuitos, permitiendo subir archivos de hasta 2 GB como máximo en vez de 1 GB ofrecido antes.
+También inauguraron el servicio Megakey, un programa que permite adquirir permisos premium para algunas cuentas gratuitas a cambio de transformar toda la publicidad de algunas páginas de Internet en la de Megaupload (efectividad todavía no demostrada).
+El 19 de enero de 2012, el FBI provocó el cierre del portal, motivado por las acusaciones de infracción de derecho de autor, generó 175 millones de dólares en gastos legales y se alegaron 500 millones de dólares de pérdidas por derechos de autor, en un informe del Departamento de Justicia de Estados Unidos.
+Fueron arrestadas siete personas en los Estados Unidos y cuatro de sus directivos en Nueva Zelanda, entre ellos el fundador, Kim Schmitz, Finn Batato y Mathias Ortmann, nacidos en Alemania, y el nacido en Países Bajos Bram van der Kolk.
+Los acusados podrían enfrentar una pena de hasta 50 años en prisión.
+Además, millones de usuarios alrededor de todo el mundo protestaron a través de la página en Facebook del FBI colocando mensajes como: Megaupload is Free (Megaupload es libre).
+Este organismo sin previo aviso eliminó su página.
+Al ocurrir a un día de la suspensión de la polémica ley S.O.P.A., el FBI desmintió que el cierre tuviera relación con ese proyecto.
+El Departamento de Justicia norteamericano difundió un comunicado informando sobre el asunto, que ha sido subido a la web por uno de los fundadores del servicio.
+En señal de protesta por el cierre, el colectivo hacktivista Anonymous generó la caída de varios sitios, entre ellos el del Departamento de Justicia de los EE. UU., el de Universal Music Group y el del FBI.
+También fueron filtrados los supuestos datos personales y de la familia, del director del FBI, Robert Mueller.
+Un tribunal neozelandés concedió la libertad condicional a Mathias Ortmann (cofundador de Megaupload) con 17 condiciones, entre ellas la prohibición de acceder a Internet.
+Durante los meses previos a su cierre, según parece, Megaupload planeaba lanzar un servicio de música llamado Megabox, prescindiendo de las discográficas e intermediarios.
+De esta manera los artistas percibirían el 90% de los ingresos y Megaupload el 10% restante.
+De hecho, un video promocional de la compañía colgado en Youtube en diciembre de 2011, en el que aparecían, entre otros, varios artistas ligados a las grandes discográficas, como Will.i.am, Sean "Diddy" Combs, Kim Kardashian, Alicia Keys y  Snoop Dogg, pone de manifiesto que Kim Schmitz contaba con influyentes contactos dentro del sector.
+Universal Music, compañía líder del sector discográfico, consiguió que el video fuese retirado, alegando que la compañía poseía los derechos de varios de los artistas que en él se daban cita.
+Megaupload, por su parte, emitió un comunicado en el que hacía constar que ninguno de los representantes de los artistas había puesto impedimentos legales y amenazó con demandar a Universal por bloquear la difusión de su video promocional.
+Kim Schmitz (apodado Kim "Dotcom") programó por Twitter el relanzamiento de Megaupload el día 19 de enero de 2013.
+El nuevo servicio, llamado "Mega" tiene un servicio más enfocado al almacenamiento en la nube, llegando a tener 50 GB de almacenamiento estándar, aunque si el usuario lo desea así, puede compartir su respectivo link de descarga justo como su predecesor.
+El nuevo sitio web está bajo el eslogan "Bigger, Better, Faster, Stronger, Safer" ("Más grande, mejor, más rápido, más fuerte, más seguro").
+Kim Dotcom anuncia en Twitter que el sitio Mega sufre cargas lentas de la página y sobrecargas en los servidores debido a que en la primera hora de funcionamiento de Mega se han llegado a registrar más de 100.000 usuarios, posiblemente batiendo el récord del arranque más rápido de una página web o servicio en Internet, según el propio Kim.
+En menos de 24 horas se confirmó haber llegado al millón de usuarios registrados.

@@ -1,0 +1,30 @@
+En la catálisis ácida y la catálisis básica, una reacción química es catalizada por un ácido o una base.
+Según la teoría ácido-base de Brønsted-Lowry, el ácido es el donante de protones (ion hidrógeno), ) y la base es el aceptor de protones. Las reacciones típicas catalizadas por transferencia de protones son esterificaciones y reacciones aldólicas. En estas reacciones, el ácido conjugado del grupo carbonilo es un mejor electrófilo que el propio grupo carbonilo neutro. Dependiendo de las especies químicas que actúan como ácido o base, los mecanismos catalíticos se pueden clasificar como catálisis específica y catálisis general. Muchas enzimas operan por catálisis específica.
+La catálisis ácida se utiliza principalmente para reacciones químicas orgánicas. Muchos ácidos pueden funcionar como fuentes de protones.
+Los ácidos utilizados para la catálisis ácida incluyen ácido fluorhídrico (en el proceso de alquilación), ácido fosfórico, ácido toluensulfónico, poliestireno sulfonato, heteropoliácidos, zeolitas.
+Los ácidos fuertes catalizan la hidrólisis y transesterificación de ésteres, por ejemplo, para transformar grasas en biodiésel.
+En términos de mecanismo, el oxígeno del carbonilo es susceptible a la protonación, lo que mejora la electrofilia en el carbono del carbonilo.
+En la química a escala industrial, muchos procesos son catalizados por "ácidos sólidos".
+Los ácidos sólidos no se disuelven en el medio de reacción.
+Ejemplos bien conocidos incluyen estos óxidos, que funcionan como ácidos de Lewis: silico-aluminatos (zeolitas, alúmina, silico-alumino-fosfato), zirconia sulfatada y muchos óxidos de metales de transición (titania, zirconia, niobia y más).
+Estos ácidos se utilizan en el craqueo.
+Muchos ácidos de Brönsted sólidos también se emplean industrialmente, incluyendo poliestireno sulfonado, carbono sulfonado, sólido de ácido fosfórico, ácido nióbico, y hetero polioxometalatos.
+Una aplicación a gran escala es la alquilación, por ejemplo, la combinación de benceno y etileno para dar etilbenceno.
+Otra aplicación importante es la transposición de ciclohexanona oxima a caprolactama.
+Muchas alquilo aminas se preparan mediante aminación de alcoholes, catalizada por ácidos sólidos.
+En esta función, el ácido convierte,, un grupo saliente pobre, en uno fuerte.
+Por tanto, los ácidos se utilizan para convertir alcoholes en otras clases de compuestos, como tioles y aminas.
+Se reconocen dos tipos de catálisis ácida: catálisis ácida específica y catálisis ácida general.
+En la catálisis ácida específica, el disolvente protonado es el catalizador.
+La velocidad de reacción es proporcional a la concentración de las moléculas de disolvente protonadas.
+El catalizador ácido en sí mismo solo contribuye a la velocidad de aceleración cambiando el equilibrio químico entre el solvente  y  a favor de la especie.
+Este tipo de catálisis es común para ácidos fuertes en disolventes polares, como el agua.
+Por ejemplo, en una solución tampón acuosa, la velocidad de reacción de los reactivos depende del pH del sistema pero no de las concentraciones de diferentes ácidos.
+Este tipo de cinética química se observa cuando el reactivo R^1 se encuentra en un equilibrio rápido con su ácido conjugado R^1H^+ que procede a reaccionar lentamente con R^2 al producto de reacción; por ejemplo, en la reacción aldólica catalizada por ácido.
+En la catálisis ácida general, todas las especies capaces de donar protones contribuyen a la aceleración de la velocidad de reacción.
+Los ácidos más fuertes son los más efectivos.
+Las reacciones en las que la transferencia de protones determina la velocidad exhiben catálisis ácida general, por ejemplo reacciones de acoplamiento de diazonio.
+Cuando se mantiene el pH a un nivel constante, pero se cambia la concentración del tampón, un cambio en la velocidad indica una catálisis ácida general.
+Una tasa constante es evidencia de un catalizador ácido específico.
+Cuando las reacciones se llevan a cabo en medios apolares, este tipo de catálisis es importante porque el ácido a menudo no está ionizado.
+Las enzimas catalizan reacciones usando catálisis de base general y ácida general.

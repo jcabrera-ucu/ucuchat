@@ -1,0 +1,107 @@
+El llamado detector de mentiras, máquina de la verdad o polígrafo es un tipo particular de instrumento de medición utilizado para el registro de respuestas fisiológicas.
+Generalmente registra las variaciones de la presión arterial, el ritmo cardíaco, la frecuencia respiratoria, estímulos nerviosos y la respuesta galvánica o conductancia de la piel, generadas ante determinadas preguntas que se realizan al sujeto sometido a la prueba.
+Este tipo de polígrafo es comúnmente conocido por su uso como supuesto detector de mentiras sin validación científica alguna, pese a su credibilidad en la cultura popular y algunas entidades estatales y privadas.
+Su repetida incapacidad para detectar a espías notorios a lo largo de décadas   y las investigaciones al respecto realizadas por instituciones de alto prestigio como la Academia Nacional de Ciencias de Estados Unidos o la Asociación Estadounidense de Psicología con resultados negativos,  entre otros factores, han hecho que la comunidad científica los considere un fraude y una forma de pseudociencia.
+El conjunto de técnicas utilizadas para la supuesta detección de mentiras es ahora más publicitada como evaluación de credibilidad (del inglés credibility assessment), detección del engaño y otras en un intento de bordear este descrédito.
+En la realidad, actualmente no existe ninguna máquina o dispositivo capaz de detectar mentiras de manera fiable y no se prevé que surja en el futuro próximo.
+Esta imposibilidad incluye a otras tecnologías complementarias o sustitutivas del tradicional polígrafo como el análisis electroencefalográfico de potenciales evocados (como el componente P300) o la explotación de la imagen por resonancia magnética funcional (fMRI).
+Se considera que este tipo de polígrafo usado como detector de mentiras fue inventado en 1938 por Leonarde Keeler, del Departamento de Policía de Berkeley (California), quien creó el primer polígrafo de tres canales que imprimía sus resultados en papel, basándose en los trabajos previos de John Larson.
+Se puede considerar como origen previo de las técnicas poligráficas, la aportación del criminólogo y médico italiano Cesare Lombroso, que en 1895 ya estudió la conexión entre los cambios en el sistema cardiovascular y la reacción fisiológica cuando una persona miente, basándose en parámetros de ritmo cardíaco y presión sanguínea.
+Desde entonces, el mecanismo básico de su supuesto funcionamiento no ha cambiado sustancialmente; todos los avances consisten en mejoras de los sensores y adiciones como el procesamiento informático de las mediciones (polígrafo digital) o detectores electroencefalográficos de potencial relacionado con evento (típicamente los componentes u "ondas cerebrales" N100, N400 y P300), ninguno de los cuales ha demostrado una mejora mensurable a la hora de detectar mentiras hasta la actualidad y algunos añaden nuevos problemas de difícil resolución.
+Por ejemplo y entre otros, los potenciales evocados como el componente P300 varían enormemente entre individuos     y, en el mismo individuo, también cambian con el paso del tiempo y la repetición de estímulos.
+En España, en 2014, se aplicó una prueba basada en la onda P300 al acusado de asesinar a Marta del Castillo para la localización del cadáver.
+La realizó un neurofisiólogo altamente cualificado en esta técnica, con supervisión judicial, bajo un entorno controlado en el Servicio de Neurofisiología Clínica de un prestigioso hospital de referencia.
+Según el propio especialista, el acusado estuvo participativo y cooperativo en todo momento.
+Aunque finalmente se le condenó con base en métodos policiales y judiciales convencionales, el cuerpo de la víctima no fue hallado y actualmente sigue sin aparecer.
+Lo mismo ocurrió con otro acusado, de asesinar a su esposa, que fue sometido a la misma técnica.
+Así pues, las dos pruebas basadas en la explotación del componente P300 fracasaron pese a realizarse en las mejores condiciones posibles.
+En distintas naciones se utilizaron y utilizan métodos inhumanos para la detección de la mentira, como la tortura y la gota china, cuyos resultados son igualmente discutibles.
+Los defensores del polígrafo afirman que el sustrato bioquímico de las emociones se encuentra correlacionado de forma directa con la reactividad corporal; que la linealidad estímulo → pensamiento → emoción → adecuación anatomofisiológica → respuesta es un ciclo que inalterablemente se presenta en cualquier proceso conductual humano; que es posible medir las reacciones corporales de las emociones; y que para cada estado emocional, existe un espectro psicofisiológico bien definido ligado a la actividad emotiva del sujeto.
+De estas cuatro afirmaciones, las tres últimas no han podido demostrarse mediante el uso del método científico y la última es demostrablemente incorrecta.
+La discordancia del contenido de emisión de datos y su correlación con pensamientos alternos en su evocación emotiva, provocan la variación de las constantes orgánicas.
+Las medidas de esta disonancia, son valoradas en las pruebas de polígrafo.
+Está claro que la conceptualización de mentira es diferente para cada sujeto y los niveles basales son individuales y diferenciados pero, en opinión de los defensores del polígrafo, la tensión emotiva que provoca el conocimiento propio de la verdad modifica ostensiblemente la progresión orgánica de una persona que engaña sobre un aspecto específico.
+Consideran, por tanto, notorios los indicadores de medida de discordancia del pensamiento, al valorar que la inexactitud conceptual en las emociones provocadas ante un tema específico y la activación compleja de neurotrasmisores modifica las constantes orgánicas.
+Es imposible saber qué piensa la persona, pero creen poder medir la reacción corporal que un sujeto muestra ante la presentación de un tema.
+La evidencia forense en la prueba de polígrafo, pues, sería la medida de la reacción fisiológica correspondiente de eventos comparados en la memoria del sujeto y la emisión de respuestas específicas.
+Sin embargo, no parece existir ningún patrón común en la respuesta anatomofisiológica de los seres humanos ante un hecho eminentemente moral y psicológicamente complejo como es la mentira.
+De hecho, ni siquiera ha podido demostrarse que todos los seres humanos presenten este tipo de reacciones diferenciadas al realizar afirmaciones verdaderas o falsas.
+En la práctica, los detectores de mentiras del tipo del polígrafo solo son capaces de detectar ansiedad, que obviamente puede deberse a una infinidad de causas y factores.
+El proceso interno que nos interesa puede estar creado por otro estado mental distinto al de interés.
+La conectividad entre proceso interno y las variables no es perfecta.
+Para usar este mecanismo es preciso acotar los estados mentales en cada sesión para poder centrar la atención entre el proceso interno x y las variables medibles.
+Se aplican preguntas formuladas estratégicamente para que el sujeto se active ante determinadas preguntas.
+A este tipo de preguntas se llama paradigma experimental y se presta atención a dos en concreto: la Prueba de la Pregunta de Comparación (CQT) que hace alternancia entre preguntas irrelevantes, preguntas relevantes (amenazadoras para los culpables) y preguntas de comparación (preocupantes para los inocentes).
+Y la Prueba de Información Oculta (CIT) que consiste en preguntas de múltiple respuesta en la que solo una respuesta es correcta (el culpable se activará más en esta) y como procesos relevantes tenemos la respuesta de orientación y la inhibición de la respuesta dominante.
+Esta última se usa poco en la práctica profesional a diferencia de la anterior.
+En relación con los paradigmas experimentales descritos anteriormente, cabe destacar que la Prueba de Información Oculta (CIT), está mucho más estandarizada que la Prueba de la Pregunta de Comparación (CQT).
+Además, se puede emplear tanto con medidas periféricas (polígrafo), como centrales (ERPs e IRMf) y conductuales.
+No obstante, a diferencia de la CQT, un procedimiento ampliamente utilizado en Estados Unidos, la CIT rara vez se observa en la práctica profesional debido a la complejidad de los procesos involucrados.
+Giorgio Ganis, neurocientífico (2015) concibe la mentira como un estado mental, nadie tiene acceso a los estados mentales de otra persona.
+Para saber si alguien miente o dice la verdad, los estados mentales dan lugar a procesos mentales y estos se manifiestan por las reacciones corporales.
+Pasamos por tres fases: el estado mental, los procesos internos y las reacciones corporales, pero lo que hace detectar la mentira, no es la propia mentira en sí, sino las reacciones corporales.
+Aun así hay algunos gestos que lo delatan como desviar la mirada, cruzarse de brazos y respirar agitadamente delatan incomodidad, hacer un juicio basado solo en una de ellas es un error fundamental.
+Sin embargo, no ha sido identificada una señal universal d mentir.
+Ya que no todos los mentirosos muestran el mismo comportamiento.
+Un mentiroso puede disminuir el contacto visual, mientras que otro puede aumentarlo en respuesta a la misma pregunta
+El polígrafo tiene su uso más amplio en los organismos de inteligencia y de policía, sobre todo en los Estados Unidos y otros países de su área de influencia, donde se ha utilizado para determinar si una persona miente o no. En este caso se sustenta en la hipótesis de que las respuestas fisiológicas de una persona cambian de forma medible cuando miente.
+En Europa se usa fundamentalmente en la asignación de algunos puestos de trabajo por parte de empresas privadas y algunos organismos de seguridad.
+En Estados Unidos se usó como prueba de descargo a favor del sospechoso.
+Cabe recalcar que el polígrafo no es un instrumento que detecte mentiras por sí mismo, ya que no está diseñado para eso, sino para medir el cambio de flujo de corriente que se transmite a través del dedo índice de cada mano y la placa del dedo: solamente detecta las respuestas fisiológicas del organismo.
+Estas reacciones son interpretadas por personas u ordenadores siguiendo un método que carece de validación científica.
+David T. Lykken creó la técnica del conocimiento de la culpabilidad, utilizando información que solo sabe la persona culpable.
+Sin embargo, posteriormente Lykken pasó a formar parte también de los críticos del uso del polígrafo como detector de mentiras.
+Los nuevos polígrafos digitales son usados actualmente por agencias gubernamentales como el U.S. Secret Service, FBI., CIA., DEA., policías locales, fiscalías etc., así como por gabinetes privados de investigación, a la vez que son denigrados por la Academia de Ciencias y en general las organizaciones científicas, dado que siguen basándose en el mismo mecanismo de operación incorrecto.
+Muchos científicos de todo el mundo se han rebelado contra la utilización del polígrafo por los organismos de seguridad y las entidades privadas.
+Un informe de la Academia Nacional de Ciencias de los Estados Unidos, realizado sin la colaboración de expertos en su uso -según denuncia de la American Polygraph Association, un lobby de la industria del polígrafo-, estimó que de aplicarse a una muestra a 10000 personas, de las cuales diez fueran espías, el resultado más probable es que solo ocho de éstas serían identificados por el polígrafo como tales, a la vez que serían considerados probables espías y rechazados 1598 (casi el 16 % de los inocentes).
+Otra investigación, de la Asociación Estadounidense de Psicología, concluyó que los resultados del polígrafo como detector de mentiras no se han distinguido del efecto placebo.
+Por otro lado, un meta-análisis realizado en el año 2020 por tres personas que se dedican a la detección de mentiras y una cuarta sin interés específico declarado muestra que el "comparison question polygraph test" podría tener cierta fiabilidad a la hora de identificar errores en las variables moderadoras entre distintos estudios.
+Ninguno de los cuatro autores es conocido como científico.
+Cuando se trata de medir la precisión total de la prueba, hay que tener en cuenta que son cuatro sus posibles resultados en función de lo que diga la persona (verdad o mentira) y de lo que indique la propia prueba (verdad o mentira).
+Así, la tasa de aciertos al detectar una mentira se conocen como sensibilidad, mientras que la de aciertos al detectar una mentira se conocen como especificidad.
+En función del paradigma experimental utilizado la precisión de la prueba varía, por lo que hay que hacer distinciones:
+Varios desastres de inteligencia han desacreditado fuertemente al polígrafo como detector de mentiras.
+Posiblemente el más notable sea el de Aldrich Ames, un agente doble que superó dos pruebas del detector aplicadas por expertos de la CIA mientras trabajaba para la Unión Soviética entre 1985 y 1991.
+La CIA sospechaba que tenía uno o varios infiltrados debido a la inaudita capacidad del KGB para desarticular sus operaciones en la URSS y Ames, con información esencial al respecto, llevaba un tren de vida muy superior al que permitían sus ingresos legales con la excusa de haber cobrado una herencia.
+En realidad, el KGB le pagaba importantes cantidades de dinero por sus informaciones hasta un total de 4,6 millones de dólares durante este periodo.
+Pero como superaba las pruebas del polígrafo, se le excluía de las listas de sospechosos hasta que la práctica aniquilación de la red de espionaje estadounidense en la URSS gracias a sus delaciones terminó dejándole en evidencia.
+Entre los delatados por Ames se cuenta la joya de la corona de la CIA en la URSS: el mayor general del GRU Dmitri Poliakov, detenido en 1986 y ejecutado por espionaje y alta traición en 1988.
+En algunos momentos Ames llegó a percibir hasta 50.000 dólares semanales mientras almorzaba sin ocultarse con su controlador, Sergéi Dmitriyevich Chuvakhin; había convencido a sus superiores de la CIA, al FBI y a los operadores de los polígrafos de que estos almuerzos formaban parte de una estrategia para captar a Chuvakhin y otro personal de la embajada soviética, sin mencionar ni una palabra sobre el dinero.
+Ames no sería detenido hasta 1994, tres años después del colapso de la URSS, cuando ya había pasado a trabajar para el nuevo Servicio de Inteligencia Exterior de Rusia y sus acciones eran un secreto a voces.
+Que se sepa, solo Robert Hanssen suministró más secretos a la Unión Soviética y Rusia durante los años finales de la Guerra Fría y la década siguiente.
+Otros espías notorios que han pasado la prueba del detector sin mayores dificultades fueron Karl Koecher (en los años 1980), Ana Belén Montes (en el año 2000), o Leandro Aragoncillo (en 2005), estos últimos ya con polígrafos digitales modernos.
+Ana Belén Montes, en particular, era la analista superior de asuntos cubanos para la Agencia de Inteligencia de la Defensa de los Estados Unidos; superó repetidamente las pruebas del polígrafo entre al menos 1986 y 2001 mientras suministraba abundante información a la Dirección de Inteligencia Cubana y redactaba informes sobre Cuba alterados ingeniosamente para sus superiores norteamericanos que influyeron en la política del presidente Bill Clinton respecto al país caribeño.
+Buena parte de este periodo fue posterior al caso Ames, tras el que se cambiaron, multiplicaron y endurecieron los procedimientos de uso del polígrafo y se adquirieron polígrafos digitales de última generación.
+Sin embargo, al igual que en los demás casos, estos dispositivos y sus operadores nunca detectaron el menor problema con Montes.
+Terminó siendo descubierta por vías sin ninguna relación con el detector de mentiras.
+Los detractores del polígrafo describen varias contramedidas para eliminar cualquier eficacia residual del detector de mentiras, basada en el temor, la anécdota y las contradicciones o confesiones espontáneas que inspira.
+La más básica es no admitir nunca nada que pueda lesionar los intereses de la persona que padece la prueba.
+Otras técnicas están orientadas a modificar de manera anómala las reacciones corporales durante las preguntas de control.
+Probablemente, el mejor consejo fue el que recibió Ames de su controlador del KGB, expertos en toda clase de técnicas de interrogatorio legales e ilegales: "Duerme bien, descansa, y acude a la prueba descansado y relajado. Sé simpático con el operador del polígrafo, establece una buena relación y muéstrate cooperativo. Sobre todo, mantén la calma y nunca te detectarán." Y, efectivamente, nunca le detectaron.
+En la actualidad el polígrafo es utilizado por agencias de inteligencia, policías y sectores privados de más de noventa países.
+Sin embargo, la mayoría de psiquiatras, psicólogos, neurólogos, neurofisiólogos y otros científicos coinciden en que hay poca base para la validez de las pruebas de polígrafos.
+En algunos países de Iberoamérica el polígrafo es utilizado como prueba judicial, tal es el caso de Guatemala y Panamá.
+En Estados Unidos el polígrafo se admite como prueba judicial bajo estipulación; es decir mediante acuerdo entre el fiscal y el defensor, en los siguientes estados: Arizona, Arkansas, California, Deaware, Florida, Georgia, Idaho, Indiana, Iowa, Kansas, Nevada, Nueva Jersey, Carolina del Norte, Ohio, Utah, Washington y Wyoming es admisible como prueba si el juez decide aceptarlo.
+En el estado de Nuevo México se admite plenamente como prueba judicial.
+De otra parte en los tribunales de apelación que están divididos en doce distritos, el polígrafo se admite a discreción del juez de ocho distritos; bajo estipulación y admisión del juez de dos distritos; únicamente en el Fourth Circuit y el DC circuit no es admitido.
+Actualmente también puede usarse como prueba en otros países como el Japón, Sudáfrica e Israel.
+En España y en Europa en general no es frecuente el uso del polígrafo en los tribunales, quienes suelen mostrarse reticentes en la admisión de este tipo de pruebas.
+Existen varios factores que sugieren la suspensión completa del uso del polígrafo, por no cumplir como una prueba completamente científica.
+Uno de ellos es la llamada "entrevista".
+En la entrevista el examinador debe primero tratar de ganarse la confianza del examinado, haciéndole preguntas que en ocasiones no vienen al caso.
+Pueden comenzar desde la niñez e ir aumentando de tono hasta inducirle la idea de que su vida no ha sido tan "honrada" como cree.
+El examinador comenzará a profundizar en el caso de que se le presenta y si lo considera necesario puede aumentar el tiempo de "entrevista".
+El tiempo aproximado de entrevista debe ser de tres horas, pero el examinador puede aumentarlo a seis o más horas o hacer sesiones de varios días.
+Esto se parece más a un interrogatorio ilegal en ausencia de abogado utilizando técnicas convencionales de presión, manipulación y coerción psicológica con la excusa del detector de mentiras que a un examen científico para detectar el engaño.
+A principios del se postuló una aplicación marginal de la imagen por resonancia magnética funcional (IRMf, más conocida por sus iniciales en inglés fMRI) como potencial detector de mentiras sobre una nueva base científico-técnica distinta a la del tradicional polígrafo y sus evoluciones.
+Sin embargo, y pese a la existencia de dos empresas que comercializan este servicio, esta aproximación está actualmente basada en conjeturas que tampoco se consideran muy prometedoras como detector de mentiras práctico y fiable.
+Se considera que este tipo de polígrafo usado como detector de mentiras fue inventado en 1938 por Leonarde Keeler, del Departamento de Policía de Berkeley (California), quien creó el primer polígrafo de tres canales que imprimía sus resultados en papel, basándose en los trabajos previos de John Larson.
+Desde entonces, el mecanismo básico de su supuesto funcionamiento no ha cambiado sustancialmente; todos los avances consisten en mejoras de los sensores y adiciones como el procesamiento informático de las mediciones (polígrafo digital) o detectores electroencefalográficos de potencial relacionado con evento (típicamente los componentes u "ondas cerebrales" N100, N400 y P300), ninguno de los cuales ha demostrado una mejora mensurable a la hora de detectar mentiras hasta la actualidad y algunos añaden nuevos problemas de difícil resolución.
+Por ejemplo y entre otros, los potenciales evocados como el componente P300 varían enormemente entre individuos    y, en el mismo individuo, también cambian con el paso del tiempo y la repetición de estímulos.
+En España, en 2014, se aplicó una prueba basada en la onda P300 al acusado de asesinar a Marta del Castillo para la localización del cadáver.
+La realizó un neurofisiólogo altamente cualificado en esta técnica, con supervisión judicial, bajo un entorno controlado en el Servicio de Neurofisiología Clínica de un prestigioso hospital de referencia.
+Según el propio especialista, el acusado estuvo participativo y cooperativo en todo momento.
+Aunque finalmente se le condenó con base en métodos policiales y judiciales convencionales, el cuerpo de la víctima no fue hallado y en 2021 sigue sin aparecer.
+Lo mismo ocurrió con otro acusado, de asesinar a su esposa, que fue sometido a la misma técnica.
+Así pues, las dos pruebas basadas en la explotación del componente P300 fracasaron pese a realizarse en las mejores condiciones posibles.
+En distintas naciones se utilizaron y utilizan métodos inhumanos para la detección de la mentira, como la tortura, cuyos resultados son igualmente discutibles.

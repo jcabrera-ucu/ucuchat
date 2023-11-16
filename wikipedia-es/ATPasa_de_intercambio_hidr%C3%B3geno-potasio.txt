@@ -1,0 +1,19 @@
+ATPasa hidrógeno-potasio gástrica (ATPasa H+/K+), es una proteína transportadora cuyo propósito es la acidificación del estómago.
+La ATPasa hidrógeno-potasio gástrica o ATPasa H+/K+ constituye la bomba de protones del estómago.
+Intercambia el potasio presente en el lumen por hidronio (H+) citoplasmático y es la principal proteína transportadora responsable de la acidificación del contenido del estómago (jugo gástrico), así como de la activación de la enzima digestiva pepsina.
+La ATPasa H+/K+ se encuentra en las células parietales, que son células epiteliales altamente especializadas que se encuentran en el revestimiento interior del estómago denominado mucosa gástrica.
+Las células parietales tienen una extensa membrana secretora y la proteína H+/K+ ATPasa constituye el principal elemento de dichas membranas.
+También puede encontrarse una pequeña cantidad de H+/K+ ATPasa en la médula renal.
+La ATPasa hidrógeno-potasio es una proteína heterodinámica, es decir, producto de 2 genes.
+El gen ATP4A codifica la subunidad alfa (α) de la ATPasa H+/K+ y constituye una proteína de aproximadamente 1000 aminoácidos que contienen los centros catalíticos de la enzima y forman el poro de la membrana celular a través del cual tiene lugar el transporte de iones.
+Los iones hidronio se enlazan a dos sitios activos presentes en la subunidad α.
+La subunidad α también tiene un sitio de fosforilación (Asp385).
+El gen ATP4B codifica la subunidad β de la ATPasa H+/K+, que es una proteína de unos 300 aminoácidos con un dominio citoplasmático N-terminal de 36 aminoácidos, un único dominio transmembranal y un dominio extracelular altamente glicosilado.
+La ATPasa H+/K+ es una ATPasa de tipo P2, miembro de la clase eucariótica de las ATPasas de tipo P.
+Al igual que las ATPasas Ca2+ y Na+/K+, la ATPasa H+/K+ funciona como un protómero α, β.
+A diferencia de otras ATPasas eucarióticas, la H+/K+ es electroneutra, ya que transporta un protón al lumen estomacal por cada potasio que obtiene del mismo.
+A modo de una bomba de iones, la ATPasa H+/K+ puede transportar iones en sentido contrario al que impone el gradiente de concentración utilizando para ello la energía obtenida de la hidrólisis del ATP.
+Al igual que en todas las ATPasas de tipo P, durante el ciclo de transporte se transfiere un grupo fosfato desde el trifosfato de adenosina (ATP) hacia la ATPasa H+/K+.
+Este transferencia de fosfatos produce un cambio en la conformación de la enzima que coadyuva el transporte de los iones.
+La inhibición de la ATPasa hidrógeno-potasio para disminuir la acidez gástrica es uno de los métodos más usados y potentes para tratar las enfermedades relacionadas al ácido, incluyendo enfermedad por reflujo gastroesofágico (ERGE) y enfermedad ulcerosa péptica (EUP).
+La reducción de la acidez alivia los síntomas y cura las lesiones de la mucosa pero no trata la causa de la ERGE (relajaciones transitorias del esfínter esofágico inferior) y de la EUP (infección por Helicobacter pylori y uso de AINES).

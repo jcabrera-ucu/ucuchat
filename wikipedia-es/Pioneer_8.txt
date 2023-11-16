@@ -1,0 +1,10 @@
+Pioneer 8, también conocida Pioneer C, fue una sonda espacial de la NASA lanzada el 13 de diciembre de 1967 mediante un cohete Delta desde Cabo Cañaveral.
+Pioneer 8 fue la tercera sonda de una serie de sondas (formada por Pioneer 6, Pioneer 7, Pioneer 9 y Pioneer E, con las que trabajó conjuntamente) con la misión de realizar el primer estudio detallado del viento solar, el campo magnético interplanetario y los rayos cósmicos, proporcionando datos prácticos sobre las tormentas solares.
+La sonda estaba estabilizada por rotación, con un giro de 60 rpm y con el eje de giro perpendicular al plano de la eclíptica.
+Tenía forma de cilindro recubierto de células solares del cual sobresalen antenas y mástiles.
+Disponía de una antena direccional de alta ganancia, pudiendo transmitir a 512, 256, 64, 16 u 8 bps.
+El formato del envío de datos era seleccionable entre cuatro posibles modalidades, con tres de esas cuatro aptas para el envío de datos científicos (32 palabras de 7 bits por trama).
+La otra modalidad era utilizada para enviar telemetría sobre el estado de la sonda.
+A su vez, se disponía de cuatro modos de operación:
+El último contacto con Pioneer 8 tuvo lugar el 22 de agosto de 1996, ordenándosele pasar al transmisor de respaldo.
+Uno de los instrumentos científicos todavía funcionaba.

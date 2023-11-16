@@ -1,0 +1,7 @@
+XDXF son las siglas de XML Dictionary eXchange Format, un formato XML para la definición de diccionarios.
+El objetivo del formato es ser fácilmente convertible desde y a otros formatos populares como Mova, PtkDic y StarDict.
+Actualmente el formato está en fase de desarrollo.
+Existen múltiples programas que leen el formato XDXF, la mayoría de ellos bajo una licencia de software libre:
+El formato dicML sirve para el mismo propósito.
+Actualmente ninguno de los dos formatos tiene una definición completa.
+Por ejemplo, XDXF no tiene elementos para anotar posibles hipenaciones, mientras el último borrador de dicML no incluye elementos para definir la etimología de las palabras.

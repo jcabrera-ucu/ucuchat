@@ -1,0 +1,10 @@
+CCL28, también conocida como quimioquina epitelial mucosa-asociada (MEC), CCK1 y SCYA28, es una quimiocina.
+CCL28 regula la quimiotaxis de las células que expresan los receptores de quimioquinas CCR3 y CCR10.
+CCL28 se expresa por las células epiteliales columnares en el intestino, de pulmón, de mama y de las glándulas salivales y acciona la mucosa de linfocitos T y B que expresan CCR10, y la migración de eosinófilos que expresan CCR3.
+Esta quimioquina se expresa constitutivamente en el colon, pero sus niveles se pueden aumentar por las citocinas pro-inflamatorias y ciertos productos bacterianos implican un papel en el reclutamiento de células efectoras a los sitios de lesión epitelial.
+CCL28 también ha sido implicada en la migración de células que expresan IgA a la glándula mamaria, la glándula salival, el intestino y otros tejidos de las mucosas.
+También se ha mostrado como un agente antimicrobiano potencial efectivo contra ciertos patógenos, tales como bacterias Gram positivas y Gram negativas y el hongo Candida albicans.
+La CCL28 humana está codificada por un transcrito de ARN de 373 nucleótidos y un gen con cuatro exones.
+El gen codifica para una proteína de 127-aminoácido CCL28 con un péptido señal N-terminal de 22 aminoácidos.
+Se comparte la identidad de ácido nucleico 76% y 83% de similitud de aminoácidos de la molécula equivalente en ratón.
+El análisis de secuencia ha revelado CCL28 a ser más similar a otra quimiocina CC llamada CCL27.

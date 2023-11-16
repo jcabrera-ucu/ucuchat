@@ -1,0 +1,14 @@
+Tucows (que en inglés se lee como "Two Cows" (Dos Vacas) por un juego de palabras en el idioma inglés) ha sido uno de los portales pioneros de descarga de software.
+Creado durante los años 90 surgió de la idea de un bibliotecario de Míchigan llamado Scott Swedorski.
+La idea le surgió al percibir en su centro de trabajo que cada vez más gente se interesaba en la por entonces incipiente Red.
+Por ello, decidió crear una página personal de descarga de software gratuito.
+Tucows recoge una amplia selección de software (dividida en categorías) con programas variados y para distintos sistemas operativos.
+La actualización de los programas se realiza de manera permanente por lo que es muy sencillo encontrar las últimas versiones de cada producto.
+En cuanto a la valoración de los productos, Tucows ofrece una puntuación de los productos usando una medida de 1 a 5 vacas.
+Además también podemos observar la aceptación que ha tenido entre los usuarios, los sistemas operativos en los que el software es compatible, la versión, la fecha de actualización, el tamaño y por último si requiere algún tipo de licencia especial (caso de especial incidencia en las versiones "trial" o de prueba).
+Con el paso del tiempo Tucows ha ido aumentando los servicios que ofrece y hoy en día no es un simple portal de descarga de software sino que se sustenta también con otros servicios como por ejemplo el servicio web.
+El método que utiliza Tucows para la descarga consiste en el acceso a la información mediante el uso de mirrors.
+Se ofrece una cantidad muy elevada de mirrors diferentes los cuales se encuentran en diferentes localizaciones geográficas.
+Se aconseja siempre descargar en mirrors cercanos en cuanto a localización ya que la velocidad de descarga y la conexión serán mejores
+Después de más de 25 años el sitio TuCows cerró su servicio de descargas al ser, según palabras de su CEO, un sitio demasiado antiguo y difícil de mantener y de proteger, además de estar ocupados con otros proyectos de negocio.
+Más información: Retirada de TuCoWS (en inglés), consultada el 30 de 03 de 2022.

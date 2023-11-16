@@ -1,0 +1,20 @@
+El tetracloruro de pentaeritritilo es un compuesto orgánico de fórmula molecular C5H8Cl4.
+En este compuesto organoclorado, cuatro grupos clorometil (-CH2-Cl) se hallan unidos a un mismo carbono cuaternario.
+Recibe también los nombres de tetrakis(clorometil)metano, tetracloruro de pentaeritritol y, en nomenclatura IUPAC, 1,3-dicloro-2,2-bis(clorometil)propano.
+El tetracloruro de pentaeritritilo es un sólido inodoro de color beige con una densidad de 1,327 g/cm³.
+Su punto de fusión es 96 °C y su punto de ebullición, a 12 mmHg de presión, es 110 °C mientras que a presión normal es en torno a 233 °C.
+El valor del logaritmo de su coeficiente de reparto, logP = 3,474, indica que es más soluble en disolventes apolares que en disolventes polares.
+Es prácticamente insoluble en agua.
+En cuanto a su estabilidad, este compuesto no es compatible con agentes oxidantes fuertes.
+El tetracloruro de pentaeritritilo se puede preparar calentando triclorhidrina de pentaeritritol con pentacloruro de fósforo a 150 °C.
+También se puede elaborar calentando disulfito de pentaeritritol con un oxicloruro sulfuroso, como cloruro de tionilo, en presencia de un catalizador de hidrocloruro de piridina.
+Otra vía de síntesis es haciendo reaccionar pentaeritritol con cloruro de p-toluenosulfonilo en presencia de cantidades sustanciales de piridina a una temperatura superior a 100 °C.
+La reacción de tetraclorometano con diazometano bajo irradiación es otra forma de preparar tetracloruro de pentaeritritilo, obteniéndose un rendimiento del 61%.
+La reacción se lleva a cabo en un flujo de nitrógeno durante dos horas.
+Sin embargo, si se sustituye el tetraclorometano por cloroformo, el principal producto que se forma es 1-cloro-2,2-bis(clorometil)propano.
+El tetracloruro de pentaeritritilo sirve para preparar pentaeritritil tetramina (PETA) por amonólisis.
+Se pueden emplear diversos catalizadores para esta reacción, tales como haluros de amonio cuaternario, aminas terciarias o epóxidos de olefinas, entre otros.
+En este sentido, el tratamiento del tetracloruro de pentaeritritilo con un exceso de amoníaco caliente muy comprimido produce pentaeritritil tetramina con un rendimiento del 57%; dicha amonólisis puede realizarse en amoníaco supercrítico solo o utilizando metanol como disolvente.
+Asimismo, este cloroalcano se usa para producir pentaeritritiol, lo que se consigue tratando el tetracloruro de pentaeritritilo con tetrasulfuro disódico en un disolvente polar aprótico (como N,N-dimetilformamida), seguido de reducción con polvo metálico de platino, paladio, níquel o zinc.
+Otros usos del tetracloruro de pentaeritritilo son como agente de acoplamiento en la fabricación de polímeros de caucho, en membranas asimétricas para su uso en nanofiltración y como disolvente en composiciones que se usan para fabricar láminas semiconductoras de alta movilidad.
+El siguiente compuesto es isómero del tetracloruro de pentaeritritilo:

@@ -1,0 +1,8 @@
+ISO 3166-2:CM es la entrada para Camerún en ISO 3166-2, parte de los códigos de normalización ISO 3166 publicados por la Organización Internacional de Normalización (ISO), que define los códigos para los nombres de las principales subdivisiones (p.ej., provincias o estados) de todos los países codificados en ISO 3166-1.
+En la actualidad, para Camerún los códigos ISO 3166-2 se definen en 10 regiones.
+Cada código consta de dos partes, separadas por un guion.
+La primera parte es CM, el código para Camerún de la ISO 3166-1 alfa-2.
+La segunda parte tiene dos letras.
+Los nombres de las subdivisiones se ordenan según el estándar ISO 3166-2 publicado por la Agencia de Mantenimiento ISO 3166 (ISO 3166/MA).
+Los códigos ISO 639-1 se usan para representar los nombres de las subdivisiones en los siguientes idiomas oficiales:
+Pulsa sobre el botón en la cabecera para ordenar cada columna.

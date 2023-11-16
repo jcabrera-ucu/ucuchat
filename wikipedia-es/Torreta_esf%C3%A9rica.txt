@@ -1,0 +1,44 @@
+La torreta esférica fue una torreta con montura altazimutal, instalada en algunas aeronaves de construcción estadounidense durante la Segunda Guerra Mundial.
+Estas eran tripuladas, a diferencia de las torretas operadas remotamente, que también se empleaban en esta época.
+La torreta albergaba al artillero, dos ametralladoras pesadas, munición y miras.
+La Sperry Corporation diseñó versiones ventrales las cuales fueron la configuración más común, es por esto que al referirse al término "torreta esférica", generalmente nos referimos a esta versión ventral.
+Tanto Sperry como Emerson Electric desarrollaron una torreta esférica, cuyos diseños eran idénticos en la versión destinada al morro del avión.
+El desarrollo de la torreta de Emerson fue detenido.
+La torreta en su configuración frontal/morro del avión, presentada por Sperry fue probada y aceptada, pero su uso fue limitado debido a la escasez de aviones con diseños aptos para instalarla.
+La versión de la torreta ventral Sperry fue mucho más producida y utilizada, incluyendo varios subcontratos de producción.
+El diseño fue mayoritariamente empleado en los bombarderos B-17 Flying Fortress y B-24 Liberator, también así en el PB4Y-1, designación dada al B-24 Liberator en servicio con la Armada estadounidense.
+La torreta ventral fue utilizada en tándem en el Convair B-32, el sucesor del B-24.
+En las últimas versiones del B-24, se montaron torretas esféricas tanto en la cola como en el morro, complementando así a la torreta ventral.
+La torreta esférica Sperry fue de pequeño tamaño, con el fin de reducir la resistencia al aire y era común que esta fuese operada por el tripulante de menor estatura.
+Para entrar a la torreta, esta debía moverse hasta que los cañones apuntasen directamente hacia abajo.
+El artillero entraría desde caudal hasta quedar con su cuerpo completamente dentro, se podría un arnés de seguridad y cerraría con un seguro la puerta de su torreta.
+Dentro de esta no quedaba espacio alguno para albergar un paracaídas, por lo cual este era almacenado en la cabina sobre la torreta, aunque algunos artilleros utilizaban un paracaídas atado al pecho.
+El artillero se veía forzado a adoptar una posición fetal dentro de la torreta con su cabeza y espalda apoyados a la pared posterior de esta, su cadera al fondo y sus piernas en dos apoya pies en la pared anterior.
+Esto lo posicionaba justo a nivel de la mira de las ametralladoras con cañón ligero Browning AN/M2 calibre 12,7 mm (.50), las cuales se extendían a través de toda la torreta, a ambos lados del artillero.
+Las manijas de amartillado de las ametralladoras se ubicaban demasiado cerca del artillero para ser operadas con eficacia por lo cual se instaló un sistema de poleas que permitían al artillero operarlas con mayor comfort al ubicarse más lejos de su cuerpo, hacia la pared anterior de la torreta.
+Un factor que cabe notar es que no todas las veces que alguna de las ametralladoras se atascaba, se podía desatascar jalando de la manija de amartillado.
+En muchos casos, cuando esto ocurría, el artillero se veía forzado a "recargar" la ametralladora, lo cual se lograba accediendo al cajón de mecanismos del arma.
+El acceso estaba muy restringido a causa de la ubicación de las ametralladoras en el confinado espacio de la pequeña torreta.
+Normalmente, un artillero accedería al cajón de mecanismos de las ametralladoras al soltar un pestillo y levantar la cubierta del cajón de mecanismos hasta una posición perpendicular al arma, pero esto no era posible dentro de estas torretas.
+Para solucionar este problema, se ranuró el área anterior de la cubierta del cajón de mecanismos.
+Ahora el artillero podría soltar el pestillo, retirar la cubierta y acceder al cajón de mecanismos para desatascar el arma.
+La munición se almacenaba en pequeñas cajas en la parte superior de la torreta y cintas de balas adicionales alimentaban las ametralladoras de la torreta mediante un sistema de rampa.
+Una mira réflex colgaba desde la parte superior de la torreta, posicionada aproximadamente entre los pies del artillero.
+El control direccional de la torreta era accionado por dos manillas con botones de disparo.
+El pie izquierdo controlaba el alcance en la retícula de la mira reflex.
+El pie derecho operaba el interruptor de un intercomunicador.
+La torreta era accionada por motores eléctricos tanto en acimut como en altitud.
+Se le podía instalar una manivela de emergencia para poder ser operada desde el interior del avión.
+En caso de una falla de energía, otro tripulante podía operar esta manivela para posicionar la torreta en posición vertical y permitirle al artillero salir de esta.
+En el B-17, la torreta A-2 se encontraba próxima al suelo, pero esto no interfería con los aterrizajes ni con los despegues.
+Cabe decir que el artillero no entraba a su torreta hasta que el avión se encontrase ya en el aire, como medida de seguridad en caso de algún fallo del tren de aterrizaje.
+Durante el despegue y aterrizaje, esta torreta debía ser apuntada horizontalmente hacia la cola del avión.
+Debido a que la torreta debía ser apuntada verticalmente para que el artillero entrara y saliera de ella, se instalaron controles externos para poder reposicionar la torreta mientras el artillero se encontrase en la cabina del avión.
+En el caso del B-24, su tren de aterrizaje tipo "triciclo anterior" dictaba que la torreta Sperry y sus soportes debían ser completamente retráctiles.
+La torreta Sperry modelo A-13 se elevaba hacia el interior de la parte inferior del fuselaje de la aeronave antes del despegue y del aterrizaje.
+El tren de aterrizaje convencional del B-17 hacía que la torreta esférica fuese montada en un soporte fijo, pero si el avión debía efectuar un aterrizaje forzoso (como en caso de avería del sistema del tren de aterrizaje), la torreta esférica sería destruida y su artillero moriría en caso de no poder evacuarla.
+Después de ser probada a mediados de 1943, la torreta esférica producida por ERCO fue la aceptada para ser montada en el morro de los bombarderos PB4Y-1 Liberator y PB4Y-2 Privateer, ambos bombarderos de patrulla en servicio con la Armada estadounidense.
+Diseños más tempranos de dicha torreta fueron instalados en otros aviones de patrulla marítima.
+Cumplía más de un propósito: defender contra ataques frontales, proveer fuego de supresión y brindar poder de fuego en la guerra antisubmarina.
+La elevación y el acimut de la torreta eran controlados por el artillero mediante dos manillas, lo que provocaba este se moviese junto a sus dos cañones y la mira.
+Entre los primeros diseños se encontraba la torreta esférica Martin 250SH del PBM-3, un hidrocanoa bimotor de patrulla, de similar diseño y configuración que la torreta esférica de ERCO.

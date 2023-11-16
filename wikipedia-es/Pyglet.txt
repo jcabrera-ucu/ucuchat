@@ -1,0 +1,6 @@
+Pyglet es una biblioteca para el lenguaje de programación Python que proporciona una interfaz programable orientada a objetos para desarrollar juegos y otro tipo de aplicaciones multimedia para Microsoft Windows, Mac OS X y Linux.
+Tiene Licencia BSD.
+Pyglet no tiene dependencias externas, para la mayoría de aplicaciones requiere sólo Python, simplificando así la instalación y distribución de la aplicación.
+En lo que respecta a la parte gráfica, usa las ventanas que se requieran y tiene soporte de múltiples monitores para juegos a pantalla completa.
+Carga imágenes, sonido y vídeo en casi cualquier formato: pyglet opcionalmente puede usar AVbin para reproducir formatos como MP3, OGG/Vorbis, WMA y formatos de vídeo tales como DivX, MPEG-2, H.264, WMV y XviD.
+En Debian: al encontrarse en los repositorios oficiales bastará con escribir el siguiente comando en la terminal:

@@ -1,0 +1,11 @@
+El número de clasificación de pavimento es una norma de la Organización Internacional de Aviación Civil.
+que se utiliza junto al número de clasificación de aeronaves (ACN) para indicar la resistencia de una pista de aterrizaje, pista de rodaje o rampa de un aeropuerto.
+Esto ayuda a asegurar que la rampa de aeropuerto no sufre un desgaste excesivo, prolongando así su vida útil y sirve para establecer las restricciones necesarias según el tipo de pista.
+Siendo importante este número para la pista de aterrizaje, principalmente lo es para las cabeceras.
+Durante el aterrizaje el avión va ligero de combustible.
+Normalmente pesa un 5% menos que durante el despegue.
+En el despegue el avión es muy pesado, pero este peso pasa gradualmente del tren de aterrizaje a las alas durante la maniobra.
+Durante las maniobras de carga del avión y los desplazamientos antes de la salida es cuando el pavimento experimenta significativos esfuerzos causados por el peso del avión.
+Normalmente se usa en pistas de asfalto u hormigón y no es frecuente hacerlo en pistas de hierba o grava.
+El PCN se expresa como un código de cinco partes, separadas por barras, que describen el tipo de pavimento como por ejemplo 80/R/B/W/T (ver tablas):
+Para una pista con PCN 40/F/A/X/T, las características serían:

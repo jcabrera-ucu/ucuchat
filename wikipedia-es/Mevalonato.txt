@@ -1,0 +1,9 @@
+El ácido mevalónico o su forma ionizada, el mevalonato, es un importante metabolito intermediario en la biosíntesis de colesterol.
+La formación del mevalonato se inicia en la encrucijada del acetil-CoA.
+Se condensan dos unidades con paso previo de activación por unión de una molécula de dióxido de carbono o sea, en forma de malonil CoA; al unirse se pierde el CO2 y queda acetoacetil-CoA.
+En el siguiente paso se condensa a una tercera unidad de acetil-CoA, que unida por el CH3 terminal, dejando fuera de la estructura un grupo metilo; este compuesto se denomina β-hidroxi-β-metilglutaril-CoA (HMG-CoA).
+Como último paso de esta etapa, recibe dos hidrógenos transportados por NADPH y con la del β-hidroxi-β-metilglutaril-CoA reductasa, despojándola de la unidad de coenzima A. Este es el paso que controla la síntesis del colesterol; en caso de exceso, esta ejerce efecto alostérico sobre la enzima y bloquea la síntesis de más colesterol.
+El resultado de esta reducción es el mevalonato, molécula de cinco carbonos con un grupo metilo, dos grupos hidroxilo y un carboxilo.
+En este paso, existen dos caminos; el primero es el paso anterior, controlado por la reductasa de HMG-CoA, estando la enzima en el microsoma citosolico; esta enzima deja el mevalonato que continua la síntesis del colesterol.
+Existe una segunda reductasa del HMG-CoA, presente en las mitocondrias del hígado.
+Esta desdobla la HMG-CoA en acetil-CoA y acetoacetil-CoA, que origina los cuerpos cetónicos.

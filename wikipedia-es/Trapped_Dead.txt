@@ -1,0 +1,6 @@
+Trapped Dead es un videojuego de acción y estrategia en tiempo real donde los jugadores controlan a sus personajes en una vista isométrica, tercera persona a través de un escenario de supervivencia zombi inspirado en las películas de terror con éxito de los años 80.
+En juego fue desarrollado por la empresa Headup Games en Alemania, donde obtuvo el galardón como mejor juego de acción del 2010.
+Controlaremos hasta a 4 personajes por escenario, las armas las iremos encontrando a medida que avanzamos en la historia al igual que las municiones y los botiquines.
+Así mismo el uso de trampas durante el juego cada jugador posee una habilidad única, entre otras, velocidad, control de armas de fuego, control de armas cuerpo a cuerpo, resistencia a daños entre otros.
+La principal misión se asemeja la serie americana de horror "The Walking Dead" donde debemos rescatar a los supervivientes con el propósito de escapar de esa ciudad infestada de muertos vivientes.
+Encontraremos varios tipos de zombis:

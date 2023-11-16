@@ -1,0 +1,27 @@
+La escala Fujita mejorada, o simplemente escala EF (Enhanced Fujita, ‘Fujita mejorada’), es una escala usada en Estados Unidos para catalogar la fuerza estimada de los tornados según el daño que provocan.
+Se elaboró para sustituir a la escala Fujita-Pearson de 1971, y empezó a usarse desde el 1 de febrero de 2007.
+La escala tiene el mismo diseño que la escala original de Fujita, con seis niveles que van del 0 al 5 representando el incremento en porcentaje de la virulencia de los daños dentro de la misma categoría sin cambiar de dicha categoría.
+El National Weather Service (Servicio nacional para el tiempo) hizo pública esta escala en una conferencia de la American Meteorological Society (Sociedad Estadounidense de Meteorología) en Atlanta el 2 de febrero de 2006.
+Fue desarrollada entre los años 2000 y 2004 por el Fujita Scale Enhancement Project del Wind Science and Engineering Research Center (Centro de Investigación de la Ciencia y la Ingeniería del Viento) en la Universidad de Texas Tech.
+El National Weather Service luego agregó una categoría EFU (EF-Unknown, 'EF-desconocido') por tornados sin daño que se pueda valorar.
+La escala se utilizó por primera vez un año después de hacerse pública, cuando en algunas zonas del centro de Florida fueron golpeadas por varios tornados, el más fuerte registró con la nueva escala una categoría EF3.
+El primer tornado EF5 evaluado fue uno sucedido en Greensburg (Kansas), el 4 de mayo de 2007.
+A continuación se enumeran las siete categorías de la escala EF, en orden ascendente de intensidad.
+Aunque la velocidad del viento y los daños aparentes se actualizaron, las descripciones son las mismas que la anterior escala Fujita, que más o menos tienen la misma exactitud.
+Aunque la para evaluar la escala real en la actualidad se tiene que observar los indicadores de daños (en cada tipo de estructura dañada) y consultar la escala de daños relativa a ese indicador particular.
+La actual escala toma en cuenta la calidad de la construcción y cataloga los diferentes tipos de estructuras en lugar de basarse solo en la velocidad del viento.
+Las velocidades el viento de la escala original fueron consideradas por meteorólogos e ingenieros demasiado altas ya que algunos estudios indicaban que vientos con menos velocidad de la estimada en una escala podían causar tales daños.
+La nueva escala cataloga un tornado EF5 como aquel con una velocidad igual o superior a 200 mph (324 km/h), con fuerza suficiente para producir los daños anteriormente adjudicados al nivel F5 de la escala de velocidades del viento.
+Ningún tornado registrado antes del 31 de enero de 2007 se recatalogaría.
+Esencialmente no hay diferencias funcionales en el modo de catalogar los tornados.
+Los niveles antiguos y nuevos están relacionados por una fórmula lineal.
+Las únicas diferencias son algunos reajustes en las velocidades de los vientos, algunas medidas que no se consideraban en los niveles anteriores, y una descripción de los daños más precisa, con niveles estandarizados que hacen más fácil catalogar tornados que golpean a menos estructuras.
+En la actual escala hay 28 indicadores de daños, distintos tipos de estructuras de construcciones o vegetales, y varios grados del daño en cada estructura para estimar las escalas.
+Cuando se compara la escala Fujita para tornados con la escala de huracanes de Saffir-Simpson, un tornado EF0 sería más o menos equivalente según la velocidad de sus vientos a una tormenta tropical de grado superior (66-73 mph) o un huracán de categoría 1 (74–85 mph).
+Un tornado EF1 equivaldría a un huracán de categoría 1 de grado superior (86-95 mph) hasta a uno de categoría 2 (96–110 mph).
+Un tornado EF2 sería equivalente a los huracanes de la categoría 3 (111-130 mph) hasta a uno de categoría 4 de nivel bajo (132-135 mph).
+Un tornado EF3 sería más o menos como un huracán de categoría 4 de grado superior (136-155 mph) o uno de categoría 5 de nivel bajo (156-165 mph).
+Los tornados de fuerza EF4 serían equivalentes a los huracanes de categoría 5 de grado máximo (más de 166 mph).
+No existe una categoría 6 en la escala para huracanes Saffir-Simpson comparable a un tornado EF5 de vientos superiores a 322 km/h (200 mph).
+El huracán más fuerte de categoría 5 registrado es el huracán Patricia de 2015, con vientos sostenidos de 345 km/h y rachas de 400 km/h, seguido del huracán Allen de 1980, con vientos sostenidos de 305 km/h (190 mph).
+En comparación el tornado más fuerte que se ha registrado fue el F5 que asoló Oklahoma en 1999, con vientos de 512 km/h (318 mph), que eclipsó fácilmente el anterior récord del tornado F5 de 1993, también en Oklahoma, que registró vientos de 413 y 431 km/h (257 y 268 mph, respectivamente).

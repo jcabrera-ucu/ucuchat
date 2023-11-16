@@ -1,0 +1,38 @@
+En física, el efecto magneto-óptico de Kerr (MOKE) o el efecto magneto-óptico de superficie de Kerr (SMOKE) es uno de los efectos magneto-ópticos.
+Describe los cambios en la luz reflejada desde una superficie magnetizada.
+Se utiliza en la investigación de la ciencia de los materiales en dispositivos como el microscopio Kerr, para investigar la estructura de magnetización de los materiales.
+El efecto magneto-óptico de Kerr relaciona la luz que se refleja desde una superficie magnetizada y puede cambiar tanto la polarización como la intensidad reflejada.
+El efecto magneto-óptico de Kerr es similar al efecto Faraday, que describe cambios en la transmisión de luz a través de un material magnético.
+En contraste, el efecto magnetoóptico de Kerr describe cambios en la luz reflejada desde una superficie magnética.
+Ambos efectos resultan de los componentes fuera de la diagonal del tensor dieléctrico \varepsilon.
+Estos componentes fuera de la diagonal dan al material magneto-óptico una permitividad anisotrópica, lo que significa que su permitividad es diferente en diferentes direcciones.
+La permitividad afecta la velocidad de la luz en un material:
+donde v_p es la velocidad de la luz a través del material, \varepsilon es la permitividad material, y \mu es la permeabilidad magnética; y así, la velocidad de la luz varía según su orientación.
+Esto provoca fluctuaciones en la fase de luz incidente polarizada.
+El MOKE se puede categorizar además por la dirección del vector de magnetización con respecto a la superficie reflectante y el plano de incidencia.
+Cuando el vector de magnetización es perpendicular a la superficie de reflexión y paralelo al plano de incidencia, el efecto se denomina efecto Kerr polar.
+Para simplificar el análisis, generalmente se emplea una incidencia casi normal cuando se realizan experimentos en la geometría polar.
+En el efecto longitudinal, el vector de magnetización es paralelo tanto a la superficie de reflexión como al plano de incidencia.
+La configuración longitudinal implica luz reflejada en un ángulo desde la superficie de reflexión y no normal a ella, como se usa para MOKE polar.
+De la misma manera, la luz linealmente polarizada que incide en la superficie se polariza elípticamente, siendo el cambio de polarización directamente proporcional al componente de magnetización que es paralelo a la superficie de reflexión y paralelo al plano de incidencia.
+Esta luz polarizada elípticamente a primer orden tiene dos perpendiculares E vectores, a saber, el coeficiente de reflexión de amplitud de Fresnel estándar r y el coeficiente de Kerr k. El coeficiente de Kerr suele ser mucho más pequeño que el coeficiente de reflexión.
+Cuando la magnetización es perpendicular al plano de incidencia y paralela a la superficie, se dice que está en configuración transversal.
+En este caso, la luz incidente tampoco es normal a la superficie de reflexión, sino que en lugar de medir la polaridad de la luz después de la reflexión, la reflectividad r es medido.
+Este cambio en la reflectividad es proporcional al componente de magnetización que es perpendicular al plano de incidencia y paralelo a la superficie, como se indicó anteriormente.
+Si el componente de magnetización apunta a la derecha del plano incidente, visto desde la fuente, entonces el vector Kerr se suma al vector de amplitud de Fresnel y la intensidad de la luz reflejada es |r+k|^2.
+Por otro lado, si el componente del componente de magnetización apunta a la izquierda del plano incidente visto desde la fuente, el vector Kerr se resta de la amplitud de Fresnel y la intensidad reflejada está dada por |r-k|^2.
+Además del efecto Kerr polar, longitudinal y transversal que depende linealmente de los componentes de magnetización respectivos, también hay efectos cuadráticos de orden superior, para los cuales el ángulo de Kerr depende de términos del producto que involucran los componentes de magnetización polar, longitudinal y transversal.
+Estos efectos se conocen como efecto Voigt o efecto Kerr cuadrático.
+El efecto magnetoóptico de Kerr cuadrático (QMOKE) se encuentra en aleaciones de Heusler como Co2FeSi y Co2MnGe
+Un microscopio Kerr se basa en el MOKE para obtener imágenes de diferencias en la magnetización en una superficie de material magnético.
+En un microscopio Kerr, la luz de iluminación pasa primero a través de un filtro polarizador, luego se refleja en la muestra y pasa a través de un filtro polarizador analizador, antes de pasar por un microscopio óptico normal.
+Debido a que las diferentes geometrías MOKE requieren diferente luz polarizada, el polarizador debe tener la opción de cambiar la polarización de la luz incidente (circular, lineal y elíptica).
+Cuando la luz polarizada se refleja en el material de muestra, puede ocurrir un cambio en cualquier combinación de lo siguiente: rotación de Kerr, elipticidad de Kerr o amplitud polarizada.
+El analizador convierte los cambios de polarización en cambios en la intensidad de la luz, que son visibles.
+A menudo se utiliza un sistema informático para crear una imagen del campo magnético en la superficie a partir de estos cambios de polarización.
+Las unidades magneto-ópticas (MO) se introdujeron en 1985.
+Los discos MO se escriben utilizando un láser y un electroimán.
+El láser calienta el disco por encima de su temperatura de Curie, momento en el que el electroimán orientaría ese bit como un 1 o un 0.
+Para leer, el láser se opera a una intensidad más baja y emite luz polarizada.
+La luz reflejada se analiza mostrando una diferencia notable entre un 0 o un 1.
+El efecto magneto-óptico de Kerr fue descubierto en 1877 por John Kerr.

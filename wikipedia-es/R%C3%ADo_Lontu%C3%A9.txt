@@ -1,0 +1,19 @@
+El Río Lontué es un curso natural de agua que nace en las estribaciones de la cordillera de los Andes y fluye a través de la Comuna de Molina, en la Región del Maule en Chile y es uno de los formativos del río Mataquito.
+Nace a unos kilómetros al norte de Molina, por la confluencia del río Colorado (Lontué) y del río Patos de San Pedro o también conocido simplemente como el río de Los Patos.
+Ambos recorridos fluviales tienen su nacimiento junto al volcán Descabezado Chico y volcán Descabezado Chico (3750 y 3830 ).
+Recibe pequeños tributarios, entre ellos los estero Potrero Grande y estero Upeo.
+De la unión con el río Teno, que corre más al norte, se forma el Río Mataquito, unos 10 kilómetros al oeste de Curicó, cerca de la localidad de Sagrada Familia.
+El río Lontué, drena la parte sur de la cuenca del Mataquito.
+Las curvas de variación estacional del río muestran una clara influencia nival con crecidas en diciembre producto de los deshielos.
+Sin embargo existe también una influencia pluvial en los meses de invierno.
+El caudal del río (en un lugar fijo) varía en el tiempo, por lo que existen varias formas de representarlo.
+Una de ellas son las curvas de variación estacional que, tras largos periodos de mediciones, predicen estadísticamente el caudal mínimo que lleva el río con una probabilidad dada, llamada probabilidad de excedencia.
+La curva de color rojo ocre (con ) muestra los caudales mensuales con probabilidad de excedencia de un 50%.
+Esto quiere decir que ese mes se han medido igual cantidad de caudales mayores que caudales menores a esa cantidad.
+Eso es la mediana (estadística), que se denota Qe, de la serie de caudales de ese mes.
+La media (estadística) es el promedio matemático de los caudales de ese mes y se denota.
+Una vez calculados para cada mes, ambos valores son calculados para todo el año y pueden ser leídos en la columna vertical al lado derecho del diagrama.
+El significado de la probabilidad de excedencia del 5% es que, estadísticamente, el caudal es mayor solo una vez cada 20 años, el de 10% una vez cada 10 años, el de 20% una vez cada 5 años, el de 85% quince veces cada 16 años y la de 95% diecisiete veces cada 18 años.
+Dicho de otra forma, el 5% es el caudal de años extremadamente lluviosos, el 95% es el caudal de años extremadamente secos.
+De la estación de las crecidas puede deducirse si el caudal depende de las lluvias (mayo-julio) o del derretimiento de las nieves (septiembre-enero).
+Francisco Solano Asta-Buruaga y Cienfuegos escribió en 1899 en su Diccionario Geográfico de la República de Chile sobre el río:

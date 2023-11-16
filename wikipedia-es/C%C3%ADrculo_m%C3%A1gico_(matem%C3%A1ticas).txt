@@ -1,0 +1,19 @@
+Los círculos mágicos fueron inventados por el matemático chino Yang Hui de la Dinastía Song (960-1279) en el siglo XIII.
+Consisten en una serie de números naturales colocados en círculos, según el caso en disposiciones concéntricas o cuadradas, donde la suma de los números de cada diámetro y de cada círculo (o cada lado y diagonal en formaciones cuadradas),  incluido el centro si lo hay, es idéntica.
+Los círculos mágicos de Yang Hui fueron publicados en su estudio Xugu Zhaiqi Suanfa《續古摘奇算法》(continuación de su “Extracto de maravillas matemáticas”) de 1275.
+En él se incluyen diversas series de círculos mágicos concéntricos y no-concéntricos con disposiciones en cuadrado.
+thumb|right|250px|Círculo mágico de [[Yang Hui. Está construido con los números naturales del 1 al 33, colocados en cuatro círculos concéntricos y con el número 9 en el centro.]]
+En este caso el círculo mágico está compuesto de cuatro anillos concéntricos de 8 números cada uno y el centro lo ocupa el valor 9, haciendo un total de 33 números.
+Este círculo mágico tiene las siguientes propiedades:
+thumb|right|300px|8 círculos mágicos en disposición cuadrada 八阵图
+En este caso se disponen 64 números en 8 círculos de 8 números cada uno, agrupados en forma de cuadrado y dejando el centro libre.
+En consecuencia, cada lado del cuadrado está conformado por 3 círculos.
+La suma mágica de cada círculo es 260, por lo que la suma total es 260 x 8 = 2080.
+Empezando por la esquina superior izquierda y avanzando en el sentido de las agujas del reloj las sumas de los círculos mágicos son:
+Además, la suma de los 8 números que se sitúan en cada uno de los dos ejes principales del cuadrado (izquierda-derecha, arriba-abajo) también cumple la suma mágica:
+La suma de los 16 números que se sitúan en las dos diagonales del cuadrado es 2 veces 260:
+thumb|right|300px|9 círculos mágicos en disposición cuadrada 连环图
+En este caso se disponen 9 círculos de 8 números cada uno formando un cuadrado.
+Al ocuparse el centro con un círculo se crean 4 círculos mágicos adicionales alrededor del centro también de 8 números.
+De esta forma el cuadrado en realidad contiene 13 círculos mágicos.
+Las propiedades de esta disposición son las siguientes:

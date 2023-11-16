@@ -1,0 +1,13 @@
+La velocidad de la luz en un medio material depende de la estructura molecular de éste, en particular de las propiedades electromagnéticas del mismo, la permeabilidad eléctrica y la permeabilidad magnética.
+Estas propiedades pueden presentar valores diferentes para diferentes longitudes de onda o frecuencias de la luz incidente, por lo que usualmente la velocidad de la luz en un medio va a depender de la longitud de onda (esa es la causa por la cual la luz blanca al atravesar un medio sufre dispersión cromática).
+Macroscópicamente la luz puede ser tratada como una onda tal como sugiere la electrodinámica aunque en ciertos casos presenta un comportamiento corpuscular o de partícula.
+Este comportamiento corpuscular fue establecido por Einstein en su interpretación del Efecto fotoeléctrico, ese trabajo estableció que la luz puede considerarse formada por partículas cuánticas llamadas fotones.
+La velocidad de los fotones en el vacío es de 299.792.458 m/s, pero, esta velocidad se reduce dependiendo del material por el que se propaga.
+La velocidad de la luz depende del medio, y alcanza su valor máximo en el vacío por lo que, en un medio material, será forzosamente inferior.
+La velocidad de la luz se representa:
+La radiación de Čerenkov es generada por el paso de partículas que atraviesan un medio material a una velocidad superior a la que la luz puede alcanzar en dicho medio material (véanse velocidades y materiales en recuadro).
+La teoría de la relatividad sostiene que en el vacío absolutamente nada podría superar la velocidad de la luz \,c\,\,.
+Sin embargo, en un experimento de reciente fecha estaría por confirmarse que sería posible para la velocidad agrupada, que la luz pueda exceder \,c\,\,.
+Un experimento hizo que la velocidad agrupada de rayos láser viajara distancias extremadamente cortas a través de átomos de cesio a.
+Sin embargo, no es posible usar esta técnica para transferir información más rápido que \,c: la velocidad de la transferencia de información depende de la velocidad frontal (la velocidad en la cual el primer incremento de un pulso sobre cero la mueve adelante) y el producto de la velocidad agrupada y la velocidad frontal es igual al cuadrado de la velocidad normal de la luz en el material.
+undefined

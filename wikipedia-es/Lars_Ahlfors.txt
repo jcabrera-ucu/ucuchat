@@ -1,0 +1,26 @@
+Lars Valerian Ahlfors, (Helsinki, 18 de abril de 1907 – Pittsfield, Massachusetts; 11 de octubre de 1996), fue un matemático finlandés.
+Ahlfors recibió muchos honores por sus contribuciones a las matemáticas.
+Fue el primer ganador de la medalla Fields (junto a Jesse Douglas del MIT), además del premio Wolf en Matemáticas en 1981.
+Ahlfors nació en Helsinki.
+Su madre, Sievä Helander, murió en el parto.
+Su padre, Axel Ahlfors, era profesor de ingeniería en la Universidad Politécnica de Helsinki.
+Al ser de familia suecoparlante, asistió a una escuela privada donde todas las clases se impartían en sueco.
+Ahlfors ingresó en la Universidad de Helsinki en 1924 y se graduó en 1928 habiendo recibido clases de Ernst Lindelöf y Rolf Nevanlinna.
+Asistió a Nevanlinna en 1929 con su trabajo en la conjetura de Denjoy sobre el número de valores asintóticos de una función entera.
+En 1929, Ahlfors publicó la primera demostración de esta conjetura, actualmente conocida como teorema de Denjoy–Carleman–Ahlfors, que establece que el número de valores asintóticos al que se aproxima una función entera de orden ρ a lo largo de curvas en el plano complejo que tienden a infinito es menor o igual a 2ρ.
+Completó su doctorado en la Universidad de Helsinki en 1930.
+Ahlfors trabajó como profesor asociado en la Universidad de Helsinki entre 1933 y 1936.
+En 1936 fue uno de los dos primeros galardonados con la medalla Fields.
+En 1935, Ahlfors visitó la Universidad de Harvard.
+Regresó a Finlandia en 1938 para ocupar una cátedra en la Universidad de Helsinki.
+El estallido de la guerra supuso complicaciones a pesar de que Ahlfors no era apto para el servicio militar.
+Se le ofreció un puesto en el prestigiosoInstituto Politécnico Federal Suizo en Zúrich en 1944.
+Eran tiempos de guerra, y solo consiguió salir de Finlandia gracias a la ayuda de Arne Beurling (Codescubridor de la transformada de Ahlfors Beurling, la única integral singular con núcleo holomorfo) tomando posesión de su plaza   en marzo de 1945.
+No disfrutó de su estancia en Suiza, por lo que en 1946 aprovechó una oportunidad para marcharse a trabajar a Harvard, donde permaneció hasta su jubilación en 1977.
+Ocupó la Cátedra William Caspar Graustein de Matemáticas a partir de 1964, y fue profesor visitante del Institute for Advanced Study en 1962 y de nuevo en 1966.
+Fue galardonado con el premio Wihuri en 1968 y el premio Wolf en Matemáticas en 1981.
+Su libro Complex analysis [Análisis complejo] (1953) es el texto clásico de la materia y es con casi total seguridad referenciado en cualquier obra más reciente que haya un uso extensivo del análisis complejo.
+También escribió otras obras de relevancia, como Riemann surfaces [Superficies de Riemann] (1960) y Conformal invariants [Invariantes conformes] (1973).
+Contribuyó decisivamente al estudio de las curvas meromorfas, la teoría de distribución de valor, las superficies de Riemann, la geometría conforme y las aplicaciones cuasiconformes, entre otras áreas.
+En 1933, contrajo matrimonio con Erna Lehnert, una austriaca que se estableció junto con sus padres primero en Suecia y posteriormente en Finlandia.
+La pareja tuvo tres hijas.

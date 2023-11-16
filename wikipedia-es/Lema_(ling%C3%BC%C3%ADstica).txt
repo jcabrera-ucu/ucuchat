@@ -1,0 +1,47 @@
+En lingüística, el lema (o ítem lexical) es una unidad autónoma constituyente del léxico de un idioma.
+Es una serie de caracteres que forman una unidad semántica y que puede constituir una entrada de diccionario.
+En el vocabulario corriente, lema es frecuentemente usado como sinónimo de palabra, noción a la que sin duda le falta claridad.
+Un enunciado es una sucesión de lemas, y un lema es una sucesión de morfemas.
+Cada lema posee un significante y un significado únicos, en el sentido que sus denotaciones —sentido propio— y sus connotaciones —sentido figurado— agregadas a sus modos de empleo, no quedan representados en ningún caso por otro lema.
+Por ejemplo en francés, los lemas sinónimos travailler y trimer no son idénticos, aún haciendo abstracción de la diferencia de significante.
+En efecto, y a pesar de que ambos están asociados a la misma denotación, «hacer un esfuerzo con el objetivo de obtener un resultado», el primero pertenece al uso corriente, mientras que el otro usualmente se aplica al trato familiar.
+El primero posee una connotación neutra o positiva, mientras que el segundo es francamente peyorativo, pues se asocia a un esfuerzo penoso o desagradable.
+Por cierto, deberá entenderse que cada uno de estos dos lemas tienen un campo semántico único y propio: el léxico en ningún caso es redundante.
+En las lenguas indoeuropeas (como el francés y el inglés), los lemas están constituidos de fonemas agrupados en morfemas.
+Un lema como por ejemplo anticonstitutionnellement (en francés), se analiza así: [ɑ̃tikɔ̃stitysjɔnɛl(ə)mɑ̃]
+En otros tipos de lenguas como las lenguas analíticas, el lema se reduce a un lexema o a una colección de lemas (palabra compuesta), sin posible descomposición en varios morfemas, frecuentemente debido a que son términos cortos.
+Así por ejemplo en mandarín, el lema que equivale a «corazón» es 心 xīn (lema simple o único), y el de «amigo» es 朋友 péngyou (lema compuesto).
+En este tipo de lenguas, la sintaxis es frecuentemente más rígida que en las lenguas en las que los lemas están frecuentemente formados por varios morfemas, pues nada (o casi nada) permite distinguir las clases lexicales.
+Así por ejemplo el verbo que significa «comer» se dice 吃飯 chīfàn cuando es empleado sin complemento directo (literalmente: «como comida»), pero se dice en forma más breve 吃 chī cuando el complemento está indicado:
+Un lema puede ser:
+En chino mandarín por ejemplo, la noción de lema se implementa de una manera diferente, según ya se ha viso antes en este mismo artículo.
+Una explicación mucho más detallada podrá encontrarse en los wikiartículos Escritura china y Sinograma, y en los documentos que se referencian.
+Cada lema que no sea una palabra simple posee una clase lexical y un significado independiente de sus componentes (en esos casos diremos que es un lema complejo).
+La autonomía señalada radica, para que el lema pueda existir, en el hecho de que no hay necesidad de que el mismo se encuentre asociado a un morfema o a otro lema.
+Por ejemplo y en francés, garou en loup-garou no es un lema, puesto que garou no puede decirse solo.
+Del mismo modo, el morfema -ons en marchons tampoco es un lexema independiente pues en un mensaje (en una frase) no debe expresarse en solitario.
+Es difícil determinar el inventario exacto de formas relevantes de un lema.
+Un ejemplo bien conocido es el de los participios del francés:
+Pero también sería admisible de excluir el auxilio o colocación gramatical del campo del análisis en lemas.
+Según la decisión retenida, una operación automática de reducción de un texto en lemas (para por ejemplo así construir un index o concordancia), hará o no hará aparecer las ocurrencias de être o de en en los ejemplos.
+Cuando el lema va más allá que la palabra simple, está dotado de un significante independiente de sus constituyentes.
+Por ejemplo, el lema chou-fleur debe ser comprendido independientemente de chou y de fleur.
+Obviamente el significado no es ni chou en fleur ni une fleur de chou sino una legumbre bien precisa.
+De la misma manera, rouge gorge tampoco se relaciona con alguien que tiene la gorge rouge (garganta roja), sino con un tipo particular de gorrión.
+Grippe-sou (cobrador/administrador) es un nombre, a pesar de estar compuesto por el verbo gripper (aprovechar) y por el nombre sou (antigua moneda francesa cuya etimología se remonta al solidus romano).
+Asimismo, je-m'en-foutiste es una expresión completa formada por los pronombres (je, me, en) junto a una forma adjetival derivada del verbo (s'en) foutre.
+Puede observarse claramente que un lema es completamente independiente del modo de funcionamiento de sus diversos constituyentes: qu'en-dira-t-on es una expresión lexicalizada (con valor de lema) que funciona como un nombre pero no como un sintagma, o sea que el verbo dire (decir) allí no puede conjugase: no se puede decir por ejemplo « le qu'en-disais-tu ».
+Un diccionario    clásico contiene los lemas de una lengua, aunque puede no presentar exhaustivamente las distintas formas de esos lemas.
+Cuando la lengua es flexiva (fusionante) o aglutinante, la entrada en el diccionario se encabeza a través de una forma o expresión dicha canónica:
+Las reglas de clasificación de lemas en el diccionario de una lengua, para que puedan ser convenientemente establecidas, necesitan tener bien en cuenta la gramática de la lengua correspondiente, y especialmente cuando la lengua es de tipo flexivo, y muy especialmente, cuando el comienzo de las palabras puede ser modificado por la flexión (la clasificación alfabética de las entradas en el diccionario, se hace analizando desde el comienzo del término y hacia el fin del mismo).
+Los métodos de enseñanza de lenguas extranjeras así como los análisis gramaticales que puedan resultar de utilidad, deben poner cuidado en las explicaciones, en cada situación y dada la específica lengua en cuestión de que se trate, y muy especialmente en casos que la correspondiente búsqueda en diccionario pueda ser compleja y alejada de lo que el estudiante o el usuario puede estar acostumbrado.
+Asimismo y en los diccionarios modernos, las formas difíciles de ciertos lemas reenvían o redirigen hacia el lema canónico, lo que por cierto facilita mucho las cosas.
+Y en algunas situaciones, puede que además se opte por incluir sistemáticamente todas las formas o casi todas (cf. Wiktionnaire, Wikcionario).
+He aquí algunos ejemplos:
+Cuando una palabra simple, o una palabra compuesta, etc., entra en el léxico de una lengua, se habla de lexicalización.
+Se dice por ejemplo que je-ne-sais-quoi está lexicalizado, por oposición a je ne comprends rien.
+Je-ne-sais-quoi, en efecto, está dotado de una clase lexical única (obviamente es un nombre o tiene valor de tal, y al que incluso podemos hacer preceder de un artículo), y evoca un significado muy preciso.
+Y el significante no puede ser cambiado, o sea que debe se usado sin variarlo en lo más mínimo.
+Las nociones de lema y de lexema corrientemente están definidas de manera diversa, explícita o implícitamente, según opinan muchos de los lingüistas y muchas de sus escuelas de pensamiento.
+Para algunos, lo que en este escrito llamamos lema en realidad es un lexema, y entonces el término lema en esos contextos generalmente no es empleado.
+En la presente enciclopedia digital libre, o al menos en el presente artículo, y a pesar de que esta elección puede ser contestable, utilizamos los conceptos de lexema y de lema según se indica a continuación:

@@ -1,0 +1,156 @@
+Icon es un lenguaje de programación de muy alto nivel, especialmente recomendado para trabajar con cadenas de texto, ya que permite una programación rápida y concisa.
+Puede ser usado para análisis y formateo de textos, inteligencia artificial o programación de prototipos.
+Las últimas versiones, además, incluyen gráficos y facilidades GUI.
+Fue diseñado en los años 1970 por Ralph E. Griswold, y otros colaboradores en el "Department of Computer Science" de la Universidad de Arizona.
+Griswold, que lideraba el proyecto, ya tenía experiencia anterior en el diseño de lenguajes de alto nivel, ya que fue uno de los creadores de Snobol, del que tomaron algunas características.
+Se deriva de la clase ALGOL de los lenguajes de programación estructurada, por lo que tiene una sintaxis similar a la de C, pero sobre todo, a la de Pascal, ya que utiliza el símbolo ‘:=’ para las asignaciones.
+Por otra parte, se asemeja a C en la utilización de los corchetes para estructurar el programa y en la ejecución de un procedimiento principal llamado "main".
+Otras características comunes a otros lenguajes de programación de scripting es que no es necesario declarar las variables, los tipos son emitidos automáticamente y los números pueden ser convertidos a cadena de caracteres y volver automáticamente.
+Otro aspecto a destacar es la ausencia de un carácter de fin de línea.
+Las líneas no terminan en punto y coma como en el caso de C, por ejemplo, sino que terminan en una coma implícita siempre que la línea tenga sentido.
+Los procedimientos son los bloques de construcción básicos en los programas.
+Aunque los nombres y palabras utilizadas en ICON se asemejen más a Pascal, el funcionamiento es más similar al que se le da en C, y puede devolver valores.
+''procedure doSomething(aString)
+write(aString)
+end''
+Hay expresiones condicionales que pueden tener éxito y producir un resultado, o fallar y no producir ningún resultado.
+Un ejemplo es la operación de comparación, i > j que tendrá éxito siempre que el valor de i sea mayor que el de j. Algo parecido ocurre con i > j > k que tendrá éxito cuando el valor de j se encuentre entre el de i y el de k.
+El éxito o el fracaso de las operaciones condicionales se utiliza en lugar de valores booleanos para conducir las estructuras de control en ICON.
+Por ejemplo:
+''if i > j then k:=i
+else k:=j''
+Se asignaría el valor de i a k en el caso de que el valor de i sea mayor que el de j, y se le asignaría el valor de j en el caso contrario.
+La utilidad de estos conceptos de éxito o fracaso es ilustrada mediante la orden “find(s1,s2)”, que falla en el caso de que s1 no sea una subcadena de s2.
+Por ejemplo:
+''if i:=find("or",line) then
+write(i)''
+Esto devolvería i, que es la posición de la cadena “line” en la que se encuentra la subcadena “or”.
+En el caso de que no se encuentre la subcadena, el programa no devolvería ningún resultado.
+Muchas expresiones son condicionales.
+Un ejemplo es “read”, que devuelve la siguiente línea de un archivo de entrada, y termina cuando se alcanza el final del archivo.
+while line:=read do      write(line)
+Esta expresión copia el archivo de entrada en el archivo de salida.
+Si un argumento de una función falla, la función no se llama, la llamada falla.
+En algunas situaciones, una expresión puede ser capaz de producir más de un resultado diferente.
+Por ejemplo:
+''sentence:="Store it in the neighboring harbor"
+find("or",sentence)''
+Aquí, la subcadena “or” se repite 3 veces a lo largo de la cadena, en la posición 3, 23 y 33.
+Muchos lenguajes superan este problema eligiendo solo una de las opciones, generalmente se quedan con el primer resultado obtenido, en este caso el 3.
+Sin embargo, en ICON, podemos generar los 3 resultados distintos.
+Los resultados que produce un generador dependerá del contexto.
+En una situación en la que únicamente uno de los resultados en necesario, se produce así:
+i:= find(“or”,sentence)
+Lo que asignaría a la variable i el valor 3.
+Si el resultado de un generador no da lugar al éxito de la expresión que encierra, entonces la condición falla, pero el generador se reanuda para producir otro valor.
+Un ejemplo:
+''if(i:=find("or",sentence))>5 then
+write(i)''
+En este ejemplo, el primer resultado obtenido sería 3, pero como no cumple la condición de que sea menor que 5, la expresión falla, pero se volverá a ejecutar hasta encontrar el siguiente resultado, 23, que sí cumple la condición impuesta (23 > 5), y lo mismo ocurre con el 33.
+En estos casos, la operación de comparación tiene éxito.
+La anterior expresión se puede expresar también de la siguiente manera:
+write(5 < find("or", sentence))
+Es posible utilizar las expresiones en situaciones difíciles y rebuscadas, como por ejemplo:
+find("or", sentence1) = find("and", sentence2)
+Tendrá éxito cuando la subcadena “or”, de la cadena sentence1, se encuentre en la misma posición que la subcadena “and” en la cadena sentence2.
+Un generador se puede reanudar repetidas veces para producir todos sus resultados mediante el uso de las tareas de control de cada estructura:
+''every i:=find("or",sentence)
+do write(i)''
+Este bucle escribirá todas las posiciones en las que se encuentre la subcadena “or” dentro de la oración “sentence”.
+Otra expresión que realiza la misma tarea que la anterior es la siguiente:
+every write(find(“or”,sentence))
+Existen varios generadores prediseñados en ICON.
+Uno de los más conocidos es:
+i to j
+Un ejemplo de su uso:
+every k:=i to j do       f(k)
+O esta otra opción más compacta:
+every f(i to j)
+Estas expresiones ejecutaran f(k) para cada valor de “k” que se encuentre entre ‘i’ y ‘j’.
+Hay otras estructuras de control relacionadas con la generación.
+Una de ellas es la alternancia:
+expr1 | expr2
+Que generará los resultados de expr1 seguidos de los de expr2.
+Por ejemplo:
+every write(find("or",sentence1)|      find("or",sentence2))
+Escribirá la posición de “or” en sentence1, seguido de la posición de la misma subcadena “or” en sentence2.
+Otra forma de escribir esta instrucción:
+every write(find(“or”,sentence1 | sentence2))
+Otro uso de la alternancia es el que pone de manifiesto la siguiente orden:
+(i | j | k) = (0 | 1)
+Que tendrá éxito cuando o bien i, o bien j, o bien k, tengan el valor 0 o 1.
+Los procedimientos podrán ser usados para añadir generadores al repertorio de los incluidos en ICON.
+Por ejemplo:
+''procedure findodd(s1,s2)
+every i:=find(s1,s2) do          if i%2=1 then suspende i    end''
+Este procedimiento genera el valor de las posiciones de s1 que también ocurren en s2.
+La estructura de control “suspend” devuelve un valor desde el procedimiento, pero lo deja en suspensión para que pueda ser reanudado por otro valor.
+Cuando el bucle termina, el control de las corrientes de fuera del final del procedimiento sin producir otro valor.
+Para operaciones complicadas sobre las posiciones en las cadenas, y en las que es muy fácil cometer un error, ICON facilita la tarea gestionando automáticamente las posiciones de cada cadena.
+Por ejemplo:
+''s ?
+expr''
+Donde s es la cadena que hay que examinar y “expr” es una expresión que se encarga de llevar a cabo la exploración.
+La exploración empieza en la posición 1.
+La función “move(i)” se mueve por la cadena hasta la posición ‘i’ y produce en la salida la subcadena contenida entre las posiciones anteriores y dicha posición.
+Si esta subcadena no pudiera ser producida porque la cadena original no es lo suficientemente larga, la función falla.
+Por ejemplo:
+''line ?
+while write (move(2))''
+Que escribe subcadenas de dos caracteres consecutivos de la línea, y parará cuando acabe la línea.
+Otra función de combinación es la “tab(i)”, que se establece en la posición ‘i’ y devuelve la subcadena contenida entre las anteriores y las nuevas posiciones.
+Por ejemplo:
+''line ?
+if tab(10) then
+write(tab(0))''
+Lo que escribiría todos los caracteres desde la posición 10 hasta el final, siempre y cuando la función no falle, por lo que la cadena debe ser lo suficientemente larga.
+Las funciones de análisis, como “find” pueden ser usadas en la exploración de una cadena.
+Por ejemplo:
+''line ?
+while write(tab(find("or")))
+do move(2)''
+Que escribirá todas las subcadenas que encuentre en la línea antes de la posición en la que se encuentra la subcadena “or”.
+“find” encuentra una posición, que es utilizada por “tab” para producir las subcadenas.
+Otro ejemplo de utilización de las funciones de análisis en exploración de cadenas es:
+''line ?
+while tab(upto(&letters)) do       write(tab(many(&letters)))''
+Esto escribiría todas las palabras en línea.
+Si bien las cadenas son secuencias de caracteres, las listas en ICON son secuencias de valores de tipo arbitrario.
+Son creadas asignando a una variable una lista de valores entre corchetes, así:
+car1:=[“buick”, “skylark”, 1978, 2450]
+La lista “car1” tiene cuatro valores, dos de los cuales son cadenas y otros dos son enteros.
+Los valores de una lista no tienen porque ser todos del mismo tipo.
+De hecho, en una lista se pueden introducir cualquier tipo de valores, incluso una lista dentro de otra:
+inventario:=[car1, car2, car3, car4]
+También pueden ser creadas mediante:
+l:=list(i,x)
+Que creará una lista de ‘i’ valores, cada uno con el valor de ‘x’.
+Se pueden añadir valores en una lista directamente a una posición.
+Por ejemplo:
+car1[4]:=2400
+Esta instrucción cambiaría el último valor de la lista “car1” a 2400.
+Si la posición indicada no pertenece a la lista, falla:
+write(car1[5])
+Los valores en una lista L son generados por !L.
+Así:
+every write(!L)
+Escribe todos los valores en L.
+Las listas pueden ser manipuladas como pilas o colas.
+La función “push(L,x)” añade el valor de ‘x’ al extremo izquierdo de la lista L, automáticamente, aumentando el tamaño de L en 1.
+Del mismo modo, “pop(L)” elimina el valor del extremo izquierdo de la lista, disminuyendo automáticamente en 1 el tamaño total, además de devolver el valor eliminado.
+Un conjunto es una colección de valores.
+Para crear un conjunto vacío se utiliza “set”.
+Alternativamente, “set(L)” produce un conjunto de los valores en la lista L. Por ejemplo:
+S:=set([1, “abc”, []])
+Se asigna al conjunto que contiene el entero 1, la cadena “abc” y una lista vacía.
+La función “member(S,x)” tiene éxito si ‘x’ es un miembro de la serie S pero falla en otro caso.
+La función “insert(S,x)” añade ‘x’ a la serie S, mientras que la función “delete(S,x)” hace justamente la operación contraria.
+Los valores de un conjunto no se pueden repetir.
+Si se intenta insertar un valor ‘x’ en un conjunto que ya contiene dicho valor, fallará.
+La instrucción !S generará los miembros del conjunto S.
+Un ejemplo simple de la utilización de los conjuntos, en el que se enumeran todas las palabras que aparecen en el fichero de entrada:
+''words:=set
+while line:=read do       line ?
+while tab(upto(&letters)) do                  insert(words,tab(many(&letters)))
+every write(!words)''
+ICON soporta gráficos de alto nivel, aportando una serie de facilidades:

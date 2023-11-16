@@ -1,0 +1,55 @@
+El NOAEL es un índice de toxicidad que se determina en el proceso de "evaluación toxicológica", y a partir de él se deriva el resto de parámetros de toxicidad.
+Para sustancias que carecen de propiedades carcinogénicas y, por lo tanto, tienen un umbral, la evaluación de la relación dosis-respuesta consiste en describir las respuestas observadas, con objeto de establecer, a través de estudios experimentales, un nivel o concentración de una sustancia en el cual no se observan efectos de ningún tipo.
+Los NOAEL que se identifican de esta manera conllevan cierta incertidumbre; por ello, las instituciones que establecen normas y las de salud pública, protegen a las poblaciones de exposición a sustancias que muestran efectos de umbral, dividiendo a los NOAEL obtenidos experimentalmente entre lo que se conoce como "factores de seguridad".
+La máxima concentración o nivel de una sustancia, hallada experimentalmente o por observación, que no causa alteraciones adversas detectables en la morfología, capacidad funcional, crecimiento, desarrollo o duración de la vida de los organismos diana, distinguibles de los observados en organismos normales (control) de la misma especie y cepa, bajo condiciones definidas de exposición.
+Se expresa en mg/kg/día.
+Hasta hace poco se hablaba de dosis sin efecto pero la experiencia ha enseñado que es preciso ser prudentes y sólo admitir que hay dosis o niveles sin efecto observable (NOEL), ya que muchas veces las consecuencias de una o repetidas exposiciones no se manifiestan exteriormente o sólo lo hacen después de cierto tiempo.
+La mayor concentración o cantidad de una sustancia, hallada experimentalmente o por observación, que no causa alteraciones en la morfología, capacidad funcional, crecimiento, desarrollo o duración de la vida de los organismos diana, distinguibles de los observados en organismos normales (control) de la misma especie y cepa, bajo condiciones idénticas a las de exposición.
+Se calcula de forma experimental en ensayos realizados con animales, se miden las respuestas tras ensayar varias dosis y se ajustan los datos obtenidos a una curva dosis-respuesta.
+El NOAEL es la dosis más alta que no produce efecto tóxico en la especie animal más sensible.
+Para establecer un NOAEL se necesitan múltiples dosis, una población amplia e información complementaria para garantizar que la ausencia de respuesta no es un mero fenómeno estadístico.
+Es importante recordar que los umbrales NOAEL son valores que se determinan por medio de experimentos toxicológicos en animales y que, por lo tanto, dependen del diseño del estudio y de la selección del número y la concentración de las dosis administradas.
+De aquí se deriva la importancia de que la evidencia toxicológica se base en experimentos adecuados y científicamente rigurosos.
+Las dosis umbral NOAEL se obtiene de los estudios científicos disponibles que han sido clasificados como adecuados por un panel de expertos.
+Si existen varios estudios que presentan NOAEL diferentes para un mismo efecto causado por una misma sustancia tóxica, se selecciona normalmente el valor de NOAEL más bajo.
+Cuando no se puede establecer un NOAEL, entonces se utiliza el LOAEL (nivel mínimo con efecto adverso observable) más bajo.
+Los estudios dosis-respuesta para compuestos tóxicos que no son cancerígenos buscan establecer puntos finales de toxicidad, como son el daño al hígado, a los riñones y a los sistemas respiratorio, cardiovascular, nervioso, reproductivo o inmune.
+Para estos compuestos, la evidencia empírica indica que ocurren efectos biológicos sólo después de que se alcanza cierto grado de exposición.
+Así, la meta de la evaluación del riesgo para este tipo de compuestos es determinar cuál es el grado seguro de exposición para una población (caracterización del riesgo).
+Este umbral o grado de seguridad debe incluir a los individuos más sensibles de la población para asegurar que toda la población esté adecuadamente protegida aun cuando los niveles de exposición alcancen el umbral.
+Con frecuencia, este grado de seguridad que resulta de los estudios dosis-respuesta se ajusta con factores de seguridad para tomar en cuenta la incertidumbre en la evidencia toxicológica o epidemiológica.
+Las medidas cuantitativas de la toxicidad de una sustancia que se utilizan en la evaluación de riesgos a través de la ruta de exposición de ingestión son la dosis de referencia oral (RfDo), para las sustancias tóxicas no cancerígenas, y el factor de pendiente oral (SFo), para las sustancias cancerígenas.
+En el ámbito de las sustancias no carcinógenas se introdujeron factores de seguridad para compensar las incertidumbres que presentaban los datos toxicológicos (NOAEL) y su aplicabilidad a poblaciones humanas grandes y heterogéneas.
+Un factor de seguridad es un número convencional, arbitrario, por el que se divide el NOAEL o LOAEL obtenidos en experimentos con animales para establecer una dosis permisible provisional en los seres humanos.
+Dicho factor de seguridad, se determina a partir del producto de factores de incertidumbre (FI) y factor modificador (FM).
+Por tanto:
+Factores de Seguridad = FI x FM
+El factor de incertidumbre (FI) se determina de la siguiente manera:
+FI =F1 x  F2 x F3 x F4
+El factor modificador (FM), cuyo valor normal es de 1.
+Pero comprende valores entre 0 a 10 para reflejar una evaluación cualitativa profesional de las incertidumbres adicionales en el estudio crítico y en la base de datos que no se hayan mencionado entre los FI de precedentes.
+Se calculan diferentes dosis de referencia (DdR), dependiendo de la vía y periodo de exposición y efecto agudo.
+El NOAEL comenzó a utilizarse en Europa mientras que en EE.
+UU.
+utilizaban modelos matemáticos para determinar niveles seguros de exposición.
+Hasta que en 1996, la EPA de EE.
+UU.
+sugirió que para los no carcinógenos ya no era necesario confiar exclusivamente en los modelos matemáticos y que la extrapolación del NOAEL aplicando los factores de seguridad era considerado aceptable.
+En un ensayo realizado sobre ratas Wistar se determinó un NOAEL de arsénico de 0,0285 mg/kg/día.
+Se establecieron un factor de seguridad de 10 para la protección de la población sensible y un factor de 10 para la extrapolación de animal a humano.
+En este estudio de 90 días sobre el efecto de un tóxico en ratas, se han encontrado los resultados que se indican en la tabla, y se asume que el diseño y ejecución del estudio experimental han sido correctos.
+De los datos mostrados en la tabla se deduce que el NOAEL para este estudio es de 5 mg/kg/día, ya que esta es la mayor dosis usada en el ensayo en la que no aparecen efectos estadísticamente diferentes respecto de los controles.
+El LOAEL para este estudio sería 25 mg/kg/día, al ser la menor dosis que produce un efecto adverso con diferencias estadísticamente significativas respecto a los controles.
+En este ejemplo podemos ver cómo esta metodología puede dar lugar a errores en la estimación del NOAEL debido al espaciamiento de las dosis.
+En efecto, con los resultados expuestos el NOAEL es e 5 mg/kg/día y la siguiente dosis empleada en el estudio es de 25 mg/kg/día.
+Como no disponemos de los datos para dosis intermedias (10, 15 y 20 mg/kg/día) es posible que el verdadero NOAEL fuese mayor de 5 mg/kg/día.
+El mismo error, podría argumentarse respecto al LOAEL.
+! GRUPO
+! Dosis (mg/kg/día) durante el período de estudio
+! Resultados
+Otra situación que se puede plantear se muestra con los datos de la tabla.
+En esta todas las dosis empleadas en el estudio originan efectos adversos que presentan diferencias estadísticamente significativas respecto al grupo control.
+En consecuencia en este supuesto no se puede establecer un NOAEL, y el LOAEL sería 1 mg/kg/día (la dosis más baja que produce efectos adversos observables).
+! GRUPO
+! Dosis (mg/kg/día) durante el período de estudio
+! Resultados

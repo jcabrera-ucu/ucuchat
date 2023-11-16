@@ -1,0 +1,35 @@
+La estiba de una carga es la colocación, distribución, protección y fijación adecuada en el interior del vehículo de una mercancía que ha sido entregada al porteador convenientemente embalada, si procede, para que vaya segura hasta su destino.
+En el ámbito marítimo, la estiba se considera únicamente como la acción de colocar la carga a bordo de un buque.
+Su objetivo es conseguir que sea transportada con un máximo de seguridad para el buque y su tripulación, ocupando el mínimo espacio posible, evitando averías en la misma y reduciendo al mínimo las demoras en el puerto de descarga.
+De aquí que se puedan identificar como elementos básicos de la estiba la seguridad y la economía.
+La disciplina que aborda las técnicas, normativa, útiles y otros elementos de la estiba se denomina «seguridad en las cargas».
+La estiba de cargas viene regulada por diversas normativas en función del modo de transporte correspondiente.
+Así tenemos por ejemplo:
+En el año 1972 apareció el Código de Seguridad en el Reino Unido, siendo la primera vez que se emitía una publicación oficial que incluía directrices e información sobre la estiba de cargas en carretera.
+Pocos años después, Alemania emitía las primeras normas VDI 2700 sobre la misma materia.
+A ella le siguieron otros países como Suecia, Australia, Nueva Zelanda o Estados Unidos entre otros.
+A nivel europeo comenzaron a aparecer diversas normas técnicas, que favorecieron el desarrollo de este campo, como por ejemplo la norma EN 12195-1:2003 Cálculos de las fuerzas de sujeción.
+Igualmente surgieron diversas guías públicas que trataron de facilitar la divulgación de estos conocimientos, así como facilitar la comprensión de los mismos.
+Así, en 2006 y posteriormente en 2014, la UE publicó la Guía europea de mejores prácticas sobre sujeción de cargas para el transporte de carreteras y la IRU el Código de buenas prácticas para la estiba segura de la carga en el transporte por carretera.
+Debido a su casuística, la estiba en estos campos no ha tenido, al contrario que en el modo de transporte por carretera un desarrollo tan profundo.
+En el transporte ferroviario hay una serie de normativas e indicaciones generales de la Unión Internacional de Ferrocarriles, pero hay que remitirse a las diversas instrucciones o normativas internas de cada estado, e incluso de cada gestor de infraestructuras u operador para poder conocer la normativa pública o privada aplicable.
+En el transporte aéreo, sucede algo similar.
+Si bien la FIATA establece un marco general es la regulación nacional o incluso privada de cada aerolínea la que determina la estiba a realizar en cada caso.
+Al hablar de la seguridad, tenemos que contemplar tres diferente aspectos:
+El planeamiento de una correcta estiba de la carga debe asegurar la correcta manipulación de la misma, al mismo tiempo que asegura la integridad física de las personas que van a intervenir en este proceso, ya sean estibadores, portuarios o dotación del buque.
+Por ello a la hora de efectuar esta planificación, debemos tener en cuenta los siguientes elementos:
+La seguridad del buque esta íntimamente ligada a la distribución de la carga y tendremos que atender a los siguientes criterios:
+Al cargar el buque, lo primero que tenemos que tener en cuenta es la estabilidad y seguridad, que básicamente se centra en tener una altura metacéntrica no solo positiva, sino adecuada al tipo de buque.
+Una excesiva altura metacéntrica (muchos pesos bajos y pocos altos) producirá que el buque dé balances muy rápidos y violentos, que pueden dañar la estiba y provocar accidentes a la dotación.
+Mientras que una altura metacéntrica pequeña hará que el barco de balances muy lentos y que le cueste recuperar la verticalidad, esta situación se da sobre todo en buques de pasaje, para evitar mareos y golpes, se dice que es un barco dormilón, mientras que una altura metacéntrica igual a cero (estabilidad indiferente) hará que si sometemos al buque a una fuerza de sentido transversal y adquiere una escora, este no se recuperará y quedará con dicha inclinación.
+Hasta ahora sólo hemos hablado de la estabilidad transversal, debido a que el estudio de la estabilidad longitudinal no es tan importante, pues los barcos son "más largos que anchos" y es estable longitudinalmente por construcción, pero si ponemos demasiados pesos en proa, el buque al dar un cabeceo podría colarse por ojo (meter la proa en la mar y hundirse), pero esta es una situación muy extrema y para evitarla no es necesario realizar cálculos específicos.
+El buque debe cargarse de forma que salga del puerto sin escora.
+Antes de comenzar la carga es conveniente tener llenos los tanques de lastre, porque no siempre comienzan a cargar pesos bajos y a medida que cargan se prodrá ir deslastrando.
+Dichos tanques permiten adrizar el buque al finalizar la carga, siempre claro está, que la carga realizada no llegue ya a la máxima carga posible.
+En las cargas de mercancías secas a granel, operan al revés, llevar los tanques deslastrados, porque la carga irá directamente al plan de la bodega.
+Hay que planear la carga del buque de forma que el buque quede con unos calados apropiados, no sólo para que el buque tenga una óptima maniobrabilidad (generalmente los buques navegan mejor ligeramente apopados), sino teniendo en cuenta otros factores como son:
+La cuestión de la integridad de las mercancías debe ser estudiada desde diferentes puntos de vista, pues en ella entran en juego múltiples factores, factores que actúan de diversa forma según el tipo de mercancías que se consideren.
+Los factores que ejercen influencia en la integridad de las mercancías se pueden clasificar en las siguientes categorías:
+Por lo tanto, a la hora de considerar la integridad de las mercancías, se deben tener en cuenta los siguientes conceptos: embalaje, utillaje y naturaleza de las mercancías.
+La economía en la estiba se consigue teniendo en cuenta los siguientes factores:
+La estiba en sí es un proceso amplio que consta de tres fases:

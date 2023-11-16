@@ -1,0 +1,11 @@
+El Northrop AGM-137 TSSAM (Tri-Service Standoff Attack Missile) fue un misil de crucero de lanzamiento a distancia, desarrollado por Northrop para las fuerzas armadas de los Estados Unidos.
+La Fuerza Aérea de los Estados Unidos comenzó el desarrollo del Misil de Ataque de Lanzamiento a Distancia Conjunto (Tri-Service Standoff Attack Missile (TSSAM)) en 1986; la intención era producir una familia de misiles furtivos para la Fuera Aérea, la Armada y el Ejército estadounidenses, que sería capaz de tener un gran alcance, guiado autónomo, reconocimiento automático del objetivo, y suficiente precisión y potencia de la cabeza de guerra como para destruir estructuras bien protegidas, tanto en tierra como en el mar.
+Todas las versiones del misil usarían navegación inercial guiada por el Sistema de Posicionamiento Global (GPS).
+La versión de la Armada y una de la Fuerza Aérea debían usar un sensor terminal de imágenes infrarrojas para reconocer el objetivo y para el guiado final, y sería equipado con una única cabeza de guerra.
+Una segunda versión del misil del Ejército sería lanzada con dos cohetes aceleradores y llevaría las submuniciones Bombeta de Efectos Combinados (Combined Effects Bomblet (CEB)) contra objetivos terrestres.
+Se planeó llevar el misil en los B-52H, F-16C/D, B-1, B-2, A-6E, y F/A-18C/D; la versión del Ejército iba a ser lanzada desde el vehículo MLRS (Multiple Launch Rocket System, Sistema de Cohetes de Lanzamiento Múltiple).
+El proyecto sufrió de problemas de financiación, algunos relacionados con la distribución del presupuesto entre los tres servicios.
+Resultó en recortes de fondos y retrasos.
+El misil también sufrió problemas de desarrollo técnico, elevando el coste unitario de la cifra original de 1986, de 728000 dólares por misil a los 2,062 millones de dólares en 1994.
+Como resultado, el proyecto fue cancelado.
+El desarrollo tecnológico desarrollado para el TSSAM fue utilizado en el programa JASSM.

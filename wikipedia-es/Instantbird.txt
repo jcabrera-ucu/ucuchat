@@ -1,0 +1,5 @@
+Instantbird es un cliente de mensajería instantánea basado en XULRunner de Mozilla y la biblioteca libpurple creado por los desarrolladores de Pidgin.
+Instantbird es software libre bajo la GNU GPL.
+Sus características son limitadas comparadas con Pidgin, pero se prevé que lo alcance en las futuras versiones.
+Actualmente se encuentra en la versión 1.5.
+=== Protocolos soportados ===

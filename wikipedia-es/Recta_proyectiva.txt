@@ -1,0 +1,69 @@
+En matemáticas, una recta proyectiva es la extensión de una recta habitual, a la que se añade un punto adicional denominado punto del infinito.
+La declaración y la prueba de muchos teoremas de geometría se simplifican por la eliminación resultante de casos especiales; por ejemplo, dos líneas proyectivas distintas en un plano proyectivo siempre se encuentran exactamente en un punto, eliminándose la circunstancia del "paralelismo" como un caso singular.
+Hay muchas formas equivalentes de definir formalmente una recta proyectiva; uno de los más comunes es definir una línea proyectiva sobre un campo K, comúnmente denominado P1(K), como el conjunto de subespacios unidimensionales de un espacio vectorial K bidimensional.
+Esta definición es una instancia especial de la definición general de un espacio proyectivo.
+Un punto arbitrario en la línea proyectiva P1(K) puede representarse mediante una clase de equivalencia de coordenadas homogéneas, que toman la forma de un par
+de elementos de K que no son ambos cero.
+Dos de estos pares son equivalentes si difieren en un factor global λ distinto de cero:
+La recta proyectiva puede identificarse con la línea K extendida por un punto en el infinito.
+Más precisamente, la recta K puede identificarse con el subconjunto de P1( K ) dado por
+Este subconjunto cubre todos los puntos en P1(K) excepto uno, que se llama punto del infinito :
+Esto permite extender la aritmética en K a P1 (K) mediante las fórmulas
+Traduciendo esta aritmética en términos de coordenadas homogéneas, para el caso [0 : 0] no ocurre que:
+El grupo lineal Gl(2,K) actúa biyetivamente en y esta acción pasa al cociente.
+Como las homotecias dan la identidad al pasar al cociente, se obtiene una acción del cociente del grupo
+, de be notatse que PGl(2,K), obteniéndose el grupo de las homografías.
+Sea una aplicación lineal invertible.
+La correspondiente homografía f está dada, con las convenciones del párrafo anterior, por
+Para se tiene que f(x)=\infty.
+La imagen del punto en el infinito es \frac{a}{c}.
+Si c=0, f es una transformación afín: las transformaciones afines aparecen como homografías que mantienen el punto del infinito.
+Dos tripletas de puntos distintos dos a dos y, existe una y solo una homografía que
+f(x_i)=y_i: esta es una consecuencia directa del hecho de que el grupo de transformaciones afines es simplemente transitivo en los pares de puntos distintos.
+Sean a,b,c,d cuatro puntos distintos.
+Existe una homografía y solo una que aplica (a,b,c) sobre.
+La imagen del cuarto punto d es por definición la razón doble de estos cuatro puntos, denotada como [a,b,c,d].
+Si todos estos puntos son diferentes de \infty, entonces
+La razón doble es igual a.
+La recta proyectiva sobre los números reales se llama recta proyectiva real.
+También puede considerarse como la recta K junto con un punto del infinito ∞ idealizado.
+El punto se conecta a ambos extremos de K, creando un ciclo cerrado o círculo topológico.
+Se obtiene un ejemplo proyectando los puntos de R2 sobre el círculo unitario y luego identificando puntos diametralmente opuestos.
+En términos de teoría de grupos, se puede tomar el cociente por el subgrupo {1, −1}.
+Compárese con la recta numérica real extendida, en la que se distinguen \infty y -\infty.
+Agregar un punto en el infinito al plano complejo da como resultado un espacio que es topológicamente una esfera.
+Por lo tanto, la recta proyectiva compleja también se conoce como la esfera de Riemann (o también como la esfera de Gauss).
+Se utiliza constantemente en análisis complejo, geometría algebraica y teoría de variedades complejas, como el ejemplo más simple de una superficie compacta de Riemann.
+La recta proyectiva sobre un campo finito Fq de q elementos tiene q + 1 puntos.
+En todos los demás aspectos, no es diferente de las rctas proyectivas definidas sobre otros tipos de campos.
+En términos de coordenadas homogéneas [x : y], q de estos puntos tienen la forma:
+[a : 1]
+para cada a en Fq,
+y el punto del infinito restante puede representarse como [1 : 0].
+En general, el grupo de homografías con coeficientes en K actúa sobre la recta proyectiva P1(K).
+Esta acción de grupo es transitiva, de modo que P1(K) es un espacio homogéneo para el grupo, a menudo denotado como PGL2(K) para enfatizar la naturaleza proyectiva de estas transformaciones.
+La transitividad implica que existe una homografía que transformará cualquier punto Q en cualquier otro punto R. El punto del infinito en P1(K) es, por lo tanto, un convenio de elección de coordenadas: las coordenadas homogéneas
+expresan un subespacio unidimensional mediante un único punto distinto de cero (X, Y) que se encuentra en él, pero las simetrías de la línea proyectiva permiten deplazar el punto \infty = [1 : 0] a cualquier otro, y en este sentido, de ninguna manera se distingue de los demás puntos.
+Mucho más es cierto, en el sentido de que alguna transformación puede llevar cualquier punto distinto Qi para i = 1, 2, 3 a cualquier otro trío Ri de puntos distintos (triple transitividad).
+Este grado de especificación 'implica' las tres dimensiones de PGL2( K ); en otras palabras, la acción grupal es estrictamente 3-transitiva.
+El aspecto computacional de este hecho es la razón anarmónica.
+De hecho, una conversión generalizada es cierta: una acción de grupo estrictamente 3-transitiva es siempre (isomorfa a) una forma generalizada de una acción PGL2(K) sobre una línea proyectiva, reemplazando "campo" por "campo KT" (generalizando el inverso a un tipo de involución más débil), y "PGL" por una generalización correspondiente de aplicaciones lineales proyectivas.
+La recta proyectiva es un ejemplo fundamental de una curva algebraica.
+Desde el punto de vista de la geometría algebraica, P1(K) es una curva no singular de género 0.
+Si K está cerrado algebraicamente, es la única curva sobre K, hasta incluso la equivalencia racional.
+En general, una curva (no singular) del género 0 es racionalmente equivalente sobre K a una cónica C, que es biracionalmente equivalente a la recta proyectiva si y solo si C tiene un punto definido sobre K; geométricamente, tal punto P puede usarse como origen para hacer explícita la equivalencia biracional.
+El campo de funciones de la recta proyectiva es el campo K(T) de funciones racionales sobre K, con una sola T indeterminada.
+Los automorfismos de campo de K(T) sobre K forman precisamente el grupo PGL2(K) discutido anteriormente.
+Cualquier campo de función K(V) de una variedad algebraica V sobre K, que no sea un solo punto, tiene un subcampo isomorfo con K(T).
+Desde el punto de vista de la geometría birracional, esto significa que habrá una aplicación racional de V a P1(K), que no es constante.
+La imagen omitirá solo finitamente muchos puntos de P1(K), y la imagen inversa de un punto típico P será de dimensió dim V − 1.
+Este es el origen de los métodos en geometría algebraica que son inductivos sobre la dimensión.
+Los mapas racionales juegan un papel análogo a las funciones meromórficas del análisis complejo, y de hecho, en el caso de las superficies compactas de Riemann, los dos conceptos coinciden.
+Si ahora se considera que V es de dimensión 1, se obtiene una imagen de una curva algebraica típica C presentada 'sobre' P1(K).
+Suponiendo que C no es singular (que no es una pérdida de generalidad comenzando con K(C)), se puede demostrar que dicha aplicación racional de C a P1(K) se definirá en todas partes (ese no es el caso si hay singularidades, ya que, por ejemplo, un punto doble donde una curva se cruza a sí misma puede dar un resultado indeterminado como resultado de una aplicación racional).
+Esto proporciona una imagen en la que la característica geométrica principal es la ramificación.
+Muchas curvas, como por ejemplo las curvas hiperelípticas, pueden presentarse de manera abstracta, como recubrimientos ramificados de la línea proyectiva.
+De acuerdo con la fórmula de Riemann-Hurwitz, el género depende solo del tipo de ramificación.
+Una curva racional es una curva que es birracionalmente equivalente a una línea proyectiva (véase variedad racional); su género es 0.
+Una curva normal racional en el espacio proyectivo Pn es una curva racional que no se encuentra en un subespacio lineal propio; se sabe que solo hay un ejemplo (hasta la equivalencia proyectiva), dado paramétricamente en coordenadas homogéneas como
+Véase cúbica alabeada como un primer caso interesante.

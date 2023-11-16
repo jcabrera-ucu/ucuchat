@@ -1,0 +1,55 @@
+información acerca de la multiplicación de números complejos
+En matemáticas, la multiplicación compleja (MC) es la teoría que trata sobre el conjunto de curvas elípticas E sobre el que se define un anillo endomórfico más grande que el correspondiente a los números enteros; y también la teoría en dimensiones más altas de variedades abelianas A que poseen suficientes endomorfismos en un cierto sentido preciso (significa aproximadamente que la acción en el espacio tangente sobre el elemento neutro de A es una suma directa de módulos unidimensionales).
+Dicho de otra manera, contiene la teoría de las funciones elípticas con simetrías adicionales, como son visibles cuando el par fundamental de períodos coincide con el retículo entero gaussiano o con el retículo entero de Eisenstein.
+Tiene un aspecto que pertenece a la teoría de las funciones especiales, debido a que tales funciones elípticas, o funciones abelianas de múltiples variables complejas, son funciones "muy especiales" que satisfacen identidades adicionales y toman valores especiales explícitamente calculables en determinados puntos.
+También ha resultado ser un tema central en la teoría de números algebraicos, permitiendo que algunas características de la teoría del cuerpo ciclotómico se trasladen a áreas de aplicación más amplias.
+Se dice que David Hilbert destacó que la teoría de la multiplicación compleja de curvas elípticas no solo era la parte más bella de las matemáticas, sino también toda la ciencia.
+Considérese un campo cuadrático imaginario.
+Se dice que una función elíptica f posee multiplicación compleja si existe una relación algebraica entre f(z) y para todos los \lambda en K.
+A la inversa, Kronecker conjeturó (en lo que se conoció como Kronecker Jugendtraum; literalmente, "sueño juvenil de Kronecker") que toda extensión abeliana de K podría obtenerse mediante la (raíces de la) ecuación de una curva elíptica adecuada con multiplicación compleja.
+A día de hoy, este sigue siendo uno de los pocos casos del duodécimo problema de Hilbert que se ha resuelto.
+Un ejemplo de una curva elíptica con multiplicación compleja es
+donde Z [i] es el anillo entero gaussiano, y θ es cualquier número complejo distinto de cero.
+Cualquier toro complejo tiene los enteros gaussianos como anillo de endomorfismo.
+Se sabe que las curvas correspondientes se pueden escribir como
+para algunos, que demostrablemente tiene dos automorfismos conjugados de orden 4 que envían
+en línea con la acción de i en las funciones elípticas de Weierstrass.
+Más en general, considérese la retícula L, un grupo aditivo en el plano complejo, generado por.
+A continuación se define la función de Weierstrass de la variable z en \mathbb{C} de la siguiente manera:
+donde
+Sea \wp' la derivada de \wp.
+Entonces se obtiene un isomorfismo:
+a través de la correspondencia uno a uno entre el grupo de toros complejos y la curva elíptica proyectiva expresada en coordenadas homogéneas
+y donde el punto en el infinito, el elemento cero de la ley de grupo de la curva elíptica, se toma por convención como (0:1:0).
+Si la retícula que define la curva elíptica se conserva realmente en la multiplicación por (posiblemente por un subanillo propio de) el anillo de enteros de K, entonces el anillo de automorfismos analíticos de  resulta ser isomorfo a este (sub)anillo.
+Si se reescribe donde  y, entonces
+Esto significa que el j-invariante de E es un número algebraico (ubicado en K) si E posee una multiplicación compleja.
+El anillo de endomorfismos de una curva elíptica puede ser de una de las tres formas siguientes: los enteros Z; un orden en un cuerpo cuadrático; o un orden en un álgebra de cuaterniones definida sobre Q.
+Cuando el campo de definición es un cuerpo finito, siempre existen endomorfismos no triviales de una curva elíptica, provenientes del endomorfismo de Frobenius, por lo que el caso de multiplicación compleja es en cierto sentido típica (y la terminología no se aplica a menudo).
+Pero cuando el campo base es un campo numérico, la multiplicación compleja es la excepción.
+Se sabe que, en un sentido general, el caso de la multiplicación compleja es el más difícil de resolver para la conjetura de Hodge.
+Kronecker primero postuló que los valores de función elíptica en los puntos de torsión deberían ser suficientes para generar todas las extensiones abelianas para campos cuadráticos imaginarios, una idea que se remonta a Eisenstein en algunos casos, e incluso a Gauss.
+Esto se conoció como el Kronecker Jugendtraum; y fue ciertamente lo que motivó el comentario de Hilbert anterior, ya que hace explícita la teoría de cuerpos de clases en la forma en la que las raíces de la unidad lo hacen para las extensiones abelianas del campo de los números racionales, a través de la ley de reciprocidad de Shimura.
+De hecho, sea K un campo cuadrático imaginario con un campo de clase H.
+Sea E una curva elíptica con multiplicación compleja por los enteros de K, definida sobre H.
+Entonces, la máxima extensión abeliana de K es generada por las coordenadas x de los puntos de orden finito en algún modelo de Weierstrass para E sobre H.
+Se han buscado muchas generalizaciones de las ideas de Kronecker.
+Sin embargo, se sitúan un tanto oblicuamente con respecto al impulso principal de la filosofía de Langlands, y no hay ninguna declaración definitiva conocida actualmente.
+No es casualidad que
+o de forma equivalente, que
+esté tan cerca de un entero.
+Este hecho notable se explica por la teoría de la multiplicación compleja, junto con algunos conocimientos de formas modulares, y por el hecho de que
+es un dominio de factorización única.
+Aquí satisface a α2 = α &minus; 41.
+En general, S [α] denota el conjunto de todas las expresiones polinomiales en α con coeficientes en S, que es el anillo más pequeño que contiene a α y a S.
+Debido a que α satisface esta ecuación cuadrática, los polinomios requeridos pueden limitarse al grado uno.
+Alternativamente,
+exhibe una estructura interna debida a ciertas series de Eisenstein y con expresiones simples similares para los otros números de Heegner.
+Los puntos del semiplano superior τ que corresponden a las relaciones de período de las curvas elípticas sobre los números complejos con multiplicación compleja son precisamente los números cuadráticos imaginarios.
+Las invariantes modulares correspondientes j(τ) son los módulos singulares, proveniente de una terminología anterior en la que "singular" se refería a la propiedad de tener endomorfismos no triviales en lugar de referirse a una curva singular.
+La forma modular j(τ) es algebraica en números cuadráticos imaginarios τ: estos son los únicos números algebraicos en el semiplano superior para los cuales j es algebraico.
+Si Λ es una retícula con una relación de periodos τ, entonces se escribe j(Λ) para j(τ).
+Si además Λ es un a ideal en el anillo de enteros OK de un campo imaginario cuadrático K, entonces se escribe j(a) para el correspondiente módulo singular.
+Los valores j(a) son entonces enteros algebraicos reales, y generan el campo de clase de Hilbert H de K: el grado de la extensión de campo [H: K] = h es el número de clase de K y H/K es una extensión de Galois con un grupo de Galois isomorfo al grupo de clases de ideales de K.
+El grupo de clase actúa sobre los valores j (a) mediante [b]: j (a) → j(ab).
+En particular, si K tiene el número de clase uno, entonces j(a) = j(O) es un número entero racional: por ejemplo, j (Z[i]) = j(i) = 1728.

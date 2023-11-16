@@ -1,0 +1,54 @@
+Microsoft Lumia (anteriormente Nokia Lumia) fue una serie de teléfonos inteligentes diseñados y comercializados por Microsoft que ejecutaban el sistema operativo Windows Phone, con el objetivo de competir con los dispositivos iOS y Android.
+Fue desarrollada originalmente por Nokia hasta que en 2014 Microsoft compró la división de dispositivos móviles de Nokia y adquirió la marca Lumia.
+La serie fue introducida en noviembre de 2011 como resultado de una asociación a largo plazo entre Nokia y Microsoft.
+En octubre de 2014, se anunció que el nombre de la serie Nokia Lumia sería en lo sucesivo Microsoft Lumia, lo que supuso la desaparición de la marca Nokia en esta gama.
+Debido a la caída continuada de ventas, a causa de menos producción de dispositivos, a finales de 2016 desaparece la marca y la serie de teléfonos Lumia.
+De 1988 a 2007, Nokia fue el mayor vendedor de teléfonos móviles en el mundo, sin embargo, en los últimos años, su cuota de mercado se redujo como consecuencia de la creciente utilización de los teléfonos inteligentes con pantalla táctil de otros proveedores, tales como los IPhone y los dispositivos que ejecutan Android.
+En 2010, su cuota de mercado había disminuido al 28 %, y en abril de 2012, Samsung Electronics (jefe en teléfonos Android) superó a Nokia como el mayor proveedor de telefonía móvil.
+El CEO de Nokia Stephen Elop transmitió la idea de que producir dispositivos con Android provocaría que la empresa no fuera capaz de diferenciarse adecuadamente de otros proveedores.
+En febrero de 2011, Stephen Elop y el CEO de Microsoft Steve Ballmer anunciaron conjuntamente una importante asociación comercial, por la cual Nokia adoptaría Windows Phone como su principal plataforma de teléfonos inteligentes futuros, reemplazando tanto Symbian como MeeGo.
+El acuerdo también incluyó la integración de Bing como motor de búsqueda en los dispositivos Nokia, y la integración de Nokia Maps en los propios servicios de mapas de Microsoft.
+La alianza con Microsoft había sido considerada como una posibilidad por los analistas, debido a que Elop había sido empleado de Microsoft.
+Nokia presentó sus primeros dispositivos con Windows Phone 7 el 26 de octubre de 2011 en la conferencia Nokia World, Nokia Lumia 710 en la gama media y el Nokia Lumia 800 en la gama alta. Motivado por las peticiones de la compañía telefónica de EE.UU AT&T para una dispositivo LTE, Nokia desarrolló rápidamente el Nokia Lumia 900, presentado por primera vez en el CES 2012.
+El Nokia Lumia 900 recibió una fuerte promoción por la compañía como un dispositivo estrella, pero su lanzamiento fue afectado por un error de software que impidió que el dispositivo se conecte a determinados redes de datos móviles, obligando a AT&T para emitir $ 100 créditos para aquellos que compraron el dispositivo.
+Tras su lanzamiento en abril de 2012, el Lumia 900 fue catalogado como un éxito de ventas en Amazon.com, pero las ventas en línea comenzó a antisabotaje desconectado en mayo.
+Si bien no se revelaron más mayores detalles, un representante de Nokia dijo que la compañía estaba "contenta con la reacción de los consumidores, así como el apoyo que hemos recibido de AT&T", mientras que AT&T afirmó que el Lumia 900 había "Superado las expectativas ".
+A principios de 2012, Nokia lanzó el Nokia Lumia 610, un nuevo dispositivo de nivel de entrada.
+Estos nuevos dispositivos de gama baja se destinaba a incrementar la adopción de Windows Phone en los mercados emergentes como China.
+Más tarde, en septiembre de 2012, Nokia presentó el Nokia Lumia 920, su primer dispositivo que utilizaba la segunda generación de la plataforma Windows Phone, Windows Phone 8.
+El Lumia 920 destacó especialmente por su carga inalámbrica, NFC, y una cámara " PureView " con estabilizador de imagen óptico.
+Los Lumia 920 fue un éxito comercial para la empresa.
+En 2013, Nokia también introdujo el Nokia Lumia 925, una versión revisada de los 920 con una delgada estructura de aluminio que incorpora, y el Lumia 1020, que cuenta con una cámara de 41 megapíxeles basada en la tecnología del Nokia 808 PureView, con Symbian OS.
+El 3 de septiembre de 2013, Microsoft anunció su intención de adquirir el negocio de telefonía móvil de Nokia (incluyendo los derechos sobre la marca "Lumia" y las marcas de gama baja "Asha" ) por unos 5.000 millones de euros.
+Stephen Elop se retiró como CEO de Nokia y volvió a unirse a Microsoft como su jefe de dispositivos como parte del acuerdo.
+Microsoft solo será capaz de utilizar la marca Nokia en la Serie 30 y dispositivos de la Serie 40 durante 10 años.
+El 19 de noviembre de 2013, los accionistas de Nokia aprobaron la venta de la división a Microsoft.
+Finalmente, la compra se completó el 25 de abril de 2014 por un precio de 5.440 millones de euros.
+Desde que Microsoft anunciara la compra de la división de telefonía móvil de Nokia, hasta el momento su "mayor socio Windows Phone", se comenzaron a barajar las distintas posibilidades para un cambio de nombre de la gama Lumia.
+Microsoft finalmente se decantó por mantener la marca Lumia y la rebautizó como Microsoft Lumia.
+La nueva denominación llegó de forma progresiva a los distintos mercados y fue desapareciendo la marca Nokia.
+El primer teléfono de la gama Lumia sin la marca Nokia fue el Lumia 535, presentado en noviembre de 2014.
+Estos funcionan exclusivamente con la séptima versión de Windows Phone, excepto el Lumia 810, que viene con Windows Phone 8 preinstalado.
+Entre los dispositivos se encuentran el Lumia 710, el Lumia 800 y el Lumia 900.
+Estos fueron los primeros en tener variantes para compañías telefónicas como AT&T o T-Mobile.
+De todos los dispositivos de la primera generación de la serie, solamente el Lumia 810 integraba Windows Phone 8, por lo que las siguientes versiones que llegarían (Phone 8.1 y Windows 10) se podrían instalar.
+Estos ya tienen incluido la octava versión de Windows Phone y todos son actualizables a 8.1.
+Estos dispositivos cuentan con tecnología NFC (excepto 520, 525 y 625), Memoria RAM de 256MB a 2GB, entrada capacitiva multitouch memoria interna de 8 GB hasta 64 GB.
+El Nokia Lumia 1020, Nokia Lumia 920, Nokia Lumia 925 y el Nokia Lumia 820, cuentan con carga inalámbrica y soporte de 4G LTE.
+A diferencia del resto de dispositivos, el Lumia 2520 es una tableta con Windows RT edición limitada, su adquisición solo es posible bajo ciertas condiciones, a la compañía AT&T.
+Corren la versión 8.1 del sistema operativo móvil de microsoft, denominado "Lumia Cyan" para dispositivos Lumia.
+Fueron anunciados inicialmente en abril del 2014 con los dispositivos Lumia 630 y Lumia 930, posteriormente el Lumia 530 fue anunciado en julio del mismo año, los Lumia 730, Lumia 735 y Lumia 830 se introducen en septiembre siendo los últimos dispositivos que portan el nombre de "Nokia" y, finalmente, el Lumia 535, presentado en noviembre y contando ya con el nombre de microsoft.
+En enero de 2015 se presentan dos nuevos dispositivos para la gama de entrada de los Lumia, el Lumia 435 y Lumia 532
+Los Lumia 435, Lumia 530, Lumia 532, Lumia 535, Lumia 630 y Lumia 730 (así como sus variantes) no cuentan con botón para cámara ya que esta generación la característica se limitó a dispositivos que contaran con tecnología PureView en su cámara.
+La cuarta generación de la serie Lumia es la penúltima y la que menos dispositivos ha tenido, ya que la generación duró poco por la salida inminente de la quinta generación con Windows 10 Mobile integrado.
+La serie x40 es la primera en la que todos los teléfonos han sido producidos por Microsoft.
+Sus dispositivos soportan totalmente Windows 10 Mobile y el dispositivo de gama alta de esta generación es el Lumia 640 XL, con 13 MP de cámara y con un procesador Qualcomm Snapdragon 400.
+La quinta generación de la gama Lumia utiliza la serie x50 en todos sus dispositivos, que integran Windows 10 Mobile de fábrica.
+Estos dispositivos fueron anunciados por Microsoft y son los últimos de la gama de Microsoft Lumia.
+Los dispositivos de gama alta, el Lumia 950 y el 950 XL son dispositivos potentes, pues son los sucesores del Lumia 930 y del Lumia 1520.
+El Lumia 650 fue el último dispositivo en lanzarse al mercado, con diseño Premium y acabado de aluminio en los lados y tienen 1 GB de RAM.
+Los dispositivos Lumia que quedaron como prototipos son los siguientes:
+El nombre Lumia se deriva de una forma de la palabra 'lumi', que significa 'nieve' en el idioma finés.
+Sorprendentemente lumia, según la definición de la Real Academia Española, el diccionario oficial de la lengua española, significa prostituta en español, que es la lengua materna de 414 millones de personas y un mercado clave.
+Parece que Nokia eligió este nombre consciente del significado en español, pero basándose en el hecho de que no es una palabra muy utilizada.
+Desde la introducción de Windows 10 Mobile las ventas han caído trimestre tras trimestre, pues cada vez hubo menos producción de dispositivos a nivel mundial, incluyendo que no hubo tanta variedad en las series x40 y x50.

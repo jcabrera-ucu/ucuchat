@@ -1,0 +1,33 @@
+Operation Payback  (en español: Operación venganza, retribución o devolución) es un conjunto de ataques coordinados a los oponentes de la piratería en Internet por los activistas de Internet.
+Cuando los oponentes de la piratería lanzaron ataque de denegación de servicio en sitios web de torrents, los defensores de la libre circulación de información decidieron devolverles ataques de denegación de servicio a los defensores del copyright.
+Operation Payback está asociada con Anonymous en colaboración con 4chan.
+En el 2010 varias compañías de Bollywood contrataron a la compañía Aiplex Software para lanzar ataques DDoS contra sitios web que no respondieron a su advertencia de cierre (procedimiento por el cual se advierte al sitio web que tiene que cerrar según la Ley de Limitación de Responsabilidad de Infracción en línea de Derecho de Autor del Derecho de los Estados Unidos).
+Activistas a favor de la libre circulación de información en la red crearon entonces Operation Payback en septiembre de 2010.
+El plan original era atacar Aiplex Software directamente, pero después de darse cuenta horas antes del ataque planeado que otra persona había denegado el servicio del sitio de la firma por su cuenta, Operation Payback dirigió su ataque contra sitios que defienden los derechos de autor como el sitio de la Asociación Cinematográfica de Estados Unidos(MPAA) y el de la Federación Internacional de la Industria Fonográfica, manteniendo los sitios desconectados un total combinado de 30 horas.
+En los siguientes días, Operation Payback atacó una multitud de sitios afiliados con MPAA, la Asociación de la Industria Discográfica de Estados Unidos y la Industria Fonográfica Británica(BPI)
+Firmas de abogados como ACS:Law, Daveport Lyons y Dunlap, Grubb & Weaver también fueron atacadas.
+También sitios no relacionados con los derechos de autor o el derecho fueron atacados como websheriff.com.
+Estos ataques fueron originalmente organizados a través de un canal IRC.
+Los ataques también fueron un tema popular en Twitter.
+Mientras que ACS:Law estaba intentando restaurar su sitio, un archivo de correos electrónicos, que estaba guardado en una copia de seguridad, fue expuesto.
+Hackers utilizaron esta vulnerabilidad recién descubierta y descargaron algunos de los correos electrónicos de la firma.
+Posteriormente subieron los correos electrónicos a varias redes y sitios p2p.
+El 4 de octubre de 2010, Operation Payback lanzó un ataque contra el sitio de Ministry of Sound y el sitio de Gallant Macmillian.
+Hasta el 7 de octubre de 2010, el tiempo total que todos los sitios atacados estuvieron fuera de servicio fue de 537,55 horas.
+El 15 de octubre de 2010, copyprotected.com fue hackeado por una vulnerabilidad de inyección SQL y tres días después Operation Payback sacó de Internet al sitio del Departamento de Propiedad Intelectual de Reino Unido a través de un ataque de denegación de servicio.
+En respuesta al estímulo de Gene Simmons hacia las compañías para que tomen medidas más agresivas hacia las infracciones de copyright miembros de Operation Payback redirigieron su atención a sus dos sitios, simmonsrecords.com y genesimmons.com, dejándolos fuera de servicio a ambos por un total de 1 día y 14 horas.
+En cierto punto durante la denegación de servicio genesimmons.com fue hackeada y redirigida hacia thepiratebay.org, haciendo que Gene Simmons amenazara directamente a Anonymous a través de su sitio diciendo que iban a terminar en la cárcel.
+Esto derivó en más ataques y por lo tanto más tiempo fuera de servicio para sus sitios.
+Operation Payback usa una versión especial del programa Low Orbit Ion Cannon (LOIC).
+En septiembre de 2010, el modo "Hive Mind" fue agregado al LOIC.
+El modo Hive Mind hace que el LOIC conecte a un canal IRC, donde puede ser controlado remotamente.
+Esto permite que las computadoras con el LOIC instalado se comporten como si fueran parte de una botnet.
+El 6 de diciembre en defensa de WikiLeaks se lanza una Operation Payback contra PostFinance (postfinance.ch) y PayPal (propiedad de eBay) por el bloqueo de las cuentas de WikiLeaks.
+Existe un [http://www.youtube.com/watch?v=kZNDV4hGUGw&feature=player_embedded#!
+Video en YouTube dirigido al gobierno de Estados Unidos] explicando que la Operation Payback es contra las leyes ACTA (Anti-Counterfeiting Trade Agreement o Acuerdo comercial antifalsificación), la censura en Internet, la neutralidad de red y los excesos del derecho de propiedad intelectual y los derechos de autor.
+Posteriormente se lanzan ataques contra Mastercard y Visa.
+El 10 de diciembre de 2010, The Daily Telegraph informó de que Anonymous había amenazado con interrumpir sitios web del gobierno británico si Assange fuera extraditado a Suecia.
+Anonymous emitió un comunicado de prensa en un intento de aclarar la cuestión.
+La siguiente es una lista de sitios y dominios sabe que han sido objetivo de Anonymous:
+El 9 de diciembre de 2010 Twitter canceló la cuenta de Anonymous y después Facebook eliminó la página de Operation Payback (Operación venganza) en lo que ya se considera por parte de miembros de Anonymous como una guerra digital para proteger la libertad en internet (libertad de expresión, neutralidad en la red).
+Actualmente Facebook vuelve a tener la página de Operation Payback.

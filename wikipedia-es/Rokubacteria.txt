@@ -1,0 +1,8 @@
+Rokubacteria o Methylomirabilota es un grupo candidato de bacterias recientemente propuesto, previamente conocido como CSP1-6.
+Estas bacterias se han identificado a través de análisis metagenómicos de muestras obtenidas en el medio ambiente.
+El crecimiento se realiza a partir de fuentes orgánicas, pudiendo obtener la energía mediante la degradación del acetato o de ácidos grasos.
+Una característica única es la codificación de múltiples oxidorreductasas nitrito, probablemente para la conversión de nitrito a nitrato, con dos operones nxrAB presentes en el genoma.
+Cada uno de los siete genomas bacterianos identificados codifica un conjunto único de genes para el ciclo de nitrógeno, por lo que el conjunto de estas bacterias podría formar una comunidad metabólica interconectada.
+Filogenéticamente forma parte de las proteobacterias estando cercano a las deltaproteobacterias.
+Son relativamente abundantes en el suelo de los pastizales.
+Fueron descritas recientemente (2017) como "gigantes genómicas" detectadas en la rizósfera, lodo volcánico, pozos petroleros, acuíferos y en el subsuelo profundo.

@@ -1,0 +1,28 @@
+En matemática, la hipótesis de Lindelöf es una conjetura formulada por el matemático finés Ernst Leonard Lindelöf (véase ) sobre la tasa de crecimiento de la función zeta de Riemann en la línea crítica y que está implicada por la hipótesis de Riemann.
+Esta postula que, para cualquier ε > 0,
+cuando t tiende a infinito (véase notación de Landau).
+Puesto que ε puede ser reemplazado por un valor menor, esta conjetura también puede postularse como:
+Para cualquier número real positivo ε,
+Si σ es real, entonces μ(σ) se define como el ínfimo de todos los números reales a tales que ζ(σ + iT) = O(Ta).
+Es trivial el observar que μ(σ) = 0 para σ > 1, y la ecuación funcional de la función zeta implica que μ(1 − σ) = μ(σ) − σ + 1/2.
+El teorema de Phragmen–Lindelöf implica también que μ es convexa.
+La hipótesis de Lindelöf asegura que μ(1/2) = 0, lo que junto con las propiedades citadas antes de μ implican que μ(σ) es 0 para σ ≥ 1/2 y 1/2 − σ para σ ≤ 1/2.
+El resultado de convexidad de Lindelöf junto con μ(1) = 0 y μ(0) = 1/2 implican que 0 ≤ μ(1/2) ≤ 1/4.
+El límite superior de 1/4 fue rebajado por Hardy y Littlewood a 1/6 mediante la aplicación del método de Weyl de estimación de sumas exponenciales para la ecuación funcional aproximada de la función zeta.
+Desde entonces, este límite ha sido rebajado significativamente a una cantidad menor que 1/6 por varios autores, usando largas y complejas demostraciones, como indica la siguiente tabla:
+mostró que la hipótesis de Lindelöf es equivalente al siguiente enunciado sobre los ceros de la función zeta:
+Para cada ε > 0, el número de ceros con parte real al menos 1/2 + ε y la parte imaginaria T y T + 1 es o(log(T)) cuando T tiende a infinito.
+La hipótesis de Riemann implica que no hay ningún cero en esa región, así pues implica a la hipótesis de Lindelöf.
+Se sabe que el número de ceros con parte imaginaria T y T + 1 es O(log(T)), así que la hipótesis de Lindelöf parece sólo un poco más fuerte que lo que ya ha sido demostrado, pero a pesar de ello, sigue resistiendo a todos los intentos de demostración, siendo éstos ya muy complicados.
+La hipótesis de Lindelöf es equivalente a la afirmación de que
+para todos los enteros positivos k y para todos los números reales positivos ε.
+Esta afirmación ha sido demostrada para k = 1 o 2, pero el caso k = 3 parece ser más complejo y todavía se encuentra como un problema abierto.
+Hay una más precisa conjetura acerca del comportamiento asintótico de esta integral: Se cree que
+para algunas constantes ck,j.
+Esto fue demostrado por John Edensor Littlewood para k = 1 y por para k = 2
+(extendiendo un resultado de el cual encontró el término principal).
+sugirió el valor para el coeficiente principal cuando k es 6, y  usaron teoría de matrices aleatorias para sugerir algunas conjeturas sobre los valores de los coeficientes  para valores de k mayores.
+Los coeficientes principales ha sido conjeturados para ser el producto de un factor elemental, un cierto producto sobre números primos, y el número de n por n en tabla de Young dado por la siguiente secuencia:
+Denotando como pn el n-ésimo número primo, un resultado dado por Albert Ingham, muestra que la hipótesis de Lindelöf implica que, para cualquier ε > 0,
+si n es lo suficientemente grande.
+Sin embargo, este resultado es mucho peor que la amplia conjetura del espacio entre primos consecutivos.

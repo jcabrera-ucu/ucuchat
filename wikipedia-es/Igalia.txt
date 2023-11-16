@@ -1,0 +1,1 @@
+Igalia es una empresa española dedicada al desarrollo de software, conocida por sus contribuciones al proyecto GNOME, su trabajo en las plataformas Maemo y MeeGo, y el proyecto WebKitGTK+.

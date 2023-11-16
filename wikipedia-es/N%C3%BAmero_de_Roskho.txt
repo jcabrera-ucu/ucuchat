@@ -1,0 +1,5 @@
+En mecánica de fluidos, el número de Roshko (Ro) es un número adimensional que describe los mecanismos de flujo oscilante.
+El número de Roshko lleva el nombre del profesor estadounidense de aeronáutica Anatol Roshko.
+Se define como:
+Roshko determinó la correlación a continuación a partir de experimentos sobre el flujo de aire alrededor de los cilindros circulares en el rango Re= 50 a Re= 2000, siendo Re el Número de Reynolds
+Ormières y Provansal investigaron los vórtices que se desprendían de una esfera y encontraron una relación entre Re y Ro en el rango 280 <Re <360.

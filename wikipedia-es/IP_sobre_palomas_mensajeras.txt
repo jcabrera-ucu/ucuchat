@@ -1,0 +1,9 @@
+IP sobre palomas mensajeras es una propuesta sarcástica de protocolo de red creada en 1 de abril de 1990 para la transmisión de datagramas del protocolo IP mediante palomas mensajeras.
+Fue definida en la recomendación RFC 1149, una Petición de Comentarios (RFC) del Grupo de Trabajo de Ingeniería de Internet (IETF) escrita por D. Waitzman.
+Es parte de los RFC del 1 de abril, cuando, como parte del April Fools' Day (Día de los inocentes), es habitual entre los expertos en redes informáticas añadir un RFC humorístico
+El 1 de abril de 1999 se publicó la recomendación RFC 2549, una extensión de la anterior denominada IP sobre palomas mensajeras con calidad de servicio.
+Además, el RFC 6214, publicado el 1 de abril de 2011, 13 años después de la adopción de IPv6, supuso una extensión del RFC 1149 para este protocolo
+El IPoAC ha sido implementado con éxito para nueve paquetes, con un ratio de pérdida del 55% por fallos del operador, y un tiempo de respuesta entre 3000 y 6000 segundos (54 minutos y 1.77 horas, respectivamente), por lo que esta tecnología sufre de una alta latencia.
+Aun así, para grandes transferencias, las palomas son capaces de un alto rendimiento, implementando una sneakernet.
+En los últimos años, la capacidad de almacenaje, y por tanto la densidad de información que una paloma puede llevar ha crecido 3 veces más rápido que el ancho de banda del Internet.
+Así, si 16 palomas tardan 1 hora en llevar sendas tarjetas SD de 512 GB, la velocidad media de transmisión será 145.6 Gbit/s, excluyendo la transmisión desde y hacia las tarjetas SD.

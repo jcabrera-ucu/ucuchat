@@ -1,0 +1,6 @@
+La óxido nítrico reductasa (NAD(P), formadora de óxido nitroso) (, es una enzima que cataliza la siguiente reacción química:
+Óxido de nitrógeno (I) + Nicotinamida adenina dinucleótido fosfato + agua 2 NO + NAD(P)H + ion hidrógeno
+Esta enzima pertenece a la familia de las oxidorreductasas más específicamente a aquellas que actúan sobre otros compuestos de nitrógeno como donantes de electrones y con o  como aceptor.
+El nombre sistemático de esta clase de enzimas es óxido nitroso:NAD(P) oxidorreductasa.
+Otros nombres de uso común pueden ser óxidoreductasa nítrica fúngica, citocromo P450nor, y NOR (aunque esta última resulta ambigua))
+Esta enzima es una proteína heme-tiolato, perteneciente al complejo citocromo P450.

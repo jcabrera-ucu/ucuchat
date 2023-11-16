@@ -1,0 +1,20 @@
+La programación por restricciones es un paradigma de la programación en informática, donde las relaciones entre las variables son expresadas en términos de restricciones (ecuaciones).
+Actualmente es usada como una tecnología de software para la descripción y resolución de problemas combinatorios particularmente difíciles, especialmente en las áreas de planificación y programación de tareas (calendarización).
+Este paradigma representa uno de los desarrollos más fascinantes en los lenguajes de programación desde 1990 y no es sorprendente que, recientemente haya sido identificada por la ACM (Asociación de Maquinaria Computacional) como una dirección estratégica en la investigación en computación.
+Se trata de un paradigma de programación basado en la especificación de un conjunto de restricciones, las cuales deben ser satisfechas por cualquier solución del problema planteado, en lugar de especificar los pasos para obtener dicha solución.
+La programación con restricciones se relaciona mucho con la programación lógica y con la investigación operativa.
+De hecho cualquier programa lógico puede ser traducido en un programa con restricciones y viceversa.
+Muchas veces los programas lógicos son traducidos a programas con restricciones debido a que la solución es más eficiente que su contraparte.
+La diferencia entre ambos radica principalmente en sus estilos y enfoques en el modelado del mundo.
+Para ciertos problemas es más natural (y por ende más simple) escribirlos como programas lógicos, mientras que en otros es más natural escribirlos como programas con restricciones.
+El enfoque de la programación con restricciones se basa principalmente en buscar un estado en el cual una gran cantidad de restricciones sean satisfechas simultáneamente.
+Un problema se define típicamente como un estado de la realidad en el cual existe un número de variables con valor desconocido.
+Un programa basado en restricciones busca dichos valores para todas las variables.
+Algunos dominios de aplicación de este paradigma son:
+Los lenguajes de programación con restricciones son típicamente ampliaciones de otro lenguaje.
+El primer lenguaje utilizado a tal efecto fue Prolog.
+Por esta razón es que este campo fue llamado inicialmente Programación Lógica con Restricciones.
+Ambos paradigmas comparten características muy similares, tales como las variables lógicas (una vez que una variable es asignada a un valor, no puede ser cambiado), o el backtracking.
+La programación con restricciones puede ser implementado como un lenguaje propio o como bibliotecas para ser usadas en algún lenguaje de programación imperativo.
+Algunos lenguajes populares de programación con restricciones son:
+Algunas bibliotecas populares:

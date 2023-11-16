@@ -1,0 +1,20 @@
+En teoría de números, la conjetura de Goldbach es uno de los problemas abiertos más antiguos en matemáticas.
+Concretamente, G.H. Hardy, en 1921, en su famoso discurso pronunciado en la Sociedad Matemática de Copenhague, comentó que probablemente la conjetura de Goldbach no es solo uno de los problemas no resueltos más difíciles de la teoría de números, sino de todas las matemáticas.
+Su enunciado es el siguiente:
+Esta conjetura había sido conocida por Descartes.
+La siguiente afirmación es equivalente a la anterior y es la que se conjeturó originalmente en una carta de Goldbach a Euler en 1742:
+Esta conjetura ha sido investigada por muchos teóricos de números y ha sido comprobada por ordenadores para todos los números pares menores que 1018.
+La mayor parte de los matemáticos creen que la conjetura es cierta, y se basan mayoritariamente en las consideraciones estadísticas sobre la distribución probabilística de los números primos en el conjunto de los números naturales: cuanto mayor sea el número entero par, se hace más «probable» que pueda ser escrito como suma de dos números primos.
+A pesar de esto, los números naturales son infinitos y por lo tanto haber demostrado la conjetura para 1018 números no es suficiente ya que esto es solo una infinitésima parte del conjunto de números.
+Sabemos que todo número par puede escribirse de forma mínima como suma de a lo más seis números primos.
+Como consecuencia de un trabajo de Vinográdov, todo número par lo bastante grande puede escribirse como suma de a lo más cuatro números primos.
+Además, Vinográdov demostró que casi todos los números pares pueden escribirse como suma de dos números primos (en el sentido de que la proporción de números pares que pueden escribirse de dicha forma tiende a 1).
+En 1966, Chen Jing-run mostró que todo número par lo bastante grande puede escribirse como suma de un primo y un número que tiene a lo más dos factores primos.
+Con el fin de generar publicidad para el libro El tío Petros y la conjetura de Goldbach de Apostolos Doxiadis, el editor británico Tony Faber ofreció en 2000 un premio de un millón de dólares a aquel angloparlante que demostrase la conjetura antes de abril de 2002.
+Nadie reclamó el premio.
+Goldbach formuló dos conjeturas relacionadas entre sí sobre la suma de números primos: la conjetura 'fuerte' de Goldbach y la conjetura 'débil' de Goldbach.
+La que se discute aquí es la fuerte, y es la que se suele mencionar como «conjetura de Goldbach» a secas.
+Se ha trabajado mucho en la conjetura débil, culminando en 2013 en una reivindicación del matemático peruano Harald Helfgott sobre su demostración completa.
+En cine:
+En literatura:
+En internet:

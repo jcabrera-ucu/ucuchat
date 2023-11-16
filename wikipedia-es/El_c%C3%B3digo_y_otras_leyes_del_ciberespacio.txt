@@ -1,0 +1,12 @@
+El código y otras leyes del ciberespacio es un libro publicado por el catedrático de derecho de la Universidad de Stanford Lawrence Lessig en 1999.
+El libro trata básicamente sobre el derecho en Internet desde el punto de vista legislativa estadounidense (el texto contiene una gran cantidad de referencias a juicios realizados en los Estados Unidos y a su constitución).
+En concreto Lessig comenta cómo el ciberespacio es un espacio en el que no es posible dictar y aplicar las leyes tal y como lo hacemos en nuestra sociedad actual.
+Incide en que las leyes del ciberespacio están en el código que se ejecuta: podemos hacer lo que el software nos permite hacer, y por eso destaca la importancia del software libre, pues es el que permite a los usuario tener respaldados sus derechos.
+en El Navegante
+En España el libro está publicado dentro de la colección Taurus Digital de la editorial Santillana, con ISBN 84-306-0428-6.
+A diferencia de la edición inglesa, que es libre, esta traducción de Ernesto Alberola publicada en 2001 no lo es.
+El libro se divide en cuatro partes que contienen un total de 17 capítulos.
+Cada uno trata un tema claramente diferenciado:
+Igualmente el libro tiene una gran cantidad de referencias que ilustran y apoyan la información proporcionada en cada sección (en la versión española las referencias ocupan un total de 90 páginas)
+El autor ha actualizado el libro a la nueva situación de Internet, y lo ha publicado bajo el título El código 2.0.
+Lessig ha escrito otros libros relacionados como El futuro de las ideas, Cultura libre o Remix.

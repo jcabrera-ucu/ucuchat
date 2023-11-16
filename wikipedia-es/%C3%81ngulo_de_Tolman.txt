@@ -1,0 +1,9 @@
+El ángulo cónico de Tolman cuantifica el efecto estérico de las fosfinas.
+Dicho ángulo se define como el ángulo del vértice de un cono cilíndrico centrado a 2.28Å del centro de un átomo de fósforo y que toca el radio de Van der Waals de los átomos más externos del substituyente.
+En caso de que el substituyente pueda tener múltiples disposiciones espaciales se coloca de manera que forme el cono de menor tamaño.
+Esta cuantificación es vital ya que el tamaño del ligando afecta a la reactividad del centro metálico.
+La tendencia de una fosfina a disociarse de un metal está directamente relacionada con su tamaño; lo que hace que sea muy importante en el ámbito de la catálisis para crear posiciones vacantes sobre el metal.
+Se encuentra un ejemplo concreto del efecto del tamaño de las fosfinas en la reacción de hidroformilación con compuestos de Rh y monofosfinas PR3, donde se observa que un aumento del ángulo cónico de Tolman conduce a una mayor selectividad en el aldehído lineal.
+Cuando el tamaño de la fosfina es demasiado grande la proporción de aldehído lineal decrece debido a efectos estéricos que impiden la formación especies con más de un ligando coordinado.
+El término fue introducido por, un químico investigador en Dupont.
+Originalmente aplicado a las fosfinas, los ángulos cónicos se determinaron originalmente tomando medidas a partir de precisos modelos físicos de ellos.

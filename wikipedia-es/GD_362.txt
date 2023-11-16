@@ -1,0 +1,12 @@
+GD 362 (WD 1729+371) es una enana blanca en la constelación de Hércules de magnitud aparente +16,23.
+Se encuentra a unos 22 pársecs (72 años luz) de distancia del sistema solar.
+GD 362 tiene una temperatura superficial de 10.540 ± 200 K.
+La relación helio/hidrógeno [He/H] es igual a 1,14, lo que implica que en su fotosfera el helio, y no el hidrógeno, es predominante.
+Por ello, aunque inicialmente fue catalogada como de tipo espectral DAZ —las líneas dominantes en su espectro, que son las que definen el tipo espectral, son las del hidrógeno—, actualmente se ha revisado su clasificación a DAZB.
+GD 362 tiene una masa de 0,73 masas solares, por lo que la estrella progenitora, cuando estaba en la secuencia principal, era tres veces más masiva que el Sol.
+El tiempo de enfriamiento como enana blanca se estima en 1000 millones de años.
+En 2004, observaciones espectroscópicas mostraron que GD 362 tiene una concentración relativamente alta de metales en su atmósfera.
+Dado que el fuerte campo gravitatorio de una enana blanca fuerza a los elementos pesados a hundirse rápidamente en la parte baja de la atmósfera, ello significa que la atmósfera está siendo contaminada por una fuente externa.
+Posteriores observaciones de fotometría infrarroja sugieren que la estrella está rodeada de un anillo de polvo comparable a los anillos de Saturno, lo que explica la contaminación.
+Un posible origen del disco de polvo y de los elementos pesados en la atmósfera puede deberse a la desintegración por fuerzas de marea de un asteroide de unos 200 km de diámetro hace entre 100.000 y un millón de años.
+Si éste es el origen, los espectros indican que la composición del asteroide sería similar a la de la corteza terrestre, y que podría haber pertenecido a un cuerpo mayor no muy diferente a los planetas terrestres del sistema solar.

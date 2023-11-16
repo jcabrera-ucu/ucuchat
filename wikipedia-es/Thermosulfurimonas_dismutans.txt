@@ -1,0 +1,8 @@
+Thermosulfurimonas dismutans es una bacteria gramnegativa del género Thermosulfurimonas.
+Descrita en el año 2012, es la especie tipo.
+Su etimología hace referencia a dismutar, dividir.
+Es anaerobia, termófila, quimiolitoautótrofa, móvil por flagelo simple.
+Las células son ovaladas o en forma de bacilos cortos, de 0,5-0,6 μm de ancho y 1,0-1,5 μm de largo.
+Temperatura de crecimiento de 50-92 °C, óptima de 74 °C.
+Utiliza azufre como fuente de energía y CO2 como fuente de carbono.
+Se ha aislado de fuentes hidrotermales marinas sulfurosas en el Océano Pacífico, utilizando el robot ROV Jason II.

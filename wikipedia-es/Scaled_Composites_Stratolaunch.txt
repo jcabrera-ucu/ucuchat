@@ -1,0 +1,43 @@
+El Scaled Composites Model 351 Stratolaunch es una aeronave construida para Stratolaunch Systems por Scaled Composites como lanzador en vuelo de cohetes espaciales.
+El inicio de su construcción se anunció en diciembre de 2011 y salió del hangar en mayo de 2017.
+El diseño con fuselajes gemelos es la aeronave de mayor envergadura hasta el momento, superando al Hughes H-4 Hercules.
+Está previsto que pueda transportar 250 toneladas de carga útil, con un peso máximo al despegue de 590 toneladas.
+A comienzos de 2011, Dynetics empezó a estudiar el proyecto en el que trabajaban unos 40 empleados en diciembre de 2011 tras el anuncio público.
+Stratolaunch originalmente planeó lanzar en vuelo el cohete Falcon 9 de SpaceX, cuya construcción había comenzado poco antes de diciembre.
+Las cargas medianas del Falcon 9 determinaron inicialmente las dimensiones de la aeronave, pero SpaceX abandonó el proyecto conjunto un año más tarde.
+En mayo de 2012 se concluyó su hangar especialmente diseñado en el Puerto Aéreo y Espacial de Mojave, California.
+En octubre de 2012 estuvo listo el primero de los dos edificios construidos especialmente, una instalación de 8200 m² para la fabricación de las secciones de composite de las alas y de los fuselajes.
+En agosto de 2013 se seleccionó el cohete Pegasus II para ser lanzado en vuelo por el Stratolaunch.
+Un año después, en agosto de 2014, Orbital Sciences Corporation decidió sustituir el combustible líquido del Pegasus II por combustible sólido.
+En agosto de 2015 se ensamblaron las 91 toneladas de la estructura del avión, y en junio de 2016 Scaled Composites contaba con unas 300 personas trabajando en el proyecto.
+Virgin Galactic también planeó lanzar en vuelo sus pequeños cohetes portasatélites con el LauncherOne, basado en un Boeing 747, mientras que Orbital ATK canceló su proyecto de cohete Thunderbolt para cargas de tipo medio.
+En octubre de 2016, el Pegasus II es reemplazado por múltiples Pegasus XL montados debajo la aeronave cargadora, desarrollados a partir del cohete Pegasus original, de los que se habían lanzado 42 desde 1990.
+En mayo de 2017, Stratolaunch ya había gastado centenares de millones de dólares en el proyecto.
+El 31 de mayo de 2017, la aeronave rodó por primera vez fuera de los hangares para las primeras pruebas y para ser preparada para los ensayos de tierra, funcionamiento del motor, izado de la carga, y finalmente para el primer vuelo y en 2019 para su primera operación de lanzamiento.
+Por entonces tenía como competidores al DARPA XS-1 o al Vector Spacial Systems.
+Por septiembre de 2017, las pruebas de los motores estaban en marcha, así como los ensayos de las "superficies de control, los sistemas eléctricos, los neumáticos y los sistemas de detección del fuego".
+En diciembre de 2017 se sometió a su primera prueba de carga a baja velocidad (46 km/h) impulsado por su seis turboventiladores para probar su dirección, frenado, y telemetría.
+Las pruebas de carga a mayores velocidades comenzaron en 2018, alcanzando 74 km/h en febrero, y 145 km/h (90 millas/h) en octubre.
+El 9 de enero de 2019, Stratolaunch completó una prueba de carga a 219 km/h (136 millas/h), haciéndose pública una fotografía del tren de aterrizaje delantero despegado del suelo durante la prueba.
+En enero de 2019, tres meses después de la muerte del fundador de Stratolaunch y cofundador de Microsoft, Paul Allen, Stratolaunch abandonó el desarrollo de sus motores cohete PGA y se centró en los lanzadores.
+Esto dejó al Northrop Grumman Pegasus XL como la única opción para el lanzador, con una capacidad orbital de 360 kg.
+Stratolaunch entonces apuntaba a un primer vuelo en unas cuantas semanas y a un primer lanzamiento en 2020.
+La aeronave voló por primera vez el 13 de abril de 2019 en el Puerto Aéreo y Espacial de Mojave, alcanzando 4600 m de altitud y 305 km/h en un vuelo de 2h:29min de duración.
+El Stratolaunch posee una configuración de fuselajes gemelos, cada uno de 73 m, apoyados sobre dos trenes de aterrizaje principales de 12 ruedas cada uno y otros dos trenes delanteros de dos ruedas cada uno, para un total de 28 ruedas.
+Esta configuración gemela es similar a la del Scaled Composites White Knight Two.
+Cada fuselaje tiene su propia cola.
+El piloto, el copiloto y el ingeniero de vuelo están acomodados en la cabina del fuselaje derecho, mientras que la cabina izquierda está vacía y sin presurizar.
+Los sistemas de datos de vuelo se hallan en el fuselaje izquierdo.
+Con 117 m, es el mayor avión construido hasta 2019 por envergadura alar, más largo que un campo de fútbol.
+La sección central elevada, contribuye a incrementar el alargamiento del avión, y está equipado con un Sistema de Acoplamiento Integrado desarrollado por Dynetics, capaz de manejar cargas de hasta 220 toneladas.
+El Stratolaunch es impulsado por seis reactores Pratt & Whitney PW4056, colgados bajo las alas, de 252,4 kN de empuje cada uno.
+Muchos de los sistemas de la aeronave han sido adaptados del Boeing 747-400, incluyendo los motores, aviónica, cubierta de vuelo, trenes de aterrizaje y otros sistemas, reduciendo costes de desarrollo.
+Requiere 3700 m de pista para despegar.
+Se pretende que libere los cohetes que lanza a 11.000 m de altitud.
+Su carga útil es de 250 toneladas.
+Con un Pegasus II, es capaz de poner satélites de hasta 6,1 t en órbita baja terrestre o de 2,0 t a una órbita de transferencia geoestacionaria a 15°.
+También puede lanzar un Dream Chaser, un pequeño avión espacial capaz de transportar astronautas o cargas en 24 horas.
+El objetivo declarado es poder lanzar hasta tres cohetes Orbital ATK "Pegasus XL" para lanzamientos de gran altitud en 2022.
+Dentro de Scaled Composites, su número de modelo es el M351.
+Ha sido apodado "Roc", en referencia al ave Roc de los relatos de Sinbad el marino, el mítico pájaro que era tan grande que podía llevarse un elefante volando.
+Datos del Stratolaunch

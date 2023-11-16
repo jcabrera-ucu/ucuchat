@@ -1,0 +1,11 @@
+Los diazótrofos son bacterias que hacen fijación de nitrógeno atmosférico en una forma más disponible como es el amonio (Postgate, 1998).
+Un diazótrofo es un organismo que es capaz de crecer sin fuentes externas de nitrógeno fijado.
+Ejemplos de organismos que hacen esto son los Bradyrhizobia, Frankia (en simbiosis) y Azospirillum (en vida libre).
+Todos los diazótrofos contienen sistemas hierro-molibdeno nitrogenasas.
+Dos de los más estudiados sistemas son sobre Klebsiella pneumoniae y Azotobacter vinlandii.
+Esos sistemas se han usado debido a su simpicidad genética (trazabilidad) y su rápido crecimiento y multiplicación (Dixon and Kahn 2004).
+Los diazótrofos se entremezclan entre grupos taxonómicos bacteriales (mayormente en la Eubacteria pero también hay un par en Archaea).
+Inclusive dentro de una especie que puede fijar nitrógeno puede haber razas que no lo fijan (Postgate, 1998).
+La fijación se interrumpe cuando otras fuentes de nitrógeno están disponibles, y, en muchas especies, cuando el oxígeno está a una presión parcial alta. Las bacterias tienen diferentes caminos de soportar los efectos debilitantes del oxígeno sobre las nitrogenasas, listadas más abajo.
+En términos de generar nitrógeno disponible a otros organismos, las asociaciones simbióticas grandemente exceden a las spp.
+de vida libre con la excepción de cianobacterias (Postgate, 1998).

@@ -1,0 +1,9 @@
+El Commodore Chessmate es una computadora especializada para jugar ajedrez, comercializada por Commodore International en junio de 1978.
+Esta computadora de ajedrez se basó en la computadora KIM-1, que también fue distribuida por Commodore.
+El programa «Microchess 1.5» de Peter R. Jennings se integró como un programa de ajedrez en la ROM del dispositivo.
+Se utilizaron cuatro dígitos LED de 7 segmentos para mostrar los movimientos individuales en el dispositivo, y los movimientos del jugador se ingresaban utilizando un teclado de membrana.
+Además de un sistema informático mínimo, contiene una biblioteca de ajedrez con 32 aperturas, de 16 movimientos cada una.
+La computadora de ajedrez funcionaba a través de una fuente de alimentación y se enciendía y apagaaba a través de un interruptor.
+El movimiento se ingresaba utilizando las teclas a  y  a  o  y, con la confirmación de , y la salida del movimiento y la hora se mostraban en 4 LED de 7 segmentos, así como en las luces «Negro», «Blanco», «Verificar» y «CHESSmate».
+También están las teclas adicionales (para un nuevo juego) y  (corrección de entrada).
+Además, las teclas de entrada también tenían funciones adicionales para las opciones de la partida: «Board verify» (prueba de la computadora de ajedrez), «Chess Clock» (reloj desde el encendido), «Display Time» (mostrar reloj de ajedrez), «Stop Time» (detener reloj de ajedrez), «Skill Level» (Nivel de dificultad), «Game Move» (movimientos de la partida), así como «Black» (Negras) y «White» (Blancas).

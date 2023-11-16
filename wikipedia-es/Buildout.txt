@@ -1,0 +1,16 @@
+Buildout es una herramienta open source de construcción de software, utilizada principalmente en la comunidad de Python y Zope.
+Buildout está escrita en Python.
+Tanto Plone como Zope usan buildout como su herramienta de construcción.
+Buildout está basado en el principio de configurar mediante ficheros de texto qué dependencias tiene una pieza de código para poder ser construida y ejecutada.
+Buildout descarga de los repositorios de Python (PyPI u otros repositorios configurados) las dependencias y las incluye en el "path" del intérprete de Python dinámicamente, de manera que el proyecto puede desplegarse de manera autocontenida.
+Por ejemplo, un proyecto puede definir como dependencia el módulo MySQLdb para interactuar con una base de datos MySQL.
+Al ser construido en el servidor de producción, MySQLdb es descargado en formato Python egg bajo el directorio principal del proyecto.
+Cuando se ejecuta el proyecto a través de alguno de los ejecutables definidos (por ejemplo, "~/my_project/bin/start"), MySQLdb es añadido al path de Python.
+Esto significa que desde el código del proyecto se puede invocar MySQLdb, pero no se ha modificado el intérprete de Python del sistema, que sigue sin saber de la existencia de MySQLdb.
+Así, no hace falta requerir que el sistema venga ya con la dependencia preinstalada, ni que el operador la instale manualmente.
+Aparte de la instalación directa de dependencias, también se pueden definir tareas arbitrarias de construcción (mover ficheros, crear directorios, instalar programas...) llamadas "recetas".
+Las recetas pueden ponerse también en un repositorio, de manera que estén disponibles para varios proyectos, o para el público en general.
+Típicamente, debe existir un fichero buildout.cfg en el directorio raíz del proyecto,
+con el siguiente contenido:
+Existen proyectos que usan buildout para auto-construirse como Grok, Plone, Zope 2 y Zope 3, Django.
+Como adicional hay otros ejemplos de configuraciones de proyectos no Python como es el caso de instalar Wordpress usando buildout.

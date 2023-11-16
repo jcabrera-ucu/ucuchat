@@ -1,0 +1,96 @@
+El proyecto Una portátil por niño/a u OLPC (del inglés "One Laptop Per Child") fue un proyecto centrado en la distribución de una computadora portátil fabricada con el propósito de proporcionar, a cualquier niño/a del mundo, información, la posibilidad de construir conocimientos y armas para obtener acceso a las tecnologías de la información como una forma moderna de educación.
+El proyecto iniciado por Nicholas Negroponte contaba con el apoyo y colaboración de Google, AMD, Red Hat, News Corp, Brightstar Corp y otras empresas.
+La computadora portátil se basaba en una plataforma GNU/Linux, y era eficiente en utilización de la energía, de manera que con un sistema mecánico incorporado de tipo manivela se pudiera generar suficiente energía para su operación.
+Un dispositivo de conectividad inalámbrica permitía que los aparatos se conectasen entre sí y a Internet desde cualquier sitio.
+Estos portátiles eran vendidos inicialmente a los gobiernos y entregados a los niños en las escuelas bajo el principio "una computadora para cada niño".
+El portátil de $100, como es conocido en términos coloquiales, a fecha de diciembre de 2007 se vendía en Estados Unidos por parejas por $199.50 cada uno en la iniciativa G1G1 (Give One Get One, "Dona Uno, compra uno"), y también a través de su canal de venta, para el que fue diseñado, la compra por gobiernos de países en desarrollo.
+El OLPC fue desarrollado por la organización One Laptop Per Child.
+La OLPC era una organización sin ánimo de lucro con sede en Delaware, creada por catedráticos del Laboratorio de Multimedia del MIT para diseñar, fabricar y distribuir estas computadoras portátiles.
+A esta computadora portátil XO-1 también se le conoce como La máquina verde.
+Los promotores del proyecto quieren dejar claro que no es un producto creado para vender (en principio), sino que es sobre todo un proyecto educativo.
+El proyecto OLPC fue sujeto de mucho debate.
+Fue aclamado por ser pionero por proponer un portátil de bajo consumo y bajo presupuesto, inspirando variantes como los Eee PCs o los Chromebooks; por asegurar consenso a nivel ministerial en muchos países de que la alfabetización digital es una parte fundamental de la educación; por crear interfaces que funcionaban independientemente del idioma del usuario incluso si este no sabía leer, sin requerir saber inglés.
+Fue criticado desde diferentes lados debido a su enfoque demasiado centrado en los Estados Unidos, ignorando otros problemas mayores, por sus altos costes de fabricación, mal mantenimiento y formación, y por su escaso éxito.
+En 2014, después de unas ventas decepcionantes, la fundación cerró.
+A finales de noviembre de 2005 se anunció el proyecto durante la Cumbre Mundial sobre la Sociedad de la Información, celebrada en Túnez.
+undefined La ONU estuvo presente en una posterior exposición de este producto.
+La OLPC fue presentada por su cofundador Nicholas Negroponte en enero de 2006 en el Foro Económico Mundial en Davos, Suiza.
+Este hecho generó muchos detractores del proyecto, quienes aseguran que se trata más de un proyecto personal y beneficioso para sus creadores que un proyecto humanitario.
+En una exhibición, Kofi Annan rompió la manivela del OLPC mientras lo estaba probando.
+Días después se presentó un nuevo modelo que reemplazó la manivela por una especie de hilo (parecido al que se utiliza en las podadoras de césped que usan un motor de gasolina), del que se tira para cargarlo.
+Este mecanismo resuelve el problema de cómo hacer funcionar una computadora en las áreas más remotas y pobres del mundo que carecen de servicio eléctrico.
+El aparato es pequeño, incluso demasiado para ser manejado por las manos de un adulto.
+El hardware de la máquina está diseñado para que permita una larga duración de la batería, no para ser extremadamente rápida.
+Las baterías tienen una duración de días, no de horas, gracias a un procesador con baja frecuencia de reloj.
+El portátil posee dos grandes antenas de WiFi, que son al mismo tiempo los cierres de la tapa.
+No tiene disco duro sino memoria flash como dispositivo para almacenar el sistema operativo y los datos del usuario.
+La memoria flash puede expandirse por medio de unidades externas de tipo estándar, a través de sus tres puertos USB.
+La tapa puede girarse totalmente y convertir el aparato en un tipo tableta sin teclado, aunque el siguiente prototipo XO-2 incluirá una pantalla táctil.
+También llevan una webcam en la tapa, micrófono, dos altavoces, lector de tarjetas SD, varios botones tipo consola de juegos, y diversos led para teclado y batería.
+El sistema estaba basado inicialmente en una licencia GNU con núcleo Linux y un sistema de escritorio ultra simple en el que las ventanas siempre se encuentran maximizadas.
+Hay controles alrededor de la ventana, en forma de marco, que pueden mostrarse u ocultarse mediante la presión de una tecla.
+La OLPC solo puede realizar tareas básicas: escribir documentos, elaborar dibujos, entrar a Internet, juegos sencillos, escuchar música, ya que está diseñado para quienes nunca antes han tenido una PC.
+Una de las piezas clave del proyecto en lo que se refiere al software de comunicaciones, consiste en que las unidades forman una red autogestionada, donde cada uno de los clientes es, al mismo tiempo, un enrutador.
+Así, la red extiende su cobertura gracias a la presencia de los propios aparatos, ya que cada uno es enrutador del siguiente, de manera que forman una cadena que no depende de nodos centrales.
+La conectividad con otras máquinas está apoyada por un sistema de visualización del entorno local, cercano y lejano.
+Unas teclas de función ilustradas con símbolos sencillos acceden a estos tres niveles de visualización del entorno.
+La otra pieza clave consiste en el empleo del famoso entorno educativo Squeak, que es un mundo de objetos interactivos con vida propia gracias al lenguaje Smalltalk (el propio Squeak está escrito en este lenguaje), mediante el cual niños de cualquier edad aprenden conceptos gracias a la experimentación directa con gráficas tortuga y multimedia.
+Además de Squeak/eToys, el sistema contiene estas otras aplicaciones: navegador web, lector de RSS, chat/videoconferencia, un editor de texto derivado del Abiword, Tam-Tam (una aplicación sencilla de música) y Memory (un juego de memoria musical).
+Usa como lenguajes de programación Python, JavaScript, Csound (lenguaje de síntesis sonora) y el propio entorno Squeak, aparte de los usados por otros programadores y su otro sistema operativo.
+La OLPC es ecológica debido a las razones siguientes:
+Al comprar una computadora portátil convencional, el alto precio de esta se debe al costo de montaje, al embalaje (plásticos y cartones), a la publicidad y al hardware caro el cual es usado para ejecutar software exigente, que, en la mayoría de los casos, no es necesario para la educación de un niño.
+De la consideración de que todo el hardware superfluo puede simplemente suprimirse en gran parte, nace el concepto de máquina justamente necesaria para su propósito (el educativo) y no de uso general.
+La falta de publicidad y los costes de montaje de una máquina sencilla en su diseño cooperan para conseguir un artículo perfectamente equilibrado.
+Sin embargo, no existe una razón comercial en su desarrollo tal y como se entiende en la mayoría de los PC, sino que se trata de un proyecto educativo.
+A pesar de ello se ha realizado su comercialización desde finales del año 2007 en Estados Unidos.
+Uruguay fue el primer país sudamericano en implementar el proyecto OLPC.
+El Plan Ceibal, fundado en 2007, tiene por objetivo que todos los niños de las escuelas públicas (y posiblemente en el futuro, también privadas) tengan su propia computadora portátil.
+Este plan permite que cada maestro y cada alumno de las escuelas tengan una OLPC con conexión a Internet, en forma totalmente gratuita.
+El modelo elegido fue la XO.
+Según se confirmó, en el 2009 se habían entregado 366 000 computadoras (a 350 000 niños y 16 000 maestros).
+En agosto de 2010 se inició una nueva etapa, con el comienzo de la distribución de computadoras portátiles, con más y mejores prestaciones, a los alumnos de secundaria pública.
+Para diciembre del 2011 se habían entregado 454 000 computadoras portátiles, aproximadamente 320 000 a niños de primaria, 120 000 a adolescentes de secundaria, y el resto a maestros y profesores.
+la cobertura del programa es completa en la enseñanza primaria y secundaria, habiéndose entregado computadoras en todo el territorio nacional, siendo así el primer país del mundo en lograr que todo niño tenga un computador y conexión a Internet, donde se encuentre.
+En Argentina, el gobierno federal estudió la posibilidad de adoptar la plataforma, comenzó repartiendo de manera gratuita al menos 50 unidades y brindándolas como un proyecto en fase de estudio y posterior adopción, indicando la tendencia global de mostrar que la informática debe ser igualmente democrática y su acceso debe igualmente ser para todo el mundo, y de ser aprobado el plan al menos un millón de unidades serían adquiridas.
+Desde el año 2010 hasta en la actualidad se siguen repartiendo computadoras portátiles del Plan Conectar Igualdad, fundado en 2009, difiriendo este plan del originario proyecto OLPC.
+Las diferencias radican principalmente en que el Plan Conectar Igualdad utiliza software y hardware privativo, de ensambladoras locales, con procesadores Intel y sistema operativo Microsoft Windows 7.
+undefined
+Al 1 de julio de 2015, se han entregado 5 millones de computadoras, y además se construyeron 1428 aulas digitales en todo el país.
+El programa recibió premios en el extranjero y de diferentes organismos internacionales, entre ellos una distinción del Programa de Naciones Unidas para el Desarrollo (PNUD), y por la cumbre Iberoamericana, entre otros.
+Fue a partir del año 2016 con el cambio de gobierno, que este programa fue mutando, cambiando de nombre y reconvirtiéndose para incluir robótica y programación utilizando tabletas en lugar de notebooks.
+En 2018 cambia a ser dispositivos para usar en el aula y no de pertenencia a los estudiantes.
+En Colombia, fundaciones sin ánimo de lucro como Pies Descalzos, Marina Orth y Gente Unida como pionera en el proyecto han brindado su respaldo a esta iniciativa, dotando a sus escuelas de esta herramienta de aprendizaje para sus estudiantes.
+En ocasiones, la plataforma usa un sistema operativo privativo, el Windows XP de Microsoft, ampliamente utilizado en Colombia, pero que puede causar que los niños que lo aprenden dependan en el futuro de la transnacional que es titular de sus derechos.
+Inicialmente en el municipio de Itaguí, cerca de 19.000 niños recibirán de manos del gobierno municipal este notebook.
+En Perú, se ha iniciado el proceso de adaptación con un gran apoyo del gobierno central, que hasta abril del 2011 ha distribuido gratuitamente nada menos que 500.000 computadoras para los docentes y el alumnado peruano.
+Hasta julio de 2011 el gobierno espera entregar 810 mil laptops a todos los alumnos de primaria y secundaria.
+De esta manera se espera que el programa Una laptop por niño llegue al 100% de escuelas de primaria a finales del 2012, faltando completar la entrega en el 2013 a los colegios secundarios.
+Una noticia adicional es que el Perú será el primer país fuera de China en fabricar laptops para escolares, gracias a una alianza entre el gobierno peruano con la Fundación One laptop per Child, de Estados Unidos, y la compañía de ordenadores portátiles, Quanta Computer.
+En Nicaragua, Fundación Zamora Terán es una organización sin fines de lucro e inspirada y apasionada por la niñez.
+En su ADN está el formar a los niños de la región con los más altos estándares de calidad educativa, mediante el desarrollo permanente de procesos de formación y acompañamiento docente, llevando a cada estudiante y maestro herramientas tecnológicas que le permitan facilitar los aprendizajes, implementando infraestructura sostenible en cada centro escolar.
+Centroamérica es el hogar de la Fundación, porque está consiente que debe estar donde la niñez lo necesita, por ello ha fortalecido su alianza con empresas, agencias de cooperación y personas que comparten sus valores.
+Su ADN se extiende desde Guatemala hasta Panamá y la República Dominicana, apostando por la transformación educativa en la región.
+En Ometepe, Nicaragua, el anuncio de que esta será la primera “isla digital” de Latinoamérica será realidad dentro de pocos días, cuando la Fundación Zamora Terán entregue 5,000 computadoras portátiles a estudiantes y alumnos de los municipios de Altagracia y Moyogalpa.
+La entrega de computadoras forma parte del programa educativo Una Computadora por Niño, que en Nicaragua cuenta con el apoyo de la empresa privada, instituciones estatales, organismos multilaterales, y en este caso con los habitantes de Ometepe, desde autoridades hasta ciudadanos de las comarcas.
+La idea es que si los 5,000 estudiantes de Ometepe están aislados de manera física, no lo estén en el mundo virtual.
+La Internet permitirá a los niños de la isla recorrer el planeta e interactuar con jovencitos de sitios lejanos sin pagar un centavo, ya que las computadoras y la conexión serán gratuitas.
+La Fundación Zamora Terán invirtió más de un millón y medio de dólares, pero los niños podrán llevar las computadoras a sus casas y el servicio de Internet será permanente.
+Antes, los maestros fueron entrenados, ya que ellos mismos desconocían cómo manejar este tipo de tecnología, que si bien es común para una parte de la población nicaragüense, en sitios como las escuelas de Ometepe ni siquiera llega a categoría de “sueño”.
+Estos profesores no se limitarán a escribir en pizarra sus lecciones, ni a leer las tareas en los cuadernos.
+Podrán incluso dejar tareas en casa con la esperanza de que sus alumnos realicen investigaciones más profundas.
+Esto es valioso en una isla donde las bibliotecas, como en el resto del país, no son tan surtidas.
+Por el trato que se les dé a estas computadoras no hay mayor preocupación, pues están diseñadas para soportar las exigencias de un niño, acceder fácilmente a Internet, facilitar la educación y estimular la creatividad.
+Incluso, por su peso y tamaño, no supera el de un libro de primaria, por lo que no representa ninguna incomodidad al momento de meterla en la mochila.
+La seguridad es un problema que traen resuelto estas laptops.
+Debido a que funcionan con sistema linux, no están expuestas a los virus que atacan masivamente a las computadoras.
+Las páginas no aptas para menores de edad están bloqueadas.
+Y si alguien las roba, no podrá utilizarlas ni venderlas, ya que no tienen valor comercial.
+En Venezuela, el Proyecto Canaima Educativo es un proyecto del gobierno, adoptado y comprado del proyecto "Magalhães" del gobierno de Portugal, que tiene por objetivo apoyar la formación integral de los niños, mediante la dotación de una computadora portátil escolar con contenidos educativos a los maestros y estudiantes del subsistema de educación primaria conformado por las escuelas públicas nacionales, estadales, municipales, autónomas y las privadas subsidiadas por el Estado.
+En principio constituía un pilar fundamental en la construcción del nuevo modelo educativo revolucionario, inclusivo y democrático y es factor importante en el alcance de la independencia tecnológica, ya que los contenidos educativos, aplicaciones y funciones son totalmente desarrollados en Software Libre por talento venezolano, pero se ha visto en una decadencia y por ende corrupción del sistema de entrega gratuita de estas laptops para ser revendidas en el área local.
+Su ejecución está a cargo del Ministerio del Poder Popular para la Educación, conjuntamente con el Ministerio del Poder Popular para Ciencia, Tecnología e Industrias Intermedias.
+Hasta la fecha se han entregado más de 3.395.444 en el cual casi el 10% de esa cantidad ha sido verdaderamente beneficiada por la falta de regulación, control, estadística y desorganización por parte de los entes encargados del gobierno de Venezuela para la entrega de equipos de manera gratuita a escolares en todo el territorio nacional, gracias a los convenios de cooperación entre los gobiernos de Caracas y Lisboa.
+La meta para el año 2012 era que toda la población estudiantil del subsistema de educación primaria conformado por las escuelas públicas y las privadas subsidiadas del país, dispusiera de una computadora portátil escolar.
+Para ello, entre los años 2011 y 2012 se prevé incorporar progresivamente a los cursantes de tercero a sexto grado.
+En 2018 se han entregado oficialmente 4 millones de laptops para niños y docentes en todo el territorio nacional y en todos los niveles de educación primaria y secundaria de escuelas públicas y privadas subsidiadas por el gobierno pero sin una estadística exacta si están o no en manos de dicha población ya que por los problemas socio-económicos del país y la alta corrupción del gobierno de Venezuela, se ha visto en muchos casos que dichas laptops han terminado siendo revendidas lo cual es ilegal y hasta penado por la ley de la República Bolivariana de Venezuela.
+Costa Rica es otro país en el cual el gobierno y la Fundación Quirós Tanzi han acogido este proyecto y han dotado a más de 1.500 estudiantes con estos dispositivos y esperan este año dotar a 3.000 estudiantes más con estos dispositivos.
+undefined

@@ -1,0 +1,5 @@
+La Red Nacional de Malasia (Grid Nasional) es la red de transmisión de alto voltaje en la Malasia Peninsular.
+Es una empresa operada y poseída por Tenaga Nasional Berhad (TNB), como parte de su División de Transmisión.
+hay otras dos redes eléctricas en Sabah y Sarawak operadas por Sabah Elecgtricity SDN BhD (SESB) y Sarawak Energy Berhead (SEB) respectivamente.
+El sistema se extiende por la totalidad de Malasia Peninsular, transportando electricidad al por mayor desde generadores de poder que pertenecen a TNB y a los Productores de Poder Independiente (IPPs).
+La red también transporta energía directamente a grandes clientes industriales, como molinos de viento hechos de acero y plantas fertilizantes.

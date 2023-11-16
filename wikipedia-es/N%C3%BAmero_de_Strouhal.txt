@@ -1,0 +1,25 @@
+En el análisis dimensional, el número de Strouhal (St) es un número adimensional que describe los mecanismos de flujo oscilante.
+El número de Strouhal es una parte integral de los fundamentos de la mecánica de fluidos.
+El número de Strouhal lleva el nombre de Vincenc Strouhal, un físico checo que experimentó en 1878 con cables que experimentaban el desprendimiento de vórtices y sonaban con el viento.
+El número de Strouhal se presenta a menudo como:
+De esta ecuación se observa una dependencia del número de Reynolds y de las dimensiones del obstáculo.
+Se han propuesto varias ecuaciones empíricas que relacionan el número de Strouhal y el número de Reynolds:
+En ciertos casos, como el «vuelo en picado», esta longitud característica es la amplitud de la oscilación.
+Esta selección de longitud característica se puede utilizar para presentar una distinción entre el número de Strouhal y la frecuencia reducida.
+Para grandes números de Strouhal (orden de 1), la viscosidad domina el flujo del fluido, con el resultado de un movimiento oscilante colectivo del "tapón" de fluido.
+Para números Strouhal bajos, del orden de 10−4 e inferiores, la parte del movimiento de alta velocidad y casi estable domina la oscilación.
+La oscilación en los números intermedios de Strouhal se caracteriza por la acumulación y rápida eliminación de vórtices.
+Para esferas en flujo uniforme en el rango de números de Reynolds de 8x102 < Re < 2x105 coexisten dos valores del número de Strouhal.
+La frecuencia más baja se atribuye a la inestabilidad a gran escala de la estela y es independiente del número de Reynolds «Re» y es aproximadamente igual a 0,2.
+La mayor frecuencia del número de Strouhal es causada por inestabilidades a pequeña escala de la separación de la capa de cizallamiento.
+En metrología, específicamente en medidores de turbina de flujo axial, el número de Strouhal se usa en combinación con el número de Roshko para dar una correlación entre la  tasa de flujo y la frecuencia.
+La ventaja de este método sobre el método de «frecuencia/viscosidad» frente al factor K es que tiene en cuenta los efectos de la temperatura en el medidor.
+Esta relación deja a Strouhal sin dimensiones, aunque a menudo se usa una aproximación sin dimensiones para C3 lo que da como resultado unidades de pulsos / volumen, igual que el factor K.
+En natación o en animales voladores, el número de Strouhal se define como:
+En vuelo o natación de animales, la eficiencia de la propulsión es alta en un rango estrecho de constantes de Strouhal, generalmente alcanzando un pico en el rango de 0.2 <St <0.4.
+[6] Esta gama se usa en el nado de delfines, tiburones y peces óseos, y en el vuelo de crucero de aves, murciélagos e insectos.
+[6] Sin embargo, en otras formas de vuelo se encuentran otros valores.
+[6] Intuitivamente, la relación mide la inclinación de los trazos, vistos desde un lateral.
+Suponiendo un movimiento a través de un fluido estacionario, f es la frecuencia de trazo, A es la amplitud, por lo que el numerador fA es la mitad de la velocidad vertical de la punta del ala, mientras que el denominador V es la velocidad horizontal.
+Así, la gráfica de la punta del ala forma una sinusoide aproximada con parecida (pendiente máxima) al doble de la constante de Strouhal.
+[7]

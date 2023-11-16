@@ -1,0 +1,38 @@
+En programación orientada a objetos, el patrón visitor es una forma de separar el algoritmo de la estructura de un objeto.
+La idea básica es que se tiene un conjunto de clases elemento que conforman la estructura de un objeto.
+Cada una de estas clases elemento tiene un método aceptar (accept) que recibe al objeto visitante (visitor) como argumento.
+El visitante es una interfaz que tiene un método visit diferente para cada clase elemento; por tanto habrá implementaciones de la interfaz visitor de la forma: visitorClase1, visitorClase2... visitorClaseN.
+El método accept de una clase elemento llama al método visit de su clase.
+Clases concretas de un visitante pueden entonces ser escritas para hacer una operación en particular.
+Cada método visit de un visitante concreto puede ser pensado como un método que no es de una sola clase, sino de un par de clases: el visitante concreto y clase elemento particular.
+Así el patrón visitor simula el envío doble (en inglés este término se conoce como Double-Dispatch) en un lenguaje convencional orientado a objetos de envío único (Single-Dispatch), como son Java o C++.
+El patrón visitor también especifica cómo sucede la interacción en la estructura del objeto.
+En su versión más sencilla, donde cada algoritmo necesita iterar de la misma forma, el método accept de un elemento contenedor, además de una llamada al método visit del objeto visitor, también pasa el objeto visitor como argumento al llamar al método accept de todos sus elementos hijos.
+Este patrón es ampliamente utilizado en intérpretes, compiladores y procesadores de lenguajes, en general.
+Es un patrón de comportamiento, que permite definir una operación sobre objetos de una jerarquía de clases sin modificar las clases sobre las que opera.
+Representa una operación que se realiza sobre los elementos que conforman la estructura de un objeto.
+A continuación se detalla un caso en el que sería de gran utilidad aplicar dicho patrón
+Uno de los principales problemas que presenta este diseño, es querer que la operación f no esté en la jerarquía, sino que esté fuera, para que cada vez que haya un cambio no haya que cambiarlo todo.
+Esta opción, además, obliga a tener que definir cada operación que necesite el cliente en cada clase de la jerarquía, y a que los clientes conozcan operaciones que no necesita, ya que solo interesa que conozca las que va a manejar.
+El patrón Visitante, cambia el modelo orientado a objetos y crea una clase externa para actuar en los datos en otras clases.
+Esto es útil si hay un buen número de instancias de un pequeño número de clases y se desea realizar alguna operación que involucra a todas o a la mayoría de ellas.
+Donde:
+El patrón visitante es aplicable, por ejemplo, cuando varias clases de objetos con interfaces diferentes y se desean realizar operaciones que dependen de sus clases concretas.
+También cuando se necesitan diversas operaciones sobre objetos de una jerarquía y no se desea recargar las clases con estas operaciones.
+Es de mucha utilidad cuando las clases de la jerarquía no cambian, pero se añaden con frecuencia operaciones a la estructura.
+Si la jerarquía cambia no es aplicable, ya que cada vez que agrega nuevas clases que deben ser visitadas, hay que añadir una operación “visita” abstracta a la clase abstracta del visitante, y debe agregar una aplicación de dicha categoría a cada Visitante concreto que se haya escrito.
+El cliente visitará a cada elemento de la estructura de objetos con un visitante concreto (previamente creado por él).
+Cuando se visita un elemento, éste llama a la operación del visitante correspondiente a su clase.
+El objeto se pasa como argumento para permitir al visitante el acceso a su estado.
+Es fácil añadir nuevas operaciones a un programa utilizando Visitantes, ya que el visitante contiene el código en lugar de cada una de las clases individuales.
+Además, los visitantes pueden recoger las operaciones relacionadas en una sola clase en lugar de obligar a cambiar o derivar clases para agregar estas operaciones.
+Esto puede hacer al programa más sencillo de escribir y mantener.
+El patrón Visitante es útil cuando se desea encapsular buscando datos desde un número de instancias de varias clases.
+Los patrones de diseño sugieren que el visitante puede proporcionar una funcionalidad adicional a una clase sin cambiarla.
+Pero es más práctico decir que un visitante puede agregar funcionalidad a una colección de clases y encapsular los métodos que utiliza.
+Se pueden tener problemas con la encapsulación, la solución para ello es que como los atributos de los elementos no pueden ser públicos se hace que todo este en un mismo paquete, es decir, visibilidad de paquete.
+Como se comenta anteriormente, es difícil añadir nuevas clases de elementos, ya que obliga a cambiar a los visitantes.
+Facilita la acumulación de estado, es decir, acumular resultados.
+En el ejemplo de a continuación, habrá una jerarquía de expresiones aritméticas simples sobre las que se desea definir visitantes.
+Uno de los visitantes será la operación PrettyPrint que convierte a cadena de caracteres la expresión aritmética.
+Mediante la siguiente estructura se comprenderá mejor el ejemplo:

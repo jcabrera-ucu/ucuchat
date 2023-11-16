@@ -1,0 +1,44 @@
+El protocolo Ko-Lee-Hang-Park es un protocolo de clave pública que usa grupos no abelianos.
+Fue propuesto por Ki Hyoung Ko, Sang Jin Lee, Jung Hee Cheon, Jae Woo Han, Ju-sung Kang y Choonsik Park. Utiliza el fundamento de que los grupos trenza pueden servir como una buena fuente de enriquecimiento para la criptografía, lo cual incluye lo siguiente:
+También tiene como fin proponer e implementar un protocolo de acuerdo de llave y sistema criptográfico de llave pública que puede ser utilizado para diseñar primitivas criptográficas.
+La seguridad de este sistema está basada en problemas topológicos, combinatorios y teóricos de grupos que son intractibles de acuerdo al actual conocimiento matemático.
+La fundamentación de este sistema es diferente a la mayoría de criptosistemas usados en teoría de números, pero existen algunas similitudes en el diseño.
+Desde que Diffie y Hellman presentaron por primera vez un criptosistema de llave pública usando funciones de una sola vía, algunos sistemas de cifrado de llave pública han sido vulnerados.
+Muchos de los sistemas de cifrado de llave pública requieren una gran cantidad de números primos.
+La dificultad de factorización de enteros con una gran cantidad de factores primos forma la base del sistema RSA y sus variantes como la de Rabin-Williams, el esquema de LUC o el cifrado de curva elíptica. También la dificultad del problema de algoritmo discreto forma la base de los cifrados tipo Diffie-Hellman como ElGamal.
+Ha habido bastantes esfuerzos para desarrollar cifrados de llave pública alternativos que no están basados en la teoría de números.
+El primer intento fue usar los problemas de dificultad NP en combinatoria como el cifrado Merkle-Hellman y sus modificaciones.
+Algunos criptógrafos han sido pesimistas acerca de la criptografía combinatoria después del desciframiento del cifrado de clave pública tipo Knapsack realizado por Shamir, Brickell, Lagarias, Odlyzko, Vaudenay y otros.
+La mayoría de los criptosistemas derivados de la teoría de grupos combinatorios son principalmente teóricos o tienen ciertas limitaciones en la práctica amplia y general.
+Para este protocolo de encriptación se utiliza una función unidireccional basada en el problema de conjugación en grupos trenzados, y de esta función se derivara un protocolo de establecimiento de clave y un protocolo de clave pública.
+Si consideramos dos subgrupos LB_l y RB_r que pertenecen a B_{l+r}, tales que LB_l son las trenzas formadas al trenzar las trenzas izquierdas entre l+r, es decir, que las trenzas 1, 2,..., l son las únicas que están trenzadas, y las trenzas no lo están.
+De forma similar el subgrupo RB_r son las trenzas formadas por las trenzas trenzadas de la derecha, es decir que las trenzas están trenzadas, pero las trenzas 1, 2,..., l no están trenzadas.
+De esta forma, cada subgrupo se genera así:
+LB_l se genera por σ_1, σ_2,..., σ_{l-1}, y el subgrupo RB_r se genera por σ_{l+1}, σ_{l+2},..., σ_{r-1}.
+En la función también debe considerarse la propiedad conmutativa de los grupos trenza que dice que σ_iσ_j = σ_jσ_i para |i-j| ≥ 2.
+Así, se puede decir que para cualquier a Є LB_l y b Є RB_r, entonces ab=ba.
+Así, se tiene que la función es:
+f:LB_l × B_{l+r} → B_{l+r} × B_{l+r},
+Esta función es unidireccional debido a que dados (a,x) es fácil calcular axa^{-1}, pero requiere un tiempo exponencial para calcular a conociendo, y en esto se basa la seguridad de este protocolo criptográfico.
+En este aspecto es similar al protocolo de Diffie-Hellman, ya que el rol de x es similar al de g en el protocolo Diffie-Hellman.
+Como se sabe que ab=ba, entonces:
+Obteniendo Alice y Bob la misma trenza.
+Usando el establecimiento de clave anterior, ahora se toma una función hash H:B_{l+r} → {0,1}^k que se adapte del grupo de trenzas al mensaje que se quiere encriptar.
+Como a y b conmutan, entonces.
+Así que recuperando así el mensaje original.
+Para este protocolo debe elegirse un x lo suficientemente complicado para evitar la “factorización” de x en x_1x_2z, donde x_1 Є LB_l, x_2 Є RB_r y z es una trenza de orden l+r conmutable con LB_l y RB_r.
+Esto es así ya que si es posible descomponer fácilmente x, entonces:
+sería fácil de calcular usando y  sin conocer a o b.
+Se discuten las características operativas teóricas del protocolo propuesto y los parámetros de seguridad / longitud del mensaje para futuras implementaciones, esto debido a que en el protocolo Ko-Lee-Cheon-Hang-Park no es posible comparar su desempeño con el de otros cifrados de clave pública.
+Recordemos que el protocolo usa tres hebras: y b \in RB_r, y el texto cifrado es.
+Cuando se trabaja con hebras, debemos considerar dos parámetros, el índice de la hebra y la longitud canónica.
+Por simplicidad, asumimos que los índices de las hebras en nuestro protocolo son y las longitudes canónicas son.
+Las siguientes son las discusiones acerca de las características de operación del protocolo:
+El protocolo es similar al protocolo de ElGamal en diseño y tiene las siguientes propiedades:
+Y desencriptar el texto cifrado m en un texto plano m es equivalente a conocer
+Un posible ataque de fuerza bruta es computar a de axa^{-1} o b de bxb^{-1},lo cual es justamente un ataque al problema generalizado de búsqueda conjugada.
+Asuma que le ha sido dada una pareja (x,y) de trenzas en B_{\ell+r}, tal que y=axa^{-1} para algún.
+La trenza a puede ser elegida de un grupo infinito LB_\ell en teoría.
+Pero en un sistema práctico, el adversario puede generar todas las trenzas en la forma canónica con algún límite razonable para p y revisar el punto en el que  corresponde.
+El número necesario es como mínimo.
+Si el y p \; = \; 2, luego, lo cual muestra que el ataque de fuerza bruta es inútil.

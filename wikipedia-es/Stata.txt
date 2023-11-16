@@ -1,0 +1,8 @@
+Stata es un paquete de software estadístico creado en 1985 por StataCorp.
+Es utilizado principalmente por instituciones académicas y empresariales dedicadas a la investigación, especialmente en economía, sociología, ciencias políticas, biomedicina, geoquímica y epidemiología, etc.
+Stata permite, entre otras funcionalidades, la gestión de datos, el análisis estadístico, el trazado de gráficos y las simulaciones.
+Tiene la ventaja de ejecutar los análisis y tareas mediante pestañas desplegables o mediante comandos, que lo hace muy amigable.
+Además, permite el análisis estadístico de tipo frecuentista y de tipo bayesiano.
+El tipo de archivos que utiliza son:
+El nombre Stata es una "palabra baúl" que combina las palabras statistics (estadística) y data (datos); no es un acrónimo y por lo tanto no debe ser escrito en mayúsculas (es decir, no es "STATA" sino "Stata").
+-help: explica como está armado cada uno de los tests.

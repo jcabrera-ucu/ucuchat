@@ -1,0 +1,21 @@
+Martin Maximilian Emil Eichler (29 de marzo de 1912 - 7 de octubre de 1992) fue un teórico de números alemán.
+Con Gorō Shimura, desarrolló un método para construir curvas elípticas a partir de ciertas formas modulares.
+La noción inversa de que cada curva elíptica tiene una forma modular correspondiente sería luego la clave para la prueba del último teorema de Fermat.
+Eichler era hijo del pastor luterano Max Eichler.
+Nació en la localidad de Pinnow, perteneciente al Condado de Greifswald (Pomerania) y se educó en un internado de Gütersloh (Westfalia) entre 1923 y 1930.
+A partir de 1930 estudió matemáticas, física y química en Königsberg, Zúrich (donde se distanció de su objetivo original de convertirse en físico bajo la influencia de Andreas Speiser) y desde 1932 en Halle, donde en 1936 trabajó con Heinrich Brandt, dedicado a los Estudios sobre la teoría numérica de álgebras de cuaterniones racionales.
+Inicialmente fue asistente en Halle, pero fue despedido por las autoridades nacionalsocialistas por su falta de implicación política.
+Helmut Hasse le consiguió un trabajo como editor de la nueva edición de la Enciclopedia de Ciencias Matemáticas y finalmente lo llevó a Gotinga como asistente, donde se habilitó en 1939.
+Durante los años de la Segunda Guerra Mundial trabajó en el Centro de Investigación de Peenemünde y en la Universidad Técnica de Darmstadt, involucrado en la resolución de ecuaciones diferenciales relacionadas con problemas de aerodinámica.
+En 1947 regresó a Gotinga, pero pasó los siguientes dos años en Inglaterra, en las instalaciones de prueba de la Royal Air Force en Farnborough.
+En 1949 se convirtió en profesor asociado en la Universidad Guillermina de Westfalia en Münster y en 1956 como profesor titular en Marburgo.
+En 1959 aceptó una propuesta para suceder a Alexander Ostrowski en Basilea.
+Eichler inicialmente trató con la estructura y la aritmética del álgebra de cuaterniones y con la teoría de formas cuadráticas (la generalización de su estudio de álgebras de cuaterniones), sobre la que escribió el libro titulado Formas cuadráticas y grupos ortogonales en 1952.
+Desde la década de 1950, su principal campo de trabajo fue la teoría de formas modulares.
+En 1954 probó la conjetura de Ramanujan-Petersson para formas de módulo de peso 2 (una estimación de los coeficientes de Fourier de las formas del módulo, cuyo caso general sería posteriormente demostrado por Pierre Deligne).
+También demostró una conjetura formulada por Erich Hecke acerca de las funciones básicas en este espacio ("problema básico") formulada para el espacio de las formas del módulo con el peso k = 2 y demostró una fórmula traza para el efecto del operador de Hecke.
+Para k superior, dio la posibilidad de calcular la traza mediante el uso de integrales de formas de módulos (métodos "cohomológicos", teoría de Eichler-Shimura, según Gorō Shimura, que generalizó este principio).
+En la década de 1980 escribió una monografía sobre las formas de Jacobi en colaboración con Don Zagier.
+En la década de 1960 trabajó en el teorema de Riemann-Roch, para lo que demostró una analogía con el conjunto de formas lineales del cuerpo de funciones de Minkowski en el área de la teoría de números de una variable.
+Desde 1978, Eichler fue miembro correspondiente de Academia de ciencias en Göttingen y doctor honorario de la Universidad de Münster.
+Se casó con Erika Paffen (a quien conoció en Peenemünde) en 1947, y tenía dos hijos, uno de los cuales era el físico Ralph Eichler.

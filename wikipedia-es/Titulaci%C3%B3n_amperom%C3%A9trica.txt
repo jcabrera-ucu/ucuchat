@@ -1,0 +1,25 @@
+Las titulaciones amperométricas son una clase de valoraciones en donde el punto de equivalencia es determinado a través de la medición de una corriente eléctrica generada por una reacción redox.
+Forma parte de la gran familia de los métodos dinámicos de valoraciones electroquímicas.
+En este tipo de valoración es necesario que circule una corriente apreciable a través de la celda electroquímica.
+El pasaje de corriente a través de esta celda jamás implica un equilibrio.
+Considerar además al cátodo como electrodo trabajo donde se aloja la solución y al ánodo (electrodo de Ag/AgCl por ejemplo) como electrodo de referencia.
+Es importante en este punto mencionar la diferencia entre corriente faradaica y corriente no faradaica.
+La primera se refiere al pasaje de electrones en interfase electrodo-solución, que genera una corriente eléctrica, proporcional a la cantidad de electrones intercambiados.
+La segunda no está relacionada con una circulación de corriente en la interfase electrodo solución, sino a la circulación de una corriente externa a dicho circuito por acumulación de cargas debido a la aplicación de un potencial, de forma análoga a un capacitor.
+Si el potencial aplicado a un electrodo al electrodo de trabajo es suficiente para reducir al analito, entonces la concentración de analito cerca del electrodo de trabajo irá decayendo.
+Si el potencial aplicado es lo suficientemente grande (un sobrepotencial), entonces la concentración de analito dependerá completamente del grado de difusión del analito en la interfase electrodo-solución, se dice entonces que está limitada por la difusión.
+En esta condiciones se podrá establecer una relación entre la corriente monitoreada y la concentración de analito, técnica que recibe el nombre de amperometría simple.
+¿Qué sucedería si colocáramos una especie que reaccione con el analito (especie valorante)?
+Luego de un pequeño volumen de valorante añadido, disminuirá la concentración de analito debido a una reacción con dicho valorante.
+Con el añadido de más valorante, se podría confiscar una curva corriente en función de la concentración la cual arrojaría una curva muy similar a la correspondiente a valoración ácido-base.
+Más allá del punto de equivalencia, habrá un exceso de valorante.
+Este exceso de valorante hará la reacción de reducción en el electrodo de trabajo (si la especie valorante es capaz de reducirse, caso contrario no se produciría dicha reacción).
+Por lo tanto en la franja correspondiente al punto de equivalencia habrá un cambio brusco en la corriente medida, debido al cambio de concentración de analito o valorante.
+Esta técnica es conocida como titulación por punto muerto.
+Es un método bastante más sensible al cambio de concentración que una reacción colorimétrica, en dónde el punto de equivalencia es visualizado por una reacción de color que percibe el ojo del analista.
+Con el instrumento adecuado es posible además medir concentraciones del orden 10-3 y 10-8.
+El biosensor de glucosa en sangre basa su funcionamiento en una valoración amperométrica.
+Se utiliza a la enzima glucosa oxidasa, que cataliza una reacción de oxidación con la glucosa.
+En presencia de glucosa, esta enzima se reduce.
+Al volver a su estado normal oxidado, reduce a un mediador (ferroceno), el cual al volver a su estado oxidado desprende electrones al electrodo de trabajo, generándose una corriente proporcional a la cantidad de glucosa que haya en solución.
+La enzima se encuentra inmovilizada al mediador por DCC (N,N'-diciclohexilcarbodiimida), compuesto que permite que se establezcan uniones cruzadas de la capa enzimática con la capa del mediador). Esto provoca una buena respuesta lineal frente a bajas concentraciones de glucosa e insensibilidad al oxígeno molecular (presente en la sangre) que compite con el ferroceno para reoxidar a la enzima.

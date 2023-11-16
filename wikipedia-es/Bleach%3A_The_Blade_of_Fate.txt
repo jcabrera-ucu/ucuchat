@@ -1,0 +1,28 @@
+Bleach DS: Souten ni Kakeru Unmei (蒼天に駆ける運命) es un juego de lucha en 2D para la Nintendo DS basado en el universo de la serie manga y anime Bleach, obra de Kubo Tite.
+Fue desarrollado por Treasure y distribuido por Sega.
+Una de las cualidades más destacadas de este título es la posibilidad de jugar contra otros usuarios mediante la conexión WiFi de Nintendo.
+Se espera una nueva entrega de esta serie de juegos para mediados de febrero, y llevará por nombre Bleach DS 2nd: Kokui Hirameku Requiem.
+La parte de la serie en la que está basado este juego es la saga de la Sociedad de las almas.
+En ella, Ichigo y sus amigos acuden a este lugar, hogar de los shinigami, a rescatar a Rukia, que ha sido arrestada por permanecer demasiado tiempo en el mundo de los humanos y ceder sus poderes a uno de ellos.
+Así, se ven envueltos en una serie de combates contra los altos cargos del Seireitei (los capitanes de las 13 Divisiones) para lograrlo.
+Utilizaremos los botones izquierda y derecha de la cruceta para mover al personaje.
+Pulsando arriba saltará, con abajo se agachará y mantendremos apretado el gatillo R para cubrirnos.
+Algunos escenarios tienen dos superficies sobre las que desplazarse y luchar.
+Puede representar que estos lugares poseen profundidad, o que tienen algún soporte elevado en el que situarse.
+Para cambiar entre un plano y otro utilizaremos el otro gatillo, el L.
+Para golpear tenemos los botones Y, X y A para pegar flojo, normal, o fuerte (en este orden).
+El botón B sirve para realizar el movimiento Shunpo, una especie de teletransporte.
+Para realizar diversos ataques especiales tendremos que ejecutar correctamente medias lunas (realizar movimientos rápidos en forma de arco con la cruceta y pulsar rápidamente un botón de ataque).
+Con el botón Start se pausa el juego, y en la mayoría de modos se puede acceder desde el menú de pausa a una lista de comandos para ver los posibles movimientos del personaje que estemos manejando.
+En la pantalla inferior (la táctil) podemos pulsar una serie de imágenes (las cartas especiales) para obtener ventajas en la partida (tales como que se rellene parcialmente la barra de vida, o que aumente de forma temporal el poder de ataque o defensa).
+Obtendremos mejores cartas conforme se avanza en el juego, pudiendo escoger entre todas las posibles en el editor de mazos.
+El combate se desarrolla en la pantalla de arriba, de las dos que tiene la consola.
+En la parte superior de ésta se ven las barras de vida que tienen los jugadores (junto al nombre del personaje que maneja y una pequeña imagen del mismo).
+En el momento en que todas las barras de vida se consuman, menos la de un jugador, éste habrá resultado ganador la partida.
+Debajo de la vida puede verse una segunda barra para cada personaje, la de Reiatsu.
+Esta barra (que puede rellenarse hasta tres veces) es necesaria para realizar los ataques más fuertes del personaje, y se rellena paulatinamente conforme se ejecutan combos contra los contrincantes, o se encajan golpes de estos.
+En la parte inferior de la pantalla hay una última barra que se rellena paulatinamente aunque estemos quietos y que es necesaria para realizar el movimiento de teletransporte y para cambiar de plano en el escenario.
+Adicionalmente a todo esto, puede mostrarse en pantalla un temporizador con el tiempo restante de combate que queda si así se establece antes de empezar.
+En el momento en que acabe el combate, el jugador que más vida tenga en ese momento es el vencedor.
+Todos estos son los personajes de la serie que se pueden controlar en este juego.
+Algunos de ellos están disponibles desde el inicio, pero otros deben ser desbloqueados.

@@ -1,0 +1,14 @@
+José Manuel Pardo Muñoz (Valladolid, 1955) es un ingeniero de telecomunicaciones español especializado en tecnología de reconocimiento del habla e inteligencia artificial.
+Pardo estudió en el Colegio San José (Valladolid) desde 1961 a 1972.
+En 1973 inició sus estudios en Escuela Técnica Superior de Ingenieros de Telecomunicación (Universidad Politécnica de Madrid) y en 1977 se tituló ingeniero de telecomunicaciones especializado en informática, comunicaciones y electrónica.
+Continuó su labor investigadora y obtuvo su doctorado con la tesis de título Cálculo de parámetros articulatorios del habla española y su aplicación en la educación de minusválidos, en el año 1982.
+Pardo es jefe del grupo de investigación sobre tecnologías y reconocimiento del habla desde 1987 y catedrático de universidad desde el año 1992, en la Universidad Politécnica de Madrid (UPM).
+Fue director del departamento de ingeniería electrónica entre 1995 y 2004.
+Lidera un grupo de 15 personas especializadas en tecnología del habla, que incluye tareas de docencia y supervisión de estudiantes de doctorado, coordinación de proyectos de investigación, desarrollo de prototipos y servicios de consultoría.
+Sus áreas de especialización incluyen las tecnologías específicas para la conversión de voz a texto y de texto a voz, la comprensión del lenguaje hablado, bases de datos y recursos del habla y la ciencia básica subyacente en los procesos de comunicación del habla.
+Pardo fue científico visitante en la Universidad de Cambridge en 1981 como becario del British Council, en el Instituto de Tecnología de Massachusetts, en el grupo Speech Communication, durante los años 1983 y 1984 como becario del programa Fulbright; en SRI International en 1986 como becario de la OTAN y en el instituto internacional de Ciencias de la computación en los años 2005 y 2006.
+Pardo fue consultor de Telefónica I+D entre los años 1989 y 1992.
+Ha sido responsable de muchos proyectos nacionales y de la Unión Europea (Esprit 860, Esprit 2104, LRE 61-004, Gemini, IST- 2001-32343, Onomastica, TIDE TP1174 Vaess, LE4 8315 IDAS, Polyglot) en el área de Speech Technology.
+Pardo es evaluador de proyectos de la Unión Europea y revisor en revistas, tales como Speech Communication Journal, IEEE Transactions on Audio, Speech and Language Processing, IET Signal Processing, Journal of the Acoustical Society of America, IEEE Signal Processing Letters, entre otras.
+Es miembro del consejo editorial de la revista internacional de tecnología del habla.
+Es profesor del máster sobre reconocimiento del habla coordinado por la Universidad Politécnica de Madrid y la Universidad Complutense de Madrid.

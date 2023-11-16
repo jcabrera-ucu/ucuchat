@@ -1,0 +1,76 @@
+Paul Julius Oswald Teichmüller (* 18. junio de 1913 en Nordhausen, † probablemente en septiembre de 1943 en la región de Dnepr, Unión Soviética) fue un matemático alemán especializado en teoría de funciones y álgebra.
+Sus conceptos y los resultados de sus investigaciones tuvieron más tarde un efecto pionero en el desarrollo posterior del análisis complejo.
+También es conocido por sus actividades nacionalsocialistas como representante estudiantil en la Universidad de Gotinga contra respetados profesores judíos de matemáticas.
+Sanford L. Segal, profesor de matemáticas en la Universidad de Rochester, en su libro de 2003 "Matemáticos bajo los nazis" dijo sobre él: "Teichmüller fue un matemático talentoso, brillante y seminal, y también un nazi devoto".
+Sus padres fueron Adolf Julius Paul Teichmüller y Gertrude Dinse.
+En el momento del nacimiento de Oswald, su padre, tejedor, tenía 33 años y su madre 39, no tuvieron más hijos.
+Su padre fue herido durante la Primera Guerra Mundial y murió cuando Oswald tenía 12 años.
+Según su madre, cuando Oswald tenía tres años ella descubrió que el ya sabía contar y había aprendido a leer por su cuenta.
+Después de la muerte de su padre, Gertrude lo sacó de la escuela en Sankt Andreasberg (Harz), que "hacía mucho tiempo que había superado" y lo envió a vivir con su tía en Nordhausen, donde asistió al Gymnasium.y se graduó de la escuela secundaria en 1931.
+Teichmüller se matriculó en la Universidad de Gotinga en 1931 como un "estudiante brillante pero solitario y provinciano".
+Hans Lewy, un joven instructor en Göttingen en ese momento, contó anécdotas de la brillantez desgarbada de Teichmüller.
+Estudió matemáticas desde el semestre de verano de 1931, donde escuchó a Richard Courant, Hermann Weyl, Otto Neugebauer, Gustav Herglotz y Edmund Landau, entre otros.
+Debido a sus orígenes humildes, fue una figura excéntrica en la universidad.
+Desde el principio participó activamente en el cuerpo estudiantil nacionalsocialista.
+En julio de 1931 se unió al NSDAP (número de miembro 587.942) y poco después a las SA.
+Como director de la sección de matemáticas del alumnado nacionalsocialista, fue el principal responsable del boicot contra el matemático judío de renombre mundial Edmund Landau, en un momento en que los profesores judíos se veían obligados a abandonar las universidades debido a las nuevas leyes aprobadas por los nacionalsocialistas (se hacían excepciones, por ejemplo, a los participantes en la Primera Guerra Mundial).
+En el semestre de verano de 1933, Landau había dado conferencias de análisis, que eran impopulares entre muchos estudiantes debido a su alto grado de abstracción, lo cual llevó a que se las consignara a su asistente Weber, pero quería volver a impartirlas en el semestre de invierno.
+Con su boicot, Teichmüller logró que el salón de conferencias de Landau fuera cerrado el 2 de noviembre.
+Los estudiantes se agolparon en el vestíbulo para recibirlo.
+Como portavoz del boicot, Teichmüller explicó personalmente los motivos a Landau e incluso le dio una explicación por escrito cuando se le requirieron explicaciones.
+En él escribió que si bien tenía en alta estima a Landau y no se oponía a que este último diera conferencias, como judío, a estudiantes avanzados, no debía dar clases de cálculo diferencial e integral para principiantes.
+Landau quedó profundamente afectado y presentó su renuncia, adjuntando -sin mencionar su nombre- la carta de Teichmüller y se retiró al año siguiente.
+Otro objetivo de Teichmüller y sus amigos de ideas afines era combatir lo que él llamó la camarilla de Courant y nombrar sucesores adecuados y de mentalidad nacionalsocialista para los matemáticos como Hermann Weyl y Richard Courant, quienes finalmente renunciaron o fueron expulsados de la universidad.
+En 1934, sin embargo, no fue nombrado uno de sus candidatos favoritos, sino Helmut Hasse, quien se opuso a la Gleichschaltung de la Asociación Alemana de Matemáticas, y fue clasificado por ello por Teichmüller como un opositor político.
+Además de sus actividades políticas, se dedicó intensamente a las matemáticas.
+Asistió a conferencias del estudiante de Courant Franz Rellich en 1933/34, lo que resultó en su disertación Operatoren im Wachssche Raum, que fue aceptada por Helmut Hasse (doctorado summa cum laude en junio de 1935).
+En lo profesional, se llevaba bien con Hasse y fue muy activo en su seminario de álgebra, del que surgieron varios trabajos de investigación de Teichmüller.
+Se convirtió en asistente de Hasse en Gotinga, al igual que Ernst Witt, que también militaba en el nacionalsocialismo.
+En uno sus ensayos publicados, presentó los llamados Teichmüller character, que hoy llevan su nombre.
+Para su habilitación, sin embargo, Teichmüller pasó del álgebra a la teoría de funciones, después de haber escuchado las conferencias de Rolf Nevanlinna sobre la teoría de la distribución del valor de Egon Ullrich en el verano de 1936, e incluso del propio Nevanlinna en el semestre de invierno de 1936, quien había venido a Gotinga por un año.
+En 1937 se trasladó a Berlín para trabajar con Ludwig Bieberbach, el principal representante de las matemáticas alemanas y especialista en teoría de funciones.
+Teichmüller estudió el los trabajos sobre mapeo cuasi-conforme de Herbert Grötzsch y Lars Ahlfors y habilitó en marzo de 1938 con el trabajo Investigaciones sobre mapeos conformes y cuasi-conformes con Bieberbach en Berlín.
+También publicó gran parte de su trabajo en la revista German Mathematics, que fue editada por Bieberbach.
+Inicialmente, sin embargo, no obtuvo un puesto en Berlín, sino que se financió a través de una subvención estatal.
+Solo a fines de 1939, cuando ya había sido reclutado como soldado, se convirtió en profesor no remunerado, y luego, en el transcurso de 1940, en profesor remunerado en la Universidad Friedrich Wilhelm de Berlín.
+También políticamente era completamente independiente de Bieberbach y sufría el contraste cada vez más evidente entre los matemáticos de Berlín y los de Göttingen.
+Por ejemplo, no siguió a Bieberbach en sus teorías privadas sobre la división de las matemáticas mismas en áreas "judías" (según Bieberbach, por ejemplo, álgebra abstracta) y áreas "arias".
+Alrededor del año 1938/39 escribió su obra Extremale quasi-conformal mappings and quadratic diferencials, con la que fundó la teoría de Teichmüller, la teoría de los módulos de las superficies de Riemann (los llamados espacios de Teichmüller), mediante la cual hizo importante uso de la teoría de aplicaciones cuasi-conformes.
+Principalmente tenía el carácter de un documento programático y apenas contenía pruebas, que fueron, sin embargo, provistas en trabajos posteriores.
+Tampoco abandonó el trabajo con el álgebra y publicó, por ejemplo, en 1939 un trabajo sobre el axioma de elección en álgebra.
+También continuó trabajando en la teoría de la distribución del valor.
+Desde julio de 1939 fue soldado, incluso en la invasión de Noruega de 1940.
+En el ejército, donde solo fue de soldado raso, continuó trabajando intensamente en matemáticas en su tiempo libre.
+En 1941 estaba de vuelta en Berlín, donde trabajó como criptoanalista en el Oberkommando der Wehrmacht junto con Ernst Witt, Georg Aumann, Alexander Aigner y Wolfgang Franz.
+También dio conferencias en la universidad en 1942/43.
+Después de la Batalla de Stalingrado, se presentó como voluntario para el frente oriental y se unió en mayo de 1943 a la división de infantería 355, dirigida por el Generalleutnant Dietrich Kraiss, que participó en la última gran ofensiva alemana en Kursk.
+En junio/julio de 1943 asistió a un curso de suboficiales en Crimea y luego estuvo brevemente de vacaciones en su país de origen en agosto.
+Mientras tanto, su unidad había sido rodeada y aniquilada en la lucha por Járkov.
+En septiembre Teichmüller intentó unirse a los restos de su división en el área de Poltava y desapareció, lo más probable es que haya muerto en el frente poco después de su regreso.
+Su división se disolvió en noviembre debido a las numerosas bajas.
+Otro trabajo pionero de él apareció póstumamente en 1944, en el que no solo introdujo estructuras analíticas reales sino también estructuras analíticas complejas en los espacios de Teichmüller, que, como su trabajo de 1939, quedó inconcluso (Superficies variables de Riemann).
+La teoría de los espacios de módulos de superficies riemannianas se remonta a Bernhard Riemann, quien afirmó que las superficies riemannianas compactas están parametrizadas por parámetros complejos 3g-3.
+El problema era probar la estructura analítica real o compleja de este espacio de parámetros (espacio modular).
+Teichmüller usó una asignación de mapeos cuasi-conformes extremos a diferenciales cuadráticos holomorfos definidos en las superficies de Riemann, una construcción con un fondo geométrico diferencial.
+Su teoría fue estrictamente comprobada después de la guerra por Lars Ahlfors y Lipman Bers en particular.
+La teoría también ha logrado una gran relevancia en la teoría de cuerdas desde la década de 1980 en adelante.
+En su carrera, Teichmüller escribió 34 artículos en alrededor de 6 años.
+Sus primeras investigaciones algebraicas se ocuparon de la teoría de la valoración de los campos y la estructura de las álgebras.
+En la teoría de la valoración, introdujo sistemas multiplicativos de representantes del campo residual de anillos de valoración, lo que condujo a una caracterización de la estructura de todo el campo en términos del campo residual.
+En la teoría de las álgebras, comenzó a generalizar el concepto de productos cruzados de campos de Emmy Noether a ciertos tipos de álgebras, obteniendo nuevos conocimientos sobre la estructura de las p-álgebras.
+Aunque a partir de 1937 sus principales intereses se trasladaron a la teoría de funciones geométricas, Teichmüller no abandonó el álgebra, en un artículo publicado en 1940, exploró pasos adicionales hacia una teoría de álgebras de Galois, lo que resultó en la introducción de un grupo que luego fue reconocido como un tercer grupo de cohomología de Galois
+Después de su habilitación en 1938, Teichmüller abordó la cuestión de la variación de las estructuras conformes en las superficies, planteada anteriormente por Bernhard Riemann, Henri Poincaré, Felix Klein y Robert Fricke.
+Su innovación más importante fue la introducción de mapeos cuasiconformes en el campo, utilizando ideas desarrolladas por primera vez por Herbert Grötzsch y Lars Ahlfors en diferentes contextos.
+La conjetura principal de Teichmüller establecía que la variación de la estructura conforme se puede realizar de forma única mediante mapeos cuasiconformales extremos.
+Teichmüller también estableció una conexión entre aplicaciones cuasiconformales extremas y diferenciales cuadráticos regulares utilizando una clase de diferenciales de Beltrami recíprocos relacionados, lo que lo llevó a otra conjetura que proclama la existencia de una correspondencia biyectiva bicontinua Φ entre un espacio T1, de partes reales de ciertos diferenciales de Beltrami recíprocos.
+y Mg, n el espacio de módulos de todas las estructuras conformes consideradas.
+De hecho, probó la existencia e inyectividad de Φ.
+Teichmüller también mostró la existencia de aplicaciones cuasiconformales extremas en el caso especial de ciertas regiones planas simplemente conectadas.
+Luego dio una prueba de existencia para la superficie de tipo (g, 0) mediante un argumento de continuidad del teorema de uniformización y la métrica de Finsler.
+Esto también pretendía ser un primer paso hacia una investigación más profunda de los espacios de módulos; en uno de sus últimos artículos esbozó una idea de cómo dotar a los espacios de módulos de una estructura analítica y cómo construir un espacio de fibra analítico de superficies de Riemann.
+Debido a su temprana muerte, Teichmüller no pudo desarrollar completamente la mayoría de sus ideas.
+Sin embargo, se convirtieron en fundamentales para el trabajo posterior de otros matemáticos.
+En 1984, el matemático suizo Kurt Strebel ofreció una descripción general del trabajo de 1982 de Lars Ahlfors y Frederick Gehring, Oswald Teichmüller: Gesammelte Abhandlungen:
+De 2007 a 2020, la Sociedad Matemática Europea publicó siete volúmenes del Manual de teoría de Teichmüller.
+Los volúmenes contienen traducciones al inglés de los artículos de Teichmüller sobre análisis complejo y sobre el campo denominado teoría de Teichmüller.
+Los volúmenes están editados por el profesor de la Universidad de Estrasburgo Athanase Papadopoulos.

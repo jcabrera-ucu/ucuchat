@@ -1,0 +1,46 @@
+e-Estonia, también llamado Estonia era digital o Estonia electrónica, es un movimiento y una iniciativa del Gobierno de Estonia y de sus políticos y dirigentes, a efectos de facilitar en todo lo posible y volver más eficientes las interacciones de los ciudadanos con el Estado, mediante el uso de soluciones electrónicas tales como los negocios electrónicos, la banca electrónica, el billete electrónico, las escuelas en línea (ciberescuelas), los estudios de Internet; así como también el uso de variadas aplicaciones móviles (app).
+Además, en un informe de Freedom House publicado en octubre de 2012, se afirma que Toomas Hendrik Ilves es el jefe de Estado del país con la Internet más libre del mundo.
+La principal conclusión de esta organización no gubernamental con sede en Washington (Distrito de Columbia), fue que hay una tendencia mundial hacia la restricción de Internet, lo que define la libertad en términos de acceso y ausencia de bloqueos en la red.
+En Estonia, más del 70% de la población tiene acceso a la web, hay un sofisticado sistema de identificación digital, y poner un negocio vía Internet es muy sencillo y muy cómodo en cuanto a su solicitud y su gestión.
+En 1991, Estonia restableció su independencia como nación soberana, anulando y derrotando de esta forma a la ocupación soviética.
+Antes de esto, se había hecho muy poco en cuanto al desarrollo de la tecnología en Estonia, y entre otras cosas, entonces menos de la mitad de su población disponía de una línea telefónica propia.
+Después de recuperar su independencia, el primer ministro Mart Laar, ayudó a preparar e impulsar al país a iniciar un período de modernización, estableciendo las bases necesarias para llevar a esa nación y a sus ciudadanos, de pleno a la era digital.
+Estas reformas y estos cambios que así se iniciaron, por cierto continúan con firmeza hasta hoy día.
+Al principio de esta transformación y cuando la misma era aún incipiente, Estonia recibió un ofrecimiento de Finlandia para darle gratuitamente su antigua central telefónica analógica, pero esto finalmente no fue aceptado, al decidirse por parte de los estonios que era mejor construir su propio sistema telefónico digital.
+En cuanto a la enseñanza, logró imponerse una iniciativa para proporcionar computadoras a las escuelas, otorgando a partir de 1998 acceso a Internet a todos los establecimientos escolares de Estonia.
+Y en el año 2000, el gobierno de Estonia declaró que el acceso a Internet era un derecho humano, lo que provocó su propagación también a las zonas rurales.
+Por su parte, el semanario estadounidense "The New Yorker", en su edición de fecha 18 de diciembre de 2017, asimismo ha destacado a Tarvi Martens como un referente fundacional en cuestiones vinculadas a la modernización de las infraestructuras sociales y por su acertada visión sobre la era digital que sobrevendrá, señalando a este gran pensador como el "abuelo putativo de las plataformas digitales en Estonia", y describiendo a este país báltico como "una república digital de 1,3 millones de personas y cuatro millones de hectáreas".
+A pesar de que Estonia es una nación con poca población y con un territorio no muy extenso, ha logrado ubicarse en una posición destacada tanto en cuanto a la utilización de las nuevas tecnologías, como en relación con la seguridad informática y a la llamada confianza digital, y como en cuanto a la protección del medio ambiente.
+Estos logros se explican por la prioridad que han dado en sus políticas a todo lo que implica digitalización, innovación, educación, y creatividad.
+En Estonia aspiran siempre a superarse, a hacer las cosas cada vez mejor, a estar siempre en la vanguardia, a ser solidarios con sus pares y preferentemente trabajar en equipo, y en esto posiblemente radican en lo fundamental las razones de sus éxitos.
+A finales de 2014, Estonia se convirtió en el primer país en ofrecer la residencia electrónica a personas de fuera del país, un paso que el gobierno estonio califica de "avance hacia la idea de un país sin fronteras."
+En virtud de este programa, los no residentes pueden solicitar que el Estado les expida una tarjeta de identificación inteligente que les proporcione el mismo acceso a los diversos servicios electrónicos de Estonia que se daría a un residente físico.
+El uso de la tarjeta para autenticarse con estos servicios requiere un código pin de cuatro dígitos.
+La tarjeta, junto con un código pin independiente, también permite a los e-residentes firmar digitalmente documentos a través de Internet, una práctica que es legalmente obligatoria en cualquier lugar de la UE.
+Aunque la residencia electrónica da acceso a estos servicios, no concede la residencia física, el derecho a entrar en el país, ni la posibilidad de utilizar la tarjeta de identificación inteligente como identificación física o como documento de viaje.
+No implica ningún apoyo del gobierno estonio para obtener la residencia electrónica.
+Tampoco es una forma de evitar el pago de impuestos en el país de residencia real: en su lugar, uno se convierte en contribuyente tanto en Estonia como en el país del que es ciudadano y residente fiscal.
+Los paramédicos estonios tienen acceso a una aplicación de ambulancia electrónica que, a través de X-Road, permite al personal médico el acceso inmediato a los historiales médicos de los pacientes.
+Desde 2010 se estableció la prescripción electrónica, y hoy en día el 99% de las recetas médicas se gestionan en línea; las reposiciones rutinarias pueden emitirse sin necesidad de cita previa.
+Desde 2020 se introdujo la atención infantil proactiva, lo que significa que los padres de un recién nacido ya no tienen que solicitar las prestaciones.
+e-Estonia habilitó el voto electrónico a través de la aplicación i-voting, que utilizaba un sistema basado en tarjetas de identificación para emitir votos a distancia.
+En 2014, aproximadamente un tercio de todos los votos se emitieron utilizando la aplicación.
+Desde el año 2000 los estonios pueden declarar los impuestos en línea.
+Ahora el 98% de las personas declaran sus ingresos electrónicamente.
+En el año 2022 también se estableció el m-Parking, que es un sistema que permite a los conductores pagar el aparcamiento de la ciudad a través del teléfono móvil.
+A partir de 2022 se introdujeron las reuniones del gabinete electrónico, que redujeron la burocracia gubernamental.
+- Impacto medioambiental: El uso de sistemas digitales permitió al gobierno estonio (y a los ciudadanos) prescindir del papel.
+Además, el consumo de energía se mantuvo similar al de antes de eGovt, ya que el uso de la tecnología de cadena de bloques privada requiere un bajo consumo de energía.
+- Eficiencia gubernamental: los sistemas eGovt han permitido al gobierno de Estonia procesar solicitudes, acceder a datos y muchas otras cosas más rápido que nunca.
+Esto no sólo hace que el gobierno pueda hacer más trabajo en menos tiempo, sino que también ha resultado eficiente para los ciudadanos, ya que han pasado mucho menos tiempo en la tramitación de asuntos personales.
+- Beneficios para los ciudadanos: Además de la eficiencia mencionada, el sistema eGovt también ha aumentado la transparencia, la responsabilidad y la equidad.
+Los ciudadanos tienen una visión mucho más clara de cómo se desarrollan los procesos gubernamentales y pueden ver y controlar dónde y cómo se utilizan sus datos.
+Con esa transparencia, también se rinden cuentas a los ciudadanos, lo cual es una razón importante por la que los estonios tienen tanta fe y se sienten satisfechos con su gobierno.
+Por último, los sistemas de eGovt son iguales para todos, en términos de oportunidades y funcionalidad.
+Los ciudadanos no reciben un trato diferente en función de la edad, el sexo, la zona en la que viven, la ocupación,... Los sistemas siguen estando disponibles para todos y todos reciben el mismo trato dentro del sistema.
+- Impacto social: La puesta a disposición de los procesos gubernamentales en línea no sólo los hizo más eficientes, sino que también hizo que estos servicios fueran accesibles a las zonas rurales y a los ciudadanos que antes eran más difíciles de alcanzar.
+- CRM (gestión de las relaciones con los ciudadanos): El uso de sistemas digitales permite al gobierno tener una línea directa de contacto con cada ciudadano (y viceversa).
+Además, tener tantos procesos automatizados y personalizados para cada individuo ha ayudado al gobierno a construir un perfil personal significativo para cada ciudadano.
+Esto puede ser útil en muchos casos diferentes, igual que se aplicaría el CRM en un contexto empresarial.
+El sistema eGovt de Estonia es un sistema eGovt en el verdadero sentido de la palabra.
+Han aprovechado las tecnologías existentes y han hecho que el sistema sea increíblemente útil y no se limite a digitalizar la parte visible para los ciudadanos.

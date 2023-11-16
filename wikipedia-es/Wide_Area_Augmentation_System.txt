@@ -1,0 +1,26 @@
+WAAS (Wide Area Augmentation System) es un Sistema de Aumentación Basado en Satélites desarrollado por Estados Unidos, a través de la colaboración de Federal Aviation Administration (FAA) y el Department of Transportation (DOT).
+Consiste en complementar el sistema de satélites GPS con estaciones terrestres que permiten corregir la precisión y la confianza en las coordenadas de posición adquiridas (no implica necesariamente mejor ubicación en el mapa).
+El sistema mejora el "cálculo" de las coordenadas adquiridas compensando las causas típicas que afectan al sistema GPS: errores de calendario (desajustes del reloj interno del satélite), errores orbitales (error del satélite en la estimación de su propia posición), influencia atmosférica (con mayor ionización peores serán las condiciones de estimación).
+Mientras el sistema GPS posee una precisión de 10 metros el 95% de las veces, mediante WAAS se mejora a una precisión de 5 metros el 95% de los casos.
+No obstante, aunque el valor nominal es el doble, este concepto es estadístico.
+El área de cobertura actual de WAASS se limita a EE.
+UU., al no existir estaciones terrestres requeridas por el sistema fuera de este país (ver más abajo).
+Para el típico uso en navegadores para automóviles, la mejora de la estimación de 5 metros es poco relevante, dado la menor precisión de la cartografía que integran estos navegadores, las características técnicas de estos (bajas prestaciones en cuanto a antena, programa intérprete, resolución de pantalla, reloj interno) y el mayor consumo de batería que implica el uso de WAAS.
+El sistema consta de 59 estaciones de vigilancia, llamadas estaciones de referencia de área amplia o WRS (Wide-area Reference Stations), 2 estaciones maestras o WMS (Wide-area Master Stations), 6 antenas para la retransmisión de datos GES (Ground Earth Stations) y 3 satélites geoestacionarios.
+Las 24 estaciones de vigilancia están instaladas con aproximadamente 800 kilómetros de separación a lo largo de los Estados Unidos, Alaska, Hawái y Puerto Rico.
+Este sistema usa estaciones de referencia esparcidas con aproximadamente 500 a 1000 km de separación a lo largo de la región a cubrir.
+La separación de las estaciones influirá en el grado de precisión del sistema WAAS.
+Esto se corresponde de alguna manera con las estaciones de corrección diferenciales del sistema DGPS marino de los Guardacostas de los Estados Unidos, pero no transmiten las señales de corrección ellas mismas.
+Lo que hacen es observar las señales GPS, las condiciones ionosféricas y la señal de corrección WAAS y transmitir los datos a las estaciones maestras.
+Cada una de las estaciones bases estará compuesta por una unidad principal y dos de reserva para dar un alto grado de fiabilidad por medio de la redundancia.
+Todas las estaciones WRS contienen al menos un receptor de frecuencia dual (L1 y L2) conectado a un oscilador de cesio, (reloj de gran precisión), un sensor meteorológico, un procesador y hardware de red para transmisión de datos ethernet hacia las estaciones maestras.
+Las estaciones maestras del sistema WAAS toman los datos de las estaciones de referencia (WRS), verifican las señales de corrección anteriores y generan una nueva señal de corrección WAAS.
+Esta señal de corrección es transmitida a través de las estaciones terrestres a los satélites geoestacionarios, como los de Inmarsat o satélites exclusivos, para ser enviadas a los receptores.
+La WMS es responsable por filtrar todas las observaciones GPS hechas desde los receptores de referencia, estimando los estados de los modelos de error tanto ionosférico, de reloj, efemérides, etc. y calculando estimaciones y generando finalmente los mensajes WAAS (trama de 250 bit) que serán enviados y aplicados a los cálculos del seudo-range hechos en los receptores WAAS a bordo de las aeronaves.
+Las estaciones de referencia también mostraran información de estatus de la constelación de satélites GPS al operador.
+Son estaciones terrestres encargadas de recibir los mensajes WAAS de corrección de la WMS y retransmitirla a los satélites geoestacionarios, los que a su vez transmitirán las correcciones hacia los receptores WAAS.
+Los satélites geoestacionarios transmiten la señal de corrección en la banda de frecuencia L1 del GPS, pero usan un código seudo-aleatorio (PRC) diferente al de los satélites GPS.
+Las antenas receptoras del WAAS podrían aparentemente ser incorporadas directamente en el receptor GPS.
+Debido a que el sistema debe brindar integridad, disponibilidad, continuidad y precisión se está pensando en el uso de satélites geoestacionarios de uso exclusivo para este sistema, estos satélites además de transmitir las correcciones en radiodifusión, también realizarán funciones de satélites GPS geoestacionarios, garantizando contar con el mínimo número de satélites las 24 horas del día, para esto se planea usar otra banda de frecuencia como la L5 para evitar la interferencia con la constelación de 24 satélites no estacionarios del GPS.
+Son equipos receptores GPS con la capacidad de poder recibir la información de corrección WAAS de los satélites geoestacionarios del sistema WAAS.
+Las correcciones WAAS (mensajes de 250 bits) recibidas serán aplicados a los resultados de los cálculos de la seudodistancia para luego determinar la posición GPS.

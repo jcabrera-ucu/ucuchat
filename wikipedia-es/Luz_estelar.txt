@@ -1,0 +1,53 @@
+La luz estelar es la luz emitida por las estrellas.
+Por lo general, se refiere a la radiación electromagnética visible de estrellas distintas del Sol observables desde la Tierra durante la noche, aunque un componente de la luz estelar se puede observar desde la Tierra durante el día.
+La luz solar es el término utilizado para la luz estelar del Sol observada durante el día.
+Durante la noche, albedo describe los reflejos solares de otros objetos del Sistema Solar, incluida la luz de la luna.
+La observación y medición de la luz de las estrellas a través de telescopios es la base de muchos campos de la astronomía, incluyendo fotometría y espectroscopía estelar.
+Hiparco no tenía un telescopio ni ningún instrumento que pudiera medir con precisión el brillo aparente, por lo que simplemente hizo estimaciones con los ojos.
+Clasificó las estrellas en seis categorías de brillo, que llamó magnitudes.
+Se refería a las estrellas más brillantes en su catálogo como estrellas de primera magnitud, que eran las estrellas más brillantes y aquellas tan débiles que apenas podía verlas eran estrellas de sexta magnitud.
+Starlight también es una parte notable de la experiencia personal y de la cultura humana, ya que impacta en una amplia gama de actividades que incluyen poesía, astronomía, y estrategia militar.
+El ejército de los Estados Unidos gastó millones de dólares en la década de 1950 en adelante para desarrollar un instrumentos de visión nocturna, que podría amplificar la luz de las estrellas, la luz de la luna filtrada por las nubes y la fluorescencia de la vegetación en descomposición unas 50,000 veces para permitir que una persona vea en la noche.
+A diferencia del sistema de infrarrojos activos desarrollado anteriormente, como el francotirador, era un dispositivo pasivo y no requería emisión de luz adicional para ver.
+El color promedio de la luz de las estrellas en el universo observable es un tono de blanco amarillento que se le ha dado el nombre de Cosmic Latte.
+La espectroscopía Starlight, examen de los espectros estelares, fue iniciada por Joseph Fraunhofer en 1814.
+Se puede entender que Starlight está compuesta por tres tipos de espectros principales, espectro continuo, espectro de emisión y espectro de absorción.
+La iluminancia de la luz de las estrellas coincide con la iluminancia mínima del ojo humano (~ 0.1 mlx) mientras que la luz de la luna coincide con la iluminancia mínima de la visión del color del ojo humano (~ 50 mlx).
+Una de las estrellas más antiguas identificadas hasta el momento, la más antigua pero no la más distante en este caso, fue identificada en 2014: mientras que "solo" a 6,000 años luz de distancia, la estrella SMSS J031300.36−670839.3 se determinó que era hace 13.8 mil millones de años, o más o menos la misma edad que el universo mismo.
+La luz de las estrellas que brilla en la Tierra incluiría esta estrella.
+La fotografía nocturna incluye fotografiar sujetos iluminados principalmente por la luz de las estrellas.
+Tomar directamente imágenes del cielo nocturno también es parte de la astrofotografía.
+Al igual que otras fotografías, se puede utilizar para la búsqueda de la ciencia y/o el ocio.
+Los temas incluyen animales nocturnos.
+En muchos casos, la fotografía a la luz de las estrellas también puede superponerse con la necesidad de comprender el impacto de la luz de la luna.
+Se ha observado que la intensidad de la luz de inicio es una función de su polarización.
+La luz de las estrellas se polariza parcialmente de forma lineal mediante la dispersión de granos de polvo interestelar alargados cuyos ejes largos tienden a orientarse perpendicularmente al campo magnético galáctico.
+Según el mecanismo de Davis-Greenstein, los granos giran rápidamente con su eje de rotación a lo largo del campo magnético.
+Se transmite luz polarizada a lo largo de la dirección del campo magnético perpendicular a la línea de visión, mientras que se bloquea la luz polarizada en el plano definido por el grano giratorio.
+Por lo tanto, la dirección de polarización se puede utilizar para mapear el campo magnético galáctico.
+El grado de polarización es del orden del 1,5% para las estrellas a una distancia de 1.000 parsecs.
+Normalmente, una fracción mucho más pequeña de polarización circular se encuentra en la luz de las estrellas.
+Serkowski, Mathewson y Ford midieron la polarización de 180 estrellas en filtros UBVR.
+Encontraron una polarización circular fraccional máxima de, en el filtro R.
+La explicación es que el medio interestelar es ópticamente delgado.
+La luz de las estrellas que viaja a través de una columna de kiloparsec experimenta aproximadamente una magnitud de extinción, de modo que la profundidad óptica ~ 1.
+Una profundidad óptica de 1 corresponde a un camino libre medio, que es la distancia, en promedio, que viaja un fotón antes de dispersarse desde un grano de polvo.
+Entonces, en promedio, un fotón de luz estelar se dispersa de un solo grano interestelar; La dispersión múltiple (que produce polarización circular) es mucho menos probable.
+Observacionalmente, la fracción de polarización lineal p ~ 0.015 de una sola dispersión; polarización circular de dispersión múltiple va como p^{2}, por lo que esperamos una fracción polarizada circularmente de.
+La luz de las estrellas de tipo temprano tiene muy poca polarización intrínseca.
+Kemp y col. midió la polarización óptica del Sol a la sensibilidad de ; encontraron límites superiores de 10^{-6} para ambos p (fracción de polarización lineal) y q (fracción de polarización circular).
+El medio interestelar puede producir luz polarizada circularmente (CP) a partir de luz no polarizada mediante dispersión secuencial de granos interestelares alargados alineados en diferentes direcciones.
+Una posibilidad es la alineación de grano torcido a lo largo de la línea de visión debido a la variación en el campo magnético galáctico; otro es la línea de visión que pasa a través de múltiples nubes.
+Para estos mecanismos, la fracción CP máxima esperada es, dónde p es la fracción de luz linealmente polarizada (LP).
+Kemp y Wolstencroft encontraron CP en seis estrellas de tipo temprano (sin polarización intrínseca), que pudieron atribuir al primer mecanismo mencionado anteriormente.
+En todos los casos, a la luz azul
+Martin demostró que el medio interestelar puede convertir la luz LP en CP dispersándose de granos interestelares parcialmente alineados que tienen un índice complejo de refracción.
+Martin, Illing y Angel observaron este efecto para la luz de la Nebulosa del Cangrejo.
+Un entorno circunestelar ópticamente grueso puede producir CP mucho más grande que el medio interestelar.
+Martin sugirió que la luz LP puede convertirse en CP cerca de una estrella por dispersión múltiple en una nube de polvo circunestelar asimétrica ópticamente gruesa.
+Bastien, Robert y Nadeau invocaron este mecanismo para explicar el PC medido en 6 estrellas T-Tauri a una longitud de onda de 768 nm.
+Encontraron un CP máximo de.
+Serkowski midió CP de para el supergigante rojo NML Cygni y  en la estrella M de período largo VY Canis Majoris en la banda H, atribuyendo el CP a la dispersión múltiple en envolturas circunestelares.
+Chrysostomou y col. encontró CP con q de hasta 0.17 en la región de formación estelar Orion OMC-1, y lo explicó por reflejo de la luz de las estrellas de granos oblatos alineados en la nebulosa polvorienta.
+La polarización circular de la luz zodiacal y la luz galáctica difusa de la Vía Láctea se midió a una longitud de onda de 550 nm por Wolstencroft y Kemp.
+Encontraron valores de, que es más alto que para las estrellas ordinarias, presumiblemente debido a la dispersión múltiple de los granos de polvo.

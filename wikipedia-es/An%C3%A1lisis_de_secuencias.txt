@@ -1,0 +1,53 @@
+El análisis de secuencias en biología molecular implica la identificación de la secuencia de nucleótidos en un ácido nucleico, o de aminoácidos en un péptido o proteína.
+Una vez que se ha obtenido una muestra, las secuencias de ADN pueden producirse automáticamente por máquina y el resultado puede visualizarse en el ordenador.
+La interpretación de estos resultados sigue siendo una tarea para los seres humanos.
+La información del análisis de secuencias se utiliza en muchos campos de la biología.
+Proporciona información sobre la relación entre organismos individuales o entre grupos de organismos.
+Demuestra cuán estrechamente relacionados están.
+Una secuencia de ADN es la secuencia de nucleótidos en una molécula de ADN.
+Se escribe como una sucesión de letras que representan la estructura primaria de una molécula o hebra de ADN.
+Si es funcional, tal secuencia lleva la información para la secuencia de aminoácidos en una molécula de proteína.
+Las posibles letras son A, C, G y T, que representan las cuatro bases nucleótidas de una cadena de ADN: adenina, citosina, guanina y timina.
+Las secuencias se imprimen una al lado de otra, sin espacios en blanco, como en la secuencia AAAGTCTGAC.
+El estudio del ARN y las proteínas es más complejo.
+La estructura general del ADN es simple y predecible (doble hélice).
+El estudio del ARN y las proteínas debe incluir un estudio de su estructura tridimensional, que es variada e influye en su funcionamiento.
+Hasta cierto punto esto puede ser asistido por ordenador, pero tiene que ser verificado en cada caso.
+La información sobre las secuencias se mantiene en bases de datos.
+Desde el desarrollo de la producción rápida de secuencias de genes y proteínas durante la década de 1990, la tasa de adición de nuevas secuencias a las bases de datos aumenta constantemente.
+Se han realizado análisis genómicos completos de más de 800 especies y cepas.
+El trabajo es realizado por una máquina, el secuenciador de ADN, que analiza las señales de luz de los fluorocromos adheridos a los nucleótidos.
+Este tipo de trabajo es cada vez más barato.
+Hasta diciembre de 2012, se ha completado el análisis del genoma completo de entre 800 y 900 especies y cepas de especies vivas.
+Los números son aproximados y cambiantes.
+El genoma humano se almacena en 23 pares de cromosomas en el núcleo celular y en el ADN mitocondrial pequeño.
+Ahora se sabe mucho sobre las secuencias de ADN que están en nuestros cromosomas.
+Lo que el ADN realmente hace ahora se conoce en parte.
+La aplicación práctica de estos conocimientos no ha hecho más que empezar.
+El Proyecto Genoma Humano (HGP) produjo una secuencia de referencia que se utiliza en todo el mundo en biología y medicina.
+Nature publicó el informe del proyecto financiado con fondos públicos, y Science publicó el artículo de Celera.
+Estos documentos describieron cómo se produjo el borrador de la secuencia y dieron un análisis de la misma.
+Se anunciaron borradores mejorados en 2003 y 2005, completando hasta ≈92% de la secuencia.
+El último proyecto ENCODE estudia la forma en que se controlan los genes.
+No es necesario tener secuencias completas del genoma para el trabajo forense, como la identificación de un criminal a partir de rastros de ADN dejados en la escena del crimen, o para casos de paternidad.
+En la actualidad, la secuenciación del genoma completo sigue siendo muy costosa, pero afortunadamente, existen métodos más sencillos y baratos.
+La idea básica es observar ciertos loci (lugares) en el genoma que son altamente variables entre las personas.
+De 10 a 15 de estos loci son necesarios para una coincidencia, y los detalles legales difieren de un país a otro.
+Una coincidencia entre una muestra y un individuo sospechoso hace extremadamente probable que el individuo fuera la fuente de la muestra.
+Estas pruebas serían entonces la base de la acusación de un delito.
+Un análisis similar mostraría que es muy probable que un hombre sea el padre de un niño.
+Esta es realmente una forma moderna de hacer lo que se hacía con los grupos sanguíneos antes de que se pudieran analizar los detalles del ADN.
+El ADN de cada persona contiene dos alelos de un gen particular o "marcador": uno del padre y otro de la madre.
+Los'marcadores' son genes elegidos por tener varios alelos diferentes que aparecen con frecuencia en la población.
+La siguiente tabla es de un experimento comercial de prueba de paternidad por ADN.
+Muestra cómo se demuestra la relación entre padres e hijos con cinco marcadores:
+Los resultados muestran que el ADN del niño y del supuesto padre coinciden con estos cinco marcadores.
+Los resultados completos de la prueba mostraron esta correlación en 16 marcadores entre el niño y el hombre probado.
+Si un caso se examina en el tribunal, un científico forense daría evidencia de la probabilidad de obtener ese resultado por casualidad.
+Existen leyes estatales sobre el análisis de ADN en los 50 estados de los Estados Unidos.
+Puede encontrar información detallada sobre las leyes de bases de datos en cada estado en el sitio web de la Conferencia Nacional de Legislaturas Estatales.
+El ADN antiguo ha sido recuperado de algunas fuentes.
+El récord de supervivencia del ADN adecuado para el análisis de secuencias es de 700.000 años.
+Un esqueleto de caballo enterrado en permafrost ha proporcionado a los huesos algo de ADN que sobrevive.
+La secuencia estaba solo un 70% completa, pero era suficiente para que los investigadores dijeran "No parecería un caballo tal y como lo conocemos... pero esperaríamos que fuera un caballo de un solo dedo".
+Para comparar, los investigadores tuvieron acceso a secuencias de ADN de caballos modernos, burros y el caballo de Przewalski.

@@ -1,0 +1,268 @@
+El F-15E Strike Eagle es un cazabombardero todo tiempo fabricado por la compañía estadounidense McDonnell Douglas (ahora Boeing IDS) como un derivado del caza de superioridad aérea F-15 Eagle.
+Fue diseñado en los años 1980 para llevar a cabo misiones de interdicción de largo alcance a altas velocidades sin depender de cazas de escolta o aviones de guerra electrónica, y sustituir al F-111 Aardvark en la Fuerza Aérea de los Estados Unidos.
+El Strike Eagle demostró su valía en la Operación Tormenta del Desierto y en la Operación Fuerza Aliada, llevando a cabo ataques en profundidad contra objetivos estratégicos, realizando patrullas aéreas de combate, y proporcionando apoyo aéreo cercano a las tropas de la Coalición.
+También entró en acción en conflictos posteriores como la Invasión de Irak de 2003, y ha sido exportado a varios países.
+Los F-15E Strike Eagle estadounidenses pueden ser distinguidos de otras variantes del F-15 Eagle por su camuflaje más oscuro y los tanques de combustible conformables que monta junto a las tomas de aire de los motores.
+El origen de este avión militar se remonta a 1979, cuando McDonnell Douglas y el fabricante del radar del F-15, Hughes, se asociaron para desarrollar de forma privada una versión de interdicción del caza de superioridad aérea F-15 Eagle.
+En marzo de 1981, la Fuerza Aérea de los Estados Unidos anunció el programa Enhanced Tactical Fighter (ETF) con intención de buscar un reemplazo para el F-111 Aardvark.
+El concepto preveía un avión capaz de realizar misiones de interdicción profunda sin necesitar el apoyo adicional de cazas de escolta o aviones de guerra electrónica.
+General Dynamics presentó el F-16XL; mientras que McDonnell Douglas presentó el F-15E, una variante biplaza del F-15 Eagle que posteriormente recibió el sobrenombre de Strike Eagle («águila de ataque»).
+Aunque los dos aviones estaban compitiendo por la misma misión, eran bastante diferentes en el enfoque de diseño: el F-16XL era un rediseño que tenía diferencias estructurales y aerodinámicas importantes con respecto al F-16 original que requerían un mayor esfuerzo, tiempo y dinero para entrar en producción; mientras que el F-15E era básicamente un F-15 biplaza de entrenamiento con el asiento trasero modificada para incorporar los instrumentos de ataque a tierra.
+El prototipo del F-15E, que voló por primera vez el 11 de diciembre de 1986, fue creado a partir de la modificación del segundo ejemplar de la versión de entrenamiento F-15B, con el número de serie 71-0291.
+El 24 de febrero de 1984, la Fuerza Aérea otorgó el contrato ETF a McDonnell Douglas.
+Una de las principales razones por las que la Fuerza Aérea seleccionó el F-15E sobre el F-16XL, era que el F-15E tenía unos costes de desarrolló un 40% menores que el modelo de General Dynamics.
+Otras razones eran el mayor margen de desarrollo del F-15E y su mejor supervivencia por ser bimotor.
+La redundancia en la planta propulsora puede resultar muy útil para un avión cuya misión implica operar al alcance de la artillería antiaérea y los misiles superficie-aire del enemigo, además de las habituales amenazas de los aviones de caza e interceptores.
+La Fuerza Aérea inicialmente planeó adquirir 392 ejemplares del F-15E, y dio la orden de iniciar la producción en serie del Strike Eagle.
+El primer vuelo del F-15E se produjo el 11 de diciembre de 1986.
+El primer ejemplar de producción en serie del F-15E fue entregado a la Fuerza Aérea estadounidense en abril de 1988.
+La producción continuó durante los años 1990 hasta el año 2001 con un total de 236 aparatos fabricados para la Fuerza Aérea de los Estados Unidos.
+También se desarrollaron versiones del F-15E para la exportación a Israel (F-15I), Corea del Sur (F-15K), Arabia Saudita (F-15S) y Singapur (F-15SG).
+En 2007 se aprobó que el F-15E fuera actualizado con el radar de barrido electrónico activo (radar AESA) Raytheon APG-82, el primer radar de prueba fue entregado a Boeing en 2010.
+Este nuevo radar combina el procesador del radar AESA APG-79 usado en el F/A-18E/F Super Hornet con la antena del APG-63(V)3, también de barrido electrónico activo, con el que está siendo equipado en el F-15C.
+Esta actualización forma parte del programa conocido como «Programa de Modernización del Radar del F-15E».
+El nuevo radar fue denominado APG-63(V)4 hasta que recibió la designación APG-82 en 2009.
+Avión de combate pesado, bimotor y de largo alcance, con doble timón vertical y ala alta, de cabina biplaza, con mejoras de diseño para las misiones de ataque.
+La misión de ataque en profundidad del F-15E supone un cambio radical con respecto a la intención original del F-15, ya que fue diseñado como un caza de superioridad aérea bajo el principio de «ni una libra de aire-tierra».
+La estructura básica, sin embargo, resultó ser lo suficientemente versátil para producir un muy capaz cazabombardero.
+El F-15E fue diseñado para el ataque a tierra, pero mantiene la letalidad en el combate aire-aire del F-15 Eagle, y puede defenderse a sí mismo de los cazas enemigos.
+El prototipo del F-15E fue una modificación de un biplaza F-15B.
+El F-15E, a pesar de sus orígenes, incluye importantes cambios estructurales y unos motores bastante más potentes.
+El asiento trasero está equipado para un oficial de sistemas de armas (en inglés: Weapon Systems Officer; abreviado como WSO, pronunciado 'wizzo') cuya función es manejar la nueva aviónica aire-superficie.
+El WSO utiliza múltiples pantallas que muestran información del radar, de guerra electrónica o de sensores infrarrojos, monitoriza el estado de la aeronave, de las armas y posibles amenazas, selecciona blancos, y utiliza una mapa móvil electrónico para navegar.
+Dispone de dos controles manuales para seleccionar las pantallas e interaccionar con su información.
+Las visualizaciones pueden ser desplazadas de una pantalla a otra, eligiendo en un menú de opciones de visualización.
+A diferencias de aviones militares biplazas anteriores, como el F-14 Tomcat y las variantes navales del F-4 Phantom II, en los que el tripulante trasero carecía de controles de vuelo, el asiento trasero de la cabina del F-15E está equipada con su propia palanca de control y mando de aceleración para que el WSO puede realizar la labor de pilotaje, aunque con visibilidad reducida.
+Para aumentar su alcance, el F-15E está equipado bajo los encastres alares con dos tanques de combustible conformables (CFT) que anclados al fuselaje, producen una menor resistencia aerodinámica que los tanques de combustible externos convencionales que son anclados en los pilones bajo el fuselaje y las alas.
+Cada uno de los dos CFT contiene 2800 litros de combustible y dispone de seis puntos de anclaje de armas en dos filas de tres.
+Sin embargo, a diferencia de los tanques de combustible externos convencionales, los CFT no pueden ser lanzados en vuelo.
+Por tanto, el aumento del alcance tiene un coste en el rendimiento del avión respecto a una configuración totalmente «limpia» sin tanques externos, debido al peso y la resistencia adicionales que suponen.
+Unos tanques similares pueden ser montados en el F-15C/D y sus versiones de exportación, y la Fuerza Aérea de Israel hace uso de esta opción en sus cazas F-15 así como en su variante F-15I del Strike Eagle, pero el F-15E es la única versión que en Estados Unidos es equipada rutinariamente con los tanques conformables.
+El sistema táctico de guerra electrónica (TEWS, por sus siglas en inglés) del Strike Eagle integra todos los equipos de contramedidas de la nave: receptores de alerta radar (RWR), interferidor de radar, radar, y dispensadores de contramedidas antirradar y de bengalas; estos están todos vinculados al TEWS para proporcionar una defensa integral contra la detección y el seguimiento.
+Este sistema incluye un contenedor de contramedidas electrónicas ALQ-131 montado externamente en el pilón central si es necesario.
+Un sistema de navegación inercial usa un giróscopo láser para monitorizar continuamente la posición de la aeronave y proporcionar la información al ordenador central y a otros sistemas del avión, incluyendo un mapa móvil digital en panel de cada tripulante.
+BAE Systems produce la terminal de enlace de datos MIDS que mejora la conciencia situacional de los tripulantes del Strike Eagle mediante la transferencia de datos por Link 16.
+El sistema de radar APG-70 permite a los tripulantes detectar blancos terrestres desde largas distancias.
+Una característica de este sistema es que después de realizar un barrido de una zona objetivo, la tripulación congela el mapa aire-tierra para a continuación volver al modo aire-aire para despejar las amenazas aéreas.
+Durante el lanzamiento de armamento aire-superficie, el piloto es capaz de detectar, designar y atacar blancos aire-aire mientras el Oficial de Sistemas de Armas designa los blancos terrestres.
+El APG-70 va a ser reemplazado por el radar AESA (barrido electrónico activo) AN/APG-82(v)1, modelo que comenzó las pruebas en vuelo en enero de 2010 y estaba planeado que alcanzase la capacidad operacional en 2014.
+El sistema infrarrojo de navegación a baja cota y búsqueda de blancos en vuelo nocturno LANTIRN, montado externamente, consiste en dos contenedores anclados bajo las tomas de aire de los motores, uno de navegación y otro de búsqueda de blancos.
+Permite al cazabombardero volar a bajas altitudes, por la noche y en cualquier condición meteorológica, para atacar blancos terrestres con una serie de armamento guiado de precisión o no guiado.
+El LANTIRN le ofrece al F-15E una excepcional precisión en su lanzamiento de armamento tanto de día como de noche e incluso con mal tiempo.
+Por la noche, la imagen de vídeo del LANTIRN puede ser proyectada en la pantalla de visualización frontal HUD, obteniendo una imagen infrarroja del contorno terrestre.
+El contenedor de navegación contiene un radar de seguimiento del terreno que permite que el piloto pueda volar de forma segura a muy baja altitud siguiendo las indicaciones que aparecen en la pantalla de visualización frontal (HUD).
+Este sistema también puede ser acoplado al piloto automático del avión para obtener una capacidad de seguimiento del terreno automática, en la que el piloto no tiene que manejar los controles.
+Adicionalmente, el contenedor contiene un sensor infrarrojo de barrido frontal (FLIR) que, proyectado en el HUD del piloto, se usa en las operaciones nocturnas o en situaciones de baja visibilidad.
+El contenedor de navegación AN/AAQ-13 está instalado bajo la toma de aire del motor derecho.
+El contenedor de búsqueda de blancos contiene un designador láser y un sistema de rastreo que marcan a un blanco enemigo para su destrucción a distancias de hasta 16 km. Una vez se ha iniciado el rastreo, la información de designación es transferida automáticamente a los sistemas de guiado del armamento, ya sean misiles aire-superficie guiados por infrarrojos o bombas guiadas por láser.
+El contenedor designador de blancos está montado debajo de la toma de aire del motor izquierdo; y las configuraciones posibles pueden ser con el contenedor de localización AN/AAQ-14 del sistema LANTIRN, o también con el AN/AAQ-28 LITENING, o bien el AN/AAQ-33 Sniper.
+Para las misiones de ataque aire-superficie, el F-15E puede portar la mayoría de armas disponibles en el inventario de la Fuerza Aérea de los Estados Unidos.
+También puede ser armado con misiles aire-aire de corto alcance AIM-9 Sidewinder y medio alcance AIM-7 Sparrow o AIM-120 AMRAAM para su propia defensa (aunque el Strike Eagle mantiene capacidades de combate aéreo del Eagle, rara vez es utilizado para misiones de ese tipo).
+Al igual que el F-15C, el Strike Eagle también dispone de un cañón automático General Electric M61A1 Vulcan de 20 mm montado internamente en el encastre alar derecho, con una munición de 650 proyectiles, que es efectivo contra aviones enemigos y objetivos terrestres «blandos».
+🇺🇸 - 🇬🇧
+El F-15E Strike Eagle es un cazabombardero todo tiempo biplaza de largo alcance para la Fuerza Aérea de los Estados Unidos.
+Fueron construidos un total de 236 unidades desde 1985 hasta 2001.
+El F-15I Ra'am (su apodo hebreo significa «trueno») es la versión del F-15E utilizada por la Fuerza Aérea Israelí.
+Tras la Guerra del Golfo en 1991, en la que las ciudades israelíes fueron atacadas por misiles Scud lanzados desde Irak, el gobierno de Israel decidió que necesitaba un avión de ataque de largo alcance.
+En 1993, Israel emitió una solicitud de información pidiendo propuestas a las compañías aeronáuticas interesadas en producir el nuevo cazabombardero israelí.
+En respuesta a esto, Lockheed Martin ofreció una versión del F-16 Fighting Falcon y McDonnell Douglas ofreció tanto el F/A-18 Hornet como el F-15E Strike Eagle.
+El 27 de enero de 1994, el gobierno israelí anunció su intención de adquirir 21 cazabombarderos F-15E.
+El diseño F-15E fue modificado según los requerimientos de la Fuerza Aérea Israelí, incorporando también el sistema de pantalla y mira montada en casco DASH de origen israelí, dando lugar a la versión F-15I.
+El 12 de mayo de 1994, el gobierno de los Estados Unidos autorizó la venta de hasta 25 aviones F-15I a Israel.
+En noviembre de 1995, Israel aumentó el pedido en 4 unidades, alcanzando el límite impuesto por Estados Unidos.
+Los 25 aparatos F-15I fueron fabricados entre 1996 y 1998.
+El F-15I Ra'am es muy similar al F-15E, pero tiente algunos sistemas de aviónica específicamente adaptados para cumplir los requerimientos de la Fuerza Aérea Israelí.
+Careciendo en un principio de los contenedores de navegación y designación de blancos AN/AAQ-13 y AN/AAQ-14 LANTIRN que usa el F-15E, para facilitar los ataques nocturnos los F-15I inicialmente fueron equipados con los contenedores de designación de blancos Martin Marietta Sharpshooter, que era una versión degradada del AN/AAQ-14 LANTIRN creada para los F-16 israelíes.
+Como el Sharpshooter era menos capaz que el sistema de navegación y designación LANTIRN, una vez que Estados Unidos permitió a Israel comprar el LANTIRN, éste ejerció la compra.
+Esta adquisición completó el equipo de visión nocturna del F-15I, siendo recibidos finalmente 30 sistemas LANTIRN.
+Tras esas modificaciones, la única diferencia importante que diferencia al F-15I del F-15E es que la versión israelí fue entregada sin receptores de alerta radar.
+Israel instaló su propio equipo de guerra electrónica en sus F-15.
+La carencia en electrónica del F-15I fue reemplazada por el sistema de guerra electrónica integrado Elisra SPS-2110 de origen israelí.
+También incorporó un ordenador central y un sistema de navegación GPS/INS.
+Todos los sensores del avión pueden ser vinculados al conjunto de pantalla y mira del casco Elbit Systems DASH (Display And Sight Helmet), ofreciendo a ambos miembros de la tripulación un eficiente mecanismo de designación de blancos que el F-15E estándar no posee.
+Los sistemas avanzados del Ra'am incluyen un radar APG-70 con capacidad de cartografiado del terreno.
+La imagen nítida que proporciona el APG-70, independientemente de las condiciones climáticas y de luz, hace que sea posible localizar blancos que de otra manera serían muy difíciles de encontrar (por ejemplo baterías de misiles, carros de combate y estructuras) incluso bajo condiciones tan adversas como niebla espesa, lluvia intensa o noches sin luna.
+El radar puede detectar blancos del tamaño de un avión comercial grande a 278 kilómetros, y blancos del tamaño de un caza a 104 km. El Ra'am está propulsado por motores Pratt & Whitney F100-PW-229.
+El F-15SE Silent Eagle es la versión mejorada y actualizada de los aviones F-15E Strike Eagle desarrollada para potenciales clientes internacionales.
+El diseño añade nuevas tecnologías y características para hacer posible que el avión gane contratos de compra en todo el mundo (hay que recordar que Boeing perdió los concursos para la nueva generación de cazas frente a Lockheed Martin, que fabrica los F-22 y F-35).
+Esta versión es la base de las versiones adaptadas para Israel (F-15I), Corea del Sur (F-15K) y Singapur (F-15SG).
+Se cree que Catar también se equipará con los F-15SE
+Entre las mejoras respecto al F-15E se cuentan:
+El F-15SE no es una simple modernización con nuevos equipos y nuevas armas.
+En la configuración denominada "Primeros días del guerrero", con el avión sin cargas externas, gracias a sus cuatro bodegas internas puede transportar misiles AIM-9 y AIM-120 y bombas tipo JDAM y SDB.
+Así, el F-15SE se convierte tanto en un interceptor puro, capaz de atacar aeronaves enemigas sin ser detectado por sus radares, como en un bombardero quirúrgico, con capacidad para aproximarse igualmente al blanco y lanzar sus armas inteligentes.
+El Boeing F-15K Slam Eagle (en coreano hangul: F-15K 슬램 이글; el apodo significa «águila de golpeo») es una versión avanzada del F-15E para la Fuerza Aérea de la República de Corea, es fabricado parcialmente en Corea del Sur e incorpora una serie de mejoras.
+Fue seleccionado por la Fuerza Aérea de la República de Corea en 2002 en la primera fase de su programa F-X para la adquisición de cazas de nueva generación, tras una dura competición contra otros tres modelos: el Dassault Rafale francés, el Eurofighter Typhoon del consorcio europeo y el Sukhoi Su-35 ruso.
+Inicialmente fueron encargados 40 aviones y las entregas comenzaron en 2005.
+El 25 de abril de 2008, el gobierno surcoreano anunció la adquisición de un segundo lote formado por 21 aviones F-15K, por un valor de 2,3 billones de wŏns (2300 millones de dólares).
+Las entregas fueron programadas para realizarse entre 2010 y 2012.
+Boeing subcontrató numerosos componentes del avión a varias compañías surcoreanas para ser producidas en el país asiático, como parte del acuerdo de participación industrial firmado en el contrato de compra, siendo estas empresas las responsables de un 40% de la producción y un 25% del ensamblaje y subensamblaje de los Slam Eagle.
+El fuselaje y las alas son suministradas por Korea Aerospace Industries, el actuador de control de vuelo por Hanwha Corporation, los equipos de contramedidas electrónicas y los receptores de alerta radar por Samsung Thales, el HUD, los sistemas de comunicaciones de a bordo y el radar por LIG Nex1,    y los motores por Samsung Techwin; mientras que el ensamblaje final es realizado por Boeing en su planta principal de San Luis (Misuri).
+La variante F-15K tiene muchas características avanzadas que previamente no se encontraban en el F-15E original, como el sistema de búsqueda y seguimiento por infrarrojos AAS-42, un equipo táctico de guerra electrónica (TEWS) modificado para reducir su peso y además incrementar su efectividad, cabina compatible con dispositivos de visión nocturna, un controlador frontal (UFC) mejorado, radio ARC-232 U/VHF con sistema de enlace de datos Link 16, y el avanzado radar de barrido mecánico APG-63(V)1 con capacidades NCTR (reconocimiento de blancos no cooperativos).
+El radar APG-63(V)1 dispone de una unidad de procesamiento digital común con el radar AESA (barrido electrónico activo) APG-63(V)3, y puede ser actualizado a radar AESA simplemente reemplazando la antena de barrido mecánico por una antena de barrido electrónico.
+El F-15K también está equipado con el sistema de mira montada en casco JHMCS (Joint Helmet Mounted Cueing System).
+Puede lanzar armas de última generación como las nuevas versiones AGM-84K SLAM-ER ATA y AGM-84H Harpoon Bloque II del misil AGM-84 Harpoon y el misil de crucero JASSM.
+Los dos motores turbofán General Electric F110-GE-129 de 131 kN que monta el F-15K, ofrecen cierto incremento en potencia de empuje respecto al modelo F-15E básico.
+A diferencia del primer lote del F-15K, el segundo lote es propulsado por motores Pratt & Whitney F100-PW-229 (EEP), de los que se encargaron 46 unidades para ser fabricados bajo licencia por Samsung Techwin y son compatibles con el caza monomotor KF-16 Fighting Falcon.
+El F-15S Strike Eagle es una versión de exportación del F-15E suministrada a la Real Fuerza Aérea Saudí entre mediados y finales de los años 1990, aunque inicialmente fue denominada F-15XP.
+Arabia Saudita previamente quería el F-15F, una propuesta monoplaza del Strike Eagle, de los que intentó adquirir 24 unidades, pero el pedido fue bloqueado por el Congreso de los Estados Unidos.
+Después pudo adquirir la versión F-15S, que es casi idéntica al F-15E de la Fuerza Aérea de los Estados Unidos pero ligeramente degradada, la única diferencia importante es el modo de apertura sintética en el radar AN/APG-70.
+Fueron construidos 72 ejemplares entre 1996 y 1998.
+En octubre de 2007, General Electric anunció un contrato con Arabia Saudita por 65 motores GE F110-GE-129C para los F-15S por un valor de 300 millones de dólares.
+En octubre de 2010, Arabia Saudita realizó un pedido de compra de 84 aviones F-15SA (Saudi Advanced), la actualización de todos los anteriores aviones F-15 al nivel del nuevo F-15SA, junto a armamento y otro equipamiento relacionado.
+La variante F-15SA incluye el radar de barrido electrónico activo APG-63(v)3, los sistemas de guerra electrónica digitales DEWS (digital electronic warfare systems), sistemas de búsqueda y seguimiento por infrarrojos (IRST), y otros sistemas avanzados.
+El F-15SG Strike Eagle, anteriormente denominado F-15T, es una versión avanzada del F-15E encargada por la Fuerza Aérea de la República de Singapur ante los retrasos en el avance del programa del F-35.
+Fue elegido el 6 de septiembre de 2005 sobre el Dassault Rafale francés, después de un periodo de evaluación de siete años en el que también concursaron otros cuatro modelos de caza.
+El F-15SG es similar en configuración al F-15K de Corea del Sur, pero difiere en la incorporación del radar AESA APG-63(V)3 desarrollado por Raytheon.
+El F-15SG está propulsado por dos motores General Electric F110-GE-129 de 131 kN de empuje.
+Singapur inicialmente realizó un pedido de 12 aviones con opción a 8 más para reemplazar a sus aviones de ataque A-4SU Super Skyhawk.
+La compra, que forma parte de un programa de reemplazo de cazas por nuevos modelos, está valorada en aproximadamente 1000 millones de dólares, siendo el modelo de avión de combate más caro adquirido por ese país hasta el momento.
+El 22 de octubre de 2007, el Ministerio de Defensa de Singapur ejerció la opción de compra de ocho cazas F-15SG más del contrato original firmado en 2005.
+Junto a esta compra también realizó un encargo adicional de cuatro F-15SG que incrementó el pedido a un total de 24 cazas.
+El primer F-15SG fue presentado el 3 de noviembre de 2008.
+Las entregas de los F-15SG comenzaron en el segundo cuarto de 2009 y continuaron hasta 2012.
+El acuerdo de venta también incluye armamento, logística y entrenamiento de pilotos.
+A fecha de julio de 2010, ya habían sido entregados al menos 12 de los aviones, 6 de los cuales ya habían sido enviados a su base en Singapur, mientras que los restantes permanecían en el destacamento de entrenamiento en la Base de la Fuerza Aérea Mountain Home, Idaho.
+Variante propuesta para Catar, sobre la base de la F-15SE, con armamento y capacidades reducidas.
+Pedido por 72 unidades.
+El F-15G Wild Weasel fue una versión del F-15E propuesta para reemplazar al F-4G Wild Weasel en el papel de supresión de defensas aéreas enemigas (SEAD).
+El F-15G fue estudiado en 1986, después se estudió la modificación de aviones monoplaza F-15C Eagle para la misión SEAD en 1994-1995, pero al final se modificaron aviones F-16C Fighting Falcon para realizar esta función.
+El F-15H Strike Eagle (la ‘H’ hace referencia a Hellas, «helénico») fue una versión de exportación del F-15E propuesta en los años 1990 para Grecia, que había sido seleccionada por el Ministerio de Defensa Griego y la Fuerza Aérea Griega, pero el Gobierno Griego decidió comprar nuevos F-16 Fighting Falcon y Mirage 2000-5 en su lugar.
+El F-15SE Silent Eagle (su apodo significa «águila silenciosa») es una nueva versión actualizada del F-15E propuesta por Boeing que utiliza características de la quinta generación de cazas, como son el transporte de armas en bodegas internas y el uso de materiales absorbentes de radar, para reducir su detectabilidad.
+La Fuerza Aérea sabe desde hace años que los 235 cazas F-15C/D Eagle llegan al final de su vida útil a mediados del año 2020.
+La mayoría de estos cazas sirven en la Guardia Nacional, interceptando aviones militares y aviones civiles.
+Se suponía en su momento que los F-15 debían ser reemplazados por el F-22 Raptor pero el programa se redujo a 187 aviones, muy por debajo de los planes iniciales de 750 aviones.
+Esto dejó el F-15 sin reemplazo y la jubilación del F-15C fue discutida durante muchos años, analizando los costes de mantenerlos en servicio y sus posibles reemplazos.
+El F-15X (adaptación del F-15SE a los requerimientos USAF) que Boeing ha estado ofreciendo de manera agresiva e insistente contaría con dos versiones, F-15CX y F-15EX, estando diseñado para transportar una carga más pesada de misiles que los actuales F-15 y con unos sistemas avanzados.
+El Pentágono ha solicitado fondos para comprar ocho cazas F-15X en 2020, con una compra prevista total de 80 aviones en cinco años.
+Se espera que probablemente se amplie el pedido de compra a 144 (7 escuadrones de 24 aviones) o más para reemplazar los F-15C/D y posiblemente algunos F-15E.
+El F-15E se hizo muy popular entre los aliados de EE.
+UU.
+(Israel, Singapur, Corea, Arabia Saudita y Catar), que financiaron una serie de mejoras sustanciales que se integrarán en el nuevo F-15X.
+El F-15X probablemente será un compañero de operaciones para el F-35, sigiloso pero menos armado y con menor autonomía.
+El abismo en capacidad entre el F-15X y el F-35A es obvio, pero hay una serie de puntos que aclarar que pueden jugar a favor o en contra del avión:
+La Fuerza Aérea cree que el F-15X tiene sitio dentro del conjunto de misiones de un avión táctico para las que no se necesitaría un caza como el F-35.
+En caso de conflicto con Rusia o China los F-35 basados en EE.
+UU.
+deberían ser añadidos a los escuadrones de primera línea.
+En tal escenario teóricamente los F-15X quedarían a cargo de la defensa de EE.
+UU., en este caso los argumentos sobre la capacidad comparativa de F-35A y F-15X no coinciden en una posición común y el peso político no es desdeñable.
+Otra visión es emparejar los F-15X con los F-35, de manera que los primeros añadan potencia de fuego y asuman las pérdidas en combate, sacando así el máximo partido del F-35.
+Adicionalmente Israel y Japón comparten la idea de la USAF de complementar F-15X con F-35 en operaciones de combate para sacar mayor partido de las capacidades del F-35, siendo operadores actuales del F-15.
+Existe así un potencial mercado exterior si el contrato con la USAF sigue adelante.
+El primer F-15E de producción fue entregado a la 405.ª Ala de Entrenamiento, en la Base de la Fuerza Aérea Luke, Arizona, en abril de 1988.
+Bautizado como “Strike Eagle”, el F-15E recibió la primera capacidad operacional el 30 de septiembre de 1989 en la Base de la Fuerza Aérea Seymour Johnson, Carolina del Norte, con el 336.º Escuadrón de la 4.ª Ala de Caza.
+Los F-15E fueron desplegados por primera vez después de que Irak invadiera Kuwait en agosto de 1990.
+Los Escuadrones de Caza 335.º “Chiefs” y 336.º “Rocketeers” recibieron órdenes de prepararse para el despliegue de la Operación Escudo del Desierto una semana después de la invasión.
+El 336.º Escuadrón se desplazó a la Base Aérea de Seeb en Omán, en vuelos de 15 horas.
+Aunque estaban listos para su misión, los F-15E no fueron autorizados para llevar el armamento necesario para contrarrestar un posible ataque iraquí sobre Arabia Saudita; solamente fueron autorizados para portar las bombas Mark 82 de 500 libras y Mark 84 de 2000 libras.
+Las bombas de racimo son el arma preferida para atacar vehículos, pero éstas no habían sido completamente probadas en todos los soportes de armas del Strike Eagle.
+Durante las operaciones de entrenamiento en Omán, se perdió un F-15E del 336.º Escuadrón el 30 de septiembre durante una simulación de combate contra aviones Jaguar GR.1 británicos provocando la muerte de los dos tripulantes.
+En diciembre los dos escuadrones de Strike Eagle fueron trasladados a la Base Aérea de Al Kharj en Arabia Saudita, más cerca de Irak.
+El 17 de enero de 1991, primer día de la campaña aérea de la Operación Tormenta del Desierto, 24 F-15E atacaron cinco emplazamientos fijos de misiles balísticos SS-1 Scud en el oeste de Irak; a continuación un segundo grupo de ataque formado por otros 21 Strike Eagle continuó por la noche con las misiones contra los emplazamientos de misiles Scud.
+Durante el resto de la guerra, los F-15E llevaron a cabo misiones nocturnas sobre Irak occidental a la búsqueda de plataformas móviles de misiles Scud, que suponían una amenaza para los países vecinos.
+Esos vehículos de transporte y lanzamiento eran muy esquivos; después de que un avión de vigilancia E-8 Joint STARS localizaba un punto de lanzamiento, cuando llegaban los F-15E la mayoría de las veces los misiles Scud ya no estaban en esa posición.
+Por medio de bombardeos aleatorios en áreas sospechosas, los tripulantes de los F-15E intentaron disuadir a los soldados iraquíes de realizar lanzamientos de más misiles Scud.
+En el primer día de acción, cuando se aproximaban a la Base Aérea H-2 (sur de Irak), una formación de Strike Eagle fue seguida por tres MiG-23 y dos MiG-29 iraquíes, estas fueron unas buenas oportunidades desaprovechadas para que el F-15E lograra su primera victoria en combate aire-aire.
+En la primera noche, un F-15E siguió a un MiG-29 y trató de atacarlo pero tuvo dificultades en la adquisición de la señal térmica del caza iraquí para dirigir un misil AIM-9 Sidewinder.
+El misil fue lanzado finalmente pero no pudo alcanzar su objetivo.
+Al mismo tiempo, otros F-15E intentaron atacar al MiG-29 solitario, pero fueron incapaces de conseguir el derribo.
+Un F-15E estaba sobrepasando el caza iraquí y maniobró para realizar un ataque, pero el piloto dudó en realizar el disparo porque no estaba seguro de donde se encontraban sus compañeros de flanco y porque no consiguió un buen tono con el misil Sidewinder.
+Poco después, se disparó en el área un misil de origen desconocido y el MiG se estrelló contra el suelo mientras el piloto iraquí intentaba atacar un F-15E.
+Otro MiG-29 fue derribado por su propio compañero de flanco y un F-15E se acercó lo suficiente a otro MiG-29, pero su piloto eligió no atacarlo ya que había un F-14 Tomcat de la Armada de los Estados Unidos de camino a la zona.
+A pesar de que los F-15E habían eludido los combates aire-aire, cuatro Strike Eagle destruyeron 18 aviones iraquíes estacionados en la Base Aérea de Tallil usando bombas GBU-12 y CBU-87.
+El 14 de febrero, esto cambió cuando un F-15E logró su primera y única victoria aérea: un helicóptero de ataque Mil Mi-24 “Hind”.
+El ataque fue en respuesta a una petición de ayuda de Fuerzas Especiales de los Estados Unidos, cuando avistaron cinco helicópteros iraquíes.
+El líder de una formación de dos F-15E del 335.º Escuadrón localizó a través del visor FLIR uno de estos helicópteros desembarcando soldados y lanzó una bomba guiada GBU-10.
+Después de 30 segundos los tripulantes del F-15E pensaron que la bomba había errado su blanco y el piloto estaba a punto de lanzar un misil Sidewinder en su lugar, pero, de repente el helicóptero Mi-24 se vaporizó.
+El equipo de fuerzas especiales estimó que el “Hind” estaba aproximadamente a 240 m sobre el terreno cuando la bomba de 2000 libras alcanzó su blanco.
+Sin embargo la victoria aérea no fue reconocida hasta el 2 de noviembre de 2001.
+Trataron de atacar a los otros helicópteros pero en ese momento comenzó un bombardero aliado en la zona y los F-15E decidieron marcharse.
+Los F-15E Strike Eagle continuaron a la caza de misiles Scud durante toda la guerra y atacaron objetivos fuertemente defendidos en todo el territorio iraquí.
+También llevaron a cabo misiones secretas con intención de matar a Sadam Husein, bombardeando lugares en los que se creían que el presidente iraquí podía estar oculto, pero no tuvieron éxito.
+A medida que la guerra terrestre se acercaba, los F-15E comenzaron la destrucción de medios acorazados, atacando carros de combate y transportes blindados iraquíes en Kuwait.
+Después de 42 días de intensos combates para los F-15E, un alto el fuego entró en vigor el 1 de marzo de 1991.
+Se establecieron dos zonas de exclusión aérea sobre Irak para evitar que las aeronaves iraquíes representaran una amenaza para las operaciones de ayuda humanitaria de la coalición, una al norte para proteger a la población kurda y otra en la zona chiita al sur.
+A pesar de eso, helicópteros iraquíes atacaron a refugiados kurdos en el norte del país.
+Los F-15E que aplicaban la zona de exclusión aérea vieron sin poder hacer nada como 600 civiles en el pueblo de Chamchamal eran atacados por helicópteros.
+Como los F-15E no estaban autorizados para abrir fuego, efectuaron pasadas a alta velocidad tan cerca como se atrevían con la esperanza de que la estela turbulenta rompiera una pala de rotor.
+También apuntaron sus designadores láser a las cabinas de los helicópteros iraquíes con intención de cegar a los pilotos.
+Esta última técnica no resultó efectiva, pero la anterior causó que uno de los helicópteros Mi-24 se estrellara.
+Cuando el mando de la Fuerza Aérea se enteró de estas actividades ordenó a los F-15E que no volaran por debajo de 10000 pies (3048 metros).
+Los F-15E volaron en apoyo de las Operación Proporcionar Confort y Operación Proporcionar Confort II.
+Las zonas de exclusión aérea establecidas en Irak tras la Guerra del Golfo fueron patrulladas principalmente por aviones estadounidenses y británicos.
+Aviones F-15E del 494.º Escuadrón de Caza “Black Panthers” fueron desplegados en Turquía en 1993, 1994 y 1997.
+Los del 492.º Escuadrón de Caza “Madhatters” fueron desplegados en 1995, 1996 y 1997.
+El 391.º Escuadrón también desplegó sus aviones en 1997.
+Estos F-15E realizaron misiones de combate en numerosas ocasiones.
+La mayoría de las misiones efectuadas en apoyo de las operaciones Vigilancia del Sur y Vigilancia del Norte fueron defensivas.
+Pero como los Strike Eagle pueden llevar gran cantidad de armas de varios tipo en una misión, las tripulaciones de F-15E gozaban de una gran flexibilidad de acción; los F-15E operaban bajo la estrecha supervisión de sistemas de alerta y control aerotransportado (AWACS) y sus tripulantes podían recibir tareas desde el aire y realizar ataques no planeados contra blancos iraquíes.
+En enero de 1993, un pequeño grupo atacó blancos iraquíes que quebrantaron las normas del acuerdo de alto el fuego por debajo del 32º paralelo norte, fue destruido un sistema de misiles antiaéreos SA-3.
+Unos días más tarde, diez F-15E participaron en otro ataque de castigo.
+Durante los tres años siguientes, las violaciones de las zonas de exclusión aérea fueron mínimas ya que Irak retiró ligeramente sus fuerzas.
+En 1997, Turquía aprobó la creación de la Operación Vigilancia del Norte y permitió a las fuerzas estadounidenses usar la Base Aérea de Incirlik.
+En diciembre de 1998 se llevó a cabo una campaña de bombardeos bajo la Operación Zorro del Desierto porque Irak rechazó las inspecciones de la Comisión Especial de Naciones Unidas en materia de armas de destrucción masiva.
+El 28 de diciembre de ese año, tres F-15E lanzaron cada uno dos bombas guiadas de precisión GBU-12 de 500 libras.
+Dos de los F-15E destruyeron la unidad de radar de seguimiento y guiado óptico de sistemas de misiles superficie-aire SA-3.
+El otro F-15E utilizó una bomba para destruir la camioneta de mando y control y la otra para destruir la unidad de guiado óptico y radar de seguimiento de un emplazamiento de misiles SA-3.
+Un último F-15E de la formación de cuatro no lanzó ninguna bomba porque no obtuvo identificación positiva de blancos.
+Después de la Operación Zorro del Desierto, Irak intensificó sus violaciones de las zonas de exclusión aérea y se llevaron a cabo una gran cantidad de ataques de represalia y planificados previamente por medio de cazabombarderos F-15E.
+Solo en la Vigilancia del Norte, se lanzó armamento en al menos 105 días.
+Entre el 24 y el 26 de enero de 1999, los F-15E lanzaron varios misiles AGM-130 y bombas GBU-12 contra emplazamientos de misiles antiaéreos en el norte de Irak, cerca de Mosul.
+El F-15E fue modelo más utilizado de todos los cazas tácticos de la Fuerza Aérea de los Estados Unidos en la región, sobre todo debido a su gran alcance y mayor carga bélica en comparación con el caza polivalente F-16.
+Los F-15E principalmente atacaron búnkeres de municiones, instalaciones de mando y control, baterías de cañones antiaéreos KS-19 de 100 mm y sistemas de misiles superficie-aire SA-3 o SA-6.
+Los F-15E también efectuaron patrullas aéreas de combate sobre Irak y cooperaron con otros aviones en los ataques, como los F-16 Fighting Falcon de la Fuerza Aérea de los Estados Unidos, los F-14 Tomcat, F/A-18 Hornet y EA-6B Prowler de la Armada de los Estados Unidos, y los Tornado GR.4 de la Real Fuerza Aérea británica.
+La Operación Vuelo Denegado fue una zona de exclusión aérea establecida por Naciones Unidas en 1993 sobre Bosnia y Herzegovina por la agravada situación vivida en los Balcanes durante varios años.
+En agosto de 1993, tras la Resolución 816 del Consejo de Seguridad de las Naciones Unidas que prohibió el vuelo de todo tipo de aeronaves sobre el espacio aéreo bosnio excepto las autorizados por Naciones Unidas, fueron desplegados aviones F-15E de los Escuadrones de Caza 492.º y 494.º en la Base Aérea de Aviano, Italia.
+A finales de 1993 la situación empeoró y la OTAN ordenó realizar un ataque a pequeña escala contra blancos serbios en Croacia, dirigido al aeródromo de Udbina, en el que participaron aviones F-15E.
+Ocho F-15E armados con bombas GBU-12 salieron a bombardear un sistema de misiles SA-6 como parte de un grupo de ataque formado por 30 aeronaves.
+Sin embargo, la misión fue cancelada en pleno vuelo, los F-15E no podían llevar a cabo el ataque debido a las rigurosas reglas de enfrentamiento.
+En diciembre del mismo año fueron enviados aviones F-15E para destruir dos emplazamientos de misiles SA-2 que habían atacado a dos aviones Sea Harrier FRS.1 de la Marina Real Británica.
+Las mayoría de las salidas realizadas por los Strike Eagle no eran misiones de combate, pero les dispararon con bastante frecuencia.
+En agosto de 1995 el 90.º Escuadrón de Caza se unió a los otros dos escuadrones de F-15E desplegados en la zona.
+Los Escuadrones 492.º y 494.º habían realizado más de 2500 salidas en total desde que el inicio de la Operación Vuelo Denegado, siendo 2000 de estas atribuidas al 492.º, que estuvo desplegado más tiempo que el 494.º.
+Los días 30 y 31 de agosto, los F-15E efectuaron ataques aéreos con bombas guiadas GBU-10 y GBU-12 contra los vehículos blindados serbios y sus suministros situados en torno a la ciudad de Sarajevo.
+El 5 de septiembre lanzaron más bombas GBU-12.
+Cuatro días más tarde se usó por primera vez la bomba GBU-15 desde un Strike Eagle, que al final fueron nueve unidades lanzadas contra fuerzas de tierra y defensas aéreas serbobosnias en torno a la ciudad de Banja Luka.
+En marzo de 1999, tras el rechazo del gobierno serbio de un ultimátum de la OTAN, se lanzó la Operación Fuerza Aliada para detener la ofensiva del Ejército Yugoslavo en Kosovo e impedir que se repitieran atrocidades como las vividas en Bosnia.
+26 aviones F-15E de los Escuadrones de Caza 492.º y 494.º desplegados en la zona efectuaron los primeros ataques de la campaña de bombardero contra instalaciones de misiles superficie-aire, artillería antiaérea y estaciones de radares de alerta temprana de los serbios.
+Estos Strike Eagle estaban desplegados en la Base Aérea de Aviano, Italia, y en RAF Lakenheath, Reino Unido.
+La mayoría de las misiones duraban alrededor de 7 horas y media e incluían dos reabastecimientos aéreos.
+Los F-15E podían portar una combinación de armamento aire-aire y aire-superficie, esto les permitía realizar tanto las patrullas aéreas de combate como el bombardeo de blancos antes de regresar a sus bases.
+Las mayores amenazas para los aviones aliados eran las plataformas móviles de misiles superficie-aire serbias.
+Los tripulantes de los F-15E tenían que estar muy atentos a esta amenaza porque ya que se habían perdido varios aviones en el pasado, aún más después de que sistemas antiaéreos SA-3 derribaran un avión furtivo F-117 el 27 de marzo.
+Cuando la amenaza era demasiado grande se usaba el misil aire-superficie AGM-130, que permitía atacar el blanco desde cierta distancia de seguridad.
+Éste también fue usado con éxito contra dos MiG-29 estacionados en tierra.
+El AGM-130 es un arma muy cara y solo fue usada contra blancos muy específicos o cuando los tripulantes querían controlar el misil en el aire durante su aproximación al blanco para lograr la máxima eficiencia en el impacto.
+El misil es guiado mediante un sistema de navegación inercial (INS) y sistema de posicionamiento global (GPS), pero además el oficial de sistemas de armas puede dirigir el misil en vuelo mediante una cámara incorporada, o incluso abortar y desviarlo lejos de la población civil si el blanco se encuentra demasiado cerca de áreas civiles como las iglesias.
+A los tripulantes de la OTAN no se les permitía atacar blancos en torno a dichos edificios.
+No obstante, se produjo un grave incidente cuando un F-15E armado con misiles AGM-130 atacó un puente justo en el momento en el que cruzaba un tren de pasajeros, provocando la muerte de 14 civiles; el oficial de armas no podía reconocer visualmente el tren desde la distancia a la que disparó y cuando el tren apareció en la cámara no pudo reaccionar a tiempo.
+La operación finalizó en junio de 1999 después de que Slobodan Milošević ordenara la retirada de sus tropas de Kosovo.
+El 391.º Escuadrón de Caza "The Bold Tigers", equipado con aviones F-15E, partió para la Base Aérea Ahmed Al Jaber en Kuwait 31 días después de los atentados del 11 de septiembre de 2001.
+La unidad estaba preparada para participar en la Operación Vigilancia del Sur, pero pasó a ser destinada a apoyar Operación Libertad Duradera en Afganistán.
+Durante los primeros ataques los F-15E encontraron poca resistencia, y en la primera noche los principales objetivos fueron edificios militares, depósitos de suministros de los talibán, cuevas y campos de entrenamiento de Al Qaeda.
+Utilizaron bombas guiadas AGM-130 y GBU-15 de 2000 libras, siendo ésta la primera experiencia en combate con la GBU-15.
+También usaron bombas guiadas GBU-24 y GBU-28 contra objetivos reforzados, centros de mando y control y entradas de cuevas.
+Los F-15E suelen operar por parejas acompañados de otros dos F-16C.
+En cuestión de semanas casi todos los objetivos habían sido destruidos y era difícil encontrar nuevos objetivos importantes.
+Los talibanes tenían acceso a misiles aire-aire portátiles FIM-92 Stinger y SA-7 que no presentaban ninguna amenaza para los aviones estadounidenses, siempre y cuando volaran por encima de 7000 pies (2134 m), y los emplazamientos fijos de misiles superficie-aire cerca de ciudades como Mazari Sharif y Bagram fueron destruidos muy pronto en la primera fase de la campaña, por lo que fue un entorno de muy «baja amenaza».
+En tres semanas, los aviones comenzaron a atender misiones de petición apoyo de las fuerzas terrestres aliadas en las que los F-15E normalmente utilizaron bombas Mk 82 y GBU-12, pero también otro tipos de municiones, como las GBU-24 y GBU-28.
+Los blancos más frecuentes durante el resto de la guerra fueron combatientes, vehículos y convoyes, y no solo fueron utilizadas bombas, en varias ocasiones los F-15E también usaron el cañón de a bordo.
+En el transcurso del despliegue de tres meses en apoyo de la Operación Libertad Duradera, cuatro tripulaciones del 391.º Escuadrón llevaron a cabo la misión de caza de mayor duración de la historia; duró 15,5 horas y nueve de ellas fueron sobre la zona objetivo.
+Dos F-15E atacaron dos instalaciones talibán de mando y control, dos edificios sospechosos de albergar combatientes talibán, y un bloqueo de carretera talibán.
+Los F-15E repostaron en vuelo 12 veces durante la misión.
+El 7 de enero de 2002, el 391.º Escuadrón de Caza regresó a su base y fue relevado por el 335.º Escuadrón de Caza, el 391.º estaba realizando entre dos y ocho salidas al día durante su despliegue.
+Del despliegue del 391.º cabe destacar el lanzamiento de la bomba termobárica BLU-118/B por primera vez en combate; fue utilizada para expulsar a los combatientes talibán que estaban ocultos en cuevas.
+Tras ser aprobada la resolución 1973 del Consejo de Seguridad de las Naciones Unidas el 17 de marzo de 2011, fueron desplegados 10 cazas F-15E estadounidenses, además de una variedad de distintos aviones, para establecer la zona de exclusión aérea en Libia como parte de la Operación Amanecer de la Odisea.
+El 21 de marzo de 2011, un F-15E Strike Eagle (N.S. 91-304) se estrelló en Libia, cerca de Bengasi.
+Los dos tripulantes del aparato, que se eyectaron antes del impacto, cayeron en paracaídas sobre territorio controlado por los rebeldes, donde fueron protegidos hasta ser rescatados por un equipo de salvamento del Cuerpo de Marines de los Estados Unidos a bordo de una aeronave MV-22B Osprey.
+Según afirmaron los mandos estadounidenses el motivo que provocó el accidente fue un fallo mecánico.
+Mientras que una parte de los cazas F-15C/D más antiguos de la Fuerza Aérea de los Estados Unidos están siendo reemplazados por el caza de quinta generación F-22 Raptor; todavía no existe un reemplazo programado para el F-15E en su perfil de misión principal de «ataque en profundidad», ya que es un modelo relativamente reciente en el inventario estadounidense.
+Como el Strike Eagle es una variante del F-15 desarrollada varios años más tarde, dispone de una estructura más resistente, diseñada para resistir el doble de la vida útil de las versiones anteriores.
+El F-15E se espera que permanezca en servicio hasta el año 2025.
+La Fuerza Aérea de los Estados Unidos ha comenzado a estudiar el Next-Generation Bomber, un concepto de bombardero medio que en el futuro podría hacerse cargo de las misiones de «ataque en profundidad» actualmente desempeñadas por el Strike Eagle.
+El F-35A Lightning II está proyectado para finalmente sustituir muchos otros aviones de ataque como el F-16 Fighting Falcon y el A-10 Thunderbolt II, y en gran parte también podría hacerse cargo de las misiones del F-15E, sin embargo el F-15E ofrece un mayor alcance y puede portar más carga de armamento.
+El 17 de marzo de 2009 se presentó por primera vez una versión de demostración del F-15SE Silent Eagle, una propuesta de actualización del F-15E que incluye tecnologías furtivas de la quinta generación de cazas para reducir su sección radar equivalente (RCS).
+Como rasgos distintivos de esta nueva versión destacan las bodegas de armas internas, que sustituyen en parte a los tanques de combustible conformables (CFT), los timones verticales de cola gemelos, inclinadas 15 grados hacia el exterior para reducir la sección radar, y los materiales absorbentes de radar.
+El Silent Eagle está pensado para actuales usuarios del F-15 como son Israel, Arabia Saudita y Corea del Sur, entre otros.
+McDonnell Douglas F-15

@@ -1,0 +1,54 @@
+Durgan A. Nallar (n. Salta, Argentina, 19 de julio de 1967, más conocido con el acrónimo Dan, es un escritor, diseñador de juegos autodidacta, investigador y divulgador del desarrollo y consumo de videojuegos. Fue el jefe de redacción de Xtreme PC, una revista de culto del mundo de los juegos en Argentina. En la actualidad, es Director General de IRROMPIBLES, una comunidad de entusiastas de los juegos de video creada en 2003, representada por un sitio de noticias y una revista impresa. Desde fines de 2014 es el principal diseñador de juegos de Nuts Media, una empresa de producción de contenidos transmedia. Es el diseñador del sistema gamificado de Latincampus.org y desde 2015 forma parte del Comité Directivo de Videogames and Gamification Engineering (VGGE), una sociedad de CIS.GTC IEEE Computational Intelligence Society, Games Technical Committee perteneciente al IEEE.
+En agosto de 1992 publicaría Los perros en el número 35 de Axxón, la primera revista editada en soporte informático en habla hispana.
+Se trata de un relato corto del género fantástico cuyo tema central es la vejez en la vida urbana.
+Seguirán Querida Mahoney (Axxón 42, 1993), El corazón del bosque (Axxón 50, 1993), y Clásico de amor (Axxón 91, 1997).
+En 1998 comenzaría a colaborar activamente como redactor externo en Grupo 4 Editorial (más tarde Editorial PowerPlay), hogar de la revista argentina Xtreme PC (1997-2003), una publicación impresa especializada en videojuegos de computadora.
+Más tarde, ya como jefe de redacción, contribuyó a crear Next Level, especializada en videojuegos para consolas.
+Durante su actividad laboral daría a las publicaciones de la editorial una identidad narrativa única y crearía un personaje aficionado a los videojuegos pero gran perdedor, Charlie, que llegó a ser tan querido como odiado por los lectores.
+En 2001, se alejaría de la editorial debido a una crisis interna.
+La revista Xtreme PC continuaría varios números hasta ser reemplazada por Loaded (2001-2014), una publicación similar.
+Desde 2001 a 2006, junto a dos colegas de la antigua editorial, realizó la revista Master Player para el Corporativo Mina de México, pero produciendo el contenido desde Buenos Aires.
+Seguirán otras publicaciones como Otaku, una revista de anime, y Cartas de Combate, focalizada en cartas coleccionables como Magic: El Encuentro, Pokémon TCG, Yu-Gi-Oh! y Mitos y Leyendas, entre otros.
+En paralelo, fue editor del área web de videojuegos de MTV Latinoamérica hasta 2011.
+En 2007, lanzaría la primera etapa de la revista [IRROMPIBLES] junto a Sebastián Di Nardo, Pablo Salaberri y Rodrigo Peláez.
+Serían ocho números hasta mediados de 2008, cuando debió ser interrumpida la producción debido a problemas financieros originados en la crisis económica argentina.
+En 2011, tras la salida del grupo de Rodrigo Peláez y la incorporación de nuevos socios, la revista volvería a aparecer en formato bimestral impreso y electrónico con una tirada que llegaba a las principales capitales argentinas.
+Esta vez, duraría 25 números hasta su última edición impresa, en mayo de 2015.
+Luego de la publicación de un número especial unos meses después, la revista retoma su numeración en mayo de 2016, publicando el número 26 con una nota de tapa dedicada a Uncharted 4.
+El número 27, con nota de tapa dedicada a Pokémon GO, aún está pendiente de publicación por retrasos editoriales.
+En 2014 anunció la publicación independiente del libro Diseño de juegos en América latina en la primavera de 2015.
+La obra fue dividida en tres tomos.
+El primer tomo, Diseño de juegos en América latina I: Estructura lúdica, fue publicado en septiembre de 2015.
+El segundo tomo, Diseño de juegos en América latina II: Diseño y narrativa transmedia, fue publicado en marzo de 2016.
+El tercer tomo, Diseño de juegos en América latina III: Memoria del juego, producido junto a Cecilia Barat como coautora, fue publicado en mayo de 2017.
+Los libros sólo se consiguen en la página del autor y en Amazon.
+El juego es una acción u ocupación libre, que se desarrolla dentro de unos límites temporales y espaciales determinados, según reglas absolutamente obligatorias, aunque libremente aceptadas, acción que tiene fin en sí misma y va acompañada de un sentimiento de tensión y alegría y de la conciencia de ser de otro modo que en la vida corriente.
+(Johan Huizinga, Homo Ludens, 1938).
+Un videojuego es un sistema informático en el que intervienen múltiples tecnologías y disciplinas artísticas para crear un espacio de ficción con desafíos y objetivos, donde una o más personas se divierten e interactúan para expresarse, socializar y aprender.
+Estructura lúdica, 2015.
+Gameplay o Jugabilidad es el resultado de la actividad lúdica producida por un conjunto de desafíos delimitado por reglas y objetivos.
+Estructura lúdica, 2015.
+De acuerdo con el libro Diseño de juegos en América latina I: Estructura lúdica, un juego es en esencia un mecanismo motivacional cuyos objetivos fundamentales son el aprendizaje, la socialización y la expresión; de manera que resultan imprescindibles para la evolución humana.
+Si un juego presenta tales características, se considera divertido.
+Un juego correctamente diseñado debe contar con todos los elementos de la estructura lúdica, aunque haya sólo algunos de cada uno de ellos: una meta de diseño, satisfacción de deseos y necesidades primarias, un sistema de progresión, desafíos acordes a la habilidad corriente del jugador (curva de dificultad), objetivos de corto, mediano y largo plazo, y un sistema de recompensas interdependientes.
+La estructura lúdica se completa con la incorporación opcional de una historia o ficción.
+El propósito de la estructura lúdica consiste en la fidelización y retención de los jugadores.
+Si un juego no emociona, no produce interés.
+Los elementos motivacionales presentes en una estructura lúdica se sostienen sobre la teoría expuesta por el Conductismo.
+Así, esta sirve para juegos analógicos y electrónicos, tanto como para cualquier actividad relacionada al ejercicio lúdico, como la Gamificación.
+El componente que completa el sistema de retención del jugador en un juego, es la historia o ficción que este desarrolla. Es un componente opcional aunque presente en la mayoría de los juegos.
+La narrativa transmedia, formulada inicialmente por el profesor Henry Jenkins y otros investigadores como Carlos Alberto Scolari y Robert Pratten, es la forma de contar una ficción en la nueva ecología de medios.
+La historia se despliega a través de múltiples formatos o medios, llamados ventanas o nodos, mediante una constelación de ficciones unidas por huecos estratégicos, pistas migratorias y conectores emocionales.
+Las historias que componen una narrativa transmedia pueden ser consumidas en cualquiera orden y cantidad.
+Cuanto más contenidos se consumen, mayor es el entendimiento acerca del universo narrativo, fenómeno que se conoce como convergencia.
+El consumidor moderno desea expandir el universo narrativo mediante su intervención a través de las redes sociales o como se lo permita el producto transmedia.
+Ejemplos de narrativa transmedia pueden ser Star Wars, Matrix o Perdidos.
+Videojuegos transmedia son Overwatch, Quantum Break y Final Fantasy XV.
+Excepto Matar al dragón, juego de rol (2014), Las naves de arena, puzle (2013), El demonio del Qhapac Ñan, librojuego (2014) y Rodeado de micos, videojuego (2015), no se le conoce ningún otro juego.
+Desde 2004 a 2013 ejerció como instructor de Game Art y Game Design en el instituto Image Campus en Buenos Aires, donde diseñó el Programa Profesional de Game Design valiéndose de sus investigaciones y su experiencia como diseñador, crítico y periodista de videojuegos.
+Dictó numerosos seminarios, clínicas y conferencias.
+Desde 2014 ejerce como profesor del Seminario de Videojuegos de tercer y cuarto años de la carrera de Tecnología Multimedial de la Universidad Maimónides.
+Ese mismo año, funda la Escuela de Game Design América latina, dictando un curso ludificado en el Palacio Barolo y varios cursos de diseño de juegos y narrativa transmedia a distancia.
+Desde 2015, es coordinador y docente del curso de formación profesional de Game Design de la Escuela de Arte Multimedial Da Vinci.
+y exprofesor de Desarrollo de Videojuegos en la carrera de Arte y Diseño Digital de la Universidad del Salvador.
+Publicados en la revista electrónica Axxón: Ciencia ficción en bits.

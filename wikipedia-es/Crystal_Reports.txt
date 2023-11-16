@@ -1,0 +1,43 @@
+Crystal Reports es una aplicación de inteligencia empresarial utilizada para diseñar y generar informes desde una amplia gama de fuentes de datos (bases de datos).
+Varias aplicaciones, como Microsoft Visual Studio, incluyen una versión OEM de Crystal Reports como una herramienta de propósito general para informes/reportes.
+Crystal Reports se convirtió en el escritor de informes estándar cuando Microsoft lo liberó con Visual Basic.
+El producto fue originalmente creado por Crystal Services Inc., la cual produjo las versiones 1.0 hasta la 3.0.
+La compañía fue posteriormente adquirida por Seagate Software, la que luego fue renombrada como Crystal Decisions, y produjo las versiones 4.0 hasta la 9.0.
+Crystal Decisions fue adquirida en diciembre de 2003 por Business Objects, la cual ha producido las versiones 10 y 11 (XI), y actualmente la versión 12 (2008).
+Business Objects fue adquirida el 8 de octubre de 2007 por SAP.
+Los usuarios, al Crystal Reports en un equipo y utilizarlo para seleccionar filas y columnas específicas de una tabla de datos compatibles, pueden organizar los datos en el informe en el formato que necesiten.
+Una vez que el diseño está completo, el informe se puede guardar/salvar como un archivo con extensión.
+Se puede acceder nuevamente al informe reabriendo el mismo, y poder refrescar los datos.
+Si la fuente de base de datos se ha actualizado, el informe se refrescará reflejando estas actualizaciones.
+En la página de Crystal Reports existe una serie de tutoriales, versión XI Server (se necesita flash instalado para acceder), explicativos de algunos aspectos, que quizás varíen en contenido, pero son similares a todas las versiones de Crystal Reports.
+Una de la opciones para la creación de informes es comenzar desde cero.
+Para cargar las bases de datos existe un Asistente de base de datos, donde muestra los siguientes orígenes de datos soportados:
+Si se ha creado un informe que posee datos de dos o más tablas, desde una base de datos en los formatos soportados, tendrá que vincular durante el proceso de elaboración del informe (antes de agregar el contenido al informe).
+Muchos de los datos que se pueden insertar en el informe son campos de base de datos seleccionada.
+Estos mostrarán los datos tal como están almacenados en la base de datos.
+Para insertar campos se debe seguir el siguiente procedimiento:...
+Si se quieren desplegar datos que son valores calculados, tendrá que crear un campo de fórmula y ponerlo en el informe, similarmente a lo anterior (arrastrar hasta el lugar deseado, o insertarlo).
+Se cuenta con un amplio espectro de fórmulas disponibles para la creación de estas.
+Las cuales pueden ser programadas o creadas según el lenguaje crystal, integrado al programa, o bien, utilizando la sintaxis de Basic (Visual Basic).
+{cliente.Nombre_del_cliente}, {proveedor.Nombre_del_proveedor}
+"Entre comillas", "separados por comas"
++ (sumar), / (dividir), -x (negativo)
+Round (x), Trim (x)
+"If" y "Select", ciclos "For"
+Average (campo, Cpocond), Sum (campo, Cpocond, "condición")
+If ({cliente. NOMBRE DEL CLIENTE} [1 to 2] = "Ab") Then "TRUE"
+Else "FALSE"
+If ({cliente. NOMBRE DEL CLIENTE}) [1 to 2] = "Ab" and ToText({cliente. ID DEL CLIENTE}) [1] = "6"
+or ({cliente. NOMBRE DEL CLIENTE}) [1 to 2] = "Ba" and
+ToText({cliente. ID DEL CLIENTE}) [1] = "5" Then "elegido" Else "no elegido"
+Éstos son como fórmulas, pero escritos en SQL, y no en el lenguaje de fórmula de Crystal Reports.
+Los enunciados de SQL son usados, entre otras cosas, para obtener un conjunto específico de datos de una base de datos, pudiendo ordenar, agrupar y seleccionar datos, basándose en campos de enunciados SQL.
+Los campos de enunciado SQL, son de utilidad a la hora de optimizar el rendimiento de los informes, ya que las tareas que ejecutan se realizan normalmente en el servidor de la base de datos, en contraposición con una fórmula regular que a veces se ejecuta en el equipo local.
+Tanto la sintaxis Crystal (nativa de Crystal Reports), como la sintaxis Basic permiten mejorar y precisar las fórmulas de tal forma que sería difícil o imposible hacerlo con SQL.
+En algunas circunstancias, sin embargo, la creación y el uso de campos de enunciados SQL puede acelerar el proceso de los informes.
+Sirven para solicitar al usuario de un informe que especifique información.
+De esta manera se crear un campo de parámetro.
+Los parámetros son como preguntas que el usuario necesita responder antes de que se genere el informe.
+La información que escribe el usuario, o la forma en que responde, determina lo que aparece en el informe.
+Los parámetro pueden ser creados con datos fijos (estáticos), dinámicos si los datos experimentan cambios, o en forma de cascada, donde le usuario del informe selecciona de una lista desplegable aquello que desea ver.
+El informe puede ser visto de antemano en la pantalla (con el comando ), imprimir en papel, o se exportado a uno de los diversos formatos de archivo soportados:

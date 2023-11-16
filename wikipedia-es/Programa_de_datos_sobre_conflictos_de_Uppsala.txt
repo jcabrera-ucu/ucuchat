@@ -1,0 +1,5 @@
+Programa de Datos sobre Conflictos de Uppsala, UCDP, es un proyecto en la Universidad de Uppsala que registra muertos en conflictos bélicos.
+Desde la década de los setenta, el objetivo del programa ha sido la grabación de datos sobre conflictos en el mundo.
+El UCDP produce un informe anual que se llama "States in Armed Conflict" (Estados en Conflicto Armado) que incluye datos sobre personas fallecidas en conflictos bélicos, sus resoluciones y las dinámicas del conflicto durante el año anterior.
+Los datos del UCDP son públicos y han sido utilizados por estudiantes, investigadores, periodistas, gobiernos, organizaciones no gubernamentales, y miembros del público.
+[[Categoría:Consecuencias de la guerra]

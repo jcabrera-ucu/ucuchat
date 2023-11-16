@@ -1,0 +1,19 @@
+Del término Suceso se desprende Suceso Crítico, concepto derivado de la Psicología Social.
+El mismo fue desarrollado por alumnos de tercer año de la carrera, del Centro Psicosocial Argentino sede Mar de Ajo, en un proyecto de investigación.
+La definición sostiene que un Suceso Crítico es toda situación que impacte de manera inesperada y desencadenada por causas heterogéneas, que pueden variar de acuerdo al aquí y ahora de la persona, condicionando esa cotidianeidad de manera tal que la intervención a través de estrategias psicosociales sea indispensable para la recuperación integral del individuo y su familia, evitando consecuencias de mayor gravedad a futuro.
+Un evento o un suceso en física es un punto del espacio-tiempo, o sea, está caracterizado por cuatro coordenadas.
+El concepto está intuitivamente ligado al de evento, por el hecho que puede ser identificado o señalado por el momento y el lugar en el que el hecho ocurre.
+Imaginemos, por ejemplo, que vemos caer una hoja de un árbol.
+El evento Colisión {hoja, suelo} » puede ser caracterizado (tomando al planeta Tierra como referencial) por sus tres coordenadas espaciales (54° latitud norte, a 20° longitud este, y a 120 metros de altitud), y además por su coordenada temporal (UTC: 1 hora, 27 minutos, y 35,46 s).
+En relatividad restringida, el concepto de evento tiene una importancia capital : en esta teoría, las coordenadas de espacio y de tiempo no son independientes entre sí sino que están íntimamente ligadas.
+El tiempo ya no es más absoluto (como ocurría en la mecánica newtoniana), y un cambio de referencial para el observador, implicará también un cambio en las coordenadas del espacio-tiempo del evento en estudio (y no solamente de las tres coordenadas espaciales como en el caso de la mecánica newtoniana).
+En la mecánica relativista, el cambio de coordenadas al cambiar de sistema referencial, se hace a través de la transformación de Lorentz.
+Fijemos las ideas.
+Miércoles 22 de febrero de 2006 (tomando ahora al Sol como referencial), exactamente a las 13 horas UTC, el péndulo del Big Ben entra en contacto con la campana en un punto bien preciso.
+Dicho punto del espacio-tiempo es llamado evento.
+En un sistema de coordenadas, un evento del universo es descripto por cuatro números.
+Por ejemplo, en el sistema terrestre de coordenadas y la hora GMT, se deberá indicar latitud, longitud, altitud, e instante, y se dice que el espacio es cuatridimensional.
+Un evento o un suceso en física es un punto del espacio-tiempo, o sea, está caracterizado por cuatro coordenadas.
+El concepto está intuitivamente ligado al de evento, por el hecho que puede ser identificado o señalado por el momento y el lugar en el que el hecho ocurre.
+Imaginar por ejemplo que se ve caer una hoja de un árbol.
+El evento « la hoja toca el suelo » puede ser caracterizado por sus tres coordenadas espaciales (por ejemplo, tomando al planeta Tierra como referencial, y dando valores específicos para fijar las ideas, el evento puede que ocurra a 54° latitud norte, a 20° longitud este, y a 120 metros de altitud), y además por su coordenada temporal (por ejemplo y para fijar las ideas, el 12 de enero de 2007 a 1 hora, 27 minutos, y 35,46 s).

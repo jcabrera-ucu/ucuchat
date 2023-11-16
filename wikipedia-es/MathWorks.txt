@@ -1,0 +1,33 @@
+MathWorks es una corporación estadounidense privada que se especializa en software de informática matemática.
+Sus productos más importantes incluyen MATLAB y Simulink, los cuales apoyan análisis de datos y simulación.
+El producto clave de la compañía, MATLAB, fue creado en la década de 1970 por Cleve Moler, quien era presidente del departamento de informática en la Universidad de Nuevo México en ese entonces.
+Fue una herramienta libre para académicos.
+Jack Little, quien finalmente fundó la compañía, encontró la herramienta mientras era estudiante de posgrado en ingeniería eléctrica en la Universidad de Stanford.
+Little y Steve Bangert reescribieron el código para MATLAB en C mientras eran colegas en una firma de ingeniería.
+Fundaron MathWorks junto con Moler en 1984, con Little fuera de su casa en Portola Valley, California.
+Little enviaría por correo disquetes en bolsas de almacenamiento alimentario a los primeros clientes.
+La compañía vendió su primer orden, 10 copias de MATLAB, por $500 al Instituto de Tecnología de Massachusetts (MIT) en febrero de 1985.
+Unos cuantos años más tarde, Little y la compañía se movieron a Massachusetts, y Little reclutó a Jeanne O'Keefe, ejecutiva informática experimentada, para ayudar formalizar el negocio.
+En 1997, MathWorks era rentable, teniendo ingresos de alrededor de $50 millones, y hubo alrededor 380 empleados.
+En 1999, MathWorks reubicó el complejo de oficinas en Apple Hill en Natick, Massachusetts, adquiriendo edificios adicionales en el complejo en 2008 y 2009, finalmente ocupando el campus completo.
+MathWorks se expandió más allá en 2013 al comprar el campus de la antigua sede de Boston Scientific, el cual esta cerca de la sede de MathWorks en Natick.
+En el 2018, la compañía tuvo alrededor de 3000 empleados en Natick y dijo tuvo ingresos de alrededor de $900 millones.
+Los dos productos de principales de la compañía son MATLAB, el cual proporciona un entorno para programadores para analizar y visualizar datos y desarrollar algoritmos, y Simulink, un entorno gráfico y de simulación para diseño orientado a modelos de sistemas dinámicos.
+MATLAB Y Simulink MATLAB y Simulink se utilizan en la industria aeroespacial, automotriz, software y otros campos.
+Otros productos de la compañía incluyen Polyspace, SimEvents, y Stateflow.
+En 1999 el Departamento de Justicia de EE.UU.
+archivó un caso contra MathWorks y Wind River Systems alegando que un acuerdo entre ellos violaba las leyes antimonopolio.
+El acuerdo en cuestión estipulaba que las dos compañías acordaron dejar de competir en el campo de diseño de sistema de control dinámico, con MathWorks solo vendiendo Matrixx Software de Wind River y que Wind River pararía toda investigación y desarrollo y ventas en aquel campo.
+Ambas compañías finalmente llegaron a un acuerdo con el Departamento de Justicia y acordaron vender el software MATRIXx a un tercero.
+MathWorks tuvo ventas totales de $200 millones en 2001, con diseño de sistema de control dinámico contabilidad de software para medio de aquellas ventas.
+Se encontró que el programa Simulink de MathWorks infringió 3 patentes de National Instruments relacionadas con esquemas de flujo de datos en 2003, una decisión qué fue confirmada por un tribunal de apelación en 2004.
+En 2011, MathWorks demandó AccelerEyes por infracción de derechos de autor en un tribunal e infracción de patentes y marcas registradas en otro.
+AccelerEyes aceptó decretos de consentimiento en ambos casos antes de que los juicios empezaron.
+En 2012, la Comisión Europea abrió una investigación antimonopolio a MathWorks después que los competidores alegaron que Mathworks rechazó conceder licencias de su propiedad intelectual que permitiría a las personas crear software con interoperabilidad con sus productos.
+El caso fue cerrado en 2014.
+El logotipo representa el primer modo de vibración de una membrana delgada en forma de L, fijada en los bordes, y se rige por la ecuación de onda, que fue el tema de la tesis de Moler.
+La compañía anualmente patrocina un número de competiciones estudiantiles de ingeniería, incluyendo EcoCAR, una competición de tecnología de vehículo adelantada creada por el Departamento de Energía Estados Unidos (DOE) y General Motors (GM).
+MathWorks patrocinó la exposición de matemática en el Museo de Ciencia de Londres.
+En la comunidad de codificación, MathWorks hospeda MATLAB Central, un intercambio en línea donde los usuarios preguntan y responden preguntas y comparten código.
+MATLAB Central actualmente alberga alrededor que 145 000 preguntas en su base de datos MATLAB Answers.
+La compañía activamente apoya numerosas instituciones académicas para el avance educación de CTIM, incluyendo donar fondos a MIT Open Courseware y MITx.

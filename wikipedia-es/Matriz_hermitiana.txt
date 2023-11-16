@@ -1,0 +1,15 @@
+Una matriz hermitiana (o hermítica, en honor a Charles Hermite) es una matriz cuadrada de elementos complejos que tiene la característica de ser igual a su propia traspuesta conjugada.
+Es decir, el elemento en la i-ésima fila y j-ésima columna es igual al conjugado del elemento en la j-ésima fila e i-ésima columna, para todos los índices i y j:
+o, escrita con la traspuesta conjugada A*:
+Por ejemplo,
+es una matriz hermítica.
+Sea Hermítica, es decir.
+Entonces A \, es diagonalizable unitariamente.
+O sea, se la puede descomponer de la siguiente manera:
+En donde:
+1) Sea una matriz real simétrica (caso particular de Hermítica, con Imag(A) = 0). Entonces, se ve que  es autovalor de A \, asociado al autovector, es decir que el autoespacio asociado a este autovalor es
+El otro autovalor es asociado al autovector, es decir que el autoespacio asociado a este autovalor es
+Como se puede ver, ; es decir, son ortogonales.
+O sea
+La descomposición de la matriz es:
+O si no:

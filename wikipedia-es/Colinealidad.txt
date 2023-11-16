@@ -1,0 +1,43 @@
+En geometría, la colinealidad es la propiedad según la cual un conjunto de puntos están situados sobre la misma línea recta.
+Se dice que un conjunto de puntos que posee esta propiedad es colineal (a veces escrito como colinear, procedente de una traducción inadecuada del inglés).
+En general, el término se ha usado para objetos alineados, es decir, elementos que están "en una línea" o "en una fila".
+En cualquier geometría, un conjunto de puntos situados sobre una misma línea se dice que es colineal.
+En geometría euclidiana, esta relación se visualiza intuitivamente mediante puntos que se encuentran situados sobre una "línea recta".
+Sin embargo, en la mayoría de las geometrías (incluida la euclidiana), una recta suele ser un concepto básico, por lo que dichas visualizaciones no serán necesariamente apropiadas.
+Un modelo matemático de la geometría ofrece una interpretación de cómo los puntos, líneas y otros tipos de objetos se relacionan entre sí y una noción como la colinealidad debe interpretarse dentro del contexto riguroso de este modelo matemático.
+Por ejemplo, en geometría esférica, donde las líneas están representadas en el modelo estándar por los círculos máximos de una esfera, los conjuntos de puntos colineales se encuentran en el mismo círculo máximo.
+Tales puntos no se encuentran en una "línea recta" en el sentido euclidiano, y por lo tanto no se piensa que estén "en fila".
+Una aplicación de una geometría sobre sí misma que convierte rectas en rectas se denomina colineación; dado que conserva la propiedad de la colinealidad.
+Las aplicaciones lineales (o funciones lineales) sobre un espacio vectorial, consideradas como aplicaciones geométricas, correlacionan rectas con rectas; es decir, aplican conjuntos de puntos colineales a conjuntos de puntos colineales y, por lo tanto, son colineaciones.
+En geometría proyectiva estas asignaciones lineales se llaman homografías y son solo un tipo de colimación.
+En cualquier triángulo, los siguientes conjuntos de puntos son colineales:
+En geometría analítica, en un espacio n dimensional, un conjunto de tres o más puntos distintos son colineales si y solo si, la matriz de las coordenadas de estos vectores es de rango 1 o menor.
+Por ejemplo, dados tres puntos X = (x1, x2, ..., xn), Y = (y1, y2, ... yn) y Z = (z1, z2, ..., zn), si la matriz
+es de rango 1 o menos, los puntos son colineales.
+Equivalentemente, para cada subconjunto de tres puntos X = (x1, x2, ..., xn), Y = (y1, y2, ... yn) y Z = (z1, z2, ..., zn), si la matriz
+es de rango 2 o menos, los puntos son colineales.
+En particular, para tres puntos en el plano (n = 2), la matriz anterior es cuadrada y los puntos son colineales si y solo si su determinante (matemática) es cero; ya que ese determinante 3×3 es dos veces (con signo más o menos) el área de un triángulo con esos tres puntos como vértices, esto es equivalente a la afirmación de que los tres puntos son colineales si y solo si el triángulo con esos puntos como vértices tiene área cero.
+Un conjunto de al menos tres puntos distintos se llama una recta, lo que significa que todos los puntos son colineales, si y solo si, por cada tres de esos puntos A, B, y C, el siguiente determinantes de Cayley-Menger es cero (con d (AB), que significa la distancia entre A y B, etc.):
+Este determinante es, por la fórmula de Herón, igual a &gt; 16 veces el cuadrado del área de un triángulo con longitudes laterales d (AB), d (BC), y d (AC); entonces, si este determinante es igual a cero es equivalente a verificar si el triángulo con vértices A, B y C tiene área cero (por lo que los vértices son colineales).
+Equivalentemente, un conjunto de al menos tres puntos distintos son colineales si y solo si, por cada tres de esos puntos A, B, y C con d (AC) mayor o igual que cada uno de d (AB) y d (BC), la desigualdad triangular d (AC ) ≤ d (AB) + d (BC) se mantiene como una igualdad.
+Dos números m y n no son coprimos, es decir, comparten un factor común distinto de 1, si y solo si para un rectángulo trazado en una retícula cuadrada con vértices en (0,0), (m, 0), (m, n) y (0, n), al menos un punto interior de la retícula es colineal con (0,0) y (m, n).
+En varios planos, la noción de intercambiar los roles de "puntos" y "líneas" mientras se preserva la relación entre ellos se llama dualidad proyectiva.
+Dado un conjunto de puntos colineales, aplicando el principio de dualidad se obtiene un conjunto de rectas que se encuentran en un punto común.
+La propiedad que tiene este conjunto de rectas (su reunión en un punto común) se llama concurrencia, y se dice son rectas concurrentes.
+Por lo tanto, la concurrencia es la noción dual plana de colinealidad.
+Dada una geometría parcial P, donde dos puntos determinan como máximo una línea, un gráfico de colinealidad de P es un grafo cuyos vértices son los puntos de P, donde dos vértices son adyacentes si y solo si determinan una línea en P.
+En estadística, la colinealidad se refiere a una relación lineal entre dos variables explicativas.
+Dos variables son "perfectamente colineales" si existe una relación lineal exacta entre las dos, por lo que la correlación entre ellas es igual a 1 o -1.
+Es decir, X_{1} y X_{2} son perfectamente colineales si existen los parámetros \lambda_0 y \lambda_1 de manera que, para todas las observaciones i, se tiene que
+Esto significa que si las diversas observaciones (X1i, X2i) se trazan en el plano (X1, X2), estos puntos son colineales en el sentido definido anteriormente en este artículo.
+La "multicolinealidad" perfecta se refiere a una situación en la que las variables explicativas k (k ≥ 2) en un modelo de análisis de la regresión están perfectamente relacionadas linealmente, de acuerdo con
+para todas las observaciones i.
+En la práctica, rara vez aparece una multicolinealidad perfecta en un conjunto de datos.
+Más comúnmente, el problema de la multicolinealidad surge cuando existe una "relación lineal fuerte" entre dos o más variables independientes, lo que significa que
+donde la varianza de es relativamente pequeña.
+El concepto de "colinealidad lateral" se expande en esta visión tradicional, y se refiere a la colinealidad entre variables explicativas y criterios (es decir, variables explicadas).
+En telecomunicaciones, una matriz colineal de antenas es una torre con un conjunto de dipolos montados de tal manera que los elementos correspondientes de cada antena son paralelos y están alineados, es decir, están ubicados en una línea o eje común.
+Las ecuaciones de colinealidad son un conjunto de dos ecuaciones usadas en fotogrametría y teledetección para relacionar sistema de coordenadas en un plano de imagen (sensor) (en dos dimensiones), con las coordenadas de un objeto (en tres dimensiones).
+En la configuración de una fotografía, las ecuaciones se obtienen considerando la proyección central de un punto de un objeto a través del centro óptico de la cámara a la imagen en el plano de imagen (sensor).
+Los tres puntos, el punto del objeto, el punto de la imagen y el centro óptico, son siempre colineales.
+Otra forma de decir esto es que los segmentos rectilíneos que unen los puntos del objeto con sus puntos de imagen son todos concurrentes en el centro óptico.

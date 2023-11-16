@@ -1,0 +1,14 @@
+Viasat es una empresa de telecomunicaciones con sede en Carlsbad, California, que proporciona equipos y servicios para comunicaciones militares y comerciales estadounidenses, principalmente en tecnologías relacionadas con los satélites.
+ViaSat se ubicó en el puesto 135 en la lista de 200 Mejores Compañías Pequeñas por Forbes en octubre de 2010 y se ubicó en el 31 por Space News en su lista de las 50 Mejores Compañías espaciales, con 414 millones de dólares de ingresos de negocio espacial en 2008.
+DOCSIS sobre satélite (DOCSIS over satellite) es básicamente el estándar de cablemódem DOCSIS adaptado a las plataformas satélite, para aquellos lugares, sobre todo rurales, donde no llega el cable, pero si tienen cobertura satélite:
+Para trabajar en enlaces satélite, se ha modificado DOCSIS para soportar, además de QAM, esquemas de modulación como QPSK.
+DOCSIS over Satellite (abreviadamente DOCSIS-oS o DOCSOS) permite a los operadores de banda ancha satelital utilizar tecnologías actualmente en uso en las redes de cablemódems, así como software estándar (disponible en estantes, salido del estante u off-the-shelf) de oficina de respaldo (back office) y de gestión de red (network management), lo que proporciona economías de escala.
+DOCSIS también proporciona controles de calidad del servicio (QoS) que permiten el despliegue de servicios por niveles, servicios de valor añadido como VoIP, características de seguridad y otras configuraciones para redes de banda ancha.
+Intelsat y Telesat, entre otros, apoyan este estándar, así como los fabricante de VSAT, como Viasat.
+La plataforma Surfbeam de Viasat está basada en DOCSIS 1.1, mientras que las adiciones primarias en DOCSIS 2.0 son formas de onda del canal de retorno CDMA (Code Division Multiple Access).
+WildBlue utiliza equipos DOCSIS para su servicio de banda ancha Ka-band en el satélite Telesat Anik F2.
+Tiene una velocidad de bajada (downstream) de hasta 1.5 Mbps.
+No obstante, WildBlue no es el único servicio basado en DOCSIS.
+Intelsat, Pegaso en Hispanoamérica y Eutelsat están entre los operadore que han adoptado DOCSIS.
+Viasat dice que tiene acuerdos para proporcionar la plataforma DOCSIS Surfbeam a más de diez diferentes proveedores de servicio por satéliteDOCSIS.
+Su foco consiste en ofrecer acceso por banda ancha vía satélite a los usuarios, SOHO y clientes SME.

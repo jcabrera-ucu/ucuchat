@@ -1,0 +1,17 @@
+La llovizna o garúa es una precipitación que se caracteriza por tener un tamaño de gota pequeño (usualmente menos 0,5 mm diámetro 0,02 pulgadas) dando la impresión de que las gotas flotan en vez de caer.
+La llovizna se origina en nubes relativamente bajas y de poco desarrollo vertical como son los estratocúmulos o los estrato.
+Es un fenómeno de común ocurrencia en la costa árida de Chile y Perú, en la región subtropical de Bolivia, y en la Cornisa Cantábrica de España.
+Aunque su intensidad es usualmente menor a la de la lluvia, la llovizna puede ser lo suficientemente copiosa como para producir acumulaciones del orden de 1 mm/h.
+Debido al pequeño tamaño de las gotas de llovizna, en muchas circunstancias la llovizna se evapora en gran medida antes de llegar a la superficie y así puede ser detectado por los observadores sobre el terreno.
+El código METAR para llovizna es DZ.
+Aunque la mayoría de las llovizna solo tiene un impacto inmediato menor en los seres humanos, una llovizna gélida puede conducir a condiciones peligrosas.
+Una llovizna gélida ocurre cuando una llovizna superenfriada cae a la tierra sobre una superficie cuya temperatura esta bajo cero.
+Estas gotas se congelan inmediatamente después del impacto, lo que lleva a la acumulación de placas de hielo (a veces llamado hielo negro) en la superficie de las carreteras.
+Una llovizna tiende a ser la forma más frecuente de precipitación en grandes áreas de los océanos del mundo, sobre todo en las regiones más frías de las zonas subtropicales.
+Estas regiones están dominadas por estratocúmulos superficiales marinas y vientos alisios de nubes cúmulus, que existen en su totalidad dentro de la marina en la capa límite.
+A pesar de las bajas tasas de acumulación en la superficie, se ha observado que la llovizna ejerce una influencia importante sobre la estructura de la nube, cobertura y propiedades radiactivas en estas regiones.
+Estos estudios han demostrado que la cantidad de llovizna está fuertemente ligada a la morfología de la nube y tiende a estar asociada con corrientes ascendentes dentro de la capa de limitación marítima.
+Las mayores cantidades de llovizna tienden a encontrarse en las nubes marinas que se forman en las masas de aire limpio que tienen bajas concentraciones de gotas de nube.
+Esta interconexión entre las nubes y la llovizna se puede explorar usando modelos numéricos de alta resolución como la gran simulación de remolino.
+undefined
+, incluyendo una lista de sinónimos.

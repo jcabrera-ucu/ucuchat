@@ -1,0 +1,29 @@
+Los materiales luminiscentes son materiales capaces de absorber energía y volver a emitirla en forma de luz visible.
+Estos fotones que se generan en la luz emitida son causados por transiciones electrónicas en el sólido.
+La energía absorbida se aporta como radiación electromagnética de energía superior, lo que provoca algunas transiciones desde la banda de valencia a la banda de conducción tal como la luz ultravioleta u otras fuentes.
+A principios del siglo XX, William Crookes, inventó un dispositivo que podía contar ciertas partículas muy energéticas conocidas en la actualidad como partículas alfa.
+con la finalidad de apoyar su investigación científica sobre el fenómeno de la radioactividad.
+El funcionamiento del aparato se basó en las propiedades luminiscentes del sulfuro de zinc, un compuesto que emite un pulso de luz visible cuando una partícula alfa choca contra él.
+Más tarde, el dispositivo de Crookes fue utilizado por el gran físico Ernest Rutherford para descubrir que los átomos se componen de un núcleo rodeado por una nube de electrones, desde entonces muchos otros materiales luminiscentes se han descubierto y fabricado.
+El proceso de transformación de la energía se lleva a cabo mediante la ocurrencia de una serie de fenómenos físicos y químicos, algunos de los cuales son plenamente conocidos, como sucede con el efecto fotoeléctrico, explicado por Albert Einstein con base en las nuevas ideas cuánticas de principios del siglo XX, y el efecto Compton, o bien a través de la aniquilación de pares y otros fenómenos que se conocen sólo parcialmente, como los involucrados en el transporte de la energía dentro del material, cuya comprensión cabal plantea toda una serie de problemas de frontera para ser resueltos por la investigación básica y aplicada.
+Estos materiales son capaces de absorber energía y volver a emitirla en forma de luz visible, y estos fotones que se generan en la luz emitida, son por transiciones electrónica en el sólido.
+Se emite luz visible cuando el electrón cae a un estado energético inferior si 1.8eV<h<3.1 eV.
+La energía absorbida se aporta como radiación electromagnética de energía superior (que causa transiciones desde la banda de valencia a la banda de conducción) tal como la luz ultravioleta, o de otras fuentes tales como electrones de alta energía o energía térmica, mecánica o química.
+Según el origen de la luminiscencia, los materiales se pueden clasificar en algunas categorías:
+Estos tipos de materiales pueden tener aplicaciones como:
+Los materiales luminiscentes están cada vez más presentes en la actualidad, en objetos y tecnologías comunes como los semáforos, las pantallas de computadoras, los teléfonos celulares y las tabletas, los billetes de euro, dispositivos médicos, las películas de rayos X y algunas otras fuentes de luz.
+En el consorcio de LUMINET participan varias universidades, institutos científicos y empresas de República Checa, Estonia, Francia, Alemania, Países Bajos, Portugal, Polonia, España y Suiza, en donde la Comisión Europea ha concluido que los materiales luminiscentes son una de las tecnologías clave de cara al futuro.
+Para lograr mayores avances en este campo, una red de 13 institutos científicos y empresas formará a jóvenes para volverlos expertos en este tema, dando una iniciativa de cuatro años de duración financiada con 3,6 millones de euros procedentes de los fondos europeos.
+La bioluminiscencia es la capacidad que presentan algunos animales para producir luz, este fenómeno es más abundante en la fauna marina que en la terrestre ya que gran cantidad de peces, moluscos, calamares, medusas, corales y seres microscópicos tienen la propiedad de producir luz.
+En los animales marinos la fuente de luz está asociada o bien a la presencia de bacterias que viven dentro de ellos, o a células especializadas llamadas fotocitos y dentro de las cuales se produce luz.
+Aunque el caso más conocido de bioluminiscencia sea el de las luciérnagas.
+La producción de luz es parte de una reacción química que necesita la presencia de oxígeno del aire, una sustancia llamada luciferina y una enzima llamada luciferasa.
+Este oxígeno del aire penetra en el aparato luminoso a través de los tubos traqueales, se pone en contacto con la luciferina y la oxida (en presencia de la luciferasa que actúa como enzima o agente de ayuda pero que no participa en la reacción).
+La luciérnaga no genera calor, así pues toda la energía química es transformada en luz: la eficiencia es del cien por cien y la luz es fría.
+La electroluminiscencia de un material orgánico fue observada por primera vez en 1963 en cristales de antraceno.
+Sin embargo, la necesidad de emplear altos voltajes y cristales de antraceno de excepcional pureza hacía difícil su aplicación.
+Posteriormente se mejoró fabricando un dispositivo utilizando una fina película de antraceno mejorando la eficiencia en la emisión de luz al aplicar bajos voltajes.
+El polímero luminiscente se deposita en forma de fina película sobre el electrodo.
+Su funcionamiento consiste en la aplicación de una diferencia de potencial entre los dos electrodos, de modo que se inyectan electrones desde el cátodo a la película del polímero luminiscente, a la vez que desde el ánodo se inyectan huecos (se ceden electrones desde el polímero al ánodo).
+Por tanto bajo la acción del campo eléctrico los electrones y huecos se desplazan en sentido opuesto hasta encontrarse.
+Como los electrones inyectados presentan mayor contenido energético que los huecos donde se alojan, entonces ceden el exceso de energía en forma de fotones de luz visible, que se emiten al exterior a través del ánodo transparente.

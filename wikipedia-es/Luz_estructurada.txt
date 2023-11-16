@@ -1,0 +1,6 @@
+La luz estructurada es el proceso de proyectar un patrón conocido de píxeles (ocasionalmente rejillas o barras horizontales) en una escena.
+La manera en que dicho patrón se deforma cuando golpea distintas superficies permite a los sistemas de visión calcular la profundidad e información de la superficie de los objetos en la escena, tal como se usa en los escáneres de luz estructurada.
+La luz estructurada invisible (o imperceptible) utiliza luz estructurada sin interferir con otras tareas de visión computacional para las cuales el patrón proyectado podría ser confuso.
+Métodos de ejemplo incluyen el uso de luz infrarroja o de velocidades de fotograma extremadamente altas alternando entre dos patrones exactamente opuestos.
+Es utilizada por ciertas fuerzas policiales con el propósito de fotografiar huellas dactilares en una escena 3D.
+Mientras que anteriormente se utilizaba cinta adhesiva para extraer las huellas y aplanarlas, ahora es posible utilizar cámaras para aplanar la huella dactilar de forma digital, lo cual permite que el proceso de identificación empiece incluso antes de que el agente abandone la escena.

@@ -1,0 +1,29 @@
+Jean Pierre Serre (15 de septiembre de 1926) es un matemático francés.
+Por sus contribuciones a la geometría algebraica, la teoría de números y la topología ha sido considerado uno de los matemáticos más prominentes del.
+Ha recibido numerosos reconocimientos por sus investigaciones, incluyendo la Medalla Fields, que obtuvo en 1954, y el premio Abel en 2003.
+Nacido en Bages, Serre fue educado en el Lycée de Nîmes y desde 1945 a 1948 en la Escuela Normal Superior de París.
+Consiguió su doctorado por la Universidad de París en 1951.
+Desde 1948 a 1954 ha ejercido un cargo en el Centro Nacional para la Investigación Científica de Francia.
+Ahora es profesor en el Colegio de Francia.
+Desde muy joven fue una figura destacada en la escuela de Henri Cartan.
+Trabajó en topología algebraica, varias variables complejas y más tarde en álgebra conmutativa y geometría algebraica, en el contexto de las técnicas de teoría de haces y álgebra homológica.
+La tesis de Serre versaban sobre la sucesión espectral de Leray Serre asociada a una fibración.
+En su discurso en la ceremonia de premios de la Medalla Fields de 1954, Hermann Weyl elogió a Serre de forma extravagante, y también puntualizó que era la primera vez que se otorgaba el premio a un matemático del campo del álgebra.
+Serre cambió más tarde de campo, pues consideró que la teoría homotópica, en la que había empezado, se había vuelto demasiado técnica.
+Sin embargo, la consideración de Weyl de que el lugar central del análisis clásico había sido desafiado por el álgebra abstracta se ha justificado con el tiempo, así como el importante papel que desempeñó Serre en este cambio.
+Entre 1950 y 1960, la fructífera colaboración de Serre con Alexander Grothendieck les llevó a establecer un importante trabajo sobre los fundamentos matemáticos, motivado en gran parte por la conjeturas de Weil.
+Un documento fundamental escrito por Serre fue Faisceaux Algébriques Cohérents (Faisceaux Algébriques Cohérents, sobre cohomología coherente).
+Incluso en las primeras etapas de su obra Serre percibió la necesidad de construir teorías de cohomología más generales y refinadas para atacar las conjeturas de Weil.
+El problema era que la cohomología de un haz coherente sobre un cuerpo finito no podía capturar tanta topología como la cohomología singular de coeficientes enteros.
+Entre las primeras teorías de Serre (1954/55) se encontraba una basada en los coeficientes del vector de Witt.
+Alrededor de 1958 Serre sugirió que recubrimientos isotriviales de variedades algebraicas —los que pasan a ser triviales tras la retirada de un mapa de recubrimiento finito— eran importantes.
+Éste fue un paso significante hacia la teoría de étale covering.
+Grothendieck y otros colaboradores del SGA4 elaboraron finalmente un desarrollo técnico completo de la teoría.
+En los últimos años Serre ha sido a menudo una fuente de contraejemplos contra extrapolaciones demasiado optimistas.
+También ha trabajado codo con codo con Pierre Deligne, quien finalizó la prueba de la conjetura de Weil.
+Desde 1959 en adelante los intereses de Serre acariciaron la teoría de números.
+En particular la teoría de los cuerpos de clases y la teoría de la multiplicación compleja.
+Entre sus contribuciones más originales se encuentran: el concepto de K-teoría algebraica, la representación de Galois, la teoría de la cohomología l-adica y las concepciones de que estas representaciones eran "grandes"; y la conjetura de Serre sobre representaciones módulo-p que conectaron el Último teorema de Fermat con la geometría aritmética.
+Serre fue premiado con la medalla Fields a los 28 años de edad, siendo el premiado más joven hasta el día de hoy.
+El Premio Balzan (1985), el Premio Steele (1955) y el Premio Wolf de matemáticas (2000).
+Fue el primer premiado con el Premio Abel en 2003.

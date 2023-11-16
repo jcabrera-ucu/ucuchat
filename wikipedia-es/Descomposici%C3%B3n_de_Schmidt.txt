@@ -1,0 +1,27 @@
+En álgebra lineal, la descomposición de Schmidt  (nombrada por su inventor Erhard Schmidt) es una manera particular de expresar un vector en el producto de tensorial de dos espacios de producto interior.
+Tiene numerosas aplicaciones en teoría de información cuántica, por ejemplo en caracterización del entrelazamiento cuántico y en purificación de estados, y en plasticidad.
+Sean H_1 y H_2 y espacios de Hilbert de dimensiones n y m respectivamente.
+Se supone que n \geq m. Para cualquier vector en el espacio producto tensorial, existen conjuntos ortonormales  y  tales que , donde los escalares \alpha_i son reales no-negativos, y, los conjuntos están determinados unívocamente por w.
+La descomposición de Schmidt es esencialmente la descomposición de valores singulares en un contexto diferente.
+Fijando bases ortonormales y, podemos identificar un tensor elemental  con la matriz e_i f_j ^T, donde f_j ^T es la transpuesta de f_j.
+Un elemento general del espacio producto tensorial
+puede ser visto como la matriz n \times m Por la descomposición de valores singulares, existen una matriz unitaria n\times n U, una matriz unitaria m\times m V, y una matriz diagonal semidefinida positiva m\times m \Sigma tales que
+Escribiendo donde U_1 es n \times m tenemos
+Sean los primeros m vectores columna de U_1,  los vectores columna de V, y  los elementos diagonales de \Sigma.
+La expresión anterior es entonces
+Por tanto
+lo que prueba la proposición.
+Algunas propiedades de la descomposición de Schmidt tienen interés físico.
+Considerar un vector w del producto tensorial
+en la forma de descomposición de Schmidt
+Formando la matriz de rango 1, la traza parcial de \rho con respetar a cualquier sistema A o B, es una matriz diagonal cuyos elementos diagonales no nulos son.
+En otras palabras, la descomposición de Schmidt muestra que el estado reducido de \rho en cualquier subsistema tiene el mismo espectro.
+Los valores estrictamente positivos \alpha_i en la descomposición de Schmidt de w son sus coeficientes de Schmidt.  El número de coeficientes de Schmidt de w, contados con su multiplicidad, se denomina rango de Schmidt, o número de Schmidt.
+Si w se puede expresar como producto
+entonces w es un estado separable. En caso contrario, w está en un estado entrelazado. De la descomposición de Schmidt podemos ver que w está entrelazado si y solo si w tiene rango de Schmidt estrictamente mayor que 1.
+Por tanto, dos subsistemas que forman un estado puro están entrelazados si y solo si sus estados reducidos son estados mixtos.
+Una consecuencia de lo anterior es que, para estados bipartitos puros, la entropía de von Neumann de los estados reducidos es una medida bien definida del entrelazamiento. La entropía de von Neumann de ambos estados reducidos de \rho es, y esto es cero si y solo si \rho es un estado producto (no entrelazado).
+En el campo de la plasticidad, los sólidos cristalinos como metales se deforman plasticamente principalmente a lo largo de los planos del cristal.
+Cada plano, definido por su vector normal ν puede "deslizar" en una de varias direcciones, definidos por un vector μ.
+Juntos el plano de deslizamiento y la dirección forman un sistema de deslizamiento que está descrito por el Schmidt tensor.
+El gradiente de velocidad es una combinación lineal de estos tensores a través de todos sistemas de deslizamiento donde el factor de deslizamiento es la tasa de deslizamiento a lo largo del sistema.

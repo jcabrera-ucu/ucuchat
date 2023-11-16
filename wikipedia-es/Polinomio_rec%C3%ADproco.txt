@@ -1,0 +1,13 @@
+En matemáticas, para un polinomio p con coeficientes complejos,
+se define el polinomio recíproco, p*
+donde denota el conjugado complejo de a_i \,\!.
+Un polinomio se dice que es autorrecíproco si.
+Si los coeficientes ai son reales, entonces esto se reduce a ai = an−i.
+En este caso, se dice que p es un polinomio palindrómico.
+Si p(z) es el polinomio mínimo de z0 con |z0| = 1, y p(z) tiene coeficientes reales, entonces p(z) es autorrecíproco.
+Esto es así porque
+Por tanto, z0 es una raíz del polinomio, que tiene grado n.
+Sin embargo, el polinomio mínimo es único, por tanto
+Una consecuencia de esto es que los polinomios ciclotómicos \Phi_n son autorrecíprocos para n > 1.
+Este resultado se utiliza en la criba especial del cuerpo de números para permitir que números de la forma, , y  puedan ser factorizados tomando partido de los factores algebraicos mediante el uso de polinomios de grado 5, 6, 4 y 6 respectivamente.
+Nótese que el \phi de los exponentes es 10, 12, 8 and 12.

@@ -1,0 +1,8 @@
+La Lex loci executionis es un locución latina que significa "la ley del lugar dónde se ejecuta la obligación", utilizada para referirse a que la ley aplicable para dirimir un litigio, según el lugar en dónde se va a ejecutar la sentencia.
+Tiene una gran importancia en Derecho internacional privado, en aquellos casos en los que un juez debe decidir si la normativa aplicable a un caso es la suya propia o la de otro estado distinto.
+Si bien la ley aplicable y el lugar de celebración de un posible juicio suelen coincidir, esto no tiene por qué ser siempre así.
+El lugar de celebración de un juicio depende de ciertas normas, y normalmente (no siempre) se elige el lugar en dónde se ejecutaría la sentencia, para dotar al juicio de mayor efectividad.
+En caso contrario, habría que pasar por otro proceso judicial para ejecutar la sentencia o el laudo arbitral en un país diferente.
+Por otro lado, si bien en ocasiones se elige otra ley aplicable, es muy habitual que se intente que la ley del contrato sea la misma que la que el juez conoce y por tanto, coincida con el país que tiene la jurisdicción sobre el asunto.
+De esta forma se facilita la resolución del caso, y se busca una sentencia lo más correcta posible (dado que el juez conoce su propia ley, pero para poder decidir en función de la de otro estado, primero debe estudiarla y conocerla correctamente).
+Esta es la razón de que se elija en muchas ocasiones la lex loci executionis.

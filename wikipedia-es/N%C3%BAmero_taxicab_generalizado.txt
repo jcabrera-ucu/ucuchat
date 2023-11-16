@@ -1,0 +1,5 @@
+Se dice que un número es el número taxicab generalizado Taxicab(k,j,n) si es el número más pequeño que puede expresarse como la suma de j potencias positivas de k de n formas diferentes.
+Los números taxicab generalizados con k=3 y j=2 coinciden con los Números Taxicab: Números más pequeños que se pueden expresar como la suma de dos cubos de n formas diferentes.
+Euler demostró que el
+No se conoce ningún Taxicab(5, 2, n) para n &ge; 2: No se conoce ningún número entero positivo que se pueda expresar como la suma de 2 o más potencias de 5.
+Taxicab-Zahl

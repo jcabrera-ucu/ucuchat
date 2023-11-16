@@ -1,0 +1,20 @@
+Se denomina efecto Robin Hood a las circunstancias económicas en las cuales el ingreso es redistribuido de manera que se reduce la desigualdad económica.
+El efecto ha sido denominado en honor a Robin Hood, de quien se decía que robaba a los ricos para darle a los pobres.
+Un efecto Robin Hood puede ser causado por un gran número de políticas o decisiones económicas, algunas de las cuales no necesariamente tenían por objetivo reducir la desigualdad.
+A continuación se indican algunas de dichas decisiones.
+Simon Kuznets sostiene que un importante factor que afecta los niveles de desigualdad económica es la etapa de desarrollo económico que posee un país.
+Kuznets indica una relación tipo campana entre el nivel de ingreso y la desigualdad, tal como ilustra la figura adjunta.
+La teoría establece que aquellos países con niveles muy bajos de desarrollo tendrán una distribución relativamente igualitaria de la riqueza.
+En la medida que un país se desarrolla, necesariamente crece su capital, y los propietarios de dicho capital tendrán una mayor riqueza e ingreso, lo cual produce desigualdad.
+Sin embargo, eventualmente varios mecanismos posibles de redistribución tales como los efectos de maduración y los programas de bienestar social producirán un efecto Robin Hood, con parte de la riqueza redistribuida a los pobres.
+Por lo tanto, los países más desarrollados se desplazarán hacia niveles de desigualdad más pequeños.
+Muchos países poseen un sistema de impuesto a los ingresos mediante el cual el primer segmento del salario de un trabajador está sujeto a una tasa de impuesto muy pequeña o no paga ningún impuesto, mientras que aquellos que reciben salarios mayores pagan una mayor tasa de impuestos por encima de un cierto monto umbral, este sistema es denominado de impuesto progresivo.
+De esta manera la población que se encuentra en mejores condiciones económicas paga un impuesto que es una mayor proporción de su salario, subsidiando a aquellos que se encuentran en condiciones menos favorables, lo que resulta en un efecto Robin Hood.
+De manera específica, un impuesto progresivo es un impuesto en el cual la tasa del impuesto se incrementa en la medida que la base impositiva aumenta.
+"Progresivo" describe un efecto de distribución sobre el ingreso o el gasto, haciendo referencia a la forma en que la tasa progresa de baja a alta, en donde la tasa impositiva media es menor que la tasa impositiva marginal.
+Se puede aplicar a los impuestos sobre los individuos o al sistema impositivo en su conjunto; un año, varios años, o toda la vida.
+Los impuestos progresivos intentan reducir la incidencia impositiva de aquellas personas con una menor capacidad de pago, al enfocar la incidencia en aquellos que poseen una mayor habilidad para pagar.
+En muchos países en vías de desarrollo, las redes de telecomunicación móvil tienden a sufrir una gran externalidad de red, lo cual los reguladores y operadores intentan corregir subsidiando subscripciones mediante precios mayores dependiendo de call termination.
+Ello permite que los que se encuentran en condiciones económicas menos favorables en ese país tengan acceso a servicios de comunicaciones, a menudo de manera gratuita (en un teléfono móvil prepago).
+El costo adicional es prorateado entre los suscriptores que realizan las llamadas a estos nuevos suscriptores; los que realizan la llamadas tienden a tener un mejor pasar económico.
+Por lo tanto, a pesar de que no existe una transferencia directa de dinero, existe un importante efecto Robin Hood, mediante el cual los que poseen una mejor condición económica subsidian a los que son más pobres.

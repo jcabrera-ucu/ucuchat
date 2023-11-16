@@ -1,0 +1,7 @@
+Windows Messaging, inicialmente llamado Microsoft Exchange Client, es un cliente de correo electrónico que se incluye con Windows 95 (a partir de OSR2), Windows 98 y Windows NT 4.0.
+En Windows 98 no viene instalado por defecto, aunque se puede instalar por separado en el CD de instalación.
+Windows Messaging es incompatible con Windows 2000 en adelante
+Microsoft Exchange ha ganado un amplio uso con el lanzamiento de Windows 95, ya que este era el único cliente de correo electrónico que se incluyó con él.
+En 1996, se renombró a Windows Messaging, debido a la próxima versión de Microsoft Exchange Server, y continuó siendo incluido en las últimas versiones de Windows hasta la versión inicial de Windows 98, la cual venía incluida con Outlook Express 4.0 como el cliente de correo electrónico predeterminado.
+El cliente de Email Windows Messaging tuvo dos ramas de sucesores:
+Microsoft Fax, también llamado como Microsoft at Work Fax (AWF), es el componente de fax que proporciona la capacidad de Fax Enviar-y-Recibir; enviar y recibir faxes estuvo almacenado en el mismo archivo .pst como otros mensajes, el primer intento de mensajería unificada por Microsoft; también tiene la capacidad de actuar como un servidor fax, el cual no está disponible en versiones más recientes desde Windows Vista.

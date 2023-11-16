@@ -1,0 +1,8 @@
+Un autoventilador (autovent) es un dispositivo para mantener un invernadero o un invernáculo dentro de una gama de temperaturas.
+El principio de base es que como el invernadero sobrecalienta el ambiente interior, el aire llega a ser más ligero, el respiradero abre cuando cierta temperatura se alcanza y deja el aire caliente salir hacia fuera y al aire más fresco de entrar del exterior.
+La fuerza para abrir el respiradero se proporciona de varias maneras, las más comunes son con la extensión termal y por los motores eléctricos.
+Los actuadores basados de la extensión termal utilizan el índice diferenciado de la extensión de diversos materiales (tiras bimetalic) o los líquidos especiales con coeficiente grande de extensión termal en pistones.
+Este acercamiento es barato, confiable y pasivo (no requiere ninguna energía externa).
+Los motores eléctricos (motores generalmente servo) son controlados generalmente por un sensor electrónico, y puede ser programado más exactamente.
+Los respiraderos pueden formar la parte de un sistema de control más complejo del clima para la humedad que controla, tarifa y temperatura del aire fresco.
+Los sistemas más sofisticados utilizan una computadora dedicada para controlar el riego, refrigeración (por evaporación generalmente), calefacción, encendido, fertilización de la inyección del CO2 y flujo de aire.

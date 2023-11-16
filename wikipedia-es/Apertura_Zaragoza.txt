@@ -1,0 +1,7 @@
+La Apertura Zaragoza (ECO A00) es una apertura menor.
+Controla una sola casilla central y con ellas se puede transponer a otras líneas, pero, en general, se entra en líneas inferiores.
+En contraposición del gambito de dama, que permite abrir el centro mediante c4, aquí se busca preparar con fuerza la jugada e4 para presionar el centro enemigo.
+Si bien las negras tienen muchas jugadas a elegir, el esquema básico de las blancas sería jugar:
+c3, d4, Af4, e3, Ad3, 0-0, Te1, Cd2 y finalmente e4.
+El gran inconveniente de esta apertura es que se vuelve muy predecible el objetivo de las blancas, por lo que las negras pueden organizar sus fuerzas para impedirlo e incluso tomar la iniciativa (c5), aprovechándose de la lentitud de las blancas.
+Línea principal

@@ -1,0 +1,42 @@
+Los somitas son estructuras segmentadas, formadas a ambos lados del tubo neural durante el desarrollo embrionario a partir del mesodermo paraxial o mesodermo dorsal somítico.
+A pesar de ser estructuras transitorias, poseen un rol importante en la organización del patrón segmentario en los embriones de los vertebrados, dando origen a las células que formarán las vértebras y costillas, la dermis de la piel dorsal, los músculos esqueléticos de la espalda y los músculos esqueléticos de la pared corporal y de las extremidades.
+La formación de los somitas ocurre durante el proceso de neurulación.
+Durante la formación del mesodermo, a cada lado del tubo neural se localizan gruesas bandas de células mesodérmicas.
+Estas bandas corresponden al mesodermo paraxial y durante ese periodo del desarrollo se conocen como placa segmentaria o mesodermo no segmentado.
+A medida que ocurre la regresión de la línea primitiva (en aves, reptiles y mamíferos) y se cierran los pliegues de la placa neural formando el tubo neural, el mesodermo paraxial se separa en bloques de células formando los somitas, con un número final que varía entre menos de 50 y más de 300 dependiendo de la especie.
+El primer somita se origina en la región anterior del tronco, los nuevas somitas van brotando del extremo anterior del mesodermo paraxial en intervalos regulares de tiempo.
+La formación de somitas empieza a medida que células del mesodermo paraxial se organizan en espirales de células denominadas somitómeros.
+Estos somitómeros se compactan y aíslan por un epitelio para eventualmente separarse del mesodermo paraxial presomítico y así formar somitas individuales.
+El número total de somitas formadas es una característica ubicua en una misma especie, por lo que el número de somitas presentes en un embrión es usado como indicador para determinar su grado de desarrollo.
+Este método es empleado para evitar las leves diferencias en la velocidad de desarrollo que pueden ser causadas por factores ambientales.
+El mecanismo de señalización celular que controla la periodicidad de la formación de las somitas no se conoce completamente, sin embargo se considera que ocurre mediante un modelo de “reloj” y “frente de onda”.
+Una vez que se ha completado la migración de células durante la gastrulación y formado el mesodermo paraxial, se empiezan a expresar varios grupos de genes de forma oscilatoria a lo largo de este mesodermo.
+Estos genes incluyen miembros de la familia FGF, Wnt y de la vía de señalización Notch.
+La presencia de Notch o de Lunatic fringe (proteína que activa a Notch) establece el límite donde ocurre la separación de los somitas, siendo la señalización por Notch suficiente para la formación de una división ectópica de somitas, para la cual intervienen una gran variedad de genes que codifican para proteínas de control de división celular (Cdc42), Cadherinas y Efrinas.
+Uno de los genes expresados de forma cíclica que funcionan como “reloj” indicando la separación de los somitas, es el gen hairy1, un homólogo del gen regla par hairy de Drosophila, y regulado por la vía de señalización Notch.
+El gen hairy se expresa en un patrón dinámico, primero en la porción caudal de cada somita y persiste durante por lo menos 15 horas.
+Luego se expresa en el mesodermo presomítico formando una onda, primero expresándose en la región caudal y moviéndose a la región anterior a medida que se forma un nuevo somita.
+De esta forma, la oscilación temporal de expresión génica en el mesodermo presomítico deja su traza en un patrón periódico espacial de expresión génica en el mesodermo en maduración y ello dicta cómo se tiene que romper el tejido dando lugar a bloques separados físicamente.
+La expresión intrínseca de estos “genes reloj” debe oscilar con una periodicidad igual a la necesaria para formar un somita, por ejemplo, 30 minutos en pez cebra, 90 en pollos, 100 en serpientes.
+La oscilación de genes en las células del mesodermo presomítico no es completamente autónoma.
+Cuando la señal de Notch es interrumpida en embriones de pez zebra, las células vecinas pierden la capacidad de oscilar la expresión de genes de forma sincrónica, indicando la importancia de Notch en mantener la sincronía entre poblaciones de células vecinas.
+Adicionalmente, cuando el notocordio es extirpado durante la formación de las somitas en un embrión de pollo, a pesar de que se forman el número correcto de somitas, el patrón temporal de formación se retrasa en los dos tercios posteriores de las somitas.
+Este fenotipo también se puede observar por la adición de inhibidores de Sonic hedgehog (shh), mientras que el desarrollo normal se puede recuperar por la adición de la proteína Shh exógena, demostrando que la formación de las somitas se ve influenciada por una señal proveniente del notocordio y mediada por Shh.
+La especificación de los somitas a lo largo del cuerpo se da por la expresión de los genes Hox que ellos expresan.
+Los genes Hox se activan simultáneamente durante la formación de cada somita.
+La expresión de los genes Hox será activada en el número apropiado de somita aún si se encuentran en una posición diferente del eje antero-posterior, pero una vez establecido su patrón de expresión en el somita, este se mantendrá incluso si es trasplantado hacia otra región del coso.
+La regulación de los genes Hox viene dada por el “reloj” de segmentación, y esta interacción permite la coordinación entre la formación y especificación de nuevos segmentos.
+Esclerotoma: Vértebras y discos intervertebrales (excepto núcleos pulposos que se originan a partir de la notocorda), costillas y cartílagos costales.
+Miotoma: Músculos de la caja torácica, extremidades, pared abdominal, espalda y lengua.
+Dermatoma: Dermis de la piel dorsal
+A diferencia de otros tejidos de origen mesodérmico, la especificación de las células del somita no ocurre sino hasta después de haberse formado completamente el somita.
+A medida que el somita va madurando, varias regiones se comprometen formando solo ciertos tipos celulares.
+Formado a partir de las células del somita más alejadas del dorso y próximas al tubo neural.
+Estas células experimentan mitosis y pierden sus características epiteliales redondeadas convirtiéndose nuevamente en células mesenquimales, las cuales se convertirán en células cartilaginosas (condrocitos) que darán origen a las vértebras y costillas.
+Esta porción es inducida por factores provenientes del notocordio y de la placa del piso del tubo neural, que, mediante la secreción de SHH y Nogina, inducen la expresión de Pax1, el cual es requerido para la formación del cartílago.
+Formado a partir de las células de la región más dorsal del somita, y es inducido por factores provenientes de la parte superior del tubo neural: neurotrofina 3 (NT-3) y Wnt1.
+Esta región genera el mesenquima del tejido conectivo (dermis) de la piel de la espalda.
+En aves, esta dermis es responsable de la inducción de plumas.
+Formado a partir de las dos porciones laterales al epitelio, estas se dividen para formar la capa más inferior de las células precursoras del músculo, los mioblastos.
+El miotoma es inducido por un lado por factores provenientes del tubo neural como Wnt1 y Wnt3a, y por otro lado por factores provenientes del mesodermo lateral como BMP4, FGF5 y Wnt de la epidermis.
+Estos factores hacen que los mioblastos migren alejándose de la región dorsal y diferenciándose en la región ventral.

@@ -1,0 +1,34 @@
+En el campo de la compresión de video, un fotograma de video se comprime utilizando diferentes algoritmos con distintas ventajas e inconvenientes, centrándose principalmente en la cantidad de datos comprimidos.
+Estos diferentes algoritmos para los fotogramas de video se denominan tipos de imágenes o tipos de fotogramas.
+Los tres principales tipos de imagen utilizados en los diferentes algoritmos de video son I, P y B.
+Se diferencian en las siguientes características:
+En la compresión de video se utilizan tres tipos de imágenes (o fotogramas): I, P y B.
+Un fotograma I (Intra-frame) es una imagen completa, como un archivo de imagen JPG o BMP.
+Un fotograma P (Predicted picture) almacena solo los cambios producidos desde la imagen anterior.
+Por ejemplo, en una escena en la que un coche se mueve por un fondo inmóvil, solo hay que codificar los movimientos del coche.
+El codificador no necesita almacenar los píxeles del fondo que no cambian en el fotograma P, con lo que se ahorra espacio.
+Los fotogramas P también se conocen como fotogramas delta.
+Un fotograma B (Bidirectional predicted picture) ahorra aún más espacio al utilizar las diferencias entre el fotograma actual y los fotogramas anterior y posterior para determinar su contenido.
+Los fotogramas P y B también se denominan Inter-frame.
+El orden en que se disponen los fotogramas I, P y B se denomina Grupo de imágenes.
+Aunque los términos «fotograma» e «imagen» se utilizan a menudo indistintamente, el término imagen representa una noción más general, ya que una imagen puede ser un fotograma o un campo.
+Un fotograma es una imagen completa, y un campo es el conjunto de líneas de barrido pares o impares que componen una imagen parcial.
+Por ejemplo, una imagen HD 1080 tiene 1080 líneas (filas) de píxeles.
+Un campo impar consta de información de píxeles para las líneas 1, 3, 5...1079.
+Un campo par tiene información de píxeles para las líneas 2, 4, 6...1080.
+Cuando el video se envía en formato entrelazado, cada fotograma se envía en dos campos, el campo de las líneas impares seguido del campo de las líneas pares.
+Un fotograma utilizado como referencia para predecir otros fotogramas se denomina fotograma de referencia.
+Los fotogramas codificados sin información de otros fotogramas se denominan fotogramas I. Los fotogramas que utilizan la predicción de un solo fotograma de referencia anterior (o un solo fotograma para la predicción de cada región) se denominan fotogramas P. Los fotogramas B utilizan la predicción de la media (posiblemente ponderada) de dos fotogramas de referencia, uno anterior y otro posterior.
+En el estándar H.264/MPEG-4 AVC, la granularidad de los tipos de predicción se reduce al «nivel de segmento» (slice level).
+Un segmento es una región espacialmente distinta de un fotograma, que se codifica por separado de cualquier otra región del mismo fotograma.
+Los segmentos I, P y B sustituyen a los fotogramas I, P y B.
+Normalmente, las imágenes (fotogramas) se segmentan en macrobloques, y los tipos de predicción individuales pueden seleccionarse por macrobloque en lugar de ser los mismos para toda la imagen, como se indica a continuación:
+Furthermore, in the H.264 video coding standard, the frame can be segmented into sequences of macroblocks called slices, and instead of using I, B and P-frame type selections, the encoder can choose the prediction style distinctly on each individual slice.
+Also in H.264 are found several additional types of frames/slices:
+Multi‑frame motion estimation increases the quality of the video, while allowing the same compression ratio.
+SI and SP frames (defined for the Extended Profile) improve error correction.
+When such frames are used along with a smart decoder, it is possible to recover the broadcast streams of damaged DVDs.
+Often, I‑frames are used for random access and are used as references for the decoding of other pictures.
+Intra refresh periods of a half-second are common on such applications as digital television broadcast and DVD storage.
+Longer refresh periods may be used in some environments.
+For example, in videoconferencing systems it is common to send I-frames very infrequently.

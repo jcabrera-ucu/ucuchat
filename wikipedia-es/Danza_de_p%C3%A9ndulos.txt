@@ -1,0 +1,12 @@
+La danza de péndulos es un fenómeno que consiste en el efecto óptico que se produce en un juego de péndulos simples de longitudes diferentes y no acoplados, cuando se dejan libres partiendo de la misma posición lateral.
+Los péndulos dibujan una serie de ondas que cambian en el tiempo para repetirse al terminar cada ciclo.
+Estos péndulos no acoplados (independientes unos de otros) producen el efecto óptico de ondas que cambian con el tiempo.
+Se dice efecto óptico, ya que estas ondas no transportan energía, como realmente lo hacen las ondas, por ejemplo las olas del mar al llegar a la costa.
+Este es un ejemplo de comportamiento colectivo que se presenta cuando una señal continua es examinada sólo en puntos concretos de su eje.
+Otro ejemplo de comportamiento colectivo es el efecto estroboscópico.
+La este caso el movimiento colectivo surge cuando una señal continua es examinada en determinados momentos discretos del tiempo.
+El efecto óptico se produce al iluminar mediante destellos un objeto que se mueve de una forma rápida y periódica.
+El objeto se ve en movimiento lento, hacia adelante o hacia atrás, según la frecuencia de destellos sea inferior o superior a la del movimiento del objeto.
+Esto se observa, a veces, cuando visualizamos en el cine el movimiento de las ruedas de los trenes o coches.
+Estos efectos ópticos no tienen posibilidad de dar información de la función continua que subyace a lo largo de todos los puntos del eje en el caso de los péndulos, o en cada uno de los instantes, en el caso del movimiento del objeto.
+Para cualquier tiempo t1 a lo largo de un ciclo de la danza con periodo T, t1=T/z, se cumple:

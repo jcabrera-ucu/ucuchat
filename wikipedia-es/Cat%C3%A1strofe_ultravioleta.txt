@@ -1,0 +1,21 @@
+La catástrofe del ultravioleta es un fallo de la teoría clásica del electromagnetismo al explicar la emisión electromagnética de un cuerpo en equilibrio térmico con el ambiente.
+De acuerdo con las predicciones del electromagnetismo clásico, un cuerpo negro ideal en equilibrio térmico debía emitir energía en todos los rangos de frecuencia; de manera que a mayor frecuencia, mayor energía.
+Así lo mostraron Rayleigh y Jeans, por quienes la catástrofe ultravioleta también se conoce como catástrofe de Rayleigh-Jeans.
+De acuerdo con la ley que ellos enunciaron, la densidad de energía emitida para cada frecuencia debía ser proporcional al cuadrado de la última, lo que implica que las emisiones a altas frecuencias (en el ultravioleta) deben portar enormes cantidades de energía.
+Tanto es así, que al calcular la cantidad total de energía radiada (es decir, la suma de las emisiones en todos los rangos de frecuencia), se aprecia que ésta es infinita, hecho que pone en riesgo los postulados de conservación de la energía.
+La anterior es la formulación matemática de la Ley de Rayleigh-Jeans, en donde I(\nu) es la radiancia espectral (intensidad de radiación) para la frecuencia \nu, \kappa_B es la constante de Boltzmann, T es la temperatura y c es la velocidad de la luz.
+Es importante resaltar que esta ley es el resultado del análisis desde la teoría del electromagnetismo clásico.
+Los experimentos para medir la radiación a bajas frecuencias (en el infrarrojo) arrojaron resultados acordes con la teoría; pero ésta implicaba que todos los objetos estarían emitiendo constantemente radiación visible, es decir, que actuarían como fuentes de luz todo el tiempo.
+Esto, sin embargo, es falso.
+Posteriormente, cuando se desarrollaron técnicas de medición apropiadas, se estudió la radiación en el visible y en el ultravioleta, y la observación experimental mostró claramente que la predicción del electromagnetismo clásico, resumida en la ley de Rayleigh-Jeans, no se cumplía en dichos intervalos de radiación.
+En realidad, aunque la energía aumenta con el cuadrado de la frecuencia cuando esta es baja, al aumentarla más, la energía tiende a cero.
+En la gráfica se muestra cómo varía en la práctica la densidad de energía emitida en relación con la longitud de onda para cuerpos negros a diferentes temperaturas y se observa que dicha densidad tiende a cero en los dos extremos, tanto para las longitudes de onda cortas (altas frecuencias) como para las "largas" (frecuencias bajas).
+Wilhelm Wien estudió la curva obtenida experimentalmente.
+En 1893 encontró que podía representarla aproximadamente mediante la siguiente fórmula:
+donde C_1 y C_2 son constantes arbitrarias.
+Aunque esta ecuación sólo se aproxima a la curva, demuestra que el fenómeno tiene un comportamiento muy distinto al previsto por la física clásica.
+Éste fue uno de los primeros indicios de que existen problemas irresolubles en el marco de la física clásica.
+La solución a este problema fue planteada por Max Planck en 1900, con lo que se conoce ahora como ley de Planck.
+Ese momento se considera como el principio de la Mecánica cuántica.
+La razón por la cual la física clásica no es capaz de explicar el fenómeno consiste en que el Teorema de equipartición de la energía no es válido cuando la energía térmica es mucho menor que la energía cinética (1/2)k_B T relacionada con la frecuencia de la radiación.
+En este caso, el sistema está en un estado estacionario/congelado.

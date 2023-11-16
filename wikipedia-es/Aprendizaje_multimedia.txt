@@ -1,0 +1,24 @@
+Aprendizaje multimedia es aquel aprendizaje que utiliza elementos de naturaleza diversa como recursos, tales como palabras (habladas o impresas en cualquier soporte), ilustraciones (estáticas o dinámicas, fotos, dibujos, gráficos, vídeo, ya sea solo imagen en movimiento o en combinación audiovisual), para transmitir información a diferentes canales de recepción (visual y auditivo, por ejemplo).
+Se utiliza, específicamente, para los procesos de enseñanza que recurren a tecnologías de la información y de la comunicación siempre que combinen elementos de diferente naturaleza, ya sean estáticos (imagen y texto, por ejemplo) o dinámicos (animaciones).
+Incluye estudios sobre la eficacia para el aprendizaje de la utilización de presentaciones multimedia, interactividad basada en soporte informático, realidad virtual, juegos de simulación, e-learning y en general todo uso de combinaciones de recursos electrónicos para el aprendizaje.
+Una teoría clara es que aprender significa añadir información a una memoria.
+De acuerdo a esta teoría la computadora es un sistema de entrega de información para aprendices.
+El rol del diseñador de contenido de aprendizaje es presentar información por medio de letras, imágenes, vídeos, etc. Y el rol del aprendiz es recibir toda la información.
+Por ejemplo, cuando una explicación es presentada en escrito el alumno puede guardar la información en su memoria.
+Al añadir imágenes o vídeos no debería tener ningún efecto en lo que está aprendiendo si las imágenes contienen la misma información que el escrito.
+Sin embargo, si algunos prefieren las presentaciones visuales y otros las verbales, entonces una presentación multimedia sería efectiva para los dos tipos de estudiantes.
+De esta manera los estudiantes pueden elegir la manera de recibir que le convenga.
+Acorde a esta teoría las presentaciones multimedia son mejores que las que se basan en solo un tipo de media.
+Esta se basa en el aprendizaje significativo y ocurre cuando mentalmente los estudiantes construyen representaciones de conocimiento coherente.
+Esta teoría se basa en tres conjeturas realizadas por la investigación cognitiva.
+1.- Suposición de doble canal: La idea que los humanos tienen canales separados para procesar representaciones visuales/gráficas y verbales/auditivas
+2.-capacidad limitada de suposición: la idea que solo algunas piezas de información pueden ser procesadas a la vez en cada canal.
+3.- proceso activo: cuando el aprendizaje significativo ocurre y el estudiante se involucra en el proceso cognitivo de tal manera que selecciona material relevante, organizándolo en una representación coherente e integrándolo con conocimiento ya adquirido.
+En otras palabras "La narración entra por los oídos, por lo que el alumno selecciona algunas de las palabras para un profundo procesamiento en el canal verbal, organiza las palabras en una cadena de causa y efecto, integrándolo con el material visual y el conocimiento previo. La animación entra por los ojos, por lo que el alumno selecciona algunas de las imágenes para un profundo procesamiento en el canal visual, organiza las imágenes en un cadena de causa y efecto, y lo integra con el material verbal y previo conocimiento."
+El proceso cognitivo es la unión de los dos canales junto con la memoria del individuo haciendo una mezcla de información importante lo cual hace de la presentación multimedia más completa que las de un solo medio.
+La teoría de la carga cognitiva y la teoría cognitiva del aprendizaje multimedia, buscan alinear el diseño de material instruccional con la Arquitectura Cognitiva Humana.
+Plantea que los aprendices tienen una muy limitada capacidad de memoria de trabajo cuando deben enfrentarse con nueva información.
+Por ello, el aprendizaje se verá amenazado si los materiales instruccionales sobrecargan estos recursos.
+Según la TCC -teoría de la carga cognitiva-, la información que entra al cerebro es procesada o memorizada en tres diferentes estructuras,
+La variable más importante a controlar es que la instrucción no debe sobrecargar la memoria de trabajo del aprendiz, lo cual impediría el aprendizaje.
+La carga cognitiva debe ser el centro de atención, pues relaciona directamente el diseño de interfaz con el aprendizaje.

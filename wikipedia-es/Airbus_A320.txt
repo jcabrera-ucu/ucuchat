@@ -1,0 +1,36 @@
+El Airbus A320 es un avión comercial de reacción, de Fuselaje estrecho, para vuelos de corta a media distancia desarrollado desde 1987 por Airbus SAS, una compañía francesa actualmente controlada por la corporación neerlandesa Airbus SE.
+Existen diversos modelos derivados del A320, entre los que se incluyen las versiones cortas A318 y A319, la versión alargada A321, y los aviones de negocios ACJ.
+El ensamblaje final de estos aviones en Europa se lleva a cabo en Toulouse (Francia) y Hamburgo (Alemania).
+Desde 2009, también hay en funcionamiento una planta de ensamblaje en Tianjin (China) donde se produce este tipo de aeronave para las aerolíneas chinas.
+Además, el 14 de septiembre de 2015, Airbus inauguró una planta de montaje de la familia A320 en Mobile (Estados Unidos) y, el 21 de marzo de 2016, efectuó su primer vuelo el primero de los aparatos montados en ella, un A321 sharklets destinado a la compañía JetBlue.
+Los modelos derivados del A320 tienen una capacidad máxima de 220 pasajeros y un alcance que va desde los 3100 hasta los 12 000 km, dependiendo del modelo.
+La primera versión del A320 se lanzó en marzo de 1984, siendo su primer vuelo el 22 de febrero de 1987, y puesto en servicio el 28 de marzo de 1988 con Air France.
+Posteriormente se desarrollaron el A321, que entró en servicio en 1994; el A319, que lo hizo en 1996; y el A318, en 2003.
+El A320 fue el primer modelo de avión comercial con sistema de control de vuelo con mandos electrónicos digitales y también con palancas de control laterales.
+En este aspecto ha habido un proceso de mejora continua desde su introducción.
+El 1 de diciembre de 2010, Airbus lanzó oficialmente una nueva generación de la familia A320 denominada A320neo (New Engine Option).
+Esta se ofrece con motores CFM International LEAP-1A o Pratt & Whitney PW1900G, que combinados con mejoras en la estructura y la incorporación de sharklets, permitirá un ahorro de combustible de hasta un 15 % en trayectos cortos y medianos Y en trayectos Largos se consigue una eficiencia de hasta un 17%.
+Virgin America era el cliente de lanzamiento previsto del A320neo para la primavera de 2016, pero se cambió a Qatar Airways, que rechazó su primera entrega por problemas con los motores Pratt & Whitney PW1900G.
+Finalmente, fue Lufthansa quien, el 20 de enero de 2016, recibió el primer A320neo equipado con motores Pratt & Whitney PW1900G, registrado D-AINA, y que entró en servicio comercial el 24 de enero de 2016 entre Fráncfort y Múnich.
+A fecha de 31 de diciembre de 2011, unas 21 aerolíneas ya habían hecho pedidos que sumaban un total de 1196 aviones de la familia A320neo, convirtiéndolo en el avión comercial más rápidamente vendido.
+A finales de diciembre de 2015, se habían entregado un total de 4075 aviones del modelo A320 y, de un total de 7633 pedidos, quedaban 3558 unidades aún por ser entregadas.
+La familia está clasificada como la familia de aviones comerciales de reacción más rápidamente vendida del mundo según los datos registrados entre 2005 y 2007, además de ser el avión de una única generación mejor vendido.
+Las novedades tecnológicas que introdujo este avión fueron:
+El A320 ha generado una familia de aeronaves que comparten un diseño común, pero que son un poco más pequeños o más grandes.
+La capacidad de pasajeros oscila entre uno y dos centenares.
+Un piloto que pueda pilotar un avión de esta familia puede pilotarlos todos con un pequeño curso de diferencias.
+El A320 en sí tiene tres variantes:
+Fue la versión original, pocos aviones de este tipo fueron producidos, porque la serie 200 superaba con creces las prestaciones de la serie 100, que era simplemente una versión con pesos reducidos.
+La veintena de aviones construidos quedaron en manos de los clientes lanzadores: Air France, Air Inter (heredados más tarde por Air France) y British Airways, que había absorbido poco antes a Caledonian Airways, la compañía británica que los había encargado.
+Todos los aviones de la serie 100, 20 de 21 en total fueron ya dados de baja o desguazados, el principal A320 quedó almacenado.
+Su diseño aerodinámico fue mejorado, añadiéndole wingtip fences en la década de 1980.
+En 1988, se le aplicó el motor IAE V2500, mucho mejores con más potencia y mayor confiabilidad; sin embargo, consume más combustible que el CFM56.
+En 2012 se comenzó a producir una versión con sharklets, y el año siguiente se añadió la posibilidad de adecuar los A319 y A320 anteriores a esta nueva modalidad.
+También se aumentó la capacidad de combustible, así como otros cambios menores.
+El principal cambio de esta variante es el uso de motores de mayor potencia y más eficientes, que ofrecen frente a las anteriores versiones del A320, un consumo un 15 % menor, un coste operativo un 8 % menor, una reducción del 50 % en emisiones de NOx, y menor impacto acústico, de acuerdo a los datos estimados por Airbus.
+Los operadores de estas aeronaves tienen la opción de elegir entre la planta motriz CFM International LEAP-1A o la Pratt & Whitney PW1900G.
+El fuselaje así como las alas, también reciben diversas modificaciones, entre las que se incluye la instalación de unos dispositivos de punta alar denominados "Sharklet", así como diversas mejoras en el interior del fuselaje.
+Su primer vuelo tuvo lugar el 25 de septiembre de 2014, introducido por la aerolínea alemana Lufthansa.
+Este avión fue el más rápido que se haya vendido en la historia, teniendo pedidos de 7.188 modelos a finales de 2019.
+Los operadores principales del Airbus A320 en el mundo (excluidos los pedidos).
+{| class="wikitable sortable" style="text-align: center;"

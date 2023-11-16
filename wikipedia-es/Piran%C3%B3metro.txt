@@ -1,0 +1,26 @@
+Un piranómetro (también llamado solarímetro y actinómetro) es un instrumento meteorológico utilizado para medir de manera muy precisa la radiación solar incidente sobre la superficie de la Tierra.
+Se trata de un sensor diseñado para medir la densidad del flujo de radiación solar (kilovatios por metro cuadrado) en un campo de 180 grados.
+Generalmente se utilizan tres medidas de radiación: semiesférica total, difusa y directa.
+Para las medidas de radiación difusa y semiesférica la radiación directa se suprime utilizando un disco parasol.
+El principio físico utilizado generalmente en la medida es un termopar sobre el que incide la radiación a través de dos cúpulas semiesféricas de vidrio.
+Las medidas se expresan en kW/m².
+Un piranómetro se constituye por una pila termoeléctrica contenida en un alojamiento con dos semiesferas de cristal.
+La pila termoeléctrica está constituida por una serie de termopares colocados horizontalmente, cuyos extremos están soldados con unas barras de cobre verticales solidarias a una placa de latón maciza.
+El conjunto está pintado con un barniz negro, para absorber la radiación.
+El flujo de calor originado por la radiación se transmite a la termopila, generándose una tensión eléctrica proporcional a la diferencia de temperatura entre los metales de los termopares.
+Para medir la radiación difusa es necesario tapar el sensor de radiación directa mediante una pantalla parasol, midiendo la irradiancia solar difusa (piranómetro de difusa).
+Una variante es el perheliógrafo, un pirheliómetro dotado de un dispositivo registrador.
+El espectro de la radiación solar se extiende entre 300 y 2800 nm.
+Esto indica que un piranómetro debe cubrir ese espectro con una sensibilidad lo más «plana» posible.
+Para medir la radiación solar, se requiere que la respuesta al flujo de radiación varíe con el coseno del ángulo de incidencia.
+Por ejemplo, máxima respuesta cuando el flujo incide perpendicularmente sobre el sensor (0 grados), respuesta nula cuando el Sol está en el horizonte (90 grados) o valores intermedios de respuesta, cuando el ángulo de incidencia está entre los anteriores.
+Otro tipo de piranómetros son los fotovoltaicos.
+En ellos, el principio de funcionamiento no es térmico como en el caso anterior; sino que tiene como fundamento el efecto fotoeléctrico.
+La radiación incide sobre un fotodiodo que es capaz de diferenciar el espectro solar por la frecuencia de la onda electromagnética, y de ese modo, mediante la lectura de voltaje, conocer los datos de radiación.
+Dada su naturaleza, en este tipo de piranómetros es posible adosar filtros de ciertas bandas del espectro solar, por medio de algún domo de vidrio impregnado con el filtro deseado.
+Por otro lado, son más sensibles a pequeñas irregularidades y cambios debido a que no tienen la inercia térmica que sí tienen los térmicos.
+Los piranómetros están estandarizados de acuerdo a la norma ISO 9060, que también es adoptada por la Organización Meteorológica Mundial (OMM).
+Esta norma discrimina tres clases.
+La mejor es (confusamente) llamada "Standard secundario", la segunda mejor es la "primera clase" y la última "segunda clase".
+La calibración se realiza de acuerdo a la Referencia Radiomètrica Mundial (WRR).
+Esta referencia ha sido adoptada y es controlada por el Centro Radiomètrico Mundial PMOD/WRC en Davos, Suiza.

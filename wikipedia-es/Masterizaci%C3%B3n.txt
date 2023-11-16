@@ -1,0 +1,168 @@
+La masterización es un término que proviene de máster, en inglés, que hace referencia al producto final de una grabación sonora, que servirá como original o pieza maestra, de la cual han de obtenerse las copias.
+Como tal, aunque ha evolucionado, es un concepto que ha estado ligado a la historia del registro sonoro.
+Se podría afirmar que la primera masterización tuvo lugar en el laboratorio de Thomas Edison, ya que el propio Edison o uno de sus asistentes tuvo que producir de alguna manera el primer cilindro listo para ser utilizado en el fonógrafo para reproducir un sonido grabado previamente mediante el mismo aparato.
+Con la invención del gramófono, se popularizó el uso del disco de vinilo, lo que sucedió de forma paralela al desarrollo de la radio en Estados Unidos.
+El ingeniero encargado de la masterización elabora el máster grabando un surco en la superficie del mismo usando un pickup similar al que se usa para reproducción.
+Este surco forma una espiral que inicia su camino en la periferia de la superficie del disco y avanza hacia su interior.
+La velocidad con que la punta grabadora avanza hacia el centro del disco determina la distancia entre surcos, lo que a su vez limita la amplitud de las vibraciones que puede registrar el pickup, lo que luego se traduce en un disco que suena más o menos fuerte.
+Con el advenimiento del disco compacto, la forma en que se realiza el trabajo de crear el prototipo para el máster cambió, pero siguió siendo necesario.
+En los primeros años de la masterización de CD, era creado el máster  usando una cinta de video U-matic, en la cual el audio era grabado digitalmente mediante un equipo de conversión como el PCM 1630 de la empresa Sony.
+Con los años se creó el CD de escritura y luego el de lecto-escritura, que también comenzó a ser usado para entregar los máster a la planta de prensaje.
+Hoy en día son el formato de preferencia, junto al DDP (del inglés, "Disc Description Protocol"), que se usa para enviar el máster a través de internet.
+Algunas personas prefieren usar el término "Pre-masterización", ya que el producto obtenido en el estudio es solo un "pre-master" del cual se obtiene el "glass-master", generalmente en la propia planta, y es propiamente el prototipo, o "master" que se usa para la replicación.
+Los primeros títulos de registro sonoro fueron comercializados como cilindros para fonógrafo o disco para gramófono.
+Estas primeras grabaciones se realizaban directamente sobre el medio final, sin procesos intermedios.
+Con la invención de la cinta magnética, la grabación podía realizarse en un momento previo a la producción del máster del disco para replicación, con posibilidad de repetir cuando una toma no salía bien, y se podía incluso grabar cada fragmento musical en un momento diferente, lo que hacía necesaria una sesión extra de "armado", que posibilitaba la toma de decisiones como el orden de las canciones, para que el técnico encargado preparase el máster a partir de las diferentes cintas empleadas en el orden deseado y dejando un espacio de silencio adecuado entre ellas, proceso que hasta nuestros días se conoce con el nombre de "secuenciado".
+Otro aspecto importante en la evolución del trabajo de masterización se debió también al hecho de grabar en momentos diferentes cada pista del álbum, puesto que con frecuencia el resultado final era que cada pieza individual presentaba un nivel de volumen diferente, debido a lo cual el operario debía compensar este efecto ya fuera amplificando o atenuando algunas de ellas, lo que en ocasiones obligaba a la creación de una cinta maestra a partir de las originales.
+El operario ya no se encargaba solamente del aspecto puramente técnico de la preparación del máster, sino que tenía bajo su responsabilidad el secuenciado y la nivelación, lo que tenía también que ver con la parte artística del trabajo.
+En poco tiempo se agregó un ecualizador al arsenal, debido a que no solo se presentaban diferencias de nivel entre las diferentes pistas, sino también de naturaleza espectral.
+El ecualizador se utilizaba para compensar tales diferencias, que comenzaron a darse con mayor frecuencia e intensidad en los comienzos de la grabación multipista, que agregaba un proceso intermedio entre la grabación y la masterización : la mezcla.
+El registro sonoro y la radio tuvieron un desarrollo paralelo desde sus inicios.
+Mientras Thomas Alva Edison desarrollaba las primeras máquinas comerciales para registro y reproducción de sonido mediante procesos mecánicos, la radio se desarrollaba por medios electrónicos.
+El fonógrafo no estuvo listo para comercialización sino hasta 1889, casi al mismo tiempo que el gramófono, mientras Lee deForest inventó el audion, precursor de la válvula triodo, en 1906.
+La invención de deForest revolucionó para siempre la industria radial, convirtiéndose en el elemento primario por excelencia en las comunicaciones inalámbricas.
+Al aparecer distintas compañías, se comenzó a dar una competencia por la audiencia.
+Dado que a cada emisora se le asigna una sola frecuencia para explotar y el receptor de radio puede en cambio explorar todo el espectro, el oyente puede fácilmente cambiar de una estación a otra.
+La batalla por la audiencia se volvió encarnizada y se peleó en varios frentes: cobertura, contenido y potencia.
+La parte de la potencia se logra en los transmisores de RF, pero para lograr una diferencia apreciable en el receptor entre dos estaciones competidoras que tienen sus transmisores a una distancia relativamente igual con respecto al receptor se requieren varios decibelios.
+En términos de sonido, una diferencia de 3dB en nivel presión sonora requiere el doble de la potencia en el parlante, lo que implica aproximadamente el doble de inversión en transmisores para la estación que produce este incremento.
+Sin embargo, 3dB-SPL no producen una diferencia muy notable en el oído humano.
+Para producir la sensación del doble de potencia sonora percibida se requieren aproximadamente 10dB, es decir, aproximadamente una inversión 6 veces mayor en equipos de transmisión.
+La competencia librada en estos términos no resulta práctica y en cambio es extremadamente costosa.
+Por otra parte, debido a diferencias sutiles en la duración de las canciones, algunos discos de vinilo podían producir una señal más fuerte que otros, sin mover controles de volumen y, más importante aún, sin invertir más en costosos equipos de transmisión.
+Así, para sobresalir frente a la competencia, lo primero y más fácil que podían hacer las emisoras era elegir el material de partida basándose, además de otras consideraciones, en el nivel de volumen que podían producir.
+Bob Ludwig, uno de los íconos indiscutibles de la industrial mundial de la masterización, se encontraba en aquella época trabajando precisamente en esto, y declara: “Cuando apenas entré en el negocio y estaba haciendo muchos cortes de vinilo, un productor después del otro sólo querían que su 45rpm sonara más fuerte que el del otro, de tal manera que cuando el director de la estación radial Top 40 recorriera su pila de 45's para decidir cuáles dos o tres iba a agregar esa semana, el disco “saltara” hacia el director del programa, al menos auralmente”
+Podría decirse que la historia del procesamiento radial es la historia de la guerra del volumen.
+Dado que el hecho de que algunos discos de vinilo sonaran más fuerte que otros era circunstancial, era necesario encontrar una forma de lograr el mismo efecto sin tener que prescindir de ciertos títulos solo porque no sonaban tan fuerte.
+Hay que recordar que no solo el volumen, sino también el contenido, eran importantes para competir.
+Dado que el desarrollo de la radio había sido electrónico desde sus inicios, era de esta forma como debía resolverse el dilema.
+Uno de los primeros aparatos utilizados con el fin expreso de aumentar el volumen aparente de una grabación fue el Limitador de picos (peak limiter) RCA 96A, en 1936 y solo tres años después, el 1126A de Western Electric.
+Estos aparatos, sin embargo, solo ayudaban a evitar un fenómeno conocido como "'sobre-modulación'", que es básicamente saturación, dicho en términos de emisión radial.
+sin embargo, el hecho de que los vinilos no llegaban a la estación con un mismo nivel de volumen obligaba al operario a ajustar constantemente el volumen de salida del reproductor para lograr un nivel constante a la salida.
+Posteriormente, el PROGAR (Program Guardian) de Langevin, diseñado por Al Twone, finalmente apareció como el primer procesador radial que merecía ese nombre, al combinar el limitador de picos con un circuito de control automático de ganancia, AGC por sus iniciales en inglés, precursor de los modernos procesadores radiales de Orban, como la serie de los OPTIMOD.
+Los primeros especialistas de la masterización comenzaron a usar también estas herramientas radiales para lograr la sensación de un mayor volumen sin provocar distorsión por saturación.
+La guerra del volumen fue inicialmente entre estaciones radiales, pero ya para los 60s había varios estudios alrededor del mundo que usaban básicamente la misma técnica con el mismo fin.
+Un ecualizador gráfico, ya que el paramétrico no haría su debut sino hasta 1972, un limitador de picos como el 96A o el 1126A, un reproductor de cinta magnética de 1/4" para las mezclas analógicas, un DAT player para las digitales, y un SONY PCM1630, eran un equipamiento estándar para la época.
+El fin principal de esto era, por supuesto, lograr un álbum sónicamente coherente, secuenciarlo y darle el formato apropiado para enviar la cinta 1630 para prensaje, pero también lograr una sensación de mayor volumen en los compradores de discos.
+Esta era la otra guerra: la de los productores fonográficos.
+Y para lograrlo, usaban tecnología de emisión radial.
+Esto hizo que una contrarrestara a la otra.
+Mientras el procesador radial intentaba homogeneizar el audio que salía de la emisora, el hecho de que los estudios de masterización alrededor del mundo hicieran un proceso similar de antemano hacía que el material resultara siendo limitado al menos dos veces antes de llegar al receptor de radio.
+Incluso con el AGC del procesador radial, esto tendía a que las canciones más limitadas de antemano sonaran un poco más fuerte.
+A finales de los años 1970, Mike Dorrough lanzó su modelo 310 DAP, que significa en inglés "Discriminate Audio Processor" y en 1980 el 610.
+Estos procesadores primero separaban el espectro en tres componentes, o "bandas", aplicaban compresión a cada una por separado y luego las unían de nuevo.
+Hoy en día, a este tipo de procesador se le conoce como "Procesador multibanda".
+Esto elevó el nivel general de la emisión radial en términos de volumen percibido, llevando la guerra del volumen al siguiente nivel.
+Los 80's enmarcan un suceso en la historia del audio: la llegada a la escena del disco compacto, o CD, y desde entonces ya no se pudo usar más la técnica del ancho de surco, al ser los 16bit un límite rígido.
+De esta manera, la competencia de los estudios de grabación tuvo que limitarse, como la radio, a las armas electrónicas, así que por supuesto, el procesador multibanda no tardó en sumarse al arsenal de los estudios de masterización.
+Este proceso se volvió cíclico.
+Las estaciones radiales compiten entre sí por el volumen, pero al mismo tiempo intentan lograr un volumen homogéneo en todo su contenido, mientras los productores de ese contenido también compiten entre sí por el volumen, dificultando de esta forma el propósito inicial.
+La guerra por el volumen se perpetúa porque se realimenta; porque llega un momento en la historia en que ya no se trata de producir música sino solamente de vender más álbumes que los demás, lo que obliga a competir con ellos con todas las armas a disposición siendo el volumen una de las más utilizadas, incluso aunque su efectividad como método sea tan cuestionada actualmente.
+El formato CD solo nos permite encodificar el audio en 16 bits, lo que implica solamente 96dB de rango dinámico.
+Lo que se hace para tratar de superar este límite es disminuir la brecha entre el nivel de los picos de señal ocasionales, que se conocen como Peak en el medio, y el nivel cuadrático medio de la señal, también conocido como RMS, usando herramientas como limitadores de picos e incluso distorsión inducida en transistores, válvulas y cintas magnéticas.
+Tanto la limitación de picos como la distorsión inducida producen en el oído la sensación de que los picos de la señal siguen presentes, como si no hubieran sido recortados.
+Es como si nuestro cerebro, al interpretar la información que le llega desde el sentido auditivo "completara" la fracción de la señal que ha sido suprimida por una de estas herramientas, logrando de esta manera aumentar auditivamente el rango dinámico disponible en el formato.
+Pero incluso esta técnica tiene su límite, ya que sus beneficios tienen un costo: el audio se deteriora de manera más notoria mientras más se abusa de estos procedimientos y la dinámica musical se va perdiendo cada vez más.
+Esto ha provocado un movimiento mundial contra la guerra del volumen, lo que se ha manifestado en el desarrollo de propuestas como "Turn me up", que buscan detener esta tendencia en la industria.
+Los militantes de estas organizaciones hablan muchas veces del "rescate del rango dinámico", argumentando que las técnicas para aumentar el volumen percibido disminuyen el rango dinámico de las grabaciones, pero esto es incorrecto.
+Por una parte, el rango dinámico del formato CD es 96dB en todos los casos.
+Solo se tiene un rango dinámico inferior a esto cuando la señal encodificada no usa todos los 16 bits, lo que no es el caso de los álbumes llamados "Super Hot".
+Lo que sí puede perderse en cambio, dependiendo del material original, es la dinámica musical, que es la relación entre los pasajes fuertes y suaves de una canción, pero incluso esto puede ser corregido fácilmente por un profesional usando automatización.
+El deterioro sonoro es innegable pero también depende del estilo, ya que para algunos de ellos, la distorsión agregada puede ayudar a lograr su sonido característico.
+Desde luego, incluso en este caso es posible que el abuso destruya lo mismo que pretendía lograr, como lo demuestra el caso del álbum "Death Magnetic" del grupo Metallica.
+Para comenzar, el procesamiento del material sonoro en la etapa de masterización tiene el fin de hacer el álbum más homogéneo desde el punto de vista sonoro, en dos aspectos principalmente: la potencia sonora percibida a medida que transcurre el tiempo, lo que técnicamente se conoce mejor como "dominio del tiempo" y el llamado "color", que está relacionado con el contenido espectral de cada corte, que técnicamente se conoce como "dominio de la frecuencia".
+De esta manera, el procesamiento desde el punto de vista dinámico, en el dominio del tiempo, podría consistir en elegir uno de los cortes y adecuar el nivel aparente de los demás con respecto a este, y un procedimiento similar podría seguirse con el "color", en el dominio de la frecuencia.
+Los mejores resultados se logran cuando se combinan los dos enfoques, haciendo una separación por bandas usando la transformación de Fourier, y procesando por separado cada una de ellas, en el dominio del tiempo.
+El álbum resultante se parecería mucho al material original que salió del estudio de mezclas y su contenido dinámico musical se encontraría prácticamente intacto.
+Lo más importante a tener en cuenta ya en esta etapa del proceso de producción sonora es que no se cuenta con canales dedicados a los elementos individuales como guitarras, voces y otros instrumentos, sino que se trata directamente con señales, que normalmente vienen en pares, para los lados izquierdo y derecho.
+El procesamiento de mastering es, entonces, procesamiento de señales, analógicas y digitales, en su sentido más técnico.
+Pero en la práctica existen otras consideraciones como las de tipo estilístico.
+Por ejemplo, en el caso del rock, existe una tendencia a preferir un sonido más distorsionado y menos lineal, principalmente por razones de tipo histórico.
+La dificultad que enfrentan los estudios de proyecto y caseros de hoy en día en este sentido consiste, curiosamente, en que el enorme rango dinámico de que disponen las interfaces digitales de audio actuales, así como su gran linealidad dinámica y espectral, que las ponen muy por encima de las limitaciones de los primeros equipos de refuerzo sonoro y grabación.
+Esto se convierte en una limitación a la hora de encontrar el sonido "clásico", dado que tal sonoridad se debía a que las primitivas herramientas con que contaban tanto músicos como operarios de audio llegaban fácilmente a sus límites de operación en una situación normal de estudio o tarima.
+La respuesta de frecuencia de los primeros equipos de grabación estaba muy lejos de ser plana y el rango dinámico de la cinta magnética era muy escaso, con lo que tampoco se lograba una respuesta lineal, lo que en cambio no presenta problema alguno con los equipos actuales.
+La solución para reencontrarse con este sonido se encuentra en el procesamiento en la etapa de masterización, simplemente emulando la respuesta tanto de cintas como de transistores y válvulas a posteriori usando para el propósito herramientas de software o de hardware, dependiendo del método particular empleado por el profesional correspondiente.
+La distorsión se genera al recortar los picos de la señal a la manera en que lo harían cualesquiera de los elementos mencionados, y esto permite elevar el nivel general de la misma, dando como resultado un sonido con mayor potencia aparente, como efecto colateral.
+También conocido como "procesamiento dinámico", esta parte del trabajo con las señales da cuenta del análisis y posterior tratamiento de las mismas en el dominio del tiempo, o sea, a medida que el mismo transcurre.
+El técnico de audio está en contacto con ésta representación particular cuando se le muestra la "forma de onda", o "waveform", que típicamente se muestra en cada track de cualquier DAW, del inglés "Digital Audio Workstation" o estación de trabajo para audio digital, como la que se muestra en la figura.
+También, si lo tiene a mano, el osciloscopio es la herramienta de laboratorio creada para analizar señales en el dominio del tiempo.
+Esta representación muestra, si el control de zum le permite ver la totalidad del archivo, lo que puede llamarse un "perfil dinámico", a lo cual Robert Katz, en su libro "Mastering Audio: the art and the science" llama "Macrodinámica".
+En el archivo del ejemplo, puede verse claramente un perfil, o "envolvente" que muestra al técnico la estructura dinámica del corte, aún sin haberlo escuchado.
+Puede verse al principio una zona relativamente tenue y con poca densidad que aumenta rápidamente en ambas cosas.
+Luego se reduce nuevamente casi hasta el estado original y luego vuelve a ser progresivamente más denso y amplio durante un mayor tiempo.
+De esta manera se van definiendo secciones del material claramente definidas, que pueden separarse con marcadores en la DAW que se esté trabajando.
+Definir tales secciones y posteriormente determinar lo que va a hacerse con cada una de ellas es hacer un análisis y posteriormente un tratamiento macrodinámico, lo que normalmente se hace mediante automatización.
+Jean-Baptiste Joseph Fourier postuló que cualquier señal periódica puede reconstruirse a partir de una suma infinita de funciones seno y coseno de diferentes amplitud, fase y frecuencia, conocida como Serie de Fourier.
+Posteriormente, también descubrió que algunas señales no-periódicas también podrían representarse por medio del análisis de Fourier mediante un procedimiento que involucra el uso de integrales conocido como la Transformada de Fourier.
+Al conjunto de "tonos puros", o senoidales, cuya combinación produce la señal original es a lo que conocemos como el "espectro" de la señal.
+Mediante el uso de diversas técnicas de filtrado, la contribución de tales tonos puros puede ser separada y posteriormente modificada, resultando esto en una modificación de la señal original que es a lo que suelen llamar un cambio de "color".
+Este proceso puede realizarse usando filtros pasivos o activos, analógicos o digitales, implementados en hardware o software.
+Los filtros como tal pueden ser diseñados específicamente para el estudio o el trabajo en particular, o pueden ser conseguidos comercialmente, con pendientes de atenuación suaves o muy acentuadas.
+También pueden formar parte de un equipo que incluya controles de nivel, como los llamados "ecualizadores gráficos".
+Hablando estrictamente, todo equipo analógico es un filtro, se quiera o no. En ocasiones, por ejemplo, cuando se trata de un preamplificador de micrófono, normalmente se busca la mayor "transparencia" posible, lo que implica que se busca reducir al máximo los efectos de tal filtrado.
+En la práctica es imposible suprimir el efecto, pero sí puede minimizarse hasta trascender lo humanamente audible.
+Estos filtros, intencionales o no, siempre terminan modificando las relaciones de fase entre los componentes de la señal, que son ondas sinusoidales, lo que termina imponiendo una modificación adicional que casi nunca es la deseada.
+Para tratamiento espectral de masterización, dado que lo que se busca es homogeneizar el álbum como un todo, generalmente se quiere evitar este efecto colateral, lo que puede lograrse mediante el uso de filtros de fase lineal.
+Esto no puede realizarse de manera analógica, pero digitalmente se logra mediante el diseño de un Filtro FIR.
+Para utilizar la terminología normalmente empleada en el ambiente de los estudios de grabación, traducimos lo anteriormente dicho de manera técnica a la jerga tradicional del medio:
+1º Ecualización:1º Ecualización: Estrictamente hablando, el término se usa para otro tipo de proceso, pero típicamente, esto se refiere a la inserción de un filtro en el camino de la señal, cuya respuesta de frecuencia puede manipularse de una u otra manera.
+La forma en que dicha respuesta se manipula determina el tipo de "ecualizador" que se usa: gráfico, paramétrico o 'paragráfico'.
+Esto se hace con el fin de modificar el contenido espectral de la señal original.
+En resumen, la señal original sufre una transformación de Fourier para tratar directamente con sus componentes, se modifica la relación de frecuencia, amplitud y/o fase entre ellos y luego se reconstruye la señal original a partir de estos parámetros modificados.
+Al final se tiene, desde luego, una señal diferente a la original.
+Si se busca conservar las relaciones originales de fase entre los componentes será necesario el uso de filtros FIR, lo que implicará procesamiento digital.
+Si no se requiere ser tan estricto, pueden usarse herramientas analógicas, siempre teniendo en cuenta que buena parte del cambo producido será aleatorio.
+En ambos casos es conveniente el uso de un Analizador de espectro durante todo el tiempo que se esté trabajando en el procesamiento en el dominio de la frecuencia, para tener siempre presente la curva espectral resultante.
+De esta manera, se pueden usar los ojos para ayudar a los oídos, para decirlo de alguna manera.
+2° Compresión:2° Compresión: Se llama de esta manera a un cierto tipo de procesamiento dinámico, en el dominio del tiempo.
+Como su nombre lo indica, el objetivo de este procesamiento es tomar una señal de entrada para dar como resultado una señal de salida que equivale a la primera, pero con el rango dinámico reducido.
+El trabajo del compresor se da en lapsos reducidos de tiempo, razón por la que Robert Katz llama a este tipo de procesamiento "Micro-dinámica".
+El aparato consiste en un amplificador cuya ganancia depende de un voltaje de control que a su vez depende del nivel instantáneo de una señal de entrada.
+Al aplicarse el voltaje de control, la ganancia del compresor se reduce, lo que hace que la ganancia aplicada a los valores instantáneos de la señal que sobrepasen cierto valor, llamado "Umbral" o "Treshold", en inglés, sea menor.
+Este parámetro de umbral suele ser modificable por el usuario.
+Otro parámetro importante es el conocido como "Ratio", que podría traducirse como "relación de compresión" en español.
+Esto determina la cantidad de reducción de ganancia que se aplica cuando la señal alcanza el valor especificado por el umbral.
+Generalmente se da mediante la comparación de valores, como por ejemplo 2:1, que implica que se cuando se alcanza el nivel de umbral, la ganancia se reduce a la mitad.
+De manera alternativa, algunas unidades dan ésta especificación usando el Decibelio.
+Para el ejemplo, el ratio equivalente sería -6dB.
+3º Limitación: Esto se da cuando el ratio usado en el compresor se encuentra por encima del orden de 10:1 o, de manera equivalente, alcanza una reducción de -20dB.
+Se le da un nombre especial por cuanto su uso difiere en la práctica.
+Con el compresor se busca lograr una señal más homogénea, con picos instantáneos que se aparten menos de la media, mientras el limitador busca establecer un límite máximo absoluto, más allá del cual no existan valores de la señal.
+Hay una clase especial de limitador, que generalmente se hace de manera digital, llamado "Brick Wall Limiter" que busca ratios absolutos que se especifican normalmente como infinito:1.
+Este tipo de limitador busca lo mismo, pero de manera que no existan valores por encima de cierto valor especificado.
+Esto es útil cuando se busca maximizar una señal digital sin llevarla hasta 0dBFS, usando en su lugar un valor muy cercano, como -0.3dBFS, de tal manera que se eviten las señales de advertencia de "clipping", o "saturación de señal" en los reproductores.
+Si éstas herramientas son digitales pueden ser de software o hardware, si son analógicas pueden basarse en transistores, chips o válvulas de vacío, y si son a transistores, estos pueden ser FET o BJT.
+La forma en que se usen dependerá mayormente del estilo, dado que este determina la sonoridad buscada y ésta, a su vez, facilitará la elección de los equipos mismos.
+Dicho de otra manera, las herramientas están subordinadas a los métodos y estos, a los objetivos que se persiguen.
+Las herramientas de hardware y software se usan, por una parte, para fases determinadas del proceso de masterizado y por otra, en la etapa del procesamiento de las señales, dependiendo de consideraciones previas arriba mencionadas.
+El secuenciado y la edición, así como lo que se conoce como "PQ editing" y la adición de CD-text se hace mediante programas dedicados como Sadie, SEQUOIA o Pyramix.
+Al final, el master puede obtenerse mediante el "quemado" de un CD-r directamente desde la interfaz del software, o mediante la exportación de un archivo DDP, útil para enviar un máster a través de la red.
+Muchas compañías de prensaje alrededor del mundo están mostrando preferencia por este último formato por una parte por la conveniencia en el transporte y por otra porque incluye un esquema de corrección de errores, que lo convierte en un medio más confiable que el CD-R.
+Los programas diseñados para masterización difieren en varios aspectos de los que tradicionalmente se comercializan para producción musical.
+Para comenzar, un programa como SEQUOIA es capaz de generar un master en CD-r o en DDP directamente desde la interfaz de un proyecto multitrack, lo que es muy conveniente para el técnico encargado.
+La edición digital de audio, cuando se requiere, es más completa y transparente y también incluye algoritmos de fase lineal para procesamiento digital de señales y algunas herramientas muy útiles, como la exportación e importación de múltiples formatos, compensación por latencia en todos los tracks, muchos algoritmos de dithering profesional incluidos y mucho más.
+El "quemador" de CD-r es parte indiscutible del proceso de masterizado cuando el formato a entregar es un CD-r.
+Es opcional cuando se entrega DDP, dado que la idea es enviar las carpetas a través de la red, evitando cualquier medio físico.
+Hay quemadores internos y externos.
+Hay algunos, como los PLEXTOR, que incluyen herramientas útiles como el análisis del disco vacío y una verificación exhaustiva del material generado.
+En cuanto a las herramientas analógicas a partir del año 1990 en adelante han surgido marcas dedicadas exclusivamente a la construcción de equipos de mastering tanto para procesamiento dinámico y tratamiento espectral ( ecualizadores y procesadores psicoacusticos ) y procesadores psicoacusticos.
+Si bien es un mercado en el cual continuamente aparecen marcas y modelos nuevos, se destacan las siguientes ( presentes en casi todos los estudios de mastering del mundo ):
+( En orden alfabético ):
+Compresión
+GML 2030, Fairman TMC, Maselec MLA2, Pendulum OCL2, Shadow Hills, Neve.
+Ecualización
+Sontec 432,GML 9500,Buzz REQ-2.2,Knif Soma,Gyratec 14,Manley MS,Bax EQ
+Convertidores
+Antelope Pure2 AD,Solaris DA,Horus,DAD,Lavry gold
+Monitores
+ATC,PSI
+En el estudio de mastering normalmente confluyen herramientas analógicas y digitales, de hardware y de software, que se usan dependiendo de las características específicas y particulares que presenta cada programa sonoro.
+Las elecciones de estas herramientas radican en la experiencia, el conocimiento y el criterio del ingeniero de mastering, quien es el encargado de llevar a cabo dicha tarea.
+Algunos de los ingenieros de mastering más famosos son:
+Bernie Grundman, Uno de los estudios más renombrados internacionalmente, ha recibido numerosos Grammy Awards y TEC Awards.
+Bob Ludwig Uno de los primeros, que ha masterizado álbumes para Sting, Queen y John Mayer para mencionar solo algunos.
+Adam Ayan (Ganador de dos premios Grammy) ha masterizado a grupos como Nirvana, Rolling Stones o
+Incubus entre otros
+Don Grossinger también han pasado bandas de renombre como The Flaming Lips, Guided By Voices
+Leon Zervos destaca por haber masterizado a grupos de estilos muy diferentes con gran éxito: Aerosmith, Maroon 5, Dream Theater, Santana, Avril Lavigne
+Bob Katz que contribuyó a la difusión de las técnicas de masterización con varias obras escritas ( "Masterización de Audio: La Ciencia y el Arte) usadas como obras de referencia en esta materia.

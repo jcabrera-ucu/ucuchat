@@ -1,0 +1,165 @@
+Leishmania es un género de protozoo responsable de la enfermedad conocida como leishmaniasis o leishmaniosis.
+El principal vector de infección son los mosquitos de los géneros Phlebotomus (en Eurasia y África) y Lutzomyia (en América).
+Sus víctimas son vertebrados: la leishmaniasis afecta a marsupiales, cánidos, roedores y primates, y se estima que unos 12 millones de humanos padecen leishmaniasis hoy en día.
+Los orígenes de la Leishmania no son claros.
+Una teoría propone un origen en África, con migración a las Américas desde el Viejo Mundo unos 15 millones de años a través del estrecho de Bering.
+Otra teoría propone un origen paleártico.
+Dichas migraciones incluirían migraciones de los vectores o adaptaciones sucesivas.
+Una migración más reciente es la de L. infantum desde el Mediterráneo hasta países latinoamericanos, llamada desde entonces L. chagasi, desde la colonización europea del Nuevo Mundo, donde los parásitos encontraron un insecto vector que posibilitó su propagación a la población autóctona.
+La primera descripción de leishmaniasis fue hecha por El-Razy de Irak, alrededor del año 1500 d. C. En 1898, el médico ruso Piotr F. Borovsky hizo la primera descripción del agente etiológico presente en las lesiones cutáneas de un paciente, pero su publicación, hecha en ruso, pasó prácticamente inadvertida por los científicos occidentales.
+En 1901, William Boog Leishman, durante el examen de muestras patológicas del bazo de un paciente que había muerto de leishmaniasis (kala azar) se observaron cuerpos ovales y publicó acerca de ellos en 1903.
+Charles Donovan del Indial Medical Service Independent encontró que dichas entidades se hallaban en otros pacientes de kala azar; ahora se conocen como cuerpos de Leishman-Donovan.
+Lo identificaron como el protozoo que causa el kala azar, Leishmania donovani.
+Sinónimos para el kala azar incluyen ahora la leishmaniasis.
+Nombre de Leishman fue grabado en la historia de la parasitología por Sir Ronald Ross, quien quedó impresionado por el trabajo de Leishman y clasificó el agente etiológico de kala azar diferenciándolo en género Leishmania.
+Los parásitos del género Leishmania adoptan dos formas morfológicas durante su ciclo de vida:
+Aunque a primera vista las formas promastigote y amastigote parecen ser muy diferentes, la estructura celular está muy conservada.
+Por delante del núcleo, se encuentra el kinetoplasto, una región de la mitocondria donde se localiza el ADN mitocondrial formado por miles de moléculas circulares concatenadas.
+El kinetoplasto está conectado con el cuerpo basal, del que emerge el flagelo.
+En la base de flagelo, se encuentra una invaginación de la membrana celular, que recibe el nombre de bolsillo flagelar, lugar especializado en los procesos de endocitosis y exocitosis y conectado con el aparato de Golgi.
+undefined
+En el insecto vector, se han descrito varios estadios del parásito.
+Así, en la ingesta de sangre desde un hospedador infectado con Leishmania, se ingieren macrófagos con amastigotes en su interior y, tras la lisis del macrófago, los amastigotes se diferencian en promastigotes procíclicos.
+A continuación, estos se transforman en promastigotes nectomonados (nectomonads), que escapan de la matriz peritrófica y se adhieren a las microvellosidades de las células del epitelio intestinal.
+Este anclaje resulta fundamental para evitar que el parásito sea expulsado junto con los restos no adsorbidos tras la digestión de la ingesta de sangre.
+Posteriormente, avanzan hacia el intestino torácico y a la válvula estomodeal, donde se diferencian en promastigotes leptomonados (leptomonads).
+Allí, los leptomonados se diferencian bien en promastigotes haptomonados (haptomonads), que se adhieren a la válvula estomodeal, o en promastigotes metacíclicos, que son las formas infectivas y que se transmiten a los hospedadores mamíferos cuando el insecto pica para ingerir sangre.
+El fuerte anclaje de los haptomonados a la estructura quitinosa de la válvula estomodeal impide que pasen junto a los metacíclicos al hospedador mamífero, y de esta manera podrían ser también los responsables de que el insecto vector permanezca infectado de por vida.
+undefined
+Las distintas formas de promastigotes se definen con base en características morfológicas y de tamaño.
+Así, los promastigotes procíclicos tienen una longitud del cuerpo entre 6,5 y 11,5 µm, y un flagelo más corto que el cuerpo; el cuerpo de los nectomonados tiene una longitud mayor a 12 µm; los leptomonados tienen una longitud del cuerpo entre 6,5 y 11,5 µm, pero un flagelo más largo que el cuerpo; los promastigotes metacíclicos tienen una longitud del cuerpo inferior a 8 µm (anchura de 1 µm) y un flagelo más largo que el cuerpo.
+Los parásitos del género a Leishmania pertenecen al orden de los tripanosomátidos, donde se encuadran otros agentes etiológicos de enfermedades tan importantes como son la enfermedad del sueño (causada por Trypanosoma brucei) y la enfermedad de Chagas (causada por Trypanosoma cruzi).
+Todos ellos presentan ciclos de vida complejos en los que intervienen dos tipos de hospedadores: mamíferos e insectos.
+En la escala evolutiva, se sitúan en una de las ramas surgidas más tempranamente del tronco evolutivo de los eucariotas (hace unos 500 millones de años), lo que explica que estos organismos tengan mecanismos moleculares bastante peculiares, entre los que destacan la extensa edición del ARN mitocondrial para generar ARNm funcionales a partir de los transcriptos derivados de criptogenes (o pseudogenes) mitocondriales, la transcripción policistrónica de los genes nucleares y el procesamiento de los ARNm mediante el mecanismo de trans-splicing.
+undefined
+La clasificación de los parásitos del género Leishmania se basó inicialmente en criterios clínicos, de acuerdo a la enfermedad generada en los pacientes.
+Así, a las leishmanias causantes de leishmaniasis cutáneas, independientemente del lugar geográfico, se les denominó Leishmania tropica, y a las causantes de leishmaniasis visceral (LV) como Leishmania donovani.
+En 1908, el médico francés Charles Nicolle, teniendo en cuenta las peculiaridades de la LV en personas de la cuenca mediterránea, cuyas características clínicas y epidemiológicas eran diferentes a las asociadas a la LV en la India, decidió nombrar como Leishmania infantum al parásito causante de la LV en la zona mediterránea y mantener la denominación de L. donovani a los parásitos causantes de LV en la India.
+Posteriormente, en 1911, el científico brasileño Gaspar Vianna consideró pertinente nominar una nueva especie, Leishmania braziliensis, como la causante de las formas diseminadas de leishmaniasis que aparecían con cierta frecuencia en pacientes de Brasil.
+En años sucesivos, un gran número de especies se fueron nombrando, donde los criterios de localización geográfica se fueron imponiendo a los criterios clínicos, lo que ha llevado a la situación actual en la que organismos genéticamente indistinguibles recibieron nombres diferentes.
+Estudios filogenéticos basados en análisis de secuencias nucleotídicas están ayudando al establecimiento de taxonomías dentro del género Leishmania cada vez más consistentes.
+1.    Las personas son infectadas cuando son mordidas por una mosca de la arena hembra infectada.
+Al morderlos, estas moscas inyectan una forma de los protozoos (llamados promastigotes) que puede causar infección.
+2.    Los promastigotes son ingeridos por unas células inmunitarias llamadas macrófagos.
+(a este proceso se conoce con el nombre de fagocitosis, proceso mediante el cual una célula ingiere un microorganismo, otra célula o fragmentos celulares y las células que los ingieren se denominan fagocitos).
+3.    Dentro de  estas células, los promastigotes se desarrollan en otra forma y toman el nombre de amastigotes.
+4.    Los amastigotes se multiplican dentro de los macrófagos en varios tejidos.
+5.    Cuando una mosca de la arena pica a una persona o a un animal infectados, se infecta al ingerir sangre que contiene macrófagos con amastigotes en su interior.
+6.    Los amastigotes se convierten en promastigotes en la parte media del intestino de la mosca (intestino medio).
+7.    Dentro del intestino medio de la mosca, los promastigotes se multiplican, se desarrollan y migran a las partes bucales de la moscay se inyectan nuevamente cuando la mosca pica a otra persona, completando de esta forma el ciclo.
+Las infecciones se consideran cutáneas, mucocutáneas o viscerales.
+Las infecciones cutáneas, localizadas y difusas son claras infecciones de la piel.
+La más común es el botón de Oriente (causada por las especies del Viejo Mundo L. major, L. tropica, y L. aethiopica).
+En el Nuevo Mundo, los culpables más comunes son la L. mexicana y L. (Viannia) braziliensis.
+Las infecciones cutáneas son más frecuentes en Afganistán, Brasil, Irán, Perú, Arabia Saudita y Siria.
+La versión mucocutánea (espundia) son infecciones que comienzan como una reacción a la picadura y luego dispersan a las membranas mucosas y pueden llegar a ser mortales.
+Las infecciones mucocutáneas son frecuentes en Bolivia, Brasil y Perú.
+Las infecciones viscerales se reconocen por la fiebre, hepato-esplenomegalia y anemia.
+Se conocen por varios nombres, el más común de los cuales es Kala azar, y es causada exclusivamente por el complejo L. donovani (L. donovani, L. infantum, L. chagasi).
+Se halla en áreas tropicales y subtropicales en todos los continentes, con la excepción de Oceanía, especialmente en Bangladés, Brasil, India, Nepal y Sudán.
+Lo primero que ocurre es la penetración de los parásitos al hombre.
+Los promastigotas metacíclicos muestran resistencia a la citólisis por el complemento, debido a las modificaciones en la lipofosfoglicano (LPG) componente mayoritario de la superficie de la Leishmania.
+Posteriormente, se produce la unión macrófago-parásito en las que intervienen varias proteínas de superficie que favorecen la opsonización de los promastigotas y su unión a los receptores de macrófagos.
+Una vez adherido los promastigotas se produce la fagocitosis y se produce la transformación en amastigotas.
+Los amastigotas logran multiplicarse en el interior del macrófago, lo que conlleva a la lisis del macrófago y la liberación de parásitos que infectan nuevos macrófagos.
+La respuesta del huésped determina la progresión o eliminación de la infección, respuesta mediada principalmente por células T.
+Los macrófagos infectados por multitud de parásitos tienen como fuente de protección común la producción de óxido nítrico producido por la Óxido nítrico sintasa que es regulada a través del factor NF-kapabeta (factor nuclear potenciador de las cadenas ligeras kappa de las células B activadas).
+En el caso de Leishmania se pierde esa forma de defensa debido a que el parásito fosforila la PKR (proteína kinasa R dependiente de ARN de doble cadena) que es un componente clave en la respuesta antiviral celular.
+Esta proteína activada desacopla las subunidades de Nf-kapabeta inhibiendo la Óxido nítrico sintasa.
+La activación de PKR puede deberse a múltiples factores: intermediarios de ARN de doble cadena, estímulos como el factor de necrosis tumoral (TNF), Interleukinas (IL) y el lipopolisacárido bacteriano (LPS).
+PKR juega un papel fundamental en la ruta de señalización innata ya que es activada por la respuesta proinflamatoria además de ser importante en la activación del Factor Nuclear B (NF-B).
+Se ha comprobado que la infección producida por la especie L. amazonensis induce la fosforilación de PKR y aumenta su concentración.
+Cuando PKR está activa induce la producción de IL-10 que es un clásico supresor de citoquinas que puede favorecer la proliferación intracelular de L.amazonensis.
+El tratamiento con Poly C (polirribonucleótido sintético inductor de PKR) también produce la fosforilación de PKR y aumenta su concentración.
+La activación de PKR puede inducir al dímero transactivador de Nf-kapaBeta que conduce a la expresión de la Óxido nítrico sintasa y como consecuencia producirse NO, el cual presenta un efecto negativo a la proliferación intracelular de Leishmania.
+Sin embargo, L. amazonensis es capaz de inducir el represor del homodímero NFKB y la división de la subunidad transactivadora P65Nf-kapaBeta ocasionando la supresión de la producción de Óxido nitríco sintasa y por ende la reducción de los niveles intracelulares de NO. La activación de PKR por el Poly C induce la producción de IL-10 presentando un efecto positivo en la proliferación intracelular de Leishmania.
+Una posible vía de acción terapéutica podría consistir en utilizar PKR como biomarcador de Leishmania y desarrollar fármacos que actúen sobre la proteína.
+El genoma de los parásitos del género Leishmania está constituido por 34 a 36 cromosomas, dependiendo de la especie.
+La mayoría de las especies, denominadas del Viejo Mundo, (L. donovani, L. infantum, L. chagasi, L. major y otras) cuanta con 36 cromosomas, mientras que las especies del Nuevo Mundo, L. braziliensis y L. mexicana cuentan con 35 y 34 cromosomas respectivamente.
+En el genoma de L. braziliensis, los cromosomas 20 y 34 se encuentran fusionados mientras que en el genoma de L. mexicana se encuentran fusionados los cromosomas 8 - 29 y 20 - 36.
+Una de las peculiaridades del genoma en Leishmania, y otros tripanosomátidos relacionados como son Trypanosoma brucei y Trypanosoma cruzi, es la organización de sus genes en largas agrupaciones con igual orientación transcripcional.
+Los genes que componen estas agrupaciones no parecen tener ninguna relación funcional, más bien su ordenación unidireccional parece ser dictada por el modo en el que son transcritos.
+Los trabajos realizados por el investigador mexicana Santiago Martínez-Calvillo y el estadounidense Peter Myler demostraron que la transcripción de los genes se inicia justo por encima del primer gen de cada agrupación y procede de forma policistrónica hasta alcanzar el último gen. Estas agrupaciones génicas se denominan unidades de transcripción policistrónica (PTUs, del inglés Polycistronic Transcription Units).
+Algunas regiones de los cromosomas, conocidas como regiones de cambio de hebra (SSRs, del inglés Strand-Switch Regions), la transcripción de las PTUs comienza bidireccionalmente (y se denominan SSRs divergentes) o la transcripción de dos PTUs localizadas en hebras opuestas converge (SSRs convergentes) y presumiblemente termina.
+En la siguiente figura se ilustra cómo es la organización génica en Leishmania.
+Aunque Leishmania es considerado como un organismo esencialmente diploide, esta no es una característica genómica que este parásito controle de forma estricta.
+Más bien, una aneuploidía cromosomal parece ser más la norma, y esta puede ser distinta de acuerdo con las especies (e incluso entre cepas de la misma especie) y además puede cambiar de acuerdo con las condiciones ambientales en las que se encuentre el parásito.
+Aún es más, de acuerdo con los minuciosos trabajos realizados por los investigadores Patrick Bastien, Michel Pagès e Yvon Sterkers de la Universidad de Montpellier, los parásitos que forman una población derivada de una cepa (o incluso un clon) contienen genomas diferentes en cuanto al número de cada uno de sus cromosomas.
+Así, la población está compuesta por parásitos que contienen uno, dos, tres o más copias de cada uno de los cromosomas, y que las proporciones de estas células puede ser distinta en las cepas o variar con las condiciones ambientales en las que la población esté creciendo.
+A esta sorprendente característica de Leishmania, estos autores la han llamado mosaic aneuploidy, que podríamos traducirla como mosaico de aneuploidías.
+Leishmania, y otros tripanosomátidos con los que comparte una similar organización genómica, tiene una forma muy peculiar de regular la expresión génica.
+No existe control (o es poco significativo) a nivel génico de la transcripción, sino que los genes (organizados en largas agrupaciones, como se indica en el apartado sobre su genoma) se transcriben continuamente en unidades policistrónicas.
+Según están siendo sintetizados por la RNA polimerasa II, estos transcritos son procesados para generar RNAs mensajeros individuales (mRNAs) mediante otro peculiar mecanismo presente en estos microorganismos, el trans-splicing o proceso de unión de dos moléculas de RNA no colineales.
+Este peculiar mecanismo fue descrito inicialmente en el laboratorio dirigido por la investigadora estadounidense Nina Agabian en los años 80 del siglo pasado, pero luego, con los años, se fue encontrando en diversos grupos de organismos, tales como cnidarios, nematodos, crustáceos, rotíferos y dinoflagelados, entre otros.
+Durante el trans-splicing en Leishmania, una secuencia de 39 nucleótidos, conocida como mini-exón o secuencia SL (del inglés spliced leader) es añadida al comienzo de todos los RNAs codificantes de proteínas, definiendo el extremo 5’ de los mRNAs.
+El extremo 3’ de los mRNAs, como en el resto de los eucariotas, incluye una hilera de adeninas, introducidas tras el procesamiento del transcrito precursor.
+Ambos procesos, trans-splicing de un transcrito y la poliadenilación del transcrito situado por encima en el precursor ocurren de manera concertada.
+La secuencia del mini-exón (AACUAACGCUAUAUAAGUAUCAGUUUCUGUACUUUAUUG) es idéntica en todas las especies del género Leishmania, y deriva de un transcrito precursor conocido como medRNA, que empieza con dicha secuencia mini-exón.
+El extremo 5’ del mRNA (y en consecuencia del mini-exón) se encuentra muy modificado, el primer nucleótido está modificado con la adición de 7-metilguanina (modificación típica del 5’ de los mRNAs eucarióticos), pero además los cuatro primeros nucleótidos (AACU) están modificados por O-metilación en posición 2’ del anillo de ribosa, además de metilaciones adicionales en el primer y cuarto nucleótidos.
+Todas estas modificaciones ocurren durante la biogénesis del medRNA.
+Por estas peculiaridades, a esta estructura se le denomina cap4, y como ocurre con la estructura cap de los mRNAs eucarióticos, su presencia es un requisito para la traducción en los ribosomas.
+Por tanto, la adición del mini-exón desempeña dos funciones, por un lado, delimitar el sitio de inicio del mRNA y, por otro, provee la estructura cap a los mRNAs.
+En la siguiente figura se ilustran los procesos indicados.
+Aunque la Real Academia Nacional de Medicina recomienda el uso de la palabra empalme como traducción del término inglés splicing, el término anglosajón se utiliza más frecuentemente que la palabra empalme tanto en los ámbitos académicos como por los profesionales de las ciencias biomédicas.
+El splicing es un proceso por el que los intrones presentes en los transcritos primarios son eliminados mediante un corte y los exones son unidos o empalmados para dar el ARN mensajero.
+Este proceso de corte y pegado ocurre en la mayoría de los organismos eucariotas y en los vertebrados alcanza su máxima complejidad por el gran número de intrones existentes en algunos de los transcritos primarios.
+Para más detalles sobre el proceso ver la entrada Splicing de ARN.
+En los tripanosomátidos se descubrió que el empalme o splicing podría implicar a dos moléculas de RNA presentes en transcritos independientes, por lo que se acuñó el término trans-splicing para dar nombre a este proceso, mientras que al proceso de corte y empalme sobre un transcrito primario se le denomina cis-splicing.
+Pronto se vio que ambos procesos, cis- y trans-splicing operan a través de procesos de transesterificación muy similares y basados en motivos estructurales conservados (ver figura asociada).
+El cis-splicing es realizado por un complejo conocido como espliceosoma (spliceosome) formado por cinco snRNAs (U1, U2, U4, U5 y U6) y más de un centenar de proteínas.
+Este complejo, con pequeñas diferencias, también existe en tripanosomátidos.
+Los complejos de estos RNA pequeños con proteínas se denominas snRNPs (del inglés small nuclear ribonucleoproteins).
+El proceso del cis-splicing, explicado de una forma sencilla, opera a través del reconocimiento de tres elementos conservados de secuencia situados en el intrón.
+Primero, la partícula snRNP U1 se une al sitio donador situado en 5’, promoviendo a continuación que la partícula snRNP U2 se una al sitio conocido como punto de ramificación.
+En ese momento se produce el ensamblaje del resto de componentes del spliceosoma: snRNPs U4, U5 y U6.
+Entonces se desencadenan dos reacciones de transesterificación que afectan a enlaces fosfodiéster.
+En la primera reacción, el hidroxilo del carbono 2’ de la adenosina del punto de ramificación ataca al sitio donador 5’.
+Como resultado, se liberan el exón situado en 5’, que queda libre, y un intermediario con estructura en lazo (lariat).
+A continuación se produce la segunda reacción de transesterificación, que se produce como resultado del ataque del hidroxilo del carbono 3’ del exón en 5’ con el sitio aceptor 3’, quedando los dos exones unidos y el intrón con una estructura de lazo.
+Las reacciones en el espliceosoma son promovidas por los componentes de RNA que son, por tanto, ribozimas.
+Los motivos estructurales que definen los sitios 5’ donador y 3’ aceptor están también conservadas en el trans-splicing con respecto al cis-splicing, y los intermediarios y productos de la reacción son análogos.
+Como peculiaridad del proceso de trans-splicing es que las regiones intrónicas liberadas generan una estructura en forma de “Y” en lugar de la estructura en lazo del cis-splicing (ver figura adjunta).
+Leishmania y otros tripanosomátidos, como Trypanosoma brucei y Trypanosoma cruzi, han renunciado a regular la expresión de los genes a nivel transcripcional y se han especializado en hacerlo únicamente a nivel postranscripcional.
+Como ocurre en el resto de eucariotas, los genes codificantes de proteínas son transcritos por la ARN polimerasa II (ARN polII).
+Sin embargo, a diferencia de otros organismos, los genes de tripanosomátidos carecen de promotores para la unión de esta polimerasa, y la enzima se posiciona en puntos no bien definidos de los cromosomas, desde donde comienza a transcribir de forma continua largos transcritos hasta alcanzar algún obstáculo estructural (regiones terminadoras o modificaciones de la cromatina).
+Condicionada por esta transcripción indiscriminada, la organización de los genes en los genomas de estos protistas ha evolucionado hacia una ordenación en agrupaciones unidireccionales, en el sentido transcripcional, aun sin mantener los genes relación funcional alguna (ver apartado Transcripción poliscistrónica y generación de los mRNAs).
+Esta regulación postranscripcional se basa principalmente en las variaciones en el número de copias (CNV) (CNV:Copy Number Variations) de los tránscritos, un mecanismo capaz de controlar la abundancia de estos según la situación en la que el organismo se encuentre.
+Estas variaciones en la expresión génica derivan en una inestabilidad genómica que confiere al parásito capacidad de adaptar su genoma a los diferentes estímulos.
+En este proceso intervienen las interacciones epistáticas (epistasia) entre genes, que dirigen estos cambios en la expresión génica, provocando mecanismos compensatorios en el genoma de Leishmania, los cuales derivan en la evolución adaptativa del parásito.
+La regulación a nivel postranscripcional no es exclusiva de tripanosomátidos, sino que es un nivel de regulación de la expresión génica presente en todos los seres vivos.
+La regulación postranscripcional con respecto a la regulación transcripcional tiene la ventaja de la inmediatez ya que opera sobre los mRNAs ya sintetizados para regular la traducción de solo aquellos cuyos productos proteicos son requeridos.
+En la regulación postranscripcional, las proteínas de unión a RNA o RBP (del inglés RNA-binding proteins) resultan clave, ya que a través del reconocimiento de motivos secuenciales o estructurales presentes en los mRNAs van a seleccionar aquellos transcritos que deben ser traducidos y almacenar silenciados aquellos que puedan ser útiles en otros momentos.
+Los motivos reconocidos frecuentemente se encuentran en las regiones UTR (del inglés untranslated region) o no traducidas de los mRNAs, donde se pueden acumular motivos secuenciales sin la constricción impuesta por el código genético en las regiones codificantes.
+Así, las señales ambientales y celulares van a incidir sobre sensores celulares encargados de activar o desactivar a RBP particulares, que a su vez seleccionarán aquellos transcritos que deben ser leídos en los ribosomas para generar las proteínas requeridas en respuesta al cambio ambiental o celular que indujo la vía de señalización.
+Para aquellos lectores interesados en profundizar en los mecanismos moleculares responsables de la regulación postranscripcional en Leishmania y otros tripanosomátidos se recomienda consultar una serie de artículos de revisión que, aun estando escritos en inglés, han sido escritos por autores hispanohablantes y en caso de que el lector lo requiera podrán servir de vía para contactar directamente con estos autores.
+Durante la investigación realizada por Giovanni Bussotti y colaboradores en el Instituto Pasteur, perteneciente a la Universidad de París, se realizó un análisis de genoma completo (GWAS: Genome-wide association study) de Leishmania donovani se identificaron CNVs en el 14% de las regiones codificantes y en el 4% de las regiones no codificantes.
+Además, se realizó un estudio de evolución experimental (EE Approach) a partir de amastigotes de Leishmania donovani obtenidos de casos clínicos de hámsteres.
+Al extraer estos amastigotes de los organismos infectados y cultivarlos in vitro durante 36 semanas (3800 generaciones) se comprobó como la inestabilidad genómica en este parásito es capaz de conseguir adaptarlo a situaciones complicadas, como es este caso el cultivo in vitro.
+Se detectó una deleción de 11kb en el gen codficante de Ld1S_360735700, una quinasa relacionada con NIMA (NIMA-related kinase), con funciones clave en la correcta progresión de la mitosis.
+Con el avance de las generaciones de cultivo in vitro la pérdida de la quinasa se hace más notoria, aunque aparece desde el inicio del cultivo.
+La pérdida de esta proteína reduce la velocidad de crecimiento del parásito, pero la propia inestabilidad genómica de Leishmania consigue, a través de mecanismos compensatorios, atenuar esta reducción del crecimiento para que el cultivo in vitro se mantenga.
+En primer lugar, como adaptación del cultivo a la pérdida de esta cinasa, se detectó el aumento en la expresión de otra quinasa ortóloga (Ld1S_360735800) cuya región codificante es adyacente a la de la quinasa perdida.
+Esto justifica la existencia de regulación genómica postranscripcional en Leishmania donovani, que ayuda a la adaptación del parásito a situaciones difíciles como es la pérdida de esta enzima.
+En segundo lugar, se observó una reducción de la expresión de 23 tránscritos relacionados con la biogénesis flagelar.
+De esta forma, la adaptación en Leishmania lleva al parásito a eliminar de sus necesidades el movimiento flagelar, ya que no es necesario en el cultivo in vitro, y conservar la energía invertida en este movimiento para aumentar la velocidad de crecimiento y compensar así la pérdida de la quinasa.
+Por último, se observó la coamplificación de clusters de proteínas ribosómicas, RNA ribosomales (rRNA), RNA transferente s (tRNA) y RNA pequeños nucleolares (snoRNA).
+El aumento de la expresión de estos clusters provoca el aumento de la biogénesis ribosomal y la biosíntesis de proteínas.
+Este hecho se hace más evidente en el caso de los RNA pequeños nucleolares (snoRNA), para los que se observó la amplificación de un gran cluster de 15 snoRNAs en el cromosoma 33.
+La función de estos ácidos nucleicos es la metilación y la inclusión de pseudouridina en los ribosomas.
+En este caso se observó un aumento de estas modificaciones en las subunidades grandes de los ribosomas de los individuos en cultivo, en concreto en el PTC (centro P de la peptidil transferasa) y en el túnel de entrada del mRNA al ribosoma para la síntesis proteica.
+Estos cambios provocan un aumento en la biogénesis ribosomal, lo que deriva en una mayor síntesis proteica y en una mayor velocidad de crecimiento.
+Como conclusión, la pérdida de la quinasa es compensada por la inestabilidad genómica de Leishmania donovani, aumentando la expresión de otra quinasa ortóloga, disminuyendo la biogénesis flagelar y aumentando la biogénesis ribosomal.
+Estas compensaciones derivan en que la velocidad de crecimiento del cultivo se vea lo menos afectada posible por la pérdida inicial de la quinasa, y que el parásito se adapte perfectamente al cultivo in vitro, el cual no es su hábitat natural.
+La proteína de choque térmico de 70-kDa o HSP70 se encuentra entre las proteínas más conservadas en la evolución de las que están presentes en todo organismo vivo. El nombre de esta proteína está ligado a su descubrimiento, por ser una de las proteínas cuya expresión aumenta considerablemente tras la exposición de una célula o el organismo entero a una temperatura ambiente varios grados por encima (choque térmico) de su temperatura habitual de crecimiento.
+Sin embargo, pronto se observó que la proteína también desempeña funciones esenciales durante el funcionamiento normal de la célula; entre ellas, el ser clave para el plegamiento de proteínas durante la biosíntesis, el transporte a los orgánulos y la recuperación de proteínas desnaturalizadas.
+De hecho, el incremento de la HSP70 durante el choque térmico es una consecuencia directa del incremento en proteínas desplegadas ocasionado por el aumento de temperatura.
+En los parásitos que tienen como hospedadores a organismos homeotérmicos, como es el caso de Leishmania, cambios súbitos de temperatura ocurren tras la transmisión desde el insecto vector.
+El parásito ha evolucionado mecanismos para sobreponerse a este estrés y continuar su ciclo de vida.
+Entre estos mecanismos se encuentra el disponer de una de las familias HSP70 más diversificadas que se conocen.
+Así, en Leishmania, se encuentran todos los miembros habituales de la familia HSP70 en eucariotas: HSP70 citosólica, la HSP70 situada en el retículo endoplasmático (también conocida como BiP o GRP78), la HSP70 mitocondrial y la subfamilia HSP110, compuesta por las proteínas HSP110, GRP170 y HSP70.a.
+Pero, además, en su genoma están codificadas otras tres proteínas con características típicas de la HSP70, y que se denominan HSP70.4, HSP70.b  y HSP70.c.
+Jorge L Lara Ruiz basado en Ryan KJ; Ray CG (editors) (2004).
+Sherris Medical Microbiology (4th ed. edición).
+McGraw Hill.
+pp. 749-54.
+ISBN 0838585299.

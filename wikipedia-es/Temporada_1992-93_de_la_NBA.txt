@@ -1,0 +1,7 @@
+La temporada 1992-93 de la NBA fue la cuadragésimo séptima en la historia de la liga.
+La temporada finalizó con Chicago Bulls como campeones (tercero de sus seis anillos) tras ganar a Phoenix Suns por 4-2.
+* V: Victorias
+* D: Derrotas
+* %V: Porcentaje de victorias
+* P: Partidos de diferencia respecto a la primera posición
+* C: Campeón

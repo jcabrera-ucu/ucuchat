@@ -1,0 +1,24 @@
+Un campo de tensión es la distribución de fuerzas internas en un cuerpo que equilibra un conjunto dado de fuerzas externas.
+Los campos de tensión son ampliamente utilizados en dinámica de fluidos y ciencia de materiales.
+Considere que uno puede imaginar los campos de estrés como el estrés creado al agregar un medio plano adicional de átomos a un cristal.
+Los enlaces se extienden claramente alrededor de la ubicación de la dislocación y este estiramiento hace que se forme el campo de tensión.
+Los enlaces atómicos cada vez más lejos del centro de dislocación están cada vez menos estirados, por lo que el campo de tensión se disipa a medida que aumenta la distancia desde el centro de dislocación.
+Cada dislocación dentro del material tiene un campo de tensión asociado.
+La creación de estos campos de tensión es el resultado del material que intenta disipar la energía mecánica que se ejerce sobre el material.
+Por convención, estas dislocaciones se etiquetan como positivas o negativas, dependiendo de si el campo de tensión de la dislocación es principalmente compresivo o extensible.
+Al modelar las dislocaciones y sus campos de tensión como cargas positivas (campo de compresión) o negativas (campo de tracción) podemos entender cómo las dislocaciones interactúan entre sí en la red.
+Si dos campos similares entran en contacto entre sí, serán rechazados por el otro.
+Por otro lado, si dos cargos opuestos entran en contacto entre sí, se sentirán atraídos entre sí.
+Estas dos interacciones fortalecerán el material de diferentes maneras.
+Si dos campos con carga equivalente entran en contacto y se limitan a una región en particular, se necesita una fuerza excesiva para superar las fuerzas repulsivas necesarias para provocar el movimiento de dislocación entre sí.
+Si dos campos con carga opuesta entran en contacto entre sí, se fusionarán entre sí para formar un empuje.
+Un empuje puede modelarse como un pozo potencial que atrapa las dislocaciones.
+Por lo tanto, se necesita una fuerza excesiva para separar las dislocaciones.
+Dado que el movimiento de dislocación es el mecanismo principal detrás de la deformación plástica, el aumento de la tensión requerida para mover las dislocaciones aumenta directamente el límite elástico del material.
+La teoría de los campos de tensión se puede aplicar a varios mecanismos de fortalecimiento para materiales.
+Los campos de tensión se pueden crear agregando átomo s de diferentes tamaños a la red (fortalecimiento de solutos).
+Si se agrega un átomo más pequeño a la red, se crea un campo de tensión de tracción.
+Los enlaces atómicos son más largos debido al radio más pequeño del átomo de soluto.
+Del mismo modo, si se agrega un átomo más grande a la red, se crea un campo de tensión de compresión.
+Los enlaces atómicos son más cortos debido al mayor radio del átomo de soluto.
+Los campos de tensión creados al agregar átomos de soluto forman la base del proceso de fortalecimiento del material que ocurre en las aleaciones.

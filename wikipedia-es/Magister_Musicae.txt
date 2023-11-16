@@ -1,0 +1,12 @@
+Magister Musicae es un portal Web que incluye un catálogo de enseñanza musical digitalizada de más de 3.000 horas, con clases impartidas por más de 200 célebres músicos internacionales.
+Con el objetivo de perpetuar para las generaciones futuras las clases que cada día tenían lugar en la Escuela Superior de Música Reina Sofía y hacerlas accesibles a un mayor número de personas, Paloma O`Shea promovió este proyecto desde la Fundación Albéniz, de la que es presidenta y fundadora.
+En el año 2000, el Ministerio de Ciencia y Tecnología Español apoyó el proyecto con una importante dotación económica englobada en el ámbito del programa PROFIT.
+Tres años de I+D tecnológica centrada en la digitalización, catalogación, compresión y difusión de vídeo de alta calidad en Internet, dieron como resultado HTCMedia, una herramienta que permite gestionar grandes cantidades de información en vídeo de una forma simple y que ha sido fundamental para la creación de Magister Musicae.
+Las clases magistrales se graban en las escuelas de música.
+Estas lecciones son analizadas pedagógicamente por musicólogos especializados, catalogadas según obra y movimientos y después en unidades didácticas de hasta 6 minutos de duración.
+Esta clasificación permite al visitante acceder directamente al concepto didáctico que sea de su interés e interrelacionar distintas clases de distintos profesores.
+El acceso a esta información requiere software de Microsoft y está protegido por técnicas de DRM.
+La distribución del contenido multimedia es híbrida: hay un servidor central de licencias de pago por visión pero el contenido en sí se distribuye a los centros en forma de DVD cifrados.
+Dado lo ambicioso del proyecto, en el 2004, seis de los principales conservatorios y escuelas de música se unieron a Magister Musicae a través del proyecto europeo Harmos, facilitando el acceso a sus profesores y haciendo Magister Musicae aún más internacional:
+El proyecto recibió el respaldo económico de la Comisión Europea que lo designó “Proyecto Modelo con Impacto en las Políticas de la Unión”.
+Entre los más de 200 profesores participantes en Magister Musicae destacan:

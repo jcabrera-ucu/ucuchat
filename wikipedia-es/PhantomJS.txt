@@ -1,0 +1,22 @@
+PhantomJS Es un navegador sin interfaz gráfica para automatizar la interacción de las páginas web.
+PhantomJS proporciona una API de Javascript que permite la navegación automatizada, capturas de pantalla, comportamiento del usuario y las aserciones, lo que lo convierte en una herramienta común utilizada para ejecutar pruebas unitarias basadas en el navegador en un sistema sin interfaz gráfica como un entorno de integración continua.
+PhantomJS está basado en WebKit, lo que lo convierte en un entorno de navegación similar a Safari y Google Chrome (antes de un fork de Chrome de WebKit evolucionara a Blink).
+Es un software de código abierto publicado bajo la Licencia BSD.
+PhantomJS fue lanzado el 26 de enero de 2011 por Ariya Hidayat después de varios años de desarrollo.
+El primer commit público al proyecto fue en 2011.
+El logo comúnmente usado para referirse pictóricamente a PhantomJS es un fantasma azul fluorescente sobre un fondo negro.
+Esto se refiere a la falta de interfaz gráfica de usuario, o cuerpo principal del navegador, haciendo que los usuarios de PhantomJS parezcan fantasmas.
+En marzo de 2018, el desarrollo de PhantomJS se suspendió debido a la falta de contribuciones activas.
+El API de Javascript de PhantomJS puede utilizarse para abrir páginas web, toma capturas de pantalla, ejecutar acciones de usuario y ejecutar JavaScript inyectado en el contexto de la página.
+Por ejemplo, el siguiente código abrirá Wikipedia y, al cargarlo, guardará una captura de pantalla en un archivo y saldrá.
+Poco después del lanzamiento de PhantomJS, Nicolas Perriault escribió CasperJS, un conjunto de bibliotecas sobre PhantomJS que amplían sus capacidades como cliente para la prueba automatizada de páginas web.
+CasperJS Y PhantomJS se han vuelto lo suficientemente valiosos como para que proyectos similares hayan comenzado a adoptar el API como una forma estándar de interactuar con los navegadores sin interfaz gráfica.
+Yahoo!
+desarrolló una versión de YSlow que aprovecha PhantomJS para reunir métricas de rendimiento para sitios web.
+PhantomJS fue hecho hecho para el control programático de sitios web y ha sido utilizado para muchos propósitos, desde la diferenciación visual hasta la prueba automatizada de frameworks Javascript.
+Con el aumento de Javascript de lado del cliente y los problemas de SEO que la práctica presenta, los desarrolladores recurrieron a PhantomJS como manera de pre-renderizar el HTML estático para las solicitudes iniciales.
+A pesar del impacto en el rendimiento de este enfoque, siguió siendo una de las formas más sencillas de mejorar el SEO sin reescribir una aplicación web, generando servicios tratan de automatizar el proceso.
+Debido a que PhantomJS se puede ejcutar sin interfaz de usuario, se puede programar a través de Javascript, y se adhiere relativamente a las especificaciones de los navegadores modernos, se utiliza comúnmente como una forma de automatizar ataques contra los sitios web.
+PhantomJS imita el tráfico de usuarios legítimos y puede complicar las tecnologías de mitigación de ataque.
+PhantomJS también puede se utilizado para verificar automáticamente los inicios de sesión en sitios web.
+(credential stuffing), agravando los problemas que surgen después de que un sitio es violado y los nombres de usuario son filtrados.

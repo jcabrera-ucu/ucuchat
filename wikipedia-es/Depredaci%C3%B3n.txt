@@ -1,0 +1,109 @@
+En la ecología, la depredación es un tipo de interacción biológica en la que el individuo de una especie animal, denominado depredador, caza al individuo de otra especie, la presa, para subsistir.
+Un mismo individuo puede ser depredador de algunos animales y a su vez presa de otros, aunque en todos los casos el predador es carnívoro u omnívoro.
+Esta interacción ocupa un rol importante en la selección natural.
+En la depredación hay un individuo perjudicado —la presa— y otro que es beneficiado —el depredador—, pasando la energía en el sentido presa a depredador.
+Sin embargo, hay que resaltar que, por un lado, los depredadores controlan el número de individuos que componen la especie presa y, por el otro, las presas controlan el número de individuos que componen la especie depredadora; por ejemplo, la relación entre el león y la cebra.
+Otro ejemplo de esta relación muy especial entre los depredadores y el ecosistema es que aquéllos, al controlar el número de individuos de una especie, pueden proteger al ecosistema de ser sacado de equilibrio, ya que, si una especie se multiplica sin control, podría acabar con el equilibrio del ecosistema.
+Por ejemplo: el águila y la serpiente se alimentan de ratones, y estos a su vez se alimentan de determinados tipos de plantas; si uno de los depredadores se extinguiera, el otro no podría disminuir la población de esos roedores, y esto disminuiría la población de plantas.
+undefined
+Una forma particular de depredación la constituye el parasitismo, en el cual un organismo se alimenta de otro, desarrollando un vínculo muy fuerte con él.
+Un parásito suele iniciar dicha relación con un único organismo huésped en su vida, o bien con unos pocos.
+undefined
+En el nivel más básico, los depredadores matan y se comen a otros organismos.
+Sin embargo, el concepto de depredación es amplio, se define de forma diferente en distintos contextos e incluye una gran variedad de métodos de alimentación; y algunas relaciones que resultan en la muerte de la presa no suelen llamarse depredación.
+Un parasitoide, como una avispa ichnemónida, pone sus huevos en o sobre su huésped; los huevos eclosionan en larvas, que se comen al huésped, y éste muere inevitablemente.
+Los zoólogos suelen llamar a esto una forma de parasitismo, aunque convencionalmente se piensa que los parásitos no matan a sus huéspedes.
+Se puede definir que un depredador se diferencia de un parasitoide en que tiene muchas presas, capturadas a lo largo de su vida, mientras que la larva de un parasitoide sólo tiene una, o al menos se le suministra el alimento en una sola ocasión.
+Hay otros casos difíciles y limítrofes.
+Los microdepredadores son pequeños animales que, al igual que los depredadores, se alimentan enteramente de otros organismos; entre ellos están las pulgas y los mosquitos que consumen sangre de animales vivos, y los pulgones que consumen savia de plantas vivas.
+Sin embargo, como normalmente no matan a sus huéspedes, ahora se les suele considerar parásitos.
+Los animales que pastorean en el fitoplancton o en las alfombras de microbios son depredadores, ya que consumen y matan a sus organismos alimenticios; pero los herbívoros que hojean las hojas no lo son, ya que sus plantas alimenticias suelen sobrevivir al asalto.
+Cuando los animales comen semillas (depredación de semillas o granivoría) o huevos (depredación de huevos), están consumiendo organismos vivos enteros, lo que por definición los convierte en depredadores.
+Los carroñeros, organismos que sólo se alimentan de organismos que se encuentran ya muertos, no son depredadores, pero muchos depredadores como el chacal y la hiena carroñan cuando se presenta la oportunidad.
+Entre los invertebrados, las avispas sociales (chaquetas amarillas) son tanto cazadoras como carroñeras de otros insectos.
+Para alimentarse, un depredador debe buscar, perseguir y matar a su presa.
+Estas acciones forman un ciclo de forrajeo.
+El depredador debe decidir dónde buscar la presa en función de su distribución geográfica; y una vez que ha localizado la presa, debe valorar si la persigue o espera una opción mejor.
+Si elige la persecución, sus capacidades físicas determinan el modo de persecución (por ejemplo, emboscada o persecución).
+Una vez capturada la presa, también puede necesitar gastar energía para manipularla (por ejemplo, matarla, quitarle el caparazón o las espinas, e ingerirla).
+Los depredadores pueden elegir entre los modos de búsqueda que van desde sentarse y esperar hasta activo o buscar ampliamente.
+El método de sentarse y esperar es el más adecuado si las presas son densas y móviles, y el depredador tiene bajos requerimientos energéticos.
+El forrajeo amplio gasta más energía, y se utiliza cuando las presas son sedentarias o están escasamente distribuidas.
+Hay un continuo de modos de búsqueda con intervalos entre períodos de movimiento que van desde segundos hasta meses.
+Los tiburones, los peces de sol, las aves insectívoras y las musarañas están casi siempre en movimiento, mientras que las arañas tejedoras, los invertebrados acuáticos, las mantis religiosas y los cernícalos rara vez se mueven.
+Entremedias, los chorlitos y otras aves costeras, los peces de agua dulce, incluidos los crappies, y las larvas de escarabajos coccinélidos (mariquitas), alternan entre la búsqueda activa y el escaneo del entorno.
+Las distribuciones de las presas suelen estar agrupadas, y los depredadores responden buscando parches en los que las presas son densas y luego buscando dentro de los parches.
+Cuando el alimento se encuentra en parches, como los raros bancos de peces en un océano casi vacío, la etapa de búsqueda requiere que el depredador viaje durante un tiempo considerable, y gaste una cantidad significativa de energía, para localizar cada parche de alimento.
+Por ejemplo, el albatros de ceja negra realiza regularmente vuelos de búsqueda de alimento a un rango de alrededor de 700km, hasta un rango máximo de búsqueda de alimento de 3000km para las aves reproductoras que recogen alimento para sus crías.
+Con presas estáticas, algunos depredadores pueden aprender ubicaciones de parches adecuados y volver a ellos a intervalos para alimentarse.
+La estrategia de forrajeo óptimo para la búsqueda se ha modelado utilizando el teorema del valor marginal.
+Los patrones de búsqueda a menudo parecen aleatorios.
+Uno de ellos es el camino de Lévy, que tiende a implicar grupos de pasos cortos con pasos largos ocasionales.
+Se trata de una estrategia que se ajusta al comportamiento de una gran variedad de organismos, incluyendo bacterias, abejas, tiburones y cazadores-recolectores humanos.
+Una vez encontrada la presa, el depredador debe decidir si la persigue o sigue buscando.
+La decisión depende de los costes y beneficios que conlleva.
+Un pájaro que busca insectos pasa mucho tiempo buscando, pero capturarlos y comerlos es rápido y fácil, así que la estrategia eficiente para el pájaro es comer todos los insectos apetecibles que encuentra.
+En cambio, un depredador, como un león o un halcón, encuentra su presa fácilmente, pero capturarla requiere mucho esfuerzo.
+En ese caso, el depredador es más selectivo.
+Uno de los factores a tener en cuenta es el tamaño.
+Una presa demasiado pequeña puede no merecer la pena por la cantidad de energía que proporciona.
+Demasiado grande, y puede ser demasiado difícil de capturar.
+Por ejemplo, un mántido captura la presa con sus patas delanteras y están optimizadas para agarrar presas de cierto tamaño.
+Las mantis son reacias a atacar presas que están lejos de ese tamaño.
+Existe una correlación positiva entre el tamaño de un depredador y su presa.
+Un depredador también puede evaluar un parche y decidir si pasa tiempo buscando presas en él.
+Esto puede implicar cierto conocimiento de las preferencias de las presas; por ejemplo, las mariquitas pueden elegir un parche de vegetación adecuado para sus presas pulgones.
+Para capturar a las presas, los depredadores tienen un espectro de modos de persecución que van desde la persecución abierta (depredación de persecución) hasta un ataque repentino a las presas cercanas (depredador de emboscada).
+Otra estrategia intermedia entre la emboscada y la persecución es la interceptación balística, en la que un depredador observa y predice el movimiento de una presa y luego lanza su ataque en consecuencia.
+Los depredadores de emboscada o de espera son animales carnívoros que capturan a sus presas con sigilo o por sorpresa.
+En los animales, la depredación por emboscada se caracteriza porque el depredador escanea el entorno desde una posición oculta hasta que la presa es avistada, y entonces ejecuta rápidamente un ataque sorpresa fijo.
+Entre los depredadores de emboscada vertebrados se encuentran las ranas, peces como el tiburón ángel, el lucio del norte y el pez rana oriental.
+Entre los numerosos depredadores invertebrados de emboscada se encuentran las arañas trampillas y Australian Crab spiders en tierra y los camarones mantis en el mar.
+Los depredadores de emboscada suelen construir una madriguera en la que esconderse, mejorando la ocultación a costa de reducir su campo de visión.
+Algunos depredadores de emboscada también utilizan señuelos para atraer a la presa a su alcance.
+El movimiento de captura tiene que ser rápido para atrapar a la presa, dado que el ataque no es modificable una vez lanzado.
+La interceptación balística es la estrategia en la que un depredador observa el movimiento de una presa, predice su movimiento, elabora una ruta de interceptación y luego ataca a la presa en esa ruta.
+Esto difiere de la depredación por emboscada en que el depredador ajusta su ataque según el movimiento de la presa.
+La interceptación balística implica un breve período de planificación, dando a la presa la oportunidad de escapar.
+Algunas ranas esperan hasta que las serpientes han comenzado su ataque antes de saltar, reduciendo el tiempo disponible para que la serpiente recalibre su ataque, y maximizando el ajuste angular que la serpiente necesitaría hacer para interceptar a la rana en tiempo real.
+Entre los depredadores balísticos se encuentran insectos como las libélulas y vertebrados como los peces arqueros (que atacan con un chorro de agua), los camaleones (que atacan con la lengua) y algunas serpientes colúbridas.
+En la depredación por persecución, los depredadores persiguen a las presas que huyen.
+Si la presa huye en línea recta, la captura depende únicamente de que el depredador sea más rápido que la presa.
+Si la presa maniobra girando mientras huye, el depredador debe reaccionar en tiempo real para calcular y seguir una nueva trayectoria de intercepción, como por ejemplo mediante navegación paralela, mientras se acerca a la presa.
+Muchos depredadores de persecución utilizan el camuflaje para acercarse a la presa lo más posible sin ser observados (acecho) antes de iniciar la persecución.
+Los depredadores de persecución incluyen mamíferos terrestres como los humanos, los perros salvajes africanos, las hienas manchadas y los lobos; depredadores marinos como los delfines, las orcas y muchos peces depredadores, como el atún; aves depredadoras (rapaces) como los halcones; e insectos como libélulas.
+Una forma extrema de persecución es la caza de resistencia o caza de persistencia, en la que el depredador cansa a la presa siguiéndola durante una larga distancia, a veces durante horas.
+Este método es utilizado por los cazadores-recolectores humanos y por los cánidos como el perro salvaje africano y los sabuesos domésticos.
+El perro salvaje africano es un depredador de persistencia extrema, que cansa a las presas individuales siguiéndolas durante muchos kilómetros a una velocidad relativamente baja.
+Una forma especializada de depredación por persecución es la alimentación por embestida de las ballenas barbadas.
+Estos depredadores marinos de gran tamaño se alimentan de plancton, especialmente de kril, buceando y nadando activamente hacia las concentraciones de plancton, y luego tomando un enorme trago de agua y filtrándolo a través de sus plumosas placas de barbas.
+Los depredadores de persecución pueden ser sociales, como el león y el lobo que cazan en grupo, o solitarios.
+Una vez que el depredador ha capturado la presa, tiene que manipularla: con mucho cuidado si la presa es peligrosa de comer, como si posee espinas afiladas o venenosas, como en muchos peces presa.
+Algunos siluros como los Ictaluridae tienen espinas en el lomo (dorsales) y el vientre (pectorales) que se bloquean en posición erecta; como el siluro se agita al ser capturado, éstas podrían perforar la boca del depredador, posiblemente de forma mortal.
+Algunas aves que se alimentan de peces, como el águila pescadora, evitan el peligro de las espinas desgarrando su presa antes de comerla.
+En la depredación social, un grupo de depredadores coopera para matar a la presa.
+Esto permite matar a criaturas más grandes que las que podrían dominar por separado; por ejemplo, las hienas y los lobos colaboran para atrapar y matar a herbívoros tan grandes como los búfalos, y los leones incluso cazan elefantes.
+También puede hacer que las presas estén más disponibles mediante estrategias como la expulsión de la presa y el reagrupamiento en un área más pequeña.
+Por ejemplo, cuando bandadas mixtas de pájaros buscan alimento, los pájaros de delante expulsan los insectos que son capturados por los pájaros de detrás.
+Los delfines giradores forman un círculo alrededor de un banco de peces y se mueven hacia el interior, concentrando los peces por un factor de 200.
+Al cazar socialmente los chimpancés pueden atrapar monos colobos que se escaparían fácilmente de un cazador individual, mientras que los halcones Harris que cooperan pueden atrapar conejos.
+Los depredadores de diferentes especies a veces cooperan para capturar presas.
+En los arrecifes de coral, cuando peces como el mero y la trucha de coral detectan una presa que les resulta inaccesible, hacen una señal a las morenas gigantes, a los napoleones o a los pulpos.
+Estos depredadores son capaces de acceder a pequeñas grietas y expulsar a la presa.
+Se sabe que las orcas ayudan a los balleneros a cazar ballenas barbadas.
+La caza social permite a los depredadores enfrentarse a una gama más amplia de presas, pero con el riesgo de competir por el alimento capturado.
+Los depredadores solitarios tienen más posibilidades de comer lo que capturan, al precio de un mayor gasto de energía para atraparlo y un mayor riesgo de que la presa escape.
+Los depredadores de emboscada suelen ser solitarios para reducir el riesgo de convertirse ellos mismos en presas.
+De los 245miembros terrestres de Carnivora (el grupo que incluye a los gatos, perros y osos), 177 son solitarios; y 35 de los 37 gatos salvajes son solitarios, incluyendo el puma y el guepardo.
+Sin embargo, el puma solitario permite que otros pumas compartan una matanza, y el coyote puede ser solitario o social.
+Otros depredadores solitarios son el lucio del norte, araña lobos y todos los miles de especies de avispa solitaria entre los artrópodos, y muchos microorganismoss y zooplancton.
+Las especies animales han desarrollado una amplia variedad de características que funcionan para evitar su detección, selección y captura.
+Estas características se denominan en conjunto defensas contra la depredación.
+Las defensas químicas se han diseminado entre muchos grupos de animales.
+Muchos artrópodos poseen sustancias tóxicas, las que son adquiridas de las plantas que consumen y almacenan en sus propios cuerpos, mientras que otros artrópodos sintetizan sus propios venenos.
+La coloración críptica incluye colores y patrones que permiten que la presa se mezcle con el fondo.
+Esta coloración protectora es común en peces, reptiles, muchas aves que hacen sus nidos en el suelo y en insectos que carecen de otras defensas.
+La coloración destellante se encuentra asociada con la coloración críptica; esta puede distraer y desorientar a los depredadores.
+Algunos animales que comparten el hábitat con especies no comestibles, a menudo evolucionan con una coloración que se asemeja o imita la coloración de la especie tóxica.
+Este tipo de mimetismo se denomina mimetismo batesiano, que debe su nombre al naturalista inglés Henry Walter Bates.
+.

@@ -1,0 +1,7 @@
+Thalía Tour fue la primera gira nacional de conciertos de la cantante y actriz mexicana Thalía en promoción de sus primeros dos álbumes como solista Thalía (1990) y Mundo de cristal (1991).
+Con esta gira la cantante recorrió algunas ciudades de la República Mexicana.
+{| class="wikitable" style="text-align:center;"
+!width="150"|Fecha
+!width="150"|Ciudad
+!width="150"|País
+!width="280"|Lugar

@@ -1,0 +1,31 @@
+El arameo hatreo toma como referencia las inscripciones halladas en la antigua ciudad de Hatra, publicadas por W. Andrae en 1912 y estudiadas por S. Ronzevalle y P. Jensen.
+Las excavaciones realizadas por el Departamento de Antigüedades iraquí sacaron a la luz más de 100 textos nuevos, cuya publicación fue realizada por F. Safar en la revista Sumer.
+Las primeras cuatro series fueron objeto de revisiones en la revista Siria.
+Los textos varían en fecha desde el siglo II o III a. C. hasta la destrucción de la ciudad hacia el 240 d.C.; El texto fechado más temprano nos da una fecha del 98 a. C.
+En su mayor parte, estas inscripciones son breves grafitos conmemorativos con texto mínimo.
+La más larga de las inscripciones grabadas no tiene más de 13 líneas.
+Por lo tanto, es difícil identificar más que unas pocas características del dialecto hatreo, pero aun así podemos apreciar su afinidad con la lengua siríaca.
+Las inscripciones en piedra dan testimonio de un esfuerzo por establecer una escritura monumental.
+Esta no es muy diferente de la de las inscripciones en lengua aramea de Assur (ya que posee el mismo š triangular, y el uso de los mismos rasgos para evitar la confusión entre m, s y q).
+Los signos d y los signos r no se distinguen entre sí, y a menudo es difícil no confundir los signos w con los y.
+El dialecto de Hatra no es más consistente que el de Palmira en su uso de matres lectiones para indicar las vocales largas ō y ī ; el sufijo pronominal de la tercera persona del plural se escribe indiscriminadamente, y en la misma inscripción se encuentra hwn y hn, el cuantificador kwl y kl "todos", el pronombre relativo dy y d, y la palabra byš y bš "mal".
+Se aprecian las siguientes características:
+Un debilitamiento de ayn ; en una inscripción, el singular masculino adjetivo demostrativo está escrito  'dyn (  'dyn ktb' 'esta inscripción') que corresponde al Mandeo y al arameo judío de Babilonia  hādēn. Los demostrativos similares,  'adī y  ' adā, están atestiguados también en arameo judío babilónico.
+El nombre divino Nergal, escrito nrgl, aparece en tres inscripciones.
+La pronunciación nergōl también está atestiguada en el Talmud de Babilonia (Sanhedrin, 63b) donde rima con tarnəgōl, "gallo".
+La secuencia b-yld corresponde al siriaco bēt yaldā "aniversario".
+El apócope de la consonante final del sustantivo bt en el estado de construcción no está atestiguado ni en arameo antiguo ni en siríaco; Sin embargo, está atestiguado en otros dialectos como el judío babilónico y el arameo palestino judío.
+La distinción entre los tres estados es evidente.
+Como en siríaco, la forma plural masculina del estado enfático tiene la inflexión -ē, escrita -’.
+La confusión de esta forma con la del estado de construcción puede explicar las construcciones bn’ šmšbrk "hijos de Š."
+y bn’ ddhwn "sus primos".
+El estado absoluto apenas se usa: klbn "perros" y dkyrn "(que puedan ser) recordados".
+La antigua construcción semítica, según la cual el sustantivo contado, en plural, está precedido por un número en el estado de construcción, con una inversión de géneros, se atestigua por una inscripción: tltt klbn "tres perros".
+Esta misma construcción ha sido descubierta en nabateo : tltt qysrym "los tres Césares".
+Como en siríaco, la construcción analítica del complemento sustantivo es común.
+El uso del estado de construcción parece estar limitado a términos de parentesco y algunos adjetivos: bryk’ ꜥh’.
+En la construcción analítica, el sustantivo definido está en estado enfático seguido de d(y) (por ejemplo, ṣlm’ dy ... "estatua de ... ", spr’ dy brmryn' " el escriba de (el dios) Barmarēn ") o está marcado por el sufijo pronominal anticipatorio (p. ej. qnh dy rꜥ’ "creador de la tierra", ꜥl ḥyyhy d ... ’ḥyhy "por la vida de su hermano", ꜥl zmth dy mn dy ... "contra el pelo (siríaco zemtā) de quien sea ...").
+El complemento del objeto del verbo también se representa analíticamente: ... l’ ldkrhy lnšr qb "no hagas mención de N.", mn dy lqrhy lꜥdyn ktb’ "el que lea esta inscripción".
+Del mismo modo, la partícula d(y) puede tener un significado declarativo simple: ... l’ lmr dy dkyr lṭb "(una maldición contra alguien) no dice, 'que sea bien recordado'", lo que se puede comparar con l’ lmr dy dkyr.
+Prácticamente todas las palabras de este dialecto conocidas se encuentran en siríaco, incluidas las palabras de origen acadio, como ’rdkl’ "arquitecto" ( siriaco  'ardiklā), y sustantivos profesionales partos como pšgryb’ / pzgryb’ "heredero al trono" (siriaco pṣgryb’); tres nuevos sustantivos, que parecen denotar algunas funciones religiosas, son presumiblemente de origen iraní: hdrpṭ '  (que Safar compara con el hylpt’ persa medio zoroastriano hērbed "maestro-sacerdote"), y los términos enigmáticos brpdmrk’ y qwtgd/ry'.
+Muchas "irregularidades" reveladas por los textos de Hatra (por ejemplo, el uso del estado enfático en lugar del estado de construcción, el uso del estado de construcción antes de la partícula dy, el uso inconsistente de las matres lectiones, etc.) se encuentran sistemáticamente en otras inscripciones en arameo del Imperio de Partia, entre el siglo III a. C. y el siglo III d. C. (anteriormente, en parte, en Kandahar, pero principalmente en Nisa, Avromân, Armazi, Tang-e Sarvak, etc.) Por lo tanto, podríamos preguntarnos legítimamente si, en lugar de hablar de "irregularidades", que se deberían, según cada caso, a "negligencia del escriba", "arcaismos del lenguaje" e "indecisión ortográfica", etc., deberíamos más bien habler de las características de estos dialectos arameos en sus desarrollos progresivos (que varían según cada región), que se podrían etiquetar como "arameo vernáculo" para distinguirlos del "arameo clásico".

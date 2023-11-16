@@ -1,0 +1,29 @@
+Una emulsión fotográfica es una fina capa sensible a la luz sobre un soporte como cristal, celulosa o poliéster.
+La emulsión fotográfica es la base de una película o placa fotográfica.
+En realidad no se trata de ninguna emulsión sino más bien una suspensión, una colmatación de finos cristales sensibles a la luz repartidos en una gelatina, por tanto un gel.
+Sin embargo el término emulsión, aunque erróneo, quedó generalizado.
+Esos cristales sensibles a la luz son conocidos como sales o haluro de plata.
+Tras la exposición a la luz los cristales suficientemente iluminados se transforman en plata metálica, y los demás todavía en forma de sales serán lavados (eliminados) durante el proceso de fijación quedando así la emulsión estabilizada.
+Este es el principio del negativo.
+Aunque los cristales de plata son sensibles a la luz, no lo son a toda la gama cromática sino solo a la de onda más corta, es decir a los tonos azules.
+Para hacer una emulsión sensible a todo el espectro electromagnético visible, se recubren las partículas con unos tintes moleculares que captan fotones y los envían a los cristales.
+En película de color y diapositiva se emplea un proceso más complejo de distintas capas de emulsiones sensibles a distintas longitudes de onda separadas por filtros de colores.
+De modo que la primera capa recibe la luz azul, debajo se encuentra un filtro amarillo que permite el paso de las restantes longitudes de ondas y la siguiente emulsión que al no ser sensible al rojo solo recogerá los tonos verdes, luego otro filtro rojo para la tercera emulsión que es sensible a este color.
+La emulsión ortocromática es sensible a todas las longitudes de electricidad visibles excepto el rojo y amarillo.
+Es por ello que en los comienzos de la fotografía solía maquillarse con polvo a los fotografiados, causando en ocasiones una sensación extraña.
+Suelen usarse hoy día las emulsiones ortocromáticas para el trabajo de fotografía en blanco y negro, por ejemplo en la ampliación del negativo (paso al papel) donde la emulsión del papel no necesita ser sensible al rojo pues solo ha de recibir la imagen en blanco y negro del negativo y de este modo se facilita el trabajo en el laboratorio mediante una luz roja que no vela el papel.
+Papel salado o Calotipia
+Esta técnica, fue inventada en 1835 por Henry Fox Talbot, está basada en la capacidad de ennegrecimiento de ciertos haluros de plata al entrar en contacto con la luz.
+El papel se bañaba en sal disuelta en agua y después se sensibilizaba con sales de plata.
+Las imágenes no se revelaban, sino que se imprimían, es decir, se trataba de impresiones de contacto colocadas en un marco con un negativo y expuestas al sol para lograr la impresión.
+El proceso completo duraba aproximadamente treinta minutos.
+Los “dibujos fotogénicos” realizados por Talbot con esta técnica desaparecían paulatinamente al ser observados por la luz.
+En 1839 John Herschel patentó el tiosulfito como sustancia capaz de fijar imágenes realizadas con sales de plata, con lo que se solucionó el problema de durabilidad de las imágenes realizadas en papel salado.
+Solucionado este gravo problema, esta fórmula fue utilizada durante el.
+La emulsión pancromática es sensible a todo el espectro electromagnético visible.
+Ello se consigue mediante la fabricación de la emulsión con unos aditivos especiales que absorben la luz.
+Las películas pancromáticas recogen el tono correcto de los colores, es decir la sensación de tonos de grises que corresponden a la impresión de luminosidad del ojo humano.
+La película en blanco y negro usada aún hoy día son casi sin excepción sensibilizadas de modo pancromático.
+Para la producción de fotografía en blanco y negro con un tono correcto a partir de negativos de color existen algunos papeles fotográficos de emulsión pancromática, por ejemplo: Kodak Panalure.
+Sin embargo éstos no pueden revelarse en un típico laboratorio con luz roja.
+Existen no obstante unas lámparas de vapor de sodio que pueden usarse de modo controlado debido a su escasa franja cromática de 589nm.

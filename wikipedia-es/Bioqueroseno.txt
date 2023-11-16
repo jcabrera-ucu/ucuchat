@@ -1,0 +1,28 @@
+Bioqueroseno es la denominación genérica para un combustible obtenido a partir de fuentes renovables que pueda ser utilizado en los motores de aviación bien como único componente o, lo que será más habitual, en mezclas con el queroseno convencional.
+Se conoce como queroseno a una compleja mezcla de hidrocarburos de longitud de cadena comprendida entre C8 y C15, punto de ebullición comprendido entre 190 a 275 °C y densidad típica en el entorno de 770 - 830 kg/m.
+Es utilizado en aviación o como combustible de calefacción y, en menor medida, doméstico.
+Se obtiene en su práctica totalidad a partir del petróleo.
+Curiosamente, la primera, y en aquel momento única, aplicación del petróleo, a mediados del, fue utilar la fracción queroseno en calefacción e iluminación.
+La hidrogenación controlada de aceites y grasas vegetales o animales produce hidrocarburos, predominantemente lineales, y longitud de cadena C15 - C18.
+Esta corriente, llamada hidrobiodiésel, es un excelente gasóleo de automoción pero resulta excesivamente pesada para utilizarse en aviación debido al riesgo de formación de parafinas sólidas a la baja temperatura imperante a la elevada altitud típica de los actuales vuelos.
+El 13 de enero de 2009 se publicó la DIRECTIVA 2008/101/CE DEL PARLAMENTO EUROPEO Y DEL CONSEJO de 19 de noviembre de 2008 por la que se modifica la Directiva 2003/87/CE con el fin de incluir las actividades de aviación en el régimen comunitario de comercio de derechos de emisión de gases de efecto invernadero.
+Simplificando su contenido -ciertamente complejo- la normativa intenta mitigar el creciente impacto de la aviación sobre el cambio climático (en conjunto se ha convertido en el segundo sector en importancia, tras la generación de energía) imponiendo topes a las emisiones de CO2.
+La medida, que será efectiva a partir de 2012, afectará a todos los vuelos intra- o extra-comunitarios que despeguen o aterricen en aeropuertos de la U.E.
+Ante lo que puede significar incremento en los costes de explotación, las compañías aéreas han considerado las ventajas derivadas de sustituir, total o parcialmente, el actual queroseno fósil por bioqueroseno.
+Con esta medida evitarían la penalización por emitir más allá de los asignación gratuita reconocida, e, incluso, podrían convertirse en vendedores en el mercado de derechos.
+Por esta razón, se ha acelerado el desarrollo de métodos comerciales de producción, que abarcan desde la investigación de nuevas materias primas y métodos de cultivo, hasta los procesos industriales optimizados.
+Las diferentes vías de investigación abiertas comprenden todo el ciclo de vida del biocombustible.
+Las más relevantes son las que afectan al principio y fin del ciclo: materia prima y producto final acabado
+El objetivo final es obtener biocarburantes a partir de productos que no compitan con la tierra fértil necesaria para la producción de alimentos.
+Los candidatos ideales son materiales lignocelulósocos, o lípidos procedentes de distintas especies de algas.
+Al momento actual, estas variantes se encuentra en un estado poco más que embrionario.
+A corto plazo, la alternativa contemplada de manera universal es utilizar aceites vegetales.
+En una primera aproximación, los componentes de todos los aceites y grasas, animales o vegetales se pueden agrupar en dos grandes clases:
+Siendo apenas relevante la materia prima sobre las características del producto, los criterios de selección de las más apropiadas serán: disponibilidad, economía y sostenibilidad
+Junto a las fuentes tradicionales, palma, soja, colza..., se están analizando otros vegetales no aptos para el consumo humano y ofrecen aceptables rendimientos en suelos áridos o degradados.
+Entre ellos, hasta el momento los que ofrecen mayor interés son:
+El proceso consta de dos fases principales:
+Evaluation of Bio-Derived Synthetic Paraffinic Kerosene (Bio-SPK).
+Dr. James D. Kinder and Timothy Rahmes.
+The Boeing Company.
+Sustainable Biofuels Research & Technology Program.

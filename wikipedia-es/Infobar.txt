@@ -1,0 +1,2 @@
+Un infobar es un widget usado por el Internet Explorer, Mozilla Firefox y otros programas para mostrar información al usuario.
+Un infobar está considerado ventajoso, ya que no interrumpe las actividades del usuario, sino que permite al usuario leer información extra sobre su propio tiempo.

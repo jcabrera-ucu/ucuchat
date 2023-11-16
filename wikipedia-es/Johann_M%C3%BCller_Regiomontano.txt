@@ -1,0 +1,50 @@
+Johann Müller Regiomontano (Königsberg in Bayern (Franconia), 6 de junio de 1436 - Roma, 6 de julio de 1476) fue un astrónomo y matemático alemán.
+Su nombre real es Johann Müller y el apodo "Regiomontano" proviene de la traducción latina del nombre de la ciudad alemana donde nació: Königsberg (Montaña real o Montaña Regia).
+No obstante, Regiomontano empleó en su vida numerosos nombres, por ejemplo en su inscripción en la Universidad aparece como Johannes Molitoris de Künigsperg en el que usa Molitoris como versión latinizada de 'Müller'.
+Existen otras variantes, como Johannes Germanus (Juan el Alemán), Johannes Francus (Juan de Franconia), Johann von Künigsperg (Juan de Königsberg) y finalmente con acento francés Joannes de Monte Regio.
+Se puede decir que Regiomontano Campirano fue verdaderamente un niño prodigio.
+Dio muestras de un enorme talento desde muy temprana edad y una habilidad sorprendente para las matemáticas.
+Como muestra de esto, a la edad de once años se matriculó en la Universidad de Leipzig para estudiar dialéctica, continuando los estudios universitarios desde 1447 hasta 1450.
+Posteriormente ingresó en la Universidad de Viena (1450) y allí conoció al que sería su profesor y amigo Peuerbach.
+Durante esta época su principal actividad se centró en el estudio de las matemáticas, la astronomía y la cosmología.
+Fue tan veloz en su aprendizaje que al acabar sus estudios en 1452, las normas de la Universidad le exigían alcanzar la edad de 21 para obtener el título de licenciado.
+Por esta razón tuvo que esperar hasta alcanzar la edad requerida en 1457.
+En noviembre de 1457, la Facultad de Arte de la Universidad de Viena le eligió para colaborar con los trabajos de su antiguo profesor Peuerbach.
+En esta temporada Peuerbach le enseñó las múltiples imprecisiones de las Tablas alfonsinas.
+En el terreno de la observación astronómica, los dos astrónomos hicieron observaciones de Marte y lograron predecir correctamente su posición.
+Regiomontanus daba cursos en la universidad sobre: perspectiva, geometría de Euclides y de literatura (Bucólicas de Virgilio).
+Durante este periodo trabajó en matemáticas, astronomía y construyó instrumentos tales como astrolabios.
+Estaba particularmente interesado en la lectura de viejos manuscritos y hacía copias manuscritas para su propio uso, algunas de ellas todavía han sobrevivido al paso de los años.
+En 1461 viaja a Roma para alistarse a las órdenes del Cardenal Basilio Besarión para poder realizar diseños sobre astrolabios y relojes de sol (véase también: Historia de la gnomónica).
+Durante esta estancia en Roma, que finaliza en 1465, Regiomontano pudo leer muchos manuscritos provenientes de diferentes fondos bibliográficos, algunos de ellos de la Santa Sede.
+El matemático de la casa real de Hungría Martin Bylica de Olkusz (Polonia) le invita a su casa de verano para que trabaje con él en diversas observaciones astronómicas.
+Posteriormente el rey Matías Corvino, por influencia de Bylica, le mantiene durante algunos años más en Hungría.
+Las tablas que creó mientras vivía en Hungría, su "Tabulae directionum", fueron diseñadas para la astrología, incluida la búsqueda de casas astrológicas.
+Actualmente, aún se emplea en astrología un Sistema de Casas con su nombre: Regiomontanus.
+En 1471 viaja a Núremberg y allí establece un observatorio con el patrocinio de Bernard Walther, en el que realiza actividades de investigación, cálculo y observación de fenómenos astronómicos.
+En enero de 1472 hizo observaciones de un cometa y lo describió (270 años después fue igualmente descrito por Halley y se convirtió en el cometa de Halley).
+La primera imprenta en Europa comienza su trabajo gracias a Johann Gutenberg en 1454, y Regiomontanus descubre en este invento una forma de divulgar información.
+Su pasión por esta nueva forma le lleva a efectuar múltiples copias de textos científicos, en los que edita diagramas muy precisos.
+Entre los años 1471 y 1472 actuó como un impresor en su propia casa de Núremberg.
+Probablemente fuera el primer impresor de literatura científica.
+Su primera obra como impresor fue el libro de su exprofesor Peuerbach sobre la teoría de los movimientos planetarios, siendo la siguiente impresión en el año 1474, en el que edita su propio "Kalendarium" y su "Ephemerides".
+Estos libros fueron reeditados muchas veces y cabe destacar la influencia que tuvieron sobre Cristóbal Colón y Américo Vespucio, ya que emplearon las "Ephemerides" para medir las longitudes en el "Nuevo Mundo" que habían descubierto.
+Sobre la muerte de Regiomontanus existen muchas hipótesis.
+Según una de ellas, el propio Regiomontanus había anunciado que publicaría un trabajo que demostraría el poco valor de las opiniones de un colega suyo denominado Jorge de Trebisonda, en el que demostraría cómo sus trabajos sobre Ptolomeo no solo han sido inútiles, sino que están llenos de fallos.
+Este y los rumores circulantes a este efecto fueron considerados tal vez suficiente motivo para el asesinato de Regiomontano por los dos hijos de George Trebizond.
+La otra versión es mucho más probable y cuenta que tras el desbordamiento del Tíber en enero de 1476 hubo un brote epidémico que podría haber acabado en una plaga y que Regiomontanus figurara entre las víctimas.
+La obra escrita de Regiomontano se puede englobar en tratados de matemática, centrados en lo que hoy se denomina trigonometría (se le considera un fundador de esta parte de la matemática) y tratados sobre astronomía.
+Por otra parte describe e inventa varios instrumentos útiles para la observación y la medida del tiempo (relojes solares).
+Todo este apartado lo divulga en una especie de panfletos impresos que fueron muy leídos durante su época.
+Regiomontanus estructuró su obra de una forma muy similar a los elementos de Euclides.
+De triangulis se compone de cinco libros, en el primero da las definiciones básicas: cantidad, ratio, igualdad, círculos, arcos, cuerdas y la función seno.
+Proporciona algunos axiomas que serán el sustento de los 56 teoremas que enunciará.
+En el segundo de los libros establece la Ley del seno y la emplea en la resolución de algunos problemas con triángulos.
+Determina el área de un triángulo mediante el conocimiento de dos lados y el ángulo que los sustenta.
+Los libros III, IV y V tratan de trigonometría esférica centrando el tema para las posteriores obras de astronomía.
+Gran parte del material sobre trigonometría esférica en esta obra fue tomado directamente de la obra de Jabir ibn Aflah (andalusí), al cual no cita Regiomontano.
+Este hecho fue advertido ya en el por Cardano.
+En su estancia en Hungría, Regiomontanus calcula dos tablas de senos.
+La primera la realiza en 1467 y emplea una división sexagesimal de los ángulos; la otra, escrita en la ciudad de Buda, calcula los senos de un ángulo empleando una división decimal.
+En el terreno de la astronomía también publicó el trabajo "Epitome in Almagestum" (publicado póstumamente en 1498).
+Se trata de un libro en el que expone el sistema de Ptolomeo.

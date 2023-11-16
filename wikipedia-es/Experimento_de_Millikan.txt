@@ -1,0 +1,67 @@
+El experimento de la gota de aceite fue realizado por Robert Millikan y Harvey Fletcher en 1912 para medir la carga elemental (la carga del electrón).
+Este experimento implicaba equilibrar la fuerza gravitatoria (dirigida hacia abajo) con la flotabilidad (dirigida en sentido contrario a la gravitacional) y las fuerzas eléctricas en las minúsculas gotas de aceite cargadas suspendidas entre dos electrodos metálicos fuertemente acelerados.
+Dado que la densidad del aceite era conocida, las masas de las "gotas", y por lo tanto sus fuerzas gravitatorias y de flotación, podrían determinarse a partir de sus radios observados.
+Usando un campo eléctrico conocido, Millikan y Fletcher pudieron determinar la carga en las gotas de aceite en equilibrio mecánico.
+Repitiendo el experimento para muchas gotas, confirmaron que las cargas eran todas múltiplos de un valor fundamental, y calcularon que es 1,5924|(17).10-19 C, dentro de un uno por ciento de positivo del valor actualmente aceptado de 1,602176487|(40).10-19 C. Propusieron que esta era la carga de un único electrón.
+A partir del año 1915, mientras era profesor en la Universidad de Chicago, Millikan, con el importante aporte de Fletcher, trabajó en el experimento de la gota de aceite con el que midió la carga de un único electrón.
+Después de una publicación sobre sus primeros resultados en 1910, las observaciones contradictorias de Felix Ehrenhaft iniciaron una controversia entre los dos físicos.
+Después de mejorar su configuración experimental, publicó su estudio seminal en 1913.
+Su experimento mide la intensidad de fuerza eléctrica contra la fuerza de atracción gravitatoria en las minúsculas gotas de aceite, cargadas por rozamiento, suspendidas entre dos electrodos metálicos.
+Conociendo el campo eléctrico, se determina la carga en la gota.
+Repitiendo el experimento para muchas gotas, Millikan demostró que los resultados podían ser explicados como múltiplos enteros de un valor común 1,592x10-19 C, la carga de un único electrón.
+En la época de los experimentos de la gota de aceite de Millikan y Fletcher, la existencia de las partículas subatómicas no era universalmente aceptada.
+Experimentando con los rayos catódicos Thomson descubrió en 1897 unos corpúsculos (como él los llamó) negativamente cargados, con una masa unas 1800 veces más pequeña que la de un átomo de hidrógeno.
+Resultados parecidos habían sido encontrados por George Francis FitzGerald y Walter Kaufmann.
+La mayoría de lo que entonces se conocía acerca de la electricidad y el magnetismo, sin embargo, podría explicarse sobre la base de que la carga es una variable continua, de la misma forma que muchas de las propiedades de la luz pueden explicarse el tratarla como una onda continua en lugar de como una corriente de fotones.
+La llamada carga elemental e es una de las constantes físicas fundamentales y su valor exacto es de gran importancia.
+En 1923, Millikan, ganó el Premio Nobel de física, en parte debido a este experimento.
+Aparte de la medición, la belleza del experimento de la gota de aceite reside en que es una simple y elegante demostración práctica de que la carga está en realidad cuantizada.
+Thomas Edison, quien había considerado la carga como una variable continua, se convenció después de trabajar con el aparato de Millikan y Fletcher.
+Este experimento ha sido repetido por generaciones de estudiantes de física, aunque es bastante caro y difícil de hacer correctamente.
+El aparato de Robert Millikan incorpora un par de placas metálicas paralelas horizontales.
+Al aplicar una diferencia de potencial entre las placas, se crea un campo eléctrico uniforme en el espacio entre ellas.
+Se utilizó un anillo de material aislante para mantener las placas separadas.
+Cuatro agujeros se cortaron en el anillo, tres para la iluminación con una luz brillante, y otro para permitir la visualización a través de un microscopio.
+Una fina niebla de gotas de aceite se roció a una cámara por encima de las placas.
+El aceite era de un tipo utilizado normalmente en aparatos de vacío y fue elegido porque tenía una presión de vapor extremadamente baja.
+El aceite ordinario se evaporaría bajo el calor de la fuente de luz causando que la masa de la gota de aceite cambiara durante el transcurso del experimento.
+Algunas gotas de aceite se cargaban eléctricamente a través de la fricción con la boquilla cuando fueron rociadas, mientras otras se descargaban hasta hacerse cationes y otras se volvían neutras.
+Como alternativa, la carga podría llevarse a cabo mediante la inclusión de una fuente de radiación ionizante (como un tubo de rayos X).
+Inicialmente, las gotas de aceite se dejan caer entre las placas con el campo eléctrico apagado.
+Muy rápidamente alcanzan la velocidad terminal debido a la fricción con el aire en la cámara.
+Se enciende entonces el campo y, si es lo suficientemente grande, algunas de las gotas comenzarán a subir.
+(Esto se debe a que la fuerza eléctrica hacia arriba FE es mayor que la fuerza gravitacional hacia abajo Fg).
+Se selecciona una gota para observar la probable caída y se mantiene en el centro del campo de visión conectando y apagando el voltaje alternativamente hasta que todas las otras gotas habían caído.
+El experimento se continúa entonces con esta única gota.
+La gota se deja caer y se calcula su velocidad terminal v1 en ausencia de campo eléctrico.
+La fuerza de fricción que actúa sobre la gota puede ser calculada usando la ley de Stokes:
+donde v1 es la velocidad terminal (es decir, la velocidad en ausencia de campo eléctrico) de la gota que cae, η es la viscosidad del aire, y r es el radio de la gota.
+El peso Fg es el volumen V multiplicado por la densidad ρ y la aceleración de la gravedad g.
+Sin embargo, lo que se necesita es el peso aparente.
+El peso aparente en el aire es el peso real, menos el peso del aire que desplaza la gota (upthrust).
+Para una gota perfectamente esférica el peso aparente puede expresarse como:
+A velocidad terminal, la gota de aceite no está acelerando.
+Así la fuerza total que actúa sobre ella debe ser cero.
+Así las dos fuerzas Fd y Fg deben cancelarse una a otra (esto es, Fd = Fg).
+Esto implica que:
+Una vez se ha calculado r, Fg puede calcularse fácilmente.
+Ahora el campo se vuelve a encender, y la fuerza eléctrica sobre la gota es:
+donde q es la carga de la gota de aceite y E es el campo eléctrico entre las placas.
+Para placas paralelas:
+donde V es la diferencia de potencial y d es la distancia entre las placas.
+Una de las formas concebibles para calcular q sería ajustar V hasta que la caída de la gota de aceite se mantenga estable.
+Entonces podríamos igualar FE con Fg.
+Pero en la práctica esto es muy difícil hacerlo con precisión.
+Además, la determinación de FE resulta difícil debido a que la masa de la gota de aceite es difícil de determinar sin volver de nuevo a la utilización de la Ley de Stokes.
+Un enfoque más práctico es hacer de V hasta un poco mayor para que la gota de aceite se eleve con una nueva velocidad terminal v2.
+Entonces:
+Existe cierta controversia planteada por el historiador Gerald Holton sobre el uso de la selectividad en los resultados de Millikan de su segundo experimento para la medición de la carga del electrón.
+Holton (1978) señaló que Millikan descartó un gran conjunto de las gotas de aceite obtenidas en sus experimentos sin razón aparente.
+Allan Franklin, un antiguo investigador en alta energía y actual filósofo de la ciencia en la Universidad de Colorado ha tratado de rebatir este punto de Holton.
+Franklin afirma que las exclusiones de Millikan de datos no afectan el valor final de la e que Millikan obtuvo, pero admite que hubo una sustancial "cirugía estética" que realizó Millikan y que tuvo el efecto de reducir el error estadístico en e.
+Esto permitió a Millikan citar que había calculado e con un error menor que una media del uno por ciento, de hecho, si Millikan hubiese incluido todos los datos que obtuvo, habría sido del 2%.
+Aunque todo esto podría haberse traducido en que Millikan había medido el valor de e, mejor que nadie en ese momento, la incertidumbre de un poco más grande podría haber permitido un mayor desacuerdo con sus resultados en la comunidad de físicos.
+David Goodstein cuenta que Millikan establece claramente que solamente incluyó las gotas que se habían sometido a "una serie completa de observaciones" y no excluyó ninguna gota de este grupo.
+En un discurso de apertura dado en el Instituto Tecnológico de California (Caltech) en 1974 (y reimpreso en ¿Está usted de broma, Sr. Feynman?), el físico Richard Feynman señaló:
+A partir de 2008, el valor aceptado para la carga elemental es 1,602176487|(40).10-19 C, donde el 40 indica incertidumbre en las dos últimas cifras.
+En su conferencia Nobel, Millikan dio su medición como 4,774(5).10-10 uec, que es igual a 1,5924(17).10-19 C. La diferencia es menor del uno por ciento, pero es más de seis veces mayor que la desviación estándar de Millikan, por lo que el desacuerdo es significativo.

@@ -1,0 +1,21 @@
+Un proyectista Es una especialidad o rama de ingeniería.
+Es aquella persona cuya profesión consiste básicamente en calcular, estimar costos, presupuestar y diseñar, construcciones de diversa naturaleza, ya sean proyectos artísticos, industriales o de cualquier otra índole.
+Posee conocimientos de cálculo superior.
+Según la Ley de Ordenación de la Edificación de España, el proyectista es uno de los agentes de la edificación contemplados.
+Es el agente que, por encargo del promotor y con sujeción a la normativa técnica y urbanística correspondiente, redacta el proyecto.
+Podrán redactar proyectos parciales del proyecto, o partes que lo complementen, otros técnicos de forma coordinada con el autor de este.
+Cuando el proyecto se desarrolle o complete mediante proyectos parciales u otros documentos técnicos, cada proyectista asumirá la titularidad de su proyecto.
+Según la Ley de Ordenación de la Edificación en España, son obligaciones del proyectista:
+En el BOE Real Decreto 690/2010 y BOE Real Decreto 386/2011 se definen las competencias profesionales de los títulos de Técnico Superior en Proyectos de Edificación y Técnico Superior en Proyectos de Obra Civil respectivamente.
+Entre otras, las relacionadas con el cargo de proyectista:
+Técnico Superior en Proyectos de Edificación;
+a) Elaborar la documentación gráfica de proyectos de edificación mediante la representación de los planos necesarios para la definición de los mismos, utilizando aplicaciones informáticas de diseño asistido por ordenador.
+b) Elaborar modelos, planos y presentaciones en 2D y 3D para facilitar la visualización y comprensión de proyectos de edificación.
+c) Solicitar y comparar ofertas obteniendo la información destinada a suministradores, contratistas o subcontratistas evaluando y homogeneizando las recibidas.
+d) Valorar proyectos y obras generando presupuestos conforme a la información de capítulos y partidas y/u ofertas recibidas.
+e) Elaborar planes/ programas, realizando cálculos básicos de rendimientos, para permitir el control de la fase de redacción del proyecto, del proceso de contratación y de la fase de ejecución de obras de edificación.
+Técnico Superior en Proyectos de Obra Civil;
+a) Elaborar la documentación gráfica de proyectos de obra civil y de ordenación del territorio, mediante la representación de los planos necesarios para la definición de los mismos, utilizando aplicaciones informáticas de diseño asistido por ordenador.
+b) Elaborar modelos, planos y presentaciones en 2D y 3D para facilitar la visualización y comprensión de proyectos de obra civil.
+c) Intervenir en la redacción de la documentación escrita de proyectos de obra civil y de ordenación del territorio, mediante la elaboración de memorias, pliegos de condiciones, mediciones, presupuestos y demás estudios requeridos (de seguridad, salud y medioambientales, entre otros), utilizando aplicaciones informáticas.
+d) Elaborar planes/ programas, realizando cálculos básicos de rendimientos, para permitir el control de la fase de redacción del proyecto, del proceso de contratación y de la fase de ejecución de trabajos de obra civil.

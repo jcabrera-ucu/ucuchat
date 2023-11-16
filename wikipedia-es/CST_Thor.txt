@@ -1,0 +1,32 @@
+Los CST Thor son una serie de ordenadores personales compatibles Sinclair QL diseñados y producidos por Cambridge Systems Technology durante la década de 1980.
+El original Thor PC (también llamado Thor 1, a veces también se conoce a posteriori como el Thor 8), fue lanzado en 1986, como una progresión lógica del negocio de fabricación de periféricos para QL de CST después de la producción del QL se detuvo.
+El stock restante de piezas de QL fueron adquiridos a Sinclair, y la placa madre estándar del QL (que incluía una CPU Motorola 68008 a 7.5 MHz y 128 KiB de memoria RAM) se amplió con una tarjeta de expansión diseñada por CST que proporcionaba 512 KiB de RAM adicional, ROMs adicionales, un reloj en tiempo real no volátil, unidades de disquete de 3,5 pulgadas, interfaz SCSI, puerto paralelo compatible Centronics, interfaces para teclado tipo IBM PC/AT y mouse una caja metálica de escritorio de perfil bajo con una fuente de alimentación integrada.
+El almacenamiento de datos se realiza en una (Thor 1F) o dos (Thor 2F) unidades de disquete de 3,5 pulgadas o una unidad y un disco duro SCSI de 20 MB Rodime (Thor 2WF).
+Las ROMs contenían la interfaz gráfica de usuario ICE de Eidersoft y algunas extensiones QDOS.
+También se incluye con el Thor una versión especial de la suite de software Psion Xchange (una edición mejorada de las aplicaciones Psion incluidas con el QL).
+Los precios para el PC Thor variaron de 599 £ a 1.399 £, sin incluir el monitor, el ratón y el IVA.
+Un servicio de actualización para los QL existentes también estaba disponible.
+La producción total del Thor PC estuvo alrededor de 1.100 unidades.
+Los Thor 20 y Thor 21 eran variantes del Thor PC lanzados en abril de 1987, equipados con un microprocesador Motorola 68020 en una placa hija en lugar de la CPU original.
+El nuevo procesador corre a 12,5 MHz, opcionalmente a 16,67 MHz a un costo mayor.
+El Thor 21 también fue equipado con el coprocesador matemático Motorola 68881 funcionando a la misma velocidad que la CPU.
+El rendimiento fue significativamente mejor que el Thor 1, pero en desventaja por el uso de la memoria de 8 bits del sistema de base.
+El Thor 20 y 21 fueron enviados con un macro ensamblador 68020 y lincador, además de la documentación oficial del procesador Motorola.
+Fueron pensados como un medio para el desarrollo de software para un modelo mejorado basado en 68020, archivado posteriormente.
+El Thor 20 y 21 eran muy caros (un Thor 21 a 12,5 MHz cuesta alrededor de dos veces más que un Thor 1F) y fueron colocados principalmente en calidad de préstamo a la comunidad de desarrollo de software.
+El Thor XVI fue desarrollado en colaboración con la empresa danesa DanSoft y fue anunciado en el Personal Computer World Show en septiembre de 1987.
+A diferencia de los modelos anteriores, el hardware del Thor XVI era de un diseño completamente nuevo, basado en torno a un microprocesador Motorola 68000 a 8 MHz y un coprocesador 68B02 a 2 MHz para sonido y procesos de entrada/salida.
+Cada uno de ellos tiene su propia placa que se comunican por un puente.
+De serie viene con 512 KiB de RAM ampliables primero a 2 MiB, más tarde 6,5 MiB en ranuras propietarias.
+El hardware de vídeo proporciona modos de vídeo compatible con QL, así como un nuevo modo de 16 colores.
+Unidades de disquete, SCSI, puerto paralelo Centronics, dos puertos serie S5/8, teclado tipo IBM PC/AT y mouse, bus de expansión QL e interfaz de red QLAN vienen de serie.
+Las opciones de almacenamiento son similares a las de los Thor previos, además de configuraciones con disco duro de 40 MB y estación de trabajo sin disco.
+El Thor XVI tiene en una caja similar al del Thor PC, de 400 x 330 x 85 mm (15,75 x 13 x 3,35 pulgadas) y un peso de unos 6,6 Kilogramos (14,6 libras)
+El Thor XVI incluye en ROM un sistema operativo derivado de QDOS 1.13, llamado Argos.
+Al igual que sus predecesores, el XVI fue incluido con Xchange.
+La producción se inició a principios de 1988, y alrededor de 250 Thor XVI fueron construidos en el Reino Unido.
+Los precios eran un poco más alto que el Thor PC.
+Más tarde, en 1988, en una operación de marketing conjunta de CST/DanSoft, se funda Thor International en Dinamarca en un intento de aumentar las ventas en el mercado europeo.
+El hardware del Thor XVI fue revisado ligeramente y la producción se trasladó a Brüel & Kjær en Dinamarca.
+También se hicieron planes para construir Thors bajo licencia en Rusia, pero no llegaron a nada.
+Al año siguiente, Thor International (y CST) se derrumbó en medio de acritud y acciones legales por la transferencia de activos en disputa desde el Reino Unido por los socios.

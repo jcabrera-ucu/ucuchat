@@ -1,0 +1,32 @@
+Un tiempo verbal es cada uno de los paradigmas en que típicamente se divide la conjugación verbal de una lengua flexiva para expresar diferencias de tiempo, aspecto, modo u otras propiedades lingüísticas.
+El verbo significa una acción, proceso o estado de hechos situado en un tiempo determinado.
+El tiempo verbal no es el tiempo físico recogido en los calendarios o medido por el reloj, sino una representación de la ordenación cronológica de los acontecimientos del discurso.
+El tiempo verbal es una referencia de tipo lingüístico, destinado a organizar el discurso situando los acontecimientos y hechos cronológicamente en un momento relacionado con el aquí y el ahora del habla.
+En las lenguas del mundo la deixis de tiempo o indicación del tiempo en que se sitúa lo descrito por el verbo es de dos tipos: tiempo absoluto y tiempo relativo.
+En el sistema de tiempo absoluto los acontecimientos se ordenan respecto al tiempo físico actual (presente), resultando los sucesos clasificados en pasado absoluto (remoto o reciente) y futuro absoluto.
+En el sistema de tiempo relativo los acontecimientos se consideran según fueron (o serán) anteriores o posteriores a un evento dado.
+Además frecuentemente en las lenguas la deixis o indicación de dicho tiempo (T) se acompaña de manera conjunta con otros aspectos no deícticos como el aspecto gramatical (A) o el modo gramatical (M).
+Por esa razón las categorías que definen los tiempos verbales en una lengua generalmente se les denomina categorías TAM (tiempo-aspecto-modo).
+Cuando se afirma algo, el tiempo absoluto de referencia es el presente.
+A partir de este presente podemos hablar de hechos pasados y de hechos futuros.
+Todo lo acaecido antes del presente es, pues, el pasado o pretérito.
+Todo lo acaecido después del presente será el futuro.
+El sistema verbal posee distintas formas destinadas a expresar el tiempo según la distancia con el presente sea mayor o menor.
+Así, tenemos formas llamadas presente anterior, con las que hacemos referencia a hechos sucedidos hace muy poco; por ejemplo, en español peninsular se utiliza el pretérito perfecto compuesto: Hoy he comido estofado de ternera.
+Las formas más distantes en el pasado reciben el nombre de pretéritas, aunque entre ellas pueden a su vez darse una serie de distinciones según el modo y el aspecto que expresen, que son formas de observar la acción desde la perspectiva del hablante.
+Por ejemplo, en variedades del español, el pretérito perfecto simple de indicativo (pretérito indefinido) nos ofrece una acción situada en un pasado más o menos remoto: Bailé toda la noche sin cansarme; pero además nos indica que dicha acción es acabada (perfecto) y real (indicativo).
+En español, el futuro simple de indicativo nos mostrará una acción no realizada aún, pero vista como cierta: Compraré las entradas mañana mismo.
+En las lenguas con un sistema de tiempo relativo, este funciona generalmente en oraciones dependientes o subordinadas.
+Así, el tiempo de la oración subordinada se califica en pasado, presente o futuro relativos, según sea anterior, simultánea o posterior al instante indicado por el verbo de la oración principal.
+Aunque no todas las lenguas poseen un sistema específico de tiempo relativo, muchas de ellas son capaces de expresar lo mismo mediante el aspecto; por ejemplo, en español el orden relativo de los dos acontecimientos de las siguientes oraciones es inverso en (1a) y en (1b):
+En la primera, ambas formas verbales están en aspecto imperfectivo; pero, en la segunda, marchar está conjugado en aspecto perfecto, lo cual indica que la acción de marchar se dio antes que la de llegar.
+El español usa la perífrasis verbal ir a VERBO para expresar un futuro relativo:
+En (2a), todos los acontecimientos ya habían sucedido en el momento de pronunciar la oración; sin embargo, el ir a ver es futuro relativo respecto a escuchar; igualmente, en (2b) ir a ver ocurre en el futuro relativo de escuchar, aunque en esa oración se refiere a un hecho hipotético; finalmente, el futuro simple del español (2c) solo puede referirse a hechos no sucedidos en el momento del habla (salvo en relatos históricos o como recurso retórico):
+En español y en otras lenguas románicas, los tiempos verbales son siempre combinaciones de tiempo gramatical y aspecto gramatical ya que el español es una lengua fusionante en la que estas dos categorías aparecen fusionadas en los morfemas flexivos del verbo.
+La misma situación se presenta en muchas lenguas indoeuropeas en particular en las lenguas románicas.
+En hindi el aspecto es abiertamente marcado.
+Hay cuatro aspectos en hindi: aspecto simple, aspecto habitual, aspecto perfecto y aspecto progresivo.
+Las formas verbales perifrásticas en hindi consisten en dos elementos, el primero de estos dos elementos es el marcador de aspecto y el segundo elemento (la cópula) es el marcador de tiempo y modo.
+Estos tres aspectos se forman a partir de sus formas de participio que se utilizan con el verbo copular del hindi.
+Sin embargo, además del verbo होना (honā) [ser/estar/haber], los participios aspectuales también pueden ser los verbos रहना (rɛhnā) [quedar], आना (ānā) [venir] y जाना (jānā) [ir] como la cópula.
+En chino, no existen propiamente marcas auténticas de tiempo gramatical por lo que los "tiempos verbales" en realidad consisten en formas aspectuales y el tiempo es contextual, es decir, se infiere pragmáticamente del contexto y las marcas de aspecto gramatical.

@@ -1,0 +1,47 @@
+Joli OS era una distribución de Linux basada en Ubuntu creada por Tariq Krim y Romain Huet, cofundadores de la empresa francesa Jolicloud (también el nombre del sistema operativo hasta la versión 1.2).
+Joli OS es ahora un proyecto de código abierto, con código fuente alojado en GitHub.
+El 22 de noviembre de 2013, Tariq Krim decidió descontinuar el sistema operativo Joli, pero mantuvo abierto el código fuente.
+Jolicloud se suspendió el 1 de abril de 2016.
+El proyecto fue lanzado en 2008 por el fundador de Netvibes Tariq Krim y Romain Huet.
+Krim originalmente quería construir una computadora portátil usando métodos de fabricación amigables con el medio ambiente, pero los dos cofundadores reenfocaron el esfuerzo en construir un sistema operativo.
+Después de comprar algunas netbooks y renovar su relación con Linux, alquilaron un espacio de oficina en el área de Montorgueil en París y más tarde se les unió otro desarrollador, Tristan Groléat.
+Las firmas de capital de riesgo Atomico Ventures y Mangrove Capital Partners han proporcionado $4200000 (cuatro millones doscientos mil) en financiamiento.
+La versión 1.0 se lanzó en julio de 2010 y la versión 1.1 se lanzó el 7 de diciembre de 2010.
+La versión 1.2 se lanzó el 9 de marzo de 2011.
+Joli OS se construyó al principio sobre Ubuntu Netbook Edition, y, al igual que con esa distribución de Linux, se modificó para netbooks y otras computadoras con almacenamiento en disco, memoria y tamaño de pantalla limitados.
+Joli OS ahora está construido sobre Ubuntu con un kernel personalizado.
+Joli OS fue diseñado para una fácil instalación, con soporte para Wi-Fi, bluetooth y módem 3G, todo incluido.
+El sistema operativo es compatible con las principales netbooks, incluidos los modelos de Asus, Acer, Dell, HP, MSI, Samsung y Sony.
+Jolicloud afirma que el sistema operativo es compatible con el 98 % de las netbooks con compatibilidad lista para usar pero también funciona en una gran cantidad de otros dispositivos, de hasta 10 años de antigüedad: computadoras portátiles, de escritorio y tabletas.
+La versión 1.0 del sistema operativo incorpora una interfaz de usuario construida principalmente con HTML5 que incluye un lanzador de aplicaciones, una biblioteca de aplicaciones compatibles con instalación y eliminación con un solo clic, una pantalla de todas las máquinas asociadas con una cuenta de usuario y un flujo de actividad social que permite a los usuarios comparar las aplicaciones instaladas.
+El iniciador muestra solo aquellas aplicaciones compatibles con la biblioteca, pero la configuración idéntica se puede ver desde cualquier máquina que ejecute el sistema operativo Joli.
+La administración de cuentas está disponible desde cualquier computadora con un navegador compatible con HTML5.
+La implementación de HTML5 de Jolicloud se realiza a través del navegador web Chromium, que sirve como middleware para la representación web.
+Los revisores que evaluaron el sistema operativo Joli difirieron en sus valoraciones, dependiendo de si estaban escribiendo para un usuario que es nuevo en Linux o que tiene más experiencia con el sistema operativo.
+Escribiendo en un blog de Condé Nast Traveler, Mike Haney llamó a Joli OS "un sistema operativo fácil y gratuito que no tiene que ser un mono de programación para instalar y hace todo lo que necesita que haga su netbook, rápidamente. Lo puse en una netbook de Lenovo este fin de semana que funcionaba como la melaza con Windows 7, y soy un converso".
+Si bien Joli OS no es el primer sistema operativo diseñado a partir de Linux dirigido a los netbooks principiantes, "es el primero que no se siente como si estuviera usando Linux: sin procedimientos de instalación extraños, sin código, sin acceso a directorios especiales para encontrar más aplicaciones ."
+Comparó Joli OS en apariencia y función con iOS, el sistema operativo utilizado por el iPad de Apple (así como el iPhone y el iPod Touch ), aunque con las carpetas y archivos de una computadora convencional".
+En Computerworld, Serdar Yegulalp escribió que Joli OS 1.0 "se siente como una segunda versión beta, no como una versión 1.0; necesita más trabajo antes de que sea realmente útil en lugar de un paso por encima de una curiosidad".
+Yegulalp informó problemas al iniciar algunas aplicaciones, incluido el navegador Google Chrome y el reproductor multimedia VLC, la incapacidad de hacer redes de malla punto a punto, el botón de encendido se bloqueó con ventanas abiertas y no hay modo de hibernación, incluso si la computadora lo admite.
+Observó un rendimiento comparable con Windows 7 pero con tiempos de arranque ligeramente más rápidos.
+Pero el reportero de ZDNet, David Meyer, no estuvo de acuerdo con esa evaluación de rendimiento después de ejecutar Jolicloud en un Nokia Booklet 3G para aprovechar la inusual resolución de pantalla de 720p de ese dispositivo.
+Escribió que el "pésimo procesador Atom Z530 del dispositivo... realmente tiene problemas con Windows 7 Starter Edition [pero] vuela en Jolicloud... Me cuesta pensar en una distribución de Linux rival que un usuario promedio pueda elegir y ejecutar con tanta facilidad".
+En Ars Technica, Ryan Paul escribió que "hay muchas buenas ideas en exhibición en Jolicloud [ahora Joli OS] 1.0, pero el producto naciente todavía se siente incompleto".
+No vio ninguna razón para que los usuarios de Linux, particularmente los usuarios de Ubuntu, cambiaran.
+"El propio entorno Unity de Ubuntu es más sofisticado y tiene una integración mucho mejor entre las aplicaciones nativas y la plataforma subyacente", aunque Joli OS podría ser una mejor opción para los usuarios interesados en las aplicaciones web.
+Al señalar que la base de Joli OS 1.0 es Ubuntu 9.04, que está llegando al final de su ciclo de soporte por parte de Canonical, Paul escribió que "el verdadero desafío será continuar ampliando el alcance de las características diferenciadoras de Joli OS mientras... se asegura de que Jolicloud los usuarios se beneficiarán del flujo constante de nuevas funciones de Ubuntu".
+Tariq Krim defendió la decisión de quedarse con Ubuntu 9.04 en Joli OS 1.0, argumentando que las versiones posteriores de Ubuntu han sido menos estables y han requerido instalaciones de software iniciadas por el usuario para ser completamente funcionales.
+Los ejemplos en los que los desarrolladores de Jolicloud realizaron un trabajo adicional para garantizar la funcionalidad lista para usar incluyen soporte para controladores Poulsbo GMA500, pantallas táctiles y 3G.
+Dijo que la compañía se estaba "alejando de Ubuntu a una solución que podría satisfacer mejor las necesidades de nuestros usuarios. Estamos observando de cerca lo que está haciendo Chrome OS
+En noviembre de 2010, Jolicloud envió una computadora netbook, llamada Jolibook, que ejecutaba el sistema operativo de fábrica.
+La computadora fue fabricada por Vye Computers con sede en el Reino Unido y presentaba una pantalla de 10,1 pulgadas, doble núcleo 1,5 Intel Atom N550 de GHz, 1 GB de RAM y un disco duro de 250 GB. La obra de arte en la tapa incluía el eslogan "rápido, divertido, conectado".
+La máquina solo estaba disponible en el Reino Unido y se vendía por £ 280 a través de Shop.
+VyePC.com y Amazon.co.uk, y ya no se fabrica.
+Jolicloud lanzó la versión 1.1 en diciembre de 2010.
+La nueva versión se basó en Ubuntu 10.04 LTS (Lucid), con futuros parches planificados a partir de la 10.10 (Maverick).
+Entre las mejoras reclamadas por la empresa se encuentran tiempos de arranque más rápidos de 10 a 20 segundos en la mayoría de los dispositivos probados, mejoras en la duración de la batería del 15 por ciento (probado en una netbook Clevo M1100 con un procesador Intel Atom N450 y una batería de tres celdas) y soporte para todos PC, no solo netbooks.
+La versión 1.2 se anunció en marzo de 2011 y se renombró Joli OS.
+La nueva versión presentaba una nueva pantalla de inicio, inicios de sesión automáticos y en modo invitado, un sistema de archivos local integrado en el escritorio, acceso remoto al escritorio desde cualquier navegador compatible con HTML5, actualizaciones en segundo plano opcionales y soporte para el navegador Chromium 10 más reciente.
+y Flash 10.2.
+La versión 1.2 también incluye integración con Dropbox, un asistente para la creación de aplicaciones, y un explorador de archivos para acceder a archivos locales, obtener una vista previa de los archivos de Dropbox y editarlos con Google Docs.
+Utiliza 2,2 GB de espacio en disco cuando se instala.

@@ -1,0 +1,35 @@
+El calderón, corona o fermata es un signo de prolongación en el sonido, en notación musical es un signo que indica un punto de reposo, alargando la duración de las figuras musicales a las que afecta.
+Es decir, esta prolongación suspende el pulso que se estaba ejecutando hasta ese momento, y la nota, silencio o barra de compás afectada debe mantenerse durante un tiempo mayor del que indica en la partitura.
+La cantidad exacta de tiempo que se prolonga es a discreción del intérprete o del director, si bien es usual doblar la duración.
+En el aria da capo es el signo que marca la finalización de la primera parte («fine»).
+Y en los conciertos para solistas señala los pasajes conocidos como cadenzas que están dedicados a la improvisación del solista.
+El calderón en partituras y partichelas aparece representado con un signo en forma de punto que está coronado por un semicírculo.
+Se ubica preferentemente en la parte superior del pentagrama por encima de la nota que se va a prolongar independientemente de la dirección de la plica.
+No obstante, también puede aparecer por debajo del pentagrama.
+En Unicode hay dos símbolos para el calderón que se corresponden con el calderón por encima y por debajo del pentagrama.
+Estos signos se obtienen mediante los siguientes códigos:
+El software Lilypond reconoce cuatro tipos de calderones:
+Estos signos se desarrollaron en el como una serie de variantes gráficas para representar calderones en las composiciones musicales que se comentan en el apartado siguiente.
+El calderón apareció en el siendo primero colocado en la mayoría de los casos en la última nota de una pieza.
+Es bastante común en las obras de Guillaume Dufay y Josquin des Prez.
+En los arreglos corales de Johann Sebastian Bach y otros compositores del Barroco, el calderón a menudo sólo significa el final de una frase, donde se toma aliento para continuar.
+En unas pocas composiciones para órgano los calderones se presentan en diferentes compases de la mano derecha e izquierda, así como para los pies, lo cual haría prácticamente imposible su ejecución.
+Algunos compositores del, entre los que se incluyen Francis Poulenc, Krzysztof Penderecki y Luigi Nono, ampliaron el uso de este signo para indicar la duración aproximada, incorporando diferentes tamaños y formas como el triángulo y cuadrado para representar calderones de duraciones diferentes.
+Aunque no constituye el uso estándar, estas son algunas de las propuestas:
+ca. 12''
+En la obra de Maurice Ohana podemos encontrar un signo que combina el calderón de forma cuadrada junto con la coma que indica la respiración.
+Suele aparecer colocado en especial sobre las barras de compás.
+Esto se puede entender como un respiración-punto de reposo breve.
+Por ejemplo, en Dies Solis (París, Jobert, 1983).
+En general, Ohana parece utilizar el calderón cuadrado como un punto de reposo breve, ya sea sobre una nota o sobre un silencio.
+Un calderón puede aparecer tanto al final como en medio de una pieza o movimiento, y es seguido de un silencio breve o más notas.
+Conforme a Brock McElheran los calderones pueden ser clasificados en tres tipos:
+Después de esta clasificación, este mismo autor ofrece consejo detallado para la interpretación de cada uno de estos tipos.
+Un calderón puede afectar a una nota, un acorde, un silencio o una barra de compás.
+Cuando acompaña a una nota, acorde o silencio se detiene la medida observada hasta el momento y la duración de la figura se prolonga el tiempo que determine el intérprete o el director en su caso.
+Una de las opciones más habituales es doblar la duración original.
+[[Archivo: Urlinie in G with fermata.png|center|350px|thumb|Figura 3. Ejemplo de calderón en la penúltima nota.
+]]
+Cuando afecta a una barra de compás indica que hay que realizar una pausa intercalada.
+El signo opuesto es el término attacca que también se coloca sobre la barra de compás para indicar que hay que continuar inmediatamente, sin pausa entremedias.
+Si afecta a un compás entero de pausa en todas las voces o pausa general el calderón generalmente significa un acortamiento y no un alargamiento.

@@ -1,0 +1,6 @@
+En teoría de probabilidad y estadística, una distribución categórica (también denominada distribución de Bernoulli generalizada, distribución multinoulli' ) es una distribución de probabilidad discreta que describe los posibles resultados de una variable aleatoria que puede tomar una de K categorías posibles, con la probabilidad de cada categoría especificada por separado.
+No hay un ordenamiento innato subyacente de estos resultados, pero las etiquetas numéricas a menudo se adjuntan por conveniencia al describir la distribución (por ejemplo, 1 a K).
+La distribución categórica K- dimensional es la distribución más general sobre un evento K -way; Cualquier otra distribución discreta sobre un espacio muestral de tamaño K es un caso especial.
+Los parámetros que especifican las probabilidades de cada resultado posible están limitados solo por el hecho de que cada uno debe estar en el rango de 0 a 1, y todos deben sumar a 1.
+La distribución categórica es la generalización de la distribución de Bernoulli para una variable aleatoria categórica, es decir, para una variable discreta con más de dos resultados posibles, como la tirada de un dado.
+Por otro lado, la distribución categórica es un caso especial de la distribución multinomial, ya que ofrece las probabilidades de resultados potenciales de una sola realización en lugar de múltiples realizaciones.

@@ -1,0 +1,39 @@
+En ingeniería civil, la conversión de ancho de vía es un tipo de obra ferroviaria que implica modificar la separación existente entre los carriles de una vía, con el fin de poder utilizar trenes con un ancho de rodadura distinto.
+Puede estar motivada por distintas causas: para dar continuidad a dos sistemas con anchos de vía diferentes; cuando las cargas son demasiado pesadas para el ancho de vía existente; o si el material móvil disponible es de un ancho diferente al de las vías.
+Este tipo de obras eran relativamente sencillas cuando se utilizaban traviesas de madera (solía bastar con desclavar un carril y volverlo a clavar con la nueva separación si la traviesa tenía ancho suficiente), pero la generalización del uso de traviesas de hormigón (y especialmente de vía en placa) puede complicar extraordinariamente estas obras, obligando a cortar el servicio ferroviario durante largos periodos de tiempo.
+Por este motivo, se han ideado diversos sistemas, tales como las traviesas de hormigón polivalentes (que simplifican la operación), la vía mixta (que permite posponerla), o los trenes de ancho variable (que pueden hacerla innecesaria utilizando cambiadores de ancho para pasar de unas vías a otras).
+Cuando la vía utiliza durmientes de madera y se necesita disponer una menor separación entre los carriles, normalmente se usan las traviesas existentes.
+En el caso de que se requiera disponer una vía más ancha, si el incremento de separación es relativamente pequeño (del orden de 10 cm o menos), es posible que los durmientes puedan ser lo suficientemente largos como para acomodar adecuadamente el carril y sus sujeciones en la nueva posición.
+Como ya se ha señalado, las traviesas de madera son especialmente adecuadas para este propósito, dado que permiten volver a clavar sin problemas las sujeciones en su nueva posición.
+Esto no es posible con las traviesas de hormigón prefabricadas (diseñadas para un determinado ancho de vía específico), a no ser que se trate de traviesas polivalentes, que disponen de dos juegos de orificios que permiten atornillar las sujeciones de los carriles con dos separaciones diferentes.
+Las traviesas de acero pueden tener preparadas zonas para colocar las sujeciones de ancho alternativo cuando se fabrican, y también pueden perforarse o soldarse para recolocar las sujeciones en caso contrario.
+Por ejemplo, durante la conversión del Ferrocarril Melbourne-Adelaida en Australia, que se convirtió de a, se usaron traviesas preparadas para los dos anchos y una sujeción reversible para el clip Pandrol.
+La conversión para pasar desde una vía estrecha a una vía más ancha, puede requerir la ampliación del gálibo de circulación de los puentes, de los pasos superiores, de los túneles y de terraplenes y desmontes.
+Así mismo, el material rodante más ancho exige disponer curvas de radios más amplios para inscribirse correctamente en las vías, lo que puede obligar a cambiar el trazado de las vías de acuerdo con los nuevos radios más amplios.
+Los haces de vías en lasestaciones muy posiblemente también tengan que ser redimensionados.
+La conversión de vía estrecha al ancho estándar significa varios cambios no solo por el ancho en sí mismo, sino para hacer compatible el ancho estructural de la vía con los requerimientos de gálibo del ancho estándar, lo que puede afectar a la altura de los pasos elevados o a la sección de los túneles.
+La elección de los acopladores de los trenes también puede ser un factor a tener en cuenta.
+Cuando se pretende adaptar el material rodante a un ancho diferente, deben intercambiarse los bogies o los juegos de ruedas, lo que no suele ser económicamente viable si el material móvil no se diseñó en su momento para poder asumir este cambio.
+Otra solución es utilizar ejes de ancho variable.
+Por ejemplo, los trenes de pasajeros convencionales que circulan entre Francia (con vías de ) y España (donde la vías son de ), pasan por un cambiador de anchos, una pequeña instalación que permite ajustar automáticamente los ejes de ancho variable de los trenes sin necesidad de que se detengan.
+Este proceso se conoce como "cambio de ancho".
+Los vagones de mercancías todavía están sujetos al intercambio de bogies o al intercambio de ruedas.
+Muy pocas locomotoras de vapor estaban construidas para permitir el cambio de ancho, aunque se pueden citar algunos ejemplos, como las Garratt de los Ferrocarriles de África Oriental, y las máquinas R766 de los Ferrocarriles de Victoria.
+La construcción de locomotoras de vapor de este tipo es compleja, debido a la anchura de las calderas y de las cámaras de combustión.
+Solo era posible adaptar máquinas a una vía ligeramente más ancha (y no al revés), como en el caso de las máquinas de ancho métrico, modificadas para circular por vías de de ancho.
+Alrededor de 1860, el Ferrocarril de Brístol y Exeter convirtió cinco locomotoras de ancho estándar para poder circular por las vías de ancho Brunel, aunque posteriormente las devolvió a su ancho original.
+También en el siglo XIX, en los Estados Unidos, algunas locomotoras para vías de de ancho fueron diseñadas para ser fácilmente convertidas al ancho estándar de.
+En el siglo XX, en la Estación de Victoria de Londres circulaban algunas locomotoras de (el ancho del Great Western Railway), diseñadas para ser convertidas fácilmente al ancho de.
+Entre 1922 y 1949, cinco máquinas de los Ferrocarriles del Sur de Australia Clase T se redujeron de a un ancho de  de la clase Tx, devolviéndose más adelante a su ancho original.
+Después de la Segunda Guerra Mundial, una serie de locomotoras Pacífic alemanas de la Clase 03 capturadas fueron adaptadas al ancho ruso.
+La mayoría del material rodante diésel y eléctrico puede someterse a la conversión de ancho mediante el reemplazo de sus bogies.
+Las máquinas con distancias entre ejes fijas son más difíciles de convertir.
+En Australia, las locomotoras diésel se han transformado frecuentemente para operar en vías anchas, estándar y estrechas.
+La conversión de ancho de vagones y coches implica el reemplazo de los juegos de ruedas o de los bogies en su caso.
+En mayo de 1892 se convirtieron los vagones y los coches del Great Western Railway cuando dejaron de usarse definitivamente las vías de de ancho.
+Durante el trabajo de conversión de ancho, algunas estaciones y líneas secundarias pueden quedar "huérfanas", dado que los trenes no pueden operar hasta que se complete el costoso trabajo de conversión de ancho.
+Por ejemplo, entre Seymour y Albury en Australia, algunas líneas secundarias (como la de Benalla a Oaklands) y algunas estaciones, como la de Violet Town, se han convertido en vías huérfanas.
+Desde sus orígenes en las primeras décadas del siglo XIX, las redes de ferrocarril de todo el mundo se han ido enfrentando con el problema que supone mantener la circulación de los trenes entre vías de distintos anchos, hasta el punto de que este problema ya se hizo evidente en Gran Bretaña a los pocos años de la inauguración del Ferrocarril de Liverpool y Mánchester en 1829 (la primera línea de ferrocarril del mundo en transportar viajeros), y en 1844 se debió promulgar una Ley para solucionarlo.
+La mayoría de estados de Europa suscribieron los convenios de la conferencia de Berna, mediante la que se llegó a un acuerdo para que los países fronterizos con Suiza adaptaran como norma en sus redes principales el ancho estándar.
+Los Estados Unidos siguieron un proceso parecido al de Gran Bretaña, y en 1866 uniformaron su red principal mediante una ambiciosa operación que logró transformar más de 18.000 km de vías en tan solo 36 horas.
+Sin embargo, en países como Rusia, la India o España, que optaron por anchos de vía diferentes a los de sus naciones limítrofes, o en diversas zonas de África, América del Sur y Australia, con numerosas redes de vía estrecha, se siguen acometiendo operaciones de conversión de ancho de vía:

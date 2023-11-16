@@ -1,0 +1,11 @@
+Pascal Script es un motor de script gratuito que te permite utilizar la mayor parte del lenguaje Object Pascal dentro de sus proyectos Delphi o Free Pascal en tiempo de ejecución.
+Fue escrito completamente en Delphi, se compone de un conjunto de unidades que pueden ser compilados en el ejecutable, lo que elimina la necesidad de distribuir los archivos externos.
+Pascal Script comenzó como una necesidad de un buen guion de trabajo, cuando no había ninguno disponible en el momento.
+Pascal Script comenzó en 2001 con CajScript 1.0, que pronto fue sustituido por CajScript 2.0 (más tarde llamado Innerfuse Pascal Script 2.0).
+La versión 2.0 interpreta scripts mientras se ejecutan, tenía la desventaja de que cada pieza de código tenía que ser analizada de nuevo por el intérprete.
+Con Pascal Script 3.0, esto fue cambiado a un nuevo modelo, donde el compilador y el tiempo de ejecución fueron completamente separados el uno del otro y utilizan un formato de código de bytes de encargo para representar la secuencia de comandos compilado.
+Este script compilado sólo contenía lo mínimo que se requiere para ejecutar el código.
+Más tarde, cuando Carlo Kok se unió a RemObjects, fue rebautizado como RemObjects Pascal Script y ahora es mantenido por RemObjects Software.
+Un uso importante de Pascal Script es el proyecto Open Source InnoSetup.
+InnoSetup es un motor de configuración ampliamente utilizado en Pascal Script, se usa como motor de scripting para proporcionar capacidades avanzadas de scripting durante la instalación y desinstalación.
+Con Pascal Script, los usuarios pueden personalizar casi todas las partes de la configuración, añadir nuevas páginas del asistente, llamar dentro de dlls para añadir características avanzadas y proporcionar un comportamiento personalizado y condiciones de instalación

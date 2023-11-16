@@ -1,0 +1,49 @@
+Dennis Gabor (en húngaro: Gábor Dénes) (Budapest, Hungría, 5 de junio de 1900 – Londres, Reino Unido, 9 de febrero de 1979) fue un físico húngaro, premio Nobel de Física, conocido por ser el inventor de la holografía.
+También se le conoce por el Filtro de Gabor o su desarrollo de trabajos científicos sobre la teoría de la comunicación, óptica física o la televisión en color, publicó artículos y ensayos sobre la influencia de la tecnología en la sociedad moderna.
+Dennis Gabor, nacido como Dénes Günszberg en una familia acomodada en el Imperio austrohúngaro, su familia paterna era judía proveniente de Rusia mientras que su familia materna de España, posiblemente de judíos sefardíes llegados a Hungría en el.
+En su niñez era un admirador de Julio Verne y Thomas Edison.
+Su padre era un industrial y Director de la Compañía General Húngara de Minas de Carbón que motivó la influencia sobre la física y la ingeniería en el hogar familiar.
+También gracias a su familia, aprendió además del húngaro, alemán, inglés y francés.
+En 1910, con apenas 10 años, con la ayuda de sus padres presenta la solicitud del impreso de la primera de hasta unas setenta y tres patentes realizadas a lo largo de su vida.
+Su idea se inspiró en un tiovivo de una feria en el cual habían sustituido los típicos caballos por pequeños aviones, muy de moda en esa época por los hermanos Wright.
+A diferencia de este tiovivo, ideó un sistema donde los aviones con un motor eléctrico y unas correas podían ir cambiando de altura conforme giraban alrededor de un eje central.
+El 14 de noviembre de 1911 la Oficina de Patentes de Hungría le concedió su primera patente por su tiovivo de aviones mecánicos, la número 54.703.
+Durante estos primeros años él y su hermano prueban experimentos que leen en revistas científicas en su pequeño laboratorio doméstico, experimentan con la fotografía, radiación, rayos x entre otros fenómenos físicos.
+Aunque le fascinaba la física, decide estudiar ingeniería.
+Al cumplir los dieciocho años es enviado al norte de Italia para servir en la artillería astro-húngara en los últimos meses de la Primera Guerra Mundial, aunque el armisticio no tarda en firmarse, por lo que puede regresar e iniciar los estudios de Ingeniería Mecánica en la Universidad de Tecnología y Economía de Budapest.
+A finales de 1918, con la derrota del imperio astrohúngaro, una revolución declara la República Soviética Húngara, tras cuyo fracaso se restaura la monarquía y aumenta la influencia en la región de la Unión Soviética.
+Gabor no es partidario de este nuevo gobierno que considera reaccionario y en 1920 cuando lo vuelven a llamar para realizar otro servicio militar, abandona Hungría para empezar de nuevo en Berlín.
+Dennis Gabor forma parte de una generación emigrante de brillantes húngaros nacidos entre finales del y principios del.
+Algunos notables como el biofísico Georg von Békésy premio Nobel de Medicina, el investigador en aerodinámica Theodore von Kármán, el pionero en informática John von Neumann, los físicos nucleares Leo Szilard o -el padre de la bomba de hidrógeno- Edward Teller, el premio Nobel de Física Eugene Wigner.
+Gabor, von Karman, von Neumann, Szilard, Teller y Wigner habían nacido en el mismo barrio de Budapest.
+A finales de 1923 obtiene el diploma de Ingeniería Eléctrica en la Universidad Técnica de Berlín, en un momento de gran apogeo de físicos como Albert Einstein, Max Planck, Walther Nernst o Max von Laue.
+En su autobiografía sobre sus años de estudiante berlinés, guarda un gran recuerdo de los coloquios de física de los martes y del inolvidable seminario impartido por Albert Einstein durante 1921 y 1922.
+En 1927, obtiene el título de doctor ingeniero; su tesis consiste en la construcción de un tipo de oscilógrafo de rayos catódicos.
+Al finalizar su tesis entra a trabajar en la Siemens AG & Halske AG de Berlín, en uno de los laboratorios de física, para desarrollar lámparas de alta presión de vapor de mercurio y cadmio.
+En 1933, llega Hitler al poder, debido a su origen judío no se le renueva su contrato con la compañía Siemens y, tras un breve tiempo en Budapest, decide marcharse a Inglaterra un año después, todavía con los estragos de la crisis económica de 1929, los extranjeros tienen difícil encontrar trabajo.
+Gracias a la ayuda de su mejor amigo Edward Allibone, obtiene un empleo en la empresa de ingeniería eléctrica de la empresa British Thomson-Houston en Rugby.
+Continuó trabajando en este nuevo laboratorio en su investigación con tubos de descarga de gas o rayos catódicos.
+Con la llegada de la Segunda Guerra Mundial su empresa colabora para el ejército británico sobre todo para el desarrollo del radar para la defensa aérea.
+Gabor es clasificado como enemigo extranjero y excluido de las investigaciones aunque se le permite seguir trabajando fuera del área de seguridad de la empresa.
+Tras finalizar la guerra, publica sus primeros artículos sobre teoría de la comunicación, desarrolló un sistema de cinematografía esteoroscópica y comienza a elaborar y realizar los primeros experimentos sobre la holografía.
+En 1947, presenta públicamente la holografía o reconstrucción del frente de onda como la citó el que le daría fama internacional y el premio Nobel de Física en 1971.
+Buscaba una herramienta para mejorar la resolución y definición del microscopio electrónico, compensando por medios ópticos las deficiencias de su imagen.
+Se propuso realizar esto mediante un proceso de registro fotográfico de imágenes, es decir, una técnica semejante a la fotografía que permite reproducir imágenes de una real.
+La diferencia entre ambas técnicas es que esta vez no solo se registra la imagen del objeto también las ondas de la luz que refleja dicho objeto.
+De esta forma en poco lugar se puede conseguir guardar gran cantidad de información gracias al principio de superposición, al poner información superpuesta en distintas capas.
+En 1949 ingresó en el Imperial College de Londres, sobre todo gracias a su idea de reconstrucción del frente de onda entre importantes científicos como Lawrence Bragg y Max Born, ambos Premios Nobel de Física y Charles Darwin, nieto del famoso Charles Darwin y Director del Laboratorio Nacional de Física de Gran Bretaña.
+En 1958 accedió a una plaza de profesor de Física Aplicada hasta su jubilación en 1967.
+Una importante parte de sus trabajos de investigación los realiza en una empresa de Estados Unidos en los laboratorios de la empresa de televisión, Columbia Broadcasting System en Stanford (California).
+En 1962 Yuri Denisyuk en la Unión Soviética y, sobre todo, Emmett Leith en Estados Unidos aplican un nuevo descubrimiento el láser, a la técnica holográfica que ayuda a revolucionar el campo óptico.
+Gabor además investigó la manera en la que se comunican los seres humanos, el resultado de estos trabajos fue la primera teoría de la síntesis granular.
+También es conocido por haber introducido el concepto de Filtro de Gabor, una variante local de la Transformada de Fourier, muy utilizada hoy en día en el mundo de las telecomunicaciones y procesamiento de imágenes.
+En su autobiografía detalla su descubrimiento como un ejercicio de serendipia: un descubrimiento científico afortunado e inesperado por accidente.
+Pretendía mejorar el microscopio electrónico, lo que en su momento no tuvo ningún éxito y sólo se consiguió de manera práctica en la década de 1990.
+Sin embargo con la invención del láser, su idea original sí dio lugar a innumerables aplicaciones científicas, tecnológicas e incluso artísticas.
+Gabor se vio influido por una perspectiva humanista, con influencia de Aldous Huxley.
+Fue un gran lector, escritor y ensayista, estaba preocupado por la nueva sociedad moderna de finales del.
+Fue miembro del Club de Roma, donde científicos, industriales y humanistas estudiaban el futuro de la humanidad.
+Desde 1958 dedicó gran parte de su tiempo a estos temas.
+Se mostró partidario de la combinación en armonía de la innovación social y la tecnología en el diseño del futuro próximo.
+Se preocupa de los problemas y contradicciones de la civilización, la sobrepoblación y la falta de preparación cultural para ocupar el cada vez mayor tiempo de ocio de la sociedad.
+Sus libros más importantes al respecto son:

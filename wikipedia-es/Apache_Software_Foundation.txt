@@ -1,0 +1,11 @@
+Apache Software Foundation (ASF) es una organización sin fines de lucro (una fundación) creada para dar soporte a los proyectos de software bajo la denominación Apache, incluyendo el popular servidor HTTP Apache.
+La ASF se formó a partir del llamado Grupo Apache y fue registrada en Delaware (Estados Unidos), en marzo de 1996.
+Apache Software Foundation es una comunidad descentralizada de desarrolladores que trabajan cada uno en sus propios proyectos de código abierto.
+Los proyectos Apache se caracterizan por un modelo de desarrollo basado en el consenso y la colaboración y en una licencia de software abierta y pragmática.
+Cada proyecto es gestionado por un grupo autoseleccionado de expertos técnicos que son participantes activos en dicho proyecto.
+La ASF es una meritocracia, de lo que se deriva que la pertenencia a la fundación se permite solo a voluntarios que hayan contribuido significativamente a proyectos Apache.
+Entre los objetivos de la ASF se encuentran el de proporcionar protección legal a los voluntarios que trabajan en proyectos Apache, y al propio nombre Apache de ser empleado por otras organizaciones.
+El proyecto Apache es el origen de la Licencia Apache y de todas las licencias que siguen un esquema similar (llamadas licencias "estilo Apache").
+Entre los patrocinadores conocidos se cuentan Google, Yahoo, Microsoft, Hewlett-Packard, Covalent, IONA, AirPlus International, BlueNog, Intuit, Joost, Matthew Mullenweg, Two Sigma Investments.
+La propia Apache Software Foundation clasifica a estos patrocinadores en diferentes categorías:
+Los patrocinadores reciben diversos tipos de apoyo por parte de la Apache Software Foundation (p.ej. "comunicados de prensa conjuntos"), siendo nombrados y honrados en las páginas web de la fundación.

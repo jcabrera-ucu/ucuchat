@@ -1,0 +1,38 @@
+El Reproductor de Windows Media (conocido en inglés como Windows Media Player; abreviado como WMP) es un reproductor multimedia creado por la empresa Microsoft en el año 1996 para el sistema operativo Microsoft Windows.
+Sin embargo, se han lanzado varias versiones del reproductor.
+La versión 12 es la última existente, que se incluye en Windows 7, Windows 8, Windows 10 y Windows 11.
+El 16 de noviembre de 2021, Microsoft anunció que reemplazaría Groove Música con la nueva aplicación Reproductor multimedia, aunque el antiguo Reproductor de Windows Media seguirá estando incluido con Windows 11.
+WMP permite reproducir diversos formatos digitales: Audio CD, DVD-Video, DVD-Audio, WMA (Windows Media Audio), WMV (Windows Media Video), MP3, MPEG y AVI, aunque el programa depende de códecs de terceros para algunos formatos más.
+Incluye acceso a video en formato digital en servidores de pago.
+También da la posibilidad de copiar canciones de un CD al disco duro del PC y viceversa.
+Además, busca en Internet los nombres de las canciones y álbumes, mostrando la carátula del disco del cual provienen dichas canciones.
+La primera versión de Windows Media Player apareció en 1991, en una extensión Multimedia de Windows 3.0.
+Originalmente llamado Media Player Se utilizaba para manejar archivos multimedia.
+Al ser un componente de Windows, Media Player muestra el mismo número de versión que la de la versión de Windows con la que se incluyó.
+Media Player fue reemplazado en Windows 3.1 por Video for Windows (una biblioteca de datos en vez de una app) con la capacidad de mostrar vídeos AVI y posteriormente integrado en Windows 95 y Windows NT 4.0.
+En 1995 ActiveMovie reemplaza Video For Windows.
+ActiveMovie incorpora una nueva forma de tratar con archivos multimedia, y añade soporte para streaming (que el original Media Player nunca pudo manejar).
+En 1996, esta biblioteca pasó a llamarse DirectShow.
+Windows Media Player 6.4 llegó como una actualización para Windows 95, Windows 98 y Windows NT 4.0, el original Media Player (5.1) continuó existiendo hasta Windows XP; Windows XP es único sistema de tener tres o más versiones simultáneas de Windows Media Player (v5.1, v6.4 y v8), terminando con la v11.
+Windows Vista, sin embargo, eliminó las versiones anteriores a favor de la v11.
+Es el más recomendado ya que incluye el editor de etiquetas avanzado, opción que el WMP 12 no posee, por lo que si algún dato de la canción está mal, el usuario de WMP 12 no puede corregirlo y el de WMP11 sí.
+Windows Media Player 12 desarrollado por Microsoft, es el lanzamiento de Windows Media Player, que sustituye a Windows Media Player 11.
+Se introdujo por primera vez en octubre de 2008 en el Professional Developers Conference 2008, y ha sido publicado como parte del sistema operativo Windows 7.
+Windows Media Player 12 añade soporte nativo para codecs de video H.264, Xvid y DivX, audio AAC y para los formatos 3GP, MP4 y MOV.
+Microsoft ha reconocido AVCHD como una de las populares implementaciones de codificación H.264, y tiene las extensiones M2TS y MTS pre-registrados en el sistema.
+Windows Media Player es capaz de indexar el contenido de estos archivos, mientras que el Explorador de Windows es capaz de crear imágenes en miniatura para cada clip.
+La interfaz de usuario ha sido rediseñada de tal manera que la vista Reproducción en curso reproduce archivos multimedia en una ventana flotante minimalista por separado con los controles de reproducción, y también da acceso a la lista de reproducción, visualizaciones y mejoras.
+La vista de biblioteca incluye el resto de las funciones de gestión de medios y un cuadro de búsqueda.
+También se pueden previsualizar las canciones de la biblioteca cuando los usuarios hagan clic sobre el archivo multimedia y luego sobre el botón de vista previa.
+Windows Media Player 12 utiliza la biblioteca de Windows 7 en lugar de la suya propia, y puede reproducir canciones no protegidas de la biblioteca de iTunes.
+El mini-reproductor de la barra de tareas integrado ha sido reemplazado por los controles de vista previa en miniatura de la barra de tareas interactiva (llamada la barra de herramientas en miniatura).
+El icono de la barra de tareas también soporta Jump Lists introducidas en Windows 7.
+Mientras que las versiones anteriores contenido multimedia a dispositivos compatibles con UPnP (Digital Media función de servidor) y que podrían desempeñar los medios de comunicación por ir a buscar desde un recurso compartido de red (Digital Media Player papel), Windows Media Player 12 puede tener acceso a los medios de comunicación de las bibliotecas de medios compartidos en la red o HomeGroup, los medios de corriente a dispositivos compatibles con DLNA 1.5 y permite a sí mismo (una vez que la opción de control remoto está encendido) para ser controlados a distancia por dispositivos de medios digitales que los medios de comunicación de controlador de flujo (función Digital Media Renderer).
+Del mismo modo, la obra a función una vez habilitada para PC remoto, girando el mando a distancia del reproductor, permite a los dispositivos compatibles y computadoras para ser descubierto y controlado remotamente desde un equipo con Windows Media Player 12 (Digital Media función de controlador).
+Si los dispositivos no admiten el formato de streaming, Windows Media Player 12 transcodifica el formato sobre la marcha.
+Medios de comunicación de una red en casa también pueden ser escuchados a través de Internet utilizando un servicio de identificación de Proveedores en Línea, que maneja el descubrimiento de la dirección IP del equipo, la autorización, seguridad, conectividad y calidad de servicio.
+El editor de etiquetas avanzado (editor de etiquetas ID3), que permite a los usuarios editar la información relativa a un WMA o MP3, se ha retirado.
+Por medio de la edición de atributos en el panel Detalles del Explorador de Windows, los usuarios pueden completar algunos de los campos de metadatos que hicieron desde el Editor de etiquetas avanzado.
+Además, el "modo fiesta", "Selector de color" y "Media Link para E-mail", URGE, la tienda de música digital, y el sintonizador de radio, características presentes en versiones anteriores de Windows Media Player se han eliminado en la versión 12.
+En la vista reproducción en curso, al utilizar los controles de reproducción, se desactiva la ventana del reproductor ya que la barra de título se muestra como inactiva y no se puede utilizar Aero Snap.
+Windows Media Player 12 no es capaz de leer etiquetas ID3 v2.4, la última versión de las etiquetas ID3, a pesar de que el estándar ha sido oficial desde 1 de noviembre de 2000.

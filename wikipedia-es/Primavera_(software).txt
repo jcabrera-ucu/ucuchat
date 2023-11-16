@@ -1,0 +1,16 @@
+Primavera es un software de gestión de carteras de proyectos empresariales.
+Incluye gestión de proyectos,gestión de productos,colaboración y capacidades de control, e integra con otros programas empresariales como Oracle y  ERP de SAP sistemas.
+Primavera fue lanzado en 1983 por Primavera Systems Inc., que fue adquirida por Oracle Corporation en 2008undefined.
+A partir de 2008 Primavera Systems soportaba productos de larga data - P3 y Sure-Trak - y la versión más reciente de P6.
+El producto P3 de larga data en sus diversas formas fue utilizado por el 25% de la industria de la construcción pesada, su base de clientes predominante; el siguiente software más popular fue utilizado por 11%.
+Casi el 40% de los contratistas generales con ingresos anuales de $5M a $10M utilizaron Primavera P3.
+En comparación, la versión P6 no se inscribió en un estudio CFMA 2008 de la industria de la construcción de los Estados Unidos.
+El cambio de versión P3 a la versión P6 se basa en un movimiento de las teclas de método abreviado de tipo DOS a los iconos basados en el ratón.
+Por lo tanto, una aplicación de software que una vez fue muy rápido de usar, pero basado en funciones de acceso directo (que algunos usuarios encontraron difícil de dominar) se trasladó a una aplicación basada en ratón que es más rápido de aprender, pero una vez dominado nunca alcanza la misma velocidad de uso.
+El núcleo Primavera Project Planner DOS se lanzó en 1983undefined y la interfaz P3 de Windows se lanzó en 1994.
+Después de una vida útil de la versión de 27 años, Oracle dejó de venta de las versiones P3 y SureTrak el 31 de diciembre de 2010.
+En 2012, Primavera P6 EPPM Upgrade Release 8.2 agregó capacidades para la gobernanza, la participación del equipo de proyectos y la visibilidad del proyecto.
+Mobile PPM se introdujo a través del miembro del equipo P6 de Primavera para iPhone y miembro del equipo Web Interface, para agilizar las comunicaciones entre los miembros del equipo del proyecto en el campo y en la oficina.
+Además, Primavera P6 Analytics Release 2.0 obtuvo nuevas herramientas y paneles de informes empresariales para supervisar y analizar los datos de rendimiento, incluido el análisis geoespacial. Las organizaciones también podrían investigar tendencias comparativas y causa y efecto en múltiples proyectos con Primavera Contract Management Release 14, ya que incluía las capacidades de redacción de informes de Oracle Business Intelligence Publisher.undefined
+En abril de 2013, Oracle Corporation anunció el lanzamiento de la versión 8.4 de Primavera P6 Enterprise Project Portfolio Management.
+Esta versión incorporó material de las adquisiciones de Skire e Instantis de Oracle en 2012.

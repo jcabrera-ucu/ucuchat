@@ -1,0 +1,11 @@
+El vigésimo tercer problema de Hilbert (el último de los veintitrés Problemas de Hilbert, publicados en 1900 por el matemático alemán David Hilbert), en contraste con las otras 22 cuestiones, no es tanto un "problema" específico como un estímulo para lograr un mayor desarrollo del cálculo de variaciones.
+Su planteamiento del problema es un resumen del estado del arte (en 1900) de la teoría del cálculo de variaciones, con algunos comentarios introductorios denunciando la falta de trabajo teórico desde mediados del.
+El enunciado del problema comienza con el siguiente párrafo:
+Hasta ahora, generalmente he mencionado problemas lo más definidos y especiales posibles ... No obstante, me gustaría terminar con un problema general, a saber, con la indicación de una rama de las matemáticas mencionada repetidamente en esta conferencia, que, a pesar del considerable avance dado últimamente por Weierstrass, no recibe la apreciación general que, en mi opinión, debería recibir - me refiero al cálculo de variaciones.
+El cálculo de variaciones es un campo del análisis matemático que se ocupa de maximizar o minimizar funcionales, que son aplicaciones de un conjunto de funciones sobre los números reales.
+Los funcionales a menudo se expresan como integrales que involucran funciones y sus derivadas.
+Su interés se centra en funciones extremas que hacen que lo funcional alcance un valor máximo o mínimo, o en funciones "estacionarias" (aquellas donde la tasa de cambio del funcional es cero).
+Después de la declaración del problema, David Hilbert, Emmy Noether, Leonida Tonelli, Henri Léon Lebesgue y Jacques Hadamard, entre otros, hicieron contribuciones significativas al cálculo de variaciones.
+Marston Morse aplicó el cálculo de variaciones en lo que ahora se llama teoría de Morse.
+Lev Pontriaguin, Ralph Rockafellar y F. H. Clarke desarrollaron nuevas herramientas matemáticas para el cálculo de variaciones en el campo del control óptimo.
+La programación dinámica de Richard Bellman es una alternativa al cálculo de variaciones.

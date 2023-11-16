@@ -1,0 +1,29 @@
+El valeronitrilo, también llamado pentanonitrilo, butilcianuro y 1-cianobutano, es un compuesto orgánico de fórmula molecular C5H9N.
+Es un nitrilo lineal de cinco átomos de carbono con un grupo funcional C≡N en el extremo.
+A temperatura ambiente, el valeronitrilo es un líquido incoloro o ligeramente amarillo que no tiene olor.
+Tiene su punto de ebullición a 140 °C mientras que su punto de fusión es de -96 °C.
+Posee una densidad inferior a la del agua (ρ = 0,801 g/cm³) y es poco soluble en ella, entre 1 y 5 g/L.
+El valor del logaritmo de su coeficiente de reparto, logP = 1,12, indica que es más soluble en disolventes apolares —como el 1-octanol— que en agua.
+Su vapor es 3,3 veces más denso que el aire.
+En cuanto a su reactividad, el valeronitrilo es incompatible con agentes oxidantes y reductores enérgicos, así como con ácidos y bases fuertes.
+En la naturaleza, este nitrilo se encuentra en varias especies vegetales del género Brassica.
+El valeronitrilo ha sido estudiado en relación con una nueva cepa bacteriana, denominada ANL-iso2(T), obtenida a partir de un cultivo inoculado con sedimentos de un lago de sosa.
+Dicha bacteria utiliza distintos nitrilos —entre ellos el valeronitrilo— como su único sustrato de crecimiento.
+El desarrollo en los nitrilos es bifásico, comenzando con una rápida hidrólisis inicial del nitrilo a la correspondiente amida, ácido carboxílico y amoníaco, seguido de una lenta utilización de dichos productos que hace crecer la biomasa.
+Asimismo se ha investigado la degradación enzimática de valeronitrilo por parte de Klebsiella oxytoca, bacteria aislada de aguas residuales que contienen cianuros; este organismo es capaz de utilizar diversos nitrilos como única fuente de nitrógeno, siendo el valeronitrilo una fuente óptima de nitrógeno para su crecimiento.
+El valeronitrilo se puede sintetizar por cianuración de 1-bromobutano con cianuro sódico en polvo, empleando un catalizador de transferencia de fase PEG400, sin necesidad de disolvente.
+El rendimiento siguiendo este método es del 98%.
+Utilizando este mismo procedimiento pero con 1-clorobutano, el rendimiento es algo inferior (89%).
+Este nitrilo también puede obtenerse a partir del 1-butanol, que se combina con cianuro de tetrabutilamonio en presencia del aducto formado por trifenilfosfina y 2,3-dicloro-5,6-dicianobenzoquinona.
+Otra vía de síntesis diferente tiene como precursor la n-pentanaldehído oxima, que reacciona con 8-bromocafeína (8-BC) en presencia de 1,8-diazabiciclo[5.4.0]undec-7-eno (DBU) y N,N-dimetilformamida (DMF).
+Del mismo modo el 2-pentenonitrilo puede ser precursor en la síntesis del valeronitrilo; en este caso, la hidrogenación se lleva a cabo con hidrazina hidratada como fuente de hidrógeno, en presencia de un nanocatalizador bimetálico de rodio-cobalto.
+Por otra parte, se ha analizado la hidrólisis de valeronitrilo en condiciones supercríticas en relación con la producción de amidas y ácidos, así como para el tratamiento de aguas residuales.
+Los productos de hidrólisis así obtenidos muestran una buena biodegradabilidad, a diferencia del procedimiento convencional (en condiciones ambientales normales) que requiere grandes cantidades de un ácido o una base mineral.
+Se ha propuesto la utilización de este dinitrilo en electrolitos no acuosos que forman parte de baterías secundarias de litio, empleadas en dispositivos electrónicos portátiles, teléfonos móviles y fuentes de energía en automóviles.
+También se ha empleado como precursor en la síntesis de formilimidazoles, importantes intermediarios para la elaboración de principios activos farmacéuticos que actúan en diuréticos o agentes antihipertensivos.
+Se han usado compuestos derivados de este nitrilo (2,3-difenil-valeronitrilos) como herbicidas y reguladores del crecimiento de plantas, por ejemplo para el control de malas hierbas de hoja ancha.
+El valeronitrilo es un compuesto combustible que tiene su punto de inflamabilidad a 38 °C.
+Al arder puede desprender humos tóxicos conteniendo óxidos de nitrógeno, monóxido de carbono y cianuro de hidrógeno.
+Su temperatura de autoignición se alcanza a los 520 °C.
+Es una sustancia tóxica si se ingiere y puede provocar irritación en piel y ojos.
+Los siguientes compuestos son isómeros del valeronitrilo:

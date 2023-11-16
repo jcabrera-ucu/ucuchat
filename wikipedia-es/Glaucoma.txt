@@ -1,0 +1,95 @@
+[[Archivo:Glaucoma world map - DALY - WHO2002.svg|thumb|254px|Glaucoma por país en 2002: afectados por cada 100.000 habitantes:
+]]
+El glaucoma es un conjunto de enfermedades que pueden dañar el nervio óptico y la retina del ojo y pueden generar perdida de visión.
+Generalmente está causado por el aumento patológico de la presión intraocular, por falta de drenaje del humor acuoso y tiene como condición final común una neuropatía óptica que se caracteriza por la pérdida progresiva de las fibras nerviosas del nervio óptico y cambios en su aspecto.
+La mayoría de las personas afectadas no presentan síntomas en las primeras fases de la enfermedad; más adelante aparecen defectos en el campo visual y pérdida progresiva de visión.
+La aparición de estos síntomas puede significar que la enfermedad está en un punto avanzado de su evolución.
+Es inusual que exista dolor ocular en el glaucoma crónico, pero es frecuente en el glaucoma agudo (glaucoma de ángulo cerrado), el cual sí puede ocasionar intensos síntomas desde su inicio.
+Uno de los principales factores que pueden influir en la aparición de glaucoma es la presión intraocular alta, aunque no existe una correlación exacta entre glaucoma y presión intraocular, pues algunas personas pueden desarrollar la enfermedad con cifras de presión intraocular consideradas normales y, sin embargo, en otras ocasiones existen cifras altas sin que se produzca ninguna repercusión ocular.
+Existen varios tipos de glaucoma, cada uno de los cuales tiene un origen y una evolución diferentes, por lo cual la definición general anteriormente expuesta puede no corresponder a todas las formas de esta enfermedad.
+La mayor parte de los casos corresponde al llamado glaucoma crónico simple (glaucoma de ángulo abierto).
+Según la amplitud del ángulo iridocorneal se puede clasificar en:
+Según el origen se clasifica en:
+Según el momento de aparición se clasifica en:
+El número total de personas que presentan esta enfermedad es elevado, pues su prevalencia oscila entre el 1,5 % y el 2 % en los mayores de 40 años.
+Es una de las principales causas de ceguera irreversible en el mundo.
+La forma más frecuente, que corresponde al 60 % de los casos, es el glaucoma de ángulo abierto primario, también llamado glaucoma crónico simple.
+Según estimaciones realizadas por la Organización Mundial de la Salud a principios de la década de 1990, el número de personas en el mundo con presión intraocular alta sería de 105 millones, los nuevos casos de glaucoma identificados alrededor de 2,4 millones por año y el número de ciegos debido a esta enfermedad sería de 8 millones, lo que lo situaría como la tercera causa de ceguera a nivel mundial, solo superada por la catarata y la oncocercosis.
+Existen dos aspectos claves para sospechar el diagnóstico de glaucoma: La elevación de la presión intraocular por encima de 21 mmHg y la presencia de una papila excavada.
+Cualquiera de estas dos circunstancias hacen probable el diagnóstico, especialmente si existen antecedentes familiares de la enfermedad y la edad es superior a los cuarenta años.
+Una vez sospechado el diagnóstico, se pueden realizar otros estudios, como una exploración oftalmológica completa para comprobar la agudeza visual y observar todas las estructuras del ojo, tanto del polo anterior como del posterior y una campimetría o valoración del campo visual, para buscar la existencia de zonas ciegas o escotomas.'''
+HRT: una nueva técnica de imagen que utiliza barridos de láser para obtener una tomografía del disco óptico.
+El acrónimo HRT procede del inglés (Heidelberg retinal tomograph) y significa tomografía retinal de Heidelberg.
+Existen varias versiones según el software utilizado y la resolución de la prueba.
+El HRT es una nueva técnica no invasiva que es capaz de evaluar la anatomía del disco óptico en tres dimensiones.
+Aporta información sobre los cambios estructurales del nervio óptico y hace posible el diagnóstico precoz y el seguimiento mediante imágenes del glaucoma.
+No obstante, esta tecnología se encuentra aún en fase de desarrollo y perfeccionamiento y presenta limitaciones en el momento actual (2010).
+No es un estudio de uso generalizado para la evaluación del glaucoma.
+Paquimetría: esta prueba sirve para medir el grosor de la córnea y de esta forma corregir errores de medición de la presión ocular dados por las diferencias de resistencia entre córneas delgadas y córneas gruesas.
+Gonioscopia: mide el ángulo iridocorneal y permite clasificar el glaucoma en sus dos formas clásicas, de ángulo abierto o de ángulo cerrado.
+Ecografía de alta resolución: permite estudiar la estructura del ojo, de la cámara anterior, de los procesos ciliares y de la papila.
+Biomicroscopía: utiliza un instrumento fundamental llamado lámpara de hendidura, que permite ver los detalles muy aumentados del ojo y examinar el fondo del ojo y la papila óptica en tres dimensiones con la ayuda de lentes especiales.
+Tonómetro de aplanación: permite tomar la tensión ocular en milímetros de mercurio.
+Suele ir incorporado a la lámpara de hendidura.
+El tonómetro más empleado a nivel mundial es el tonómetro de Goldmann.
+Hay tonómetros que obvian el factor de error del espesor corneal.
+Existe el Tonómetro de Pascal, el cual no tiene en cuenta el espesor de la córnea y de esa manera se obtiene una presión intraocular no afectada por este parámetro.
+Perimetría en el glaucoma: su finalidad es comprobar la amplitud del campo visual.
+En un principio se solicitan perimetrías con intención diagnóstica y hay que utilizar estrategias y programas muy sensibles.
+Posteriormente se emplean las perimetrías con la intención de valorar la evolución de la enfermedad.
+Para ello se realiza la prueba a intervalos de tiempo regulares utilizando estrategias muy reproducibles y los llamados programas de progresión.
+La forma más frecuente de presentación es el glaucoma primario de ángulo abierto, también llamado glaucoma crónico simple, que representa el 60 % del total de casos.
+Este tipo de glaucoma no tiene relación con otras enfermedades del ojo y suele ser bilateral, aunque generalmente el grado de afección de cada ojo es diferente.
+Los principales factores de riesgo que hacen más probable su aparición son presión intraocular elevada, antecedentes familiares de glaucoma y edad superior a los 40 años.
+Se consideran cifras de presión intraocular elevadas las superiores a 21 mmHg.
+Cuando se da esta circunstancia, el riesgo de desarrollar glaucoma es muy alto.
+No obstante, la relación entre elevación de presión intraocular y el desarrollo de glaucoma no es exacta, ya que hay personas que mantienen sus ojos sanos a pesar de tener cifras de presión altas y otras en las que aparecen defectos del campo visual y alteraciones en la cabeza del nervio óptico con niveles de presión intraocular normales.
+Es lo que se llama glaucoma de baja tensión o normotensional.
+Cuando existen familiares de primer grado que presentan glaucoma, el riesgo de padecer la enfermedad es más alto que en la población general.
+No existe un patrón claro de herencia, pues parecen estar implicados diferentes genes.
+La frecuencia de glaucoma aumenta también con la edad, siendo el riesgo más alto al sobrepasar los 40 años, y se multiplica por 7 a partir de los 60.
+Otros factores de riesgo son el sexo masculino, la existencia de miopía o diabetes y la etnia negra.
+Por todo ello puede recomendarse el control de la presión intraocular de forma preventiva a las personas mayores de 40 años, sobre todo si tienen antecedentes familiares de glaucoma o presentan otras enfermedades, como la miopía o diabetes mellitus.
+En otros tipos de glaucoma diferentes al glaucoma crónico simple, existen diversos factores implicados.
+Por ejemplo, se ha descubierto un gen variante, denominado LOXL1, que confiere un riesgo considerablemente grande de desarrollar glaucoma pseudoexfoliativo.
+La anormalidad consiste en una variación en la secuencia genética que ocurre con gran frecuencia en este tipo de pacientes.
+La variación está localizada en un intrón del gen que codifica a una enzima que produce elastina, involucrada en el depósito de material fibroso y que de algún modo facilita la aparición de este tipo especial de glaucoma.
+Estas son variantes de la enfermedad que no responden bien a los tratamientos habituales.
+Aunque la presión ocular es solo una de las causas del glaucoma, reducir esta presión es el tratamiento más usado.
+Se cuenta con fármacos que disminuyen la producción de humor acuoso o incrementan su velocidad de reabsorción.
+El tratamiento es básicamente con fármacos que se aplican en forma de colirio oftálmico, siendo los procedimientos quirúrgicos para casos refractarios o complicaciones agudas.
+Glaucoma crónico simple:
+Glaucoma de ángulo estrecho:
+La presión intraocular elevada se puede tratar con colirios que disminuyen la presión del ojo.
+Hay varias clases de medicamentos para tratar el glaucoma de ángulo cerrado.
+En el glaucoma de ángulo abierto, los más comunes son los beta bloqueantes (bloqueadores), como el timolol, y los derivados de las prostaglandinas.
+También se emplean diuréticos hiperosmóticos, como el manitol en crisis hipertensivas oculares e inhibidores de la anhidrasa carbónica.
+El Cannabis medicinal ha demostrado en series de casos que reduce la presión intraocular de un 24 %.
+Estas reducciones, sin embargo, son de corta duración y no mantenidas.
+La dificultad para su uso terapéutico se debe a su efecto psicótropo y a la escasa duración de su acción.
+Cuando se administra en forma de gotas, prácticamente el 90 % se absorbe a través de la conjuntiva, por lo que su acción es sistémica y no local.
+Al ser el glaucoma una enfermedad crónica que precisa un tratamiento muy prolongado, los riesgos de dependencia y otros efectos adversos sobre el sistema nervioso central son muy altos y superan a los beneficios, por lo cual no se utiliza en la práctica médica, ya que existen otros medicamentos tanto tópicos como sistémicos más eficaces y seguros.
+Se están realizando estudios sobre la posibilidad de utilizar algunos derivados sintéticos del cannabis sin efectos sobre el sistema nervioso, pero se encuentran en fase experimental.
+El National Eye Institute (NEI) y el Institute of Medicine han realizado un detallado estudio sobre este tema, revisando todas las investigaciones científicas anteriores, y han llegado a la conclusión de que no existen pruebas científicas para recomendar el uso de cannabis a los afectos de glaucoma.
+El uso de drogas en general requiere una prescripción, y la distribución se realiza habitualmente dentro de un marco definido por las leyes nacionales y regionales de cada país.
+Para tratar el glaucoma se usa tanto la cirugía láser como la tradicional.
+La trabeculoplastia láser sirve para tratar el glaucoma de ángulo abierto.
+Se utiliza argón o Nd:YAG en el láser que se aplica a la red trabecular para estimular la apertura de los conductos y así aumentar el flujo del humor acuoso.
+La iridectomía periférica láser se emplea en pacientes con glaucoma de ángulo cerrado.
+En ella, el láser apunta al iris para hacer una apertura en él.
+Esto abre una nueva vía por la cual el humor acuoso puede pasar desde la cámara posterior a la cámara anterior.
+Actualmente no hay evidencia suficiente para mostrar algún beneficio en el uso de la iridotomía versus ninguna iridotomía para retardar la pérdida del campo visual.
+Esto se basa en el análisis de cuatro estudios con una muestra de 3.086 ojos de 1.543 participantes; la iridotomía parece mejorar los hallazgos gonioscópicos, pero no muestra ser clínicamente significativa.
+La cirugía convencional más aplicada en el glaucoma es la trabeculectomía.
+Mediante este procedimiento se crea un nuevo conducto por el cual drena el humor acuoso hasta el espacio subconjuntival.
+Una alternativa popular a la trabeculectomía es la esclerectomía profunda no perforante (EPNP).
+Existen otras técnicas quirúrgicas, que generalmente se reservan para glaucomas complejos o cuando han fracasado las técnicas habituales, como es el caso de los implantes de válvulas para drenaje del humor acuoso.
+El glaucoma congénito siempre requiere tratamiento quirúrgico (generalmente, una goniotomía), aunque pueden precisarse otras cirugías adicionales y/o medicación para controlarse.
+Aunque el glaucoma puede o no tener efectos significativos, una consecuencia habitual es la pérdida del campo de visión, que se puede detectar mediante la realización de una campimetría.
+La pérdida de visión del glaucoma afecta primero a la parte periférica del campo de visión.
+La pérdida de visión moderada o severa puede ser constatada por el paciente al poner a prueba su visión periférica.
+Esto puede hacerse tapando uno de los ojos y examinando la visión en las cuatro esquinas del campo visual en cuanto a claridad y nitidez, luego se repite la prueba con el otro ojo.
+Muy frecuentemente, el paciente no detecta pérdida de visión hasta que sufre “visión túnel”.
+Si la enfermedad no se trata, el campo de visión se irá cerrando más y más, se oscurecerá la parte central y finalmente degenerará en una ceguera total en el ojo afectado.
+La pérdida de visión debido al glaucoma es irreversible, pero se puede prever o disminuir su progresión con el tratamiento adecuado.
+Si sospecha que puede tener glaucoma o que tiene factores de riesgos, es recomendable visitar al médico de familia o al oftalmólogo.

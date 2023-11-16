@@ -1,0 +1,60 @@
+Una teoría científica es un conjunto de conceptos, incluyendo abstracciones de fenómenos observables, hechos comprobables y propiedades cuantificables, junto con reglas (leyes científicas) que expresan las relaciones entre las observaciones de dichos conceptos.
+Una teoría científica se construye para ajustarse a los datos empíricos disponibles sobre dichas observaciones, y se propone como un principio o conjunto de principios para explicar una clase de fenómenos.
+Los científicos elaboran distintas teorías partiendo de hipótesis que hayan sido corroboradas por el método científico, luego recolectan pruebas para poner a prueba dichas teorías.
+Como en la mayoría de las formas del conocimiento científico, las teorías son inductivas por naturaleza y su finalidad es meramente explicativa y predictiva.
+La fuerza de una teoría científica se relaciona con la cantidad de fenómenos que puede explicar, los cuales son medidos por la capacidad que tiene dicha teoría de hacer predicciones falsables respecto de dichos fenómenos que tiende a explicar.
+Las teorías son mejoradas constantemente dependiendo de la nueva prueba que se consiga, por eso las teorías mejoran con el tiempo.
+Los científicos utilizan las teorías como fundamentos para obtener conocimiento científico, pero también para motivos técnicos, tecnológicos o médicos.
+La teoría científica es la forma más rigurosa, confiable y completa de conocimiento posible.
+Esto es significativamente distinto al uso común y coloquial de la palabra «teoría», que se refiere a algo sin sustento o una suposición.
+La teoría científica representa el momento sistemático explicativo del saber propio de la ciencia natural; su culminación en sentido predictivo.
+Los años 50 del supusieron un cambio de paradigma en la consideración de las «teorías científicas».
+Según Mario Bunge en aras de un inductivismo dominante, con anterioridad se observaba, clasificaba y especulaba.
+Ahora en cambio:
+En definitiva, concluye Bunge: «Empezamos a comprender que el fin de la investigación no es la acumulación de hechos sino su comprensión, y que ésta solo se obtiene arriesgando y desarrollando hipótesis precisas que tengan un contenido empírico más amplio que sus predecesoras.»
+Existen dos formas de considerar las teorías:
+Albert Einstein describió dos tipos de teorías científicas: "Teorías constructivas" y "Teorías de principios".
+Las teorías constructivas son modelos constructivos de fenómenos: por ejemplo, Teoría cinética.
+Las teorías de principios son generalizaciones empíricas, como las leyes del movimiento de Newton.
+miniatura|300px|Las placas tectónicas del mundo fueron cartografiadas en la segunda mitad del . La teoría de las placas tectónicas explica con éxito numerosas observaciones sobre la Tierra, como la distribución de los terremotos, las montañas, los continentes y los océanos.
+Normalmente, para que cualquier teoría sea aceptada dentro de la mayoría de los círculos académicos hay un criterio simple.
+El criterio esencial de toda teoría científica es que debe basarse en hechos observables y experimentos u observaciones repetibles.
+Dicho criterio es esencial para evitar el fraude y mantener la consistencia.
+La característica que define todo el conocimiento científico, incluidas las teorías, es la capacidad de dar lugar a afirmaciones falsables y predicciones demostrables.
+La relevancia y especificidad de esas predicciones determinan la utilidad potencial de la teoría.
+Una supuesta teoría que no hiciera predicciones observables, no sería una teoría científica en absoluto.
+Las predicciones que no son lo suficientemente específicas para ser demostradas tampoco son útiles.
+En ambos casos, el término "teoría" no parece adecuado.
+Un cuerpo de descripciones del conocimiento puede llamarse teoría si cumple los siguientes criterios:
+Estas cualidades son ciertamente ciertas de teorías establecidas como la teoría de la relatividad, la mecánica cuántica, la tectónica de placas, la síntesis evolutiva moderna, etc.
+Además, los científicos prefieren trabajar con una teoría que reúna las siguientes cualidades:
+En ciencia, se llama también teoría a un conjunto de proposiciones que permiten construir un modelo aproximado de la realidad, para el entendimiento de un conjunto de hechos empíricos.
+Un modelo específico es una descripción que permite hacer predicciones pero en general no permite hacer deducciones más allá de los supuestos del modelo, y en ese sentido los modelos no son sistemas hipotético-deductivos tan amplios como una teoría.
+Es decir, los modelos no explican datos cualitativamente diferentes de los que se usaron para formular el modelo, en cambio las teorías frecuentemente son aplicables a problemas completamente nuevos.
+Una teoría científica formal puede ser interpretada formalmente en un modelo formal donde los axiomas de la teoría así como las deducciones a partir de esos axiomas se satisfacen.
+Informalmente podría decirse que el modelo formal de una teoría es un "mundo imaginario" donde se satisfacen todas las predicciones de la teoría.
+En ese sentido, una teoría formal es adecuada para describir la realidad, si cualquier modelo formal de la teoría se asemeja al mundo real o situación empírica real que trata de explicar.
+Una teoría científica es un tipo de teoría deductiva, ya que su contenido (es decir, los datos empíricos) puede expresarse dentro de un sistema formal de la lógica cuyas reglas elementales (es decir, las leyes científicas) se toman como axiomas.
+En una teoría deductiva, cualquier sentencia que es una consecuencia lógica de una o más de los axiomas es también una sentencia de la teoría.
+Karl Popper describió las características de una teoría científica de la siguiente forma:
+Popper resumió estos estatutos diciendo que el criterio central del estatus científico de una teoría es su "falsabilidad, refutabilidad o experimentabilidad."
+Haciendo eco de esto, Stephen Hawking afirma, "Una teoría es buena si satisface dos requerimientos: Debe describir de forma precisa una gran gama de observaciones sobre la base de un modelo que contenga solo unos cuantos elementos arbitrarios, y debe hacer predicciones definidas acerca de los resultados de futuras observaciones."
+Él también discute la naturaleza "imposible de probar, pero con posibilidad de ser refutadas" de las teorías, la cual es una consecuencia necesaria de la lógica inductiva, y que "usted puede probar que una teoría es falsa encontrando una sola observación que esté en desacuerdo con las predicciones hechas por la teoría."
+La mayoría de las teorías científicas además son una explicación científica de un conjunto de observaciones o experimentos.
+Una teoría científica está basada en hipótesis o supuestos verificados por grupos de científicos (en ocasiones, un supuesto no resulta directamente verificable, pero sí la mayoría de sus consecuencias) a modo de punto de partida o axiomas que sirven para hacer deducciones.
+Frecuentemente una teoría científica abarca varias leyes científicas verificadas y, en ocasiones, deducibles dentro de la propia teoría.
+Estas leyes pasan a formar parte de los supuestos e hipótesis básicas de la teoría, que englobará los conocimientos aceptados por la comunidad científica del campo de investigación y estará aceptada por la mayoría de especialistas.
+En física, el término teoría generalmente significa una infraestructura matemática derivada de un pequeño conjunto de principios básicos capaz de producir predicciones de resultados experimentales para una categoría dada de sistemas físicos.
+Un ejemplo sería la "teoría electromagnética", que es usualmente tomada como sinónimo del electromagnetismo clásico, cuyos resultados específicos pueden derivarse de las ecuaciones de Maxwell.
+Para que un cuerpo teórico dado pase a ser considerado como parte del conocimiento científico establecido, usualmente se necesita que la teoría produzca un experimento crítico, esto es, un resultado experimental que no pueda ser predicho por ninguna otra teoría ya establecida.
+De acuerdo con Stephen Hawking en (Una breve historia del tiempo),
+Procede luego a afirmar:
+No todas las teorías tienen el mismo valor.
+Las teorías más "poderosas" son las que combinan el máximo vigor y generalidad con la máxima exactitud, profundidad y verdad.
+Por ejemplo, una teoría que explique la habituación en todos los organismos es más general que otra que explique el mismo proceso únicamente en los invertebrados.
+Aun así se necesitan teorías de todas las potencias posibles.
+Sin embargo, no debe confundirse el valor práctico de una teoría con lo fundamental de una teoría.
+Las teoría se agrupan en jerarquías de más a menos fundamentales.
+Por ejemplo, la mecánica cuántica, puede explicar tanto la bioquímica, como muchos fenómenos físicos macroscópicos.
+La bioquímica es la base de una buena parte de las teorías biológicas.
+Sin embargo, no resulta práctico usar el entramado matemático de la mecánica cuántica para estudiar aspectos ciertos prácticos de la biología de un ser vivo, aunque en último término ciertas teorías biológicas, se fundamenten en la bioquímicas y estas se fundamenten en la física cuántica.

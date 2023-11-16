@@ -1,0 +1,35 @@
+La ingeniería mecatrónica, o simplemente mecatrónica, es una rama multidisciplinaria de la ingeniería, la cual desarrolla dispositivos y tecnologías de varios campos del conocimiento en los que se unen las ramas de sistemas, electrónica, mecánica y control, con el uso combinado de la robótica y de la ingeniería electrónica y ciencia de la Computación/Sistemas.
+La mecatrónica engloba así el desarrollo de productos que involucren un sistema de control para productos o procesos inteligentes, lo cual busca crear maquinaria más compleja para facilitar las actividades del ser humano a través de procesos electrónicos de sistemas de control aplicados en la industria.
+Esta disciplina une la Ingeniería de sistemas/ciencia de la computación, ingeniería electrónica, ingeniería mecánica e ingeniería de control.
+Se puede tomar como origen del término mecatrónica el : En 1969 la empresa japonesa Yaskawa Electric Co. acuñó el término mecatrónica, recibiendo en 1971 el derecho de marca.
+En 1982 Yaskawa permitió el libre uso del término.
+La ingeniería mecatrónica se fundamenta en la integración de varias áreas, especialmente la Computación/Sistemas, la mecánica, la electrónica y la robótica.
+Un consenso común es describir a la mecatrónica como una disciplina integradora de las áreas de mecánica, electrónica e informática cuyo objetivo es proporcionar mejores productos, procesos y sistemas industriales.
+La mecatrónica no es, por tanto, una nueva rama de la ingeniería, sino un concepto recientemente desarrollado que enfatiza la necesidad de integración y de una interacción intensiva entre diferentes áreas de la ingeniería.
+Con base en lo anterior, se puede hacer referencia a la definición propuesta por J. A. Rietdijk: "Mecatrónica es la combinación sinérgica de la ingeniería mecánica de precisión, de la electrónica del control automático y de los sistemas para el diseño de productos y procesos".
+Existen, claro está, otras versiones de esta definición, pero esta claramente enfatiza que la mecatrónica está dirigida a las aplicaciones y al diseño.
+La mecatrónica nace para suplir tres necesidades latentes; la primera, encaminada a automatizar la maquinaría y así lograr procesos productivos ágiles y fiables; la segunda, crear productos inteligentes que respondan a las necesidades del mundo moderno; y la tercera, por cierto muy importante, armonizar los componentes mecánicos y electrónicos de las máquinas, ya que en muchas ocasiones era casi imposible lograr que tanto mecánica como electrónica manejaran los mismos términos y procesos para hacer o reparar equipos.
+Un ingeniero en mecatrónica es un profesional con amplio conocimiento teórico, práctico y multidisciplinario capaz de integrar y desarrollar sistemas automatizados o autónomos que involucren tecnologías de varios campos de la ingeniería.
+Este especialista entiende del funcionamiento de los componentes mecánicos, eléctricos, electrónicos y computacionales de los procesos industriales y tiene como referencia el desarrollo sostenible.
+Tiene la capacidad de seleccionar los mejores métodos y tecnologías para diseñar y desarrollar de forma integral un producto o proceso, haciéndolo más compacto, de menor coste y con valor añadido en su funcionalidad, calidad y desempeño.
+Su enfoque principal es la automatización industrial, la innovación en el diseño y la construcción de dispositivos y máquinas inteligentes.
+Un ingeniero mecatrónico está capacitado para:
+En el plan de estudios de la ingeniería mecatrónica usualmente se encuentra:
+Entendiendo que la mecatrónica abarca disciplinas muy amplias y complejas, La mecatrónica no es un concepto nuevo o una ingeniería nueva, sino la síntesis de ciertas áreas de ingeniería.
+Su principal objetivo es cubrir ciertas necesidades como:
+Las principales industrias que utilizan la mecatrónica son:
+Por tanto, la mecatrónica puede aplicarse a muchos campos, desde la medicina hasta la minería, pasando por la industria farmacéutica, automovilística, textil, alimentación, petrolera, etc.
+La mecatrónica tiene como antecedentes inmediatos a la investigación en el área de cibernética realizada en 1936 por Alan Turing, en 1948 por Norbert Wiener y Morthy, las máquinas de control numérico, desarrolladas inicialmente en 1946 por George Devol, los manipuladores, ya sean teleoperados, en 1951 por Goertz, o robotizados, en 1954 por Devol, y los autómatas programables, desarrollados por Bedford Associated en 1968.
+En 1969, Tetsuro Mori, ingeniero de la empresa japonesa Yaskawa Electric Co., acuña el término mecatrónica, y en 1971 se le otorga el derecho de marca.
+En 1982 Yaskawa permite el libre uso del término.
+En los años setenta, la mecatrónica se ocupó principalmente de la tecnología de servomecanismos usada en productos como puertas automáticas, máquinas automáticas de autoservicio y cámaras "auto-focus".
+En este enfoque pronto se aplicaron métodos avanzados de control.
+En los años ochenta, cuando la tecnología de la información fue introducida, los ingenieros empezaron a incluir microprocesadores en los sistemas mecánicos para mejorar su desempeño.
+Las máquinas de control numérico y los robots se volvieron más compactos, mientras que las aplicaciones automotrices como los mandos electrónicos del motor y los sistemas anticerrado y frenando se hicieron extensas.
+Por los años noventa, se agregó la tecnología de comunicaciones, creando productos que podían conectarse en amplias redes.
+Este avance hizo posibles funciones como la operación remota de manipuladores robóticos.
+Al mismo tiempo, se están usando novedosos microsensores y microactuadores en nuevos productos.
+Los sistemas microelectromecánicos como los diminutos acelerómetros de silicio que activan las bolsas de aire de los automóviles.
+En muchos países hay instituciones que ofrecen carreras de pregrado y posgrado en mecatrónica como lo son Nueva Zelanda, Australia, Canadá, Argentina, Chile, Bolivia, Brasil,  Colombia,   Perú,     Ecuador,    Paraguay, Venezuela, República Checa, Dinamarca, Francia, Alemania,  Honduras, Hungría, India, Irán, Irlanda, Islandia, Japón, Jordania, Malasia, México,      Noruega, Pakistán,  Polonia, Portugal, Singapur, Eslovenia, España, Sudáfrica, Suecia, Turquía, Reino Unido, Estados Unidos,    Costa Rica, El Salvador, República Dominicana, Guatemala, Nicaragua, Panamá.
+e Italia.
+Conoce uno de los programadores de chips y transpoders autmotriz

@@ -1,0 +1,20 @@
+RockMelt era un navegador con redes sociales integradas desarrollado por Tim Howes y Vishria Eric.
+El proyecto está respaldado por el fundador de Netscape Marc Andreessen.
+RockMelt integra una técnica única para navegar por la web que se centra en la búsqueda de Google y los medios de comunicación social, en particular, Facebook y Twitter.
+El navegador fue lanzado en versión Beta privada el 8 de noviembre de 2010, y ahora está en la versión beta pública y gratuita para todos.
+Hasta marzo de 2011, los usuarios tenían que conectar su cuenta de Facebook a la página web para descargarlo.
+RockMelt es compatible con Windows y Mac OS X.
+RockMelt se basa en el proyecto de código abierto Chromium, ahora en la versión 11.
+Esta es una familia multi-plataforma de navegadores (disponible para Windows, Mac y Linux) que utilizan el código abierto del motor WebKit construido conjuntamente por Apple, Google y la comunidad de código abierto, con motor de JavaScript sustituido por V8 de Google, también de código abierto.
+Se puede considerar como el sucesor del ya desaparecido navegador social Flock en cuanto a funcionalidad, mas no en cuanto a que los creadores de Flock lo recomienden directa o indirectamente.
+Rockmelt tiene una opción para integrar Facebook en la barra lateral a la izquierda de la ventana del explorador para así comunicarse con los contactos.
+Los usuarios pueden comunicarse sin tener que abrir una nueva pestaña o ventana, o página web de Facebook.
+La barra de chat muestra el estado del usuario, que puede ser actualizado, a la vez que se muestra un cuadro con la imagen del usuario y sus contactos conectados, que aparecen en una lista con sus propios estados e imágenes de usuario.
+Al hacer clic sobre un contacto se abre una ventana de chat para el contacto en forma de ventana flotante o pop-up.
+En la parte derecha del navegador existe otra barra lateral, donde pueden integrarse lectores RSS, y servicios tales como Twitter, búsqueda de Google, Youtube y otros servicios que el usuario desee incorporar.
+En diciembre de 2010, Twitter incluyó a Rockmelt en el top de las tendencias tecnológicas más tuiteadas del 2010.
+RockMelt, al estar basado en Chromium y en Google Chrome, tiene algunas funciones escondidas, no accesibles dentro de la interfaz del usuario.
+Para acceder a ellas, se pueden teclear diversas órdenes en la barra de direcciones, con los siguientes resultados:
+Opciones experimentales del navegador, quiere decir que en futuras actualizaciones se incorporarán por defecto, o por medio de alguna opción en la interfaz gráfica serán agregadas, ya que se encuentran en etapa de prueba.
+Para utilizarlas, hay que crear un acceso directo y agregar una de la opciones al final de la cadena de destino, en la opción «propiedades».
+Todos los atajos, o métodos abreviados de teclado, que trae el navegador Google Chrome.

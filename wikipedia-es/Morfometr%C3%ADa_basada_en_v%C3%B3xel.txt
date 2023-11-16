@@ -1,0 +1,12 @@
+La Morfometría Basada en Vóxel (en inglés, Voxel-Based Morphometry; VBM) es una técnica de análisis en neuroimagen que permite la investigación de diferencias focales en la anatomía del cerebro, usando una aproximación estadística paramétrica mediante la división del cerebro en voxels.
+Esta técnica va a provechar la capacidad de la resonancia magnética estructural y así lograr identificar las diferencias de concentración de entre la sustancia gris y sustancia blanca del cerebro las cuales se miden en cada voxel (decenas de miles de pequeñas regiones en varios milímetros cúbicos de tamaño).
+La morfometría tradicional consistía en seleccionar las áreas de interés dibujándolas sobre la imagen del cerebro, y después calculando el volumen dentro de estas regiones.
+Esta técnica requiere mucho tiempo y sólo es fiable en el caso de medir grandes áreas.
+Las pequeñas diferencias de volumen pueden pasar desapercibidas.
+Después se suavizan las imágenes para que cada voxel represente la media de sí mismo con sus vecinos.
+Después, el volumen se compara entre todos los cerebros voxel a voxel.
+Uno de los primeros estudios que utilizaron la técnica VBM y que llamó la atención de los medios de comunicación, fue sobre la estructura de los hipocampos de los taxistas de Londres.
+El análisis VBM mostró que la parte posterior del hipocampo es más grande en los taxistas de Londres en comparación con sujetos de control, que tenían esta área en promedio más pequeña.
+Los taxistas de Londres necesitan buenas dotes de orientación espacial para guiarse por el callejero de Londres, y esta habilidad se ha asociado especialmente con el hipocampo.
+Otros estudios famosos que utilizan esta técnica mostraron el efecto de la edad sobre la sustancia gris y blanca, en un estudio con 465 sujetos adultos.
+El análisis VBM mostró que la sustancia gris global decrecía con el paso de los años, especialmente en los hombres, mientras que la sustancia blanca se mantiene estable.

@@ -1,0 +1,200 @@
+La lógica combinatoria es la lógica última y como tal puede ser un modelo simplificado del cómputo, usado en la teoría de la computabilidad (el estudio de qué puede ser computado) y la teoría de la prueba (el estudio de qué se puede probar matemáticamente).
+La teoría, a causa de su simplicidad, captura las características esenciales de la naturaleza del cómputo.
+La lógica combinatoria (LC) es el fundamento del cálculo lambda, al eliminar el último tipo de variable de éste: la variable lambda.
+En LC las expresiones lambda (usadas para permitir la abstracción funcional) son substituidas por un sistema limitado de combinadores, las funciones primitivas que no contienen ninguna variable libre (ni ligada).
+Es fácil transformar expresiones lambda en expresiones combinatorias, y puesto que la reducción de un combinador es más simple que la reducción lambda, LC se ha utilizado como la base para la puesta en práctica de algunos lenguajes de programación funcionales no-estrictos en software y hardware.
+El cálculo lambda se refiere a objetos llamados lambda-términos, que son cadenas de símbolos de una de las formas siguientes:
+donde v es un nombre de variable tomado de un conjunto infinito predefinido de nombres de variables, y E1 y E2 son lambda-términos.
+Los términos de la forma λv.E1 son llamadas abstracciones.
+La variable ν se llama el parámetro formal de la abstracción, y E1 es el cuerpo de la abstracción.
+El término λv.E1 representa la función que, si es aplicada a un argumento, liga el parámetro formal v al argumento y entonces computa el valor resultante de E1--- esto es, retorna E1, con cada ocurrencia de ν substituido por el argumento.
+Los términos de la forma (E1 E2) son llamados aplicaciones.
+Las aplicaciones modelan la invocación o ejecución de una función: La función representada por E1 es invocada, con E2 como su argumento, y se computa el resultado.
+Si E1 (a veces llamado el aplicando) es una abstracción, el término puede ser reducido: E2, el argumento, se puede substituir en el cuerpo de E1 en lugar del parámetro formal de E1, y el resultado es un nuevo término lambda que es equivalente al antiguo.
+Si un término lambda no contiene ningún subtérmino de la forma (λv.E1 E2) entonces no puede ser reducido, y se dice que está en forma normal.
+La expresión E[a/v] representa el resultado de tomar el término E y substituyendo todas las ocurrencias libres de v por el a.
+Escribimos así
+(λv.E a) ⇒ E[a/v]
+por convención, tomamos (b c d... z) como abreviatura para (... (((a b) c) d)... z).
+(Regla de asociación por izquierda).
+La motivación para esta definición de la reducción es que captura el comportamiento esencial de todas las funciones matemáticas.
+Por ejemplo, considérese la función que computa el cuadrado de un número.
+Se puede escribir el cuadrado de x es x*x (usando "*" para indicar la multiplicación.) x aquí es el parámetro formal de la función.
+Para evaluar el cuadrado para un argumento particular, digamos 3, lo insertamos en la definición en lugar del parámetro formal:
+El cuadrado de 3 es 3*3
+para evaluar la expresión que resulta 3*3, tendríamos que recurrir a nuestro conocimiento de la multiplicación y del número 3.
+Puesto que cualquier cómputo es simplemente una composición de la evaluación de funciones adecuadas con argumentos primitivos adecuados, este principio simple de substitución es suficiente para capturar el mecanismo esencial del cómputo.
+Por otra parte, en el cálculo lambda, nociones tales como '3' y '*' puede ser representado sin ninguna necesidad de operadores primitivos externamente definidos o de constantes.
+Es posible identificar los términos que en el cálculo lambda, cuando están interpretados convenientemente, se comportan como el número 3 y el operador de la multiplicación.
+El cálculo lambda es computacionalmente equivalente en poder a muchos otros modelos plausibles para el cómputo (máquinas de Turing incluidas); es decir, cualquier cálculo que se pueda lograr en cualesquiera de estos otros modelos se puede expresar en el cálculo lambda, y viceversa.
+Según la tesis de Church-Turing, ambos modelos pueden expresar cualquier cómputo posible.
+Quizás parezca sorprendente que el cálculo lambda pueda representar cualquier cómputo concebible usando solamente las nociones simples de abstracción funcional y aplicación basado en la substitución textual simple de términos por variables.
+Pero aún más notable es que incluso la abstracción no es requerible.
+La Lógica Combinatoria es un modelo del cómputo equivalente al cálculo lambda, pero sin la abstracción.
+Puesto que la abstracción es la única manera de fabricar funciones en el cálculo lambda, algo debe sustituirlo en el cálculo combinatorio.
+En vez de la abstracción, el cálculo combinatorio proporciona un conjunto limitado de funciones primitivas y de las cuales las otras funciones pueden ser construidas.
+Un término combinatorio tiene una de las formas siguientes:
+donde V es una variable, P es una de las funciones primitivas, E1 y E2 son términos combinatorios.
+Las funciones primitivas mismas son combinadores, o funciones que no contienen ninguna variable libre.
+El ejemplo más simple de un combinador es I, el combinator identidad, definido por
+(I x) = x
+para todos los términos x.
+otro combinator simple es K, que produce funciones constantes: (K x) es la función que, para cualquier argumento, devuelve x, así que decimos
+((K x) y) = x
+para todos los términos x e y.
+O, siguiendo la misma convención para el uso múltiple que en el cálculo lambda,
+(K x y) = x
+Un tercer combinador es S, que es una versión generalizada de la aplicación:
+(S x y z) = (x z (y z))
+S aplica x a y después de substituir primero a z en cada uno de ellos.
+Dados S y K, aun el mismo I es innecesario, puesto que puede ser construido por los otros dos:
+((S K K) x)
+= (S K K x)
+= (K x (K x))
+= x
+para cualquier término x.
+Nótese que aunque ((S K K) x) = (I x) para cualquier x, (S K K) en sí mismo no es igual a I.
+Decimos que los términos son extensionalmente iguales.
+La igualdad extensional captura la noción matemática de la igualdad de funciones: que dos funciones son 'iguales' si producen siempre los mismos resultados para las mismos argumentos.
+En contraste, los términos mismos capturan la noción de igualdad intensional de funciones: que dos funciones son 'iguales' solamente si tienen implementaciones idénticas.
+Hay muchas maneras de implementar una función identidad; (S K K) e I están entre estas maneras.
+(S K S) es otro.
+Utilizaremos la palabra equivalente para indicar la igualdad extensional, reservando igual para los términos combinatorios idénticos.
+Un combinador más interesante es el combinador de punto fijo o combinator Y, que se puede utilizar para implementar la recursión.
+Es, quizás, un hecho asombroso que S y K se puedan componer para producir los combinadores que son extensionalmente iguales a cualquier término lambda, y por lo tanto, por la tesis de Church, a cualquier función computable.
+La prueba es presentar una transformación, T[ ], que convierte un término arbitrario lambda en un combinador equivalente.
+T[ ] puede ser definido como sigue:
+T[V] ⇒ V
+T[(E1 E2)] ⇒ (T[E1] T[E2])
+T[λx.E] ⇒ (K E) (si x no está libre en E)
+T[λx.x] ⇒ I
+T[λx.λy.E] ⇒ T[λx.T[λy.E]] (si x está libre en E)
+T[λx.(E1 E2)] ⇒ (S T[λx.E1] T[λx.E2])
+Por ejemplo, convertiremos el término lambda λx.λy.(y x)) a un combinador:
+T[λx.λy.(y x)]
+= T[λx.T[λy.(y x)] ]                         (por 5)
+= T[λx.(S T[λy.y] T[λy.x])]                 (por 6)
+= T[λx.(S I      T[λy.x])]                  (por 4)
+= T[λx.(S I      (K x))]                    (por 3)
+= (S T[λx.(S I)] T[λx.(K x)])               (por 6)
+= (S (K (S I))  T[λx.(K x)])                (por 3)
+= (S (K (S I))  (S T[λx.K] T[λx.x]))        (por 6)
+= (S (K (S I))  (S (K K)   T[λx.x]))        (por 3)
+= (S (K (S I))  (S (K K)   I))              (por 4)
+si aplicamos este combinator a cualesquiera dos términos x y y, reduce como sigue:
+(S (K (S I))  (S (K K)   I) x y)        = (K (S I) x  (S (K K)   I x) y)        = (S I (S (K K)   I x) y)        = (I y (S (K K)   I x y))
+= (y (S (K K)  I x y))
+= (y (K K x (I x) y))
+= (y (K (I x) y))
+= (y (I x))
+= (y x)
+La representación combinatoria, (S (K (S I)) (S (K K) I)) es mucho más larga que la representación como término lambdaλx.λy.(y x).
+Esto es típico.
+En general, la construcción de T[ ] puede ampliar un término lambda de la longitud n a un término combinatorio de la longitud
+Θ(3n).
+La transformación T[ ] es motivada por un deseo de eliminar la abstracción.
+Dos casos especiales, reglas 3 y 4, son triviales: λx.x es claramente equivalente a I, y λx.E es claramente equivalente a (K E) si x no aparece libre en E.
+Las primeras dos reglas son también simples: Las variables se convierten en sí mismas, y las aplicaciones permitidas en términos combinatorios, son convertidas los combinadores simplemente convirtiendo el aplicando y el argumento a combinadores.
+Son las reglas 5 y 6 las que tienen interés.
+La regla 5 dice simplemente esto: para convertir una abstracción compleja a un combinador, debemos primero convertir su cuerpo a un combinator, y después eliminamos la abstracción.
+La regla 6 elimina realmente la abstracción.
+λx.(E1E2) es una función que toma un argumento, digamos a, y lo substituye en el término lambda (E1 E2) en lugar de x, dando (E1 E2)[a/x].
+Pero substituir a en (E1 E2) en lugar de x es precisamente igual que sustituirlo en E1 y E2, así que
+(E1 E2)[a/x] = (E1[a/x] E2[a/x])
+(λx.(E1 E2) a) = ((λx.E1 a) (λx.E2 a))
+= (S λx.E1 λx.E2 a)
+= ((S λx.E1 λx.E2) a)
+Por igualdad extensional,
+λx.(E1 E2)    = (S λx.E1 λx.E2)
+Por lo tanto, para encontrar un combinador equivalente a λx.(E1 E2), es suficiente encontrar un combinador equivalente a (S λx.E1 λx.E2), y
+(S T[λx.E1] T[λx.E2])
+evidentemente cumple el objetivo.
+E1 y E2 contienen cada uno estrictamente menos aplicaciones que (E1 E2), así que la repetición debe terminar en un término lambda sin aplicación ninguna-ni una variable, ni un término de la forma λx.E.
+Los combinadores generados por la transformación T[ ] pueden ser hechos más pequeños si consideramos la regla de η-reducción:
+T[λx.(E x)] = T[E]  (si x no está libre en E)
+λx.(E x) es la función que toma un argumento, x, y aplica la función E a él; esto es extensionalmente igual a la función E misma.
+Es por lo tanto suficiente convertir E a la forma combinatoria.
+Tomando esta simplificación en cuenta, el ejemplo arriba se convierte en:
+T[λx.λy.(y x)]
+= ...       = (S (K (S I))   T[λx.(K x)])
+= (S (K (S I))  K)                 (por η-reducción)
+Este combinador es equivalente al anterior, más largo:
+(S (K (S I))  K x y)
+= (K (S I) x (K x) y)
+= (S I (K x) y)
+= (I y (K x y))
+= (y (K x y))
+= (y x)
+semejantemente, la versión original de la transformación T[ ] transformó la función identidad λf.λx.(f x) en (S (S (K S) (S (K K) I)) (K I)).
+Con la regla de η-reducción, λf.λx.(f x) se transformó en I.
+Los combinadores S, K se encuentran ya en Schönfinkel (aunque el símbolo C se usaba por el actual K) Curry introdujo el uso de B, C, W (y K), ya antes de su tesis doctoral de 1930.
+En Lógica combinatoria T. I, Se ha vuelto a S, K pero se muestra, (vía algoritmos de Markov) que el uso de B y C pueden simplificar muchas reducciones.
+Esto parece haberse utilizado mucho después por David Turner, cuyo nombre ha quedado ligado a su uso computacional.
+Se introducen dos nuevos combinadores:
+(C a b c) = (a c b)
+(B a b c) = (a (b c))
+Usando estos combinadores, podemos extender las reglas para la transformación como sigue:
+Usando los combinadores B y C, la transformación de λx.λy.(y x) se ve así:
+T[λx.λy.(y x)]
+= T[λx.T[λy.(y x)]]
+= T[λx.(C T[λy.y] x)]    (por la regla 7)
+= T[λx.(C I x)]
+= (C I) (η-reducción)
+= C*(notación canónica tradicional: X* = XI)
+= I'(notación canónica tradicional: X' = CX)
+Y, ciertamente, (C I x y) se reduce a (y x):
+(C I x y)
+= (I y x)
+= (y x)
+La motivación aquí es que B y C son versiones limitadas de S.
+En tanto S toma un valor y lo substituye tanto en el aplicando como en el argumento antes de efectuar la aplicación, C realiza la substitución sólo en el aplicando, y B sólo en el argumento.
+La conversión L[ ] de términos combinatorios a términos lambda es trivial:
+L[I]      = λx.x
+L[K]      = λx.λy.x
+L[C]      = λx.λy.λz.(x z y)
+L[B]      = λx.λy.λz.(x (y z))
+L[S]      = λx.λy.λz.(x z (y z))
+L[(E1 E2)] = (L[E1] L[E2])
+Nótese, sin embargo, que esta transformación no es la transformación inversa de ninguna de las versiones de T[ ] que se han visto.
+Es indecidible cuándo un término combinatorio general tiene forma normal; cuando dos términos combinatorios son equivalentes, etc. Esto es equivalente a la indecidibilidad de los correspondientes problemas para términos lambda.
+No obstante, una prueba directa es como sigue:
+Primero, obsérvese que el término
+A = (S I I (S I I))
+no tiene forma normal, porque se reduce a sí mismo en tres pasos, como sigue:
+(S I I (S I I))
+= (I (S I I) (I (S I I)))
+= (S I I (I (S I I)))
+= (S I I (S I I))
+y claramente ningún otro orden de reducción puede hacer la expresión más corta.
+Ahora, supongamos que N fuera un combinador para detectar formas normales,
+tal que
+(N x) ⇒ T, si x tiene forma normal
+F, en caso contrario.
+(Donde T y F son las transformaciones de las definiciones convencionales en cálculo lambda de verdadero y falso, λx.λy.x y λx.λy.y. Las versiones combinatorias tienen T = K y F = (K I) = 0 = K'.)
+Ahora sea
+Z = (C (C (B N (S I I)) A) I)
+y consideremos el término (S I I Z).
+Tiene (S I I Z) una forma normal?
+La tiene si y sólo si:
+(S I I Z)
+= (I Z (I Z))
+= (Z (I Z))
+= (Z Z)
+= (C (C (B N (S I I)) A) I Z)          (definición de Z)
+= (C (B N (S I I)) A Z I)
+= (B N (S I I) Z A I)
+= (N (S I I Z) A I)
+Ahora debemos aplicar N a (S I I Z).
+O bien (S I I Z) tiene una forma normal, o no la tiene.
+Si tuviera forma normal, entonces se reduce como sigue:
+(N (S I I Z) A I)
+= (K A I)                              (definición de N)
+= A
+pero A no tiene una forma normal, por tanto tenemos una contradicción.
+Pero si (S I I Z) no tiene una forma normal, se reduce como sigue:
+(N (S I I Z) A I)
+= (K I A I)                            (definición de N)
+= (I I)
+I
+lo que significa que la forma normal de (S I I Z) es simplemente I, otra contradicción.
+Por tanto, el hipotético combinador de forma normal N no puede existir.

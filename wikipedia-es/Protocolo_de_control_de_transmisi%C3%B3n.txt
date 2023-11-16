@@ -1,0 +1,103 @@
+El Protocolo de control de transmisión, también conocido como TCP (del inglés Transmission Control Protocol), es uno de los protocolos fundamentales de Internet.
+Fue creado entre los años 1973 y 1974 por Vint Cerf y Robert Kahn.
+El protocolo TCP es, al igual que los protocolos UDP y SCTP, un protocolo de Internet que está ubicado en la capa de transporte del modelo OSI.
+El objetivo de TCP es crear conexiones dentro de una red de datos compuesta por redes de computadoras para intercambiar datos.
+Además, en cuanto a su funcionamiento, garantiza que los datos llegarán a destino sin errores y en el mismo orden en el que fueron transmitidos.
+También proporciona un mecanismo para distinguir distintas aplicaciones dentro de una misma máquina, a través del concepto de puerto.
+TCP da soporte a muchas de las aplicaciones más populares de Internet (navegadores, intercambio de ficheros, clientes FTP, etc.) y protocolos de aplicación (HTTP, SMTP, SSH y FTP).
+Con el uso de protocolo TCP, las aplicaciones pueden comunicarse en forma segura (gracias al "acuse de recibo" -ACK- del protocolo TCP) independientemente de las capas inferiores.
+Esto significa que los routers (que funcionan en la capa de red) solo tienen que enviar los datos en forma de segmentos, sin preocuparse por el monitoreo de datos porque esta función la cumple la capa de transporte (o más específicamente el protocolo TCP).
+TCP es usado en gran parte de las comunicaciones de datos.
+Por ejemplo, gran parte de las comunicaciones que tienen lugar en Internet emplean TCP.
+En la pila de protocolos TCP/IP, TCP es la capa intermedia entre el protocolo de red (IP) y la capa de aplicación.
+Muchas veces las aplicaciones necesitan que la comunicación a través de la red sea confiable.
+Para ello se implementa el protocolo TCP que asegura que los datos que emite el cliente sean recibidos por el servidor sin errores y en el mismo orden que fueron emitidos, a pesar de trabajar con los servicios de la capa IP, la cual no es confiable.
+Es un protocolo orientado a la conexión, ya que el cliente y el servidor deben anunciarse y aceptar la conexión antes de comenzar a transmitir los datos a ese usuario que debe recibirlos.
+En el nivel de transporte, los paquetes de bits que constituyen las unidades de datos de protocolo TCP se llaman "segmentos".
+El formato de los segmentos TCP se muestra en el esquema segmento TCP.
+Las conexiones TCP se componen de tres etapas:
+Para establecer la conexión se usa el procedimiento llamado “negociación en tres pasos” (3-way handshake).
+Para la desconexión se usa una “negociación en cuatro pasos” (4-way handshake).
+Durante el establecimiento de la conexión, se configuran algunos parámetros tales como el número de secuencia con el fin de asegurar la entrega ordenada de los datos y la robustez de la comunicación.
+Aunque es posible que un par de entidades finales comiencen una conexión entre ellas simultáneamente, normalmente una de ellas abre un socket en un determinado puerto TCP y se queda a la escucha de nuevas conexiones.
+Es común referirse a esto como apertura pasiva, y determina el lado servidor de una conexión.
+El lado cliente de una conexión realiza una apertura activa de un puerto enviando un paquete SYN inicial al servidor como parte de la negociación en tres pasos.
+En el lado del servidor (este receptor también puede ser una PC o alguna estación terminal) se comprueba si el puerto está abierto, es decir, si existe algún proceso escuchando en ese puerto, pues se debe verificar que el dispositivo de destino tenga este servicio activo y esté aceptando peticiones en el número de puerto que el cliente intenta usar para la sesión.
+En caso de no estarlo, se envía al cliente un paquete de respuesta con el bit RST activado, lo que significa el rechazo del intento de conexión.
+En caso de que sí se encuentre abierto el puerto, el lado servidor respondería a la petición SYN válida con un paquete SYN/ACK.
+Finalmente, el cliente debería responderle al servidor con un ACK, completando así la negociación en tres pasos (SYN, SYN/ACK y ACK) y la fase de establecimiento de conexión.
+Es interesante notar que existe un número de secuencia generado por cada lado, ayudando de este modo a que no se puedan establecer conexiones falseadas (spoofing).
+Durante la etapa de transferencia de datos, una serie de mecanismos claves determinan la fiabilidad y robustez del protocolo.
+Entre ellos están incluidos el uso del número de secuencia para ordenar los segmentos TCP recibidos y detectar paquetes duplicados, checksums para detectar errores, asentimientos y temporizadores para detectar pérdidas o retrasos y ventanas deslizantes para el control de flujo de datos.
+Durante el establecimiento de conexión TCP, los “números iniciales de secuencia” son intercambiados entre las dos entidades TCP.
+Estos números de secuencia son usados para identificar los datos dentro del flujo de bytes, y poder identificar (y contar) los bytes de los datos de la aplicación.
+Siempre hay un par de números de secuencia incluidos en todo segmento TCP, referidos al número de secuencia y al número de asentimiento.
+Un emisor TCP se refiere a su propio número de secuencia cuando habla de número de secuencia, mientras que con el número de asentimiento se refiere al número de secuencia del receptor.
+Para mantener la fiabilidad, un receptor asiente los segmentos TCP indicando que ha recibido una parte del flujo continuo de bytes.
+Una mejora de TCP, llamada asentimiento selectivo (Selective Acknowledgement, SACK) permite a un receptor TCP asentir los datos que se han recibido de tal forma que el remitente solo retransmita los segmentos de datos que faltan.
+A través del uso de números de secuencia y asentimiento, TCP puede pasar los segmentos recibidos en el orden correcto dentro del flujo de bytes a la aplicación receptora.
+Los números de secuencia son de 32 bits (sin signo), que vuelve a cero tras el siguiente byte después del 232-1.
+Una de las claves para mantener la robustez y la seguridad de las conexiones TCP es la selección del número inicial de secuencia (Initial Sequence Number, ISN).
+Un checksum de 16 bits, consistente en el complemento a uno de la suma en complemento a uno del contenido de la cabecera y datos del segmento TCP, agrupados en intervalos de 16 bits, es calculado por el emisor, e incluido en la transmisión del segmento.
+Se usa la suma en complemento a uno porque el acarreo final de ese método puede ser calculado en cualquier múltiplo de su tamaño (16-bit, 32-bit, 64-bit...) y el resultado, una vez plegado, será el mismo.
+El receptor TCP recalcula el checksum sobre las cabeceras y datos recibidos.
+El complemento es usado para que el receptor no tenga que poner a cero el campo del checksum de la cabecera antes de hacer los cálculos, salvando en algún lugar el valor del checksum recibido; en vez de eso, el receptor simplemente calcula la suma en complemento a uno con el checksum incluido, y el resultado debe ser igual a 0.
+Si es así, se asume que el segmento ha llegado intacto y sin errores.
+Hay que fijarse en que el checksum de TCP también cubre los 96 bit de la cabecera que contiene la dirección origen, la dirección destino, el protocolo y el tamaño TCP.
+Esto proporciona protección contra paquetes mal dirigidos por errores en las direcciones.
+El checksum de TCP es una comprobación bastante débil.
+En niveles de enlace con una alta probabilidad de error de bit quizá requiera una capacidad adicional de corrección/detección de errores de enlace.
+Si TCP fuese rediseñado hoy, muy probablemente tendría un código de redundancia cíclica (CRC) para control de errores en vez del actual checksum.
+La debilidad del checksum está parcialmente compensada por el extendido uso de un CRC en el nivel de enlace, bajo TCP e IP, como el usado en el PPP o en Ethernet.
+Sin embargo, esto no significa que el checksum de 16 bits es redundante: sorprendentemente, inspecciones sobre el tráfico de Internet han mostrado que son comunes los errores de software y hardware que introducen errores en los paquetes protegidos con un CRC, y que el checksum de 16 bits de TCP detecta la mayoría de estos errores simples.
+Los asentimientos (ACK o Acknowledgments) de los datos enviados o la falta de ellos, son usados por los emisores para interpretar las condiciones de la red entre el emisor y receptor TCP.
+Unido a los temporizadores, los emisores y receptores TCP pueden alterar el comportamiento del movimiento de datos.
+TCP usa una serie de mecanismos para conseguir un alto rendimiento y evitar la congestión de la red (la idea es enviar tan rápido como el receptor pueda recibir).
+Estos mecanismos incluyen el uso de ventana deslizante, que controla que el transmisor mande información dentro de los límites del búfer del receptor, y algoritmos de control de flujo, tales como el algoritmo de evitación de la congestión (congestion avoidance), el de comienzo lento (slow-start), el de retransmisión rápida, el de recuperación rápida (fast recovery), y otros.
+TCP usa control de flujo para evitar que un emisor envíe datos de forma más rápida de la que el receptor puede recibirlos y procesarlos.
+El control de flujo es un mecanismo esencial en redes en las que se comunican computadoras con distintas velocidades de transferencia.
+Por ejemplo, si una PC envía datos a un dispositivo móvil que procesa los datos de forma lenta, el dispositivo móvil debe regular el flujo de datos.
+TCP usa una ventana deslizante para el control de flujo.
+En cada segmento TCP, el receptor especifica en el campo receive window la cantidad de bytes que puede almacenar en el búfer para esa conexión.
+El emisor puede enviar datos hasta esa cantidad.
+Para poder enviar más datos debe esperar que el receptor le envíe un ACK con un nuevo valor de ventana.
+El tamaño de la ventana de recepción TCP es la cantidad de datos recibidos (en bytes) que pueden ser metidos en el búfer de recepción durante la conexión.
+La entidad emisora puede enviar una cantidad determinada de datos pero antes debe esperar un asentimiento con la actualización del tamaño de ventana por parte del receptor.
+Un ejemplo sería el siguiente: un receptor comienza con un tamaño de ventana  y recibe   bytes, entonces su tamaño de ventana será   y el transmisor sólo podrá mandar paquetes con un tamaño máximo de datos de   bytes.
+Los siguientes paquetes recibidos seguirán restando tamaño a la ventana de recepción.
+Esta situación seguirá así hasta que la aplicación receptora recoja los datos del búfer de recepción.
+Para una mayor eficiencia en redes de gran ancho de banda, debe ser usado un tamaño de ventana mayor.
+El campo TCP de tamaño de ventana controla el movimiento de datos y está limitado a 16 bits, es decir, a un tamaño de ventana de 65.535 bytes.
+Como el campo de ventana no puede expandirse se usa un factor de escalado.
+La escala de ventana TCP (TCP window scale) es una opción usada para incrementar el máximo tamaño de ventana desde 65.535 bytes a 1 gigabyte.
+La opción de escala de ventana TCP es usada solo durante la negociación en tres pasos que constituye el comienzo de la conexión.
+El valor de la escala representa el número de bits desplazados a la izquierda de los 16 bits que forman el campo del tamaño de ventana.
+El valor de la escala puede ir desde 0 (sin desplazamiento) hasta 14.
+Hay que recordar que un número binario desplazado un bit a la izquierda es equivalente a que ese número sea multiplicado por 2.
+La fase de finalización de la conexión utiliza una negociación en cuatro pasos (four-way handshake), terminando la conexión desde cada lado independientemente.
+Sin embargo, es posible realizar la finalización de la conexión en 3 fases; enviando el segmento FIN y el ACK en uno solo.
+Cuando uno de los dos extremos de la conexión desea parar su "mitad" de conexión transmite un segmento con el flag FIN en 1, que el otro interlocutor asentirá con un ACK.
+Por tanto, una desconexión típica requiere un par de segmentos FIN y ACK desde cada lado de la conexión.
+Una conexión puede estar "medio abierta" en el caso de que uno de los lados la finalice pero el otro no. El lado que ha dado por finalizada la conexión no puede enviar más datos pero la otra parte si podrá.
+TCP usa el concepto de número de puerto para identificar a las aplicaciones emisoras y receptoras.
+Cada lado de la conexión TCP tiene asociado un número de puerto (de 16 bits sin signo, con lo que existen 65536 puertos posibles) asignado por la aplicación emisora o receptora.
+Los puertos son clasificados en tres categorías:
+Los puertos bien conocidos son asignados por la Internet Assigned Numbers Authority (IANA), van del 0 al 1023 y son usados normalmente por el sistema o por procesos con privilegios.
+Las aplicaciones que usan este tipo de puertos son ejecutadas como servidores y se quedan a la escucha de conexiones.
+Algunos ejemplos son: FTP (21), SSH (22), Telnet (23), SMTP (25) y HTTP (80).
+Los puertos registrados son normalmente empleados por las aplicaciones de usuario de forma temporal cuando conectan con los servidores, pero también pueden representar servicios que hayan sido registrados por un tercero (rango de puertos registrados: 1024 al 49151).
+Los puertos dinámicos/privados también pueden ser usados por las aplicaciones de usuario, pero este caso es menos común.
+Los puertos dinámicos/privados no tienen significado fuera de la conexión TCP en la que fueron usados (rango de puertos dinámicos/privados: 49152 al 65535, recordemos que el rango total de 2 elevado a la potencia 16, cubre 65536 números, del 0 al 65535).
+TCP es un protocolo muy desarrollado y complejo.
+Sin embargo, mientras mejoras significativas han sido propuestas y llevadas a cabo a lo largo de los años, ha conservado las operaciones más básicas sin cambios desde el RFC 793, publicado en 1981.
+El documento RFC 1122 (Host Requirements for Internet Hosts), especifica el número de requisitos de una implementación del protocolo TCP.
+El RFC 2581 (Control de Congestión TCP) es uno de los más importantes documentos relativos a TCP de los últimos años, describe nuevos algoritmos para evitar la congestión excesiva.
+En 2001, el RFC 3168 fue escrito para describir la Notificación de Congestión Explícita (ECN), una forma de eludir la congestión con mecanismos de señalización.
+En los comienzos del, TCP es usado en el 95% de todos los paquetes que circulan por Internet.
+undefined Entre las aplicaciones más comunes que usan TCP están HTTP/HTTPS (World Wide Web), SMTP/POP3/IMAP (correo electrónico) y FTP (transferencia de ficheros).
+Su amplia extensión ha sido la prueba para los desarrolladores originales de que su creación estaba excepcionalmente bien hecha.
+Recientemente, un nuevo algoritmo de control de congestión fue desarrollado y nombrado FAST TCP (Fast Active queue management Scalable Transmission Control Protocol) por los científicos de California Institute of Technology (Caltech).
+Es similar a TCP Vegas en cuanto a que ambos detectan la congestión a partir de los retrasos en las colas que sufren los paquetes al ser enviados a su destino.
+Todavía hay un debate abierto sobre si este es un síntoma apropiado para el control de la congestión.
+undefined
+Se listan algunas de las bibliotecas de comunicaciones existentes, que utilizan los protocolos TCP y UDP para distintos sistemas operativos.

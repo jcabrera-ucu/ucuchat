@@ -1,0 +1,77 @@
+El término datum se aplica en varias áreas de estudio y trabajo específicamente cuando se hace una relación hacia alguna geometría de referencia importante, sea esta un punto, una línea, un plano o una superficie (plana o curva).
+Los datos o datum son hechos individuales, estadísticas o elementos de información, a menudo numéricos.
+En un sentido más técnico, los datos son un conjunto de valores de variables cualitativas o cuantitativas sobre una o más personas u objetos, mientras que un dato (singular de datos) es un valor único de una sola variable.
+Por lo tanto, los datums pueden ser visibles o teóricos, y frecuentemente son identificados (A, B, C,... etc.).
+Aunque los términos "datos" e "información" a menudo se usan indistintamente, este término tiene significados distintos.
+En algunas publicaciones populares, a veces se dice que los datos se transforman en información cuando se ven en contexto o en un análisis posterior.
+[3] Sin embargo, en los tratamientos académicos de la materia los datos son simplemente unidades de información.
+Los datos se utilizan en la investigación científica, la gestión empresarial (p. ej., datos de ventas, ingresos, beneficios, precio de las acciones), las finanzas, la gobernanza (p. ej., tasas de criminalidad, tasas de desempleo, tasas de alfabetización ) y prácticamente en cualquier otra forma de actividad organizativa humana ( por ejemplo, censos del número de personas sin hogarpor organizaciones sin fines de lucro).
+Los datos se miden, recopilan, notifican y analizan, y se utilizan para crear visualizaciones de datos como gráficos, tablas o imágenes.
+Los datos como concepto general se refieren al hecho de que alguna información o conocimiento existente se representa o codifica de alguna forma adecuada para un mejor uso o procesamiento.
+Los datos sin procesar ("datos no procesados") son una colección de números o caracteres antes de que los investigadores los "limpien" y corrijan.
+Los datos sin procesar deben corregirse para eliminar los valores atípicos o errores obvios de ingreso de datos o de instrumentos (p. ej., una lectura de termómetro de un lugar ártico al aire libre que registra una temperatura tropical).
+El procesamiento de datos comúnmente ocurre por etapas, y los "datos procesados" de una etapa pueden considerarse los "datos sin procesar" de la etapa siguiente.
+Los datos de campo son datos sin procesar que se recopilan en un entorno " in situ " no controlado.
+Los datos experimentales son datos que se generan dentro del contexto de una investigación científica mediante la observación y el registro.
+Los datos han sido descritos como el nuevo petróleo de la economía digital.
+El primer uso en inglés de la palabra datos data de la década de 1640.
+La palabra "datos" se utilizó por primera vez para referirse a información informática transmisible y almacenable en 1946.
+La expresión procesamiento de datos se utilizó por primera vez en 1954.
+La palabra latina data es el plural de datum, "(cosa) dada", participio pasado neutro de dare "dar".
+En inglés, la palabra data puede usarse como un sustantivo plural en este sentido, con algunos escritores, generalmente aquellos que trabajan en ciencias naturales, ciencias de la vida y ciencias sociales, que usan datum en singular y data en plural, especialmente en el y en muchos casos también el  (por ejemplo, el estilo APA a partir de la 7ª edición todavía requiere que "datos" sea plural ).
+Sin embargo, en el lenguaje cotidiano y gran parte del uso del desarrollo de software e informática, "datos" se usa más comúnmente en singular como un sustantivo masivo (como "arena" o "lluvia").
+El término big data toma el singular.
+Datos, información, conocimiento y sabiduría son conceptos íntimamente relacionados, pero cada uno tiene su rol respecto al otro, y cada término tiene su significado.
+De acuerdo con una visión común, los datos se recopilan y analizan; los datos solo se convierten en información adecuada para tomar decisiones una vez que han sido analizados de alguna manera.
+Se puede decir que la medida en que un conjunto de datos es informativo para alguien depende de la medida en que sea inesperado para esa persona.
+La cantidad de información contenida en un flujo de datos puede caracterizarse por su entropía de Shannon.
+El conocimiento es la comprensión basada en una amplia experiencia que trata con información sobre un tema.
+Por ejemplo, la altura del monte Everest generalmente se considera un dato.
+La altura se puede medir con precisión con un altímetro y se ingresa en una base de datos.
+Estos datos pueden incluirse en un libro junto con otros datos sobre el Monte Everest para describir la montaña de una manera útil para quienes deseen decidir cuál es el mejor método para escalarla.
+Una comprensión basada en la experiencia de escalar montañas que podría aconsejar a las personas sobre el camino para llegar a la cima del Monte Everest puede verse como "conocimiento".
+La escalada práctica del pico del Monte Everest basada en este conocimiento puede verse como "sabiduría".
+En otras palabras, la sabiduría se refiere a la aplicación práctica del conocimiento de una persona en aquellas circunstancias en las que puede resultar bueno.
+Así la sabiduría complementa y completa la serie "datos", "información" y "conocimiento" de conceptos cada vez más abstractos.
+A menudo se supone que los datos son el concepto menos abstracto, la información el siguiente menos y el conocimiento el más abstracto.
+Desde este punto de vista, los datos se convierten en información por interpretación; por ejemplo, la altura del monte Everest generalmente se considera "datos", un libro sobre las características geológicas del monte Everest puede considerarse "información" y una guía para escaladores que contiene información práctica sobre la mejor manera de llegar a la cima del monte Everest puede considerarse "conocimiento".
+. "Información" tiene una diversidad de significados que van desde el uso cotidiano hasta el uso técnico.
+Sin embargo, también se ha argumentado que esta visión invierte la forma en que los datos emergen de la información y la información del conocimiento.
+En términos generales, el concepto de información está estrechamente relacionado con las nociones de restricción, comunicación, control, datos, forma, instrucción, conocimiento, significado, estímulo mental, patrón, percepción y representación.
+Beynon-Davies utiliza el concepto de signo para diferenciar entre datos e información; los datos son una serie de símbolos, mientras que la información se produce cuando los símbolos se utilizan para referirse a algo.
+Antes del desarrollo de dispositivos y máquinas informáticas, las personas tenían que recopilar datos manualmente e imponerles patrones.
+Desde el desarrollo de dispositivos y máquinas informáticas, estos dispositivos también pueden recopilar datos.
+En la década de 2010, las computadoras se utilizan ampliamente en muchos campos para recopilar datos y clasificarlos o procesarlos, en disciplinas que van desde el marketing, el análisis del uso de los servicios sociales por parte de los ciudadanos hasta la investigación científica.
+Estos patrones en los datos se ven como información que se puede utilizar para mejorar el conocimiento.
+Estos patrones pueden interpretarse como verdad (aunque la "verdad" puede ser un concepto subjetivo) y puede autorizarse como criterio estético y ético en algunas disciplinas o culturas.
+Los eventos que dejan tras de sí restos físicos o virtuales perceptibles pueden rastrearse a través de los datos.
+Las marcas ya no se consideran datos una vez se rompe el vínculo entre la marca y la observación.
+Los dispositivos informáticos mecánicos se clasifican según cómo representan los datos.
+Una computadora analógica representa un dato como voltaje, distancia, posición u otra cantidad física.
+Una computadora digital representa una pieza de datos como una secuencia de símbolos extraídos de un alfabeto fijo.
+Las computadoras digitales más comunes usan un alfabeto binario, es decir, un alfabeto de dos caracteres que normalmente se denota como "0" y "1".
+Luego se construyen representaciones más familiares, como números o letras, a partir del alfabeto binario.
+Se distinguen algunas formas especiales de datos.
+un programa de computadoraes una colección de datos, que pueden interpretarse como instrucciones.
+La mayoría de los lenguajes de programación hacen una distinción entre los programas y los otros datos sobre los que operan los programas, pero en algunos lenguajes, especialmente Lisp y lenguajes similares, los programas son esencialmente indistinguibles de otros datos.
+También es útil para distinguir metadatos, es decir, una descripción de otros datos.
+Un término similar pero anterior para los metadatos es "datos auxiliares".
+El ejemplo prototípico de metadatos es el catálogo de la biblioteca, que es una descripción del contenido de los libros.
+Un datum geodésico es una referencia de las medidas tomadas.
+En geodesia un datum es un conjunto de puntos de referencia en la superficie terrestre con los cuales las medidas de la posición son tomadas y un modelo asociado de la forma de la tierra (elipsoide de referencia) para definir el sistema de coordenadas geográfico.
+Un datum horizontal describe un punto sobre la superficie terrestre.
+Un datum vertical miden elevaciones o profundidades.
+En ingeniería y drafting, un datum es un punto de referencia, superficie o ejes sobre un objeto con los cuales las medidas son tomadas.
+Un datum de referencia (modelo matemático) es una superficie constante y conocida, utilizada para describir la localización de puntos sobre la Tierra.
+Dado que diferentes datum tienen diferentes radios y puntos centrales, un punto medido con diferentes datum puede tener coordenadas diferentes.
+Existen cientos de datum de referencia, desarrollados para referenciar puntos en determinadas áreas y convenientes para esa área.
+Datum contemporáneos están diseñados para cubrir áreas más grandes.
+Los datum más comunes en las diferentes zonas geográficas son los siguientes:
+El datum WGS84, que es casi idéntico al NAD83 utilizado en América del Norte, es el único sistema de referencia mundial utilizado hoy en día.
+Es el datum estándar por defecto para coordenadas en los dispositivos GPS comerciales.
+Los usuarios de GPS deben chequear el datum utilizado ya que un error puede suponer una traslación de las coordenadas de varios cientos de metros.
+En ingeniería, un datum puede ser representado en dibujo técnico, y la representación de este puede variar un poco dependiendo de las normas ISO.
+En una forma simplificada, se puede decir que los datums generalmente reflejan los planos cartesianos "X", "Y" y "Z", para establecer las superficies críticas desde donde medir y controlar la altura, el ancho y el grosor de un cuerpo.
+Aunque realmente los datums pueden estar en cualquier posición dependiendo de la geometría de los objetos (y no ser necesariamente etiquetados con X, Y, y Z).
+Los datums son esenciales para controlar la geometría y tolerancias de fabricación de una variedad de características, como lo puede ser la cilindricidad, simetría, angularidad, perpendicularidad, etc.
+En la manufactura de objetos para ser ensamblados, donde dos superficies planas deben hacer contacto óptimo (siendo una superficie de un objeto, y la otra del otro objeto), estas, por su importancia en el producto final, serán asignadas como datums, (por ejemplo, identificados en un dibujo técnico por la letra "A") puesto que se querrá controlar el paralelismo de ambas superficies además de lo plano y liso con que sean acabadas durante el proceso de fabricación para lograr el cometido de contacto óptimo entre ambas.

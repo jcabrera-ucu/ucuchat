@@ -1,0 +1,12 @@
+Un MID (mobile internet device: dispositivo móvil para Internet), es un UMPC (ultra mobile personal computer, computadora personal ultramóvil, un tablet PC muy pequeño), diseñado para consumidores y prosumidores.
+En comparación, los UMPC se han diseñado básicamente para trabajadores de campo y profesionales de alta movilidad espacial en general.
+Intel fue quien acuñó el término y anunció el primer prototipo en la Intel Development Forum en la primavera de 2007 en Pekín.
+El dispositivo y sus especificaciones fueron anunciados en la conferencia de Pekín.
+Los nuevos procesadores de doble núcleo de Intel que llevará el dispositivo son una extensión derivada de la línea de procesadores Centrino.
+Cada núcleo de este procesador de muy bajo consumo corre a 600 u 800 MHz, lo que constituye un régimen de trabajo a medio camino entre los procesadores de PDA (computadora de bolsillo) y de los procesadores de portátil.
+Los MID corren una versión embebida de Linux.
+Están anunciados, de momento, MIDinux de RedFlag.
+La versión específica de Ubuntu 8.04 ya ha sido liberada por Canonical y se denomina Ubuntu Mobile Edition.
+Esta versión es cómoda para utilizar con los dedos (finger friendly), está adaptada para su uso con pantalla táctil y los dedos.
+Los motivos conocidos hasta la fecha para esta elección son los (pocos) recursos que consume Linux y el coste de su licencia.
+Sin embargo, con el procesador de doble núcleo, el dispositivo será capaz de correr Windows XP y Windows Vista.

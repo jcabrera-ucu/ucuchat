@@ -1,0 +1,15 @@
+El Síndrome de Kallman, también conocido como Síndrome de Maestre-Kallman-Morsier, es una enfermedad hereditaria por herencia ligada al cromosoma X, por herencia autosómica recesiva, o de forma autosómica dominante, que repercute en la funcionalidad normal del hipotálamo, el cual no produce la hormona GnRH, que estimula la secreción de las hormonas hipofisarias (FSH y LH) estimuladoras de las hormonas sexuales (gonadotropinas).
+El Síndrome Kallmann (o Maestre en honor a Aureliano Maestre de San Juan), es una enfermedad genética caracterizada por la asociación de una deficiencia de (hormona liberadora de gonadotropina) GnRH aislada, y anosmia (pérdida del sentido del olfato).
+El Síndrome de Kallmann está asociado a distintos genes, cada uno de los cuales se asocia con un síndrome distinto: ANOS1 (anteriormente KAL1, Síndrome de Kallmann 1, KS1), FGFR1 (KS2), PROKR2 (KS3), PROK2(KS4), CHD7 (KS5) y FGF8(KS6)
+Dependiendo del síndrome tendrá un tipo de herencia u otra:
+-Ligada al cromosoma X: KS1
+-Autosómica dominante: KS2, KS3, KS4, KS5 y KS6
+-Autosómica recesiva: KS3 y KS4
+Se manifiesta de forma distinta según la etapa de desarrollo:
+Para los genes ANOS1, FGFR1, PROKR2, PROK2, CHD7 y FGF8 se realiza un análisis de secuencia para detectar pequeñas inserciones o deleciones intragénicas; cambios de sentido; antisentidos o mutaciones en sitios de splicing.
+Además para los genes ANOS1 y FGFR1 se realizan análisis de deleción y duplicación mediante PCR cuantitativa, MLPA (multiplex ligation-dependet probe amplificaction) y microarrays cromosómicos.
+Para ANOS1 otra prueba diagnóstica que se suele utilizar es el FISH.
+La deficiencia de GnRH aislada se detecta de distintas formas.
+Otras causas frecuentes de deficiencia de gonadotropinas son:
+.
+.

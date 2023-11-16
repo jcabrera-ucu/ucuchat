@@ -1,0 +1,4 @@
+La dispersión térmica (thermal blooming en inglés) es un efecto atmosférico, observado en los haces del Láser Táctico de Alta Energía.
+Es el resultado de la interacción no lineal de la radiación láser con el medio de propagación, generalmente el aire, que es calentado por la absorción de una fracción de la radiación.
+La cantidad de energía absorbida es una función de la longitud de onda del láser.
+El término "dispersión térmica" se utiliza a menudo para describir cualquier tipo de "distorsión térmica" autoinducida por la radiación láser.

@@ -1,0 +1,15 @@
+En la teoría de lenguajes de programación, La evaluación perezosa (del inglés lazy evaluation) o llamada por necesidad es una estrategia de evaluación que retrasa el cálculo de una expresión hasta que su valor sea necesario, y que también evita repetir la evaluación en caso de ser necesaria en posteriores
+ocasiones.
+Esta compartición del cálculo puede reducir el tiempo de ejecución de ciertas funciones de forma exponencial, comparado con otros tipos de evaluación.
+Los beneficios de la evaluación perezosa son:
+Este método de evaluación es comúnmente implementado encapsulando cada expresión en una función que, cuando sea computada, devolverá el valor deseado de la expresión.
+De esta manera, cuando el resultado sea necesitado, la función creada será ejecutada para conseguirlo.
+La evaluación perezosa puede también reducir el consumo de memoria de una aplicación, ya que los valores se crean solo cuando se necesitan.
+Sin embargo, es difícil de combinar con las operaciones típicas de programación imperativa, como el manejo de excepciones o las operaciones de entrada/salida, porque el orden de las operaciones
+puede quedar indeterminado.
+Además, la evaluación perezosa puede conducir a fragmentar la memoria.
+La evaluación perezosa es frecuentemente combinada con memoización, tal y como lo describe Jon Bentley en Writing Efficient Programs (Escribiendo Programas Eficientes).
+Después de que el valor de una función sea computado para un parámetro o una serie de estos, el resultado es almacenado en una tabla de consulta que está organizada por los valores de estos parámetros; la próxima vez que se le llama a la función, la tabla es consultada para determinar si el resultado para esa combinación de parámetros está disponible.
+Si es el caso, la función devuelve dicho resultado.
+Si no, la función es evaluada y otro elemento es añadido a la tabla para reutilización posterior.
+Lo contrario de la evaluación perezosa sería la evaluación acaparadora, o evaluación estricta, que es el modo de evaluación por defecto en la mayoría de los lenguajes de programación.

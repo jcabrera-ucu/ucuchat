@@ -1,0 +1,75 @@
+En ingeniería mecánica se denomina tornillo sin fin a un dispositivo que transmite el movimiento entre ejes que son perpendiculares entre sí, mediante un sistema de dos piezas: el «tornillo» (con dentado helicoidal), y un engranaje circular denominado «corona».
+Tienen la capacidad de lograr una relación de transmisión muy alta en una etapa (i hasta 100), pero con el aumento en la relación de transmisión, su grado de utilización cae (en i = 100 alrededor del 45%).
+A diferencia de la mayoría de transmisiones de engranajes, los engranajes helicoidales funcionan muy silenciosamente y tienen la capacidad de amortiguar relativamente su vibración.
+Para relaciones de transmisión más grandes, algunas versiones son mucho más económicas que las transmisiones combinadas con guías y biseles (hasta una distancia entre ejes de 100 mm).
+Existen rendimientos de potencia hasta 1000 kW con un par de salida de hasta 2500 Nm, y hasta 30 000 revoluciones/min y velocidad circunferencial 70 m/s.
+No se sabe exactamente cuándo se creó el primer engranaje helicoidal.
+El tornillo sin fin podría haber sido inventado por Archytas de Terentum, Apolonio de Perge, o Arquímedes, siendo este último el autor más probable.
+El tornillo sinfín apareció más tarde en el subcontinente indio, para su uso en desmotadoras de algodón, durante el Sultanato de Delhi, en los siglos XIII o XIV.
+Una imagen, que data de finales de finales del y principios del XVI, es un dibujo que Leonardo da Vinci dejó en la biblioteca Codex Ash 361 Mediceo-Laurenziana de Florencia, que muestra un sistema tornillo-rueda en un sistema cabrestante.
+No se sabe si se inspiró en el tornillo de Arquímedes.
+Se sabe que Albrecht Dürer (* 1471 † 1528), que también se dedicó a los tornillos y espirales matemáticos, tiene un dibujo que muestra un engranaje helicoidal.
+En el, las aplicaciones para los sistemas de timón de barcos se generalizaron.
+En los primeros días de la motorización, los engranajes de cadena se usaban en la tecnología de vehículos, que fueron reemplazados a principios del por engranajes diferenciales con engranajes helicoidales.
+Los engranajes helicoidales siguen siendo comunes en el.
+Una aplicación bien conocida es la mecánica de afinación en los instrumentos de cuerda.
+Cada vez que el tornillo sin fin da una vuelta completa, el engranaje avanza un número de dientes igual al número de entradas del sinfín.
+El tornillo sin fin puede ser un mecanismo irreversible o no, dependiendo del ángulo de la hélice, junto a otros factores.
+La velocidad de giro del eje conducido depende del número de entradas del tornillo y del número de dientes de la rueda.
+Se puede entender el número de entradas del tornillo como el número de hélices simples que lo forman.
+En la práctica la mayoría de tornillos son de una sola entrada, por lo que cada vez que este de una vuelta, el engranaje avanza un solo diente.
+La expresión por la que se rige este mecanismo es similar a la de las ruedas dentadas teniendo en cuenta el número de entradas del tornillo como elemento motor en este caso:
+Teniendo en cuenta que e siempre es mucho menor que z, la relación de transmisión siempre será menor por lo que actuará como un reductor de velocidad.
+En el caso habitual de una sola entrada (e=1), el tornillo sin fin se hace equivalente a un engranaje que tuviese un solo diente, siendo la relación de reducción directamente igual al número de dientes del engranaje.
+Al contrario que en los sistemas de piñón y cremallera, en general (salvo casos especiales) la dirección de la transmisión del movimiento entre los dos ejes no es reversible, especialmente cuando se usan coeficientes de reducción grande con tornillos de una sola espiral: es el tornillo el que hace girar al engranaje, y no al revés.
+Esto es debido a que la espiral del tornillo es notablemente perpendicular a los dientes de la rueda, dando un momento de giro prácticamente nulo cuando se intenta hacerla girar.
+Se trata de una ventaja considerable cuando se desea eliminar cualquier posibilidad de que los movimientos de la rueda se transmitan al tornillo.
+En cambio, en los tornillos de espirales múltiples, este efecto se reduce considerablemente, debiéndose tener en cuenta la reducción del efecto de frenado, hasta el punto de que el engranaje puede ser capaz de hacer girar al tornillo.
+Configuraciones del sin fin en las que el equipo no puede transmitir movimientos al tornillo se dice que son autoblocantes, circunstancia que depende del ángulo de ataque entre engranajes y del coeficiente de fricción entre ambos.
+Un sinfín dextrógiro es aquel en que las espirales del tornillo se inclinan hacia su lado izquierdo cuando se observa con su eje en posición horizontal, coincidiendo con los criterios habituales usados en física y en mecánica.
+Dos engranajes helicoidales externos que operen sobre ejes paralelos deben ser de la mano contraria.
+En cambio, un tornillo helicoidal y su piñón deben ser de la misma mano.
+Un sinfín levógiro es aquel en que las espirales del tornillo se inclinan hacia su lado derecho cuando se observa con su eje en posición horizontal.
+El perfil estándar de los engranajes helicoidales aparece en la sección axial del tornillo sin fin.
+Los dientes de barrena generalmente se fabrican con herramientas con lados planos.
+En función de la geometría de los dientes del tornillo y del engranaje, hay tres tipos de configuraciones del sin fin:
+En máquinas de alto rendimiento se ha generalizado el uso del sin fin de «doble garganta».
+Los otros dos tipos se utilizan en la fabricación de dispositivos más sencillos y de menor coste.
+Un tornillo envolvente (reloj de arena) tiene uno o más dientes y aumenta de diámetro desde su parte media hacia ambos extremos.
+En los automóviles de principios del, antes de la introducción de la dirección asistida, el efecto de un plano o un reventón en una de las ruedas delanteras provocaba que el mecanismo de dirección se desviase hacia el lado del neumático pinchado.
+El empleo de un sinfín en la columna de dirección reduce este efecto.
+El desarrollo posterior del sistema de husillo de bolas, permitió reducir aún más los rozamientos; mejorando tanto el control del vehículo como la durabilidad y precisión del mecanismo de dirección.
+El sin fin es un medio compacto para reducir la velocidad y aumentar el par de giro especialmente en motores eléctricos pequeños, que generalmente son de alta velocidad y de bajo par.
+La adición de un sinfín aumenta notablemente sus posibilidades de aplicación.
+Tornillos sin fin se utilizan en prensas, laminadores, cadenas de montaje, maquinaria en industrias de explotación minera, en timones de barco y en sierras circulares.
+Además, en fresadoras y máquinas herramienta sirven para ubicar los útiles de corte en la zona de trabajo con alta precisión, utilizando sistemas de doble tornillo con tolerancias estrictas.
+También se utilizan en los mecanismos de control de muchos tipos de ascensores y de escaleras mecánicas, debido a su tamaño compacto y a la no reversibilidad del movimiento.
+En la época de los barcos de vela, la introducción del sin fin para controlar el timón fue un avance significativo.
+Hasta entonces, el mecanismo utilizado consistía en una cuerda arrollada a un torno.
+Muchos barcos contaban con dos ruedas de gran diámetro, porque en caso de marejada podían necesitarse hasta cuatro tripulantes para gobernar el timón.
+Sistemas de tornillo sin fin se han utilizado en algunos automóviles de tracción trasera anteriores a la aparición del mecanismo diferencial.
+Con posterioridad se vio que su uso tiene la ventaja de poderse ubicar en el punto alto o en el punto bajo de la corona del diferencial.
+En la década de 1910 era común ver el sinfín colocado en la parte de arriba del diferencial, mejorando la altura útil sobre el terreno de los camiones que se utilizaban para circular por caminos de tierra.
+En cambio, en la década de 1920 la firma Stutz Motor Company utilizaba este sistema en sus coches, en este caso, para tener un chasis más bajo que sus competidores, por lo que se situaba el engranaje en la parte inferior del diferencial.
+Un ejemplo de alrededor de 1960 fue el Peugeot 404.
+Un sinfín formando parte del diferencial, evita que el vehículo retroceda en una pendiente sin necesidad de utilizar el freno.
+Esta ventaja, sin embargo, no compensaba los problemas ligados a los excesivos coeficientes de reducción de giro resultantes.
+Una excepción reciente es el Diferencial Torsen, que utiliza engranajes sin fin y engranajes planetarios en lugar del engranaje cónico de los diferenciales abiertos convencionales.
+Diferenciales Torsen se utilizan en el vehículo militar Humvee y en algunos modelos de Hummer.
+También los incorporan algunos vehículos de tracción en las cuatro ruedas, como los Audi Quattro.
+Algunos camiones pesados como los grandes dumpers utilizados en construcción y en minería, a menudo utilizan un sinfín diferencial para transmitir la potencia desde el motor a las ruedas.
+No es tan eficiente como un engranaje cónico, por lo que estos camiones suelen tener diferenciales voluminosos para alojar la gran cantidad de aceite necesaria para absorber y disipar el calor creado.
+Así mismo, se utilizan como mecanismo para el tensado de las cuerdas y su afinado en muchos instrumentos musicales, incluyendo guitarras, contrabajos, mandolinas, buzukis y muchos banjos.
+Mecanismos sin fin de plástico a menudo se utilizan con motores eléctricos pequeños, para obtener una salida con muchas menos revoluciones que el motor, que funciona mejor a una velocidad bastante alta. Este sistema se utiliza a menudo en juguetes y en otros aparatos eléctricos pequeños.
+Las abrazaderas para tubo utilizan para ajustar su tamaño un tornillo sin fin que encaja en una serie de ranuras.
+En ocasiones, un sinfín se puede diseñar para funcionar a la inversa, resultando que el eje de salida gira mucho más rápido que el de entrada.
+Ejemplos de esto pueden verse en algunas centrifugadoras manuales o en el mecanismo regulador de velocidad de las cajas de música.
+En los tornillos helicoidales en primer lugar se tallan los dientes y posteriormente se ajustan a sus dimensiones definitivas.
+La fabricación de engranajes helicoidales impone mayores exigencias al proceso de producción en términos de precisión de fabricación y acabado superficial para reducir la fricción por deslizamiento.
+Por la misma razón, el tornillo y la rueda helicoidal están hechos de diferentes materiales; mientras que el tornillo, que está sujeto a un mayor desgaste, está entonces hecho de acero endurecido, la rueda helicoidal es a menudo más blanda y está hecha de latón, bronce o un plástico autolubricante.
+Los engranajes helicoidales expuestos se lubrican con grasa, con carcasas cerradas también se puede usar aceite para la lubricación.
+Por ejemplo, Para la lubricación se utilizan aceites sintéticos a base de poliglicol.
+Con latón especial o bronce de aluminio, los aceites de engranajes están fuera de discusión, y aquí solo se pueden lubricar aceites minerales.
+El suministro de aceite debe basarse en el diseño de la carcasa y la disipación de calor prevista (lubricación por salpicadura/lubricación por circulación).
+Dado que los engranajes helicoidales pueden calentarse en funcionamiento continuo debido a la baja eficiencia en relaciones altas, otra tarea del lubricante, como en otros engranajes, es transportar el calor.
+Si puede llevarlo fácilmente a la carcasa, que está nervada para este fin, o incluso si ésta es impulsada por un ventilador, el suministro de aceite puede ser menor.

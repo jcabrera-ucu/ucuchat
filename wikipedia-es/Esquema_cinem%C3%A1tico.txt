@@ -1,0 +1,9 @@
+Un esquema cinemático ilustra la conectividad entre los enlaces (barras) y las uniones (articulaciones) de un mecanismo o máquina más allá de las dimensiones o forma de las partes que lo constituyen.
+Normalmente las barras se representan como objetos geométricos, tales como líneas, triángulos o cuadrados, que sostienen las versiones esquemáticas de las articulaciones del mecanismo o máquina.
+Por ejemplo, Las figuras de la derecha muestran los esquemas cinemáticos (i) del conjunto que forman un pistón y una biela de un motor, y (ii) las primeras tres articulaciones de un manipulador PUMA.
+Un esquema cinemático puede expresarse como un gráfico representando las barras del mecanismo como vértices y las articulaciones como aristas del gráfico.
+Esta versión del esquema cinemático es muy efectiva en numerosas estructuras en los procesos de diseño de maquinaria.
+Los elementos de los esquemas cinemáticos incluyen la estructura, que es el marco de referencia para todos los componentes movibles, así como las barras, y las articulaciones.
+Las articulaciones primarias están formadas por pivotes, deslizadores y otros elementos que permitan una rotación pura o movimiento lineal puro.
+Las articulaciones de grado superior que, también existen, permiten una combinación de rotación o movimiento lineal.
+Además estos esquemas otros puntos de interés, y otros componentes importantes.

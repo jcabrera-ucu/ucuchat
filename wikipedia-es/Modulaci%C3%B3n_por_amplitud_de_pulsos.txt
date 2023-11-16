@@ -1,0 +1,32 @@
+thumb|Principio de la modulación por amplitud de pulsos (PAM); (1) Señal original, (2) Señal-PAM, (a) Amplitud de la señal, (b) Tiempo
+La modulación por amplitud de pulsos o, por sus siglas en inglés, PAM (pulse-amplitude modulation) es una técnica de modulación de señales analógicas donde el desfase y la frecuencia de la señal quedan fijas y la amplitud es la que varía.
+Dichas amplitudes pueden ser reales o complejas.
+Si se representan las amplitudes en el plano complejo se tienen las denominadas constelaciones de señal.
+En función del número de símbolos o amplitudes posibles se llama a la modulación N-PAM.
+Así, se tiene 2PAM, 4PAM, 260PAM, etc. De la correcta elección de los puntos de la constelación (amplitudes) depende la inmunidad a ruido (distancia entre puntos) o la energía por bit (distancia al origen).
+Algunas versiones del protocolo Ethernet se basan en la modulación PAM para la transmisión de los datos.
+En concreto, 100BASE-TX (fast ethernet) usa una modulación de 3 niveles (3-PAM), mientras que 1000BASE-T (gigabit ethernet) usa una modulación de 5 niveles o 5-PAM.
+GDDR6X, desarrollado por Micron y Nvidia, utilizado por primera vez en las tarjetas gráficas Nvidia RTX 3080 y 3090, usa la señalización PAM4 para transmitir 2 bits por ciclo de reloj sin tener que recurrir a frecuencias más altas o dos canales o carriles con transmisores y receptores asociados, lo que puede aumentar el consumo y el coste de energía o espacio.
+Las frecuencias más altas requieren un mayor ancho de banda, lo que es un problema importante más allá de los 28 GHz cuando se intenta transmitir a través de cobre.
+PAM4 cuesta más de implementar que la codificación anterior NRZ (sin retorno a cero, PAM2) en parte porque requiere más espacio en los circuitos integrados y es más susceptible a problemas de SNR (relación señal / ruido).
+Este concepto también se utiliza para el estudio de la fotosíntesis utilizando un instrumento especializado que involucra una medición espectrofluorométrica de la cinética de aumento y disminución de la fluorescencia en la antena de captación de luz de las membranas tilacoides, cuestionando así varios aspectos del estado de los fotosistemas bajo diferentes condiciones ambientales.
+A diferencia de las mediciones tradicionales de fluorescencia de clorofila adaptadas a la oscuridad, los dispositivos de fluorescencia por amplitud de pulsos permiten medir en condiciones de luz ambiental, lo que hace que las mediciones sean significativamente más versátiles.
+La modulación por amplitud de pulsos también se ha desarrollado para el control de diodos emisores de luz (LED), especialmente para la iluminación.
+Los controladores LED basados en la técnica PAM ofrecen una eficiencia energética mejor en comparación con los sistemas basados en otras técnicas de modulación de controladores comunes, como la modulación por ancho de pulso (PWM), ya que la corriente directa que pasa a través de un LED es relativa a la intensidad de la salida de luz y la eficiencia del LED aumenta a medida que se reduce la corriente directa.
+Los controladores LED de modulación por amplitud de pulsos pueden sincronizar pulsos a través de múltiples canales de LED para permitir una combinación de colores perfecta.
+Debido a la naturaleza inherente de PAM junto con la rápida velocidad de conmutación de los LED, es posible utilizar iluminación LED como medio de transmisión inalámbrica de datos a alta velocidad.
+Los estándares del Comité de Sistemas de Televisión Avanzados de Norteamérica para la televisión digital utilizan una forma de PAM para transmitir los datos que componen la señal de televisión.
+Este sistema, conocido como 8VSB, se basa en un PAM de ocho niveles.
+Utiliza procesamiento adicional para suprimir una banda lateral y así hacer un uso más eficiente del ancho de banda limitado.
+Utilizando una única asignación de canal de 6 MHz, como se define en el estándar analógico NTSC anterior, 8VSB es capaz de transmitir 32 Mbits / s. Después de tener en cuenta los códigos de corrección de errores y otros gastos generales, la velocidad de datos en la señal es de 19,39 Mbits / s.
+Se tiene una constelación de dos símbolos asimétrica.
+La señal modulada será, donde A_k es la amplitud que depende de la señal moduladora x_k={0, 1}.
+Si tomamos amplitud nula para los bits 0 y amplitud A (real pura) para los bits 1, vemos la constelación no está centrada en el origen.
+La distancia entre símbolos será A, que nos protege frente a ruido.
+La energía media por bit será
+Constelación de dos símbolos simétrica.
+Esta vez asignaremos amplitudes y \frac{A}{2} respectivamente.
+La distancia entre símbolos es de nuevo A. No hemos perdido inmunidad frente al ruido.
+La energía media por bit será
+Necesitamos la mitad de energía para enviar la misma señal, con la misma calidad o inmunidad frente a ruido.
+O lo que es lo mismo, necesitamos 3dB menos de potencia para enviar una señal con una relación señal-ruido (SNR) constante; o bien podemos invertir esos 3dB en mejorar la SNR.

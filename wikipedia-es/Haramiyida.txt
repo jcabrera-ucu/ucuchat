@@ -1,0 +1,15 @@
+Los haramíyidos (Haramiyida) son un orden extinto de mamíferos fósiles que habitaron entre el fin del Triásico (Noriense superior) y el Oligoceno, siendo uno de los grupos de mamíferos que más éxito adaptativo han demostrado tener a lo largo de la historia de la vida.
+Excepto en Haramiyavia, el resto de especies sólo se conocen por sus dientes.
+Su dentición es propia de herbívoros, pero no están relacionados con las especies vivas, sino que se consideran aloterios, aunque su filiación concreta presenta ciertas controversias.
+Una propuesta basada en recientes publicaciones es la resumida en el cladograma siguiente:
+--o Allotheria Marsh, 1880
+|-o Gondwanatheria Mones, 1987
+|-o Haramiyida Simpson, 1947
+| |-- Millsoson Butler & Hooker, 2005
+| |-- Kirtlingtonia Butler & Hooker, 2005
+| |-- Theroteinus Sigogneau-Russell, Frank & Hammerle, 1986
+| |-o Eleutherodontidae Kermack & al., 1998
+| |-o Haramiyaviidae Butler, 2000
+| `-o Haramiyidae Simpson, 1947
+`-o Multituberculata Cope, 1884
+Thomasia

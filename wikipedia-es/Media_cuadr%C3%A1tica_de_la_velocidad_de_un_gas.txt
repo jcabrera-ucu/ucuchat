@@ -1,0 +1,15 @@
+La media cuadrática de la velocidad de un gas es una medida de la velocidad de las partículas en un gas, la cual es una magnitud conveniente para resolver problemas mediante la teoría cinética de los gases.
+La misma se define como la raíz cuadrada de la velocidad cuadrática media de las moléculas del gas.
+Se la expresa mediante la fórmula:
+y según la teoría de los gases se calcula a partir de la expresión
+donde v_{rms}es la media cuadrática de la velocidad, M es la masa molar (en kilogramos/mol) del gas, R es la constante universal de los gases ideales, y T es la temperatura en Kelvin.
+Este concepto es muy adecuado tanto para el caso de gases ideales como el helio y para un gas molecular como el oxígeno diatómico.
+Esto se debe a que si bien la energía interna es grande en mucha moléculas (comparada con la de un átomo), aun así 3RT/2 es la energía cinética promedio de traslación.
+Lo cual también puede ser expresado en función de la constante de Boltzmann (k) como:
+donde m es la masa de una molécula del gas (en kilogramos).
+Lo cual se puede obtener si se utilizan métodos basados en la energía:
+donde E_c es la energía cinética.
+Dado que v^2 no considera la dirección del movimiento, es lógico asumir que la fórmula puede ser ampliada a toda la muestra, remplazando m por la masa de toda la muestra, o sea la masa molar (M) multiplicada por el número de moles (n), resultando:
+Por lo tanto:
+lo cual es equivalente.
+Se obtiene el mismo resultado si se resuelve la integral gaussiana que contiene a la distribución de velocidad de Maxwell, p(v):

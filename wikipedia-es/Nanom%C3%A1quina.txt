@@ -1,0 +1,11 @@
+Una nanomáquina es un mecanismo cuya talla se expresa en nanómetros, siendo un nanómetro la milésima parte de un micrómetro o la millonésima parte de un milímetro, y capaz de interactuar con los objetos accesibles a esa escala.
+Aunque el término también designa cualquier maquinaria microscópica.
+El dominio de estudio de las nanomáquinas es la nanotecnología.
+Existen quienes creen que será posible en el futuro construir nanomáquinas capaces de manipular objetos en la escala molecular, de tal modo que sea posible construir moléculas sobre pedido, tal idea se le llama nanotecnología molecular.
+Aunque ya existen mecanismos y métodos capaces de construir ingenios de talla microscópica (incluso atómica), la idea de una máquina microscópica capaz de ensamblar moléculas sobre pedido es todavía una simple especulación.
+La escala en que son utilizadas las nanomáquinas provoca que éstas se elaboren con métodos particulares, y que funcionen con principios fundamentalmente diferentes de la tecnología en la micro y mesoescala.
+A la escala microscópica, se tornan significativos factores como la tensión superficial y las fuerzas electrostáticas.
+Y para los mecanismos realmente en la escala de los nanómetros, las fuerzas de Van der Waals o los fenómenos cuánticos.
+El primero en sugerir la idea de nanomáquina fue el físico Richard Feynman, en una charla de 1959 titulada "Hay espacio de sobra en el fondo" (There's plenty of room at the bottom), en la cual sugirió un método para poder manipular los átomos y las moléculas de manera "más directa" que la tecnología química o mecánica disponible actualmente.
+Tal proposición se centraba en la idea de construir maquinaria capaz de crear maquinaria diez veces menor que sí misma, para crear con ella maquinaria que crearía maquinaria otra vez diez veces menor, hasta llegar a la escala molecular, donde la maquinaria ya ensamblase átomos y moléculas.
+Feynman ya reconocía que las fuerzas relevantes a esa escala serían muy distintas que las que nos afectan a nosotros en nuestra escala macroscópica.

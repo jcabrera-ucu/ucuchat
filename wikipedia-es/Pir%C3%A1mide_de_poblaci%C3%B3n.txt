@@ -1,0 +1,39 @@
+La pirámide de población o pirámide demográfica es un histograma o gráfico de barras dispuestas horizontalmente cuya longitud es proporcional a la cantidad de personas que representa la edad y sexo de la población en cada una de dichas barras y dicha información sirve para saber el porcentaje de la población.
+Gráficamente se trata de un doble histograma de frecuencias.
+Las barras del doble histograma de una u otra forma disponen en forma horizontal, es decir, sobre la línea de las abscisas, y convencionalmente se indican los grupos de edad de la población masculina a la izquierda y los que representan la población femenina a la derecha.
+A su vez, en el eje de las ordenadas se disponen e identifican los grupos de edades, por lo general, de cinco en cinco años o llamados quinquenales: (0 a 4, 5 a 9, 10 a 14, etc.), colocando las barras de menor edad en la parte inferior del gráfico y aumentando progresivamente hacia la cúspide las edades de cada intervalo.
+Podría decirse que los cumpleaños de cada grupo de cinco en cinco años, constituyen el momento de separación de una barra de la siguiente.
+Así, la barra de 0 a 4 años incluye a todos los niños entre el momento de su nacimiento (0 años) y el 5º cumpleaños.
+De esta manera al momento de cumplir 5 años, pasará a formar parte de la barra superior o quinquenio siguiente: (5 a 9 años).
+Cuando existe una información detallada (nacimientos y defunciones anuales) podemos elaborar una pirámide poblacional también con esa información detallada (barras de año en año).
+La escala de las abscisas puede representar valores absolutos (es decir, número de habitantes de cada grupo de edad y sexo), como sucede en la que corresponde a los datos de Angola, o relativos, es decir, porcentajes de cada grupo de edad y sexo con relación a la población total, como en la pirámide de población de Francia.
+La ventaja de mostrar los datos en porcentajes es que podríamos comparar dos pirámides de población en distinto lugar y tiempo, ya que se basan valores relativos.
+En este caso es importante considerar las diferencias en lugar y tiempo ya que las estructuras por edad y sexo que representan estas pirámides demográficas son afectadas por la dinámica demográfica.
+Este tipo de gráfico toma su nombre de la forma que adopta en las sociedades que tienen una población con una amplia base debido al gran número de nacimientos y que se estrecha paulatinamente por la mortalidad creciente y acumulativa a medida que aumenta la edad de la población.
+Sin embargo, no todas las poblaciones adquieren esta forma gráfica.
+y tiene que ver con los factores que en demografía se conocen como la dinámica demográfica: los nacimientos, las muertes y las personas que migran (emigración - inmigración).
+Las características sociales y demográficas varían de una población en un lugar y tiempo determinado a otro.
+La estructura de la población y sus características dependerán de los factores de la dinámica demográfica compuesta por tres factores: mortalidad, fecundidad y migración.
+La combinación en la tendencia e intensidad de estos tres factores, así como el tamaño de la población propiamente dicha, definirá sus características demográficas.
+Por lo que es difícil hacer generalizaciones en relación con estas características:
+La información sirve para la elaboración de una pirámide demográfica es el total de población en un lugar y momento determinado y distribuido por edad y sexo.
+Esta distribución servirá para poder elaborar la pirámide y, representará cada bloque el número de personas que se encuentran en una edad determinada dividida por sexo.
+Esta distribución puede representarse en números absolutos o relativos.
+sin embargo, para poder hacer comparable la gráfica es mejor utilizar el número relativo de población distribuido por edad por sexo.
+Cada bloque representará una edad para hombres y se podrá del lado izquierdo y, para las mujeres del lado derecho.
+Los relativos son más apropiados cuando nos interesa comparar la composición de la población de distintos países, o bien de un mismo país en distinto momentos en su historia.
+Para la construcción de una pirámide de edad los porcentajes, cuando analizamos los grupos quinquenales y por sexo, debe estimarse de acuerdo con la población total y no de acuerdo a la población total de cada sexo.
+Iniciando por los grupos de menor edad, 0 - 4 años de edad hasta los grupos de edad avanzada en la cúspide.
+Por lo general el último grupo de población de una pirámide de edad corresponde a un grupo de edad denominado «grupo abierto» puesto que se incluyen las edades más avanzadas como lo son 80 y más o bien según sea el caso y la cantidad de personas en estos grupos de edad como 90 y más.
+Los datos absolutos se pueden transformar en relativos mediante una regla de tres: la población total (en cifras absolutas) es a 100 como la población de cada grupo de edad y sexo es a x. Entonces se multiplica la población masculina o femenina de cada grupo de edad por 100 y el resultado se divide entre la población total.
+Los distintos tipos de pirámides de población como «fotografía» de la estructura por edad de la población puede adquirir distintas formas.
+Una estructura con población joven que corresponde a una base ancha, con una cima pequeña y que muestra la clásica figura de una pirámide propiamente dicha, en la que se muestran numerosos nacimientos (grupo 0-4) que con el tiempo disminuyen conforme se observa a la población que avanza la edad, disminución que puede deberse no solo a la mortalidad diferencial por sexo y edad sino también por las diferencias existentes en la migración de las personas que la componen.
+Otra que ilustra a una población que podríamos llamar «madura», donde se muestra un porcentaje cada vez menor de la base de la pirámide, pero que conforman una pirámide con tendencia a una mayor supervivencia de los grupos de jóvenes, adultos y adultos mayores, caracterizada como una estructura madura.
+La fotografía de este tipo de Pirámide de edades, ilustra una población en transformación donde ya se nota la disminución de la fecundidad y con ésta los nacimientos, así como de la mayor supervivencia de la población a todas las edades.
+Es, podríamos decir una población que tiende al envejecimiento, con cada vez una mayor proporción de población que sobrevive la infancia, la adolescencia y llega a la vida adulta.
+Por otro lado podríamos caracterizar una pirámide de población envejecida propiamente dicha, cuya base es cada vez más angosta, pues los nacimientos en el tiempo cada vez son menos, engrosándose en cambio los grupos de población adulta, adultos mayores y viejos.
+En la pirámide de los Emiratos Árabes Unidos puede verse fácilmente ese desequilibrio debido a la fuerte inmigración de varones jóvenes en edad de trabajar en la explotación de los recursos petroleros o en la construcción.
+Por el contrario, las barras correspondientes a las mujeres de todas las edades y a los niños de los dos sexos, están muy reducidas.
+Este caso no es el único tipo de desequilibrios que puede producirse y existe otro en el que el desequilibrio es casi el opuesto al que aquí se indica: es el que a una población que acaba de atravesar una guerra, el número de varones jóvenes es muy escaso y el de las mujeres y niños es mucho mayor.
+Es el caso de Alemania después de la segunda guerra mundial y en otros casos.
+Los distintos tipos de pirámides de población tienen a escala local o regional, variaciones bastante notables, lo que se debe a las distintas composiciones demográficas de la población según sean las características geográficas del área:

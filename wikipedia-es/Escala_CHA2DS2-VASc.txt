@@ -1,0 +1,28 @@
+La escala CHADS2 y su versión actualizada CHA2DS2-VASc son reglas de predicción clínica que permiten estimar el riesgo de accidente cerebrovascular (ACV) en pacientes con fibrilación auricular, una arritmia frecuente que predispone a la ocurrencia de accidente cerebrovascular tromboembólico.
+La fibrilación auricular facilita la formación de trombos en las paredes de las aurículas, al enlentecer el flujo sanguíneo a través de ellas.
+Estos trombos pueden desprenderse e ingresar al torrente sanguíneo, entrar a la circulación cerebral y bloquear el flujo sanguíneo hacia el cerebro, y de esta forma ocasionar un accidente cerebrovascular.
+Es por ello que se utilizan escalas como éstas, para determinar si el riesgo de accidente cerebrovascular justifica iniciar tratamiento anticoagulante.
+Una puntuación alta corresponde a un mayor riesgo de ACV, mientras que una puntuación baja corresponde a un menor riesgo de ACV.
+La puntuación CHADS2 es simple y ha sido validado por muchos estudios.
+En el uso clínico, la puntuación CHADS2 (pronunciado «chads dos») ha sido sustituida por la puntuación CHA2DS2-VASc ( «Chads Vasc»), lo que da una mejor estratificación de los pacientes de bajo riesgo.
+La puntuación CHADS2 no incluye algunos factores comunes de riesgo de ictus, y sus diversas ventajas / desventajas son cuidadosamente discutidas.
+La tabla de puntuación CHADS2 se muestra aquí.
+La suma de los puntos que se corresponden con las condiciones que se presentan los resultados en la puntuación CHADS2, que se utiliza para estimar el riesgo de accidente cerebrovascular (ACV).
+Congestive heart failure (Falla cardiaca congestiva)
+Hypertension (Hipertensión)
+Age (Edad)
+Diabetes mellitus
+Stroke (ACV)
+Vascular disease (enfermedad vascular)
+Age (Edad)
+Sex (Sexo)
+Para complementar la puntuación CHADS2, por la inclusión de factores de riesgo de los modificadores del riesgo de ACV adicionales, se ha propuesto la puntuación CHA2DS2-VASc.
+Por lo tanto, la puntuación CHA2DS2-VASc es un refinamiento de la puntuación CHADS2 y se extiende este último mediante la inclusión adicional de ACV factores de riesgo común que son: Edad entre 65 y 74 años, sexo femenino y la enfermedad vascular.
+En la puntuación CHA2DS2-VASc, 'la edad de 75 y más' también tiene un peso extra, con 2 puntos.
+La puntuación máxima CHADS2 es 6, mientras que la puntuación máxima CHA2DS2-VASc es 9 (no 10, como podría esperarse de la simple adición de las columnas; la puntuación máxima es de 2 puntos por edad).
+La puntuación CHA2DS2-VASc se ha utilizado en las directrices de 2012 de la Sociedad Europea de Cardiología para el manejo de la FA.
+Las guías de practica clínica del American College of Cardiology/Grupo de Trabajo de la American Heart Association de 2014 y las guías de la Heart Rhythm Society también recomiendan el uso de la puntuación CHA2DS2-VASc.
+Las recomendaciones de tratamiento basadas en la puntuación CHA2DS2-VASc se muestran en la siguiente tabla:
+Sobre la base de las directrices de la ESC sobre la FA, se recomienda anticoagulación oral para pacientes con uno o prefiere o lo hará más factores de riesgo de ACV (es decir, a la puntuación CHA2DS2-VASc de ≥1 en los machos o hembras, en ≥2).
+Esto es consistente con un modelo reciente análisis de decisión que muestra cómo el 'punto de inflexión' en la decisión de anticoagular ha cambiado con la disponibilidad de los medicamentos No-AVK 'más seguros', en el que el umbral para ofrecer la prevención del ictus (es decir anticoagulante oral) es un número de ACV aproximadamente de 1% / año.
+Aquellos pacientes recomendados para el tratamiento de la prevención del ictus mediante la anticoagulación oral, elección del fármaco (es decir, entre un antagonistas de vitamina K y no antagonistas de vitamina K anticoagulante oral [No-AVK]) puede ser evaluada mediante la puntuación SAMe-TT2R2 para ayudar a la toma de decisiones en la mayor parte anticoagulante oral apropiado.

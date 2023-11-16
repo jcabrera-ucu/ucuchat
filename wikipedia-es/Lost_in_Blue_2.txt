@@ -1,0 +1,33 @@
+Lost in Blue 2 es un juego de supervivencia desarrollado por Software Matricial y publicado por Konami para Nintendo DS.
+Es la secuela de Lost in Blue.
+Los protagonistas son Jack y Amy, dos jóvenes adolescentes que han naufragado en una isla desierta.
+El jugador puede escoger ser Jack, el personaje masculino, o Amy, el personaje femenino.
+El jugador asume la mayor parte de las responsabilidades del campamento, pero puede pedir favores a su compañero, como cocinar, fabricar cuerdas con lianas o recoger leña.
+Cada personaje tiene habilidades especiales, por ejemplo, Jack es capaz de escalar el doble de altura que su compañera, es mejor cocinando y es un luchador más fuerte.
+Por otro lado, Amy es mejor nadadora, puede encontrar comida con más facilidad y tiene más puntería con las armas a distancia cuando caza animales.
+Todo el juego puede jugarse con la pantalla táctil, o una combinación de botones y la pantalla táctil.
+La pantalla inferior muestra una vista isométrica de la zona mientras el jugador mueve a su personaje por el entorno.
+También se utiliza en los minijuegos para cocinar, cazar, fabricar muebles, pescar, sacudir árboles y cavar en la tierra, entre otras tareas.
+La pantalla superior tiene tres modos de visualización.
+El modo uno muestra la salud general de ambos personajes.
+Esto se muestra mediante un total de cuatro indicadores.
+Tres de ellos muestran la resistencia, el hambre y la sed.
+Cuando uno o más de esos tres alcanza el 0%, el medidor de salud comienza a agotarse, lo que provocará la muerte de ese personaje al llegar al 0%.
+El modo dos muestra el mapa de la ubicación actual del personaje e incluye las ubicaciones de ambos personajes.
+El modo tres es una imagen de la isla cubierta de niebla, y cuanto más se explora la isla, más desaparece la niebla hasta que se revela toda la isla.
+Al inicio del juego, se reproduce una breve escena que muestra al personaje del jugador en un barco que se está hundiendo.
+Después de la escena, el personaje (Amy o Jack, dependiendo de quién elija el jugador al principio del juego) se despierta en la playa (en esta parte del juego, los personajes de la pantalla se mueven y hablan sin que el jugador los controle, pero se ilustra igual que el juego real. Estas "autoescenas" se producen cada vez que se llega a un punto de inflexión importante en el juego).
+El personaje dice que debe buscar supervivientes.
+En este punto, el juego comienza y el jugador es libre de vagar por la playa.
+En un momento dado, se acercará al personaje compañero, y una escena automática los presentará a los dos.
+Sus primeros objetivos serán encontrar comida, refugio y agua.
+Una vez que encuentren refugio en una cueva cercana, los siguientes días se dedicarán a reunir suficiente comida, agua y leña para sobrevivir a las labores de cada día.
+Tras varios días de juego, el personaje podrá empezar a explorar sus alrededores y encontrar las diferentes zonas de la isla.
+A lo largo del viaje, el personaje pescará, cazará, construirá muebles, construirá una casa-árbol, desarrollará diferentes herramientas, explorará innumerables métodos de cocina y recogerá objetos de la playa, la selva, el bosque y las praderas.
+También deben luchar o evitar enemigos como lobos, serpientes, arañas, tigres, cocodrilos y gorilas.
+El objetivo final es, por supuesto, ser rescatado de la isla.
+El juego ofrece varios finales diferentes, que dependen de las acciones que realice el personaje durante la partida.
+Si el medidor de salud del personaje llega a cero, morirá y el juego terminará.
+Sin embargo, hay varias formas de ser rescatado, y hay un límite de 365 días en el juego.
+Si los personajes consiguen llegar a los 365 días, el juego termina automáticamente y siguen en la isla, pero ganan y sobreviven.
+El juego recibió "críticas" medias según Metacritic.

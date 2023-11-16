@@ -1,0 +1,43 @@
+Juan Carlos Rossi Belgrano (Buenos Aires, 26 de enero de 1941) es un Doctor en Química de la Facultad de Ciencias Exactas de la Universidad  de Buenos Aires.
+Se desempeñó como investigador científico becado por el Conicet.
+Desarrolló un potencial de par basado en dos parámetros para interpretar las  características fisicoquímicas de los  gases nobles pesados y poderlas explicar a través de modelos de la mecánica cuántica.
+El resultado de sus investigaciones tuvo muchas aplicaciones posteriores en el estudio de la estructura molecular.
+Realizó sus estudios secundarios en el Colegio San José, siendo el mejor promedio de su promoción.
+Al egresar inició su formación universitaria en la Facultad de Ciencias Exactas y Naturales de la Universidad  de Buenos Aires que se encontraba en el viejo edificio de Perú 222, de la histórica Manzana de las Luces.
+En 1960 comenzó su actividad docente como Ayudante de 2º del departamento de Química Inorgánica, Analítica y Química Física de la Facultad.
+En 1962 alcanzó el grado de Licenciado en Ciencias Químicas, recibiendo el correspondiente diploma de las manos del Dr.Manuel Sadosky
+En 1963 fue admitido como aspirante al doctorado asignándole como consejero de estudios al Dr. F. Danon.
+El tema de investigación era: "Interacciones moleculares en gases nobles sólidos".
+En ese mismo año se lo nombró Ayudante de 1ª con dedicación exclusiva y en base a su destacado rendimiento se le concedió una beca interna, otorgada por el Consejo Nacional de Investigaciones Científicas y Técnicas.
+Al año siguiente fue nombrado Jefe de Laboratorio de Química General e lnorgánica del Dr. R. Bush.
+Mientras se desempeñaba como docente realizaba sus investigaciones con el fin de alcanzar el doctorado y colaboraba como delegado de los tesistas en la Comisión de Doctorado, los otros integrantes eran muy reconocidos miembros de la Facultad: el Dr. Alberto González Domínguez, el Dr. Luis Santaló y el Dr. Luis Leloir.
+Una de sus propuestas, aprobada por la Comisión, consistió que la publicación de las tesis de doctorado estuviera a cargo de la Facultad.
+En su primer trabajo, presentado a la Faraday Society en marzo de 1964, explicaba que todos los potenciales calculados hasta ese entonces fallaban al determinar la estructura cristalina de los gases nobles pesados, pues establecían que debía ser más estable el sistema hexagonal compacto y sin embargo cristalizan en el sistema cúbico centrado en las caras.
+A través de la investigación de Rossi Belgrano se determinó que era necesario considerar correcciones de fuerzas no aditivas para explicar el problema estructural y que la inclusión de la energía de tripletes de Axilrod, reformulada por Kihara, explica la estabilidad  de la estructura cúbica para el kripton y el xenón, reduciendo sensiblemente la diferencia para el caso del argón.
+Su segunda obra, presentada en 1964 como tesis doctoral, planteó un nuevo modelo utilizando un potencial de par de dos parámetros, basado en el potencial de Kihara y modificado mediante el factor acéntrico de Kenneth Pitzer, para explicar propiedades macroscópicas de los gases nobles como Argón, Kriptón y Xenón, en términos de las fuerzas intermoleculares.
+La principal dificultad se encontraba en que debían adaptarse las funciones mecánico-estadísticas que se aplicaban a pares de moléculas a las interacciones entre muchos cuerpos.
+Por ello se consideraba a la energía total del sistema como suma de las energías de los pares de moléculas mediante la llamada “hipótesis de aditividad  de potenciales”.
+Bajo estas premisas se decidió innovar en el procedimiento de cálculo del potencial analizando dos factores simultáneamente, las medidas experimentales del segundo coeficiente de virial y la viscosidad.
+El potencial hallado reprodujo los datos experimentales mejor que cualquier otro, incluido el de Lennard Jones, el más utilizado en aquellos tiempos.
+Para realizar los cálculos necesarios en los dos programas de optimización que se corrieron se utilizó a la famosa Clementina, la primera computadora argentina, que se encontraba en el Instituto de Cálculo, sito en el recientemente construido Pabellón I de la Ciudad Universitaria.
+Los programas fueron realizados por la profesora Rebeca Guber en lenguaje Mercury Autocode.
+Continuando con el estudio anterior, pero disponiendo de datos más precisos sobre el coeficiente del segundo virial a bajas temperaturas, se pudieron realizar test más rigurosos para el nuevo potencial determinado por Rossi Belgrano.
+Los resultados mostraron una precisión mucho mayor que la que presentaba el potencial de Lennard Jones y fortalecieron la validez del modelo.
+Para ese momento los resultados habían alcanzado amplia difusión a nivel mundial y se recibían de Universidades y Laboratorios de todo el mundo notas estandarizadas para que se les enviara una copia, eran los "Reprints".
+Rossi Belgrano preparaba las copias y las llevaba a la facultad, que se hacía cargo del franqueo y del envío.
+Al principio todo marchó sobre ruedas, pero eran tantos cientos de pedidos que, desde la universidad, le pidieron que no preparara más encomiendas pues no podían afrontar los gastos de tantos envíos a distantes destinos.
+En agosto de 1965, junto al Dr. Danon, publicó un breve informe en el que se estudiaban las propiedades de transporte a través del nuevo modelo de dos variables.
+En esta propiedad también se encuentra gran concordancia entre la modelización y la observación empírica, mejorando los “Ratios Levelt” tanto para el virial como para la viscosidad.
+En el mismo año la Faraday Society organizó en Londres un simposio denominado “Discusión General sobre las Fuerzas Intermoleculares”.
+Las exposiciones presentaban un neto predominio de investigadores norteamericanos e ingleses, junto a la presencia de algunos rusos y suizos, el único trabajo presentado (y aceptado) por Latinoamérica fue la tesis de Rossi Belgrano.
+En un reporte de la I&EC se señalaba que este estudio sea, posiblemente la primera vez en que las propiedades de transporte son estudiadas en base a los estados correspondientes.
+Los resultados indican que, como otras propiedades termodinámicas, el coeficiente de viscosidad sigue el principio de estados correspondientes.
+Este principio, usado tanto en la mecánica cuántica como en los desarrollos semiempíricos, puede ser la llave que vincule ambos mundos y que esto puede tener muchas utilidades en el mundo industrial.
+El 29 de julio de 1966, su carrera de Investigador en la Facultad de Buenos Aires tuvo un abrupto final con la Noche de los Bastones Largos, que produjo su renuncia al igual que la de más de 400 de sus compañeros y puso fin a una “época de oro” de esa casa de estudios.
+A pesar de las distintas ofertas que recibió de Universidades extranjeras prefirió quedarse en el país y pasó a desempeñarse en la actividad privada, aplicando sus conocimientos en las industrias del papel, tintas y pinturas en estrecha colaboración con el I.N.T.I.
+En 1981 publicó un trabajo sobre “Características superficiales del papel estucado para hueco grabado y su relación con la calidad de impresión” en donde se estudiaron las características físico químicas del papel en relación con la impresión resultante, concluyendo que, además de la rugosidad y compresibilidad del papel, deben considerarse aspectos tales como la tensión superficial en la interfase papel-tinta, los mecanismos de absorción, etc.
+En 1982 realizó otra investigación publicada como “Papeles de Diario Satinados” en conjunción con CICELPA-INTI, que resumía dos años de trabajo y establecía parámetros relativos a la norma de aceptación de partidas por parte del comprador.
+Se evaluaron variables tales como brillo, definición de retícula y puntos faltantes, así como las diferencias entre cara fieltro y cara tela.
+En ese mismo año estableció que podía sustituirse con éxito el caolín importado por el talco nacional como carga en la impresión por huecograbado.
+Conclusiones presentadas en “Papeles para Impresión por Huecograbado”
+En 1983 publicó un informe “Estudio de la Composición y Propiedades Físicas del Papel de Diario Alisado y su relación con la calidad de Impresión en Huecograbado” en el cual se determinaron parámetros con objeto de poder determinar la calidad del papel antes de su entrada a máquina y un método experimental para determinar su microporosidad.

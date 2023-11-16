@@ -1,0 +1,13 @@
+El Onyx 3000 y Onyx 300 son una familia de sistemas de visualización diseñado y fabricado por SGI, como una variante del Origin 3000.
+El hardware de gráficos está contenido dentro de los G-brick que alojan los subsistemas gráficos InfiniteReality3 o InfiniteReality4, o los V-brick que alojan los subsistemas gráficos InfinitePerformance (VPro).
+El número de G-brick o V-brick que un sistema admite escala linealmente con el número de C-brick presentes.
+Los sistemas deben usar G-brick o V-brick, ya que estas opciones no se pueden mezclar.
+El Onyx 3000 originalmente usó InfiniteReality3.
+Fue precedido por el Onyx2, siendo sucedido por el Onyx4 y el Prism basado en Itanium en 2004, y el último modelo fue descontinuado el 25 de marzo de 2005.
+El G-brick es un gabinete de 18U de altura que admite el subsistema de gráficos InfiniteReality.
+Cada G-brick puede admitir dos canales gráficos InfiniteReality3 o InfiniteReality4, aunque solo un canal puede tener cuatro paneles de administración de trama mientras que el otro puede tener dos.
+El G-brick se conecta al sistema mediante cables Crosstown2.
+El V-brick es un gabinete de 4U de altura que admite dos canales de gráficos InfinitePerformance.
+Cada canal gráfico consta de una tarjeta gráfica SGI VPro V12 de 128 MB. El V-brick se conecta al sistema mediante cables Crosstown2.
+El N-brick es un gabinete de 2U de altura que permite que los C-brick se conecten a los G-brick sin usar X-brick o I-brick, lo que ahorra espacio ya que los otros bloques son más altos.
+El N-brick fue diseñado para configuraciones donde no se requerían capacidades de E/S.

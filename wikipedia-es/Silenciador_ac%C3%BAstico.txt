@@ -1,0 +1,20 @@
+Un silenciador acústico puede describirse como un filtro acústico que se inserta en conductos que transportan fluidos, escapes de fluidos o en admisión a equipos que trasiegan fluidos, con objeto de reducir los niveles de emisión sonora hacia ambientes exteriores o en otras zonas del circuito por donde se realiza el transporte del fluido.
+Este tipo de filtro acústico es de aplicación a una gran variedad de casos y situaciones donde la reducción de los niveles de ruido provocado por el transporte de estos gases se hace imprescindible: turbinas de gas, motores diesel, compresores, torres de refrigeración, ventiladores, plantas de energía, supresores, líneas de transporte de gases, scrubbers, refinerías, sistemas de climatización, etc
+Los silenciadores se clasifican en función de su forma de operar, en reactivos, disipativos y de materiales porosos, pudiendo un mismo silenciador operar utilizando las modalidades reactivos-disipativos.
+Son conocidos en la literatura técnica también por “emufflers” y “silencer”.
+Son utilizados para el control de sonidos con un espectro de baja frecuencia.
+Operan por reflexión, esto es, una onda sonora que se mueva a través de una conducción llega a una discontinuidad, donde la impedancia acústica es mucho más alta o mucho más baja que la impedancia característica del conducto.
+En consecuencia, solo una pequeña parte de la energía fluye a través de la discontinuidad, el resto de la energía se convierte en una onda reflejada, que se origina en la discontinuidad y vuelve en dirección a la fuente.
+Los silenciadores reactivos son utilizados frecuentemente cuando el ruido que debe reducirse contiene bien tonos puros a frecuencias fijas, o bien en el margen de frecuencias bajas.
+Es aconsejable también su utilización para operar con fluidos calientes, sucios o a velocidades elevadas.
+El costo de fabricación no es alto y requieren poco mantenimiento.
+No obstante, tienen la dificultad de su gran complejidad de diseño.
+Los silenciadores reactivos pierden su efectividad cuando se utilizan en conductos de gran diámetro y a altas frecuencias.
+Son conocidos vulgarmente en la literatura anglosajona por “attenuator”; se utiliza para el control de ruido a media y alta frecuencia.
+Operan por absorción de una gran parte de la energía incidente en el interior de los conductos por transformación calorífica.
+Están formadas por cámaras y conductos que han sido revestidos por materiales con elevado coeficiente de absorción.
+La absorción conseguida es función del coeficiente de absorción de los materiales que se utilicen en el revestimiento y de la cantidad de material que se utilice, esto es, de la superficie de revestimiento y cómo se utilice.
+La atenuación sonora a conseguir con estos silenciadores está limitada por el ruido regenerado o “self-noise”, que se producirá por el rozamiento del fluido sobre las superficies absorbentes que recubren las paredes del silenciador o conductos.
+Se basan en la reducción del ruido por una disminución de la velocidad de salida del fluido a su través, así como por el efecto pantalla proporcionado por la superficie porosa.
+Normalmente se utiliza como superficie porosa el bronce y la cerámica.
+Su efecto acústico es fundamental en medias y altas frecuencias.

@@ -1,0 +1,10 @@
+(128) Nemesis es un asteroide que forma parte del cinturón de asteroides y fue descubierto en 1872 por James Craig Watson.
+Nemesis fue descubierto el 25 de noviembre de 1872 por James Craig Watson desde el observatorio Detroit de Ann Arbor, Estados Unidos, e independientemente el 5 de diciembre del mismo año por Alphonse Borrelly desde el observatorio de Marsella, Francia.
+Está nombrado por Némesis, diosa griega de la venganza.
+Nemesis está situado a una distancia media de 2,752 ua del Sol, pudiendo acercarse hasta 2,408 ua.
+Tiene una excentricidad de 0,1249 y una inclinación orbital de 6,246°.
+Emplea 1668 días en completar una órbita alrededor del Sol.
+La magnitud absoluta de Nemesis es 7,49.
+Tiene un diámetro de 188,2 km y un periodo de rotación de 39 horas.
+Su albedo se estima en 0,0504.
+Nemesis está clasificado en el tipo espectral C.

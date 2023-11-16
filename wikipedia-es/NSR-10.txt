@@ -1,0 +1,8 @@
+El Reglamento Colombiano de Construcción Sismo Resistente (NSR-10) es el reglamento colombiano encargado de regular las condiciones con las que deben contar las construcciones con el fin de que la respuesta estructural a un sismo sea favorable.
+Fue promulgada por el Decreto 926 del 19 de marzo de 2010, el cual fue sancionado por el entonces presidente Álvaro Uribe.
+Posteriormente al decreto 926 de 2010 han sido introducidas modificaciones en los decretos 2525 del 13 de julio de 2010, 092 del 17 de enero de 2011, 340 del 13 de febrero de 2012 y 945 del 5 de junio de 2017.
+La norma fue sometida a evaluación durante tres años, hasta que obtuvo la aprobación por parte de los ministerios de Ambiente Vivienda y Desarrollo Territorial, de Transporte y del Interior.
+Uno de los puntos más relevantes de esta versión es el nuevo mapa de sismicidad elaborado por la Red Sismológica Nacional adscrita al Ingeominas, que permite identificar de manera más acertada zonas de amenaza sísmica.
+Este permitirá hacer variaciones en los diseños estructurales, dependiendo de si la zona es alta, intermedia o baja.
+Para realizar este mapa se registraron entre 1995 y el 2009 alrededor de 22.000 eventos adicionales (a los 13000 que crearon la versión NSR-98) que permitieron realizar un mejor estimativo.
+Por lo tanto cabe resaltar y aclarar que esta norma está hecha por entes colombianos y no se especifica el uso del mismo para otras regiones.

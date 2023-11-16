@@ -1,0 +1,44 @@
+El yuchi es una lengua indígena de América hablada por los yuchis de Oklahoma.
+Se trata de una lengua aislada.
+En 1972 quedaban aproximadamente unos 500 indios yuchi, aunque solo un 35% de ellos hablaba fluidamente la lengua.
+Parece que en el los yuchis se localizaban al oeste de los Apalaches y al este de Tennessee.
+Los yuchi migraron desde Georgia hasta su ubicación actual en Sapulpa (Oklahoma) durante la gran expulsión de indios entre 1836-1840.
+Comúnmente se considera una lengua aislada.
+Aunque se han propuesto numerosos parentesco con otras lenguas, ninguna de estas propuestas tiene un apoyo firme.
+Sapir (1921, 1929) lo relacionó con su filo sioux-hokano; Elmendorf (1964) trató relacionarlo con las lenguas yuki-wappo de California.
+Crawford al igual que otros autores considera que existe una prometedroa hipótesis de relación con las lenguas sioux, aunque por el momento la evidencia es insuficiente para concluir que efectivamente existe un parentesco fuera de toda duda.
+El yuchi no tuvo una ortografía establecida hasta la década de 1970, cuando James Crawford y Addie Georged crearon una transcripción fonética que hoy es usada por los yuchis para escribir su lengua.
+Desde el punto de vista de la tipología lingüística, el yuchi parece ser una lengua aglutinante en la que un número considerable de morfemas se unen para construir productivamente nuevas palabras.
+El orden básico es SOV
+Además la lengua usa clíticos y fonemas conocidos como "partículas" para expresar una variedad de categorías que incluyen posesivos, casos, locativos, instrumentales, simulativos, ablativos y demostrativos.
+También existen partículas monosilábicas para usos locativos y adverbiales con un significado muy general, que junto con otras partículas pueden tener un significado totalmente diferente al original.
+El Yuchi tiene un sistema pronombres de tercera persona peculiar.
+Para referirse a personas yuchis, la tercera persona se conoce como lehénu, y se divide en una forma masculina (lesséno) y una femenina (léno).
+En cambio para personas no-yuchis, la forma usada es una forma despectiva que es lewénu ("ellos, esos").
+Esta peculiaridad está relacionada con cómo se han visto históricamente los yuchis como una tribu singular, que históricamente ha estado muy aislada
+<!-- ==Phonology==
+The language has 49 sounds, 38 of which are consonants, and the remaining 11 are vowels.
+This number is more than twice the number of most Southeastern Native American Languages.
+The vowel sounds can be oral or nasal, short or long, with 16 tongue positions and 13 vocalic phonemes (i, e, ä, a, o, u, ̗i, ̗e, ̗ä, ̗a, ̗o, ̗u, and length / ̇ /).
+The consonants of Yuchi are listed below (with IPA notation in brackets):
+The consonants are divided into contrasting and non-contrasting, with subcategories of voiced and voiceless.
+The contrasting voiced consonants are as follows: b, d, g, and j + ˘, while the contrasting voiceless consonants include o, t, k, and č.
+The voiced non-contrasting consonants are n, l, w, and y, and the voiceless non-contrasting consonants are f, s, š, h, c, ˤ, and λ.
+Yuchi people were originally native to various areas of the southeastern United States.
+However, speakers of the Yuchi language were forcibly relocated with the Muscogee (Creek) people to Oklahoma prior to the Trail of Tears.
+Because of the language's past of removal and state of being forbidden, there have been several changes which have changed the way the language is spoken.
+In 1885, Swiss linguist Albert S. Gatschet wrote an article in the publication Science, which indicated various linguistic idiosyncrasies.
+He claimed that adjectives are not expressed with number, but nouns are with the addition of the particle ha (coming from the original term wahále, meaning many) which made the word essentially plural.
+He also claimed that the language was no longer in an archaic state due to the lack of a "dual," and that the language had temporal and personal inflection.
+Gatschet also did lots of field study and documentation regarding the language, many of his original vocabulary lists can be found at the National Anthropological Archives or on their website.
+Later on, Frank G. Speck published Ethnology of Yuchi Indians in 1907.
+This publication provided slightly different information.
+It claimed that there was only one dialect, that inflection was not a characteristic, and that there was no true plural.
+This information contradicts the study made by Albert S. Gatschet in the century beforehand.
+Speck also claimed that there was only one dialect of the language.
+There was, however, one linguistic idiosyncrasy upon which they agreed, which was the case of the third person.
+In 1997, the Euchees United Cultural Historical Educational Efforts (E.U.C.H.E.E.) published a work entitled Euchees: Past and Present, which provided more modern information regarding the language.
+The organization claims that today there are in fact now two dialects, differentiating between the Duckcreek/Polecat and Bigpond areas.
+This contradicts the study done by Speck, in which he claimed there was only one dialect.
+The Yuchi people and language are the subject of a chapter in Spoken Here: Travels Among Threatened Languages, a book on endangered languages by Mark Abley.
+-->

@@ -1,0 +1,37 @@
+Punycode (código púny) es una sintaxis de codificación usada en programación que usa una cadena Unicode que puede ser traducida en una cadena de caracteres más limitada compatible con los nombres de red.
+La sintaxis está publicada en Internet en el documento RFC 3492.
+La codificación es usada como parte de IDNA, que es un sistema que habilita el uso de IDNA (iniciales de nombres de dominios internacionalizados en inglés) en todos los archivos de órdenes soportados por Unicode.
+Esta sección demuestra el procedimiento para la codificación Punycode mostrando como la cadena “bücher” es convertido en “bcher-kva”.
+Primero todos los caracteres ASCII son copiados directamente desde la entrada a la salida saltando sobre otros caracteres (por ejemplo: “bücher” → “bcher-”)
+También conocido como “Código ACE”.
+Para entender la parte siguiente del proceso de codificación necesitamos comprender primero como funciona el decodificador, el mismo es una máquina de estado con dos variables de estado “i” y “n”.
+“I” es un índice dentro del rango de cadena que va desde cero (representando una potencial inserción al comienzo) hasta la longitud actual de la cadena extendida (representando una eventual inserción al final).
+I comienza en cero mientras que “n”' comienza en 128 (el primer carácter NO-ASCII).
+La progresión del estado es monótonica.
+Cuando un estado cambia incrementa “i” o bien si ya está en el valor máximo lo resetea a “0” e incrementa “n”.
+Con cada cambio de estado, el punto código señalado por “n” es o no es insertado.
+Si “ü” tiene código de punto 252, se obtiene la posibilidad de insertarlo en la posición uno si es necesario saltar sobre las seis inserciones potenciales sobre cada una de los 124 códigos ASCII precedentes y una posible inserción (en la posición cero) del punto de código 252.
+Esto es porque se necesita decirle al decodificador que saltee (6*124) + 1 = 745 inserciones posibles después de obtener la requerida.
+Unicode usa enteros de longitud variable para representar estos valores.
+Por ejemplo, esto es como “kva” es usado para representar el código numérico 745.
+Un sistema numérico con endianness es usado para permitir códigos de longitud variable con delimitadores separados: un bit más bajo
+que una marca de umbral que es el dígito más significante, por lo tanto el final del número.
+El valor del umbral depende de la posición en el número y también de inserciones previas, para aumentar la eficiencia.
+Varia correspondientemente al peso de los números.
+Se usa un sistema de numeración en base 36, con los caracteres de la “a” hasta la “z” representado a los números 0 a 25 y los caracteres “0” a “9” representando a los números 26 a 35,por lo tanto la cadena “kva” se correspondería a “10 21 0” (k = 10, v =21 , a =0).
+Para decodificar esta cadena de dígitos, el umbral comienza como 1 y el peso es de 1.
+El primer dígito es el de las unidades, 10 con un peso de 1 es igual a 10.
+Después de esto, el valor umbral se ajusta.
+En aras de la simplicidad, asumamos que es ahora 2.
+La segunda cifra tiene un peso de 36 menos el valor umbral anterior, en este caso, 35.
+Por lo tanto, la suma de los dos primeros dígitos es de 10 × 1 + 21 × 35.
+Desde el segundo “número” no sea inferior al valor límite de 2, hay más por venir.
+El peso del tercer dígito es el peso anterior 36 veces menos el nuevo valor umbral, 35 × 34.
+El tercer dígito en este ejemplo es 0, lo que es inferior al 2, lo que significa que es la última (más importante) parte del número.
+Por lo tanto “kva” representa el número 10 × 1 + 21 × 35 + 0 × 35 × 34 = 745.
+Para la inserción de un segundo carácter especial en “bücher”, la primera posibilidad es “büücher” con el código “bcher-kvaa”, el segundo “bücüher” con el código “bcher-kvab”, etc. Después de “bücherü” con el código “bcher-kvae” viene “ýbücher” con el código “bcher-kvaf”, etc
+Para realizar la codificación y decodificación de algoritmos simples, no se ha previsto que se impida decodificar valores UNICODE inadmisibles: sin embargo, estos deben ser controlados y detectados durante la decodificación.
+Comparar el ASCII 'punycoded' presentado en http://xn--tdali-d8a8w.lv/ que incluye la representación Unicode de la cadena escrita en idioma letón con una “u con macrón”, y “n con cedilla”, en lugar de la base de caracteres sin marcar http://tūdaliņ.lv
+Punycode está diseñado para trabajar con todos los archivo de órdenes, y de ser autosuficientes en la optimización de tratar de adaptarse al juego de caracteres varía dentro de la cadena como los que opera.
+Se está optimizando para el caso de que la cadena se compone de cero o más caracteres ASCII y además sólo caracteres de otro sistema de escritura, sino que hacer frente a cualquier cadena arbitraria Unicode.
+Tenga en cuenta que para usar DNS, el nombre de dominio cadena se supone que ha sido normalizada para utilizar Nameprep (para los dominios de nivel superior) filtrada con una tabla de un idioma oficialmente registrados antes de ser punycoded, y que el protocolo DNS fija los límites de las longitudes aceptables de la cadena Punycode de salida.

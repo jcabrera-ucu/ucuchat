@@ -1,0 +1,18 @@
+Apusozoa es un grupo de protistas flagelados que presentan típicamente filopodios (seudópodos filosos) ventrales y mitocondrias con crestas tubulares.
+Tienen un tamaño de alrededor de 5-20 μm y se encuentran en el suelo y en hábitats acuáticos, en donde se alimentan de bacterias.
+Apusozoa incluye dos líneas diferentes.
+La primera (Apusomonadida) está constituida por biflagelados con una cubierta de dos densas capas peliculares dorsales sobre la superficie de la célula y locomoción por deslizamiento sobre el sustrato con la ayuda del flagelo posterior.
+La segunda (Breviatea) comprende uniflagelados ameboides carentes de la capa pelicular y con deslizamiento apoyado en el flagelo anterior.
+Apusozoa fue propuesto originariamente por Cavalier-Smith, que recientemente lo ha incluido, junto a otros grupos similares, en Sulcozoa, también parafilético.
+Apusozoa es una de las líneas de Sulcozoa, considerado por Cavalier-Smith como el origen de  Opisthokonta (Animalia, Fungi, Choanozoa) y Amoebozoa.
+Sulcozoa probablemente se originó a partir de un antecesor que ya tenía un surco ventral (como en Excavata), al desarrollar un modo de locomoción por deslizamiento usando el flagelo posterior y seudópodos en el surco ventral.
+Estos organismos, a pesar de presentar generalmente dos o más flagelos, se incluyen como grupo basal en el clado Amorphea (= Unikonta).
+Apusozoa sería la línea de Sulcozoa más próxima a Opisthokonta.
+En la clasificación publicada por Cavalier-Smith en 2015, Apusozoa incluye a los siguientes grupos:
+En la clasificación publicada en 2010, Cavalier-Smith incluye tres órdenes en Apusozoa: Apusomonadida, Ancyromonadida (=Planomonadida) y Rigifilida (=Micronucleariida), y divide algunos de los géneros originales.
+El grupo se amplió en 2011 con el cuarto orden, Mantamonadida, para incluir a unos recién descubiertos flagelados marinos que viven en los sedimentos costeros.
+Otros órdenes anteriormente incluidos en Apusozoa han sido trasladados o descartados.
+Así por ejemplo, Hemimastigida o Spironemidae ha sido trasladado a Cercozoa.
+En un análisis filogenético publicado en 2014, Cavalier-Smith determina que Apusozoa (restringido a los grupos Apusomonadida y Breviatea) es un grupo hermano de Opisthokonta, probablemente parafilético, divergiendo Breviatea antes de Apusomonadida.
+Por su parte, Varisulca (Planomonadida, Mantamonas y Collodictyonidae) parece ser un grupo hermano de Opisthokonta + Apusozoa + Amoebozoa, y posiblemente holofilético.
+En una reciente clasificación, Rigifilida es incluido en Varisulca.

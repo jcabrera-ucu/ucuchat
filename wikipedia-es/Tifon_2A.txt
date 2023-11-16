@@ -1,0 +1,33 @@
+El Tifón-2A es operado por una tripulación de tres personas (conductor, artillero, y jefe de carro).
+El Sistema de Control de Fuego está compuesto por una Computadora Balística LIO-V que es operada por el artillero tanto como por el jefe de carro.
+El armamento principal está estabilizado en los dos ejes con un sistema electrónico, cuenta también con un Telémetro Láser, un aparato de puntería 1G46M para el artillero, y un aparato de puntería PNK-5 para el jefe de carro, ambos aparatos de puntería están estabilizados en forma independientemente.
+El Tifón 2A tiene la capacidad para disparar de día tanto como de noche, ayudado por un visor Termal Integrado "BURAN CATHERINE-E", para ser empleado tanto por el artillero como por el Jefe de Carro.
+El Tifón 2A tiene la capacidad de detectar objetivos hasta los 12 km de distancia, de día, de noche, y en cualquier condición atmosférica, con humo, neblina, etc., y el conductor emplea el visor pasivo nocturno TVN-5.
+El carro de combate T-55 del Ejército del Perú, está desfasado tecnológicamente en comparación con sus contrapartes de la región, siendo así, Sergio Casanave Quelopana (un ingeniero peruano con un doctorado en armamento y munición), diseñó el proyecto TIFÓN, realizándolo en la empresa KMDB de Járkov- Ucrania.
+Este desarrollo lo realizó en el tanque T-55AGM.
+Luego de meses de estudios y pruebas, se llegó a la conclusión, de que lo más adecuado era basarse en las experiencias de otros vehículos que habían resultado exitosos, como el T-90 y el AMX-56 Leclerc.
+Adoptando los equipos y medios que brindan al Tifón mejor movilidad, potencia de fuego, y capacidad de enganchar enemigos a mayor distancia.
+Su innovador Sistema de Administración del Campo de Batalla "NARADA", le permite desarrollarse en condiciones adversas, y como un sistema C4.
+El Tifón cuenta con un cañón modelo KBM-1M calibre 125 mm de 48 calibres de anima lisa, posibilitando el empleo de munición tipo APFSDS-T (flecha), y HEAT (carga hueca), munición de alto explosivo HE-FRAG, y finalmente el Misil Antitanque "KOMBAT" de la empresa LUCH, este misil (que es disparado como cualquier munición) emplea un sistema de carga hueca en Tándem (HEAT-TANDEM) y guiado por medio del sistema de guía Láser del visor 1G46M, logrando un alcance efectivo de 5,000 m, para abatir objetivos terrestres y aeronaves tipo Helicópteros en vuelo a baja altura.
+El Tifón cuenta también con una ametralladora KT-12.7 calibre 12.7 x 108 mm con un sistema de disparo a control remoto, y con visor termal para el tiro diurno-nocturno.
+Finalmente el Tifón tiene una ametralladora co-axial KT-7.62 calibre 7.62 x 54 mm. El Tifón opera con un "Sistema de Carga Automática" para el cañón principal, un desarrollo innovador que faculta emplear 8 disparos por minuto sin importar el tipo de terreno en que se esté desplazando el tanque, a diferencia del actual T-55 que solo carga 4 disparos por minuto y en condiciones óptimas.
+La carga automática se realiza con solo presionar un botón de la caja de control que llevan el artillero y el jefe de carro, los cuales pueden ser accionados en forma indistinta.
+Estas innovaciones, permiten al TIFÓN-2A realizar acciones "Hunter Killer" ya que tanto el artillero como el jefe de carro tienen la capacidad de búsqueda de objetivos y el disparo del cañón principal.
+El Tifón tiene dos tipos de blindaje, uno Pasivo y uno Reactivo.
+El pasivo es el denominado “Deflek”, que está compuesto por una serie de “Placas” de Titanio y “Policarbonato”.
+El blindaje Reactivo "NOZH", está compuesto por placas de cargas explosivas, que son accionadas al momento de impactar proyectiles mayores de 25 mm. Con este sistema, se puede asegurar la capacidad de resistencia a munición anti blindaje en más de 5 veces al original.
+El Tifón-2A cuenta con doce lanzagranadas de humo calibre 81 mm que están situados a ambos lados de la torre, los cuales son accionados por la caja de control del "Sistema Linkey-SPZ", creando una cortina de humo alrededor del tanque y neutralizando la visualización del enemigo.
+Originalmente se consideró emplear el mismo motor del AGM, es decir el 5TDFM con 850 HP, pero la idea era aumentar la velocidad de arranque, desplazamiento, y de maniobra en terreno tipo "desértico", y se optó por la mejora de este motor, colocando el modelo 5TDFMA de 1,050HP.
+El 5TDFMA es un motor de dos tiempos, turboalimentado, multicarburante, de cinco cilindros con configuración horizontal del tipo bóxer.
+Cuenta con un sistema de eyección para el sistema de ventilación del motor, con un mecanismo de obturación que permite sumergir al tanque hasta 1.8 m por debajo del agua.
+La ventilación del motor es del tipo por líquido, cerrado, forzado.
+El sistema de purificación del aire a "cassete", pertenece al tipo "Cyclone" dando una eficiencia de casi 100 %.
+Este motor opera a más de 500 km sin la necesidad de limpiar el filtro, ideal apara terrenos desérticos.
+La caja de cambios es secuencial, del tipo planetario de dos platos con seis cambios hacia delante y tres hacia atrás, mediante el empleo de un sistema mecánico-eléctrico-hidráulico.
+Todos estos medios, permiten generar una velocidad máxima mayor a los 75 km/h, y hacia atrás mayor de 35 km/h.
+El TIFÓN-2A tiene un nuevo sistema de conducción tipo “Timón Hidráulico”, con una pantalla LCD que indican los parámetros y configuraciones de la conducción, emplea una cámara de circuito cerrado para visualizar un monitor la marcha en retroceso.
+El encendido es por sistema eléctrico, y alternativamente arranque por sistema de aire comprimido.
+El Sistema de Suspensión y Rodamientos es de nuevo diseño, emplea 3 rodillos de apoyo por lado, con barras de torsión, y amortiguadores heavy duty regulables, los cuales permiten incrementar la velocidad en todo terreno de hasta 65 km/h y mayor de 75 km/h en carretera, y mayor de 35 km/h en retroceso.
+Se le colocó “pads de neopreno” para permitir un mejor agarre al pavimento, debido a que en la pruebas de campo, el Ing.
+Casanave derrapó en la carretera al frenar luego de conducir a más de 70 km/h, para lo cual optó por colocar estos "pads", dando un óptimo resultado.
+/ Al-Zarrar

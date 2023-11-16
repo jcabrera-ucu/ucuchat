@@ -1,0 +1,5 @@
+Un Aerómetro es un instrumento diseñado para medir la densidad (u otros parámetros) del aire y de algunos gases.
+El término aerómetro (o Ärometro, del griego clásico ἀήρ -aero "aire" y μέτρον -métron "medida, escala") se refiere a varios tipos de dispositivos para la definición o medida de los gases.
+Los instrumentos designados con ese nombre pueden servir para hallar: la densidad, el flujo, la cantidad o algún otro parámetro, del aire o de un gas determinado.
+Otro instrumento llamado areómetro (del griego antiguo ἀραιός -araiós "ligero" y μέτρον -métron "medida"), también conocido como hidrómetro, que se utiliza para medir la densidad de los líquidos, a menudo se confunde con el término aerómetro definido en el presente artículo.
+<div class="reflist references-column-count references-column-count-2" style="-moz-column-count: 2; list-style-type: decimal;">

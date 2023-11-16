@@ -1,0 +1,23 @@
+La  Carta Pisana  es un mapa realizado a finales del siglo XIII, alrededor de 1275 - 1300.
+Se encontró en Pisa, de ahí su nombre.
+En él se muestra el conjunto Mar Mediterráneo, el Mar Negro y una parte del Océano Atlántico, desde el norte del actual Marruecos (hasta aproximadamente el paralelo 33º norte, con la ciudad de Azemmour) que hoy día se encuentra en Holanda, aunque la precisión de detalle del mapa se limita principalmente al Mediterráneo.
+Es la carta náutica más antigua (es decir, no simplemente un mapa, sino un documento que incluye instrucciones de navegación).
+Se trata de una carta portulana, que muestra un estudio detallado de las costas, y muchos puertos, pero no tiene ninguna indicación de la topografía o de la toponimia del interior.
+En el mapa, el norte está en la parte superior, en contraste con otros mapas de la misma época, como el mapa de Hereford (ca. 1300), donde es el Este el que se encuentra en la parte superior.
+Los posibles lugares de origen para el mapa son Pisa, donde fue encontrado, Venecia, y Génova, que es el lugar de origen aceptado por los expertos.
+Respecto a la densidad de los puertos a que hace referencia el mapa es más alta en la costa del mar Tirreno, y más baja en el Mar Jónico.
+Esta es una posible evidencia de que el mapa es de origen genovés, dado que en aquellos momentos, Génova era una gran potencia en el mar Tirreno.
+Además, la primera referencia textual de la utilización de una carta marítima detallada, en 1270, está referida a un barco de la cruzada de San Luis a quien ayudaron los genoveses.
+La inexactitud de la parte atlántica de la  Carta Pisana , especialmente en comparación con su parte del Mediterráneo, puede ser ejemplificada con su representación de Gran Bretaña: una forma irregular, rectangular, situada en un eje Este-Oeste, con sólo seis nombres de lugares indicados para toda la isla de Gran Bretaña.
+ Civitate Londra  (Londres) se coloca en el centro de la costa sur de la isla.
+En cuanto a la fecha del mapa, su antigüedad viene limitada por la mención de la ciudad de Manfredonia, que fue fundada por el rey Manfredo de Sicilia en 1256.
+Las fuentes utilizadas en la elaboración de la  Carta Pisana  son difíciles de determinar.
+El uso de algunas variantes dialectales en los nombres de lugares indicados en el mapa tiende a sugerir que fueron compilados de diversas fuentes regionales para hacer el mapa.
+Otras posibilidades incluyen un hipotética carta portulana anterior, hoy desaparecida, o la influencia de la cartografía romana antigua.
+Sin embargo, no hay absolutamente ninguna evidencia que apoye la existencia de una carta portulana anterior, y el hecho de que el mapa tiene errores flagrantes sobre Italia socavaría la teoría de una influencia romana antigua.
+El mapa abarca casi todo el Mediterráneo con dos círculos de rumbos, uno para el Mediterráneo occidental, y otro para la zona oriental.
+Estos círculos están divididos en dieciséis partes, correspondiendo cada una de las dieciséis divisiones del mapa a una dirección de la rosa de los vientos.
+Además, cuenta con una escala bidireccional (ver mapa), subdividida en varios segmentos que corresponden a 200, 50, 10, y 5 millas.
+El valor exacto de la "milla portulano" es difícil de calcular en unidades de hoy en día, ya que hay discrepancias entre las zonas geográficas de este mapa y los demás, pero está convencionalmente consensuado en alrededor de 1,25 kilómetros.
+Se puede leer en el artículo de Wikiversidad:
+[//es.wikiversity.org/wiki/La_carta_Pisana#La_metrolog.C3.ADa_de_la_carta La carta Pisana]

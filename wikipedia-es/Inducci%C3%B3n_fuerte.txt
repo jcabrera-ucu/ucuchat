@@ -1,0 +1,16 @@
+La inducción fuerte o inducción completa es un método de demostración matemática similar a la inducción matemática común, pero difiere en el razonamiento de lo que queremos demostrar.
+Se toma un número fijo y se toma como hipótesis que es cierto para otro número fijo mayor que éste y para todos los que están entre ellos.
+Así, la afirmación es cierta sólo si también se cumple para el sucesor de este último número.
+Existe también un método de inducción débil o inducción desplazada, que usa un razonamiento en cierto modo inverso a este, ya que toma como base la hipótesis de que es cierta para el antecesor del que se quiere demostrar.
+El procedimiento es válido considerando que los elementos de lo que queremos demostrar pertenecen a un conjunto inductivo.
+Es decir, el conjunto de todas las afirmaciones es un conjunto inductivo.
+Podemos enunciar el principio de inducción fuerte tal y como se muestra a continuación:
+Sea P(n) una afirmación que depende del parámetro n entero, y suponiendo que se demuestra lo siguiente,
+entonces la afirmación P(n)\,\!
+será cierta para todo entero.
+Suele ser más complicado y no trivial solucionar los problemas comunes de inducción con este método, pero puede ser ventajoso.
+Prueba de una de las propiedades de la sucesión de Fibonacci.
+Sea la sucesión de Fibonacci y F_n el n-ésimo número de Fibonacci
+Demostración
+Usando el principio de inducción fuerte:
+Mathematical induction

@@ -1,0 +1,10 @@
+Ex tunc es una locución latina que en español significa literalmente "desde siempre".
+Se utiliza para referirse a una acción que produce efectos desde el momento mismo en que el acto tuvo su origen, retrotrayendo la situación jurídica a ese estado anterior.
+Se opone a ex nunc, que se traduce como "desde ahora" (hacia el futuro).
+Por ejemplo, la declaración judicial de una nulidad de pleno derecho establece que esa relación jurídica jamás existió.
+Se crea una ficción jurídica que da como resultado como que no nació nunca; por ello, se dice que tiene efecto "ex tunc".
+Se retrotrae todo al momento anterior al "pretendido" inicio de la relación cuestionada y se decreta que todos los efectos desplegados en ese tiempo (desde su inicio hasta el momento de la declaración) jamás han existido en el mundo jurídico.
+Por el contrario, cuando se anula una relación jurídica, la nulidad no es de pleno derecho y por lo tanto es "ex nunc", o sea, que todos los efectos jurídicos hasta la declaración de su anulabilidad permanecen vigentes y, a partir de ese momento, la relación jurídica ya deja de desplegar efectos.
+Como ejemplos simples se puede poner la diferencia entre la nulidad de un matrimonio y un divorcio.
+Los cónyuges que logran la declaración de nulidad de un matrimonio quedarán solteros y como si nunca se hubiesen casado y quedan sin efecto todos los actos jurídicos que se hayan desplegado.
+Por el contrario, en un divorcio los cónyuges se han casado y, a partir del momento de la declaración, el vínculo matrimonial ha dejado de existir, pero todos sus efectos anteriores son plenamente válidos.

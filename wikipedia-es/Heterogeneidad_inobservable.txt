@@ -1,0 +1,3 @@
+En Estadística y Econometría, se conoce como heterogeneidad inobservable al error que se produce al no disponer de alguna o algunas variables en el estudio dado su carácter de inobservabilidad, pero que están correlacionadas con las variables observables.
+Existen diversos métodos que permiten obtener inferencias estadísticas válidas aun en presencia de heterogeneidad inobservable.
+Entre otros: el método de variables instrumentales, el modelo multinivel, los modelos de efectos fijos y efectos aleatorios, o el modelo de Heckman de corrección de error.

@@ -1,0 +1,27 @@
+La temperatura de sensación  o, mejor, sensación térmica es un índice que sirve para evaluar la sensación térmica que experimenta un cuerpo humano bajo los efectos combinados de la temperatura y de la velocidad del viento.
+En general, el viento sirve para aumentar la sensación de frío, ya que el viento favorece la evaporación de la humedad de la piel y para ello se necesita calor que obtiene del cuerpo.
+El cambio de fase de agua (en el sudor) a vapor requiere que las moléculas alcancen un estado de energía más alto.
+Esa energía la obtiene absorbiendo el calor del tejido circundante por conducción.
+El movimiento del aire aumenta también el intercambio de calor por convección, favoreciendo que la temperatura de un objeto alcance la temperatura del aire ambiente.
+En esta cuestión este efecto es muy poco importante porque lo más que puede enfriar un cuerpo seco es hasta la temperatura del aire, que es la temperatura seca, considerada sin viento.
+Quiere decir esto que los objetos secos, sin humedad superficial, sea debida al sudor o simplemente mojados, no se enfriaran por debajo de la temperatura ambiente, de modo que este índice solo sirve para el cuerpo humano o de animales que tengan evapotraspiración.
+En los cuerpos secos, el único influjo del viento será reducir el tiempo de enfriamiento, acelerando la convección, hasta llegar a la temperatura seca del aire.
+El concepto de temperatura de sensación (wind chill, en inglés) ha de considerarse en los climas muy fríos como el Ártico y Antártico, a gran altitud, a velocidades elevadas, ya que es de gran importancia en la supervivencia de los humanos (y a veces de los animales).
+La definición oficial de temperatura de sensación en meteorología se basaba originalmente en medidas tomadas a una cierta altura sobre la tierra.
+La definición exacta ha sido polémica porque es un índice compuesto y porque la temperatura de sensación puede tener un cierto impacto en invierno sobre el turismo.
+Algunos sostienen que debería evitarse dar unidades de grados Celsius a este valor, ya que la fórmula mezcla distintas magnitudes físicas.
+Deberá ser rebautizado como un "índice", pero al cabo, un índice refleja que la sensación de un sujeto en el ambiente estudiado sería la misma que tendría en un espacio cerrado, en el que el aire y los paramentos (muros, suelo y techo) estuvieran a una temperatura igual al valor del índice, con el aire en reposo y la humedad relativa igual al 100%.
+Por eso se expresa en la misma unidad que la temperatura, en grados Celsius, independientemente de la fórmula empleada para obtenerlo.
+Y la mayoría de los índices tienen en su nombre la palabra temperatura.
+La primera fórmula de la temperatura de sensación la desarrolló el ejército de Estados Unidos durante la Segunda Guerra Mundial, por Siple y Passel que trabajaban en el Antártico y fue usada por el Servicio Nacional de Meteorología en los años setenta.
+En 2001 la fórmula fue revisada para recoger las teorías más precisas.
+Estas fórmulas se diseñan específicamente para el cuerpo humano, o más específicamente aún para el rostro humano (la única parte desnuda del cuerpo cuando hace mucho frío).
+La base física para el cálculo del windchill es la relación entre la temperatura, volumen y presión de un fluido.
+El nuevo índice de temperatura de sensación usado por los servicios meteorológicos estadounidenses y canadienses se calcula con la fórmula siguiente:
+La fórmula estadounidense y canadiense se adapta mejor a los climas sumamente fríos.
+Otra fórmula como el índice de Steadman se desarrolló en Australia por el científico Robert Steadman.
+Se ha desarrollado para los climas templados.
+Algunos también incluyen en el índice la humedad relativa creando en lugar de los dos índices de temperatura de bochorno y temperatura de sensación un solo índice al que a veces se refieren como temperatura aparente.
+Se da un cuadro para la definición estadounidense de este índice (1) y otro de la definición canadiense (2)
+Otra definición de este índice es la canadiense:
+Temperatura

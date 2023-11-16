@@ -1,0 +1,75 @@
+La multiplicación es una operación binaria y derivada de la suma que se establece en un conjunto numérico.
+En aritmética, es una de las cuatro operaciones elementales, junto con la suma, la resta y la división, y es la operación inversa de esta última.
+Esto significa que para toda multiplicación hay una división, por ejemplo para «5 por 2 igual a 10» la división equivalente es «10 dividido entre 2 igual a 5», o  «10 dividido entre 5 igual a 2».
+Existen dos signos para indicar esta operación entre números naturales: el aspa "×" y el punto gordo a media altura ( •  ).
+En el caso de variables representadas por letras (solo letras o mezcla) se usa el punto (no el aspa) pero se puede prescindir de él por ejemplo    3ab   (se lee «tres a b»)      xy + 2y (se lee «equis i más dos i»)
+Multiplicar una cantidad por un número consiste en sumar dicha cantidad tantas veces como indica el número.
+Así, 4×3 (léase «cuatro multiplicado por tres» o, simplemente, «cuatro por tres») es igual a sumar tres veces el número 4 (4+4+4) (nota )  También  se puede interpretar  como  3 filas de 4 objetos, o 4 filas de 3 (véase el dibujo).
+4 y 3 son los factores, y 12, el resultado de la operación, es el producto.
+La multiplicación está asociada al concepto de área geométrica: es fácil ver que el área de un rectángulo se obtiene multiplicando la longitud de ambos lados, basta con imaginarnos la superficie cubierta con baldosas cuadradas.
+Podemos multiplicar dos números o más, y da igual en qué orden efectuemos la operación o cómo agrupemos los números; siempre se obtendrá el mismo resultado:
+3 •  4   •  5    =  5   •  3   •  4    =   4  •  5  •   3   =     12  •  5    =        15   •  4    =        20  •   3   =   60
+El resultado de la multiplicación de dos o más números se llama producto.
+Los números que se multiplican se llaman factores o coeficientes, e individualmente: multiplicando (número a sumar o número que se está multiplicando) y multiplicador (veces que se suma el multiplicando).
+Esta diferenciación tiene poco sentido cuando, en el conjunto donde esté definido el producto, se da la propiedad conmutativa de la multiplicación (por ejemplo, en los conjuntos numéricos: 3×7  = 7×3, es decir, el orden de los factores no altera el producto).
+Sin embargo puede ser útil si se usa para referirse al multiplicador de una expresión algebraica (ej: en
+o    3 a^2b,
+3 es el multiplicador o coeficiente, mientras que el monomio a^2b es el multiplicando).
+La potenciación es un caso particular de la multiplicación donde el exponente indica las veces que debe multiplicarse un número por sí mismo.
+Ejemplo: 2 • 2 • 2 • 2 •  2 • 2 • =  2 6 = 64
+Aquí, 6 es el exponente, y 2 la base.
+En álgebra moderna se suele usar la denominación «cociente» o «multiplicación» con su notación habitual «·» para designar la operación externa en un módulo, para designar también la segunda operación que se define en un anillo (aquella para la que no está definido el elemento inverso del 0), o para designar la operación que dota a un conjunto de estructura de grupo.
+La operación inversa de la multiplicación es la división.
+La multiplicación se indica con un aspa (×) o con un punto (∙).
+En ausencia de estos caracteres se suele emplear el asterisco (*), sobre todo en computación (este uso tiene su origen en FORTRAN), pero está desaconsejado en otros ámbitos y solo debe utilizarse cuando no hay otra alternativa.
+A veces se utiliza la letra equis (X x), pero esto es desaconsejable porque crea una confusión innecesaria con la letra que normalmente se asigna a una incógnita en una ecuación.
+Por último, se puede omitir el signo de multiplicación a menos que se multipliquen números o se pueda generar confusión sobre los nombres de las incógnitas, constantes o funciones (por ejemplo, cuando el nombre de alguna incógnita tiene más de una letra y podría confundirse con el producto de otras dos).
+También suelen utilizarse signos de agrupación como paréntesis, corchetes [ ], llaves { } o barra | |.
+Esto mayormente se utiliza para multiplicar números negativos entre sí o por números positivos.
+Si los factores no se escriben de forma individual pero pertenecen a una lista de elementos con cierta regularidad se puede escribir el producto mediante una elipsis, es decir, escribir explícitamente los primeros términos y los últimos, (o en caso de un producto de infinitos términos solo los primeros), y sustituir los demás por unos puntos suspensivos.
+Esto es análogo a lo que se hace con otras operaciones aplicadas a infinitos números (como las sumas).
+Así, el producto de todos los números naturales desde el 1 hasta el 100 se puede escribir:
+mientras que el producto de los números pares del entre 1 y 100 se escribiría:
+Esto también se puede denotar escribiendo los puntos suspensivos en la parte media d e la línea de texto:
+En cualquier caso, deben estar claros cuáles son los términos omitidos.
+Por último, se puede denotar el producto mediante el símbolo productorio, que proviene de la letra griega Π (Pi mayúscula).
+Esto se define así:
+El subíndice i \, indica una variable que recorre los números enteros desde un valor mínimo (m \,, indicado en el subíndice) y un valor máximo.
+(n \,, indicado en el superíndice).
+La multiplicación de dos números enteros n y m se expresa como:
+Esta no es más que una forma de simbolizar la expresión «sumar m a sí mismo n veces».
+Puede facilitar la comprensión al expandir la expresión anterior:
+,
+tal que hay n sumandos.
+Así, por ejemplo:
+El producto de infinitos términos se define como el límite del producto de los n primeros términos cuando n crece indefinidamente.
+En el caso de la multiplicación de números naturales puede aplicarse la definición recursiva de la multiplicación, que comprende estos dos pasos:
+Donde m y n son números naturales, el principio de inducción se aplica sobre el número n, que inicialmente es n = 0, luego asumiendo que es cierto para n, se infiere que también se cumple para n+1.
+Se deducen las siguientes proposiciones básicas:
+Para indicar el producto de dos números naturales se usa un punto entre los dos factores, un aspa entre ellos, la simple yuxtaposición de los factores literales o, un factor y el otro en paréntesis o los dos factores en paréntesis
+Es un número entero m que se calcula tal como sigue:
+El producto de los enteros se basa en el producto de los números naturales y se toma en cuenta el valor absoluto.
+La fracción es el producto de las fracciones  y  que cumplen la igualdad
+. Se asume que.
+Se cumple la siguiente propiedad de producto de raíces:
+Para los números naturales, enteros, fracciones y números reales y complejos, la multiplicación tiene ciertas propiedades:
+La multiplicación de dos o más números naturales nos da como resultado otro número natural
+ejemplo: 33*2=66
+El producto de números negativos también requiere reflexionar un poco.
+Primero, considérese el número —1.
+Para cualquier entero positivo m:
+Este es un resultado interesante que muestra que cualquier número negativo no es más que un número positivo multiplicado por –1.
+Así que la multiplicación de enteros cualesquiera se puede representar por la multiplicación de enteros positivos y factores –1.
+Lo único que queda por definir es el producto de (–1)(–1):
+De esta forma, se define la multiplicación de dos enteros.
+Las definiciones pueden extenderse a conjuntos cada vez mayores de números: primero el conjunto de las fracciones o números racionales, después a todos los números reales y finalmente a los números complejos y otras extensiones de los números reales.
+Si ambos factores tienen el mismo signo el producto será positivo.
+Si los signos son diferentes, el producto será negativo.
+Ejemplo:
+Desde un punto de vista puramente geométrico, la multiplicación entre 2 valores produce un área que es representable.
+Del mismo modo el producto de 3 valores produce un volumen igualmente representable.
+En matemáticas, producto es sinónimo de multiplicación.
+Se denominan también producto ciertas operaciones binarias realizadas en contextos especializados.
+El término producto también se relaciona con
+Regla del producto''', un método para calcular la derivada de un producto de funciones.
+[[Categoría:Algo ritmos de precisión arbitraria]]

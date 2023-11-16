@@ -1,0 +1,6 @@
+La Grilla de Amsler, utilizada desde 1945, es una rejilla (o cuadrícula) de líneas verticales y horizontales usada para monitorizar o inspeccionar el campo visual de las personas.
+Esta rejilla o cuadrícula fue desarrollada por el oftalmólogo suizo Marc Amsler y se trata de un implemento de diagnóstico que ayuda a la detección de anomalías visuales causadas por alteraciones en la retina, particularmente si se hallan en la mácula (e.j. degeneración macular, membrana epirretiniana), así como en el nervio óptico y las rutas visuales del y al cerebro.
+En el test, la persona mira con cada ojo por separado (por ejemplo mediante un fino tabique ante los ojos) un pequeño punto ubicado en el centro de la grilla en cuestión.
+Los pacientes con defectos maculares pueden observar las líneas rectas como onduladas o algunas de tales líneas como desaparecidas (algunas líneas les pueden ser virtualmente invisibles).
+La rejilla original de Amsler era en blanco y negro.
+Una versión coloreada en azul y en amarillo suele ser más sensible cuando se usa para estudiar una gran variedad de anormalidades de la vista, incluyendo no solo a las partes ya citadas (mácula, retina, nervio óptico) sino, por ejemplo, a la glándula pituitaria.

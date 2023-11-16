@@ -1,0 +1,15 @@
+En mecánica de fluidos, el teorema de Taylor-Proudman (por G. I. Taylor y Joseph Proudman) enuncia que cuando un cuerpo sólido es movido lentamente dentro de un fluido que es rotado
+de forma constante con una gran velocidad angular \Omega, la velocidad del fluido será uniforme a lo largo de cualquier línea paralela al eje de rotación.
+\Omega debe ser relativamente rápida comparada con el movimiento del cuerpo para hacer que la fuerza de Coriolis sea intensa comparada con los términos de aceleración.
+Que esto es así puede verse considerando las ecuaciones de Navier-Stokes para flujo constante, con viscosidad cero y una fuerza del cuerpo correspondiendo a la fuerza de Coriolis, que son:
+donde {\mathbf u} es la velocidad del fluido, \rho es la densidad del fluido, y p la presión.
+Si ahora hacemos la asunción de que el término advectivo puede ser despreciado (razonable si el número Rossby es mucho menor que la unidad) las ecuaciones se transforman en:
+donde \Omega es el vector de velocidad angular.
+Si se toma el rotor de esta ecuación, el resultado es el teorema de Taylor-Proudman:
+Para derivar esto, se necesitan las identidades vectoriales
+y
+Nótese que también es necesaria.
+La forma vectorial del teorema de Taylor–Proudman tal vez se entienda mejor expandiéndola en sus componentes respecto de los ejes coordenados:
+Ahora se eligen coordenadas en las cuales y entonces las ecuaciones se reducen a
+si.
+Nótese que la implicación es que las tres componentes del vector de velocidad son uniformes a lo largo de cualquier línea paralela al eje Z.

@@ -1,0 +1,35 @@
+En estadística y probabilidad, la distribución normal sesgada es una distribución de probabilidad continua que generaliza a la distribución normal permitiendo que el sesgo estadístico sea distinto de cero.
+Sea \phi(x) la función de densidad de probabilidad para una distribución normal
+con la función de distribución acumulada dada por
+donde "erf" es la función error.
+Entonces, la función de densidad de probabilidad (comúnmente "PDF" por sus siglas en inglés) de la distribución normal sesgada con parámetro \alpha está dada por
+La distribución fue descrita por primera vez por O'Hagan y Leonard en 1976.
+Existen aproximaciones a la distribución que son matemáticamente más fáciles de manipular, presentadas por Ashour y Abdel-Hamid y otra por Mudholkar y Hutson.
+Andel, Netuka y Zvara describieron un proceso estocástico subyacente a la distribución en 1984.
+Tanto la distribución el proceso estocástico son consecuencias del argumento de simetría desarrollado por Chan y Tong (1986), que se aplica a los casos multivariados más allá de la normalidad, como por ejemplo distribuciones t multivariadas.
+La distorsión es un caso particular de una clase general de distribuciones con funciones de densidad de probabilidad de la forma f(x)=2 &#x3C6;(x) &#x3A6;(x) donde &#x3C6; es cualquier PDF simétrica alrededor del cero y  &#x3A6; es cualquier CDF cuya PDF es simétrica alrededor del cero.
+Para añadir parámetros de ubicación y escala a esta distribución, es usual hacer la transformación.
+Se puede verificar que la distribución normal se recupera cuando \alpha = 0, y que el valor absoluto del sesgo incrementa a medida que el valor absoluto de \alpha incrementa.
+La distribución está sesgada hacia la derecha si \alpha>0 y sesgada hacia la izquierda si \alpha<0.
+La función de la densidad de probabilidad con ubicación \xi, escala \omega, y parámetro \alpha se vuelve
+Debe notarse, sin embargo, que el sesgo (\gamma_1) de la distribución está limitado al intervalo (-1,1).
+Se ha demostrado, que la moda (máximo) de la distribución es único.
+Para un \alpha en general, no existen expresiones analíticas para m_o, aunque es posible conseguir una buena aproximación numérica con:
+donde y
+Las estimaciones de máxima verosimilitud para \xi, \omega, y \alpha pueden ser calculados numéricamente, pero no existen expresiones en forma cerrada para estos estimados a menos que \alpha=0.
+Si es necesaria una expresión en forma cerrada, puede aplicarse el método de momentos para estimar \alpha a partir del sesgo muestra, mediante la inversión de la ecuación de sesgo.
+Esto da como resultado la estimación
+donde, y es el sesgo muestra.
+El signo de \delta debe ser el mismo signo que.
+En consecuencia,.
+El sesgo máximo (teóricamente) se obtiene al establecer en la ecuación de sesgo, resultando en.
+Sin embargo, es posible que el sesgo muestra sea más grande, con lo que \alpha no podría ser determinado a partir de estas ecuaciones.
+Al usar el método de momentos de forma automática, por ejemplo para dar valores iniciales para la iteración de máxima verosimilitud, uno debería establecer (por ejemplo) que.
+Existen, sin embargo, objeciones acerca del impacto de los métodos de sesgo normal y de qué tan confiables son las inferencias basadas en ellos.
+La distribución noremal modificada exponencialmente es otra distribución de 3 parámetros que generaliza a la distribución normal para incluir casos sesgados.
+La distribución normal sesgada mantiene una "cola" normal en la dirección del sesgo, con una "cola" más corta en la dirección opuesta; esto es, su densidad es asintóticamente proporcional a e^{-kx^2} para un k positivo.
+Por lo tanto en términos de los siete estados de aleatoriedad, presenta "aleatoriedad moderada propiamente".
+En contraste, la distribución normal modificada exponencialmente tiene una "cola" exponencial en la dirección del sesgo; su densidad es asintóticamente proporcional a e^{-k|x|}.
+En los mismos términos, demuestra "aleatoriedad moderada marginal".
+Por ello, la distribución normal sesgada es útil para modelar distribuciones sesgadas que no tienen más valores atípicos que la normal, mientras que la distribución normal modificada exponencialmente es útil para casos con un mayor número de casos atípicos en una sola dirección.
+Existe una implementación en R para la función de densidad, de distribución, de cuantiles y para generar desviaciones aleatorias en https://cran.r-project.org/web/packages/sn/index.html.

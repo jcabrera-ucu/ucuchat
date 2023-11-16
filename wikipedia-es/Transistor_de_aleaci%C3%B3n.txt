@@ -1,0 +1,10 @@
+El transistor de aleación es uno de los primeros transistores de unión, fabricado a partir de germanio fundido.
+El CK722 de Raytheon es un transistor de aleación.
+Posteriormente, también se fabricaron transistores de aleación de silicio.
+El procedimiento de fabricación se deriva directamente del método de Czochralski para obtención de monocristales.
+Se diferencia en que, a medida que el monocristal va creciendo se introducen impurezas donantes en el crisol para convertir el germanio tipo p en tipo n para la base.
+Cuando se tiene el grosor de base necesario, se añaden más impurezas aceptoras para volver nuevamente a germanio tipo p.
+El monocristal así obtenido se corta, primero en rodajas perpendiculares al plano de la base, y después cada una de estas rodajas para formar los transistores individuales.
+La ventaja de este método es que permitía crear regiones de base muy delgadas.
+Como es la concentración de impurazas la que define le región de base, la elección del dopante es vital y no debe difundirse en el germanio, ya que este efecto cortocircuita la base inutilizando el transistor.
+Por ello los primeros modelos tenían una base gruesa.

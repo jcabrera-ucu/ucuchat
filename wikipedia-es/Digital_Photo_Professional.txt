@@ -1,0 +1,17 @@
+Digital Photo Professional (DPP) es un software de revelado fotográfico que Canon lanza conjuntamente con sus cámaras digitales SLR (y algunas compactas como las PowerShot de la serie S y G).
+La primera versión del programa data de principios de 2004.
+En junio de 2014 renueva completamente su interfaz y funcionamiento con la versión 4.0.
+Entre las novedades de esta versión destaca la compatiblidad con entornos 64-bit y una mejor integración con el software de control remoto EOS Utility.
+Digital Photo Professional revela solo los archivos RAW de la propia marca.
+Al ser un software creado por la misma empresa, tiene acceso a toda la información del archivo RAW consiguiendo así mayor nitidez y una mejor representación del color frente a otros programas.
+Además de revelar se pueden gestionar sus imágenes RAW (.CR2; .CR3).
+También puede funcionar con algunos de los viejos formatos .CRW de algunos modelos, y también con archivos JPEG y TIFF de cualquier fuente, aunque en estos dos últimos con menos opciones de revelado.
+La versión completa viene en un CD con la cámara, y las actualizaciones pueden ser descargadas desde el sitio de Canon.
+Aunque DPP oficialmente solo tiene soporte para Windows y Mac, es posible correr este programa en sistemas operativos de Linux usando Wine.
+Las herramientas básicas de edición en DPP incluyen el brillo, balance de blancos y ajuste del estilo de imagen, además de los ajustes para el contraste, saturación y la nitidez de la imagen.
+También hay una herramienta que reduce el ruido incluyendo herramientas separadas para la luminancia y el ruido de crominancia.
+La herramienta de corrección de lente puede ser usada para corregir los efectos de las imperfecciones del lente físico como la iluminación periférica, distorsión y aberración cromática.
+La herramienta de aberración solo funciona en archivos RAW que fueron tomados con cámaras y lentes compatibles.
+Coincidiendo con el lanzamiento de su primera Full Frame sin espejo, en octubre de 2018 Canon lanza una versión de este software para tabletas iPad de Apple, denominada DPP Express, enfocada a flujos de trabajo portátiles e inalámbricos.
+La edición de fotos en esta aplicación se limita a archivos .CR3 y JPEG.
+Entre las funciones destaca el poder ver y guardar historiales de edición además de una gran parte de características que ya incluye la versión de escritorio.

@@ -1,0 +1,101 @@
+Las células madre adultas son células idénticas, que se encuentran en todo cuerpo tras el desarrollo y que se multiplican por división celular para reponer las células muertas y regenerar los tejidos dañados.
+También son conocidas como células madre somáticas (del griego Σωματικóς, «relativo al cuerpo») y, a diferencia de las células madre embrionarias, pueden encontrarse en animales y seres humanos tanto jóvenes como adultos.
+El interés científico por las células madre adultas se centra en su capacidad de dividirse o auto-renovarse indefinidamente y generar todos los tipos células del órgano a partir del cual se originan, teniendo el potencial de regenerar todo el órgano a partir de unas pocas células.
+A diferencia de lo que ocurre con las células madre embrionarias, el uso de células madre adultas humanas en investigaciones y terapias no se considera un obstáculo, ya que provienen de muestras de tejido adulto más que de embriones humanos destinados a la investigación científica.
+Se han realizado pruebas principalmente en humanos y en ratones.
+Las células madre poseen dos propiedades:
+Para asegurar la autorrenovación, las células madre experimentan dos tipos de división celular (véase el diagrama sobre la división de las células madre y su diferenciación).La división simétrica da lugar a dos células hija idénticas, mientras que la división asimétrica produce una célula madre y una célula progenitora con un potencial limitado de autorrenovación.
+Las células progenitoras pueden pasar por varias rondas de división celular antes de diferenciarse para formar una célula madura.
+Se cree que la distinción molecular entre las divisiones simétricas y asimétricas radica en la segregación diferencial de las proteínas de la membrana celular (como los receptores) y sus proteínas asociadas entre las células hijas .En condiciones normales, las células madre del tejido se dividen lentamente y con poca frecuencia, mostrando signos de quiescencia o detención reversible del crecimiento.
+El nicho en el que se halla la célula madre desempeña un papel importante en el mantenimiento de la quiescencia.
+Los nichos perturbados hacen que la célula madre comience a dividirse de nuevo para reemplazar las células perdidas o dañadas hasta restaurar el nicho.
+En las células madre hematopoyéticas, la vía MAPK/ERK y la vía PI3K/AKT/mTOR regulan esta transición.
+La capacidad de regular el ciclo celular en respuesta a las señales externas ayuda a prevenir el agotamiento de las células madre, o la pérdida gradual de células madre después de un equilibrio alterado entre estados inactivos y activos.
+Las poca frecuencia de división celular también ayuda a reducir el riesgo de adquirir mutaciones en el ADN que se transmitirían a las células hijas.
+Algunos descubrimientos en los últimos años dejan entrever que las células madre adultas podrían tener la capacidad de diferenciarse en tipos celulares de diferentes capas germinales.
+Por ejemplo, las células madre neurales del cerebro, que se derivan del ectodermo, pueden diferenciarse en ectodermo, mesodermo y endodermo.
+Las células madre de la médula ósea, que se deriva del mesodermo, pueden diferenciarse para constituir el hígado, el pulmón, el tracto gastrointestinal y la piel, que se derivan del endodermo y mesodermo.
+Este fenómeno se conoce como transdiferenciación o plasticidad de las células madre.
+Se puede inducir modificando el caldo de cultivo cuando las células madre son cultivadas in vitro o trasplantándolas a un órgano del cuerpo diferente del que fueron aisladas inicialmente.
+No obstante, todavía no no se ha llegado a un acuerdo entre los biólogos sobre la prevalencia y relevancia fisiológica y terapéutica de la plasticidad de las células madre.
+Los recientes descubrimientos demuestran que las células madre pluripotentes pueden encontrarse en la sangre y en tejidos adultos en estado latente.
+Estas células se conocen como «células madre similares a las blastómeras»(BLSCs por sus siglas en inglés) y "células madre muy pequeñas similares a las  embrionarias" (VSEL por sus siglas en inglés), que muestran pluripotencia in vitro. Como las células BLSCs y VSEL están presentes en prácticamente todos los tejidos adultos, incluyendo los del pulmón, cerebro, riñones, músculos y páncreas, la co-purificación de las células BLSCs y VSEL con otras poblaciones de células madre adultas puede explicar la aparente pluripotencia de las poblaciones de células madre adultas.
+Sin embargo, estudios recientes han demostrado que tanto las células VSEL humanas como murinas carecen de las características de las células madre y no son pluripotentes.
+La actividad de las células madre se ve afectada con la edad, y esto contribuye al deterioro progresivo del mantenimiento y reparación de los tejidos.
+Una causa importante probable de la disfunción creciente de estas células es la acumulación de daños en el ADN causados por la edad, tanto en las células madre como en aquellas que forman parte de su entorno.
+(Véase también la teoría del envejecimiento por daño en el ADN.)
+Sin embargo, las células madre adultas pueden ser revertidas artificialmente a un estado donde se comporten como células madre embrionarias (incluyendo los mecanismos asociados de reparación del ADN).
+Este experimento se hizo con ratones en el 2006 con el fin de que en un futuro se lograra ralentizar sustancialmente el envejecimiento humano.
+Tales células son una de las diversas clases de células madre inducidas.
+La investigación de células madre adultas se ha centrado en descubrir los mecanismos moleculares generales que controlan su auto-renovación y diferenciación.
+La ruta de señalización Notch es conocida desde hace décadas por los biólogos del desarrollo.
+Su papel en el control de la proliferación de células madre se ha puesto de manifiesto ahora en varios tipos de células como las células madre hematopoyéticas, neurales y mamarias.
+Estas vías de desarrollo se encargan principalmente del control de la formación de las células madre.
+La familia de TGFβT de citocinas regula la creación de las células normales y la de las células madre cancerígenas.
+Las células madre hematopoyéticas (CHS) son células madre que pueden diferenciarse para constituir todas las células sanguíneas.
+Este proceso se llama hematopoyesis.
+Las células madre hematopoyéticas se encuentran en la médula ósea y en la sangre del cordón umbilical.
+Las células madre mamarias proporcionan la fuente de células para el crecimiento de la glándula mamaria durante la pubertad y la gestación y desempeñan un papel importante en la carcinogénesis de la mama.
+Estas células se han aislado del tejido humano y de ratones, así como de las líneas celulares derivadas de la glándula mamaria; pueden dar lugar tanto a tipos de células luminales y mioepiteliales de la glándula y se ha demostrado que tienen la capacidad de regenerar todo el órgano en el caso de ratones.
+Las células madre gástricas adultas (Gastric Stem Cells), reponen el epitelio gástrico durante toda la vida.
+Se han identificado diversas poblaciones de células madre y células progenitoras, en diferentes regiones del estómago, tanto en el cuerpo (corpus) como en el antro (antrum).
+Las (Gastric Stem Cells) y las células Progenitoras (amplificadoras de tránsito), se encuentran situadas en dos sectores aislados de la glándula, denominados «nichos», que están: uno cerca del fondo (o base) y el otro en el istmo.
+Las células madre intestinales se dividen continuamente durante toda la vida y utilizan un complicado programa genético que produce las células que recubren la superficie del intestino delgado y grueso.
+Las células madre se encuentran cerca de la base de las llamadas criptas de Lieberkühn o nicho de células madre.
+Las que son probablemente, también la causa de la mayoría de los cánceres del intestino delgado y del colon.
+Las células madre mesenquimales (CMS) son de origen estromal y pueden convertirse en distintos tipos de tejidos.Éstas se han aislado de la placenta, tejido adiposo, pulmón, médula ósea y sangre, gelatina de Wharton del cordón umbilical y dientes (nichos perivasculares de pulpa dental y ligamento periodontal).
+Además son atractivas para la terapia clínica debido a su capacidad para diferenciar, proporcionar apoyo trófico y modular la respuesta inmune innata.
+Las CMS tienen la capacidad de diferenciarse para formar varios tipos celulares como osteoblastos, condroblastos, adipocitos, células neuroectodérmicas y hepatocitos.
+Los mediadores bioactivos que favorecen el crecimiento celular local también son secretados por las CMS.
+También se observan efectos antiinflamatorios sobre el microambiente local, que favorecen la curación del tejido.
+La respuesta inflamatoria puede ser modulada por células regeneradoras derivadas del tejido adiposo (ADRC por sus siglas en inglés) incluyendo células madre mesenquimales y linfocitos T reguladores.
+Las células madre mesenquimales alteran así el resultado de la respuesta inmune cambiando la secreción de citoquina de subgrupos de células dendríticas y de células T, lo que implica un cambio de un ambiente pro-inflamatorio a un ambiente celular antiinflamatorio o tolerante.
+Las células madre endoteliales son uno de los tres tipos de células madre multipotentes que se encuentran en la médula ósea.
+Son un grupo poco frecuente y polémico con capacidad de diferenciarse en células endoteliales, las células que recubren los vasos sanguíneos.
+La existencia de células madre en el cerebro adulto se ha confirmado tras el descubrimiento de que el proceso de neurogénesis, el nacimiento de nuevas neuronas, continúa en la edad adulta en el caso de las ratas.
+La presencia de estas células en el cerebro de un primate maduro se descubrió por primera vez en 1967.
+Desde entonces se ha demostrado que se generan nuevas neuronas en ratones adultos, pájaros cantores y primates, incluidos los humanos.
+Normalmente, la neurogénesis adulta se limita a dos áreas del cerebro: la zona subventricular, que reviste los ventrículos laterales y el giro dentado de la formación hipocámpica.
+Aunque la generación de nuevas neuronas en el hipocampo está bien establecida, se ha debatido sobre la presencia o no de verdaderas células madre autorrenovables.
+Bajo ciertas circunstancias, como después de un daño tisular isquémico, se puede inducir la neurogénesis en otras regiones del cerebro, incluyendo el neocórtex.Las células madre neurales son comúnmente cultivadas in vitro como las llamadas neurosferas – agregados heterogéneos flotantes de células, que contienen una gran proporción de células madre.
+Pueden propagarse por períodos prolongados de tiempo y diferenciarse tanto en células neuronales como gliales, y, por lo tanto, comportarse como células madre.
+Sin embargo, algunos estudios recientes sugieren que este comportamiento es inducido por las condiciones de cultivo en las células progenitoras, la progenie de la división de células madre que normalmente se someten a un número estrictamente limitado de ciclos de replicación en vivo. Además, las células derivadas de neuroesferas no se comportan como células madre cuando se trasplantan de nuevo al cerebro.
+Las células madre neurales comparten muchas propiedades con las células madre hematopoyéticas (CHS).
+Es sorprendente como cuando se inyectan en la sangre, las células derivadas de neuroesferas se diferencian en varios tipos celulares del sistema inmunológico.
+Las células madre adultas olfativas se han obtenido con éxito de las células de la mucosa olfatoria humana, que se encuentran en el revestimiento de la nariz y están relacionadas con el sentido del olfato.
+Si se les da el ambiente químico adecuado, estas células tienen la misma capacidad que las células madre embrionarias para convertirse en muchos tipos de células diferentes.
+Las células madre olfativas tienen potencial terapéutico y, a diferencia de las células madre neurales, se pueden obtener con facilidad sin dañar al paciente.
+Esto significa que se pueden obtener fácilmente de todos los individuos, incluyendo pacientes mayores que podrían ser los más necesitados de terapias con células madre.
+Los folículos pilosos contienen dos tipos de células madre, una de las cuales parece representar un remanente de las células madre de la cresta neural embrionaria.
+Se han encontrado células similares en el tracto gastrointestinal, el nervio ciático, el tracto de salida cardiaca y los ganglios espinal y simpático, las cuales pueden generar neuronas, células de Schwann, miofibroblastos, condrocitos y melanocitos.
+Científicos de Alemania y de los Estados Unidos han derivado células madre multipotentes a partir de células progenitoras espermatogoniales de testículos de ratones de laboratorio, que se han considerado equivalentes a las células madre embrionarias.
+Un año después, investigadores de Alemania y el Reino Unido han confirmado la posibilidad de hacer lo mismo utilizando células de testículos humanos.
+Las células madre extraídas se conocen como células madre de la línea germinal adulta humana (GSC) Las células madre multipotentes también se han derivado de las células germinativas que se encuentran en los testículos humanos.
+Los tratamientos de células madre adultas se han utilizado durante muchos años para tratar con éxito la leucemia y el cáncer de hueso/sangre utilizando trasplantes de médula ósea.
+El uso de células madre adultas en la investigación y la terapia no se considera tan controvertido como el uso de células madre embrionarias, porque la producción de células madre adultas no requiere la destrucción de un embrión.
+Las aplicaciones regenerativas tempranas de las células madre adultas se han centrado en la administración intravenosa de progenitores de sangre conocidos como células madre hematopoyéticas (HSC por sus siglas en inglés).
+Las células madre hematopoyéticas CD34+ se han utilizado clínicamente para tratar diversas enfermedades, como lesiones en la médula espinal, cirrosis hepática y enfermedad vascular periférica.
+Las investigaciones han demostrado que las células madre hematopoyéticas CD34+ son relativamente más numerosas en hombres que en mujeres de edad reproductiva entre las víctimas de lesiones de médula espinal.
+Otras aplicaciones comerciales tempranas se han centrado en células madre mesenquimales (CMS).
+Para ambas líneas celulares, la inyección directa o la colocación de células en un sitio que necesita reparación puede ser el método preferido de tratamiento, ya que la administración vascular adolece de un "efecto de primer paso pulmonar" donde las células inyectables por vía intravenosa son captadas por los pulmones.
+Se han publicado informes de casos clínicos en aplicaciones ortopédicas.
+Wakitani ha publicado una serie de casos de nueve defectos en cinco rodillas que implican trasplante quirúrgico de células madre mesenquimales con cobertura de los defectos condrales tratados.
+Centeno et al. han informado sobre pruebas de resonancia magnética de alto campo que muestran el aumento del volumen de cartílago y menisco en sujetos clínicos humanos individuales, así como un gran estudio de seguridad n=227.
+Muchos otros tratamientos basados en células madre se están ofreciendo fuera de los Estados Unidos y se ha informado de la existencia de mucha controversia en relación con estos tratamientos, ya que hay quien cree que se necesita más regulación, pues las clínicas tienden a exagerar las afirmaciones de éxito y minimizar u omitir los riesgos.
+El potencial terapéutico de las células madre adultas es el foco de muchos estudios científicos, debido a su capacidad para ser extraídas del cuerpo de la mujer durante el parto.
+En común con las células madre embrionarias, las células madre adultas tienen la capacidad de diferenciarse en más de un tipo de célula, pero a diferencia del primero a menudo se limitan a ciertos tipos o "linajes".
+La capacidad de una célula madre diferenciada de un linaje para producir células de un linaje diferente se llama transdiferenciación.
+Algunos tipos de células madre adultas son más capaces de la transdiferenciación que otros, pero para muchos no hay evidencia de que tal transformación sea posible.
+En consecuencia, las terapias con células madre adultas requieren una fuente de células madre de un linaje específico necesario, y obtenerlas y/o cultivarlas en la cantidad necesaria es todo un desafío.
+Además, las señales del entorno inmediato (incluida la rigidez o porosidad de la estructura o matriz extracelular circundante) pueden alterar o mejorar el destino y la diferenciación de las células madre.
+Las células madre pluripotentes, es decir, las células que pueden dar lugar a cualquier tipo de célula fetal o adulta, se pueden encontrar en varios tejidos, incluyendo la sangre del cordón umbilical.
+Usando reprogramación genética, las células madre pluripotentes equivalentes a las células madre embrionarias proceden del tejido humano de la piel adulta.
+Otras células madre adultas son multipotentes, lo que significa que pueden convertirse en varios tipos de células, y generalmente se denominan según su origen tisular (como células madre mesenquimales, células madre derivadas de adiposa, células madre endoteliales, etc.).
+Gran parte de la investigación sobre las células madre adultas se ha centrado en investigar su capacidad de dividirse o auto-renovarse indefinidamente, y su potencial de diferenciación.
+En ratones, las células madre pluripotentes se pueden generar directamente a partir de cultivos de fibroblastos adultos.
+En los últimos años, la aceptación del concepto de células madre adultas ha aumentado.
+Actualmente existe la hipótesis de que las células madre residen en muchos tejidos adultos y que estos depósitos únicos de las células no solo son responsables de los procesos reparativos y regenerativos normales, sino que también se consideran el eje principal para los cambios genéticos y epigenéticos, lo que deriva en muchas condiciones anormales, incluyendo el cáncer.
+(Ver células madre cancerosas para más detalles.)
+Los transportadores exprés de células madres adultas de la familia ABC bombean activamente diversas moléculas orgánicas de la célula.
+Muchos productos farmacéuticos son exportados por estos transportadores provocando fármacorresistencia a la célula.
+Esto complica el diseño de fármacos, por ejemplo, terapias dirigidas a las células madre neurales para el tratamiento de la depresión clínica.

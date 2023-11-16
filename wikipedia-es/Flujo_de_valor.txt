@@ -1,0 +1,25 @@
+Flujo de valor es la combinación de las actividades de la cadenas de valor.
+Las cadenas de valor es la forma en que la empresa ejecuta su propuesta de valor derivado de un externo (por ejemplo, el cliente) o internas de las partes interesadas de una organización.
+La cadena de valor describe las partes que participan, las etapas por las que crear valor específico, y la propuesta de valor derivado de la cadena de valor.
+La cadena de valor es representada como la colección de las actividades de valor añadido de extremo-a-extremo que crean un resultado global de un cliente, de las partes interesadas, o el usuario final.
+En términos de modelado, esas actividades de valor agregado están representadas por etapas de la cadena de valor, cada una de las cuales crea y agrega elementos de valor incrementales para las partes interesadas de una etapa a la siguiente.
+Si bien se hace referencia a los flujos de valor en múltiples metodologías, existe un creciente acuerdo sobre la descripción y el propósito de los flujos de valor como un dominio central de la arquitectura empresarial que desde entonces ha sido aplicado por múltiples organismos de normalización.
+Las corrientes de valor son un componente del ecosistema empresarial que describe cómo un interesado, a menudo un cliente, recibe valor de una organización.
+A diferencia de muchos intentos anteriores de describir el valor de las partes interesadas, las corrientes de valor adoptan la perspectiva de las partes interesadas iniciadoras o desencadenantes en lugar de una perspectiva de proceso o cadena de valor interna.
+Desde esta visión de afuera hacia adentro, las corrientes de valor se pueden mapear para habilitar las capacidades comerciales que describen qué y cómo, respectivamente, una organización debe hacer para entregar valor a las partes interesadas.
+Los flujos de valor representan puntos de vista de un extremo a otro sobre cómo se logra el valor para un determinado actor externo o interno.
+Las corrientes de valor se nombran con una definición de la propuesta de valor proporcionada a las partes interesadas.
+Las partes interesadas dentro de un flujo de valor pueden adoptar dos formas:
+Además, los flujos de valor se componen de etapas de flujo de valor, que representan elementos de valor iterativos que se acumulan para ofrecer valor en todo el flujo de valor y, en última instancia, entregar una propuesta de valor.
+Las corrientes de valor a menudo se ven en una forma en la que se asignan de forma cruzada a las partes interesadas y las capacidades.
+Estas asignaciones cruzadas permiten a los profesionales identificar mejor a las personas y organizaciones a las que se les proporciona valor, o de las cuales se les proporciona.
+Por ejemplo, las capacidades habilitadoras, asociadas con cada etapa de la cadena de valor, producen resultados que contribuyen colectivamente a la creación de un elemento de valor dentro de esa etapa.
+En otras palabras, las capacidades hacen el trabajo para lograr cada elemento de valor en cada etapa.
+Además, muchos profesionales alinean los flujos de valor y las etapas del flujo de valor con las capacidades comerciales.
+Esto facilita la alineación de cómo una organización proporciona valor a la visión interna de lo que hace una empresa.
+Existen múltiples conceptos erróneos sobre el concepto de flujos de valor.
+Estos se describen en un alto nivel a continuación, con referencias a información adicional sobre cada uno.
+Para aclarar:
+La inclinación de la cadena de valor es una representación esquemática de la secuencia de actividades necesarias para diseñar, producir y entregar un bien o servicio a un cliente.
+A pesar de la similitud en el nombre de la Arquitectura de Negocio de la cadena de valor, la inclinación de la cadena de valor principal propósito es documentar, analizar y mejorar el flujo de información o materiales necesarios para producir un producto o servicio para un cliente.
+Su objetivo no es (ni es adecuado) a la más amplia arquitectónico de los efectos – es decir, la descomposición de abajo para las actividades críticas (o etapas) que, progresivamente, se combinan para producir un valor para una de las partes, o de la cruz-la asignación de esas etapas de la cadena de valor para la habilitación de capacidades de negocio.

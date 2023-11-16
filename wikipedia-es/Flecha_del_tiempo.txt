@@ -1,0 +1,76 @@
+El concepto de flecha del tiempo se refiere popularmente a la dirección que el mismo registra y que discurre sin interrupción desde el pasado hasta el futuro, pasando por el presente, con la importante característica de su irreversibilidad, es decir, que futuro y pasado, sobre el eje del presente, muestran entre sí una neta asimetría (el pasado, que es inmutable, se distingue claramente del incierto futuro).
+La expresión en sí, flecha del tiempo, fue acuñada en el año 1927 por el astrónomo británico Arthur Eddington, quien la usó para distinguir una dirección en el tiempo en un universo relativista de cuatro dimensiones, el cual, de acuerdo con este autor, puede ser determinado por un estudio de los distintos sistemas de átomos, moléculas y cuerpos.
+En 1928, Eddington publicó su libro The Nature of the Physical World, que contribuyó a popularizar la flecha del tiempo.
+En él, el autor escribió:
+Eddington, por lo tanto, señala tres puntos distintivos de esta flecha:
+Así pues, de acuerdo con Eddington, la flecha del tiempo indica la dirección del incremento progresivo del elemento aleatorio.
+Siguiendo un antiguo argumento de la termodinámica, Eddington concluye que en lo que respecta a la ciencia física, la flecha del tiempo es una propiedad exclusiva de la entropía.
+A partir del surgimiento de la mecánica cuántica, hace un siglo, se cree que los procesos físicos a nivel microscópico son en su mayor parte temporalmente simétricos, lo que sugiere que las afirmaciones teóricas que los describen serán verdaderas si la dirección del tiempo es reversible.
+En el plano macroscópico sucede todo lo contrario, ya que existe una dirección clara en la flecha del tiempo, del pasado al futuro (el vaso de cristal que cae de la mesa se rompe contra el suelo, sin volver a recomponerse nunca sobre la mesa).
+La flecha del tiempo, pues, estaría representada por cualquier cosa que exhibiese dicha asimetría temporal.
+O, en otras palabras, que en el plano macroscópico, o visible, el tiempo marcha siempre hacia delante, mientras que en el microscópico, o de las partículas elementales, puede hacerlo igualmente hacia atrás.
+La simetría del tiempo puede ser entendida mediante una simple analogía: si el tiempo fuese perfectamente simétrico sería posible ver una película —que hubiese filmado sucesos reales— de manera que todo lo que se visualizase en la misma pareciese realista, ya se pasase la película hacia delante o hacia atrás.
+La existencia de una flecha del tiempo determinada se observaría fácilmente al ver el vaso de cristal recomponiéndose sobre la mesa después de roto y juzgar que no sería una escena realista.
+Sin embargo una filmación de los planetas del sistema solar orbitando alrededor del sol hacia atrás podría resultar tan realista como hacia delante, porque en ambos casos semejarían obedecer las leyes físicas.
+Ha de considerarse una situación en la que un gran contenedor es rellenado con dos líquidos separados, por ejemplo, un tinte coloreado en un lado y agua en el otro.
+Sin ninguna barrera entre ambos líquidos, el empuje mutuo entre sus moléculas resultaría en una mezcla mayor a medida que pasase el tiempo.
+Del mismo modo, una vez mezclados el tinte y el agua, uno no esperaría nunca que volviesen a separarse por sí mismos.
+Una película del proceso de mezcla sería realista si, y solo si, se proyectase hacia delante, pero nunca si se proyectase hacia atrás.
+Si el contenedor es observado al principio del proceso de mezcla, se verían los líquidos solo parcialmente mezclados.
+Sería razonable concluir que, sin necesidad de una comprobación externa, el líquido alcanzaría este estado debido a que estaría más ordenado en el pasado, cuando había más separación de moléculas, y estaría más desordenado o mezclado, en el futuro.
+Ahora imaginemos que el experimento se repite, esta vez usando solo unas pocas moléculas, por ejemplo, diez moléculas, en un contenedor muy pequeño.
+Al chocar entre sí, podría ocurrir que las moléculas, por mera casualidad, se segregasen limpiamente unas de otras, con las de tinte de un lado y las de agua del otro, lo que puede esperarse que suceda de vez en cuando, obedeciendo a la teoría de la fluctuación cuántica, que prevé la posibilidad, ya sea pequeña, de que las moléculas se separen en algún momento de esa forma por sí mismas.
+Sin embargo, considerando un número mucho más elevado de moléculas, es tan improbable esta segregación que, para que ocurra, de media, podría esperarse que pasase más tiempo del transcurrido desde el origen del universo.
+Así pues, una película que mostrase un gran número de moléculas separándose por sí mismas, como se ha descrito anteriormente, podría parecernos no realista y uno se inclinaría a afirmar que la película había sido proyectada al revés.
+Este concepto viene previsto en la Segunda Ley de la Termodinámica, que sostiene que en el seno de un sistema aislado, la entropía solo puede incrementarse con el tiempo, y nunca disminuir.
+La entropía puede ser concebida como la tendencia al desorden de todo sistema organizado, o como una medida de ese desorden, y de esta manera la Segunda Ley implica que el tiempo es asimétrico con respecto a la cantidad de orden en un sistema aislado: a medida que el tiempo pasa, todo sistema se vuelve más desordenado.
+La consecuencia inmediata es que esta asimetría puede servir empíricamente para distinguir entre pasado y futuro.
+La termodinámica no es aplicable estrictamente a todos los fenómenos, dado que ciertos sistemas pueden fluctuar a estados de menor entropía, de acuerdo con el Teorema de recurrencia de Poincaré.
+Sin embargo, sirve para describir la tendencia general existente en la naturaleza a una mayor entropía.
+La flecha del tiempo de la termodinámica parece estar relacionada con las siguientes flechas del tiempo, y presumiblemente subyace a todas ellas, con excepción de la flecha del tiempo débil (véase más adelante).
+La flecha del tiempo cosmológica define la dirección de un universo en expansión, o inflacionario.
+Esto puede ser relacionado con la flecha de la termodinámica, la cual, debido a la antes descrita entropía, prevé un universo encaminado a una muerte térmica (en inglés, Big Chill o Big Freeze) en que la cantidad de energía aprovechable se vuelve insignificante.
+El físico británico Stephen Hawking se plantea, en este sentido, qué ocurriría si el universo dejase de expandirse y empezase a contraerse por haber superado el límite gravitacional crítico, con una flecha del tiempo invertida, en la cual la gravedad tendiese a colapsarlo todo en un Big Crunch (en castellano gran implosión o gran crujido, contraria al Big Bang).
+Concluye que la flecha termodinámica no se invertiría y no se iniciaría la disminución del desorden.
+"La gente no viviría sus vidas hacia atrás, hacia el nacimiento."
+Asimismo, sigue Hawking, con arreglo al principio antrópico, actualmente solo podemos estar viviendo en la fase expansiva (y de evolución biológica) del universo, ya que seres inteligentes solo pueden existir en dicha fase debido a que la fase contractiva sería inadecuada para ello, al no poseer una flecha termodinámica y psicológica clara del tiempo (a consecuencia del gran enfriamiento y del bajo nivel de entropía a que se habría llegado).
+Si la flecha del tiempo cosmológica está relacionada con las otras flechas, en tal caso el futuro es, por definición, la dirección en la que el universo va creciendo.
+Así, el universo se expande más que contraerse, por definición.
+Para el físico Roger Penrose la esperada unificación de las físicas relativista y cuántica (en concreto la teoría cuántica de la gravedad) permitirá por fin la comprensión profunda de la flecha del tiempo.
+Toda onda física, desde las ondas de radio hasta las ondas sonoras, o las que surgen alrededor de una piedra arrojada al agua, se expanden hacia afuera desde su fuente, aunque las ecuaciones de onda contemplan la existencia tanto de ondas convergentes como de ondas radiantes.
+Esta flecha ha sido invertida en experimentos cuidadosamente diseñados[ cita requerida] que han originado ondas convergentes.
+La posibilidad de crear condiciones iniciales para producir ondas convergentes es mucho más baja que la probabilidad de las condiciones que producen ondas radiantes.
+Normalmente, pues, la onda radiante incrementa la entropía, mientras que la onda convergente la reduce, oponiéndose por tanto esta última, en circunstancias corrientes, a la Segunda Ley de la Termodinámica.
+Las causas normalmente anteceden a los efectos.
+El futuro puede ser controlado, no así el pasado.
+Pero el problema de usar la causalidad como una flecha del tiempo, es que, como señaló el filósofo David Hume, la relación causal no puede ser percibida por sí misma, ya que el observador solo es capaz de percibir “el encadenamiento”, la sucesión de los sucesos, de la causa y el efecto, pero no un vínculo, por así decir, material o de alguna manera registrable.
+Por otra parte, es sumamente difícil aportar una explicación clara del significado real de los términos causa y efecto.
+Está claro que dejar caer el vaso de cristal es la causa y su rotura el efecto, sin embargo, pudiera ser que la asimetría que el observador percibe en tal caso no es la propia de la flecha del tiempo causal realmente, sino de la termodinámica.
+Si la flecha termodinámica fuese invertida, entonces uno podría pensar que los trozos de vidrio eran la causa y el vaso recomponiéndose sobre la mesa el efecto.
+(Véase Retrocausalidad.)
+Ciertas interacciones en el plano subatómico implican que la fuerza nuclear débil viola la conservación de la paridad y la carga, pero solo muy raramente.
+De acuerdo con el teorema de la simetría CPT (simetría fundamental de las leyes físicas en el entorno de transformaciones que involucran las inversiones de la carga, paridad y tiempo simultáneamente), esto significa que el tiempo podría ser irreversible, y por tanto establece una flecha del tiempo.
+Estos procesos podrían ser responsables de la creación de materia en el universo primitivo.
+Esta flecha no está relacionada con ninguna otra por ningún mecanismo conocido, lo que podría sugerir que nuestro universo podría estar hecho de antimateria en lugar de materia.
+Más probablemente, las definiciones de materia y antimateria pueden ser invertidas.
+Esta paridad rota muy raramente significa que la flecha solo por muy poco apunta en una dirección, colocándose aparte de otras flechas cuyas direcciones son mucho más claras.
+De acuerdo con la interpretación de Copenhague de la mecánica cuántica, la evolución cuántica se encuentra gobernada por la ecuación de Schrödinger, que es temporalmente simétrica, y por el colapso de la función de onda, que es irreversible en el tiempo.
+Dado que el mecanismo del colapso de función de onda es todavía oscuro, no se conoce cómo esta flecha se vincula con las otras.
+Mientras que en el nivel microscópico el colapso parece no mostrar tendencia a incrementar o disminuir la entropía, algunos científicos opinan que existe un prejuicio que pone al descubierto a escala macroscópica la flecha termodinámica.
+De acuerdo con la teoría de la decoherencia cuántica, y asumiendo que el colapso de la función de onda es solo aparente, esta flecha del tiempo es una consecuencia de la flecha del tiempo termodinámica (véase Entropía).
+El tiempo psicológico es, en parte, el catálogo de la acumulación creciente de datos en la memoria a partir de continuas fluctuaciones en la percepción.
+En otras palabras, lo que recordamos configura el pasado, mientras que el futuro consiste en esos sucesos que no pueden ser recordados.
+El viejo método de comparar sucesos únicos para comprender y generalizar sucesos repetidos, como el movimiento aparente del sol, la luna y las estrellas, trasladado a todos los cuerpos celestes, es un buen modelo de ello.
+La acumulación de recuerdos en la memoria crea una flecha del tiempo mental.
+Otra flecha se origina por la sensación de que nuestra percepción es un continuo movimiento e intercambio entre lo desconocido (el futuro) y lo conocido (el pasado).
+La anticipación de lo desconocido conforma el futuro psicológico que siempre parece ser algo que avanza hacia delante, pero, como el reflejo en el espejo, configura lo que se haya archivado ya en la memoria, como los deseos, los sueños y las esperanzas, que, en efecto, parecen hallarse siempre para la persona más allá en el tiempo.
+La asociación mental entre el pasado (detrás) y el futuro (delante) puede hallarse culturalmente condicionada, como demuestra una investigación efectuada en 2006 con los indios Aimara, los cuales, contrariamente a los demás pueblos, perciben el futuro por detrás y el pasado por delante.
+La flecha del tiempo psicológica es reductible a la termodinámica si vemos la memoria como la correlación entre las neuronas (o los bits informáticos) y el mundo exterior.
+El volumen de memoria aumenta en esa correlación, pero siempre en el sentido del futuro, nunca del pasado.
+El paso del tiempo se aprecia también con claridad en el terreno de la volición y la acción, que tienden siempre a afectar positivamente para nosotros la configuración del futuro.
+Y, desde luego, nadie trataría nunca de afectar el curso del pasado.
+El proceso de envejecimiento supone, por desgracia, algo más que la simple acumulación de recuerdos, de ahí que el ser humano siempre haya tenido más ilusión en volver atrás en el tiempo que en viajar al futuro o en invertir la flecha del tiempo.
+Según el físico y estudioso de este problema Paul Davies, «pudiera ser que algún trabajo futuro localizara los procesos cerebrales responsables de nuestra impresión del paso del tiempo».
+En cualquier caso, Albert Einstein afirma siempre tajantemente: «Pasado, presente y futuro son sólo ilusiones, aunque sean ilusiones pertinaces».
+El paso del tiempo ha encandilado e intrigado a generaciones enteras de filósofos, artistas y poetas, pero para la ciencia física, desde comienzos del, «el tiempo, en su marco conceptual, no transcurre, sino que simplemente es» (Paul Davies).
+En inglés

@@ -1,0 +1,35 @@
+En geometría, un poliedro estrellado (o también poliedro estelado o poliedro en estrella) es aquel poliedro que tiene cierta cualidad repetitiva de no convexidad, lo que le otorga un aspecto visual similar al de una estrella.
+Hay dos tipos generales de poliedros estrellados:
+Los estudios matemáticos de los poliedros en estrella generalmente se refieren a los poliedros regulares, uniformes o duales de los poliedros uniformes.
+Todas estos poliedros estrellados son del tipo que se cortan a sí mismos.
+Los poliedros estrellados regulares son poliedros que se intersecan a sí mismos.
+Pueden tener caras autointersecantes o figuras de vértice autointersecantes.
+Hay cuatro poliedros estrellados regulares, conocidos como sólidos de Kepler-Poinsot.
+El símbolo de Schläfli {p,q} implica caras con p lados y figuras de vértice con q lados.
+Dos de ellos tienen caras pentagrámicas {5/2} y dos tienen figuras de vértice pentagrámicas.
+Estas imágenes muestran cada formulario con una sola cara de color amarillo para mostrar la parte visible de esa cara.
+También hay un número infinito de estrellas regulares diedrales y hosoedrales {2,p/q} y {p/q,2} para cualquier polígono estrellado {p/q}.
+Si bien degeneran en el espacio euclidiano, se pueden representar sobre una esfera en formas no degeneradas.
+Existen numerosos poliedros uniformes estrellados, entre los que se incluyen dos series infinitas de prismas y antiprismas y sus duales.
+Los poliedros uniformes estrellados y sus duales también se intersecan a sí mismos.
+Pueden tener caras autointersecantes, figuras de vértice autointersecantes o ambas.
+Los poliedros uniformes estrellados tienen caras en forma de polígonos regulares o de estrellas regulares.
+Los poliedros uniformes estrellados duales tienen caras regulares o figuras de vértices con forma de estrella regulares.
+Más allá de las formas anteriores, hay un número ilimitado de clases de poliedros autointersectantes (estrellados).
+Dos clases importantes son las estelaciones de los poliedros convexos y sus duales, los facetados de los poliedros duales.
+Por ejemplo, la estelación completa del icosaedro (véase la imagen) se puede interpretar como un poliedro que se interseca a sí mismo compuesto por 20 caras idénticas, cada una de las cuales es un polígono faceteado (9/4).
+A continuación se muestra una ilustración de este poliedro con una de sus caras dibujada en amarillo.
+Un politopo similarmente autointersectado en cualquier número de dimensiones se denomina politopo estrellado.
+Un politopo regular {p,q,r,...,s,t} es un politopo estrellado si cualquiera de sus facetas {p ,q,...s} o su figura de vértice {q,r,...,s,t } es un politopo estrellado.
+En cuatro dimensiones, los 10 policoros estrellados regulares se denominan policoros de Schläfli-Hess.
+De manera análoga a los poliedros estrellados regulares, estos 10 están compuestos por facetas que son uno de los cinco sólidos platónicos regulares o una de las cuatro sólidos de Kepler-Poinsot regulares.
+Por ejemplo, el gran gran estrellado de 120 celdas, proyectado ortogonalmente en el espacio tridimensional se ve así:
+No hay politopos estrellados regulares en dimensiones superiores a 4.
+Un poliedro que no se cruza a sí mismo, de modo que se puede ver toda su superficie interior desde un punto interior, es un ejemplo de dominio en estrella.
+Las porciones exteriores visibles de muchos poliedros estelares que se cortan a sí mismos forman los límites de los dominios estelares,
+pero a pesar de su apariencia similar, como poliedros abstractos estas son estructuras diferentes.
+Por ejemplo, el pequeño dodecaedro estrellado tiene 12 caras en forma de pentagrama, pero el dominio de la estrella correspondiente tiene 60 caras de triángulos isósceles y, en consecuencia, diferentes números de vértices y aristas.
+Las formas de los dominios de las estrellas poliédricas aparecen en varios tipos de arquitectura, generalmente de naturaleza religiosa.
+Por ejemplo, se ven en muchas iglesias barrocas como símbolos del papa que construyó la iglesia, en iglesias húngaras y en otros edificios religiosos.
+Estas estrellas también se pueden utilizar como decoración.
+La estrella de Moravia se utiliza para ambos propósitos y se puede construir de varias formas.

@@ -1,0 +1,23 @@
+Un hidruro es un compuesto químico formado por cualquier elemento y un hidrógeno, se dividen en hidruros metálicos, los cuales se forman con un metal + un hidrógeno, e hidruros no metálicos, los cuales se forman por un no metal + un hidrógeno.
+En un hidruro metálico el estado de oxidación del hidrógeno es 1.
+Además en disolución acuosa pueden aparecer el catión H+ (usualmente en la forma H3O+).
+Sin embargo, el catión H2+ no puede existir físicamente ya que el hidrógeno solo dispone de un electrón de valencia.
+Por otra parte el tratamiento riguroso de la mecánica cuántica predice que el anión H2- tampoco puede existir, aunque por razones diferentes relacionadas con el ha miltoniano cuántico de un átomo poliectrónico
+Son compuestos formados por hidrógeno y un elemento no metálico.
+El no metal siempre actúa con su menor número de valencia, por lo cual cada uno de ellos forma un solo hidruro no metálico.
+Generalmente se encuentran en estado gaseoso a la temperatura ambiente.
+Algunos manifiestan propiedades ácidas, tales como los hidruros de los elementos flúor, cloro, bromo, yodo, azufre, selenio y telurio; mientras que otros no son ácidos, como el agua, amoníaco, metano, silanos, etc.
+! Fórmula
+! Nomenclatura de composición o estequiométrica
+! En disolución acuosa
+! Fórmula
+! Nombrados así por la IUPAC
+Son compuestos binarios constituidos por hidrógeno y un elemento metálico.
+Algunos ejemplos importantes de este tipo de hidruros son:
+Los hidruros metálicos son el resultado de la unión entre el hidrógeno y un elemento metálico.
+Los hidruros metálicos se caracterizan por ser los únicos compuestos en los que el hidrógeno funciona como número de oxidación de –1.
+Para escribir la fórmula de un hidruro metálico primero se escribe el símbolo del elemento metálico (parte positiva) y después el del hidrógeno (parte negativa).
+Por ejemplo, la fórmula del hidruro que resulta al combinarse el calcio con el hidrógeno es la siguiente:
+Para nombrarlos se utiliza la palabra hidruro, la preposición de y el nombre del elemento metálico.
+En el sistema de Ginebra se usan las terminaciones -ico y -oso para indicar el mayor y el menor número de oxidación del elemento metálico, respectivamente; en el sistema de IUPAC esta distinción entre compuestos formados por el mismo elemento, pero con números de oxidación distintos, se señala con números.
+El hidruro es el mismo en ambos sistemas.

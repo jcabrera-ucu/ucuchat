@@ -1,0 +1,50 @@
+Infomed es el nombre que identifica a la red de personas e instituciones que trabajan y colaboran para facilitar el acceso a la información y el conocimiento, necesarios para mejorar la salud de los cubanos y de los pueblos del mundo.
+Surgió en el año 1992, como un proyecto del "Centro Nacional de Información de Ciencias Médicas", en aras de dar respuesta a la necesidad de facilitar el intercambio de información entre los profesionales, académicos, investigadores, estudiantes y directivos del Sistema Nacional de Salud cubano; convirtiéndose este en su principal objetivo.
+Surgió en 1992, como un proyecto del "Centro Nacional de Información de Ciencias Médicas", en aras de dar respuesta a la necesidad de facilitar el intercambio de información entre los profesionales, académicos, investigadores, estudiantes y directivos del Sistema Nacional de Salud cubano; convirtiéndose este en su principal objetivo.
+Su propósito es trabajar para construir colectivamente un ecosistema de personas, servicios y fuentes de información para la salud, que permita el acceso oportuno y eficiente a la información de calidad, y que despliegue las capacidades creativas de los miembros de la red como productores de información y conocimientos, para lograr las metas de salud de nuestro país y de otros.
+De igual modo se proyecta como una organización líder en el campo de la información en ciencias de la salud, sustentada en una dinámica y eficiente red de conocimientos de alto valor profesional y humano.
+Esta red dio sus primeros pasos internacionales al participar en un proyecto de la Organización Panamericana de la Salud y la Biblioteca Nacional de Medicina de los Estados Unidos para acceder a MEDLINE a través de la mensajería electrónica mediante el proyecto Batch
+Internet National Library of Medicine Information Systems (BITNIS).
+La red surgió como una iniciativa del Centro Nacional de Información de Ciencias Médicas, el cual se fundó en 1965 para atender las necesidades de información de los médicos y trabajadores de la salud.
+El proyecto se ha caracterizado por el uso de las tecnologías de la información y la comunicación con una visión social y a partir del desarrollo de las capacidades locales.
+Fue la primera red nacional que utilizó el sistema operativo GNU/Linux en todos sus servidores, y por el desarrollo de contenidos nacionales y servicios adecuados a su sistema de salud.
+Desde 1994 comenzó a ubicar los textos completos de las, con acceso libre en internet, y fomentó el desarrollo de sitios especializados en los más diversos temas de las ciencias médicas y de la salud pública.
+La red Infomed se distingue por su personal calificado.
+Cuenta con un grupo técnico de calidad en el nodo nacional y en los nodos provinciales para su administración eficiente; que constituye a su vez un equipo de referencia nacional en lo concerniente a las tecnologías de redes y telecomunicaciones.
+En Infomed convergen un conjunto de redes, que diseñan y generan servicios y productos de información.
+Entre ellas se encuentran las siguientes:
+Red de Editores del Portal
+Red de Bibliotecas
+Red de Nodos territoriales
+Red de centros cooperantes de la BVS
+Red de Cátedras de la UVS
+Red de Traductores
+Red de Editores Científicos
+Red de Formadores de Competencias Informacionales
+Red de Promotores de Eventos
+Red de Audiovisuales
+Red de profesores del SNICS.
+Cada una aporta contenidos y servicios con alto valor agregado, regidos por estándares de calidad y dirigidos a satisfacer las necesidades de información de los usuarios para los cuales están diseñadas.
+La red Infomed incluye especialistas de la salud, de las tecnologías y de las ciencias de la información; los cuales desarrollan funciones asistenciales, investigativas, docentes y gerenciales en las instituciones del sector de la salud en Cuba, así como en el ámbito internacional.
+Posee la Biblioteca Virtual de Salud (BVS) de Cuba, que es parte de la biblioteca virtual de América Latina y el Caribe promovida por BIREME, que es el Centro Latinoamericano y del Caribe de Información en Ciencias de la Salud con sede en São Paulo, Brasil, de la Organización Panamericana de la Salud OPS y la Organización Mundial de la Salud, (OMS).
+Cuenta con la Universidad Virtual de la Salud de Cuba, un Centro Virtual de Convenciones, sitios web de especialidades médicas y muchos otros servicios como Directorios, bases de datos bibliográficas, estadísticas de salud, colecciones de lecciones y presentaciones sobre temas especializados, discusiones diagnósticas, servicio de preguntas a expertos y otros.
+El Portal de Infomed se compone de una red de portales especializados sobre temáticas de ciencias médicas y de la salud y territoriales, que son mantenidos por grupos de especialidades de salud, sociedades científicas, bibliotecas y centros de información provinciales, municipales e institucionales.
+También se ofrece un servicio diario de noticias de salud y otros servicios especializados de información.
+Entre las fuentes de información más importantes de Infomed está la colección de las principales a texto completo.
+Un grupo importante de ellas forman la colección Scielo Cuba que es parte de la ya citada Biblioteca Virtual de Salud.
+La BVS también cuenta con una importante colección de libros de autores cubanos en ciencias médicas y de la salud.
+Infomed 2.0 es el nombre que sintetiza la propuesta de pasar a una nueva etapa en el desarrollo de la red, que se sustente en el trabajo colectivo de sus miembros.
+El nombre surge inspirado en el concepto Web 2.0, que se identifica con el conjunto de cambios tecnológicos, organizativos y culturales que se están produciendo en Internet y particularmente en el Web.
+Desde su surgimiento, Infomed fue pensada y desarrollada bajo los conceptos de un modelo descentralizado de construcción colectiva, de lo cual da fe el desarrollo de los nodos en todas las provincias, la creación de dominios territoriales, el desarrollo de sitios y páginas web a todos los niveles, la incorporación sostenida de usuarios y la amplia producción de contenidos y servicios en momentos en que aún no existían los blogs, los wikis y demás avances que hoy se resumen en la idea de Web 2.0.
+El desarrollo de la red de sitios web de especialidades de salud es un ejemplo de este tipo, y la existencia de páginas web de profesionales y de grupos, son antecedentes importantes de lo que hoy se pretende desarrollar.
+Por lo tanto, Infomed pretende crear un Ecosistema de personas, servicios y fuentes de información para la salud, sostenido por productos y servicios de información, comunicación y colaboración de excelencia, centrados en nuestros usuarios y construidos con su participación activa.
+Para ello se contará con las oportunidades que brindan un conjunto de herramientas tecnológicas y de modos de operar en la red que van a significar un cambio de cualidad en el que se destaca la creciente simplificación de la forma de acceder a las tecnologías y la creciente importancia del papel de las personas y de sus formas de trabajar en equipo y en colectivos.
+Aunque están pendientes inversiones importantes en infraestructura y comunicaciones, estos son problemas que se resolverán a corto y mediano plazo.
+Sin embargo, el reto más importante está del lado de los recursos humanos.
+Se ha propuesto comenzar por diseñar, implementar y sostener servicios alineados con la filosofía Infomed 2.0.
+Los patrones son una base, un referente y no un esquema.
+Cada persona que los use deberá ayudar a crear o generar nuevos patrones, a mejorar continuamente los existentes y a retroalimentar su uso con la práctica.
+Se ha producido un incremento del número de instituciones y usuarios conectados a la red Infomed, una mayor diversidad de sus necesidades y hay que buscar vías para potenciar su participación y lograr que los miembros de la red saquen el mayor provecho posible de la infraestructura disponible.
+El problema fundamental está en cómo desarrollar las capacidades de los miembros de Infomed para que utilicen de la forma más óptima posible los servicios, fuentes de información y herramientas de colaboración a su alcance y exploten efectivamente las oportunidades que ofrecen las redes.
+Infomed trabaja para construir colectivamente un Ecosistema de personas, servicios y fuentes de información para la salud, sostenido por herramientas de información, comunicación y colaboración de excelencia.
+Buscando desplegar las capacidades creativas de los miembros de la red en cuanto al uso de la información y el conocimiento para lograr las metas de salud de nuestro país sacando el máximo provecho de las posibilidades que ofrece el trabajo en red.

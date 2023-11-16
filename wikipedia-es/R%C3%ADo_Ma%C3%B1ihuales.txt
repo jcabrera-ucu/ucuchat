@@ -1,0 +1,29 @@
+El río Mañihuales es un curso natural de agua que fluye en la Región de Aysén con dirección general sur y al confluir con el río Simpson da vida al río Aysén.
+Existen dos opciones sobre cual debe ser considerado el origen del río.
+Hans Niemeyer lo describe como el río que "nace de la confluencia del río Picaflor que baja desde el norte, y del río Ñireguao que procede del oriente".
+Sin embargo, tanto la Dirección General de Aguas como empresas privadas mencionan, nombran o muestran como río Mañihuales al río que se reúne con el Ñireguao.
+H. Niemeyer describe así el nacimiento y cuenca superior del río que el llama Picaflor: "El río Picaflor nace de la falda sur del cerro Peñón vértice al cual concurren la divisoria de aguas de la cuenca con la del río Cisnes y con la del lago La Plata, y la divisoria de estas dos últimas cuencas. El Picaflor dirige su curso hacia SSO espacio de 12 km para luego doblar al oeste por 6 km, punto en el cual toma franca dirección al sur por 18 km hasta su junta al Ñireguao. En su curso superior recibe varios tributarios innominados en la carta, y en su curso medio y por la ribera izquierda le cae el emisario del pequeño lago Pedro Aguirre Cerda. Este lago recibe su alimentación desde la falda norte del llamado cordón Transversal. A menos de 6 km de la junta [con el Ñireguao] ''El Picaflor recibe por la ribera derecha el río Turbio, y a menos de 0,5 km más al sur se le junta por su izquierda el estero Pedregoso.
+El río Turbio tiene nacientes en la divisoria de aguas con los tributarios del lago Roosevelt, de la cuenca del río Cisnes, en una pequeña laguna.
+Dirige su cauce hacia el ESE y tras un recorrido de unos 26 a 27 km cae al Picaflor.
+Tiene varios afluentes: el estero Le Gloria, que baja desde el norte y los esteros Oyarzo, San Antonio y El Salto desde el sur.
+El estero Pedregoso es de corto curso, de 8 km, y de dirección E-O."''
+A partir de la junta con el Ñireguao todos los autores llaman al cauce río Mañihuales.
+Sigue entonces una dirección SO y recibe por su lado derecho al río Cañón que viene en línea recta desde el NE.
+Tres kilómetros aguas abajo de la junta con el Cañón, el Mañihuales recibe por el lado izquierdo al río Emperador Guillermo.
+A partir de la junta con el Ñireguao, comienza el río Simpson.
+Cerca de esa confluencia esta la localidad de Mañihuales y en la junta con el Simpson esta el poblado de El Balseo.
+El río Mañihuales tiene dos estaciones fluviométricas, una en Villa Mañihuales a 188 y otra antes de la junta con el río Simpson.
+La subcuenca del Mañihuales que incluye también la de sus afluentes, los ríos Emperador y Ñirehuao tiene un régimen pluvio–nival, con grandes caudales en agosto y octubre, resultado de precipitaciones invernales y deshielos
+primaverales respectivamente.
+El período de estiaje para años secos ocurre en el trimestre febrero, marzo, abril, debido a las bajas precipitaciones en ese período y a que los deshielos ocurren en los meses de primavera.
+El caudal del río (en un lugar fijo) varía en el tiempo, por lo que existen varias formas de representarlo.
+Una de ellas son las curvas de variación estacional que, tras largos periodos de mediciones, predicen estadísticamente el caudal mínimo que lleva el río con una probabilidad dada, llamada probabilidad de excedencia.
+La curva de color rojo ocre (con ) muestra los caudales mensuales con probabilidad de excedencia de un 50%.
+Esto quiere decir que ese mes se han medido igual cantidad de caudales mayores que caudales menores a esa cantidad.
+Eso es la mediana (estadística), que se denota Qe, de la serie de caudales de ese mes.
+La media (estadística) es el promedio matemático de los caudales de ese mes y se denota.
+Una vez calculados para cada mes, ambos valores son calculados para todo el año y pueden ser leídos en la columna vertical al lado derecho del diagrama.
+El significado de la probabilidad de excedencia del 5% es que, estadísticamente, el caudal es mayor solo una vez cada 20 años, el de 10% una vez cada 10 años, el de 20% una vez cada 5 años, el de 85% quince veces cada 16 años y la de 95% diecisiete veces cada 18 años.
+Dicho de otra forma, el 5% es el caudal de años extremadamente lluviosos, el 95% es el caudal de años extremadamente secos.
+De la estación de las crecidas puede deducirse si el caudal depende de las lluvias (mayo-julio) o del derretimiento de las nieves (septiembre-enero).
+Hans Steffen bautizó al río con el nombre Mañihuales durante su expedición en 1897 por la gran cantidad de mañíos que encontró en el valle.

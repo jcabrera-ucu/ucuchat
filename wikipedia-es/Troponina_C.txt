@@ -1,0 +1,5 @@
+La troponina C es una proteína parte del complejo troponina.
+En su estructura contiene cuatro elementos mano EF capaces de unir dos moléculas de Ca2+.
+En sus extremos C y N terminal posee dos lóbulos; el primero es capaz de unir al extremo N terminal de TnI; el segundo, elemento de unión a Ca2+, es el que posee capacidad reguladora y puede interactuar con TnI cuando esta proteína ha unido Ca2+.
+Los dos lóbulos antes mencionados se conectan mediante una alfa hélice de nueve vueltas.
+Como variantes específicas de tejido existen:

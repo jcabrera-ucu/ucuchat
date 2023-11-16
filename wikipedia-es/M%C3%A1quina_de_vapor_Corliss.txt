@@ -1,0 +1,74 @@
+Una máquina de vapor Corliss (o motor Corliss) es un tipo de máquina de vapor equipada con válvulas rotativas y de sincronización variable, patentada en 1849.
+Fue inventada por el ingeniero estadounidense George Henry Corliss de Providence, Rhode Island.
+Los motores equipados con sistemas de válvulas Corliss ofrecían una mejor eficiencia térmica que cualquier otro tipo de máquina de vapor estacionaria, hasta que aparecieron las máquinas de vapor de flujo unidireccional y las turbinas de vapor, ya en el siglo XX.
+Los motores Corliss eran generalmente un 30 por ciento más eficientes en combustible que las máquinas de vapor convencionales con corte fijo.
+Esta mayor eficiencia hizo que la energía del vapor fuera más económica que la energía hidráulica, permitiendo el desarrollo industrial lejos de los cursos de agua.
+Los motores Corliss se usaban típicamente como motores estacionarios para proporcionar potencia mecánica a un eje lineal en fábricas y talleres, y para impulsar dinamos que generaban electricidad.
+Muchas de estas máquinas eran bastante grandes, tenían muchos metros de altura y desarrollaban varios cientos de caballos de potencia, aunque a baja velocidad, girando enormes volantes que pesaban varias toneladas a aproximadamente 100 revoluciones por minuto.
+Algunos de estos motores han mantenido cometidos inusuales como sistemas mecánicos heredados, y debido a su relativamente alta eficiencia y bajos requisitos de mantenimiento, han permanecido en servicio hasta principios del siglo XXI, como por ejemplo, los motores en la cervecería Hook Norton y la Distillerie Dillon (véase la lista de motores operativos).
+Los motores Corliss tienen cuatro válvulas para cada cilindro, con válvulas de vapor y escape ubicadas en cada extremo.
+Incorporan distintos refinamientos tanto en las válvulas como en los mecanismos de distribución que las accionan, es decir, en el sistema de enlaces que las controlan.
+El uso de válvulas separadas para la admisión y el escape del vapor significa que ni las válvulas ni los pasos de vapor entre los cilindros y las válvulas necesitan cambiar la temperatura durante el ciclo de empuje y escape, y significa que la sincronización de las válvulas de admisión y escape se puede controlar de forma independiente.
+Por el contrario, las máquinas de vapor convencionales tienen una válvula deslizante o válvula de pistón por donde se alimenta y descarga alternativamente el cilindro a través de los conductos situados en cada extremo.
+Estos pasos están expuestos a grandes oscilaciones de temperatura durante el funcionamiento del motor, y se presentan elevados gradientes de temperatura dentro del mecanismo de la válvula.
+Clark (1891) comentó que el engranaje Corliss "es esencialmente una combinación de elementos previamente conocidos y utilizados por separado, que afectan al cilindro y al accionamiento de las válvulas".
+Los orígenes del sistema Corliss con respecto al sistema de la válvula de vapor anterior fueron rastreados por Inglis (1868).
+George Corliss recibió la para su accinamiento de válvulas el 10 de marzo de 1849.
+Esta patente cubría el uso de una muñequera para transmitir el movimiento de las válvulas mediante una sola excéntrica a las cuatro válvulas del motor, y cubría el uso de válvulas de disparo con corte variable bajo el regulador de control que caracterizaba a los motores Corliss.
+A diferencia de los motores posteriores, la mayoría de los cuales eran horizontales, esta patente describe un motor vertical, y utilizaba válvulas deslizantes individuales para la admisión y el escape en cada extremo del cilindro.
+Las válvulas de entrada se abren con un trinquete excéntrico; cuando se dispara el trinquete, el cierre rápido se amortigua con una lengüeta.
+En muchos motores, esta lengüeta funciona como un resorte de vacío para cerrar las válvulas, pero los primeros motores de Corliss fueron lo suficientemente lentos como para que el peso del pistón y la varilla cerraran la válvula.
+La velocidad de un motor Corliss se controlaba variando el corte de vapor durante cada ciclo de potencia, mientras se dejaba el acelerador completamente abierto en todo momento.
+Para lograr esto, el regulador centrífugo estaba conectado a un par de levas, una para cada válvula de admisión.
+Estas levas determinaban el punto durante la carrera del pistón que liberaraba el trinquete, permitiendo que la válvula se cerrara.
+Al igual que con todas las máquinas de vapor donde se puede regular el corte, la virtud de hacerlo radica en el hecho de que la mayor parte de la carrera de potencia es impulsada por la expansión de vapor en el cilindro después de que la válvula de admisión se ha cerrado.
+Esto se acerca mucho más al ciclo de Carnot ideal de lo que es posible con un motor donde la válvula de admisión está abierta durante la carrera de potencia y la velocidad está regulada por una válvula de mariposa.
+El engranaje de la válvula Corliss permitió una velocidad más uniforme y una mejor respuesta a los cambios de carga, lo que lo hacía adecuado para aplicaciones como trenes de laminación e hilatura, y expandió enormemente su uso en las fábricas.
+Las válvulas Corliss se abren directamente en el cilindro, y permiten separar las cámaras de vapor y de escape.
+Inicialmente, Corliss usó válvulas de corredera con actuadores lineales, pero en 1851, había cambiado a actuadores de válvula semi-rotativos, como se documenta en la patente de EE.
+UU.
+8253. En este motor, la placa excéntrica se movió al centro del lado del cilindro, como en los motores Corliss posteriores.
+Sin embargo, todavía era un motor de balancín, y los actuadores de válvula semi-rotativa operaban válvulas de deslizamiento lineales dentro de los cuatro cofres de válvulas del motor.
+Las válvulas Corliss tienen la forma de un segmento circular menor, que gira dentro de una cara cilíndrica de la válvula.
+Su mecanismo de accionamiento está desactivado a lo largo del eje de la válvula, por lo que tienen poco "espacio muerto", como el vástago de una válvula de asiento, y toda la zona de inserción se puede utilizar de manera eficiente para el flujo del vapor.
+Como el área de una válvula Corliss es pequeña en comparación con el área del puerto, los efectos del flujo de gas generan un par relativamente pequeño en el eje de la válvula en comparación con otros tipos de válvulas.
+Estas ventajas han llevado a que la forma de las válvulas Corliss se use en otras funciones, aparte de las máquinas de vapor con equipo Corliss.
+El motor aerodinámico Rolls-Royce Merlin utilizaba una válvula de mariposa rectangular como acelerador.
+Las fuerzas de flujo de gas que actúan de manera asimétrica en esta mariposa podrían conducir a un control deficiente de la potencia en algunas circunstancias.
+Los últimos modelos, del 134, utilizaron una válvula de mariposa Corliss para evitar este problema.
+Una característica común de los motores Corliss grandes es uno o dos juegos de dientes de engranaje estrechos en el borde del volante de inercia.
+Estos dientes permiten que el volante de inercia quede excluido, es decir, se podía desligar con la ayuda de una barra de hierro.
+Esto puede ser necesario durante el mantenimiento del motor, por ejemplo, para ajustar el corte y la sincronización de la válvula de admisión, y puede ser necesario durante el arranque del motor.
+La necesidad de bloquear el motor durante el arranque es más evidente en los motores de un solo cilindro, donde un operador descuidado del motor podría detener el motor con el pistón en el punto muerto o cerca de él.
+Una vez parado en este estado, el motor no puede arrancarse por su propia potencia, por lo que debe estar en una posición más favorable para arrancar.
+Los motores Corliss grandes no pueden arrancarse en frío de manera eficaz, por lo que era común suministrar vapor a baja presión a ambos lados del cilindro para calentar las piezas metálicas.
+Girar el motor lentamente durante este proceso facilita que se caliente uniformemente y garantiza que el aceite se distribuya uniformemente a través del mecanismo antes de aplicar el vapor al máximo.
+Nuevamente, se puede usar la restricción para hacer esto, aunque los operadores a veces lo hacen mediante una manipulación manual cuidadosa de la válvula.
+Para motores grandes, la fuerza de los brazos puede no ser suficientemente para ajustar la máquina Corliss, por lo que frecuentemente se instalaban motores de restricción.
+Eran motores pequeños, con dientes de engranaje cortados para acoplarse con los dientes del volante.
+En general, los engranajes impulsores del motor de restricción estaban diseñados para desconectarse automáticamente si el motor comenzaba a funcionar por su propia potencia mientras los engranajes de restricción estaban activados.
+The Corliss Steam Engine Company fue originalmente conocida como Fairbanks, Clark & Co. en la década de 1830.
+En 1843 pasó a llamarse Fairbanks, Bancroft & Co., cuando Edward Bancroft se unió a la compañía.
+En 1846 pasó a llamarse Bancroft, Nightingale & Co., cuando George H. Corliss se unió a la compañía, y en 1847 pasó a llamarse Corliss, Nightingale & Co. En 1848, la compañía se mudó a Charles Street Railroad Crossing en Providence, Rhode Island.
+En 1857, la compañía cambió de nombre por última vez, pasando a llamarse Corliss Steam Engine Company.
+En 1864, Corliss compró los derechos de sus socios y era el único propietario de la empresa.
+En 1900, la Corliss Steam Engine Company fue comprada por la International Power Company, y en 1905 pasó a formar parte de la American and British Manufacturing Company.
+En 1925, la compañía se fusionó con Franklin Machine Company.
+Para entonces, Franklin Machine Company ya era propiedad de la William A. Harris Steam Engine Company.
+Para 1859, todas las características clave de lo que ahora conocemos como el motor Corliss ya estaban fijadas.
+Las patentes otorgadas a Corliss y a otros incorporaron válvulas rotativas y cigüeñales en línea con los cilindros.
+Véase, por ejemplo, la Patente de Estados Unidos 24.618 de Corliss, otorgada el 5 de julio de 1859.
+Los inventores competidores trabajaron arduamente para inventar alternativas a los mecanismos de Corliss; generalmente evitaron el uso que había hecho Corlis de una placa excéntrica y adoptaron mecanismos de liberación alternativos para las válvulas de vapor, como en la Patente de Estados Unidos 19.640 de Jamieson, otorgada el 16 de marzo de 1858.
+La patente de 1849 de Corliss expiró en 1870; el plazo de esta patente había sido extendido por la reedición de la Patente de los Estados Unidos 200 el 13 de mayo de 1851 y las reediciones de la Patente de los Estados Unidos 758 y 763 el 12 de julio de 1859.
+B. Hick e Hijo fueron los primeros en introducir el motor Corliss en el Reino Unido alrededor de 1864.
+Después de 1870, muchas otras compañías comenzaron a fabricar motores Corliss.
+Entre ellos, la William A. Harris Steam Engine Company, la Worthington Pump and Machinery Company, y Allis-Chalmers.
+En general, estas máquinas se denominaban motores Corliss, independientemente de quién las fabricara.
+El Corliss Centennial Engine era un motor de viga rotativo especialmente diseñado para impulsar prácticamente todas las exhibiciones en la Exposición del Centenario en Filadelfia en 1876, mediante un conjunto de ejes con un total de más de una milla de largo.
+Encendido por el presidente Ulysses S. Grant y el emperador Pedro II de Brasil, el motor estuvo a la vista del público durante la feria.
+El motor se configuró con dos cilindros uno al lado del otro.
+Cada cilindro tenía 112 cm de diámetro, con una carrera de 3 m. Tenía 13,7 m de alto, un volante de 9 m de diámetro y producía 1400 caballos de potencia.
+Después de la feria, se desmontó y se envió de vuelta a la planta de Corliss en Providence.
+Siete años después fue vendido para alimentar la factoría de George Pullman en Chicago hasta 1910, cuando se vendió como chatarra.
+Este motor se convirtió en un icono cultural, tanto que para muchos historiadores modernos el término Motor Corliss (o Máquina de Vapor Corliss) se refiere a este motor específico y no a la amplia clase de motores equipados con engranajes de válvula Corliss.
+La Revista Mensual Mecánica Popular de abril de 1907, comentada en la página 416, cerca de la parte inferior derecha de la página, que: se puede hacer que una Máquina Corliss haga más trabajo al aumentar la presión de la caldera, aumentar la velocidad o dar menos vueltas a las válvulas de vapor.

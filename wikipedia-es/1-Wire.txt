@@ -1,0 +1,17 @@
+1-Wire es un protocolo de comunicaciones en serie diseñado por Dallas Semiconductor.
+Está basado en un bus, un maestro y varios esclavos de una sola línea de datos en la que se alimentan.
+Por supuesto, necesita una referencia a tierra común a todos los dispositivos.
+La línea de datos/alimentación requiere una resistencia de pull-up conectada a la alimentación y que le proporciona ésta.
+Se mantiene la señal de datos a 0 voltios durante 480 microsegundos.
+Se reinician todos los dispositivos conectados al bus (les retira la alimentación).
+Los dispositivos reiniciados indican su presencia manteniendo la señal de datos a 0 voltios durante 60 microsegundos.
+Para enviar un bit a 1 el maestro se lleva a 0 voltios la línea de datos durante 1-15 microsegundos.
+Para enviar un bit a 0 el maestro se lleva a 0 voltios la línea de datos durante 60 microsegundos.
+Los dispositivos esclavos leen el bit aproximadamente a los 30 microsegundos después del flanco de bajada de cada bit.
+Cuando el maestro lee los datos del dispositivo esclavo pone 0 voltios durante 1-15 microsegundos en la línea de datos y a partir de ese momento el esclavo no hace nada (la señal se mantiene en 5 voltios) si quiere enviar un 1 lógico o mantiene la señal en 0 voltios hasta los 60 microsegundos si quiere enviar un 0 lógico.
+Los datos se envían o reciben en grupos de 8 bits.
+Para iniciar una comunicación se reinicia el bus.
+El protocolo puede incluir detección de errores transmitiendo códigos de detección de errores (CRC).
+Como en el bus puede haber muchos dispositivos el protocolo incluye el direccionamiento de los mismos empleando un código único de 64 bits de los cuales el byte más significativo indica el tipo de dispositivo, y el último es un código de detección de errores (CRC) de 8 bits.
+Los comandos que pueden interpretar los dispositivos esclavos dependerán de estos.
+Para encontrar los dispositivos presentes en el bus el maestro puede enviar un comando de enumeración que responderán todos los dispositivos.

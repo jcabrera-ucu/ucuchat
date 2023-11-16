@@ -1,0 +1,74 @@
+Degradación polimérica es un cambio en las propiedades —fuerza de tensión, color, forma, etc.—de un polímero o producto basado en dicho compuesto, bajo la influencia de uno o varios factores ambientales como el calor, la luz o químicos como ácidos, alcalinos y algunas sales.
+Estos cambios son usualmente indeseables tal como el cracking y la desintegración química de productos, o rara vez deseable en biodegradación o disminuir deliberadamente el peso molecular de un polímero para ser reciclado.
+Los cambios en las propiedades comúnmente se denominan "envejecimiento".
+En un producto terminado tal cambio se busca prevenir o retrasar.
+La degradación puede ser útil para reciclar/reutilizar el desperdicio del polímero de manera que sea posible prevenir o reducir la contaminación ambiental.
+La degradación asimismo puede ser inducida deliberadamente para ayudar a la determinación de la estructura.
+Las moléculas poliméricas son muy largas (a nivel molecular) y sus propiedades únicas y útiles son en mayor parte resultado de su tamaño.
+Cualquier pérdida en el largo de la cadena disminuye su fuerza y es una causa primaria del cracking prematuro.
+Hoy día existen siete polímeros de materia prima en uso: polietileno, polipropileno, cloruro de polivinilo, polietileno tereftalato, poliestireno, policarbonato y poli(metil metacrilato) (Plexiglas).
+Estos generan el 98% de todos los polímeros y plásticos presentes en la vida diaria.
+Cada uno de estos polímeros tiene sus propios modos de degradación característicos y resistencias al calor, luz y químicos.
+El polietileno, polipropileno y poli(metil metacrilato) son sensibles a la oxidación y radiación UV, mientras que el PVC puede decolorarse a altas temperaturas debido a la pérdida de cloruro de hidrógeno, convirtiéndose así en un compuesto quebradizo.
+El PET es sensible a la hidrólisis y al ataque de ácidos fuertes, mientras que el policarbonato se depolimeriza rápidamente cuando es expuesto a alcalinos fuertes.
+Por ejemplo, el polietileno usualmente se degrada por cortes arbitrarios—esto es por una rotura al azar de las uniones (enlaces) que sostienen los átomos del polímero entre ellos.
+Cuando este polímero es calentado por encima de los 450 Celsius, se convierte en una mezcla compleja de moléculas de varios tamaños que se parecen a la gasolina.
+Otros polímeros—como el polialfametilestireno—presenta un corte de cadena 'específico' con la rotura ocurriendo únicamente al final; literalmente se separan o depolimerizan para convertirse en monómeros constituyentes.
+thumb|200px|Acercamiento a un conector de pipa de combustible roto
+Muchos polímeros pueden ser degradados por fotólisis para dar moléculas con un peso molecular menor.
+Ondas electromagnéticas con energía de luz visible o mayor, tal como la luz ultravioleta, X-ray y rayos gamma son comúnmente utilizados en tales reacciones.
+Polímeros de cadena creciente como el poli(metil metacrilato) pueden ser degradados por termólisis a altas temperaturas para dar lugar a monómeros, aceites, gases y agua.
+La degradación toma lugar por:
+Polímeros crecientes por pasos como el poliéster, la poliamida y el policarbonato pueden ser degradados por solvólisis y mayoritariamente hidrólisis, para dar lugar a moléculas con bajo peso molecular.
+La hidrólisis toma lugar en presencia de agua, la cual contiene un ácido o una base como catalizador.
+La poliamida es sensible a la degradación por ácidos y por ende los moldes de este compuesto se romperán al ser atacados por ácidos fuertes.
+Por ejemplo, la fractura de la superficie de un conector de combustible mostró el crecimiento progresivo del rompimiento generado desde el ataque del ácido (Ch) hasta la cúspide del polímero (C).
+El problema es conocido como estrés por corrosión al cracking y en este caso fue causado por la hidrólisis del polímero.
+Fue la reacción opuesta de la síntesis del polímero:
+400px
+Los rompimientos pueden ser formados en muchos elastómeros distintos por ataque de ozono.
+Pequeños rastros del gas en el aire atacan enlaces dobles en las cadenas de hule, con hule natural, polibutadieno, hule de estireno-butadieno y HNB siendo los más sensibles a la degradación.
+Las roturas del ozono generan compuestos sometidos a tensión, pero el esfuerzo crítico es muy pequeño.
+Los rompimientos se orientan siempre en ángulos dirigidos hacia el eje de tensión, de tal forma que se forme alrededor de la circunferencia un tubo torcido de hule.
+Estas roturas son peligrosas cuando ocurren en pipas de combustible debido a que crecerán desde las superficies exteriores hasta perforar la pipa y generar un derrame de combustible y la generación de fuego.
+El problema con el cracking del ozono puede ser prevenido añadiendo anti-ozonantes al hule antes de la vulcanización.
+Los cracks del ozono son comúnmente vistos en la banda lateral de las llantas de automóviles, pero ahora son rara vez vistos gracias a estos aditivos.
+Por otro lado el problema se repite con productos que no protegen tales como tuberías de hule y sellos.
+thumb|right|200px|Espectro IR mostrando absorción de [[carbonil debido a la degradación oxidativa del molde soporte de polipropileno]]
+Los polímeros son susceptibles a atacar debido al oxígeno atmosférico, especialmente a elevadas temperaturas halladas durante el proceso para dar forma.
+Muchos métodos de proceso como la extrusión y la inyección de molde envuelven bombear polímero derretido en herramientas y las elevadas temperaturas requeridas para fundir pueden resultar en oxidación a menos que se tomen precauciones.
+Por ejemplo, una muleta para el antebrazo de repente se rompió y el usuario resultó seriamente lesionado por la falla presentada.
+La muleta fracturó a través del polipropileno en el interior del tubo de aluminio del dispositivo y una espectroscopía por infrarrojo del material reveló que se oxidó, como posible resultado del deficiente moldeo al cual fue sometido.
+La oxidación es usualmente sencilla de detectar debido a la fuerte absorción por parte del grupo carbonilo en el espectro de poliolefinas.
+El polipropileno tiene un espectro relativamente simple con algunos picos en la posición del carbonilo (como el polietileno).
+La oxidación tiende a generarse en los átomos de carbono terciario ya que los radicales libres formados aquí son más estables y duran mucho más, haciéndolos más susceptibles al ataque por parte del oxígeno.
+El grupo carbonilo puede posteriormente ser oxidado para romper la cadena, esto debilita el material al reducir su peso molecular y los rompimientos tienden a comenzar en las regiones afectadas.
+La degradación polimérica por acción galvánica fue descrita por primera vez en la literatura técnica en 1990.
+Este fue el descubrimiento de que los "plásticos se pueden corroer", por ejemplo, la degradación polimérica que ocurre por acción galvánica es similar a la de los metales bajo ciertas condiciones.
+Normalmente cuando dos metales de especie diferente como el cobre (Cu) y el hierro (Fe) son puestos en contacto y luego inmersos en agua con sales el hierro experimentará corrosión o herrumbre.
+Esto es conocido como circuito galvánico en donde el cobre es el metal noble y el hierro es el metal activo, por ejemplo, el cobre es el cátodo o electrodo positivo (+) y el hierro es el ánodo o electrodo negativo (-).
+Una batería es formada.
+Los plásticos se hacen más fuertes al impregnarles pequeñas fibras de carbono, sólo unos pocos micrómetros de diámetro conocido como fibra de carbono refuerzan el polímero (RPFC).
+Esto con el fin de producir materiales que son fuertes y resistentes a las altas temperaturas.
+Las fibras de carbono actúan como un metal noble similar al oro (Au) o al platino (Pt).
+Cuando se ponen en contacto con un metal más activo, por ejemplo el aluminio (Al) en agua con sales, el aluminio se corroe.
+Sin embargo a inicios de 1990, se reportó que resinas de imida en compuestos de RPFC se degradan cuando un compuesto simple es emparejado con un metal activo en ambientes de agua con sales.
+Esto debido a que la corrosión no sólo ocurren en el aluminio ánodo, sino también en la fibra de carbono cátodo en forma de una base muy fuerte con un pH de aproximadamente 13.
+Esta base fuerte reacciona con la estructura de la cadena del polímero degradándolo.
+Los polímeros afectados incluyen bismaleimida (BMI), polimidas de condensación, triacinas y una mezcla entre estos.
+La degradación ocurre en la forma de resina disuelta y fibras.
+Los iones hidroxilo generados en el cátodo de grafito, atacan el enlace O-C-N en la estructura de la polimida.
+Procedimientos de protección estándar contra corrosiones se encontraron aceptados para prevenir degradaciones poliméricas en la mayoría de las condiciones.
+Otro gas altamente reactivo es el cloro, el cual ataca polímeros susceptibles tales como tuberías de poliacetal y polibutileno.
+Han existido muchos ejemplos de tuberías y juntas de acetal fallando en ciertas propiedades de EUA como resultado del cracking de cloro inducido.
+En esencia, el gas ataca partes sensibles de la cadena de moléculas (especialmente secundarias, terciarias o átomos de carbono alicíclicos), oxidando las cadenas y causando su división.
+La raíz del problema son porciones de cloro en el suplemento de agua, añadiendo la acción anti-bacterial, el ataque ocurre en proporciones de partes por millón del gas disuelto.
+El cloro ataca partes débiles del producto y en el caso de un cruce de poliacetal en sistema de suplemento de agua, son los hilos de raíces los que son atacados primeramente, causando un rompimiento ligero y cierta fragilidad.
+La decoloración en la superficie fracturada fue causada por la deposición de carbonatos del suministro de agua pesada, de tal forma que la junta presentó un estado crítico por varios meses.
+Los problemas en EUA también ocurren en tuberías de polibutileno, generando que el material sea removido del mercado, sin embargo aún es utilizado en otras partes del mundo.
+Los plásticos biodegradables pueden ser biológicamente degradados por microorganismos para dar lugar a moléculas con bajo peso molecular.
+Para degradar polímeros biodegradables de manera adecuada, éstos deben ser tratados como composta y no sólo ser dejados en un vertedero en donde la degradación es muy difícil debido a la carencia de oxígeno y humedad.
+Las aminas retrasadoras estabilizadoras, estabilizan en contra del clima al hurgar radicales libres que son producidos por foto-oxidación de la matriz polimérica.
+Los absorbedores-UV estabilizan en contra de la luz ultravioleta al absorber la misma y convirtiéndola en calor.
+Los antioxidantes estabilizan el polímero terminando la reacción en cadena debido a la absorción de luz UV proveniente de los rayos solares.
+La reacción en cadena iniciada por la foto-oxidación genera un alto en la reticulación de los polímeros y la degradación en las propiedades de los mismos.

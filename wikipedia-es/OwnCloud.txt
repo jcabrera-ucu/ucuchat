@@ -1,0 +1,14 @@
+ownCloud es una aplicación de software libre del tipo Servicio de alojamiento de archivos, que permite el almacenamiento en línea y aplicaciones en línea (cloud computing).
+ownCloud puede ser instalado dentro de un servidor que disponga de una versión reciente de PHP (mayor o igual a 5.6) y soporte de SQLite (base de datos por defecto), MySQL o PostgreSQL.
+El proyecto fue lanzado en enero de 2010 por Frank Karlitschek, un desarrollador del proyecto KDE, con el objetivo de dar a los usuarios el control de sus datos en la nube.
+ownCloud formó parte de la comunidad KDE pero luego se independizó.
+El 13 de diciembre de 2011 fue creada una entidad comercial fundada bajo el proyecto ownCloud.
+Dicha sociedad es una alternativa a las soluciones propuestas por Dropbox o Box.net, poniendo mucho énfasis en la flexibilidad y la seguridad.
+ownCloud es una alternativa libre a las soluciones privadas presentes en el mercado.
+En abril de 2016 Karlitschek abandonó la sociedad ownCloud Inc.
+En octubre de 2018 fue anunciada una asociación con ONLYOFFICE.
+La integración con ONLYOFFICE hace posible el acceso y la edición colaborativa de los formatos de archivo de Microsoft Office desde el frontend de ownCloud en tiempo real.
+ownCloud gestiona servidores en la nube, le permite a los usuarios crear uno desde cero.
+Usa la licencia AGPL adecuada para este tipo de software de red.
+Entre sus funcionalidades se destacan:
+Requiere tener instalado el servidor web Apache y el lenguaje php5.

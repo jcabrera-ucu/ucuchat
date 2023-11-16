@@ -1,0 +1,31 @@
+Linux Lite es una distribución Linux de la familia de Sistemas Operativos GNU/Linux, basada en Ubuntu, orientada al escritorio y desarrollada en Nueva Zelanda por Jerry Bezencon.
+Se caracteriza por ofrecer una experiencia de escritorio liviana y amigable con el usuario novato, por su facilidad de uso y por el poco consumo de recursos, gracias a su escritorio XFCE, un entorno personalizado, sencillo y ligero.
+Esta distribución de Linux, como la mayoría de ellas, es libre y está pensada para ser simple y rápida, adecuada para usuarios nuevos en Linux, quienes desean no solamente poder trabajar en un ambiente amigable, ligero y completamente funcional, sino también poder reutilizar viejas computadoras descartadas por los limitados recursos de la máquina o por los exigentes requerimientos de hardware que actualmente demandan para una PC otros sistemas operativos más recientes como Ubuntu Linux, Linux Mint, Manjaro Linux, Windows 7, Windows 8, Windows 10 u otros.
+Con la llegada de la Interfaz Unity a Ubuntu Linux, los usuarios novatos de GNU/Linux, en aquella época (2011), ven disminuidas las posibilidades de migrar a un Sistema Operativo diferente a Windows debido a la abismal diferencia encontrada en el entorno de escritorio de Ubuntu (Unity).
+No obstante, los usuarios de Windows XP cada vez tenían más cerca el fin del soporte técnico por parte de la casa matriz Microsoft Corporation, programado para abril de 2014, con lo cual dejarían de recibir sus actualizaciones de seguridad y millones de computadoras quedarían desprotegidas y expuestas a ataques en todo el mundo.
+Aunque Linux Mint, también derivada de Ubuntu, ya gozaba de muy buena reputación por ser más intuitiva y más amigable con el usuario que Ubuntu, la primera (Linux Mint) era demasiado robusta para máquinas con escasos recursos.
+Fue entonces cuando el equipo de desarrollo de Linux Lite entendió que debían aprovechar ese vacío para acaparar ese nicho de usuarios y proponerles extender la vida útil de sus viejas máquinas con un nuevo aire durante algunos años más, con una distribución GNU/Linux basada en Ubuntu pero versátil y parecida a Windows.
+El propósito de Linux Lite es ir introduciendo, poco a poco, a los usuarios de Windows en Linux, mostrando lo fácil que puede llegar a ser el uso de Linux en la actualidad, procurando que este Sistema Operativo se pueda usar tanto en ordenadores antiguos como en computadoras modernas.
+A primera vista Linux Lite se asimila un poco en su apariencia a Linux Mint Xfce, siendo menos robusta y más sencilla, con una interfaz gráfica que recuerda mucho a Windows XP.
+Orientada a usuarios que vienen precisamente de Windows XP, aunque con este mismo propósito también existen otras distribuciones como Q4OS basada directamente en Debian, o Zorin OS y Chalet OS, basadas en Ubuntu, las cuales clonan el aspecto de Windows.
+El eslogan publicitario de Linux Lite es “Simple, rápido, libre” (“Simple, fast, free”).
+Linux Lite actualmente está disponible solamente en versión de 64 bits desde de la actualización 4.0, a partir de la cual su equipo de desarrollo abandonó el soporte para los 32 bits, clausurando de cierto modo el soporte para algunas computadoras antiguas.
+Idioma español. El cambio de su interfaz al idioma español no resulta tan efectivo como en otras distribuciones ya que, al efectuar este ajuste, a muchos componentes les sigue faltando su traducción, como sucede con la pantalla de bienvenida, la cual se aprecia en Inglés.
+En este sentido aún se requieren mejoras.
+En la versión 5.4 escogieron el modelo de "paga lo que tu puedas" para poder agenciarse de fondos y así pudiendo ayudarlos si está en nuestras posibilidades, aunque siguen afirmando que la distribución será siempre gratis.
+Linux Lite incluye sus propios repositorios en el Gestor de Software, lo que facilita el mantenimiento y la actualización de paquetes propios como Lite User Manager, Lite Manual, Lite Fix y Lite Software que es un script que permite añadir o remover software adicional.
+También incluye muchos programas entre los que se encuentran algunos tan populares como: Skype, Dropbox, el plugin de Java, VirtualBox, PlayOnLinux, codecs multimedia, Chrome, Steam entre otros.
+Su interfaz predeterminada es XFCE.
+A partir de la versión 4.0, se eliminó el soporte para 32 bits, quedando disponible únicamente para sistemas de 64bits y elevando ligeramente los requisitos mínimos de hardware
+'''Requerimientos Mínimos para Linux Lite de 64 bits
+Procesador: 1 Ghz o superior
+Memoria RAM: 768 MB o más;
+Disco Duro: 8GB o más;
+Resolución VGA: 1024X768;
+Medios: Unidad de DVD o Puerto USB para correr la imagen ISO.
+'''Requerimientos recomendados
+Procesador: 1.5 Ghz o superior
+Memoria RAM: 1 GB o más;
+Disco Duro: 20GB HDD/SSD o más;
+Resolución VGA: 1366X768;
+Medios: Unidad de DVD o Puerto USB para correr la imagen ISO.

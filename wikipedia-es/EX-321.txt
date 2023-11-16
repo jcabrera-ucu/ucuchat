@@ -1,0 +1,14 @@
+La carretera EX-321 es de titularidad de la Junta de Extremadura.
+Su categoría es local.
+Su denominación oficial es <font style="background-color:yellow;color:black">  EX-321 , Circunvalación oeste de Zafra.
+<!--
+Es la antigua C-423 que fue renombrada en el cambio del catálogo de Carreteras de la Junta de Extremadura en el año 1997.
+Posteriormente, una vez construido el nuevo puente de Ajuda sobre el río Guadiana y haber continuidad internacional, se le añadió la EX-316 (antigua BA-211), en el Catálogo del año 2000, dándose de baja esta clave para esta carretera y asignándosela a la carretera de la <font style="background-color:orange;color:black">  EX-116  a Castilblanco por Valdecaballeros, transferida de la Diputación Provincial de Cáceres a la Junta de Extremadura en ese mismo año.
+Su origen está en la glorieta intersección con <font style="background-color:green;color:white">  EX-206  /<font style="background-color:yellow;color:black">  EX-346  en Don Benito.
+Su final está en la frontera con Portugal en el nuevo puente de Ajuda sobre el río Guadiana.
+La longitud real de la carretera es de 150.740 m, de los que la totalidad pertenecen a la provincia de Badajoz.
+Su desarrollo es el siguiente:
+(IMD, estructuras singulares, tramos desdoblados, etc.).
+Los datos sobre Intensidades Medias Diarias en el año 2006 son los siguientes:
+La carretera se encuentra acondicionada dentro de las actuaciones previstas en el Plan Regional de Carreteras de Extremadura.
+-->

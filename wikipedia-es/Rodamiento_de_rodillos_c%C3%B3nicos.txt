@@ -1,0 +1,38 @@
+thumb|Rodamiento de rodillos cónicos
+thumb|Los rodamientos de rodillos cónicos se basan en la observación de que los conos que se encuentran en un punto pueden rodar unos sobre otros sin resbalar. En la práctica, se utilizan troncos de cono
+thumb|Vista en corte de un rodamiento de rodillos cónicos
+Los rodamientos de rodillos cónicos son un tipo de cojinetes cuyos elementos rodantes pueden soportar fuerzas axiales (es decir, son buenos cojinetes de empuje), así como fuerzas radiales.
+Desde el punto de vista geométrico, se caracterizan porque sus rodillos son piezas troncocónicas, lo que los diferencia de otros tipos de rodamientos que emplean bolas esféricas o cilindros.
+Los surcos interior y exterior son segmentos de cono y los rodillos están ahusados, ​​de modo que las superficies cónicas de las pistas de rodadura y los ejes de los rodillos, si se proyectan, se encuentren todos en un punto común en el eje principal del rodamiento.
+Esta geometría hace que el movimiento de los conos siga siendo coaxial, sin movimiento de deslizamiento entre las pistas de rodadura y el diámetro exterior de los rodillos.
+Esta geometría cónica crea una zona de contacto lineal que permite soportar mayores cargas que con los rodamientos esféricos (de bolas), que tienen un punto de contacto.
+Esta geometría significa que las velocidades tangenciales de las superficies de cada uno de los rodillos son las mismas que sus pistas de rodadura en toda la longitud de la zona de contacto y no se produce una deslizamiento diferencial.
+Los rodillos están estabilizados y restringidos por una pestaña en el anillo interior, contra el que se desliza su base más grande, que evita que los rodillos abandonen su trayectoria cónica.
+Cuanto mayor sea el semiángulo del vértice de estos conos, mayor será la fuerza axial que puede soportar mientras ruedan.
+Los cojinetes de rodillos cónicos se pueden separar en dos partes: el conjunto de conos y una tapa cónica o copa.
+El conjunto de conos no separable consta del anillo interior, los rodillos y una jaula que retiene y separa uniformemente los rodillos.
+La copa es simplemente el anillo exterior.
+La holgura interna se establece durante el montaje por la posición axial del cono con respecto a la copa, aunque son comunes los diseños sin holgura.
+Los rodamientos de rodillos cónicos métricos siguen el sistema de designación definido por la norma ISO 355.
+El 23 de marzo de 1895, John Lincoln Scott, un agricultor y carpintero de Wilmot, Indiana, solicitó una patente a la Oficina de Patentes de los Estados Unidos para su invención de un rodamiento de rodillos que encajaba en "las madejas de los ejes y los bujes de los camiones, automóviles, u otros vehículos de ruedas".
+El rodamiento estaba compuesto por dos juegos de rodillos cilíndricos, uno de mayor diámetro que el otro, que encajaban en superficies planas mecanizadas en la matriz del eje cónico.
+En 1898, Henry Timken recibió una patente para un rodamiento que utilizaba rodillos cónicos.
+En ese momento, Timken era un fabricante de carruajes en St. Louis y tenía tres patentes de resortes para carruajes.
+Sin embargo, fue su patente de rodamientos de rodillos cónicos lo que permitió que su empresa tuviera éxito.
+Los rodamientos de rodillos cónicos fueron un gran avance a fines del siglo XIX porque los rodamientos utilizados en los ejes de las ruedas no habían cambiado mucho desde la antigüedad.
+Consistían en un asiento cilíndrico en el bastidor y parte del eje encerrado en una "caja" que contenía un lubricante.
+Conocidos como "cojinetes de deslizamiento", se basaban en el efecto del lubricante para formar un "cojinete de fluido".
+Sin la lubricación adecuada, los cojinetes lisos fallaban debido al calor excesivo generado por la fricción.
+Timken pudo reducir significativamente la fricción en los rodamientos del eje agregando elementos cónicos que realmente rodaban mientras transferían la carga de manera uniforme de un eje a otro a través de los anillos internos y externos de acero endurecido, su rodamiento de rodillos cónicos.
+Estos cojinetes, en combinación con lubricantes modernos, son extremadamente duraderos, y se usan casi universalmente en aplicaciones que involucran ejes de ruedas y ejes de transmisión.
+Su durabilidad es tal, que a menudo no requieren mantenimiento durante cientos de miles de kilómetros de los vehículos que los usan.
+En muchas aplicaciones, los rodamientos de rodillos cónicos se utilizan en pares consecutivos para que las fuerzas axiales se puedan soportar por igual en cualquier dirección.
+Los pares de rodamientos de rodillos cónicos se utilizan en las ruedas de todo tipo de vehículos automóviles, donde deben hacer frente simultáneamente a grandes fuerzas verticales (radiales) y horizontales (axiales).
+Los rodamientos de rodillos cónicos se utilizan comúnmente para aplicaciones de servicio pesado de velocidad moderada donde se requiere durabilidad.
+Las aplicaciones comunes en el mundo real son en agricultura, equipos de construcción y minería, sistemas de ejes, cajas de cambios, motores y reductores, ejes de hélices, cajas de grasa en los ferrocarriles, diferenciales o en turbinas eólicas.
+Un rodamiento de rodillos cónicos es una unidad que consta de pistas de rodadura cónicas (anillos interior y exterior) y rodillos cónicos.
+La construcción está diseñada para cargas combinadas, como cargas axiales y radiales de doble efecto.
+El eje del rodamiento es donde las líneas proyectadas de la pista de rodadura se combinan en una ubicación común para mejorar el rodamiento y reducir la fricción.
+La capacidad de carga se puede aumentar o disminuir dependiendo de que el ángulo de contacto se aumente o se disminuya.
+Cuanto mayor sea el ángulo, mayor será el grado de contacto.
+Se utilizan comúnmente en pares para un mejor manejo de cargas radiales y, en algunas aplicaciones de servicio pesado, se pueden encontrar en dos o cuatro filas combinadas en una sola unidad.

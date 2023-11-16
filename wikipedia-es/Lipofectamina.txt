@@ -1,0 +1,12 @@
+Lipofectamina o lipofectamina 2000 es un reactivo de transfección común, producido y vendido por Invitrogen, utilizado en biología molecular y celular.
+Se utiliza para aumentar la eficiencia de transfección de ARN (incluidos ARNm y siARN) o ADN plasmídico en cultivos celulares in vitro mediante lipofección.
+La lipofectamina contiene subunidades lipídicas que pueden formar liposomas en un entorno acuoso, que atrapan la carga útil de la transfección, p. plásmidos de ADN.
+La lipofectamina consiste en una mezcla 3:1 de DOSPA (2,3-dioleoyloxy-N [2(esperminecarboxamido)ethyl]-N,N-dimetil-1-propaniminio trifluoroacetato) y DOPE, que forma un complejo con las moléculas de ácido nucleico cargadas negativamente para permitirles superar la repulsión electrostática de la membrana celular.
+Las moléculas de lípidos catiónicos de Lipofectamina están formuladas con un co-lípido neutro (lípido auxiliar).
+Los liposomas que contienen ADN (cargados positivamente en su superficie) pueden fusionarse con la membrana plasmática cargada negativamente de las células vivas, debido a que el colípido neutro media la fusión del liposoma con la membrana celular, permitiendo que las moléculas de carga de ácido nucleico crucen al citoplasma para su replicación o expresión.
+Para que una célula exprese un transgén, el ácido nucleico debe llegar al núcleo de la célula para iniciar la transcripción.
+Sin embargo, es posible que el material genético transfectado no llegue nunca al núcleo, sino que se interrumpa en algún punto del proceso de entrega.
+En las células que se dividen, el material puede llegar al núcleo al quedar atrapado en la envoltura nuclear que se rearma tras la mitosis.
+Pero también en las células que no se dividen, la investigación ha demostrado que la lipofectamina mejora la eficacia de la transfección, lo que sugiere que además ayuda a que el material genético transfectado penetre en la envoltura nuclear intacta.
+Este método de transfección fue inventado por el Dr. Yongliang Chu.
+US activo US7479573B2, Yongliang Chu; Malek Masoud & Gulliat Gebeyehu, "Reactivos de transfección", asignado a Life Technologies Corp e Invitrogen Group

@@ -1,0 +1,30 @@
+Curl es un lenguaje de programación reflexivo orientado a objetos para aplicaciones web interactivas cuyo objetivo es proporcionar una transición más suave entre el formato y la programación.
+Permite integrar objetos complejos en documentos simples sin la necesidad de cambiar entre lenguajes de programación o plataformas de desarrollo.
+La implementación de Curl inicialmente consistió solo en un intérprete, pero luego se agregó un compilador.
+Curl combina el marcado de hipertexto (como en HTML), las secuencias de comandos (como en JavaScript) y la computación de alto rendimiento (como en Java, C # o C++) dentro del mismo marco unificado.
+Se utiliza en una gama de aplicaciones empresariales internas, B2B y B2C.
+Los programas de Curl pueden ser compilados en "applets" Curl, que se visualizan utilizando Curl RTE, un entorno de ejecución con un complemento para navegadores web.
+Actualmente, es compatible con Microsoft Windows, Linux y macOS.
+Curl es compatible con "applets separados"", un tipo de applet web que se ejecuta en el escritorio del usuario independientemente de la ventana del navegador, de forma similar a Silverlight 3 o Adobe AIR.
+El lenguaje Curl intenta abordar un problema de larga data: los diferentes bloques de construcción que conforman cualquier documento web moderno a menudo requieren métodos de implementación muy diferentes: diferentes idiomas, diferentes herramientas, diferentes marcos, a menudo equipos de trabajo completamente diferentes.
+El último obstáculo, y con frecuencia el más difícil, ha sido lograr que todos estos problemas sean superados para obtener una comunicación entre los elementos del documento web de manera consistente.
+Curl intenta evitar estos problemas al proporcionar una interfaz sintáctica y semántica consistente en todos los niveles de creación de contenido web: desde HTML simple hasta programación compleja orientada a objetos.
+Curl es un lenguaje de marcado al igual que HTML, es decir, el texto plano se muestra como texto; al mismo tiempo, Curl incluye un lenguaje de programación orientado a objetos que admite herencia múltiple.
+No se requiere que las aplicaciones Curl observen la separación de información, estilo y comportamiento que HTML, las hojas de estilo en cascada (CSS) y JavaScript han impuesto, aunque ese estilo de programación se puede usar en Curl si se desea.
+Si bien el lenguaje Curl se puede usar como un reemplazo de HTML para la presentación de texto con formato, sus capacidades se extienden hasta las de un lenguaje de programación compilado, fuertemente tipado y orientado a objetos.
+Tanto la creación (nivel HTML) como las construcciones de programación de Curl se pueden ampliar en el código de usuario.
+El lenguaje está diseñado para que las aplicaciones Curl puedan compilarse en código máquina nativo mediante un compilador en tiempo de ejecución (JIT) y puedan ejecutarse a alta velocidad.
+Los applets de Curl se pueden diseñar para sigan funcionando al desconectarse de la red (computación ocasionalmente conectada).
+De hecho, el IDE de Curl es una aplicación escrita en Curl.
+Un simple applet de Curl para "Hola Mundo" podría ser:  Este código se ejecutará si el usuario tiene al menos una de las versiones 7.0 o 8.0 de Curl instaladas.
+Curl proporciona macros y procedimientos de texto además de procedimientos anónimos y métodos nombrados.
+Una alternativa utilizando el párrafo de procedimiento de texto sería:  Recientemente, este estilo de diseño ha sido adoptado por "constructores" en el lenguaje Groovy para JVM, pero también es familiar para los usuarios de CSS o Tcl/Tk.
+La mayoría de las funciones para aplicaciones web implementadas a través de combinaciones de bibliotecas de JavaScript + HTML + CSS ya se encuentran disponibles en el lenguaje Curl, incluidas las funciones generalmente asociadas con Prototype + script.aculo.us, como los paneles con estilo de acordeón.
+Curl establece devoluciones de llamada de forma similar a la adoptada por Groovy:  Los comentarios de curl usan la barra vertical (pipe) en varias variaciones.
+El uso más simple es el siguiente:
+Debido a que Curl proporciona procedimientos de texto y hojas de estilo definidos por el usuario, Curl se puede usar fácilmente en el marcado ligero específico del dominio.
+Una ventaja importante sobre el marcado en HTML plano es que la codificación del texto se puede establecer como, por ejemplo, utf-8, y el texto puede ser ingresado en un editor habilitado para Unicode sin necesidad de hacer uso de caracteres de escape (al igual que JavaScript, Curl es compatible con Unicode.) Un ejemplo de poesía sería:  que inicialmente se puede implementar definiendo el poema y la marca de stranza como formatos de texto de párrafos.
+la stranza se podría refinar aún más para incluir un anclaje de navegación oculto para la navegación de la página mediante el uso de Curl {destination}, que es en sí mismo también es un procedimiento de texto.
+El mismo marcado se puede usar para obtener diferentes resultados, ya que se puede hacer que el texto de estilo sea visible en un contexto e invisible en otro.
+Curl también permite la inclusión de archivos de nivel superior para que un texto de origen en el marcado se pueda incluir en diferentes archivos principales.
+En educación, por ejemplo, se podría crear un archivo fuente de preguntas de prueba e incluirlo en la versión del texto tanto para el alumno como para el maestro.

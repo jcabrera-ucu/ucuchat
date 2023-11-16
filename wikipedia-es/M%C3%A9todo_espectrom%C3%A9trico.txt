@@ -1,0 +1,9 @@
+Los métodos espectrométricos son métodos instrumentales empleados en química analítica basados en la interacción de la radiación electromagnética, u otras partículas, con un analito para identificarlo o determinar su concentración.
+Algunos de estos métodos también se emplean en otras áreas de la química para elucidación de estructuras.
+Estos métodos emplean técnicas que se dividen en técnicas espectroscópicas y en técnicas no espectroscópicas.
+Las técnicas espectroscópicas son aquellas en las que el analito sufre procesos de absorción, emisión o luminiscencia.
+El resto corresponde a técnicas no espectroscópicas.
+Las técnicas espectroscópicas se diferencian también según la forma en la que se encuentra el analito en el momento en el que sufre el proceso espectroscópico, dando lugar a la espectroscopia atómica y a la espectroscopia molecular.
+Según el rango de energía que presente la radiación electromagnética existen diferentes técnicas, por ejemplo, espectroscopia de infrarrojo, espectroscopia de resonancia magnética nuclear, etcétera.
+Las técnicas no espectroscópicas aprovechan diferentes propiedades de la radiación electromagnética, como el índice de refracción o la dispersión.
+Otra técnica importante es la espectrometría de masas, también empleada en química orgánica para la elucidación de estructuras moleculares.

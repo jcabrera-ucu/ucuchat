@@ -1,0 +1,169 @@
+Dance Dance Revolution A20 (pronunciado Ace Two Oh) es la entrega arcade N.º 17 (Contando a DDR(2013) y (2014) como entregas separadas) desarrollado por Konami y publicado el 20 de marzo de 2019 en Japón para las arcades doradas.
+Los kits de mejoras para las cabinas antiguas se instalaron el 24 de julio de 2019.
+Una expansión llamada Dance Dance Revolution A20 PLUS se instaló el 1 de julio de 2020 inicialmente en arcades doradas (el 6 de julio de 2020 lo instaló en las demás arcades), siendo por primera vez desde DDR 4thMIX que DDR A20 tenga su versión PLUS.
+El 4 de julio de 2018, Konami abrió una cuenta de Twitter en conmemoración del aniversario 20 de DDR, que se celebró el 25 de septiembre del mismo año.
+El 26 de septiembre de 2018, DDR A tuvo 6 interfaces distintas, 5 de ellas se podían seleccionar vía DDR SELECTION, además de nuevas canciones.
+En la semifinal de Japón Oeste de Konami Arcade Championship N.º 8, se mostró la nueva arcade dorada, que es un re-diseño de DANCERUSH y posteriormente fue nombrada como DDR 20th Anniversary.
+En JAEPO 2019, dicha arcade dorada se exhibió el 26 de enero de 2019, un día antes de la final de DDR A, y se usó la placa arcade de pruebas, lo que era técnicamente injugable.
+Ya en la final, la placa arcade de pruebas fue remplazada por una que contiene DDR A para probar la arcade e iniciar la competencia al mismo tiempo.
+Su versionado es MDX:X:Y:A:YYYYMMDD00 (Hawái usa TDX:U:Y:A:YYYYMMDD00), en donde X indica idioma o región, Y el gabinete, YYYYMMDD la fecha de actualización y 00 el N.º de parche en caso de bugs o hackeos.
+Depende de la letra inicial, depende de la región en que se distribuye que es:
+Los gabinetes son los siguientes:
+A inicios de 2019, todas las arcades doradas contienen la placa arcade Bemani PC ADE-6291 y su versión por defecto es MDX:J:I:A:~.
+Esta placa contiene el sistema Windows 10, salvo algunas que siguen usando Windows 7 Embedded.
+ADE-6291 se usará como placa de reemplazo en caso de fallas relacionadas con placas antiguas (como Type 4).
+Los kits de mejoras con MDX:x:A:A:~ y MDX:x:B:A:~ usan el modelo Type 4 de dicha placa (Windows XP), los kits con MDX:x:C:A:~ usan Type 5 (Windows XP) y los kits con MDX:x:F:A:~ usan ADE-704A (Windows 7).
+En arcades norteamericanas, se usó la versión MDX:U:K:A:~, en donde se remplazó la llave de licencia de DDR A por una de A20 y se usó un pendrive para actualizar el juego.
+No se puede instalar licencias a esa versión o a cualquier otra versión MDX norteamericana, pero como contrapartida, se puede jugar incluso desconectado.
+Posteriormente, en Hawái, las placas arcade que llegaron inicialmente a dicho país y posteriormente en Norteamérica continental contienen su versionado TDX:U:y:A:~ para evadir problemas de licencia de las licencias futuras, sin importar distribución.
+Desgraciadamente, al igual que las versiones MDX japonesas, asiáticas y coreanas, requiere de conexión constante debido a su sistema "participación e-amusement".
+Además, se dejaron de fabricar las nuevas marquesinas, ya que en arcades DDR(2013) antiguas, clásicas o X llevan marquesinas genéricas de DDR(2013) o (2014), en arcades DDR(2013) nuevas llevan la marquesina de DDR A y en arcades doradas se usó la marquesina dorada de DDR(1st).
+Además de las canciones desbloqueadas de entregas anteriores, se agrega:
+Además del selector de canciones, se agrega los cursos NONSTOP y el nuevo modo CLASS (段位認定) o SKILL ANALIZER.
+Ambos modos solo se pueden seleccionar en el selector de canciones si uno de los jugadores -no los dos en CLASS- está disponible, elija PREMIUM MODE y está en 1st STAGE.
+Si se cumple estos requisitos, se abrirá la categoría cursos (sort by COURSE MODE).
+Los cursos del modo NONSTOP se pueden jugar en modo CHALLENGE si el usuario cambia la barra de vida a 4 LIVES o RISKY y las dificultades no están bloqueadas.
+El modo CLASS, accesible solo en las arcades doradas, probará a los jugadores la habilidad para completar 4 canciones sin los modificadores TURN ni facilitadores y la barra de vida cambia a GRADE (que se llena al MAX, pero que se reduce rápido por cada error).
+A diferencia del CLASS de beatmania IIDX, las dificultades deben desbloquearse por separado en SINGLE y DOUBLE y cada dificultad contiene su propio set de canciones y van desde el Dan 1 (la más baja) al Dan 10 (la más alta) y finalmente Kaiden (la máxima dificultad).
+Desde DDR A20 PLUS, si los jugadores fallan la primera canción de la partida regular en STANDARD MODE y sin usar RISKY, ya sea de nivel 7 o más o desde usuarios no registrados, entran a una variante de "This Beat Is....."
+llamado "LET'S CHECK YOUR LEVEL!", en donde se comprueba el nivel de los jugadores y muestra las 3 canciones recomendadas en la evaluación.
+Lista inicial:
+Personajes desbloqueables:
+Personajes no seleccionables:
+Aquí se listan todos los eventos que no necesariamente aparecen en la categoría eventos (sort by EVENTs), así como la carpeta EXTRA EXCLUSIVE y todas las carpetas marcadas EXTRA SAVIOR (PLUS) aparecen en dicha categoría si ocurre EXTRA STAGEs.
+Se mantiene el mecanismo de Star System de DDR X3 para acceder a EXTRA STAGE, pero req.
+PREMIUM MODE para activarlo y no esta disponible los EXTRA STAGE LEVELs.
+No hay canciones ENCORE EXTRA esta vez.
+Star System es desactivado si inicia un curso o si activa el modo evento.
+La carpeta "GOLDEN LEAGUER'S PRIVILEGE" (dividida en GOLDEN LEAGUE y GOLDEN LEAGUE PLUS) y las licencias legendarias son exclusivas para la edición oro, y esa edición lo tiene solamente las arcades 20th Anniversary.
+La carpeta EXTRA EXCLUSIVE corresponde al antiguo sistema de EXTRA STAGES.
+Todas las canciones de esta carpeta son marcadas en rojo y solo se puede jugar en EXTRA STAGE (salvo canciones que rebajaron a FINAL STAGE o que fueron liberadas).
+No hay canciones ENCORE EXTRA.
+El historial de EXTRA EXCLUSIVE es lo siguiente:
+Extra Savior, originalmente no disponible en A20 y que se agregó el 15 de julio de 2020 en A20 PLUS, fue renovado como Extra Savior PLUS.
+Todas las carpetas EXTRA SAVIOR y de las categorías VERSION y DDR SELECTION no activan ENCORE EXTRA.
+Los detalles se encuentran en la página principal de la serie y en DDR A.
+A diferencia de Extra Savior original, el método de desbloqueo en su versión PLUS es el siguiente: BEGINNER es desbloqueado al seleccionar, BASIC y DIFFICULT se recarga la barra completando la canción y EXPERT se debe completar 2 veces la misma canción.
+En todos los casos, la barra también se recarga combinando intentos fallidos.
+Se desconoce el método de desbloqueo en CHALLENGE.
+Fueron 9 carpetas para desbloquear (12 contando con los eventos que no se desbloquearon con anterioridad y 15 sin considerar fusión de carpetas).
+Originario de DDR(2014), Floor Infection, es un evento que infecta a DDR A20 (PLUS) vía Sound Voltex.
+Al jugar dicha entrega, permite desbloquear canciones que no están disponibles fuera de las fechas del evento, en ese caso, la parte 38 de Sound Voltex Vivid Wave.
+No hay carpetas en la categoría eventos debido a que las canciones son desbloqueadas directamente desde Sound Voltex.
+Canciones Floor Infection de antiguos periodos (en ese caso, la parte 10) son desbloqueadas con el parche de actualización debido a que ya no se repiten dicho periodo.
+La liga dorada (o Golden League) es uno de los eventos exclusivos para la arcade dorada.
+Los detalles se encuentran en la página principal de la serie.
+El historial de la liga dorada es el siguiente (sin incluir a los cursos):
+SUMMER DANCE CAMP es un evento crossover que se agregó el 8 de agosto de 2019 en donde participa este juego con DANCERUSH STARDOM.
+La primera partida del día obtiene una estampilla para el juego actual y 2 para el juego opuesto.
+En cada temporada, una de las canciones es desbloqueada por defecto en la primera partida del evento.
+Al obtener todas las estampillas, se desbloquean las demás canciones.
+Cada temporada tiene sus fechas de inicio y de cierre, en donde no se puede conseguir canciones o estampillas fuera de plazo.
+No hay carpetas en la categoría Eventos debido a que se desbloquean directamente.
+En caso de que los jugadores quieran desbloquear canciones fuera de plazo, la temporada 2019 fue liberada con el lanzamiento de A20 PLUS pero las siguientes temporadas deben desbloquearlas vía EXTRA SAVIOR.
+En ese caso, se agregará dichas carpetas en la categoría Eventos con un marcado EXTRA SAVIOR PLUS.
+Ichika no BEMANI touhyou senbatsusen 2019 (いちかのBEMANI投票選抜戦2019) es un evento crossover que se agregó el 12 de septiembre y terminó el 14 de octubre de 2019 en donde participa este juego con DANCERUSH STARDOM, IIDX Rootage, pop'n music peace, GITADORA Exchain, jubeat festo, SOUND VOLTEX VIVID WAVE, Nostalgia Op.2, Mahjong fight club GRAND MASTER y BASEBALL COLLECTION, y debuta la inteligencia artificial en forma de chica llamada Ichika (いちか).
+最小三倍完全数 es la canción que se desbloquea por sí solo en este juego.
+Todas las canciones se desbloquean por votación desde e-amusement gate.
+En esta entrega, los votos emitidos por los usuarios en e-amusement gate permitirán a los usuarios:
+Además, la canción más votada ("Trill Auf G") fue agregada a todos los juegos semanas después de terminado el evento como canción por defecto (inicialmente bloqueada a los jugadores que no tienen cuenta), y el 25 de junio de 2020 todas las canciones ya fueron desbloqueadas.
+Para cerrar el aniversario 20, a finales de 2019, se agregaron dificultades CHALLENGE a todas las canciones de la carpeta del aniversario 20 como la GRAND FINALE del dicho aniversario.
+Mientras que el evento estuvo disponible hasta el fin de 2019, los usuarios debieron desbloquear todas las dificultades CHALLENGE acumulando puntaje Supernova2 y el ranking solo se calificaba el EX SCORE más alto.
+Las dificultades se pudieron adquirirse por separado en SINGLE y DOUBLE.
+El puntaje Supernova2 se multiplicaba x1.5 en caso de jugar canciones de DDR SELECTION y se combinaba en VERSUS.
+Continuando con lo prometido de Touhyou senbatsusen, DDR CHALLENGE Carnival partió el 19 de diciembre de 2019.
+Como su nombre lo indica, con cada partida se obtiene una estampilla, y si se obtiene todas, se desbloquea las dificultades CHALLENGE de ciertas canciones.
+No hay carpetas en la categoría Eventos debido a que, al igual que SUMMER DANCE CAMP, se desbloquean directamente, cada temporada tiene sus fechas de inicio y de cierre, en donde no se puede conseguir dificultades o estampillas fuera de plazo.
+Si la dificultad se instala en una canción proveniente de un evento o de FLOOR INFECTION que no fuese desbloqueada, seguirá siendo inaccesible, sin importar el conteo de estampillas.
+Por cada versión de la copa de arcades KAC, aparece 2 carpetas divididas.
+Solo se activa estas carpetas los días del torneo, siendo bloqueadas al terminar el acceso al torneo y no activa ENCORE EXTRA.
+Si la canción proviene de un evento desbloqueable, de EXTRA SAVIOR o de EXTRA EXCLUSIVE, será desbloqueado durante el evento.
+Al registrarse, los jugadores desbloquearán una o dos canciones antes de que la fase de clasificación terminara.
+Los jugadores clasificados deben asistir al edificio (o al evento JAEPO) indicado para competir en la final.
+Al terminar el torneo, se anunciará su liberación para partida regular, pero puede tomar unos meses de retraso liberar canciones exclusivas del torneo (o años si ocurre un caso fortuito como la pandemia).
+Ichika no BEMANI chou janken taikai 2020 (いちかのBEMANI超じゃんけん大会2020) es un evento crossover que partió el 7 de mayo de 2020, en donde participa este juego con DANCERUSH STARDOM, IIDX HEROIC VERSE, pop'n music peace, GITADORA NEX+AGE, jubeat festo, Nostalgia Op.3 y SOUND VOLTEX VIVID WAVE, y debuta las otras chicas llamadas Nono, y Miya, además de Ichika.
+Cada día, los jugadores se enfrentan vía piedra, papel o tijeras contra las tres mascotas BEMANI, una por mascota, 3 en total y obtendrán las estampillas, 20 de ellas son para desbloquear canciones en un juego determinado (4 canciones por juego en total).
+"ラブキラ☆スプラッシュ" es la única canción que aparece en todos los juegos mientras que las 3 canciones restantes en cada juego son crossovers.
+A diferencia de otros eventos, todas las canciones se desbloquean directamente desde el sitio.
+El 15 de junio de 2020, se inició el desbloqueo de canciones vía estampillas.
+El evento terminó el 31 de agosto de 2020.
+El 21 de octubre de 2021, todas las canciones de esa carpeta fueron movidas a EXTRA SAVIOR.
+Maishuu!
+Ichika Nono no Chou BEMANI Rush 2020 (毎週！ いちか ののの超BEMANIラッシュ2020) es un evento crossover que partió el 29 de julio de 2020, en donde participa este juego con DANCERUSH STARDOM, IIDX HEROIC VERSE (incompatible con BISTROVER, debido al lanzamiento el día anterior al término), pop'n music peace, GITADORA NEX+AGE, jubeat festo, Nostalgia Op.3 y SOUND VOLTEX VIVID WAVE.
+No hubo cambios en las mascotas Bemani, pero Nono se tomó el control del sitio web días antes de terminado el evento, renombrando de "Maishuu! Ichika no Chou BEMANI Rush" a "Maishuu! Nono no Chou BEMANI Rush".
+"Sparkle Smilin'" se desbloquea por si sola en todos los juegos.
+"狂水一華" req.
+desbloquear todas las canciones de la selección de Ichika.
+"Jetcoaster Windy" req.
+"狂水一華".
+Las selecciones de Ichika y Nono permiten desbloquear canciones, esta última desde e-amusement gate.
+La selección de Miya también participa Mahjong Fight Club Shippuu y BASEBALL COLLECTION, en donde los jugadores obtuvieron al menos 100 rush y así participaron por una de las 200 figuras de acrílico, 100 de ellas para los 100 mejores, basado en el ranking rush.
+El evento terminó el 29 de octubre de 2020.
+El 21 de octubre de 2021, la carpeta del evento fue movida a EXTRA SAVIOR.
+Course Trial es otro evento en donde se puede desbloquear canciones desde cursos.
+Cada curso dentro de la carpeta "Course Trial" tiene su límite de tiempo y es evaluado por el EX-SCORE.
+Si se completa el curso dentro de plazo, se desbloqueará la canción que lo contiene.
+Si se termina el tiempo del curso, será movida a la carpeta de cursos del juego actual, pero se dificultará desbloquear canciones debido a que se usará EX-SCORE para ello.
+BEMANI MusiQ FES es un evento crossover que partió el 18 de noviembre de 2020, en donde participa este juego con DANCERUSH STARDOM, IIDX BISTROVER, pop'n music peace (posteriormente Kamei Riddles), GITADORA NEX+AGE, jubeat festo, Nostalgia Op.3, SOUND VOLTEX VIVID WAVE y Quiz Magic Academy Kibou no toki.
+El evento terminó el 12 de enero de 2021 y todas las canciones fueron liberadas el 18 de febrero de 2021.
+Busou Shinki BC×BEMANI kadou kinen campaign (武装神姫BC×BEMANI 稼働記念キャンペーン) es un evento crossover que partió el 24 de diciembre de 2020, en donde participa este juego con DANCERUSH STARDOM, IIDX BISTROVER, pop'n music Kamei Riddles, GITADORA NEX+AGE, jubeat festo, Nostalgia Op.3, SOUND VOLTEX VIVID WAVE y Armored Princess: Battle Conductor.
+La única canción, "ここからよろしく大作戦143", se desbloqueaba jugando una vez Battle Conductor o 10 partidas del juego destino.
+El evento terminó el 22 de enero de 2021 y dicha canción fue liberada el 1.º de marzo de 2021.
+BEMANI PRO LEAGUE ōen gakkyoku kaikin Stamp Rally (BPL応援 楽曲解禁スタンプラリー) es un evento crossover que partió el 18 de junio de 2021 como parte de BEMANI PRO LEAGUE 2021, en donde participa este juego con DANCERUSH STARDOM, IIDX BISTROVER, pop'n music Kamei Riddles, GITADORA High Voltage, jubeat festo, Nostalgia Op.3 y SOUND VOLTEX EXCEED GEAR.
+Al ingresar el sitio oficial y ver las primeras 7 transmisiones de BEMANI PRO LEAGUE o sus videos archivados, se obtiene una estampilla por video y con 7 se obtiene en IIDX un personaje Qpro, una puerta y un disco, todos de BPL, y se obtiene 5 boletos Okaken y en DDR o en cualquier otro juego fuera de IIDX se desbloquea las canciones, una por juego.
+Para la segunda vuelta, con 7 estampillas en DDR o en cualquier otro juego fuera de IIDX se desbloquea las canciones y en IIDX se obtiene 20 boletos Okaken.
+La primera vuelta son 7 videos, la segunda son 7, la semifinal son 3 y la final es uno solo.
+No es necesario ver el video entero para obtener la estampilla.
+La canción "LOVE♥SHINE" que se iba a desbloquear en GITADORA y que fue anunciada en la primera vuelta de la liga proviene de DDR EXTREME, y es la única canción que no proviene de beatmania IIDX.
+BEMANI 2021 manatsu no utagassen 5-ban shōbu (BEMANI 2021真夏の歌合戦5番勝負) es un evento crossover que partió el 27 de julio de 2021 y terminó el 30 de septiembre de 2021, en donde participa este juego con DANCERUSH STARDOM, IIDX BISTROVER, pop'n music Kamei Riddles, GITADORA High Voltage, jubeat festo, Nostalgia Op.3 y SOUND VOLTEX EXCEED GEAR, junto con Quiz Magic Academy 夢幻の鏡界 y Card Connect.
+El 27 de julio de 2021 Konami seleccionó varios artistas, el 28 de julio los dividió en equipos rojo y azul y el 29 de julio empezó formalmente el evento.
+Depende del método de pago (exc. FREE PLAY y modo evento) o de los objetivos en jubeat, QMA o Card Connect, los jugadores van acumulando YELL, y todas las canciones se desbloquean acumulando 7200 YELL cada una vía web (3200, en caso de canciones de la fecha 3).
+Los YELL obtenidos fuera de QMA o Card Connect no se pueden usar para desbloquear canciones del equipo contrario mientras que los YELL obtenidos en QMA o Card Connect se pueden usar para desbloquear canciones de ambos equipos.
+Además, ambos equipos se enfrentaron en un duelo musical.
+Por cada fecha, cada equipo lanzó su propia canción y se instaló en 4 de los 8 juegos Bemani (exc. las canciones de la fecha 3 y la canción bonus, que se instalaron en todos los 8 juegos).
+La canción bonus para el equipo rojo es creada por BEMANI Sound Team "dj TAKA & DJ YOSHITAKA & SYUNN" y la del azul iba a ser presentada por BEMANI Sound Team "猫叉Master & あさき & Yvya".
+Los jugadores eligieron a uno de esos 2 equipos y el 9 de septiembre de 2021 el equipo ganador fue el rojo.
+En la final de BEMANI PRO LEAGUE 2021, la canción ganadora se llamó "triple cross".
+El 5 de noviembre de 2021 se anunció la canción faltante "Aftermath".
+Son 2 canciones para todos los juegos, 4 por juego, la canción ganadora del equipo rojo, la canción faltante del equipo azul, 8 en total por juego y 12 en total (13, contando con la canción final, "恋愛観測 -2021真夏のエンディング ver.-", introducida en GITADORA y NOSTALGIA).
+Los usuarios que compren los packs de DDR GP y tengan activada la suscripción del mismo juego obtiene las canciones exclusivas.
+Los usuarios que desactivan la suscripción (para desinstalar el juego, por ejemplo), que pidan un reembolso o que fueron expulsados perderán dichas canciones.
+Proveniente de DDR A, la categoría DDR SELECTION fue alterada sigilosamente.
+Los detalles se encuentran en la página principal de la serie.
+Las dos últimas carpetas, la del aniversario 20 y la de celebraciones, incluye las nuevas canciones, pero a diferencia de DDR A, todas las dificultades están disponibles por defecto y marcadas en dorado.
+ANNIVERSARY ∴∵∴ ←↓↑→ y シュレーディンガーの猫 debutaron con el doble aniversario 20 de DDR y pop'n music y se agrega a la carpeta celebraciones DDR MEGAMIX de pop'n music y Love♡Shine わんだふるmix de Sound Voltex, ambas de la campaña de Twitter.
+DDR A20 fue anunciado en la final de KAC N.º 8 durante la competencia final de DDR A.
+El 3 de marzo de 2019 un usuario en Twitter publicó el póster en donde la arcade dorada se instaló el 20 de marzo de 2019, las canciones de prueba (como las del aniversario 50 de Konami) fueron instaladas una semana después en la precuela y el juego fuera de dicha arcade se instaló con meses de retraso, pero con interfaces distintas.
+La interfaz dorada (se diferencia con su versionado MDX:J:I:A:~) incluye licencias legendarias, los cursos CLASS y la Liga Dorada, que no estaban presentes en la interfaz azul (cuyo versionado es MDX:x:A:A:~ -cabinas X-, MDX:x:B:A:~ -cabinas Supernova2- y MDX:x:C:A:~ -cabinas DDR(2013)-).
+La lista inicial fue creada por comisionados y solo 2 artistas de BEMANI Sound Team aparecieron: U1-ASAMI en la lista inicial y SYUNN como compositor de sonido de interfaz.
+Sota y TAG, también de BEMANI Sound Team, aparecieron en la liga dorada y en EXTRA EXCLUSIVE respectivamente, Yoshihiko Koezuka, DJ TAKA, Gekidan Records y DJ TOTTO en los 50th Memorial Songs (sin acreditarlos en el juego y en el sitio web del mismo), los artistas de BEMANI Sound Team restantes (como Yvya) aparecieron mediante eventos (excluyendo crossovers) y Mutsuhiko Izumi se retira de BEMANI al cumplir 60 años tras crear "Six String Proof" con Yvya, que debutó en un evento crossover.
+En Norteamérica el 15 de mayo de 2019, DDR A20 fue importado por Round 1 USA.
+Las arcades doradas se ejecutan con un software japonés, y por defecto, estaba ajustada en Osaka en vez del país o región de la arcade actual en el selector de países.
+El 2 de junio de 2019, el vicepresidente de Dave & Busters Kevin Bachus confirmó una versión localizada de DDR A20 en Norteamérica, lo cual sobreescribe a todas las máquinas DDR(2013) que contengan versiones antiguas.
+Bachus también anunció que va a adquirir las arcades doradas.
+Los kits de mejoras se instalaron el 24 de julio de 2019 en Japón y sureste asiático.
+No obstante, según la cuenta de UNIANA en Twitter, avisa que se instaló el kit de mejoras de DDR A20 el 1.º de agosto de 2019 en Corea.
+Si bien el juego se instala mediante métodos en línea en Japón, Asia y Corea, en Norteamérica, debido a que no pudieron actualizar el juego por conexión debido al mantenimiento de los servidores, recibieron nuevos kits, en donde tiene una nueva llave de licencia y un pendrive para actualizar el juego.
+Ciertas canciones que tengan problemas de licencia (como "The Light" o las provenientes de EXIT TUNES) siguen presentando dichos problemas, mientras que otras (como los arreglos touhou) ya están disponibles.
+El 19 de junio de 2020 recibió nuevas máquinas DDR(2013), pero en vez de versiones MDX norteamericanas, contiene sus contrapartes TDX, y dicha versión inicialmente solo se encuentra en Hawaí.
+La lista de canciones, en vez de la versión de EE.UU., se basa en la lista asiática.
+DDR A20 PLUS fue lanzado como una expansión el 1 de julio de 2020 en arcades doradas y una semana después la interfaz azul fuera de dicho modelo.
+Konami publicó el conteo de la expansión en los hilos de Twitter finalizando junio de 2020.
+A diferencia de las otras versiones PLUS, A20 PLUS tiene un soporte más largo y una gran cantidad de canciones.
+En arcades doradas, se rediseñaron todas las 11 dificultades de los cursos CLASS, incluyendo en las dificultades más bajas canciones en DIFFICULT, que es más fácil que las canciones en EXPERT y CHALLENGE.
+La lista de canciones está basada en las versiones japonesas (MDX:J:y:A:~) y TDX norteamericanas de A20 PLUS: 186 canciones nuevas + 1 exclusiva para DDR A20 + 4 liberadas de la liga dorada PLUS + 19 proveniente de cursos - 21 eliminadas debido a término de licencia que aparecen en todas las arcades sin importar el modelo y 15 exclusivas para la edición oro, que únicamente está en arcades 20th Anniversary (MDX:J:I:A:~).
+El conteo de canciones en total cambia en las versiones japonesas, asiáticas, coreanas y TDX norteamericanas: 1008 en ambas versiones (en arcades 20th Anniversary Model), 1004 en A20 PLUS (en arcades 20th Anniversary Model), 993 en ambas versiones (en los demás modelos de arcade), 985 en A20 PLUS (en los demás modelos de arcade), 897 en A20 (en arcades 20th Anniversary Model) y 892 en DDR A20 (en los demás modelos de arcade y considerando liberación de canciones de liga dorada).
+Dicho conteo puede cambiar en las versiones europeas y MDX norteamericanas.
+Se mantiene la lista de canciones eliminadas de DDR(2013) y (2014) y DDR A, y se han detectado 41 canciones bloqueadas, 2 eliminadas y todas solo contienen CHALLENGE y solo se pueden acceder a ellas las cuentas registradas desde la versión 2017 de DDR A en adelante, incluyendo este juego y su expansión.
+Todas las canciones antiguas fueron cambiadas a blancas (partida regular) y las únicas canciones que son desbloqueadas por el usuario son amarillas.
+Canciones que requieren e-amusement pass son contadas como canciones antiguas, y se encuentran encima de las canciones eliminadas.
+Canciones EXTRA SAVIOR de esta entrega están marcadas con un fondo verde oscuro (toda la fila o solo el título de la canción si esta proviene de otro evento involucrado) y canciones EXTRA EXCLUSIVE siguen siendo rojas.
+Canciones con negrita originalmente estaban bloqueadas pero ya se encuentran disponibles, en cursiva entre paréntesis indica romanización y en negrita entre paréntesis las traducciones.
+Canciones del aniversario 50 están marcadas en rojo con fuente blanca en este artículo.
+Canciones en plomo son eliminadas.
+Funciones, dificultades challenge nuevas, o eventos que no contienen canciones ocupa la fila entera en vez de la fila dividida en tres.
+Todos los cursos están organizados por tipo de curso.
+Los cursos NONSTOP pueden cambiar de barra de vida mientras que los cursos CLASS está forzada a GRADE.
+Los colores de cada canción son:
+Los cursos CLASS, originario de beatmania IIDX y remplaza a DANCE DRILL de la serie DDR X, están divididos en SINGLE y DOUBLE, la barra de vida está ajustada a GRADE, no puede rotar las flechas ni usar facilitadores y, a diferencia de IIDX, deben desbloquear todos los cursos en orden.
+Cursos NONSTOP no tienen límite de dificultad (BEGINNER no disponible en DOUBLE) y no llevan colores de dificultades.

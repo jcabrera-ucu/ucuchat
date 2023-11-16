@@ -1,0 +1,63 @@
+Las micotoxinas (del griego antiguo μύκης mýkes ‘hongo’, y el latín toxicum ‘veneno’) son metabolitos secundarios tóxicos, de composición variada, producidos por organismos del reino fungi, que incluye setas, mohos y levaduras.
+El término suele referirse principalmente a las sustancias tóxicas producidas por hongos que afectan a animales vertebrados en bajas concentraciones, sin incluir a las que afectan exclusivamente a las bacterias (por ejemplo, la penicilina) o a las plantas.
+También se excluyen, de manera un tanto arbitraria, las toxinas presentes en las setas venenosas.
+Los hongos son mayoritariamente organismos aerobios, y se encuentran prácticamente en todas partes.
+Consumen materia orgánica y se reproducen por esporas.
+Cuando las condiciones de humedad y temperatura son las adecuadas, proliferan y forman colonias que pueden resultar en altas concentraciones de micotoxinas.
+No se sabe exactamente el motivo por el cual los hongos segregan micotoxinas, ya que no son necesarias para el crecimiento o desarrollo del hongo.
+Es posible que contribuyan a la expansión del hongo al debilitar a los organismos competidores.
+La producción de toxinas depende de las condiciones tanto internas como externas del hongo; varían enormemente en la severidad de sus efectos, dependiendo de la susceptibilidad del organismo infectado, su metabolismo y sus defensas.
+Los efectos de las micotoxinas en animales y personas son diversos e incluyen enfermedades y problemas de salud, depresión del sistema inmunológico, irritación y alergias.
+El término general para la intoxicación por micotoxinas es micotoxicosis.
+En algunos casos, la micotoxicosis puede ocasionar la muerte.
+Los síntomas y efectos de la micotoxicosis dependen del tipo de micotoxina, la edad, estado de salud y el sexo del individuo afectado.
+Los efectos sinérgicos de las micotoxinas con factores genéticos, la dieta e interacciones con otras sustancias tóxicas no han sido completamente investigados; se considera posible que las deficiencias vitamínicas, la subalimentación, el alcoholismo y las enfermedades infecciosas puedan influir en el efecto de las micotoxinas.
+Las micotoxinas causan efectos mediante su ingestión, contacto con la piel o inhalación.
+Pueden inhibir la síntesis de proteínas, dañar el sistema inmunitario, los pulmones e incrementar la sensibilidad a las toxinas bacterianas.
+Las micotoxinas pueden contaminar la cadena alimentaria a raíz de la infección de productos agrícolas destinados al consumo humano o de animales domésticos.
+Las micotoxinas son bastante resistentes a la descomposición y a la destrucción durante la digestión, por lo cual permanecen en la cadena alimentaria y en los productos lácteos.
+Resisten incluso a la cocción y a la congelación.
+Las toxinas más comunes en los productos agrícolas son producidas por especies de los géneros Aspergillus, Penicillium, y Fusarium, entre otros.
+Estas micotoxinas suelen causar micotoxicosis primarias, cuando los productos contaminados se ingieren directamente, o secundarias, resultantes de la consumición de carne o leche proveniente de animales contaminados.
+Los edificios también albergan hongos y las personas que habitan o trabajan en edificaciones con una alta concentración de moho pueden sufrir diversos problemas de salud resultantes de la exposición a micotoxinas.
+El trabajo en explotaciones agrarias conlleva un riesgo especialmente elevado de contaminación por micotoxinas, alcanzándose concentraciones peligrosas más a menudo que en viviendas y otros ambientes de trabajo.
+Los principales organismos responsables de la producción de micotoxinas en edificios son los pertenecientes a los géneros Alternaria, Aspergillus, Penicillium, y Stachybotrys.
+Stachybotrys chartarum es muy común en edificios, siendo el mayor productor de micotoxinas en interiores; se lo asocia con alergias e inflamaciones del sistema respiratorio.
+Una ventilación adecuada y el control de la humedad en edificios y oficinas son cruciales para limitar el crecimiento de moho.
+Numerosas agencias internacionales están realizando una estandarización universal de límites de la concentración de micotoxinas.
+Actualmente, más de 100 países regulan la presencia de micotoxinas en la industria de piensos.
+En Europa, los niveles de una amplia gama de micotoxinas permitidas en la alimentación y comida animal son fijados por una serie de directivas de la Comisión Europea.
+En Estados Unidos, la FDA («Food and Drug Administration») regula los límites de concentración de micotoxinas en alimentos y piensos desde 1985 y ha implantado varios programas de inspección de las respectivas industrias para garantizar que las micotoxinas se mantengan dentro de los límites establecidos.
+Estos programas inspeccionan productos como los cacahuetes y sus derivados, frutos secos, maíz, semilla de algodón y productos lácteos.
+Las aflatoxinas son un tipo de micotoxinas, producidas por especies de hongo del género Aspergillus.
+El término genérico aflatoxina puede referirse a cuatro tipos diferentes de micotoxinas, conocidas como B1, B2, G1 y G2.
+La aflatoxina B1 es el grupo con mayor toxicidad; es un carcinogénico potente y se lo asocia en particular con el cáncer de hígado en varias especies de vertebrados.
+Las aflatoxinas se encuentran con más frecuencia en artículos provenientes de áreas tropicales y subtropicales, como el algodón, cacahuetes, especias, pistachos y maíz.
+En 2004, 125 personas fallecieron y unas 200 otras enfermaron en Kenia como consecuencia de consumir maíz contaminado.
+La concentración máxima de aflatoxinas establecida por la FAO y la OMS es de 15 μg/kg.
+Las ocratoxinas tienen tres formas, denominadas A, B y C. Todas ellas son producidas por hongos de los géneros Penicillium y Aspergillus.
+La ocratoxina A es una forma clorinada de la ocratoxina B y la ocratoxina C es un etil-éster de la forma A. La especie productora de ocratoxinas Aspergillus ochraceus se encuentra a menudo en la cerveza y el vino.
+Aspergillus carbonarius es la especie más abundante en las uvas, y sus toxinas contaminan el mosto durante su extracción.
+La ocratoxina A se ha identificado como un agente cancerígeno y se asocia a tumores del tracto urinario.
+La citrinina se descubrió por primera vez en la especie Penicillium citrinum; desde entonces se han encontrado en más de una docena de especies de Penicillium y varias de Aspergillus, algunas de las cuales se utilizan en la confección de queso (Penicillium camemberti), sake, miso, y salsa de soya (Aspergillus oryzae).
+La citrinina actúa como una nefrotoxina en todas las especies animales investigadas.
+Aunque se encuentra en muchos cereales y en el pigmento Monascus, de uso en alimentos, su impacto en la salud humana aún no ha sido totalmente elucidado.
+En conjunción con la ocratoxina A puede disminuir la síntesis de ARN en los riñones de ratas y ratones.
+Los alcaloides ergóticos o alcaloides del ergot son una mezcla tóxica de compuestos producidos en el esclerocio de especies del género Claviceps, patógenos comunes en varias especies herbáceas.
+La ingestión del esclerocio presente en la harina proveniente de cereales infectados causa ergotismo, la enfermedad tradicionalmente conocida como «fuego de San Antonio».
+Aunque los métodos modernos de limpiado de grano han reducido significativamente la incidencia del ergotismo, este todavía constituye un problema veterinario de importancia.
+Los alcaloides ergóticos tienen usos farmacéuticos.
+Se dan dos formas de ergotismo: gangrenoso afectando el riego sanguíneo de las extremidades y convulsivo, que afecta al sistema nervioso central.
+La patulina es segregada por Penicillium expansum, y especies de Aspergillus, Penicillium y Paecilomyces.
+P. expansum se puede encontrar en frutas y verduras mohosas y podridas, en particular manzanas e higos.
+La fermentación puede destruir esta toxina, por lo cual puede no aparecer en sidra confeccionada con manzanas infectadas.
+Es posible que la patulina sea carcinogénica, además de causar trastornos gastrointestinales y del sistema nervioso.
+En 2004, la Unión Europea estableció límites a la concentración máxima de patulina en alimentos: en zumo de frutas y concentrados,  en manzanas y  en productos a base de manzanas destinados al consumo infantil, incluyendo el zumo de manzana.
+Más de 50 especies de hongos del género Fusarium producen micotoxinas que contaminan el grano de cereales en desarrollo, como el trigo y el maíz.
+Entre estas toxinas se encuentran las fumonisinas, que afectan el sistema nervioso de los caballos y causan cáncer en roedores; los tricotecenos, que tienen diversos efectos tóxicos, a veces fatales, en animales y personas; y la zearalenona, que es hiperestrogénica.
+Otras micotoxinas importantes producidas por hongos Fusarium incluyen la beauvericina, eniatinas, butenolide, equisetina y fusarinas.
+En las industrias de piensos y de la alimentación se ha convertido en práctica corriente añadir arcillas activadas, como las bentonitas y zeolitas, por sus propiedades como agentes adsorbentes y secuestrantes de micotoxinas.
+La funcionalidad de aditivos capaces de revertir los efectos adversos de las micotoxinas se evalúa de acuerdo con los siguientes criterios:
+Puesto que no todas las micotoxinas se adhieren a estos agentes, el método más prometedor para su control es la desactivación química antes de la cosecha por medio de enzimas como la esterasa, y epoxidasa y organismos, como ciertas levaduras (como Trichosporon mycotoxinvorans) o bacterias (por ejemplo, la cepa de Eubacterium BBSH 797).
+Otros métodos de control consisten en la separación física, lavado, molido, tratamiento térmico, extracción con disolventes e irradiación.
+Este último método es efectivo contra el crecimiento de moho y la consiguiente producción de toxinas.

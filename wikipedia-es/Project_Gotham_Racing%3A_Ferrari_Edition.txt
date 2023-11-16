@@ -1,0 +1,10 @@
+Project Gotham Racing: Ferrari Edition es un videojuego de carreras desarrollado por Pixelbite y publicado por Microsoft exclusivo para Zune HD.
+Es un spin-off de la serie principal de Project Gotham Racing.
+El juego contiene carreras para un jugador y multijugador con doce autos deportivos exóticos con licencia de Ferrari.
+En el modo de un jugador, hay carreras regulares en 33 eventos en el modo carrera, así como contrarreloj.
+En las contrarreloj es posible competir contra coches fantasma y compartir récords con amigos.
+El modo multijugador permite que el jugador compita contra hasta tres jugadores en carreras de redes inalámbricas.
+Las pistas de carreras están ubicadas en Londres, Nueva York y Tokio.
+El juego hace uso del tacto para los controles.
+Hay dos botones virtuales, uno en la parte inferior derecha (aceleración) y otro en la parte inferior izquierda (freno) de la pantalla, junto con un freno de mano en el medio.
+La dirección se realiza inclinando el dispositivo.

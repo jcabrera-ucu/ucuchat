@@ -1,0 +1,18 @@
+El Mauser MG 213 (Maschinegewehr 213; Ametralladora 213 en alemán) fue un cañón revólver de 20 mm montado en aviones desarrollado para la Luftwaffe en la Segunda Guerra Mundial.
+Este cañón marcó un hito en las armas: fue el primer cañón revólver de la historia.
+Existían sólo 15 prototipos fabricados en 1945.
+A finales de 1942 el Ministerio del Aire del Reich emitió un requisito muy sorprendente para un arma de 20 mm con una cadencia de fuego de 1000 disparos/minuto, y con una velocidad de boca de no menos de 1000 m/s.
+Esto fue casi un shock para los diseñadores alemanes: aunque había armas capaces de alcanzar y superar la cadencia de 1000 disparos/minuto, éstas eran ametralladoras de pequeño calibre y cañones de alta velocidad inicial, como los 2 cm Flak 30/38, que fueron completamente incapaces de llegar a la velocidad de disparo pedida.
+Dichas especificaciones fueron exigidas a Krieghoff y Mauser.
+HASAG se encargó de desarrollar las municiones.
+Krieghoff diseñó un arma experimental accionada mediante los gases del disparo, que se designó MG 301.
+El revólver no era en realidad una idea nueva, ya que existían experimentos con este tipo de mecanismos desde el siglo XVIII.
+Sin embargo, los técnicos de Mauser fueron los primeros en conseguir un arma magnífica para aeronaves.
+Anton Politzer estaba trabajando en su idea en la firma Mauser y llegó a producirse un prototipo llamado MG 213C de 20 mm y un modelo mayor, el MK 213/30 de 30 mm, con la idea de instalarse en aviones como los Me 262.
+Nunca se puso en servicio, pero sus principios sirvieron de base para varios desarrollos de posguerra de los Aliados.
+Una versión de 30 mm fue desarrollada como MG 213C o MK 213 y esto fue lo que llevó al ADEN británico y los DEFA franceses.
+Los ADEN / DEFA de 30 mm, fueron introducidos en la década de 1950 y siguen en servicio actualmente.
+Fueron copias directas de la versión de 30 mm del Mauser MG 213C, lo que no es de extrañar, ya que los ingenieros de la Mauser fueron a trabajar para varias naciones occidentales tras la Segunda Guerra Mundial.
+El MK 213 disparaba proyectiles 30 x 85 B, casi idénticos a las 30 x 86 B del ADEN.
+Los cañones franceses de las series DEFA 540 (también copias del MK 213) disparaban un proyectil un poco más largo (30 x 97 B) antes de que ambos países establecieran una norma de alrededor de 111-113 mm con la serie DEFA 550 (posteriormente GIAT, ahora NEXTER) y los ADEN HV.
+Posteriormente los Estados Unidos se unieron a esta tendencia con el cañón de cadena M230 PV, instalado en el helicóptero de ataque AH-64.

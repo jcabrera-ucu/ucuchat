@@ -1,0 +1,69 @@
+Un simbiosoma es un compartimento especializado en una célula huésped que alberga un endosimbionte en una relación simbiótica.
+El término se utilizó por primera vez en 1983 para describir la estructura de la vacuola en la simbiosis entre el animal huésped, la Hydra, y el endosimbionte Chlorella.
+Los simbiosomas también se observan en otras simbiosis cnidaria-dinoflagelados, incluidas las que se encuentran en las simbiosis de coral y algas.
+En 1989, el concepto se aplicó a la estructura similar que se encuentra en los nódulos radiculares fijadores de nitrógeno de ciertas plantas.
+El simbiosoma en los nódulos radiculares se ha investigado con mucho más éxito debido en parte a la complejidad de aislar la membrana del simbiosoma en huéspedes animales.
+El simbiosoma en una célula de nódulo de la raíz de una planta es una estructura similar a un orgánulo que se ha formado en una relación simbiótica con bacterias fijadoras de nitrógeno.
+El simbiosoma vegetal es exclusivo de aquellas plantas que producen nódulos en sus raíces.
+La mayoría de estas simbiosis se realizan entre leguminosas y bacterias diazótrofas Rhizobia.
+Las simbiosis rizobios-leguminosas son las más estudiadas por su importancia en la agricultura.
+Cada simbiosoma en una célula de nódulo radicular encierra un solo rizobio que se diferencia en un bacterioide.
+Sin embargo, en algunos casos, un simbiosoma puede albergar varios bacteroides.
+La membrana del simbiosoma, o membrana peribacteroide, rodea la membrana del bacteroide, separada por un espacio simbiosómico.
+Esta unidad proporciona un microambiente entre reinos para la producción de nitrógeno para la planta, y la recepción de malato como energía para el bacterioide.
+El concepto de simbiosoma fue descrito por primera vez en 1983 por Neckelmann y Muscatine, como se ve en la relación simbiótica entre Chlorella, una clase de algas verdes e Hydra, un animal huésped cnidario.
+Hasta entonces se había descrito como una vacuola.
+Unos años más tarde, en 1989, Lauren Roth con Gary Stacey y Robert B Mellor aplicaron este concepto a la unidad fijadora de nitrógeno que se ve en el nódulo de la raíz de la planta, anteriormente llamado vacuola de infección.
+Desde entonces, esto ha generado una gran cantidad de investigación, un resultado de esto ha sido la provisión de una descripción más detallada de la membrana del simbiosoma (peribacteroide), así como comparaciones con estructuras similares en simbiosis vesiculares de micorrizas arbusculares en plantas.
+En los modelos animales, el simbiosoma tiene una disposición de membranas más compleja, por lo que ha resultado difícil de aislar, purificar y estudiar.
+Un simbiosoma se forma como resultado de una interacción compleja y coordinada entre el anfitrión simbionte y el endosimbionte.
+En el punto de entrada a una célula huésped simbionte, parte de la membrana celular envuelve al endosimbionte y se rompe en el citoplasma como una unidad discreta, una vacuola similar a un orgánulo llamada simbiosoma.
+Este es un proceso similar a la endocitosis que forma un simbiosoma en lugar de un endosoma.
+En las plantas este proceso es único.
+La membrana del simbiosoma está separada de la membrana del endosimbionte por un espacio conocido como espacio del simbiosoma, que permite el intercambio de solutos entre los simbiontes.
+En el nódulo de la raíz de la planta, la membrana simbiosómica también se denomina membrana peribacteroide.
+En las simbiosis leguminosa-rizobios, el simbiosoma es la unidad fijadora de nitrógeno en la planta, formada por la interacción de señales vegetales y bacterianas, y su cooperación.
+Las legumbres son ricas en proteínas y tienen una gran demanda de nitrógeno que generalmente está disponible en los nitratos del suelo.
+Cuando estos escasean, la planta segrega flavonoides que atraen los rizobios diazotróficos (fijadores de nitrógeno) a sus pelos radicales.
+A su vez, las bacterias liberan factores NOD que estimulan el proceso de infección en la planta.
+Para permitir la infección, la punta del pelo de la raíz se enrosca sobre los rizobios y, mediante un crecimiento hacia adentro, produce un hilo de infección para transportar los endosimbiontes a las células corticales.
+Al mismo tiempo, las células corticales se dividen para producir nódulos radiculares resistentes que albergarán y protegerán a las bacterias.
+Se considera que la producción bacteriana de sustancia polimérica extracelular (EPS) es necesaria para permitir la infección.
+Los rizobios infectan la planta en grandes cantidades, solo se ve que se dividen activamente en la punta del hilo de inyección, donde se liberan en las células dentro de los simbiosomas.
+Los cambios en la planta necesarios para formar el hilo de infección, el aumento de la división de las células corticales, la formación del nódulo radicular y el simbiosoma son provocados por cambios dinámicos en el citoesqueleto de actina.
+La actina filamentosa (F-actina) canaliza el alargamiento de los hilos de inyección y los fragmentos cortos de F-actina están salpicados alrededor de la membrana del simbiosoma.
+Las bacterias se liberan cuando la inyección cae en las células del nódulo de la raíz del huésped, donde la membrana plasmática las encierra en la estructura del simbiosoma en forma de orgánulo.
+En la mayoría de las plantas, un simbiosoma encierra una sola bacteria endosimbionte, pero algunos tipos pueden contener más de una.
+Un circuito de retroalimentación negativa llamado autorregulación de la nodulación trabaja para equilibrar la necesidad de nitrógeno y, por lo tanto, la formación de nódulos.
+La membrana externa del simbiosoma derivada de la célula huésped encierra un espacio llamado espacio simbisoma o espacio peribacteroide que rodea al endosimbionte.
+Para que el simbiosoma se establezca como una unidad fijadora de nitrógeno, la bacteria encerrada debe diferenciarse terminalmente en un bacterioide morfológicamente modificado.
+La bacteria en el suelo es de vida libre y móvil.
+En el simbiosoma tiene que cambiar su expresión génica para adaptarse a una forma no móvil y no reproductiva como el bacteroide.
+Este cambio se nota por un aumento en el tamaño de la bacteria y su alargamiento.
+La membrana bacteriana también se hace permeable.
+El proceso de diferenciación está impulsado por las plantas utilizando péptidos conocidos como péptidos ricos en cisteína específicos de nódulos (péptidos NCR).
+Los NCR son péptidos antimicrobianos que son similares a los péptidos de defensina utilizados en mamíferos en respuesta a patógenos invasores.
+Las NCR se dirigen al simbiosoma donde inducen la diferenciación de la bacteria al bacterioide.
+Un efecto importante de la selección de NCR es limitar la capacidad reproductiva del endosimbionte.
+Estos cambios están controlados, ya que la bacteria no muere como resultado de la exposición a las NCR.
+Parte de ese control proviene de la propia bacteria.
+Para sobrevivir a las actividades de NCR, las bacterias necesitan producir una proteína llamada BacA.
+Además, el lipopolisacárido producido por la bacteria es modificado por un ácido graso inusual que también brinda protección contra el estrés ambiental.
+Estas medidas defensivas ayudan al proceso de diferenciación y aseguran su supervivencia como bacteroides.
+Algunas cepas de rizobios producen una peptidasa que degrada las NCR.
+El bacteroide establecido es capaz de fijar nitrógeno en una forma de amonio químicamente utilizable para la planta.
+Este es un proceso demandante de energía alimentado por los carbohidratos de la planta.
+Las vesículas de transporte se forman en la membrana del simbiosoma, lo que permite el paso del amonio al espacio del simbiosoma desde el bacterioide y el paso de los nutrientes de las plantas al bacterioide.
+Los rizobios infectan la planta en grandes cantidades donde se liberan en las células dentro de los simbiosomas.
+Están protegidos por la estructura resistente del nódulo de la raíz.
+La simbiosis mejor estudiada que involucra a un huésped animal es la que existe entre los cnidarios y los dinoflagelados, más comúnmente las zooxantelas unicelulares.
+La simbiosis de Chlorella-Hydra describió por primera vez el simbiosoma.
+El coral Zoanthus robustus se ha utilizado como organismo modelo para estudiar la simbiosis con su especie de algas microsimbiontes Symbiodinium, con especial atención al simbiosoma y sus membranas.
+Se han buscado métodos para aislar las membranas del simbiosoma: el simbionte en el huésped animal tiene un complejo de membrana multicapa que ha demostrado ser resistente a la rotura, lo que dificulta su aislamiento.
+Los dinoflagelados endosimbiontes se utilizan por su capacidad para realizar la fotosíntesis y proporcionar energía, dando al huésped cnidarios como corales y anémonas, propiedades vegetales.
+Los dinoflagelados de vida libre se ingieren en las células gastrodérmicas del huésped y su membrana simbiosómica se deriva de la célula huésped.
+El proceso de formación del simbiosoma a menudo se ve en el huésped animal como el de la fagocitosis, y se plantea la hipótesis de que el simbiosoma es un fagosoma que ha sido sujeto a una detención temprana.
+Una estructura similar al simbiosoma es la vacuola parasitófora formada dentro de las células huésped infectadas por parásitos apicomplexanos.
+La vacuola se deriva de la membrana plasmática de la célula huésped.
+Se protege del sistema endolisomal del huésped mediante proteínas modificadoras liberadas por el parásito.
+La membrana de la vacuola parasitófora es remodelada en gran medida por el parásito.

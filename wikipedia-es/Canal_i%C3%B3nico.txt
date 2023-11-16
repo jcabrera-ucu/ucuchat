@@ -1,0 +1,121 @@
+Los canales iónicos son un tipo de proteína transmembrana que permite el paso de iones específicos, a través de la membrana celular.
+Su estructura semeja un poro o canal relleno de agua con un sistema de compuertas.
+Su función permite la generación de potenciales de acción en células excitables, la manutención de la homeóstasis interna de las células, el suministro de ingredientes o condiciones necesarias para funciones biológicas tales como la síntesis de hormonas, la producción de moco y otras.
+Así, los canales iónicos son proteínas que controlan el paso de iones a través de la membrana plasmática tales como Na+, K+, Ca2+ y Cl− y por lo tanto dependen del gradiente electroquímico de cada ion en particular.
+En el caso de células excitables como los miocitos y las neuronas el gradiente de los distintos iones establece el potencial de reposo de la membrana y la activación de determinados canales genera los potenciales de acción para la ejecución de la contracción muscular, la liberación de neurotransmisores y la regulación de la expresión genética, entre otras funciones.
+En el caso de células no excitables, los canales iónicos determinan el flujo de sal y agua, regulando el volumen celular y el pH.
+Los canales iónicos son estructuralmente muy diversos, sin embargo tienen características comunes.
+Típicamente actúan como compuertas, abriéndose o cerrándose frente a diferentes estímulos tales como: el potencial de membrana, la unión de neurotransmisores, la concentración de ciertos iones o fuerzas mecánicas.
+Una vez abiertos, el flujo de diferentes iones puede llegar a 106 o 107 iones por segundo.
+Pueden ser particularmente selectivos par un ion específico, como los canales de sodio, los canales de potasio y los canales de calcio; o ser no selectivos, como los receptores nicotínicos.
+Todas las células vivas deben adquirir de su alrededor las materias primas para la biosíntesis y la producción de energía, y deben liberar a su entorno los productos de desecho del metabolismo.
+Las células promueven intercambios de materia con su entorno y están rodeadas por una membrana plasmática que separa su interior del exterior.
+Unos pocos compuestos apolares pueden disolverse en la bicapa lipídica y cruzar la membrana plasmática sin ningún obstáculo (difusión de partículas liposolubles tales como: oxígeno, alcohol, ácidos grasos, entre otros).
+Sin embargo, en el caso de compuestos polares (ej. azúcar, aminoácidos, iones, entre otros) es esencial una proteína de membrana para el transporte transmembrana, una vez que la estructura de bicapa lipídica no es fácilmente permeable a este tipo de partículas.
+El transporte de estas sustancias hacia dentro y fuera de la célula o entre diferentes compartimentos intracelulares se lleva a cabo por proteínas de membrana como bombas, transportadores y canales iónicos.
+Los canales iónicos están formados por glicoproteínas y son componentes esenciales en la actividad de todas las células.
+Los canales tienen tres propiedades importantes:
+Los canales iónicos forman poros de membrana que pueden abrirse y cerrarse.
+Cuando el canal iónico se abre, forma un poro acuoso que se extiende a través del espesor de la membrana.
+El flujo de iones a través de un canal debido a diferencias en el potencial eléctrico o en las concentraciones es pasivo, o sea, no necesita de gasto metabólico energético por parte de la célula.
+Los iones fluyen pasivamente en favor de su gradiente electroquímico.
+La energía viene de las fuerzas químicas de difusión, ósmosis y equilibrio electroquímico.
+Así, las dos grandes fuerzas que impulsan a los iones moverse son la diferencia de concentración y el gradiente eléctrico (a ambas se le llaman fuerza electromotriz).
+Ya que en la región de mayor concentración la probabilidad de que las partículas choquen entre sí es mayor, la migración de una partícula de esta región a una de menor concentración es termodinámicamente favorecida, se dice que la partícula se mueve en favor de un gradiente químico o de concentración.
+Los canales iónicos pueden ser de dos tipos:
+En electrofisiología, el término en inglés gating suele utilizarse para referirse a la apertura (a través de la activación) y al cierre (a través de la desactivación o inactivación) de los canales iónicos.
+El nombre gating (de gate, "puerta", "compuerta") deriva de la idea de que una proteína del canal iónico incluye un poro que es resguardado por una o por varias compuertas, y la(s) compuerta(s) debe(n) estar abierta(s) para que los iones pasen a través del poro.
+Diversos cambios celulares pueden disparar la activación de la(s) compuerta(s), en función del tipo de canal iónico de que se trate, entre otros: cambios en el voltaje en la membrana celular (canales iónicos activados por voltaje), sustancias químicas (fármacos, sustancias adictivas, hormonas) que interactúan con el canal iónico (canales iónicos activados por ligandos), cambios en la temperatura, un estrechamiento o una deformación de la membrana celular, adición de un grupo fosfato al canal iónico (fosforilación) e interacción con otras moléculas de la célula (por ejemplo, proteínas G).
+La velocidad a la que ocurre cualquiera de estos procesos de activación/inactivación en respuesta a estos estímulos se conoce con el nombre de cinética de la activación.
+Algunos fármacos y muchas toxinas actúan como "modificadores de la activación" de los canales iónicos modificando la cinética de las compuertas.
+Algunos canales se abren o cierran aleatoriamente sin importar el valor del potencial membranal y se dice que su gating es independiente de voltaje.
+En contraste, otros canales están normalmente cerrados, pero su probabilidad de apertura puede incrementarse de manera sustancial por cambios ocurridos en el potencial de membrana (canales iónicos sensibles a voltaje); por interacciones específicas con ligandos extracelulares o intracelulares (canales activados por ligandos); o por estímulos físicos (mecanorreceptores y canales sensibles al calor).
+Cuando los canales iónicos están cerrados (sin posibilidad de conducción), son impermeables a los iones y no conducen la corriente eléctrica.
+Cuando los canales iónicos están abiertos, sí conducen la corriente eléctrica, y permiten entonces que algunos iones pasen a través de ellos y, por consiguiente, a través de la membrana plasmática de la célula.
+Estos flujos de iones generan una corriente eléctrica a través de la membrana.
+La dirección en que se mueven, tal y como se mencionó anteriormente, está determinada por el gradiente electroquímico que representa la suma del gradiente químico a través de la membrana plasmática y el campo eléctrico que experimenta el ion.
+La activación es el proceso en el que un canal iónico se transforma y pasa de cualquiera de sus estados de conducción a cualquiera de sus estados de no conducción.
+En la descripción habitual de los canales iónicos activados por voltaje del potencial de acción, se habla de cuatro procesos: activación, desactivación, inactivación y reactivación (también llamada recuperación de la inactivación).
+En un modelo de canal iónico con dos compuertas (una compuerta de activación y una compuerta de inactivación) en el cual ambas deben estar abiertas para que los iones sean conducidos a través del canal, activación es el proceso de apertura de la compuerta de activación, que ocurre en respuesta al hecho de que el voltaje dentro de la membrana celular (el potencial de membrana) se vuelve más positivo con respecto al exterior de la célula (despolarización); desactivación es el proceso opuesto, es decir, el cierre de la compuerta en respuesta al hecho de que el voltaje del interior de la membrana se vuelve más negativo (repolarización. Inactivación es el cierre de la compuerta de inactivación; al igual que con la activación, la inactivación ocurre en respuesta al hecho de que el voltaje dentro de la membrana se vuelve más positivo, pero a menudo sucede que se retrasa, en comparación con la activación.
+La recuperación de la inactivación es lo opuesto a la inactivación.
+Así, tanto la inactivación como la desactivación son procesos que hacen que el canal pierda la capacidad de conducción, pero son procesos diferentes en el sentido de que la inactivación se dispara cuando el interior de la membrana se vuelve más positivo, mientras que la desactivación se dispara cuando el potencial de la membrana se vuelve más negativo.
+Los canales iónicos se pueden clasificar en función del tipo de estímulo para su abertura o cierre en:
+Los canales iónicos abren en respuesta a cambios en el potencial eléctrico a través de la membrana plasmática, que tiende a ser una bicapa lipídica.
+Su principal función es la transmisión de impulsos eléctricos (generación del potencial de acción) debido a cambios en la diferencia de cargas eléctricas derivadas de las concentraciones de aniones y cationes entre ambos lados de la membrana.
+Las probabilidades de cierre y apertura de los canales iónicos son controladas por un sensor que puede ser eléctrico, químico o mecánico.
+Los canales activados por voltaje contienen un sensor que incluye varios aminoácidos con carga positiva que se mueven en el campo eléctrico de la membrana durante la apertura o cierre del canal.
+El cambio en la diferencia de potencial eléctrico en ambos lados de la membrana provoca el movimiento del sensor.
+El movimiento del sensor de voltaje crea un movimiento de cargas (llamado corriente de compuerta) que cambia la energía libre que modifica la estructura terciaria del canal abriéndolo o cerrándolo.
+Algunos de estos canales tienen un estado refractario conocido como inactivación cuyo mecanismo está dado por una subunidad independiente de aquellas responsables de la apertura y cierre.
+La fase de la rápida despolarización del potencial de acción de las células nerviosas y musculares (esqueléticas, lisas y cardíacas) y, en general, de las células excitables, depende de la entrada de Na+ a través de canales activados por cambios de voltaje.
+Esta entrada de Na+ produce una despolarización del potencial de membrana que facilita, a su vez, la apertura de más canales de Na+ y permite que se alcance el potencial de equilibrio para este ion en 1-2 mseg.
+Cuando las células se encuentran en reposo, la probabilidad de apertura de los canales de Na+ es muy baja, aunque durante la despolarización produzca un dramático aumento de su probabilidad de apertura.
+Los canales de K+ constituyen el grupo más heterogéneo de proteínas estructurales de membrana.
+En las células excitables, la despolarización celular activa los canales de K+ y facilita la salida de K+ de la célula, lo que conduce a la repolarización del potencial de membrana.
+Además, los canales de K+ juegan un importante papel en el mantenimiento del potencial de reposo celular, la frecuencia de disparo de las células automáticas, la liberación de neurotransmisores, la secreción de insulina, la excitabilidad celular, el transporte de electrolitos por las células epiteliales, la contracción del músculo liso y la regulación del volumen celular.
+También existen canales de K+ cuya activación es independiente de cambios del potencial de membrana que determinan el potencial de reposo y regulan la excitabilidad y el volumen extracelular.
+La mosca del vinagre (Drosophila melanogaster) ha sido la clave que nos ha permitido conocer la topología y la función de los canales K+.
+La identificación del primer canal de K+ fue la consecuencia del estudio electrofisiológico del mutante Shaker de la D. melanogaster, denominada así porque presenta movimientos espasmódicos de las extremidades al ser anestesiada con éter.
+Una función importante de los canales de K+ es la activación linfocitaria en la respuesta inmune del organismo.
+En las células en reposo, la concentración intracelular de Ca2+ es 20.000 veces menor que su concentración en el medio extracelular; por otro lado, el interior celular es electronegativo (-50 a -60 mV), es decir, que existe un gradiente electroquímico que favorece la entrada de iones Ca2+ en la célula.
+Sin embargo, en una célula en reposo, la membrana celular es muy poco permeable al Ca2+, por lo que la entrada del mismo a favor de este gradiente es reducida.
+Ahora bien, durante la activación celular, la concentración intracelular de Ca2+ aumenta como consecuencia de la entrada de Ca2+ extracelular a través de la membrana, bien a través de canales voltaje-dependientes.
+La entrada de Ca2+ a través de los canales voltaje-dependientes de la membrana celular participa en la regulación de numerosos procesos biológicos: génesis del potencial de acción y la duración de éste, acoplamiento excitación-contracción, liberación de neurotransmisores, hormonas y factores de crecimiento, sinaptogénesis, osteogénesis, procesos de diferenciación celular, hipertrofia y remodelado, entre otros.
+Los canales de Cl- juegan un muy importante papel en la regulación de la excitabilidad celular, el transporte transepitelial y la regulación del volumen y del pH celulares y pueden ser activados por cambios de voltaje, ligandos endógenos (Ca, AMPc, proteínas G) y fuerzas físicas (dilatación celular).
+El primer canal voltaje-dependiente de esta familia, denominado CLC-0 (ClC-0), fue clonado del órgano eléctrico de la raya Torpedo marmorata.
+Posteriormente, se han clonado otros 9 canales, codificados por los genes CLCN1-7, CLCNKa y CLCNKb.
+Los canales ClC-0, ClC-1, ClC-2 y ClC-Ka/b se localizan en la membrana celular, mientras que los restantes canales se encuentran en las membranas de las mitocondrias y de otros orgánulos celulares.
+Los canales localizados en la membrana celular estabilizan el potencial de membrana en las células excitables como en el músculo esquelético y son responsables del transporte transepitelial de agua y electrolitos, mientras que los canales intracelulares pueden contrabalancear la corriente producida por la bomba de protones.
+El canal de cloro ClC-1 es crítico para la excitabilidad del músculo esquelético, mediante la estabilización del potencial de membrana del miocito.
+La función más importante de los canales de Cl-, en la sinapsis neuronal, es provocar una hiperpolarización por su entrada en la neurona postsináptica pasada su activación, y así interrumpir el impulso nervioso para preparar la neurona postsináptica para el siguiente impulso.
+Otra función importante de los canales de Cl- sucede en los glóbulos rojos de la sangre: en los tejidos la entrada de Cl- en eritrocitos fuerza la salida de bicarbonato de éstos,con lo que entra CO2 al eritrocitoo.
+En los pulmones, la salida de Cl- del eritrocito fuerza la entrada de bicarbonato de la sangre, con lo que sale CO2 al torrente sanguíneo pulmonar.
+Así se transporta más cantidad de CO2 de los tejidos a los pulmones.
+Los canales iónicos abren en respuesta a la unión de determinados neurotransmisores u otras moléculas.
+Este mecanismo de abertura es debido a la interacción de una substancia química (neurotransmisor u hormonas) con una parte del canal llamado receptor, que crea un cambio en la energía libre y cambia la conformación de la proteína abriendo el canal.
+Los ligandos regulan la apertura de canales de los receptores.
+Estos canales son llamados ligando dependientes y son importantes en la transmisión sináptica.
+Los canales ligando dependientes tienen dos mecanismos de abertura:
+En el caso de los canales activados por ligando, el sensor es una región de la proteína canal que se encuentra expuesta ya sea al exterior o al interior de la membrana, que une con gran afinidad una molécula específica que lleva a la apertura o cierre al canal.
+Canales iónicos regulados por un impulso mecánico que abren en respuesta a una acción mecánica.
+Los canales mecanosensibles, como los que se encuentran en los corpúsculos de Pacini, se abren por el estiramiento que sufre la membrana celular ante la aplicación de presión o tensión, como en la proteína PIEZO2.
+El mecanismo sensor en esta última clase de canales no es claro, sin embargo, se ha propuesto que los ácidos grasos de la membrana actúan como los agentes sensores mediante la activación de fosfolipasas unidas la membrana1 o bien se ha propuesto que participa el citoesqueleto que se encuentra inmediatamente por debajo del canal.
+Los canales iónicos son especialmente importantes en la transmisión del impulso eléctrico en el sistema nervioso.
+De hecho, la mayor parte de las toxinas que algunos organismos han desarrollado para paralizar el sistema nervioso de depredadores o presas (como por ejemplo el veneno producido por escorpiones, arañas, serpientes y otros) funcionan obstruyendo los canales iónicos.
+La alta afinidad y especificidad de estas toxinas ha permitido su uso como ligandos para la purificación de las proteínas que constituyen los canales iónicos.
+Muchos agentes terapéuticos median sus efectos por la interacción con estas proteínas, como por ejemplo alguno agentes ansiolítico, antihipertensivo, antiarrítmico, etc.
+Los canales iónicos se presentan en una gran variedad de procesos biológicos que requieren cambios rápidos en las células, como en el corazón, esqueleto, contracción del músculo, transporte de iones y nutrientes a través de epitelios, activación de linfocitos T o liberación de insulina por las células beta del páncreas.
+Los canales iónicos son un objetivo clave en la búsqueda de nuevos fármacos.
+La importancia de los canales iónicos en los procesos fisiológicos está clara a partir de los efectos de mutaciones en proteínas de canales iónicos específicos.
+Los defectos genéticos en el canal de Na+ de compuerta regulada por voltaje de la membrana plasmática del miocito conducen a enfermedades en las que los músculos periódicamente se paralizan (tal como sucede en la parálisis periódica hipercaliémica) o se vuelven rígidos (como en la paramiotonía congénita).
+La fibrosis quística es el resultado de una mutación que modifica un aminoácido en la proteína CFTR, un canal de iones Cl-; aquí el proceso defectuoso no es la neurotransmisión, sino la secreción por varias células glandulares exocrinas cuyas actividades están ligadas a los flujos de ion Cl-.
+Muchas toxinas presentes en la naturaleza actúan a menudo sobre canales iónicos, y la potencia de estas toxinas ilustra aún más la importancia del normal funcionamiento de los canales iónicos.
+La tetradotoxina (producida por el pez globo, Sphaeroides rubripes) y la saxitoxina (producida por el dinoflagelado marino Gonyaulax, causante de las “mareas rojas”) actúan uniéndose a los canales de Na+ de compuerta regulada por voltaje de las neuronas impidiendo de este modo los potenciales de acción normales.
+El pez globo es un ingrediente de la exquisitez japonesa fugu, que sólo puede ser preparada por chefs entrenados especialmente para separar tan suculento bocado del veneno mortal.
+Comer marisco que se haya alimentado de Gonyaulax puede ser también fatal; el marisco no es sensible a la saxitoxina, pero la concentran en sus músculos, que pasan a ser altamente venenosos para organismos más arriba en la cadena alimentaria.
+El veneno de la serpiente mamba negra contiene dendrotoxina, que interfiere con canales de K+ de entrada regulada por voltaje.
+La tubocurarina, componente activo del curare (usado como veneno para flechas en el Amazonas) y otras dos toxinas de venenos de serpiente, cobrotoxina y bungarotoxina, bloquean el receptor de acetilcolina o impiden la abertura de su canal iónico.
+Al bloquear señales desde los nervios a los músculos, todas estas toxinas provocan parálisis y muy posiblemente la muerte.
+En el lado positivo, la extremadamente elevada afinidad de la bungarotoxina para el receptor de la acetilcolina ha sido útil experimentalmente: la toxina marcada radioactivamente fue utilizada para cuantificar el receptor durante su purificación.
+En los últimos años se han descrito diversas enfermedades congénitas asociadas a la presencia de mutaciones en los genes que codifican las subunidades de los canales iónicos, las canalopatías.
+Utilizando técnicas de biología molecular y de electrofisiología se han podido clonar y expresar los genes que codifican las subunidades de los canales iónicos y caracterizar las corrientes en los canales nativos o mutados.
+Hoy sabemos que las mutaciones de los canales Na+, Ca2+, K+ y Cl- son responsables de cuadros de epilepsia, ataxia, degeneración neuronal, entre otros.
+Con esta técnica se pueden medir las corrientes iónicas a través de un canal de membrana individual.
+Para ello se une un capilar con una punta fina modificada de 1µm de diámetro sobre la membrana celular; mediante un ligero vacío se coloca la membrana celular densa en el borde del cristal y se aísla así un pequeño dominio de la membrana (en inglés patch) del medio circundante.
+Por manipulación mecánica se pueden separar los fragmentos de la membrana celular y entonces medirlos individualmente.
+Un electrodo en el capilar lleno de tampón es suficiente para conectar el aparato de medida.
+Si se realiza un potencial definido (en inglés to clamp, grapar) se puede medir la corriente de iones a través del dominio de membrana aislado con alta resolución de tiempo (µs).
+Para ello, las condiciones del lado citosólico (fuera) o del lado extracelular de la membrana (dentro) se pueden variar arbitrariamente y medir su influencia sobre la corriente de iones.
+Así se cuantifica la corriente de iones a través de un receptor nicotínico de acetilcolina en unos 4 pA (10-12 amperios), lo que significa un flujo de unos 2-3 x 104 iones de Na+ por milisegundo.
+El concepto de canal iónico fue propuesto en la década de los 50’s por Alan Hodgkin y Andrew Huxley en sus estudios clásicos sobre la naturaleza del impulso nervioso en el axón gigante del calamar.
+En su modelo cuantitativo propusieron que las corrientes de Na+ y K+ estaban localizadas en sitios particulares en la membrana a los cuales les llamaron “parches activos”.
+Actualmente sabemos que estos parches activos son los canales de Na+ y K+ activados por voltaje.
+A partir de entonces y en los últimos 50 años, se ha incrementado enormemente el conocimiento de los canales iónicos a nivel molecular.
+Un gran avance en el conocimiento de los canales iónicos se dio también con el desarrollo de la técnica del “patch clamp” por Erwin Neher y Bert Sakmann.
+Estos dos investigadores usaron un microelectrodo de vidrio con su punta pulida y lo aplicaron a la superficie de una célula, de manera que se pudiera aislar un parche pequeño de membrana.
+El voltaje a través de este parche se mantuvo estable por un amplificador de retroalimentación y de esta manera pudieron medir las corrientes que fluían a través de los canales presentes en él.
+Esta técnica que valió el premio Nobel a sus creadores, revolucionó el estudio de los canales iónicos ya que permitió reducir el “ruido” o interferencia y registrar la actividad de un solo canal y actualmente cada año se reportan miles de trabajos realizados con esta técnica.
+Recientemente se realizó un otro gran avance en el estudio de los canales iónicos que le valió el premio Nobel a sus autores.
+El grupo de Roderick MacKinnon logró cristalizar por primera vez un canal iónico y estudiarlo con difracción de rayos X obteniendo imágenes con una resolución de 3.2 Å.
+Roderick MacKinnon le encargó al artista Nacimiento de una Idea, una escultura de 1,5 metros de altura inspirada en el canal de potasio KcsA.
+La obra consiste en un objeto de alambre que representa el interior del canal y otro de vidrio soplado que representa, a su vez, la cavidad principal de la estructura del canal.

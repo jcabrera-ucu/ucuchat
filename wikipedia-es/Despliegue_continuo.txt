@@ -1,0 +1,3 @@
+Despliegue continuo (DC) ( del inglés Continuous Deployment) es una aproximación de ingeniería del software en qué los equipos de desarrollo entregan funcionalidades de software de forma frecuente a través de la automatización de despliegues.
+El contraste del DC con respecto a la entrega continua, que es una aproximación similar en el que funcionalidades de software son también frecuentemente entregado y listos para ser potencialmente desplegado, pero  no se hace.
+En un entorno que está centrado en los datos con los microservicios proporcionando la funcionalidad y donde estos microservicios pueden tener múltiples instancias, DC consiste en instanciar la versión nueva de un microservicio y retirándose la versión vieja cuando ha drenado todas las peticiones pendientes.

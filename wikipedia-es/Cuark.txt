@@ -1,0 +1,123 @@
+En física de partículas, los cuarks o quarks  son los fermiones elementales masivos que interactúan fuertemente formando la materia nuclear y ciertos tipos de partículas llamadas hadrones.
+Junto con los leptones, son los constituyentes fundamentales de la materia bariónica.
+Varias especies de cuarks se combinan de manera específica para formar partículas subatómicas tales como protones y neutrones.
+Los cuarks son las únicas partículas fundamentales que interactúan con las cuatro fuerzas fundamentales.
+Son partículas de espín 1/2, y son fermiones de Dirac por lo que sus correspondientes antipartículas existen.
+Hay seis tipos distintos de cuarks, cada uno «portador» de un número cuántico del modelo de cuarks.
+Los físicos de partículas han denominado de la siguiente manera:
+Los cuarks s, c, t y b son lo suficientemente masivos para decaer en otros cuarks mediando la interacción débil.
+Los cuarks u y d son los más estables.
+Una hipótesis central, pero no comprobada, es que los cuarks no pueden observarse libres sino confinados en grupos, fenómeno llamado confinamiento de color.
+Los hadrones de spin entero (bosón) se clasifican como los mesones y los de spin semientero (fermión) como bariones.
+Los mesones observados son consistentes con una composición de (una pareja cuark-anticuark) y los bariones como la composición de tres cuarks o anticuarks.
+Gell-Mann en 1965 y Zweig propusieron hadrones hipotéticos compuestos por más de tres cuarks como los tetracuarks (con cuatro cuarks), pentacuarks (con cinco cuarks), y moléculas hadrónicas.
+Esto sería una consecuencia directa del confinamiento del color.
+En el año 2003 se encontró evidencia experimental de una nueva asociación de cinco cuarks, los pentaquark, cuya evidencia, en principio controvertida, fue demostrada gracias al Gran Colisionador de Hadrones en julio de 2015.
+La noción de 'cuark teórica nace del intento de clasificar a los hadrones, ahora explicados gracias al modelo de cuarks.
+Murray Gell-Mann y Kazuhiko Nishijima realizaron esa clasificación de manera independiente en 1964.
+Los cuarks son la conclusión de los intentos para encontrar los fundamentos de la construcción de la materia.
+Con el triunfo de la teoría atómica en el se concluía que los átomos eran los componentes últimos de la materia y de ahí su nombre por ser indivisibles.
+Con el modelo atómico de Rutherford se demostró que el átomo no era indivisible, constaba de un núcleo y de una nube electrónica.
+Se demostró posteriormente que el núcleo atómico estaba conformado de protones y neutrones.
+Con solo cinco partículas elementales, fuera de los protones, neutrones y electrones, en la década de 1930 comenzaron a aparecer los muones de alta radiación y algunos neutrinos de forma indirecta.
+La confirmación de más mesones y bariones, primero en experimentos con alta radiación y luego en aceleradores de partículas, dieron la impresión de que nos enfrentábamos a un zoológico de partículas y fueron el impulso para buscar cada vez más partículas elementales.
+El esquema usado por Gell-Mann para unir a las partículas era mediante su isospín y su extrañeza.
+Utilizó una unidad simétrica derivada del álgebra actual, que se la conoce como una aproximación de la simetría quiral de la cromodinámica cuántica (QCD).
+Esta es una simetría global de sabor SU(3) que no debe confundirse con la simetría gaugeana de la cromodinámica cuántica.
+En este esquema, los mesones ligeros (de espín 0) y los bariones (espín -1/2) estaban agrupados juntos en octetos de simetría de sabor.
+Una clasificación de los bariones de espín -3/2 en una representación 10 arrojó la predicción de una nueva partícula, la Ω-.
+Su descubrimiento en 1964 llevó a la aceptación de este modelo.
+La representación 3 que faltaba fue identificada como los cuarks.
+El esquema fue llamado por Gell-Mann como de ocho maneras (eightfold way en inglés), una inteligente asociación de los octetos del modelo con los ocho caminos o maneras del budismo.
+A mediados de la década de 1960 había un cierto consenso en que el protón poseía un tamaño aproximado de 10–15 m con una distribución suave de carga en su interior.
+Los análisis de ciertas propiedades de reacciones de altas energías de hadrones llevó a Richard Feynman a postular subestructuras de hadrones, a los que él llamó partones (porque eran parte de los hadrones).
+La serie de experimentos en el Stanford Linear Accelerator Center (SLAC) entre 1967 y 1973 tenían como objetivo estudiar la dispersión electrón-protón y ver la distribución de carga en el protón.
+Estos experimentos eran muy parecidos a los realizados por Ernest Rutherford años atrás para confirmar la existencia del núcleo atómico.
+El SLAC es un acelerador de partículas lineal donde partículas como los electrones pueden alcanzar energías de hasta 50 GeV, lo suficiente para que estos puedan traspasar nucleones.
+El análisis teórico de las colisiones inelásticas que tuvieran lugar entre el electrón y el protón lo había trabajado James Bjorken.
+Este consideró varias hipótesis para explicar la función de forma de la dispersión.
+De todas ellas, la más especulativa era considerar al protón compuesto por partículas puntuales cargadas y con espín 1/2.
+Al analizar los datos para diferentes cantidades de momento transferidos al protón, se comprobó que el ajuste de Bjorken con tal hipótesis era el adecuado.
+Se habían descubierto los cuarks (inicialmente, llamados partones) de manera experimental lo que permitió obtener el premio Nobel de Física de 1990 a Taylor, Kendall y Friedmann, líderes de los experimentos en el SLAC.
+Más adelante, otros experimentos de colisiones inelásticas con neutrinos hechas en el CERN sirvieron para confirmar los resultados del SLAC.
+Se confirmó que los partones de Feynmann y los cuarks eran exactamente la misma cosa.
+Con la prueba de la libertad asintótica en la cromodinámica cuántica que realizaron en 1973 David Gross, Frank Wilczek y David Politzer, la conexión se hizo estable.
+A estos científicos se les concedió el premio Nobel de Física en el 2004 por este trabajo.
+Kendall dijo sobre el hallazgo:
+En 1967 se creía que solo existían el cuark arriba, abajo y extraño.
+En 1970, Sheldon Glashow, John Iliopoulos y Luciano Maianicon postularon la existencia del cuark encantado para impedir cambios no físicos de sabor en las desintegraciones débiles que podrían aparecer en el modelo estándar.
+El descubrimiento del mesón J/ψ en 1974 llevó al reconocimiento de que este estaba hecho de un cuark encantado y su anticuark.
+Luego, se planteó la hipótesis del quinto y sexto cuark, llamados cuark cima y fondo.
+La existencia de una tercera generación de cuarks fue predicha por Makoto Kobayashi y Toshihide Maskawa en 1972; ellos se dieron cuenta de que la violación de la simetría CP por kaones neutros no podría acomodarse en el modelo estándar con las dos generaciones hasta ese momento existentes de cuarks.
+El cuark fondo fue descubierto en 1977 y el cuark cima en 1995.
+La palabra fue originalmente designada por Murray Gell-Mann como una palabra sin sentido que rimaba con pork, pero sin ortografía.
+Después, él encontró la palabra «quark» en un libro de James Joyce titulado Finnegans Wake y de ahí se usó su ortografía:
+Gell-Mann dijo sobre esto que
+La frase «tres cuarks» (three quarks en inglés) encajaba particularmente bien (como se menciona en la cita) ya que en ese tiempo solo había tres cuarks conocidos y entonces los cuarks estaban en grupos de tres en los bariones.
+En el libro de Joyce, se da a las aves marinas tres quarks, quark toma un significado como el grito de las gaviotas (probablemente onomatopeya, como cuac (o cuá) para los patos).
+La palabra es también un juego de palabras entre Munster y su capital provincial Cork.
+El modelo estándar es un modelo teórico que describe todas las partículas elementales conocidas hasta ahora, así como el ya descubierto bosón de Higgs.
+Este modelo agrupa las partículas en generaciones de dos leptones y dos cuarks.
+Entre ellas varía la masa que va aumentando de acuerdo al número de la generación, siendo la tercera la más pesada hasta el momento.
+El modelo estándar predice las tres generaciones de cuarks y leptones que conocemos pero no podría descartarse del todo la posibilidad de una cuarta generación.
+Este modelo contiene seis sabores de cuarks (q) divididos en tres generaciones.
+En la primera tenemos los cuarks arriba (u) y abajo (d).
+En la segunda, los cuarks encantado (c) y extraño (s).
+Y en la tercera, los cuarks fondo (b) y cima (t).
+Las Antipartículas de los cuarks son los anticuarks, y son denotados por una barra sobre el símbolo del correspondiente, por ejemplo, si un cuark se representa, un anticuark se escribe.
+Así como con la antimateria en general, los anticuarks tienen la misma masa, vida media, y espín que sus respectivos cuarks, pero con carga opuesta.
+Los cuarks no se encuentran libres en la naturaleza sino que se agrupan formando hadrones.
+Estos se dividen en dos tipos:
+Existen seis tipos de cuarks, cada uno con su sabor, su carga, su isospín débil y su masa (entre las propiedades más importantes).
+Una lista de estas propiedades para cada cuark sería:
+Junto a los leptones, los cuarks forman prácticamente toda la materia de la que estamos rodeados.
+En concreto la constituyen los dos primeros cuarks ya que forman los protones y neutrones que a su vez forman los núcleos atómicos.
+La carga -⅓ o +⅔ de la carga elemental.
+Por esto siempre las partículas compuestas (bariones y mesones) tienen una carga entera.
+Experimentalmente (por ejemplo en el experimento de la gota de aceite de Millikan) no hay información de cargas fraccionarias de partículas aisladas.
+La tercera parte de la carga en los hadrones es debida a la presencia de los cuarks.
+Actualmente se desconoce por qué la suma de las cargas de los cuarks en un protón se corresponde exactamente a la del electrón, un leptón, con signo opuesto.
+Aunque si bien se habla de la masa de los cuarks en el mismo sentido que la masa de cualquier otra partícula, la noción de masa para un cuark es más complicada por el hecho que los cuarks no pueden encontrarse solos en la naturaleza: por lo general se encuentran acompañados de gluones.
+Por consiguiente, la noción de la masa de un cuark es una construcción teórica que solo está bien definida cuando se especifica la situación física del quark.
+La simetría quiral aproximada de la cromodinámica cuántica, por ejemplo, permite definir la razón entre varias masas de cuarks a través de combinaciones de las masas de los octetos pseudoescalares de los mesones en el modelo de cuarks por la teoría de perturbación quiral, así: undefined
+El hecho de que el cuark arriba tenga masa es importante porque había un problema con la violación CP si éstos no tenían masa.
+Los valores absolutos de las masas son determinados por las reglas de suma de funciones espectrales (o también las reglas de suma de la cromodinámica cuántica).
+undefined
+Otro método para especificar las masas de los cuarks fue usada por Murray Gell-Mann y Kazuhiko Nishijima en el modelo de cuarks que conectaba la masa del hadrón con la masa de los cuarks.
+Estas masas, llamadas masas constituyentes de cuarks, son considerablemente diferentes de las masas definidas anteriormente.
+Las masas constituyentes no tienen ningún significado dinámico posterior.
+undefined
+Por otro lado, las masas de los cuarks más masivos, el encantado y el fondo, se obtuvieron de las masas de los hadrones que contenían un cuark pesado (y un anticuark ligero o dos cuarks ligeros) y del análisis de quarkonios.
+Los cálculos del enrejado de la cromodinámica cuántica usando una teoría efectiva de cuarks pesados o cronodinámica cuántica no relativista se usan ahora para determinar la masa de esos cuarks.
+undefined
+El cuark cima es lo suficientemente pesado para que la perturbación de la QCD pueda usarse para determinar su masa.
+Antes de su descubrimiento en 1995, la mejor teoría estimaba que la masa del cuark cima podía obtenerse del análisis global de test de precisión del modelo estándar.
+El cuark cima, sin embargo, tiene la única cantidad de cuarks que se desintegran antes de hadronizarse.
+Entonces, la masa puede medirse directamente a partir de los productos desintegrados resultantes.
+Estos solo pueden hacerse en el tevatrón que es el único acelerador de partículas con la suficiente energía para producir cuarks cima en abundancia.
+undefined
+El valor de esta propiedad para los cuarks es de 1/2, y su signo depende de qué tipo de cuark es.
+Para los cuarks tipo u (u, c y t) es de +1/2, mientras que para los otros, llamados cuarks tipo d (d, s, b), es de -1/2.
+De acuerdo con el isospín débil, un cuark tipo u deberá desintegrarse para obtener un cuark tipo d y viceversa.
+No se admiten desintegraciones entre cuarks del mismo tipo.
+Las partículas que permiten estos cambios de carga del isospín débil son los bosones W y Z.
+Debido a la interacción débil todos los fermiones, y en este caso los cuarks, pueden cambiar de tipo; a este cambio se le denomina sabor.
+Los bosones W y Z son los que permiten el cambio de sabor en los cuarks, estos bosones son los causantes de la interacción débil.
+Cada cuark tiene un sabor diferente que interactuará con los bosones de una manera única.
+El sabor de los cuarks arriba y abajo es el isospín débil, antes mencionado.
+El cuark extraño, tendrá un número cuántico o sabor, homónimo, llamado extrañeza y tiene el valor de -1.
+Para el cuark encantado es encantado y tiene el valor de 1; y así sucesivamente con los otros dos como pico se puede ver en la tabla anterior.
+Los cuarks, al ser fermiones, deben seguir el principio de exclusión de Pauli.
+Este principio implica que los tres cuarks en un barión deben estar en una combinación antisimétrica.
+Sin embargo, la carga Q=2 del barión Δ++ (que es un cuarto del isospín Iz =  3/2 de los bariones) puede ser realizado solo por cuarks con espín paralelo.
+Esta configuración es simétrica bajo intercambio de cuarks; esto implica que existe otro número cuántico interno para que pueda hacerse esa combinación antisimétrica.
+A esta propiedad o número cuántico se le denominó color.
+El color no tiene nada que ver con la percepción de la frecuencia de la luz; por el contrario, el color es la carga envuelta en la teoría de gauge, más conocida como cromodinámica cuántica.
+undefined
+El color es una simetría de gauge SU(3).
+Los cuarks están localizados en la representación fundamental 3 y, por lo tanto, tienen tres colores, en analogía con los tres colores fundamentales rojo, verde y azul, y de ahí viene su nombre.
+Es por eso que se suele decir que existen 18 tipos de cuarks, 6 con sabor y cada uno con 3 colores.
+undefined
+Nuevas extensiones del modelo estándar de física de partículas indican que los cuarks podrían estar compuestos de subestructuras.
+Esto asume que las partículas elementales del modelo estándar de física de partículas son partículas compuestas; estas hipótesis están siendo evaluadas, aunque actualmente no se ha descubierto tal estructura.
+Las llamadas subestructuras de los cuarks se denominan preones.

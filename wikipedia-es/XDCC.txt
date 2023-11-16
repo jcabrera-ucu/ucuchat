@@ -1,0 +1,16 @@
+XDCC (Xabi DCC o eXtended DCC) fue inicialmente un script escrito en 1994 para ircII por Xabi.
+Este script es una ampliación del comando DCC de ircII.
+Ahora XDCC hace referencia a bots de IRC ejecutando aplicaciones de compartición de archivos en general.
+Los bots XDCC sirven uno o más archivos, generalmente de gran tamaño, para descarga a través del protocolo DCC.
+A pesar de que XDCC se usa comúnmente para la distribución de material ilegal, como warez (paquetes de software), puede ser utilizado de forma legal.
+XDCC está ganando popularidad sobre viejos medios tales como grupos de noticias y DCC.
+Al contrario que las transferencias peer-to-peer, los servidores XDCC se alojan a menudo en conexiones con un ancho de banda de subida elevado, a veces hasta 100 Mbit.
+A menudo se ejecutan servidores FTP en los servidores XDCC para facilitar la subida del material.
+Algunos servidores XDCC se ejecutan en máquinas hackeadas.
+Para usar XDCC, uno puede enviar un mensaje privado (query) o enviar un comando CTCP a un bot, usando un cliente de IRC.
+El usuario puede preguntar a un bot qué archivos tiene mediante el mensaje privado "xdcc list".
+Sin embargo, esta característica está a menudo desactivada para no atraer mucho la atención.
+Cuando un usuario quiere descargar un paquete o archivo del bot, debería teclear algo como "xdcc send # " al bot.
+El bot comenzará a enviar el paquete al usuario o colocará al usuario en una cola de transferencias, en la que tendrá que esperar su turno.
+A menos que se diga lo contrario, la mayoría de comandos se pueden enviar mediante ctcp en vez de msg.
+Algunos servidores desactivan los comandos msg.

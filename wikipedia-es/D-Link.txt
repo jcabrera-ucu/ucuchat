@@ -1,0 +1,69 @@
+D-Link Corporation (友訊科技) es un proveedor global con sede en Taipéi, Taiwán, cuyo principal negocio son las soluciones de redes y comunicaciones para consumidores y empresas.
+Fue fundada en marzo de 1986 en Taipéi como Datex Systems Inc.
+El fabricante D-Link es actualmente uno de los líderes mundiales de infraestructura de redes y comunicaciones para el sector empresarial y también de consumo.
+Está centrada en la fabricación de puntos de acceso, switches, switches industriales, routers, adaptadores de red, cámaras ip y routers.
+D-Link cuenta con una amplia experiencia en el sector de las administraciones públicas y multitud de casos de éxito en sectores verticales como industria, gran empresa, pymes, servicios, educación y sanidad.
+Comenzó como vendedor de tarjetas de red y ha pasado a convertirse en diseñador, desarrollador y uno de los fabricantes de infraestructuras de networking líder a nivel mundial.
+La empresa comenzó con el nombre de Datex Systems, una combinación de las palabras “data“ y “exchange”.
+Rápidamente, el nombre cambió a D-Link, que hace referencia a la capacidad de la compañía de unir personas: “D” por “Datex” y “Link”, palabra centrada en el principal negocio de la firma: el networking.
+En mandarín, D-Link significa “amigos de networking”, reflejando aún más la misión de la compañía: posibilitar la conectividad a personas y empresas, lo que refuerza el mensaje del eslogan de su logo “Building Networks for People”
+D-Link ha logrado diversos hitos a lo largo de estos años desde su fundación en 1986
+1986 - Fundación de la compañía con el nombre Datex Systems Inc. en Taiwán
+1987 - Datex lanza su primer adaptador Ethernet para PC
+1988 - Datex presenta su sistema operativo de red Peer-to-Peer
+1990 - Lanzamiento del primer adaptador LAN de bolsillo para PC´s portátiles.
+1994 - Datex Systems, Inc. cambia su nombre por D-Link Corporation
+1998 - D-Link es incluida en la lista de empresas Forbes 300
+2000 - Nace la filial para España y Portugal, D-Link Iberia
+2001 - D-Link bate records y lidera la tecnología Wireless 11G con su familia Airplus de 22Mbps
+2003 - Lanzamiento de la gama de Switches Smart con gestión intuitiva vía Web
+2004 - Con su entrada en los segmentos de Videovigilancia y Almacenamiento, D-Link inaugura una nueva era en Convergencia IP
+2005 – Lanzamiento de la gama de Switches empresariales xStack con apilado, routing y gestión avanzada (DGS-3300)
+2005 - Lanzamiento del Programa de Canal Partner+
+2007 - Primer router con Wireless N (DIR-635)
+2007 - D-Link se convierte en la primera empresa que introduce la tecnología Green Ethernet en conmutadores
+2010 - D-Link lanza el reproductor multimedia Boxee Box
+2011 - Nace la plataforma mydlink Cloud, con la que D-Link pone al alcance de cualquier usuario las Cámaras IP gracias a la gestión desde apps y portal web.
+Actualmente, gestiona cámaras, routers y NAS, llegando a los casi 4 millones de usuarios
+2012 - D-Link es una de las empresas líderes en el cambio tecnológico de IPv4 a IPv6
+2012 – D-Link se posiciona en el Magic Quadrant de Gartner en la categoría de Wired and Wireless LAN Access Infrastructure.
+2012 - D-Link presenta el primer Router WiFi AC (DIR-865L)
+2013 - Lanzamiento del Programa de Canal Value in Partnership+
+2013 - En septiembre de 2013, D-Link se posiciona en el Magic Quadrant de Gartner en la categoría de Wired and Wireless LAN Access Infrastructure como Challenger.
+2014 - Eye-On Baby Camera (DCS-825L), primer Vigilabebés Wi-Fi para monitorización remota desde móviles y tabletas con la app mydlink Baby
+2014 - D-Link se convierte en el patrocinador principal del D-Link Zaragoza de primera división de la Liga Nacional de Fútbol Sala
+2015 - D-Link, líder #1 en shipments Puntos de Acceso WLAN empresariales en 2Q15 a nivel mundial, según Gartner
+2015 - D-Link, #3 en shipments de Switches empresariales Ethernet en 2Q15 a nivel mundial, según Gartner
+2015 - Llega la domótica para móviles y tabletas con mydlink Home, un ecosistema gestionado desde app formado por enchufes inteligentes, sensores de movimiento y apertura de puertas/ventanas, alarmas y detectores de agua/humo.
+2016 - D-Link lanza el primer Switch Smart Gigabit con soporte ONVIF para integración de sistemas de Videovigilancia (DGS-1100-MP Series)
+2016 - Primera Cámara WiFi mydlink con lente 180° Anti-Distorsión (DCS-960L)
+2016 - La plataforma de domótica mydlink Home, compatible con IFTTT
+2016 - D-Link anuncia que desarrollará una Cámara WiFi para Apple HomeKit
+2018 - Varios Switches Managed de D-Link de capa 2 y capa 3 son analizados por el prestigioso medio Tolly Report, obteniendo excelentes resultandos en comparación con modelos similares de la competencia
+2019 - D-Link es reconocida por Gartner en abril de 2019 en programa Garner Peer Insights como el mejor fabricante de soluciones Wired and Wireless LAN
+2020 - D-Link lanza sus soluciones de gestión de redes LAN y WLAN desde la nube con la plataforma Nuclias Cloud y Nuclias Connect
+Como ocurre a todos los productos de fabricantes de redes y comunicaciones, los de D-Link se han visto afectados por diversos ataques de hackers.
+D-Link siempre ha respondido informando a sus usuarios y publicando las actualizaciones necesarias en su página de soporte, donde tiene una sección dedicada a este tipo de alertas y soluciones
+En los últimos años la empresa ha sido conocida por algunas vulnerabilidades de seguridad que presentan sus equipos, llegando incluso a ser demandada, debido a ello, por la Comisión Federal de Comercio.
+D-Link ha contestado oficialmente alegando que es una causa sin justificación alguna, ya que no menciona ningún producto y habla en general de la marca, sin aportar casos ni pruebas.
+D-Link afirma que los procesos y procedimientos relacionados con la seguridad son muy estrictos.
+Profesionales de seguridad informática de productos de terceros, incluyendo el Certificado de Seguridad del Sistema de Información Profesional (CISSP), participan activamente en el desarrollo y gestión de productos.
+Tras las acciones judiciales emprendidas por D-Link para desestimar esta denuncia por carecer de fundamento, un juez del distrito de california ha desestimado tres de las seis conclusiones por carecer de fundamento ya que no identifican ni un solo caso reportado por un usuario acerca de problemas de seguridad con los productos de la marca.
+En 2005, Poul-Henning Kamp, un desarrollador de FreeBSD, notificó que el stratum 1 timeserver danés parecía haber sido víctima de un ataque de DDoS.
+Las investigaciones sobre la cuestión revelaron que varios productos de red de D-Link fueron modificados para consultar stratum 1 timeservers (que están en los niveles más altos de la jerarquía NTP y normalmente se prevén que sean para uso exclusivo de otros servidores) directamente para información NTP, en vez de hacerlo en los servidores de sus respectivos ISPs.
+Esta actividad violaba las prácticas aceptadas así como los deseos de los administradores de los servidores de tiempos de alto nivel, frecuentemente incurriendo en un gasto significante en el proceso.
+.
+D-Link no es la primera compañía acusada de este comportamiento.
+En 2003, empresa estadounidense Netgear causó problemas similares para la Universidad de Wisconsin, que fueron eventualmente resueltos.
+Este asunto se ha resuelto amistosamente por las dos partes: Kamp y D-Link.
+El 6 de septiembre de 2006 el proyecto gpl-violations.org ganó el pleito contra la marca alemana de la compañía considerando que D-Link había alegado inapropiadamente e infringía el copyright utilizado en partes del kernel del Sistema Operativo Linux.
+El juicio finalmente proporcionó el registro, precedente legal que la GPL es válida y legalmente asociada, y que estará respaldada por los tribunales.
+Sin embargo, aunque la orden proporcionaba la restitución para el demandante, no hubo ninguna acción jurisdiccional u otra orden previniendo a D-Link de continuar sus actividades ofensivas.
+En octubre de 2013, un investigador descubrió que varios modelos de los routers domésticos de D-Link incluyen una puerta trasera en el fichero  del firmware, lo que permite a cualquier usuario malicioso saltarse la autentificación enviando el agente de usuario.
+Además, algunos routers D-Link son vulnerables al secuestro de DNS (DNS hijacking) por un atacante remoto no autenticado cuando la administración remota está habilitada.
+D-Link ha sido criticado por sus vulnerabilidades en el Home Network Administration Protocol en algunos de sus routers, y además, no resolver estas vulnerabilidades reconocidas en sus propios avisos de seguridad en las actualizaciones de firmware.
+El 5 de enero de 2017, la Comisión Federal de Comercio demandó a D-Link por no tomar las medidas necesarias para proteger sus routers y cámaras IP, la demanda señala que D-Link engaña a los consumidores haciéndoles creer que sus productos son seguros.
+La demanda explica que la ausencia de seguridad permite que terceros tengan acceso total a las cámaras incluyendo vídeo y grabación sin el conocimiento de los propietarios, con lo que se les podría robar o grabar las conversaciones.
+D-Link ha contestado oficialmente alegando que es una causa sin justificación alguna, ya que no menciona ningún producto y habla en general de la marca, sin aportar casos ni pruebas.
+D-Link afirma que los procesos y procedimientos relacionados con la seguridad son muy estrictos.
+Profesionales de seguridad informática de productos de terceros, incluyendo el Certificado de Seguridad del Sistema de Información Profesional (CISSP), participan activamente en el desarrollo y gestión de productos.

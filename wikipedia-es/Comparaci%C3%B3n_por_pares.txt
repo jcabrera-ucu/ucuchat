@@ -1,0 +1,12 @@
+La comparación por pares generalmente es cualquier proceso de comparar entidades en pares para juzgar cuál de las dos entidades está preferido, o tiene una cantidad más grande de alguna propiedad cuantitativa, o si o no las dos entidades son idénticas.
+El método de comparaciónes por pares está utilizada en el estudio científico de preferencias, actitudes, sistemas electorales, elección social, elección pública, ingeniería de requisitos y multiagent AI sistemas.
+Si un individuo u organización expresa una preferencia entre dos alternativas mutuamente distintas, esta preferencia puede ser expresada como una comparación por pares.
+Si las dos alternativas son x y y, las siguientes comparaciones por pares son posibles:
+El agente prefiere x sobre y: "x > y" o "xPy"
+El agente prefiere y sobre x: "y > x" o "yPx"
+El agente es indiferente entre ambas alternativas: "x = y" o "xIy"
+Para un agente que hace una decisión, si tiene información objetiva, y las alternativas utilizadas por el agente quedan constante, entonces generalmente se supone que las comparaciones por pares sobre aquellas alternativas por la agente son transitivas.
+La mayoría está de acuerdo a qué es la transitividad, aunque hay debate sobre la transitividad de indiferencia.
+Las reglas de transitividad son como sigue debajo para un agente.
+Esto corresponde a que (xPy o xIy) es un preorden total, P es el orden débil estricto correspondiente, e I es la relación de equivalencia correspondiente.
+Por ejemplo, si hay tres alternativas a, b, y c, entonces los órdenes de preferencia posibles son:

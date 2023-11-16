@@ -1,0 +1,11 @@
+Cuando sobre una superficie se deposita una contaminación radiactiva, resulta necesario proceder a una serie de operaciones para su limpieza que se conocen como descontaminación radiactiva.
+Las superficies contaminadas pueden ser tanto de objetos como de seres vivos.
+La descontaminación se realiza mediante lavado o duchas.
+El lavado ha de ser enérgico para asegurar la eliminación del elemento contaminante, pero no tanto como para abrir heridas que pudieran servir al contaminante de entrada en el torrente sanguíneo.
+El agua del lavado debe tratarse posteriormente como residuo radiactivo.
+Cuando la contaminación es superficial, entre los tratamientos están la eliminación de pintura, o primeros centímetros de las superficies de paredes, suelos y techos.
+Entre las opciones de descontaminación está la descontaminación química.
+Esta se realiza tanto en instalaciones en funcionamiento como en el desmantelamiento de las mismas.
+En la mayoría de los casos el objetivo es reducir los niveles de radiación para que los trabajadores puedan permanecer en las cercanías.
+En instalaciones en operación no siempre realizan la descontaminación hasta niveles de acceso sin restricciones, de modo que se minimiza el deterioro de los sistemas descontaminados.
+En el caso de descontaminación para desmantelamiento, no existe esta preocupación, por lo que se pueden emplear agentes más potentes.

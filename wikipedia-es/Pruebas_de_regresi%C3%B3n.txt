@@ -1,0 +1,16 @@
+Las pruebas de regresión son cualquier tipo de pruebas de software con el objeto de descubrir errores (bugs), carencias de funcionalidad, o divergencias funcionales con respecto al comportamiento esperado del software, causados por la realización de un cambio en el programa.
+Se evalúa el correcto funcionamiento del software desarrollado frente a evoluciones o cambios funcionales.
+El propósito de éstas es asegurar que los casos de prueba que ya habían sido probados y fueron exitosos permanezcan así.
+Se recomienda que este tipo de pruebas sean automatizadas para reducir el tiempo y esfuerzo en su ejecución.
+Las pruebas de regresión se pueden considerar como el subconjunto de pruebas planificadas que se seleccionan para ser ejecutadas, generalmente de forma automática y periódicamente en cada nueva liberación del producto/software , teniendo como objetivo la verificación de que el producto no haya sufrido regresiones.
+Este tipo de cambio puede ser debido a prácticas no adecuadas de control de versiones, falta de consideración acerca del ámbito o contexto de producción final y extensibilidad del error que fue corregido (fragilidad de la corrección), o simplemente una consecuencia del rediseño de la aplicación.
+Por lo tanto, en la mayoría de las situaciones del desarrollo de software se considera una buena práctica que cuando se localiza y corrige un bug, se grabe una prueba que exponga el bug y se vuelvan a probar regularmente después de los cambios subsiguientes que experimente el programa.
+Existen herramientas de software que permiten detectar este tipo de errores de manera parcial o totalmente automatizada, la práctica habitual en programación extrema es que este tipo de pruebas se ejecuten en cada uno de los pasos del ciclo de vida del desarrollo del software.
+Clasificación de ámbito
+Clasificación temporal
+Las Pruebas de Regresión pueden usarse no solo para probar la corrección de un programa, sino a menudo usarse para rastrear la calidad de su salida.
+Por ejemplo en el diseño de un compilador, las pruebas de regresión deben rastrear el tamaño del código, tiempo de simulación, y el tiempo de compilación de las suites de prueba.
+Cuando quiera que aparece un nuevo build, el proceso de regresión aparece.
+Las pruebas de regresión se pueden llevar a cabo manualmente o mediante automatización.
+A medida que pasa el tiempo, las pruebas de regresión se van acumulando hasta tal punto que son difíciles de mantener.
+A través de la automatización de pruebas, se puede ejecutar una suite de pruebas de regresión cada vez que hay un cambio en el software de sistema.

@@ -1,0 +1,46 @@
+El Fairchild C-123 Provider («proveedor» en inglés) fue un avión de transporte militar de los Estados Unidos, diseñado por la Chase Aircraft Company, y construido posteriormente por la Fairchild Aircraft, para uso exclusivo en primer término de la Fuerza Aérea de los Estados Unidos, para luego ser usado por la Guardia Costera de los Estados Unidos (que fue su principal usuaria), la Reserva de la Fuerza Aérea, la Guardia Aérea Nacional, y por otras varias fuerzas aéreas, principalmente del Sureste Asiático.
+El C-123 Provider fue originalmente diseñado como un planeador de asalto para la Fuerza Aérea de los Estados Unidos (USAF), por la Chase Aircraft Company, como el XCG-20, y más tarde XG-20 (designación interna Chase MS.8 Avitruc).
+Se desarrollaron dos versiones motorizadas para el XCG-20 durante la década de 1950, como XC-123 y XC-123A.
+La única diferencia entre los dos era el modelo de motor.
+El XC-123 utilizaba dos motores radiales Pratt & Whitney R-2800 Double Wasp refrigerados por aire, mientras que el XC-123A utilizaba cuatro turborreactores General Electric J47-GE-11 en dos góndolas bajo las alas.
+El avión fue bien visto para el transporte de tropas tácticas por su robustez y fiabilidad y capacidad de operar desde pistas cortas y semipreparadas, sin embargo la versión propulsada por turborreactores fue desestimada debido a diversos problemas, entre ellos que los reactores eran propensos a la ingestión de objetos extraños, por lo tanto la USAF se decidió por la versión más convencional.
+Una vez que los vuelos de prueba del prototipo XC-123 fueron exitosos, la USAF firmó en 1952 un contrato con Chase Aircraft, de East Trenton, Nueva Jersey, para la producción de cinco aviones bajo la designación de C-123B Provider de preserie (seriales 52-1627 al 52-1631), que fueron construidos y puestos en vuelo en 1953.
+El C-123B difería poco del XC-123, con la excepción de un estabilizador vertical.
+La forma redondeada del XC-123 fue reemplazada por una más cuadrada en el C-123B.
+El C-123B estaba propulsado por dos Pratt & Whitney R-2800-99 de 2300 hp.
+El primer C-123B de producción voló a principios de 1953.
+Aquel mismo año (1953), Kaiser Frazer Corporation adquirió el control de la Chase Aircraft Company y recibió otro contrato por 300 C-123B, que fue cancelado a mediados de 1953 y reasignado a la Fairchild Engine and Airplane Corporation.
+Fairchild tomó cinco C-123B construidos por Chase y los llevó a prueba.
+Durante los vuelos de pruebas, surgieron problemas de estabilidad direccional que resultaron en la instalación de una gran aleta dorsal al frente del estabilizador vertical.
+Esta modificación se convirtió en la producción estándar y reconocimiento futuro en los Fairchild C-123B.
+El primer ejemplar construido por esta firma fue puesto en vuelo el 1 de septiembre de 1954, siendo el total de ejemplares construidos de 302, de los cuales 5 fueron vendidos a Arabia Saudita y 18 a Venezuela.
+Más tarde, ejemplares sobrantes de la USAF fueron cedidos a las fuerzas aéreas de Filipinas, Taiwán y Vietnam del Sur.
+La Stroukoff Aircraft Corporation, dirigida por el antiguo ingeniero jefe de Chase, modificó tres Provider con fines experimentales para la USAF, que se detallan en el capítulo de "Variantes" como YC-123.
+Los primeros C-123 fueron destinados a las unidades de transporte de la USAF, seguidamente fue adquirido por la Guardia Costera de los Estados Unidos (USCG), que utilizó el avión para realizar misiones de búsqueda y rescate, incluso el equipo de demostración de la Fuerza Aérea, los "Thunderbirds", utilizó el C-123 por un tiempo.
+El Provider también sería ampliamente exportado en virtud de diversos programas de ayuda militar, con aviones transferidos directamente de las existencias de la USAF.
+En 1962, la variante C-123K se evaluó para su uso en operaciones en el Sudeste Asiático y su actuación estelar llevó a la Fuerza Aérea a mejorar 180 de sus C-123B a la nueva variante C-123K, que contó con góndolas auxiliares con turborreactores General Electric J85 debajo de las alas, y frenos anti-deslizantes.
+En 1968, el avión ayudó al reabastecimiento de las tropas en Khe Sanh, Vietnam, durante un asedio de tres meses realizado por Vietnam del Norte.
+En 1961, en un intento de ayudar al Gobierno de Vietnam del Sur a luchar contra las guerrillas del Viet Cong, un contingente de C-123B fue despachado a Vietnam del Sur bajo el proyecto Mule Train.
+Los aviones provenían del Escuadrón de Transporte de Tropas 346 (346th TCS) y volaron desde la Base de Pope, Carolina del Norte, al Aeropuerto de Saigón, Tan Son Nhut, arribando al país el 2 de enero de 1962.
+Los C-123 de Mule Train no eran los primeros en desplegarse en Vietnam del Sur, esa distinción le pertenecía al Special Aerial Spray Flight de la USAF.
+Estos aviones participaron del proyecto de nombre Ranch Hand, de difusión de herbicidas y defoliantes para arruinar cultivos, asignado al 315th TCW (Ala de Transporte de Tropas).
+Los vuelos de spray operaron con el UC-123B, un avión modificado con depósitos químicos y equipo de presión bajo el fuselaje.
+Seis aviones comenzaron a operar sobre la Ruta Ho Chi Minh durante noviembre de 1961.
+Durante uno de los primeros vuelos de fumigación, el 2 de febrero de 1962, la USAF perdió el primer C-123 (y a los tres tripulantes) en Vietnam.
+El evento marcó el primero de unos 54 C-123 perdidos por diversas causas.
+Los vuelos de fumigaciones continuaron hasta 1972, cuando el Proyecto Ranch Hand fue disuelto.
+Uno de los aviones más conocidos del Ranch Hand fue un UC-123B (56-4362) llamado “Patches”.
+El avión recibió ese nombre debido a sus más de 1000 impactos durante las operaciones realizadas en Vietnam del Sur.
+Unos pocos C-123B fueron convertidos al estándar NC-123B (la N era por Prueba Especial Permanente).
+El NC-123U fue cargado con detectores infrarrojos (Foward Looking Infrared Detectors- FLIR) y radares de banda X en el morro, cámaras de televisión de bajo nivel de luz (LLLTV) y un visor/iluminador láser, un radar de navegación Doppler de bajo nivel y una computadora para liberar armas.
+Algunos fueron también equipados con un radomo sobre el área de la cabina.
+El NC-123B fue utilizado sobre la Ruta Ho Chi Minh para localizar camiones e informar a los aviones de ataque, por tripulaciones mixtas de la USAF y la VNAF.
+Estas operaciones clandestinas finalmente se conocieron como Operación Black Spot.
+Otro C-123B fue equipado con lámparas de alta intensidad montadas en un soporte móvil en la puerta de carga.
+Aunque podía iluminar un área de dos millas y media, se descubrió que la instalación tenía algunos inconvenientes en combate, por lo que tuvieron que ser retirados del servicio.
+Mientras que las luces debían ajustarse al avión, a diferencia de las bengalas, la antiaérea enemiga podía fácilmente encontrar las luces.
+En segundo lugar, el calor de las lámparas hizo que fuera necesario instalar grandes sopladores/ventiladores en los lados del fuselaje.
+Como resultado de este problema, el proyecto fue cancelado y el avión se retiró del combate.
+Durante la guerra de Vietnam, un C-123B fue convertido para el uso del Gen. Westmoreland, bajo la designación de VC-123B (la “V” es de VIP).
+El avión tenía asientos y aire acondicionado, además de radios y una cocina completa para ser utilizados por los pasajeros.
+Este avión actualmente se encuentra en el Museo de la Fuerza Aérea Salvadoreña.

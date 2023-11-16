@@ -1,0 +1,5 @@
+CoVLP es una candidata a vacuna contra la COVID-19 desarrollada en la ciudad de Quebec por la empresa canadiense Medicago y el laboratorio inglés GlaxoSmithKline (GSK).
+Se trata de una partícula similar al virus coronavirus cultivada en una hierba de origen australiano, Nicotiana benthamiana.
+La tecnología utilizada por Medicago para fabricar CoVLP es una tecnología de 'cultivo molecular' considerada rápida, de bajo costo y segura.
+Se ha propuesto específicamente para la producción de vacunas COVID-19.
+La candidata a vacuna se encuentra actualmente en ensayos clínicos de fase III.

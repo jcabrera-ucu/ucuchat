@@ -1,0 +1,73 @@
+El modelo de Logogén de 1969 es un modelo de reconocimiento de voz que usa unidades llamadas “logogenes” para explicar cómo los humanos  comprenden las palabras habladas o escritas.
+Los logogenes son un gran número de unidades de reconocimiento especializadas, cada una siendo capaz de reconocer una palabra específica.
+Este modelo proporciona los efecto del contexto en el reconocimiento de palabras.
+La palabra Logogén se puede rastrear hasta la palabra en Griego “logos”, que significa "palabra", y género, que significa "nacimiento".
+El modelo del científico británico John Morton fue diseñado para explicar el reconocimiento de palabras usando un nuevo estilo de unidad conocido como logogenes.
+Un elemento fundamental de esta teoría es la implicación de los léxicos, o aspectos especializados de memoria que incluyen información semántica y fonémica sobre cada elemento contenido en la memoria.
+Un léxico dado consta de muchos elementos abstractos conocidos como logogen.
+Los logogenes contienen una variedad de propiedades sobre la palabra dada como su apariencia, su sonido y su significado.
+Los logogenes no almacenan palabras dentro de sí mismos sino que almacenan información que es específicamente necesaria para recuperar cualquier palabra que se esté buscando.Un logogen dado se activará por estímulos psicológicos o información contextual (palabras) que es consistente con las propiedades de ese logogen específico y cuando el nivel de activación del logogen se eleva o supera su nivel de umbral, la pronunciación de la palabra dada se envía al sistema de salida.
+Ciertos estímulos pueden afectar los niveles de activación de más de una palabra a la vez, usualmente involucra palabras que son similares la una a la otra.
+Cuando esto sucede, cualquiera de los niveles de activación de las palabras alcanza el nivel de umbral, es esa palabra la que luego se envía al sistema de salida, sin que el sujeto se dé cuenta de ningún logogen parcialmente excitado.
+Esta suposición fue hecha por Marslen-Wilson y Welch (1978), quienes agregaron al modelo algunas suposiciones propias para dar cuenta de sus resultados experimentales.
+También asumieron que el análisis de la entrada fonética sólo puede estar disponible para otras partes del sistema mediante el proceso de cómo la entrada afecta al sistema logogen.
+Finalmente, Marslen-Wilson y Welch asumieron que la primera sílaba de una palabra dada va a incrementar el nivel de activación de un logogen dado más que los de las últimas sílabas, que apoyaron los datos encontrados en ese momento.
+El modelo de Logogén puede ser utilizado para ayudar a los lingüistas a explicar los acontecimientos particulares en el lenguaje humano.
+La aplicación más útil de este modelo es mostrar cómo se accede a las palabras y sus significados en el léxico.
+El efecto frecuencia-palabra se explica mejor por el modelo de logogén en que las palabras (o logogenes) que tienen una frecuencia más alta (o son más comunes) tienen un umbral más bajo.
+Esto significa que requieren menos poder perceptivo en el cerebro para ser reconocidos y decodificados desde el léxico y se reconocen más rápido que las palabras que son menos comunes.
+Además, con las palabras de alta frecuencia, la recuperación al reducir el umbral del elemento se cumple menos que las palabras de baja frecuencia, por lo que se necesita menos información sensorial para el reconocimiento de ese elemento en particular.
+Existen formas de reducir los umbrales, como la repetición y el priming semántico.
+Además, cada vez que se encuentra una palabra a través de estos métodos, el umbral para esa palabra es reducida temporalmente, debido a su capacidad de recuperación.
+Este modelo también transmite que las palabras específicamente concretas se recuerdan mejor porque usan imágenes y logogenes mientras que las palabras abstractas no se recuerdan tan fácilmente porque solo usan logogenes, por lo tanto, mostrando la diferencia en los umbrales entre estos dos tipos de palabras.
+Al momento de esta concepción, el modelo logogen de Morton fue uno de los modelos más influyentes en el surgimiento de otros modelos de acceso de palabras paralelas y sirvió como base esencial para estos modelos subsiguientes.
+El modelo de Morton también influyó fuertemente en otras teorías contemporáneas del acceso al léxico.
+Sin embargo, a pesar de las ventajas que presenta la teoría del logogen, también muestra algunas facetas negativas.
+En primer lugar, el modelo del logogén no explica todas las ocurrencias en el lenguaje, como la introducción de palabras nuevas o no palabras en el léxico de una persona.
+Además, debido a la aplicación del modelo distintivo puede variar su efectividad en diferentes idiomas.
+Mientras este modelo hace un trabajo razonable de entender la semántica subyacente de muchos aspectos de la psicolingüística, existen algunas fallas que se han señalado en el modelo de logogén.
+Se ha argumentado que los patrones de estímulos anteriores que se han visto en la teoría del logogen no están localizados centralmente en el propio logogen sino que en realidad están distribuidos a lo largo de las diferentes vías por las que se procesa el estímulo.
+Lo que esto indica es que la noción y la proliferación de los logogenes se debió a la modalidad.
+En esencia, el logogen es innecesario en la idea de obtener el título de ser una unidad de reconocimiento debido a la variedad de vías a las que está abierto, no solo los logogenes.
+Otra crítica ha sido que este modelo esencialmente ignora estructuras más grandes y más críticas en el lenguaje y la fonética, como las diferentes reglas sintácticas o la construcción gramatical que existe de manera innata en el lenguaje.
+Dado que este modelo se limita abiertamente al alcance del acceso al léxico, entonces este modelo es considerado parcial e incomprendido.
+Para muchos psicólogos, el modelo del logogén no cumple con la adecuación funcional o representativa que una teoría debería incluir para comprender suficientemente el lenguaje.
+Además, otra crítica es que se suponía que la teoría del logogén predecía que la degradación del estímulo debería afectar el primado (priming) y la frecuencia de las palabras en los humanos.
+Sin embargo muchos psicólogos han llevado a cabo estudios e investigado el modelo, para demostrar que sólo el primado (primig) y no la frecuencia de palabras interactúan con la degradación del estímulo.
+Se supone que el primado deteriora un estímulo porque postula que las características semánticas de las palabras previamente conocidas se devuelven al detector de una persona, lo que a su vez eleva el umbral de los elementos relacionados.
+En frecuencia de palabras, se supone que la degradación del estímulo ocurre porque postula que las palabras familiares tienen umbrales más bajos que sus contrapartes de baja frecuencia.
+Sin embargo, en estudios, el priming es la única estructura que muestra una decadencia observable y notable de estímulos.
+A pesar de que la teoría del logogen tiene muchos agujeros sin llenar, Morton fue un revolucionario en su campo cuya especulación e investigación ha abierto una notable era de psicolingüística.
+Modelo de Cohorte – Este modelo fue propuesto por Marslen-Wilson y fue diseñado específicamente para dar cuenta del reconocimiento auditivo de palabras.
+Funciona al descomponer la palabra y establece que cuando se escucha una palabra, todas las palabras que comienzan con el primer sonido de la palabra objetivo, se activan.
+Este conjunto de palabras se considera la cohorte.Una vez que se ha activado la primera cohorte, la otra información, o sonidos en la palabra, restringen las opciones.
+La persona reconoce la palabra cuando se le deja con un sola opción; a esto se le considera el “punto de reconocimiento”.
+Modelo de comprobación – Este modelo fue desarrollado por Norris  1986.
+En este modelo en particular, tomó el enfoque de que cualquier palabra que coincida parcialmente con la entrada, se analiza y se verifica para ver si encaja con el contexto de la situación.
+Modelo activación-interactiva –  Este modelo es considerado un modelo conexionista.
+Propuesto por McClelland y Rumelhart en el periodo de 1981 a 1982, se basa en nodos, que son características visuales y posiciones de letras dentro de una palabra dada.
+También actúan como detectores de palabras que tienen conexiones inhibidoras y excitadoras entre ellos.
+Este modelo comienza con la primera letra y sugiere que todas las palabras con esa primera letra se activan al principio y luego, al pasar por la palabra uno puede determinar qué palabra es la que están viendo.
+El principio fundamental es que los fenómenos mentales pueden describirse mediante redes interconectadas de unidades simples.
+Modelo de verificación – Este modelo fue desarrollado por Curtis Becker en 1970.
+La idea principal es que un número pequeño de candidatos que se activan en paralelo están sujetos a un proceso de verificación en serie.
+Este modelo inicia el proceso de reconocimiento de palabras con una representación básica del estímulo.
+Luego, la traza sensorial, que consiste en rasgos de línea, se usa para activar los detectores de palabras.
+Cuando se activa un número aceptable de detectores, estos son usados para generar un conjunto de búsqueda.
+Estos elementos se extraen del léxico sobre la base de la similitud con la traza sensorial, que ayuda con la identidad del estímulo.
+Luego, en un proceso en serie, los candidatos se comparan con la representación de la entrada de rastreo sensorial.
+Frecuencia de palabras – Esta es la creencia de que la velocidad y la precisión con la que se reconoce una palabra está relacionada con la frecuencia con que aparece en nuestro idioma.
+Cada logogén cuenta con un umbral (para su identificación) y palabras con frecuencias más altas tienen umbrales más bajos.
+Las palabras con frecuencias más altas también requieren menos evidencia sensorial.
+(Morrison & Ellis, 1995)
+Edad de adquisición –  Este término generalmente se refiere a la edad en la que un concepto o habilidad es aprendida.
+Sin embargo, lo más estudiado es la adquisición del lenguaje.
+Las palabras aprendidas en los primeros años se reconocen con mayor rapidez y se usan con mayor frecuencia que las que se aprenden después.
+Esta es la razón por la que muchos suponen que los niños aprenden mejor un segundo idioma que un adulto (Morrison & Ellis, 2005).
+Existe una variedad de hipótesis de por qué esto es así.
+Una es la “hipótesis de completitud fonológica” propuesta por Brown y Watson en 1989.
+Esto indica que la razón por la que las palabras anteriores se aprenden con mayor rapidez, es debido a que se almacenan de forma holística.
+Más tarde en l vida, las palabras nuevas son almacenadas en fragmentos.
+Son recordados lentamente porque los fragmentos se deben colocar juntos
+Priming de repetición – Forma de memoria inconsciente en la que se reduce la actividad neuronal una vez que se ha producido la exposición repetidamente.
+Una palabra más reconocible dará como resultado un tiempo de respuesta más rápido.

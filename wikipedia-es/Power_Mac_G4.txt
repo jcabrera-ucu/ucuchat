@@ -1,0 +1,25 @@
+Los Power Mac G4 es una serie de ordenadores personales que fueron diseñados, fabricados, y vendidos por Apple entre 1999 y 2004.
+Utilizaron la serie de microprocesadores PowerPC G4 (PPC74xx).
+Se introdujeron a mediados de 1999 como sucesores de los Power Mac G3 usando una carcasa parecida pero un nuevo procesador, el PowerPC G4, desarrollado en conjunto por IBM y Motorola.
+Estuvo disponible en el mercado hasta la llegada del Power Mac G5, a mediados de 2003.
+Disponían de uno o dos procesadores.
+Los primer Apple Power Mac G4, de nombre código "Yikes!"(400MHz con Gráficos pci y posteriormente sustituido por 350 MHz) y "Sawtooth" (400Mhz y 500Mhz Gráficos AGP), fueron introducido en la conferencia Seybold el 31 de agosto de 1999.
+En octubre de 1999, Apple tuvo que posponer el modelo de 500 MHz debido a los problemas que tenía motorola con su fabricación.
+Como consecuencia de esto, Apple degradó la potencia del procesador en cada configuración 50 MHz pero esto causó controversia por no abaratar también los ordenadores.
+Los primeros modelos de 350 MHz (posteriormente 400MHz) utilizaban PCI y usaban una placa base idéntica al usado en el Power Macintosh G3 (Blue & White) (excepto por el puerto ADB), en una caja de color grafito y con el nuevo Motorola PowerPC 7400 (G4) CPU.
+Los modelos de alto rendimiento, nombre código "Sawtooth", usaban una gran diseño modificado de la placa base con gráficos 2x AGP (sustituyendo a las slot PCI de 66 MHz).
+Las máquinas traían DVD-ROM de serie para los modelos "Yikes!"
+y los modelos "Sawtooth" inferiores a 450Mhz (Posteriormente 500Mhz), Los modelos de gama más alta traían DVD-RAM.
+Las versiones de 400 MHz y 450 MHz tienen discos Zip de 100 MB Zip como equipamiento de serie, y como una opción en el 350 MHz de la serie Sawtooth.
+Esta serie tenía 100 MHz del bus del sistema y cuatro slots PC100 SDRAM, como máximo 2 GiB de RAM (1.5 GiB en Mac OS 9).
+Los Power Macs AGP (Sawtooth) fueron los primeros en incluir un slot AirPort y un puerto de video DVI.
+El nombre que puso Apple para los primeros modelos AGP fue Power Mac AGP Graphics.
+El nombre código de Sawtooth fue usado internamente antes del lanzamiento oficial y llegó a ser un popular nombre entre los entusiastas.
+El diseño fue actualizado en la Macworld Conference & Expo de Nueva York el 19 de julio de 2000; la nueva actualización incluía versiones doble núcleo de 450 MHz y 500 MHz, y un núcleo único de 400 MHz.
+Fue también el primer ordenador personal en incluir Gigabit Ethernet de serie.
+Mucha gente vio esta versión como un recurso provisional, porque los G4 no podían ir a más velocidad; esto es debido a que el controlador PCI y de la memoria del G4, el Motorola XPC107 “Grackle” preveía que el G4 pudiera ir a velocidades mayores de 500 MHz.
+Los modelos de los 500 MHz duales llevaba un DVD-RAM óptico.
+Los discos Zip fueron opcionales en todos los diseños.
+Además estos modelos introdujeron el puerto de vídeo propietario de Apple, el Apple Display Connector (ADC).
+El nombre oficial de Apple para esta serie fue Power Mac Gigabit Ethernet.
+Su nombre clave fue Mystic.

@@ -1,0 +1,7 @@
+Un contrato mohatra o de mohatra es un contrato que simula una venta para llevar a cabo efectivamente un préstamo con interés.
+En concreto, consiste en que el prestatario compra a crédito una mercancía al prestamista (habitualmente un comerciante) por un precio elevado para, seguidamente, revendérsela al contado.
+El precio de esta última venta será el dinero que recibirá el solicitante del préstamo, mientras que la diferencia entre este y el precio de compra será el interés contraído en la operación.
+Por ejemplo, si se realiza la compra de una mercancía por 1000 euros a crédito cuando su valor es de 800 euros y luego se vende al mismo comerciante por 600 euros, resultará que el prestatario recibe 600 euros de dinero en efectivo pero tendrá que desembolsar más adelante, según las condiciones del crédito, 1000 euros.
+Por lo tanto, el interés efectivo del préstamo será del 66,7% sobre la cantidad prestada.
+Históricamente, este tipo de contratos se han considerado usurarios, ya que encubren un préstamo aunque este no se realice de forma explícita.
+En consecuencia, han estado prohibidos o restringidos en muchos estados hasta la normalización de la actividad del préstamo.

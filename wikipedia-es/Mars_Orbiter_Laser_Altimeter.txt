@@ -1,0 +1,14 @@
+El Mars Orbiter Laser Altimeter (MOLA) (Altímetro Láser del Orbitador de Marte) era uno de cinco instrumentos a bordo de la nave espacial Marte Global Surveyor (MGS), que operó en la órbita de Marte desde septiembre de 1997 a noviembre de 2006.
+Aun así, el altímetro solo transmitió datos hasta junio de 2001.
+El equipo altimétrico transmitió pulsos de láser infrarrojo hacia Marte a razón de 10 pulsos por segundo, y midió el tiempo de retorno para determinar la distancia desde la nave a la superficie de Marte.
+Las mediciones se tradujeron en unos precisos mapas topográficos de Marte.
+Esta cartografía de precisión es utilizable en estudios geofísicos, geológicos y sobre la circulación atmosférica.
+El MOLA también funcionaba como radiómetro pasivo, y midió la radiación de la superficie de Marte en la banda de los 1064 nanómetros.
+Un altímetro láser es un instrumento que permite medir la distancia de una aeronave en órbita respecto a la superficie del planeta o asteroide que la aeronave está orbitando.
+La distancia se determina midiendo el tiempo del viaje de ida y vuelta de un pulso láser entre el instrumento y la superficie del planeta o asteroide.
+La distancia al objeto puede ser determinada multiplicando el tiempo de viaje de cada pulso, multiplicándolo por la velocidad de la luz y dividiéndolo por dos.
+Conociendo con precisión el movimiento y la posición del altímetro situado en la nave, es posible calcular la ubicación del punto de la superficie iluminado por el pulso de láser.
+La ubicación de la serie de puntos señalados por el láser (su "huella"), proporciona un perfil de la superficie.
+La imagen superior muestra la topografía de polo-a-polo de Marte, según el primer modelo calculado [Smith et al., Science, 1999].
+Las franjas recorren un meridiano desde el polo norte (izquierda) al polo sur (derecha) a lo largo de la línea de longitud 0°.
+La figura pone de relieve la pendiente entre polo y polo de 0.036°, de tal forma que el polo sur está más elevado que el polo norte (web del NASA Goddard Flight Center).

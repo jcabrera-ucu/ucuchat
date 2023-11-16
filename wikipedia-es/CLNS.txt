@@ -1,0 +1,16 @@
+CLNS (Servicio No Orientado a Conexión), en telecomunicaciones, es un servicio que establece la comunicación entre entidades sin necesidad de establecer una conexión entre ellas.
+Cuando una entidad tiene información para transmitir, sencillamente la envía, (tramas, paquetes, bloques, etc.).
+El proveedor trata cada objeto de información de forma independiente y autónoma, incluso aunque se trate de un conjunto de objetos pertenecientes al mismo mensaje.
+El usuario confía simplemente en que cada objeto ha de llegar a su destino más pronto o más tarde.
+Los servicios orientado y no orientado a conexión, se suelen asimilar con los servicios telefónico y postal respectivamente.
+El sistema telefónico es un ejemplo de servicio orientado a conexión, mientras que el sistema postal es un servicio no orientado a conexión.
+Esta analogía es perfectamente aplicable a la funcionalidad y a la lógica de los servicios CONS y CLNS.
+En el servicio no orientado a conexión, las SDU (unidades de datos de servicio) se intercambian directamente entre los SAP “pares” sin que previamente se haya establecido una conexión.
+Por tanto, la transmisión de cada una de las SDU (PDU) es independiente de las SDU enviadas antes o de las que se vayan a enviar después.
+Dado que cada SDU (PDU) ha de viajar hacia el usuario destino de forma autónoma, es necesario que incorpore toda la información relativa a su localización y facilidades del servicio.
+Así, la información de control (ICI) que se transfiere (IDU) desde la “capa N+1” a la “capa N” ha de contener todos los datos para el direccionamiento completo de cada SDU (PDU).
+En consecuencia un servicio CLNS sólo necesita ejecutar la fase “transferencia de la información”, (no hay establecimiento ni liberación) y se puede definir sencillamente con las primitivas de “petición” y de “indicación”, (elemento de servicio del tipo “no confirmado”)
+El servicio sin conexión es muy fácil de implantar en la capa correspondiente ya que esta apenas añade funciones adicionales que permitan mejorar el servicio ofrecido por la capa inferior.
+El proveedor del servicio CLNS no tiene que ocuparse de resolver los problemas ocasionados por la posible pérdida de los objetos (paquetes, tramas, etc.), su duplicación o porque lleguen fuera de secuencia.
+CLNS: Servicios no Orientados a Conexión
+CONS: Servicios Orientados a Conexión

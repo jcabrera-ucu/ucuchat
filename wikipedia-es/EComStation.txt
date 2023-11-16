@@ -1,0 +1,14 @@
+eComStation (o eCS) es el sistema operativo para PC, desarrollado por Serenity Systems, que está basado en OS/2 Warp 4.5, incluyendo una nueva interfaz gráfica y varias mejoras, como el Journaling File System, un sistema de archivos que es mucho más tolerante de fallos y que es usado por otros sistemas como AIX.
+Este sistema integra la última versión del producto original de IBM (los llamados Convenience Pack) con otros productos que IBM distribuye separadamente por algún motivo (como controladores USB) y diversos desarrollos de software, muchos de ellos open Source, para ofrecer al usuario un sistema actualizado, más completo y sencillo de instalar que el original de IBM.
+Serenity System International realizó un acuerdo con IBM, y le fue permitido crear el eComStation basado en OS/2 Warp Convenience Pack.
+Serenity realizó una serie de cambios al sistema, agregando mejoras, más aplicaciones y empezó la era de eComStation (eCS).
+Está basado en el IBM OS/2 Warp 4.51 (Convenience pack 1).
+Mejoras en esta versión:
+Salieron a la venta varias versiones basadas en el OS/2 Convenience Pack 2:
+Mejoras en esta versión:
+Mejoras en esta versión:
+El Application Pack fue descatalogado al salir la versión 1.2R.
+Algunos programas del antiguo pack pueden adquirirse por separado, como el OpenOffice 1.1.5 (estando en versión beta el OpenOffice 2.0).
+Hay una Academic Edition exclusivamente para profesores y estudiantes que incluye eComStation 1.2R y OpenOffice a menor precio que la edición estándar de eComStation.
+Mejoras en esta versión:
+SoundBlaster Live!, CMedia 8738.

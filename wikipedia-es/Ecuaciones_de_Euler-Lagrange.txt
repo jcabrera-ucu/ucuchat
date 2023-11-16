@@ -1,0 +1,61 @@
+Las ecuaciones de Euler-Lagrange son las condiciones bajo las cuales cierto tipo de problema variacional alcanza un extremo.
+Aparecen sobre todo en el contexto de la mecánica clásica en relación con el principio de mínima acción, también aparecen en teoría clásica de campos (electromagnetismo y teoría general de la relatividad) y sirve de base para la formulación de integrales de camino para la teoría cuántica de campos.
+La ecuación de Euler-Lagrange fue desarrollada en 1750 por Euler y Lagrange como solución al problema de la tautocrona (caso general de la braquistocrona): consiste en determinar la curva de la trayectoria que describiría el descenso en la que una partícula con masa cae a cierto punto, en un tiempo dado, independiente de su posición inicial.
+Lagrange resolvería el problema en 1755 y enviaría la solución a Euler.
+Ambos desarrollarían aún más el método de Lagrange y lo aplicarían a problemas de mecánica; cosa que a su vez conduciría a formular por vez primera la mecánica lagrangiana.
+Dicha correspondencia también desembocaría en el desarrollo del cálculo de variaciones, un término acuñado por el mismo Euler en 1766.
+La ecuación de Euler–Lagrange es una ecuación la cual se satisface con una función, ,
+con argumento real t, el cual es un punto estacionario del funcional
+donde:
+Entonces, la ecuación de Euler–Lagrange está dada por:
+donde L_x y L_v son las derivadas parciales de L correspondientes a los argumentos segundo y tercero, respectivamente.
+Si la dimensión de X es mayor a 1, es un sistema de ecuaciones diferenciales, donde cada componente es:
+En mecánica clásica, estas ecuaciones establecen que la integral de acción para un sistema físico es un mínimo.
+Los sistemas de partículas o sistemas discretos tienen un número finito de grados de libertad, y en esos casos la integral de acción es del tipo:
+Y su correspondiente variación viene dada por:
+Si se impone ahora que para variaciones "cercanas", esto implica que:
+donde L es el lagrangiano para el sistema, y x^a son las coordenadas generalizadas del sistema.
+La formalización de ciertos problemas físicos requiere construir una integral de acción sobre un continuum o sistema que no puede ser tratado mediante un número finito de variables o grados de libertad.
+Así en teoría de campos y mecánica de medios continuos la acción física puede expresarse como una integral sobre un volumen:
+Donde es el elemento de volumen que usualmente viene dado por una n-forma y  representan las variables del campo y sus derivadas respecto a las coordenadas espaciales (o espacio-temporales).
+Cuando la acción toma esa forma las ecuaciones de Euler-Lagrange para el campo que minimiza la anterior integral, usando el convenio de sumación de Einstein, vienen dadas por:
+Un ejemplo de problema mecánica simple es el de una partícula sometida a un campo de fuerzas conservativo, en ese caso su trayectoria puede ser encontrada mediante las ecuaciones de Euler-Lagrange aplicadas al lagrangiano:
+La función lagrangiana anterior usa coordenadas cartesianas, aunque según el tipo de problema también puede escribirse un lagrangiano en términos de cualquier tipo de coordenadas generalizadas:
+Las ecuaciones de Euler-Lagrange para el caso de las coordenadas cartesianas se reducen a la segunda ley de Newton para la partícula:
+La teoría clásica de campos es un buen ejemplo del caso multidimensional anteriormente descrito.
+Así por ejemplo las ecuaciones de Maxwell no son otra cosa que las ecuaciones de Euler-Lagrange aplicadas al "lagrangiano" de Maxwell.
+La densidad lagrangiana de Maxwell viene dada por:
+Donde el primer término es el lagrangiano de interacción y el segundo el lagrangiano del campo electromagnético libre y además:
+Considerando aquí el campo descrito por los potenciales, los campos eléctrico y magnético son expresables en términos de sus derivadas:
+Todos estos términos substituidos en la ecuación de Euler-Lagrange nos lleva a las ecuaciones de Maxwell.
+Si a la densidad lagrangiana anterior le agregamos, la densidad lagrangiana de la materia en interacción con el campo electromagnético viene dado por:
+Cuando esta parte se tiene en cuenta también se recupera la expresión para la fuerza de Lorentz.
+Un artículo influyente, para la introducción del formalismo lagrangiano en la mecánica cuántica, fue el de Paul Dirac de 1932.
+El artículo titulado “El lagrangiano en Mecánica Cuántica” comienza de la siguiente manera:
+“La mecánica cuántica fue construida sobre la base de la analogía con el hamiltoniano de la mecánica clásica.
+Esto se debe a que se encontró que la clásica noción de coordenadas canónicas y momentos es similar a la análoga cuántica, como resultado del cual la totalidad de la teoría clásica hamiltoniana, la cual es justamente una estructura construida sobre esta noción, debería ser tomada sobre todos sus detalles en mecánica cuántica.
+Ahora tenemos una formulación alternativa para la dinámica clásica, provista por el lagrangiano.
+Esto requiere trabajar en términos de coordenadas y velocidades en lugar de coordenadas y momentos.
+Las dos formulaciones son, sin embargo, cercanamente relacionadas, pero hay razones para creer que el lagrangiano es el más fundamental.
+En primer lugar, el método lagrangiano nos permite conectar juntas todas las ecuaciones del movimiento y expresarlas como una propiedad estacionaria de una cierta función de acción.
+(Esta función de acción es justamente la integral en el tiempo del lagrangiano).
+No existe un principio de acción correspondiente en términos de las coordenadas y momentos en la teoría hamiltoniana.
+En segundo lugar el método lagrangiano puede fácilmente ser expresado en forma relativista, teniendo en cuenta que la función de acción es invariante relativista; mientras que el método hamiltoniano es esencialmente de forma no relativista, dado que delimita una variable de tiempo particular como la conjugada canónica de la función hamiltoniana.
+Por estas razones sería deseable tomar la cuestión de lo que corresponde en la teoría cuántica al método lagrangiano de la teoría clásica.
+Una pequeña consideración muestra, sin embargo, que uno no puede esperar ser capaz de tomar las ecuaciones clásicas de Lagrange en una forma directa.
+Estas ecuaciones involucran derivadas parciales del lagrangiano respecto a las coordenadas y velocidades y no significa poder tener tales derivadas en mecánica cuántica.
+El solo proceso de diferenciación que puede realizarse respecto a las variables dinámicas de la mecánica cuántica es el que forma los corchetes de Poisson y este proceso conduce a la teoría hamiltoniana.
+Debemos por lo tanto mirar nuestra teoría cuántica lagrangiana de una manera indirecta.
+Debemos intentar tomar las ideas de la teoría lagrangiana clásica, no las ecuaciones de la teoría clásica lagrangiana”.
+Como se vio antes, es posible derivar las ecuaciones de la mecánica clásica como las del electromagnetismo a partir del lagrangiano respectivo introducido en las ecuaciones de Euler-Lagrange.
+Por ese camino, es posible ampliar el lagrangiano de Maxwell para obtener el lagrangiano de Dirac y así obtener, luego, la ecuación relativista de Dirac.
+También las ecuaciones de Schrödinger, de Klein-Gordon y de Proca pueden obtenerse por ese método.
+Incluso es posible derivar las ecuaciones de Einstein, de la relatividad generalizada, a partir del lagrangiano de Hilbert-Einstein
+Las ecuaciones de Euler-Lagrange pueden ser usadas para encontrar fácilmente la ecuación de las curvas geodésicas en una variedad de Riemann o "espacio curvo".
+Para ello consideremos un conjunto de coordenadas (x1, ...xn) sobre una región abierta U de la variedad de Riemann VR donde el tensor métrico viene dado por la expresión:
+Puesto que dados dos puntos cualquiera de VR las geodésicas son las líneas de mínima longitud entre ellos podemos plantear el siguiente problema variacional, para el cuadrado de la longitud de una curva:
+La minimización de la expresión anterior al ser la raíz una función monótona, es equivalente a la minimización de una integral de acción donde el lagrangiano sea:
+De ahí que la ecuación diferencial de las geodésicas venga dada por:
+La ecuación anterior de hecho puede, usando la simetría del tensor métrico, escribirse como:
+Que en términos de los símbolos de Christoffel (de primera o segunda especie) sencillamente como:
+Donde se han definido los símbolos de Christoffel como a partir de las derivadas del tensor métrico y el tensor inverso del tensor métrico:

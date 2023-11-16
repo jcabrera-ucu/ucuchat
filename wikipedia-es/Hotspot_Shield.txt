@@ -1,0 +1,23 @@
+Hotspot Shield es un servicio público de red privada virtual (VPN), fue creado y operado hasta 2019 por AnchorFree, Inc.
+y en enero de 2006 es operado por Aura.
+Al establecer una conexión encriptada con los servidores de Hotspot Shield, el servicio protege el tráfico de Internet de sus usuarios contra escuchas ilegales.
+Hotspot Shield se utilizó para eludir la censura del gobierno durante las protestas de la Primavera Árabe en Egipto, Túnez y Libia.
+Hotspot Shield fue desarrollado por AnchorFree, una compañía en Silicon Valley.
+El software se lanzó en abril de 2008 para los sistemas operativos Windows y macOS, y se amplió para incluir el soporte para iOS y Android en 2011 y 2012, respectivamente.
+El cliente Hotspot Shield establece una conexión VPN cifrada con uno de sus servidores VPN públicos compatibles, a través del cual el usuario puede conectarse a Internet.
+La conexión protege el tráfico entre el usuario y el servidor de escuchas, y la dirección IP del cliente no está expuesta.
+Si bien el servicio no puede convertir a los usuarios en completamente anónimos en Internet, puede aumentar considerablemente la privacidad y la seguridad.
+Los usuarios pueden evitar la censura usando Hotspot Shield conectándose a un servidor VPN ubicado fuera de su país.
+Tanto el software cliente como el servicio son freemium: las características principales de la aplicación para el cliente, así como varios servidores públicos, están disponibles de forma gratuita, pero los usuarios tienen que pagar para obtener características adicionales, que incluyen la eliminación de anuncios, antivirus protección, conectándose a más servidores y eligiendo la ubicación geográfica del servicio al que se conectan.
+Hotspot Shield se ha utilizado para eludir la censura de Internet en países con programas estrictos de censura de Internet.
+Durante las protestas de la Primavera Árabe en 2010, los manifestantes utilizaron Hotspot Shield para acceder a herramientas de redes sociales para comunicarse y subir videos.
+Hotspot Shield también se utilizó ampliamente durante las protestas y la revolución egipcia en 2011, cuando el régimen de Mubarak tomó medidas enérgicas contra el acceso a los sitios de redes sociales.
+En 2013, aumentó el uso de Hotspot Shield en Turquía, en respuesta a los supuestos esfuerzos del gobierno turco para censurar las redes sociales y el acceso de los ciudadanos a sitios web internacionales.
+En 2014, el uso de Hotspot Shield aumentó en Hong Kong después del estallido de las protestas en Hong Kong de 2014.
+En 2012, el uso de Hotspot Shield aumentó entre los usuarios de Mac de Estados Unidos y Europa, ya que 500.000 usuarios de Mac fueron infectados por el virus Flashback.
+Hotspot Shield se utilizó como protección contra dicho virus.
+La mayoría de las veces Hotspot Shield ha recibido críticas positivas por parte de publicaciones y sitios web de la industria.
+PC Magazine calificó el software como "excelente" y elogió su indicador de estado, cifrado de tráfico, velocidad de conexión en ocasiones y flexibilidad de pago, pero criticó la plataforma publicitaria del software, la inyección de código del sitio web, la ralentización del tiempo de respuesta general y las modificaciones de configuración del navegador.
+En agosto de 2017, el Centro para la Democracia y la Tecnología emitió una queja abierta ante la Comisión Federal de Comercio que, según ellos, «se refiere al intercambio de datos no revelados y poco claros y la redirección del tráfico que se produce en Hotspot Shield Free VPN que deben considerarse prácticas comerciales injustas y engañosas» según la Sección 5 de la Ley de la FTC.
+CDT «se asoció con investigadores de la Universidad Carnegie Mellon para analizar la aplicación y el servicio y encontró 'prácticas de intercambio de datos no divulgados' con redes publicitarias.»
+En febrero de 2018, un investigador de seguridad descubrió un error de divulgación de información en la aplicación que resulta en una filtración de datos del usuario, como en qué país se encuentra el usuario y el nombre de la red wifi del usuario, si está conectado.

@@ -1,0 +1,8 @@
+El MTU Turbomeca Rolls-Royce MTR390 es un motor turboeje desarrollado por el consorcio MTU Aero Engines Turbomeca Rolls-Royce GmbH (MTR) para ser aplicado en helicópteros ligeros.
+Está diseñado para propulsar helicópteros con un rango de peso entre las 5 y las 7 toneladas tanto en configuraciones monomotor como bimotor.
+Hasta el momento la única aplicación de este motor es el helicóptero de ataque europeo Eurocopter Tigre.
+Las pruebas del MTR390 empezaron en 1989 y la primera prueba en vuelo se realizó en 1991.
+El MTR390 obtuvo la certificación militar en mayo de 1996 y la aprobación civil en junio de 1997.
+Se está desarrollando una versión mejorada, MTR390-E (Enhanced), con la participación de la compañía española ITP en el consorcio MTU Aero Engines Turbomeca Rolls-Royce ITP GmbH (MTRI).
+Versión de producción.
+Versión mejorada en desarrollo, ofrece un 14% más de potencia con un muy bajo incremento en el consumo de combustible.

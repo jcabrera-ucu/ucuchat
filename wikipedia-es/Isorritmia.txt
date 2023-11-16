@@ -1,0 +1,23 @@
+Los términos isorritmia o isorritmo (del griego ἴσος [isos] que significa "semejante" y ῥυθμός [rythmos] que quiere decir "cadencia, ritmo") hacen referencia a una técnica de composición musical que sigue un patrón o esquema fijo de alturas y repite un ritmo característico a lo largo de una pieza musical, aunque las notas cantadas sean distintas.
+El término fue acuñado por Friedrich Ludwig en 1904 para referirse a esta técnica empleada en los motetes escritos en el.
+Aunque más tarde el término fue aplicado más ampliamente, sobre todo a la repetición periódica o la repetición rítmica en la voz del tenor y en otras voces de las composiciones del y principios del, los motetes en especial.
+Se trata de una organización de duraciones o ritmos llamada tálea (lat. talea, plural taleæ, empalizada, estacada), que se repite a lo largo de una melodía de tenor cuyo contenido o series de alturas (notas), llamado color, variaban en el número de miembros de la tálea.
+La isorritmia va más allá de la isoperiodicidad: no sólo es igual la estructura de los periodos, sino que también lo son los valores de las notas de los periodos.
+La organización racional del tenor con subdivisión en color (notas) y tálea (duraciones de sonido, ritmo) también se extendió, de ese modo, a las voces superiores.
+Se utilizó en el análisis de la estructura de los motetes de la escuela polifónica del periodo de la Ars nova de los siglos XIV y XV, cuyos tenores o cantus firmus (no confundir en este caso la nota de declamación del gregoriano, tenor -del latín tenere, sostener- con la tesitura vocal masculina homónima) se distinguían por la continuidad de un esquema rítmico denominado talea, constituido por células idénticas que se aumentaban o disminuían, y que con el tiempo se extendería también a otras voces.
+El máximo exponente de esta técnica se puede encontrar en la obra de Guillaume de Machaut.
+La invención de esta técnica se atribuyó al compositor Philippe de Vitry, pero «no era ni un invento de Philippe de Vitry, ni de su propiedad exclusiva a principios del siglo XIV».
+La construcción isorrítmica era con frecuencia variada mediante el uso de disminución rítmica estricta o libre en la repetición del color.
+El motete isorritmico constituye el pináculo en materia de estructuración racional en la música gótica.
+Al mismo tiempo, la isorritmia crea el equilibrio hacia la melodía expresiva y el incremento de la coloración armónica (terceras, cromatismo).
+Philippe de Vitry y Guillaume de Machaut ya componían motetes isorrítmicos en la década de 1320.
+Estos motetes, escritos durante el (Ars nova), se estructuran mediante los principios isorrítmicos de tálea y de color.
+Un ejemplo de motete isorrítmico es el "Garrit Gallus-In Nova fert/Neuma", compuesto por Philippe de Vitry a mediados del.
+El motete isorrítmico "Sub Arturo plebs" de Johannes Alanus es un motete medieval tardío.
+Presenta un color de 24 longae (48 compases en notación moderna), divididas en tres táleas.
+El color se repite tres veces, cada una en una medida diferente.
+Su longitud es disminuida posteriormente por los factores 9:6:4.
+La imagen muestra:
+La isorritmia también se trasladó del motete a los movimientos de la misa y de la cantilena.
+Un ejemplo lo constituye el Agnus Dei de la misa de Guillaume de Machaut.
+Esta técnica también se encuentra en la música de la India así como en la producción musical de compositores modernos tales como Alban Berg, Olivier Messiaen, John Cage y George Crumb.

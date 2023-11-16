@@ -1,0 +1,12 @@
+Solomon Feferman (13 de diciembre de 1928-26 de julio de 2016) fue un filósofo y matemático estadounidense cuyo mayor trabajo ha sido en lógica matemática, en particular en teoría de la demostración.
+Nació en Nueva York, y recibió su Ph.D. en 1957 de la Universidad de California, Berkeley bajo la dirección de Alfred Tarski.
+El proceso de su doctorado fue especialmente largo: comenzó trabajando sobre dos problemas propuestos por Tarski, en los que logró resultados, pero no totalmente del gusto de su director, que se negó a aceptar el resultado como tesis.
+Tras pasar por el ejército, donde sirvió dos años, un encargo de revisión de A. Church para el Journal of Symbolic Logic le puso en la pista de un nuevo tema bastante alejado de los intereses de Tarski; esto inició su obra sobre progresiones de teorías en primer orden y le condujo al doctorado.
+Fue profesor de la Universidad de Stanford desde 1958, ocupando la cátedra Patrick Suppes desde 1993.
+En Stanford colaboró con colegas importantes, tales como Paul Cohen, Georg Kreisel, Dana Scott, y William Tait, convirtió a esa universidad en un centro relevante de la teoría de la demostración (proof theory).
+Feferman fue galardonado con el Premio Schock en lógica y filosofía en 2003 y con las Tarski Lectures en 2006.
+En 2008 decía de sí mismo:
+Durante muchos años desarrolló ideas relacionadas con la matemática predicativista, que no acepta todos los principios habituales de la teoría de conjuntos, sino que impone restricciones (relacionadas con el rechazo de las llamadas definiciones impredicativas).
+Su libro In the Light of Logic ofrece una exposición de los motivos que subyacen a dicho punto de vista, y de cómo toda la matemática empleada en teorías científicas consolidadas es reducible a sistemas de matemática predicativa.
+Feferman fue el editor jefe de Collected Works de Kurt Gödel.
+Junto a su mujer, Anita Feferman, es también el autor de una magnífica biografía de Alfred Tarski.

@@ -1,0 +1,48 @@
+Los estudios genéticos sobre el ADN antiguo de los neandertales se hicieron posibles a fines de la década de 1990.
+El proyecto del genoma neandertal, establecido en 2006, presentó el primer genoma neandertal completamente secuenciado en 2013.
+Desde 2005, se ha acumulado evidencia de una mezcla sustancial de ADN de los neandertales en las poblaciones modernas.
+El tiempo de divergencia entre el neandertal y los linajes humanos modernos se estima entre 750.000 y 400.000 años atrás.
+El 3 de julio de 2020, los científicos informaron haber descubierto que un importante factor de riesgo genético del virus Covid-19 fue heredado de los neandertales arcaicos hace 60.000 años.
+Se estima que el 16% de las personas en Europa y el 50% de las personas en el sur de Asia tienen la secuencia particular en el cromosoma III, y el 63% de los bangladesíes tienen estas secuencias genéticas.
+Los africanos, los habitantes del Medio Oriente y los asiáticos del este presentan la presencia del cromosoma en cantidades muy insignificantes.
+En 2006, el Instituto Max Planck de Antropología Evolutiva y 454 Ciencias de la Vida anunciaron que secuenciarían el genoma neandertal durante los próximos dos años.
+Se esperaba que la comparación expandiera la comprensión de los neandertales, así como la evolución de los humanos y el cerebro humano.
+En 2008, un equipo del Instituto Max Planck de Antropología Evolutiva en Leipzig, Alemania, publicó la secuencia completa del ADN mitocondrial de los neandertales (ADNmt) y sugirió que "los neandertales tenían un tamaño de población efectivo a largo plazo más pequeño que el de los humanos modernos".
+En la misma publicación, se reveló que "la contaminación era de hecho un problema", y finalmente se dieron cuenta de que el 11% de su muestra era ADN humano moderno.
+Desde entonces, se ha realizado más trabajo de preparación en áreas limpias y se han agregado 'etiquetas' de 4 pares de bases al ADN tan pronto como se extrae para que se pueda identificar el ADN neandertal.
+El proyecto primero secuenció el genoma completo de un neandertal en 2013 extrayéndolo del hueso de la falange de un neandertal siberiano de 50.000 años.
+Entre los genes que muestran diferencias entre los humanos actuales y los neandertales se encuentran RPTN, SPAG17, CAN15, TTF1 y PCD16.
+Se ha construido un mapa de visualización del humano moderno de referencia que contiene las regiones del genoma con alto grado de similitud o con novedad según un neandertal de hace 50 mil años.
+Los investigadores abordaron la cuestión del posible mestizaje entre los neandertales y los humanos anatómicamente modernos (AMH) a partir de los primeros estudios arqueogenéticos de la década de 1990.
+En 2006, aún no se había encontrado evidencia de mestizaje.
+En 2009, se informó que el análisis de aproximadamente un tercio del genoma completo del individuo de Altái todavía no mostraba "signos de mezcla".
+La variante de microcefalina común fuera de África, que se sugirió  sea de origen neandertal y responsable del rápido crecimiento del cerebro en humanos, no se encontró en los neandertales.
+Tampoco lo era una variante MAPT muy antigua que se encuentra principalmente en europeos.
+La evidencia positiva de la mezcla se publicó por primera vez en mayo de 2010.
+El material genético heredado de los neandertales se encuentra en todas las poblaciones no africanas y se informó inicialmente que comprendía entre el 1 y el 4 por ciento del genoma.
+Esta fracción se refinó posteriormente a un 1,5 a un 2,1 por ciento.
+Se estima que el 20 por ciento del ADN neandertal sobrevive actualmente en los humanos modernos.
+Los genes humanos modernos involucrados en la producción de queratina, una proteína que constituye la piel, el cabello y las uñas, tienen niveles especialmente altos de introgresión.
+Por ejemplo, los genes de aproximadamente el 66% de los asiáticos orientales contienen una variante POUF23L introgresada de los neandertales, mientras que el 70% de los europeos poseen un alelo introgresado de BNC2.
+Las variantes neandertales afectan el riesgo de desarrollar varias enfermedades, como lupus, cirrosis biliar, enfermedad de Crohn, diabetes tipo 2 y COVID-19 grave.
+El alelo de MC1R que originalmente estaba vinculado  al pelo rojo en los neandertales no se encuentra en los europeos, pero está presente en los aborígenes taiwaneses con una frecuencia del 70% y con una frecuencia moderadamente alta en otras poblaciones de Asia oriental; por lo tanto, en realidad no hay evidencia de que los neandertales tuvieran el pelo rojo.
+Un estudio de 2010 todavía no podía descartar de manera concluyente un escenario alternativo, en el que la población de origen de humanos modernos no africanos ya estaba más estrechamente relacionada con los neandertales que otros africanos, debido a la antigüedad de las divisiones genéticas dentro de África.
+La investigación desde 2010 ha refinado la imagen del mestizaje entre neandertales, denisovanos y humanos anatómicamente modernos.
+El mestizaje parece haber ocurrido de forma asimétrica entre los antepasados de los humanos de hoy en día, y esto puede explicar las diferentes frecuencias de ADN específico de Neanderthal en los genomas de los humanos modernos.
+Se ha concluido que la cantidad relativamente mayor de ADN específico de neandertal en los genomas de los individuos de ascendencia asiática oriental (en comparación con los de ascendencia europea) no puede explicarse por diferencias en la selección.
+Sugiriendo dos modelos demográficos adicionales, que implican un segundo pulso del flujo de genes neandertales en los antepasados de los asiáticos orientales o una dilución de los linajes neandertales en los europeos por mezcla con una población ancestral desconocida.
+"Se ha planteado la hipótesis de que la mayor proporción de ascendencia neandertal en los asiáticos orientales que en los europeos se debe al hecho de que la selección purificadora es menos eficaz para eliminar los alelos neandertales débilmente dañinos de las poblaciones asiáticas orientales. Utilizando simulaciones de una amplia gama de modelos de selección y demografía, hemos demostrado que esta hipótesis no puede explicar la mayor proporción de ascendencia neandertal en los asiáticos orientales que en los europeos. En cambio, se requieren escenarios demográficos más complejos, que probablemente involucren múltiples pulsos de mezcla neandertal, para explicar los datos."Una colaboración entre Alemania, Rusia y China, compiló un genoma neandertal de consenso basado en el genoma del individuo de Altái y de tres individuos de Vindjia.
+Esto se comparó con un genoma consensuado de chimpancé como grupo externo y con el genoma de once poblaciones modernas (tres africanas, tres de Asia oriental, tres europeas).
+Más allá de confirmar la similitud significativamente mayor con el genoma neandertal en no africanos que en africanos, el estudio también encontró una diferencia en la distribución de sitios derivados del neandertal entre europeos y asiáticos orientales, lo que sugiere presiones evolutivas recientes.
+Las poblaciones asiáticas mostraron agrupaciones en grupos funcionales relacionados con las vías inmunes y hematopoyéticas, mientras que las europeas mostraron agrupaciones en grupos funcionales relacionados con el proceso catabólico lipídico.
+Se ha presentado evidencia de la mezcla de AMH con los neandertales hace aproximadamente 100.000 años.
+Ha habido al menos tres episodios de mestizaje.
+El primero habría ocurrido poco después de que algunos humanos modernos abandonaran África.
+El segundo habría ocurrido después de que los ancestrales melanesios se hubieran separado; estas personas parecen haberse cruzado a partir de entonces con los denisovanos.
+El tercero habría involucrado a los neandertales y los antepasados de los asiáticos orientales únicamente.
+Un estudio de 2016 presentó evidencia de que los machos neandertales podrían no haber tenido descendencia masculina viable con hembras AMH.
+Esto podría explicar por qué hasta la fecha no se ha encontrado ningún hombre moderno con un cromosoma Y neandertal.
+Un estudio de 2018 concluyó que el mestizaje entre neandertales y humanos modernos condujo inicialmente a la exposición de cada especie a virus desconocidos.
+Más tarde, el intercambio de genes también otorgó resistencia a esos virus.
+En 2014 se reconstruyeron mapas completos de metilación del ADN de individuos de neandertal y denisovano. La actividad diferencial de los genes del grupo HOX se encuentra detrás de muchas de las diferencias anatómicas entre los neandertales y los humanos modernos, especialmente en lo que respecta a la morfología de las extremidades.
+En general, los neandertales poseían extremidades más cortas con huesos curvos.

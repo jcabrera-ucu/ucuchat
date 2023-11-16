@@ -1,0 +1,6 @@
+El dosímetro acústico es un dosímetro destinado a la medición de niveles de ruido, que va acumulando con un contador digital.
+De esta forma se obtiene el valor de la dosis de ruido en el tiempo considerado.
+Debe llevarlo la persona que realiza la encuesta higiénica y durante un periodo de ocho horas, sino hay que aplicar unas tablas de corrección.
+Y el portador debe realizar la actividad de cualquier día normal incluyendo los periodos que normalmente son de descanso.
+Los siguientes fabricantes principales se encuentran entre los que ofrecen dosímetros de ruido:
+Pulsar Instruments

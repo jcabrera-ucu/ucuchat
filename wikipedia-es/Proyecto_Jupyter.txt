@@ -1,0 +1,42 @@
+El Proyecto Jupyter es una organización sin ánimo de lucro creada para "desarrollar software de código abierto, estándares abiertos y servicios para computación interactiva en docenas de lenguajes de programación".
+Creado a partir de IPython en 2014 por Fernando Pérez, el proyecto Jupyter soporta entornos de ejecución en varias docenas de lenguajes de programación.
+El nombre del proyecto Jupyter es una referencia a los tres lenguajes de programación principales soportados por Jupyter, que son Julia, Python y R, y también un homenaje a los cuadernos de Galileo que registran el descubrimiento de los satélites de Júpiter.
+El proyecto Jupyter ha desarrollado y respaldado los productos de computación interactiva Jupyter Notebook, JupyterHub y JupyterLab, la versión de próxima generación de Jupyter Notebook.
+En 2014, Fernando Pérez anunció un proyecto derivado de IPython llamado Proyecto Jupyter.
+IPython continuó existiendo como un shell de Python y un kernel para Jupyter, mientras que Notebook y otros lenguajes agnósticos de IPython se movieron bajo el nombre de Jupyter.
+Jupyter es un lenguaje agnóstico y soporta entornos de ejecución (también conocidos como núcleos) en varias docenas de lenguajes, entre los que se encuentran Julia, R, Haskell, Ruby, y por supuesto Python (a través del kernel de IPython).
+En 2015, GitHub y el proyecto Jupyter anunciaron el formato de los notebooks de Jupyter (archivos .ipynb) en la plataforma GitHub.
+La filosofía operativa del Proyecto Jupyter es apoyar la ciencia de datos interactiva y la computación científica en todos los lenguajes de programación mediante el desarrollo de software de código abierto.
+Según el sitio web del Proyecto Jupyter, "Jupyter siempre será un software 100% de código abierto, de uso gratuito para todos y lanzado bajo los términos liberales de la licencia BSD modificada".
+Jupyter Notebook (anteriormente IPython Notebooks) es un entorno informático  interactivo basado en la web para crear documentos de Jupyter notebook.
+El término "notebook" puede hacer referencia coloquialmente a muchas entidades diferentes, principalmente la aplicación web Jupyter, el servidor web Jupyter Python o el formato de documento Jupyter según el contexto.
+Un documento de Jupyter Notebook es un documento JSON, que sigue un esquema versionado y que contiene una lista ordenada de celdas de entrada/salida que pueden contener código, texto (usando Markdown), matemáticas, gráficos y texto enriquecidos, generalmente terminado con la extensión ".ipynb".
+Un Jupyter Notebook se puede convertir a varios formatos de salida estándar abierto (HTML, diapositiva de presentación, LaTeX, PDF, ReStructuredText, Markdown, Python) a través de "descargar como" en la interfaz web, a través de la biblioteca nbconvert o el comando "jupyter nbconvert" en un shell.
+Para simplificar la visualización de los documentos Jupyter Notebook en la web se proporciona la biblioteca nbconvert como un servicio a través de NbViewer que puede llevar una URL a cualquier Notebook disponible al público, convertirlo a HTML sobre la marcha y mostrarlo al usuario.
+Jupyter Notebook proporciona una navegador basado en REPL construido sobre una serie de bibliotecas de software de código abierto conocidas:
+Jupyter Notebook puede conectarse a muchos núcleos para permitir la programación en muchos idiomas.
+Por defecto, Jupyter Notebook se conecta con el núcleo IPython.
+A partir de la versión 2.3.
+(octubre del 2014), hay, actualmente, 49 núcleos compatibles con Jupyter para muchos lenguajes de programación, incluidos Python, R, Julia y Haskell.
+La interfaz de Notebook se añadió a IPython en la versión 0.12 (diciembre de 2011), renombrado a Jupyter notebook en 2015 (IPython 4.0 - Jupyter 1.0).
+Jupyter Notebook es similar a la interfaz de notebook de otros programas como Maple, Mathematica y SageMath, un estilo de interfaz computacional que se originó con Mathematica en la década de 1980.
+Según The Atlantic, Jupyter superó la popularidad de la interfaz Notebook de Mathematica a principios de 2018.
+Un kernel de Jupyter es un programa responsable de manejar varios tipos de solicitud (ejecución de código, finalización de código, inspección) y proporcionar una respuesta.
+Los kernel se comunican con los otros componentes de Jupyter usando ZeroMQ a través de la red y, por lo tanto, pueden estar en la misma máquina o en máquinas remotas.
+A diferencia de muchas otras interfaces tipo Notebook, en Jupyter, los kernel no son conscientes de que están adjuntos a un documento específico y pueden conectarse a muchos clientes a la vez.
+Por lo general, los kernel permiten la ejecución de un solo lenguaje de programación, pero hay un par de excepciones.
+Por defecto, Jupyter viene con IPython como kernel predeterminado e implementación de referencia a través del contenedor ipykernel.
+Se encuentran disponibles kernel para muchos lenguajes de programación que tienen diferentes características y calidad.
+JupyterHub es un servidor multiusuario para Jupyter Notebooks.
+Está diseñado para admitir a muchos usuarios generando, administrando y representando muchos servidores Jupyter Notebook singulares.
+usuario de portátiles Jupyter en la nube.
+Es un servidor multiusuario para Jupyter Notebooks.
+Ha sido diseñado para atender a muchos usuarios generando, administrando y representando muchos servidores Jupyter Notebook singulares..
+Si bien JupyterHub requiere la administración de servidores, los servicios de terceros como Jupyo proporcionan una alternativa a JupyterHub al alojar y administrar Jupyter notebooks multiusuario en la nube.
+JupyterLab es la interfaz de usuario de próxima generación para Project Jupyter.
+Ofrece todos los componentes básicos del clásico Jupyter Notebook (notebook, terminal, editor de texto, explorador de archivos, texto enriquecido, etc.) en una interfaz de usuario flexible y potente.
+El primer lanzamiento estable se anunció el 20 de febrero de 2018.
+A día de hoy existen diversos proyectos comerciales que han ido incrementando las capacidades de Jupyter para dotarla de mayores características.
+Algunos de las plataformas más populares son: Anaconda Enterprise, Google Colaboratory, DeepNote y Mineo.
+El Jupyter Notebook se ha convertido en una interfaz de usuario popular para la computación en la nube, y los principales proveedores de la nube han adoptado el Jupyter Notebook o las herramientas derivadas como una interfaz front-end para los usuarios de la nube.
+Los ejemplos incluyen los SageMaker notebook de Amazon y Azure Notebook de Microsoft.

@@ -1,0 +1,24 @@
+Se denomina Metacromasia al cambio que ocurre en el color que exhiben ciertos colorantes utilizados en tinciones histológicas cuando se unen a determinadas sustancias presentes en estos tejidos, llamadas cromotropos.
+Por ejemplo, el azul de toluidina que asume colores desde el azul rojizo oscuro hasta el púrpura cuando se une a glicosaminglicanos presentes en cartílago.
+Otros colorantes metacromáticos ampliamente utilizados son los que forman parte de las tinciones hematológicas de Giemsa y May-Grünwald, donde estas tinciones contienen colorantes tiazina.
+El núcleo celular se tiñe de púrpura, los gránulos basófilos de color intensamente magenta, mientras que el citoplasma de diferentes células varía entre el azul intenso y el rosado.
+La ausencia de cambio de color de una tinción se denomina ortocromasia.
+El mecanismo subyacente asociado al cambio de color en la metacromasia requiere de la presencia de polianiones en el tejido.
+Cuando estos tejidos son teñidos con una solución concentrada de un colorante básico, tal como el azul de toluidina, las moléculas de colorante unidas se encuentran lo suficientemente cercanas entre sí como para formar agregados diméricos y poliméricos.
+El espectro de absorción de estos agregados de moléculas de colorante apiladas difiere de las moléculas monoméricas.
+Los tejidos y estructuras celulares que contienen altas concentraciones de grupos fosfato y sulfato, tales como la matriz extracelular del cartílago, los gránulos con heparina de los mastocitos, y los ribosomas presentes en el retículo endoplásmico rugoso; presentan metacromasia.
+Esta metacromasia depende de la densidad de carga de los aniones sulfato y carboxilato presentes en los glicosaminglicanos (GAG).
+Los polianiones GAG estabilizan a las moléculas apiladas de colorante cargadas positivamente, provocando un desplazamiento espectral debido a la conjugación de dobles enlaces y solapamiento de orbitales π de moléculas adyacentes de colorante.
+Cuanto mayor sea el grado de apilamiento de moléculas de colorante, mayor será el desplazamiento metacromático.
+De esta forma, el ácido hialurónico, que carece de grupos sulfato y solo posee una densidad de carga moderada, solo presenta una ligera metacromasia; el condroitín sulfato, que posee un grupo sulfato adicional por cada dímero de GAG, es un sustrato metacromático efectivo; mientras que la heparina que además posee una N-sulfatación, es fuertemente metacromática.
+De esta forma, el azul de toluidina se presenta de rojo a púrpura cuando tiñe a estos componentes.
+Se han aprovechado las propiedades metacromáticas del azul de dimetilmetileno, un colorante tipo tiazina estrechamente relacionado con el azul de toluidina, para ensayar la presencia de glicosaminglicanos extraídos de cartílago y otros tejidos conectivos.
+El pico de absorción se desplaza desde aproximadamente los 630 nm (se absorbe color rojo, por lo tanto se ve azul), a los 530 nm aproximadamente en presencia de GAG.
+El ensayo original de Humbel y Etringer fue mejorado por otros para crear un reactivo de azul de dimetilmetileno estable y ampliamente utilizado.
+Otro ejemplo de colorante metacromático (fluorocromo en este caso) es el naranja de acridina.
+Bajo ciertas condiciones este colorante tiñe a los ácidos nucleicos de cadena simple produciendo una fluorescencia roja (luminiscencia roja), mientras que cuando interactúa con ácidos nucleicas de doble cadena produce una fluorescencia verde.
+Aunque el fenómeno de metacromasia ya fue observado y descrito desde el año 1875 por Cornil, Ranvier y otros, no fue sino hasta el científico alemán Paul Ehrlich (1854-1915) que recibió nombre y fue extensivamente estudiado.
+El entendimiento moderno del fenómeno de metacromasia recibió un fuerte avance gracias al trabajo del histólogo belga Lucien Lison, que lo estudió entre 1933 y 1936 y comprobó su valor para la determinación cuantitativa de ésteres sulfato de alto peso molecular.
+También estudió el fenómeno en los ácidos nucleicos.
+En años más recientes, Karlheinz Toepfer publicó en 1970 desplazamientos espectrales con aumentos en la concentración de colorantes tiazina que coincidían con el espectro de mezclas de heparina con el colorante, mostrando claramente que la metacromasia, se correspondía al color del cartílago coloreado, podía ser reproducida por altas concentraciones del colorante solo en solución.
+Por lo tanto, la proximidad de las moléculas de colorante entre sí, parecía ser el parámetro clave para definir el fenómeno de metacromasia.

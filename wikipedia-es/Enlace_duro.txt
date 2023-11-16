@@ -1,0 +1,31 @@
+En informática, un enlace duro o enlace físico (en inglés, hard link) es una referencia o puntero a un archivo (al dato físico) en un sistema de archivos.
+Los enlaces duros, asocian dos o más ficheros compartiendo el mismo inodo.
+Esto hace que cada enlace duro sea una copia exacta del resto de ficheros asociados, tanto de datos como de permisos, propietario.
+El nombre asociado a un archivo es simplemente una etiqueta almacenada en una estructura de directorio que referencia el sistema operativo al sistema de archivos, por lo cual más de un nombre puede ser asociado al mismo archivo.
+Cuando se accede a través de diferentes nombres, cualquier cambio hecho afectará el mismo archivo.
+Los enlaces duros sólo pueden referenciar datos que existen en el mismo sistema de archivos.
+En la mayoría de los sistemas de archivos, todos los archivos son enlaces duros.
+Aunque se llamen de distinta forma, tanto los enlaces duros como el archivo original (enlace original) ofrecen la misma funcionalidad.
+Al modificar los datos apuntados por cualquiera de ellos, se cambian los datos reales almacenados en disco, quedando modificados para todos por igual.
+Al crearlos, debido a su naturaleza, los enlaces duros sólo pueden apuntar a datos que estén en el mismo sistema de archivos que el archivo (enlace) a partir del cual se creen, al ser en realidad una copia de la misma referencia a datos físicos pero apuntada por otra etiqueta.
+El proceso de eliminación de un enlace, desvincula un nombre de los datos reales.
+Los datos todavía estarán accesibles mientras quede algún enlace.
+Cuando se elimina el último enlace duro, el espacio que ocupaban los datos se considera disponible.
+Existe un procedimiento de recuperación de archivos borrados, que permite la reconstrucción de un enlace a datos que ya no estén asociados con un nombre.
+Sin embargo este proceso no está disponible en todos los sistemas y a menudo no es seguro que funcione.
+En la mayoría de los sistemas de archivos que permitan enlaces duros, se almacena un valor entero con cada sección física de los datos.
+Este número entero representa el número total de los enlaces duros que apuntan a los datos.
+Cuando se crea un nuevo enlace, este valor aumenta en uno.
+Cuando se quita un enlace, el valor disminuye en uno.
+El mantenimiento de este valor ayuda a los usuarios a prevenir las pérdidas de datos.
+Es también la manera más simple para que el sistema controle el uso del disco duro, pues cuando el valor es cero indica que el espacio está libre y los valores distintos a cero indican que el espacio está en uso.
+En la figura a la derecha hay dos enlaces duros, llamados «Enlace 1.txt» y «Enlace 2.txt».
+Ambos enlaces apuntan a los mismos datos físicos.
+Si el nombre de fichero «Enlace 1.txt» se abre en un procesador de texto, se modifica y se guarda, esos cambios serán visibles incluso en el fichero «Enlace 2.txt».
+Igual que si realizáramos los cambios en «Enlace 2.txt» serían visibles desde el otro fichero.
+Esto es debido a que apuntan a los mismos datos.
+Se pueden crear enlaces extra para los mismos datos físicos.
+El usuario sólo necesita especificar el nombre de algún enlace duro existente; el sistema operativo se encarga de que apunte a localización física exacta de los datos.
+Si uno de los enlaces se quita (por ejemplo, con el comando de Unix ), los datos siguen siendo accesibles desde cualquier otro enlace existente.
+Si todos los enlaces se quitan y ningún proceso tiene el archivo abierto, el espacio ocupado por los datos será considerado disponible, permitiendo que sea reutilizado en el futuro para otros archivos.
+Este procedimiento permite suprimir archivos abiertos sin afectar el proceso que los utiliza, una acción que sería imposible en un sistema de archivos con una relación 1-1 entre las entradas en la guía y los datos.

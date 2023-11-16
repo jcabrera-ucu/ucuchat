@@ -1,0 +1,5 @@
+La termología indica generalmente el estudio de la física inherente en la naturaleza y de los efectos del calor.
+Por ejemplo, son parte de termología y termometría (medición de la temperatura) y calorimetría (medir la cantidad de calor involucrado en diversos fenómenos)..
+Los orígenes de la termología se remontan al, cuando la naturaleza energética del calor se definió por primera vez como una sustancia calórica.
+El tratamiento de la propagación del calor en termología es de naturaleza clásica y no considera los efectos cuánticos como transporte debido a los fonones.
+La termología encuentra una aplicación importante en la medicina porque realiza métodos diagnósticos de tumores no invasivos mediante el estudio de la vascularización de los tejidos.

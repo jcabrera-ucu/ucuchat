@@ -1,0 +1,13 @@
+En el campo matemático de la teoría de grafos, un grafo distancia-transitivo es un grafo tal que, dados dos vértices cualesquiera v y w a cualquier distancia i, y otros dos vértices cualesquiera x y y a la misma distancia, existe un automorfismo del grafo que transforma v en x y w en y.
+Un grafo distancia-transitivo es vértice-transitivo y simétrico así como distancia-regular.
+El interés en los grafos distancia-transitivos radica en parte en que tienen un grupo de automorfismos grande.
+Algunos grupos finitos interesantes son los grupos de automorfismos de grafos distancia-transitivos, especialmente de aquellos cuyo diámetro es 2.
+Los grafos distancia-transitivos fueron definidos por primera vez en 1971 por Norman L. Biggs y D. H. Smith, quienes demostraron que sólo hay 12 grafos distancia-transitivos cúbicos finitos.
+Estos son:
+Independientemente, un grupo ruso liderado por Georgy Adelson-Velsky demostró en 1969 que existían grafos que son distancia-regulares pero no distancia-transitivos.
+El único grafo de este tipo de grado tres es la 12-jaula de Tutte de 126 vértices.
+El menor grafo distancia-regular que no es distancia-transitivo es el grafo de Shrikhande.
+Se conocen listas completas de grafos distancia-transitivos para algunos grados mayores que tres, pero la clasificación de grafos distancia-transitivos de grados arbitrariamente grandes continúa abierta.
+La familia asintótica más simple de ejemplos de grafos transitivos de distancia son los grafos hipercúbicos.
+Otras familias son los grafos cúbicos plegados y los grafos de torre cuadrados.
+Las tres familias tienen un grado arbitrariamente alto.

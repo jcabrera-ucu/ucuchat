@@ -1,0 +1,20 @@
+En los gráficos por computadora, el nivel de detalle  (del inglés level of detail o LOD) implica disminuir la complejidad de una representación de un modelo 3D a medida que se aleja del espectador o de acuerdo a otras métricas, como la importancia del objeto, el punto de vista relativo, velocidad o posición.
+Las técnicas de nivel de detalle aumentan la eficiencia del renderizado al disminuir la carga de trabajo en la tubería de renderizado (del inglés rendering pipeline).
+La calidad visual reducida del modelo a menudo pasa desapercibida debido al pequeño efecto en la apariencia del objeto cuando está lejos o se mueve rápidamente.
+Aunque la mayoría de las veces el LOD se aplica solo al detalle de la geometría, el concepto básico puede extenderse.
+Recientemente las técnicas LOD también permiten la gestión de sombreadores (shaders) para mantener el control de la complejidad de los píxeles.
+Se ha aplicado una forma de gestión de nivel de detalle a los mapas de textura durante años, bajo el nombre de mipmapping, que también proporciona una mayor calidad de representación.
+Videojuegos
+El LOD es especialmente útil en videojuegos 3D.
+Los desarrolladores quieren ofrecer a los jugadores mundos más grandes, pero siempre están limitados por el hardware.
+Con la llegada de los juegos 3D en la década de 1990, muchos videojuegos simplemente no representaban estructuras u objetos distantes.
+Solo los objetos cercanos serían renderizados y las partes más distantes se desvanecerían gradualmente, esencialmente implementando niebla a distancia ocultando el "popping", un efecto visual indeseable que ocurre cuando la transición de un objeto 3D a un nivel de detalle precalculado (LOD) diferente es abrupto y obvio para el espectador.
+Los videojuegos que usan LOD evitan o disminuyen este efecto de niebla y pueden renderizar áreas más grandes.
+Algunos ejemplos tempranos notables de su uso en videojuegos en 3D serían Spyro the Dragon, Crash Bandicoot: Warped, Unreal Tournament o Serious Sam.
+La mayoría de los juegos 3D modernos utilizan una combinación de técnicas de renderizado LOD, se utilizan diferentes modelos para grandes estructuras y se reducen en las distancias para detalles del entorno como el césped y los árboles.
+SIG y modelado de ciudades 3D
+LOD se encuentra en los modelos de ciudad SIG y 3D como un concepto similar.
+Indica cuán minuciosamente se han mapeado las características del mundo real y cuánto se adhiere el modelo a su contraparte del mundo real.
+Además de la complejidad geométrica, otras métricas como la coherencia espacio-semántica, la resolución de la textura y sus atributos pueden aplicarse mediante LOD.
+CityGML estándar contiene una de las categorizaciones de LOD más prominentes.
+Software de renderizado y modelado

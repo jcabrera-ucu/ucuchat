@@ -1,0 +1,79 @@
+La resistencia a los plaguicidas o pesticidas describe la menor susceptibilidad de una población de plagas a un plaguicida que anteriormente era eficaz para controlar la plaga.
+Las especies de plagas desarrollan resistencia a los pesticidas a través de la selección natural: los especímenes más resistentes sobreviven y transmiten sus rasgos de cambios hereditarios adquiridos a su descendencia.
+Si una plaga tiene resistencia, el plaguicida carece de eficacia – eficacia y la resistencia están inversamente relacionadas.
+Se han informado casos de resistencia en todas las clases de plagas (es decir, enfermedades de los cultivos, malezas, roedores, etc.), con "crisis" en el control de insectos que se produjeron al principio después de la introducción del uso de plaguicidas en el siglo XX.
+La definición de resistencia a insecticidas del Comité de Acción de Resistencia a Insecticidas (IRAC) es:"...un cambio hereditario en la sensibilidad de una población de plagas que se refleja en la falla repetida de un producto para lograr el nivel de control esperado cuando se usa de acuerdo con la recomendación de la etiqueta para esas especies de plagas."La resistencia a los pesticidas está aumentando.
+Los agricultores de los EE. UU. perdieron el 7% de sus cultivos a causa de las plagas en la década de 1940; durante las décadas de 1980 y 1990, la pérdida fue del 13%, a pesar de que se estaban utilizando más plaguicidas.
+Más de 500 especies de plagas han desarrollado una resistencia a un pesticida.
+Otras fuentes estiman que el número ronda las 1.000 especies desde 1945.
+Aunque la evolución de la resistencia a los plaguicidas generalmente se discute como resultado del uso de plaguicidas, es importante tener en cuenta que las poblaciones de plagas también pueden adaptarse a métodos de control no químicos.
+Por ejemplo, el gusano de la raíz del maíz del norte (Diabrotica barberi) se adaptó a una rotación de cultivos de maíz y soja al pasar el año en que el campo está plantado con soja en diapausa.
+Desde 2014, pocos herbicidas nuevos han estado cerca de la comercialización, y ninguno con un modo de acción novedoso y sin resistencia.
+Para enero de 2019, el descubrimiento de nuevos insecticidas es más caro y difícil que nunca.
+La resistencia a los pesticidas probablemente se deba a múltiples factores:
+La resistencia ha evolucionado en múltiples especies: la resistencia a los insecticidas fue documentada por primera vez por A. L. Melander en 1914 cuando los insectos de escamas demostraron resistencia a un insecticida inorgánico.
+Entre 1914 y 1946, se registraron 11 casos adicionales.
+El desarrollo de insecticidas orgánicos, como el DDT, dio esperanzas de que la resistencia a los insecticidas era un problema muerto.
+Sin embargo, en 1947 había evolucionado la resistencia de las moscas domésticas al DDT. Con la introducción de cada nueva clase de insecticidas (ciclodienos, carbamatos, formamidinas, organofosforados, piretroides, incluso Bacillus thuringiensis), surgieron casos de resistencia en un plazo de dos a 20 años.
+Los insecticidas se utilizan ampliamente en todo el mundo para aumentar la productividad agrícola y la calidad de hortalizas y cereales (y, en menor grado, el uso para el control de vectores en el ganado).
+La resistencia resultante tiene una función reducida para esos mismos propósitos y en el control de vectores para humanos.
+Las plagas se vuelven resistentes mediante la evolución de cambios fisiológicos que las protegen del químico.
+Un mecanismo de protección es aumentar la cantidad de copias de un gen, lo que permite que el organismo produzca más de una enzima protectora que descompone el pesticida en sustancias químicas menos tóxicas.
+Tales enzimas incluyen esterasas, glutatión transferasas y oxidasas microsomales mixtas.
+Alternativamente, se puede reducir el número y / o la sensibilidad de los receptores bioquímicos que se unen al pesticida.
+Se ha descrito resistencia conductual para algunos productos químicos.
+Por ejemplo, algunos mosquitos Anopheles desarrollaron una preferencia por descansar afuera que los mantuvo alejados del pesticida rociado en las paredes interiores.
+La resistencia puede implicar una rápida excreción de toxinas, su secreción dentro del cuerpo lejos de los tejidos vulnerables y una menor penetración a través de la pared corporal.
+La mutación en un solo gen puede conducir a la evolución de un organismo resistente.
+En otros casos, están involucrados múltiples genes.
+Los genes resistentes suelen ser autosómicos.
+Esto significa que se encuentran en los autosomas (a diferencia de los alosomas, también conocidos como cromosomas sexuales).
+La adaptación a los pesticidas tiene un costo evolutivo, que generalmente disminuye la aptitud relativa de los organismos en ausencia de pesticidas.
+Los individuos resistentes a menudo tienen un rendimiento reproductivo, una esperanza de vida, una movilidad, etc. reducidos.
+Los individuos no resistentes a veces aumentan en frecuencia en ausencia de plaguicidas, pero no siempre, por lo que esta es una forma que se está probando para combatir la resistencia.
+Las larvas de mosca azul producen una enzima que confiere resistencia a los insecticidas organoclorados. Los científicos han investigado formas de usar esta enzima para descomponer los pesticidas en el medio ambiente, lo que los desintoxicaría y evitaría efectos ambientales dañinos.
+Una enzima similar producida por las bacterias del suelo que también descompone los organocloruros actúa más rápido y permanece estable en una variedad de condiciones.
+Se espera que se produzca resistencia a las formas de control de la población impulsadas por genes y se están estudiando métodos para ralentizar su desarrollo.
+Las adaptaciones anteriores a los pesticidas son inusualmente rápidas y no necesariamente representan la norma en las poblaciones silvestres, en condiciones silvestres.
+Los procesos de adaptación natural toman mucho más tiempo y casi siempre ocurren en respuesta a presiones más suaves.
+Para remediar el problema, primero se debe determinar qué es lo que realmente está mal.
+Es necesario evaluar la sospecha de resistencia a los pesticidas, y no meramente la observación y la experiencia de campo, porque puede confundirse con la falta de aplicacióndel pesticida como se indica o con la degradación microbiana del pesticida.
+La Organización Mundial de la Salud de las Naciones Unidas estableció la Red mundial de resistencia a los insecticidas en marzo de 2016,   debido a la creciente necesidad y al creciente reconocimiento, incluida la disminución radical de la función contra las plagas de los vegetales.
+El enfoque de manejo integrado de plagas (IPM) proporciona un enfoque equilibrado para minimizar la resistencia.
+La resistencia se puede controlar reduciendo el uso de pesticidas.
+Esto permite que los organismos no resistentes compitan con las cepas resistentes.
+Posteriormente, pueden morir volviendo al uso del pesticida.
+Un enfoque complementario es ubicar refugios no tratados cerca de tierras de cultivo tratadas donde las plagas susceptibles puedan sobrevivir.
+Cuando los plaguicidas son el método único o predominante de control de plagas, la resistencia se maneja comúnmente mediante la rotación de plaguicidas.
+Esto implica cambiar entre clases de pesticidas con diferentes modos de acción para retrasar o mitigar la resistencia a las plagas.
+Los Comités de Acción de Resistencia monitorean la resistencia en todo el mundo, y para hacer eso, cada uno mantiene una lista de modos de acción y pesticidas que caen en esas categorías: el Comité de Acción de Resistencia a Fungicidas, la Weed Science Society of America (el Comité de Acción de Resistencia a los Herbicidas ya no tiene su propio esquema, y está contribuyendo al WSSA de ahora en adelante), y el Comité de Acción de Resistencia a los Insecticidas.
+La Agencia de Protección Ambiental de los Estados Unidos (EPA) también usa esos esquemas de clasificación.
+Los fabricantes pueden recomendar que no se realice más de un número específico de aplicaciones consecutivas de una clase de pesticida antes de pasar a una clase de pesticida diferente.
+En la finca se pueden mezclar dos o más pesticidas con diferentes modos de acción para mejorar los resultados y retrasar o mitigar la resistencia existente a las plagas.
+Las malezas resistentes al glifosato están ahora presentes en la gran mayoría de las granjas de soja, algodón y maíz en algunos estados de EE.
+UU.
+también están aumentando las malezas resistentes a múltiples modos de acción de herbicidas.
+Antes del glifosato, la mayoría de los herbicidas mataban un número limitado de especies de malezas, lo que obligaba a los agricultores a rotar continuamente sus cultivos y herbicidas para evitar la resistencia.
+El glifosato altera la capacidad de la mayoría de las plantas para construir nuevas proteínas.
+Los cultivos transgénicos tolerantes al glifosato no se ven afectados.
+Una familia de malezas que incluye al cáñamo (Amaranthus rudis) ha desarrollado cepas resistentes al glifosato.
+Una encuesta de 2008 a 2009 de 144 poblaciones de cáñamo en 41 condados de Missouri reveló resistencia al glifosato en 69%.
+Los estudios de malezas de unos 500 sitios en todo Iowa en 2011 y 2012 revelaron resistencia al glifosato en aproximadamente el 64% de las muestras de cáñamo.
+En respuesta al aumento de la resistencia al glifosato, los agricultores recurrieron a otros herbicidas, aplicando varios en una sola temporada.
+En los Estados Unidos, la mayoría de los agricultores del medio oeste y sur continúan usando glifosato porque todavía controla la mayoría de las especies de malezas, aplicando otros herbicidas, conocidos como residuos, para hacer frente a la resistencia.
+El uso de múltiples herbicidas parece haber frenado la propagación de la resistencia al glifosato.
+Desde 2005 hasta 2010, los investigadores descubrieron 13 especies de malezas diferentes que habían desarrollado resistencia al glifosato.
+De 2010 a 2014 solo se descubrieron dos más.
+Una encuesta de Missouri de 2013 mostró que se habían extendido malezas resistentes a la multiplicación.
+El 43% de las poblaciones de malezas muestreadas eran resistentes a dos herbicidas diferentes, 6% a tres y 0,5% a cuatro.
+En Iowa, una encuesta reveló una resistencia dual en el 89% de las poblaciones de cáñamo, un 25% resistente a tres y un 10% resistente a cinco.
+La resistencia aumenta los costos de los pesticidas.
+Para el algodón del sur, los costos de los herbicidas subieron de entre $50–$75 por hectárea ($20–$30/acre) hace unos años, a alrededor de $370 por hectárea ($150/acre) en 2014.
+En el sur, la resistencia contribuyó al cambio que redujo la siembra de algodón en un 70% en Arkansas y en un 60% en Tennessee.
+Para la soja en Illinois, los costos aumentaron de aproximadamente $25–$160 por hectárea ($10–$65/acre).
+Durante 2009 y 2010, algunos campos de Iowa mostraron lesiones graves en el maíz que produce la toxina Bt Cry3Bb1 por el gusano de la raíz del maíz occidental.
+Durante 2011, el maíz mCry3A también mostró daños por insectos, incluida la resistencia cruzada entre estas toxinas.
+La resistencia persistió y se extendió en Iowa.
+El maíz Bt que se dirige al gusano de la raíz del maíz occidental no produce una dosis alta de toxina Bt y muestra menos resistencia que la que se observa en un cultivo Bt de dosis alta.
+Productos como Capture LFR (que contiene el piretroide bifentrina ) y SmartChoice (que contiene un piretroide y un organofosfato ) se han utilizado cada vez más para complementar los cultivos Bt que los agricultores encuentran por sí solos incapaces de prevenir las lesiones provocadas por insectos.
+Múltiples estudios han encontrado que la práctica es ineficaz o acelera el desarrollo de cepas resistentes.

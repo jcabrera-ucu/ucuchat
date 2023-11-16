@@ -1,0 +1,6 @@
+En telecomunicaciones; el bucle local, bucle de abonado o lazo local es el cableado que se extiende entre la central telefónica (o conmutador) y las dependencias del usuario.
+La conexión del bucle local telefónico es típicamente un par trenzado de cobre que va desde la central telefónica al local o vivienda del usuario.
+Las líneas telefónicas de bucle local individual están conectadas a la central local o a un concentrador remoto.
+Las conexiones al bucle local pueden ser utilizadas para transportar información utilizando varias tecnologías, incluyendo:
+El término "bucle local" se utiliza también como sinónimo de una conexión del "último kilómetro" al local del usuario, independientemente de la tecnología.
+De ahí la frase "bucle local inalámbrico", donde este último tramo no es un par físico sino un enlace vía radio.

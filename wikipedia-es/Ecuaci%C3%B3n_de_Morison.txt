@@ -1,0 +1,14 @@
+En dinámica de fluidos, la ecuación de Morison es una ecuación semiempírica de la fuerza sobre un cuerpo en línea en el flujo oscilatorio.
+A veces se llama la ecuación MOJS después de que cuatro autores: Morison, O'Brien, Johnson y Schaaf introdujeran la ecuación en 1950.
+La ecuación de Morison se utiliza para estimar las cargas de oleaje en el diseño de las plataformas petroleras y otras estructuras relacionadas.
+La ecuación de Morison es la suma de dos componentes de fuerza: una fuerza de inercia en fase con la aceleración local del flujo y una fuerza de arrastre proporcional al cuadrado (con signo) de la velocidad de flujo instantáneo.
+La fuerza de inercia es la forma funcional como se encuentra en la teoría de flujo potencial, mientras que la fuerza de arrastre tiene la forma para un cuerpo situado en un flujo constante.
+En el enfoque heurístico de Morison, O'Brien, Johnson y Schaaf estos dos componentes de la fuerza, la inercia y la fricción, se añaden simplemente para describir la fuerza en un flujo oscilatorio.
+La ecuación de Morison contiene dos coeficientes empíricos hidrodinámicos, un coeficiente de inercia y un coeficiente de arrastre, que se determina a partir de datos experimentales.
+Como se muestra por análisis dimensional y en los experimentos de Sarpkaya, estos coeficientes dependen en general del número de Keulegan-Carpenter, número de Reynolds y la rugosidad de la superficie.
+Las descripciones dadas a continuación de la ecuación de Morison son para condiciones unidireccionales, así como el movimiento del cuerpo.
+En un flujo oscilatorio con la velocidad de flujo u(t),, la ecuación de Morison da la fuerza paralela en línea a la dirección de flujo:
+Por ejemplo, para un cilindro circular de diámetro D en un flujo oscilatorio, la superficie de referencia por unidad de longitud del cilindro es A=D y el volumen del cilindro por unidad de longitud del cilindro es.
+Como resultado de ello, F(t) es la fuerza total por unidad de longitud del cilindro:
+Además de la fuerza de línea, hay también fuerzas oscilatorias de elevación perpendiculares a la dirección de flujo, debido a la formación de remolinos.
+Estos no están cubiertos por la ecuación de Morison, que es solo para las fuerzas en línea.

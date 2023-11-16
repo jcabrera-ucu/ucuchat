@@ -1,0 +1,4 @@
+La ley de Conway es un enunciado formulado por el informático estadounidense Melvin Conway en 1967.
+El adagio dice lo siguiente:
+La afirmación se basa en que dos módulos o subsistemas no pueden interactuar correctamente a menos que los diseñadores de ambos subsistemas se comuniquen entre sí.
+Por lo tanto, la estructura de las interfaces del sistema será congruente con las estructuras sociales de la organización que produce el sistema.

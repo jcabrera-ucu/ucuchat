@@ -1,0 +1,17 @@
+SuperHappyDevHouse (también conocido como SHDH) es una serie internacional de eventos sociales que los organizadores originalmente concibieron como fiestas para hackers y pensadores.
+Fundado el 29 de mayo de 2005 por Jeff Lindsay y David Weekly (fundador de PBwiki), SHDH en Silicon Valley comenzó con 150 hasta 200 personas cada seis semanas en diversos lugares de San Francisco
+y Silicon Valley, California.
+El inusual nombre deriva de una popular sátira del programa Saturday Night Live llamada Happy Fun Ball.
+En un superhappydevhouse los asistentes se dedican durante 12 horas a desarrollar algún proyecto o varios, aprender alguno nuevo durante las 12 horas que dura el SHDH, en las últimas horas se invita a los asistentes a pasar a platicar a los asistentes que es lo que lograron durante el SHDH.
+Un supper happy dev house no es un evento de networking, no es una competencia o una conferencia (aunque se dan pláticas), no es una fiesta, aunque de alguna manera se haga un poco de todo eso.
+En 2008, El SHDH se expandió globalmente con diversos eventos como son CocoaDevHouse (Londres); SuperHappyDevClub (Cambridge, UK); Cologne DevHouse (Cologne, Germany); SuperHappyDevFlat (Zurich, Switzerland); SuperHappyGrow-OpDevHouse (Vancouver, Canadá); SuperHappyDevHouse Aotearoa (New Zealand); PhoenixDevHouse (Arizona); BostonDevHouse (Cambridge, Massachusetts); y DevHouse Pittsburgh (Pennsylvania).
+Se empezó un DevHouse en Hermosillo, México en septiembre de 2008, siendo el primero en Latinoamérica, poco tiempo después se realizó el Devhouse en la ciudad de México el 1 de noviembre de 2008 y dos años después el Dev house en Mérida, Yucatán el 28 de febrero de 2010.
+<!-- People, whether technical or creative, gather at a private home for not-so-serious productivity and socialization.
+Organizers say they're trying to "resurrect the spirit of the Homebrew Computer Club."
+It's a non-exclusive event intended for passionate and creative technical people that want to have some fun, learn new things, and meet new people.
+There is no admission charged; the event is paid for by donations and sponsorships.
+The lifecaster and tech journalist Sarah Austin described the goals of SuperHappyDevHouse while comparing it to the Homebrew Computer Club:
+El SHDH original se hizo en Hillsborough, California y después en Los Gatos, California.
+As of August 2009, SHDH spawned HackerDojo to operate a Hackerspace in Mountain View, CA to allow for 24/7 programming, hackathons, classes, workshops, and lectures.
+SHDH now operates as an activity of Hacker Dojo Corporation.
+-->

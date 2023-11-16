@@ -1,0 +1,11 @@
+En informática, la sintaxis de un lenguaje informático es el conjunto de reglas que define las combinaciones de símbolos que se consideran declaraciones o expresiones correctamente estructuradas en ese lenguaje.
+Esto se aplica tanto a los lenguajes de programación, donde el documento representa el código fuente, como a los lenguajes de marcado, donde el documento representa los datos.
+La sintaxis de un lenguaje define su forma superficial.
+Los lenguajes informáticos de interfaz de texto, se basan en secuencias de caracteres, mientras que los lenguajes de programación visuales se basan en la disposición espacial y las conexiones entre símbolos (que pueden ser textuales o gráficos).
+Se dice que los documentos sintácticamente inválidos tienen un error de sintaxis.
+Cuando se diseña la sintaxis de un lenguaje, el diseñador puede empezar anotando ejemplos de cadenas legales e ilegales, antes de intentar averiguar las reglas generales a partir de estos ejemplos.
+Por lo tanto, la sintaxis se refiere a la forma del código y se contrapone a la semántica - el significado.
+En el tratamiento de los lenguajes informáticos, el tratamiento semántico suele ser posterior al sintáctico; sin embargo, en algunos casos, el tratamiento semántico es necesario para completar el análisis sintáctico, y se realizan juntos o al mismo tiempo.
+En un compilador, el análisis sintáctico comprende el frontend, mientras que el análisis semántico comprende el backend (y el middle end, si se distingue esta fase).
+La sintaxis de los lenguajes informáticos se clasifica generalmente en tres niveles:
+Para comprar rápidamente la sintaxis de varios lenguajes de programación, eche un vistazo a la lista de ejemplos de "¡Hola, Mundo!":

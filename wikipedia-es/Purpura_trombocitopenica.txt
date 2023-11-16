@@ -1,0 +1,35 @@
+La purpura trombocitopenia es un trastorno de la sangre que provoca la formación de coágulos de sangre en pequeños vasos sanguíneos alrededor del cuerpo y lleva a un bajo conteo plaquetario.
+La púrpura significa que se presenta como moretones (equimosis) en la piel, característicos de la enfermedad y trombocitopenia significa disminución del número de plaquetas (o trombocitos).
+El elemento central es la pérdida de auto tolerancia que lleva a la producción de autoanticuerpos dirigidos a los antígenos plaquetarios.
+Estos anticuerpos son principalmente del tipo IgG específicos contra las glicoproteínas IIb/IIIa y Ib/IX5.
+Las plaquetas cubiertas con autoanticuepros IgG aceleran su clearence a través de receptores Fcy expresados en macrófagos del bazo e hígado, principalmente.
+Un aumento compensatorio en la producción de plaquetas ocurre en la mayoría de los pacientes.
+En otros, su producción es detenida ya sea por destrucción intramedular de megacariocitos o por inhibición de la megacariopoyesis.
+El nivel de trombopoyetina no está aumentado2.
+Desafortunadamente el estudio de los anticuerpos es difícil, no disponible de rutina y su negatividad no excluye el diagnóstico.
+Los mecanismos celulares inmunes juegan un rol principal en el PTI.
+Es posible que en algunos casos los linfocitos T citotóxicos participen en la destrucción plaquetaria.
+El gatillo, probablemente una infección viral o una toxina, lleva a la producción de complejos inmunes/anticuerpos que atacan a las plaquetas.
+Las plaquetas cubiertas de anticuerpos se unen a la célula presentadora de antígeno a través de receptores de baja afinidad, son internalizadas y degradadas.
+La célula presentadora de antígeno activada, expresa nuevos péptidos en la superficie celular y con ayuda coestimuladora facilita la proliferación de antígenos plaquetarios específicos (CD 4 positivos, clones de células T).
+Estos clones de células T dirigen la producción de anticuerpos por clones de células B antígeno-plaquetario específicas.
+Como parte del proceso de destrucción de plaquetas en el PTI, son expuestos epítopes crípticos de los antígenos plaquetarios, llevando a la producción de clones secundarios de células T, con la estimulación de nuevos clones de células B y la ampliación de la respuesta inmunológica5.
+Dentro de las causas no se conoce algo específico ya que el 60% de las personas que tienen esta patología se conoce que es idiopática es decir que no tiene una causa específica, es de origen autoinmune, con anticuerpos en contra de proteínas de la membrana de las plaquetas.
+La mayoría de estos anticuerpos son en contra de las glicoproteínas IIb-IIIa o Ib-IIIa o Ib-IX, y generalmente son de tipo IgG.
+Se sabe que la mayoría de los casos ocurren en niños menores de 15 años, es una enfermedad hereditaria, no es una enfermedad contagiosa,y con frecuencia aparece después de una infección viral.
+Los síntomas que más comunes de la púrpura trombocitopenia idiopática.
+Sin embargo, cada individuo puede experimentarlos de una forma diferente.
+Los síntomas pueden incluir:
+Los síntomas de la púrpura trombocitopenia idiopática pueden parecerse a los de otros trastornos de la sangre o problemas médicos.
+En los niños, con frecuencia, la enfermedad desaparece sin tratamiento; sin embargo, algunos pueden necesitarlo.
+Los adultos generalmente comienzan con un esteroide antiinflamatorio llamado prednisona.
+En algunos casos, se recomienda la cirugía para extirpar el bazo (esplenectomía).
+Esto incrementará el conteo de plaquetas en aproximadamente la mitad de los pacientes.
+Sin embargo, en lugar de esto, generalmente se recomiendan otros tratamientos farmacológicos.
+Si la enfermedad no mejora con prednisona, otros tratamientos pueden abarcar:
+Un medicamento llamado danazol (Danocrine) oral
+Inyecciones con dosis altas de gammaglobulina (un factor inmunitario)
+Fármacos que inhiben el sistema inmunitario
+Filtración de anticuerpos fuera del torrente sanguíneo
+Terapia anti-RhD para personas con ciertos tipos de sangre
+Las personas con púrpura trombocitopénica idiopática no deben tomar ácido acetilsalicílico (aspirin), ibuprofeno ni warfarina, ya que estos fármacos interfieren con la función de las plaquetas o la coagulación de la sangre, y se puede presentar sangrado.

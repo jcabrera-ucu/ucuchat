@@ -1,0 +1,35 @@
+Un algoritmo de prueba de participación, también conocido por la sigla PoS (del inglés proof of stake), es un protocolo de consenso distribuido que asegura en una red de una criptomoneda la posesión de dichas monedas.
+Con PoS la probabilidad de encontrar un bloque de transacciones y recibir el premio correspondiente es directamente proporcional a la cantidad de monedas que uno tiene delegadas, evitando así que la confianza venga dada por la cantidad de trabajo invertido.
+Es un sistema diferente a la prueba de trabajo usada en la minería de criptodivisas como el bitcóin.
+Se basa en la suposición de que quienes poseen más unidades de una moneda basada en PoS están especialmente interesados en la supervivencia y el buen funcionamiento de la red que otorga valor a dichas monedas y por tanto son ellos los más indicados para cargar con la responsabilidad de proteger al sistema de posibles ataques.
+Es por eso que el protocolo los premia con una menor dificultad para encontrar bloques (es inversamente proporcional al número de monedas que demuestren poseer).
+Algunas de las Blockchains que utilizan esta tecnología son: Cardano, Algorand, Tezos y Polkadot.
+Peercoin, lanzado en 2012, fue la primera criptomoneda que usaba prueba de apuesta.
+Realmente es un algoritmo híbrido entre prueba de trabajo y prueba de apuesta en la que la apuesta se basa en la edad de las monedas (en inglés, coin-age) del minero.
+Las monedas por edad es una medida de las monedas que posee y el número de días que están en el monedero.
+Para minar un bloque en Peercoin un minero tiene que resolver un problema SHA-256 similar al de Bitcoin.
+Sin embargo, la dificultad del problema a resolver será bajada basándose en la cantidad de monedas que está dispuesto a gastar.
+Para implementarlo el bloque incluye una transacción especial coinstake 'apuesta de monedas' en la cual se gastan monedas.
+La edad de las monedas consumidas en la transacción de apuesta de monedas decide cómo de difícil es la prueba de trabajo.
+El objetivo de todo esto es asegurar que el proceso de minado sea aleatorio y no dependa del poder computacional del minero.
+Posteriormente se han desarrollado otras formas de algoritmos de prueba de apuesta como:
+Los algoritmos de prueba de apuesta son un área activa de investigación y se tienen una serie de problemas.
+El problema de nada en juego, en inglés nothing-at-stake o también stake-grinding consiste en que realmente confirmar bloques, salvo la consideración de que están dañando el sistema del que son participantes, no tiene ningún coste real por lo que no se incentiva el consenso.
+Veamos un ejemplo:
+Se han hecho varios intentos para solucionar este problema.
+La mayoría de esquemas utilizan puntos de control para prevenir bifurcaciones largas lo cual es una pequeña amenaza a considerarse un protocolo de consenso descentralizado.
+Ethereum ha propuesto una técnica a la que llama 'recorte' que permite el castigo a los mineros que intenten bifurcar la cadena.
+Con PoS la probabilidad de encontrar un bloque de transacciones es directamente proporcional a la cantidad de monedas que uno tiene acumuladas, lo cual en primera instancia implica que el monedero esté conectado a la red, lo cual a su vez implica que el monedero está expuesto a posibles problemas de seguridad.
+Para intentar evitar este problema se ha desarrollado una variante del protocolo a la que se llama prueba de apuesta delegada, también conocido por las siglas DPoS (del inglés Delegated Proof of Stake).
+En esta variante se permite que los nodos propietarios de monedas deleguen sus privilegios para construir nuevos bloques en un nuevo tipo de nodos llamados representantes.
+Ejemplo de sistema usando este algoritmo es BitShares.
+En algunos sistemas que usan PoS es posible ahorrar derechos para conseguir mucho poder de minado para poder introducir una bifurcación de la cadena.
+Esto es posible incluso si se usan sistemas como Slasher para desalentar las bifurcaciones.
+Para evitar este tipo de ataques Peercoin limita el parámetro edad a 90 días cuando calcula la edad de las monedas.
+Si un apostante obtiene el 51 % del factor de apuesta, entonces puede mantenerlo para siempre apostando por encima de sus propios bloques, tomando de esta forma el control de la cadena.
+Incluso si un participante emergiera apostando recompensas y transacciones, el apostante del 51 % obtendrá esta nueva apuesta y lentamente se aproximará hasta llegar al 100 %.
+En el minado por prueba de trabajo, incluso si existiera un minero con el 51 % siempre sería posible que algún nuevo minero pudiera emerger con más equipamiento de minería y energía y reducir la mayoría del minero del 51 %.
+Con la prueba de apuesta es mucho más difícil evitar este problema.
+Ventajas:
+Desventajas:
+Es usado en distintas criptomonedas como por ejemplo:

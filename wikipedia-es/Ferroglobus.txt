@@ -1,0 +1,12 @@
+Ferroglobus es un género de microorganismos hipertermófilos del dominio Archaea.
+Se conoce una sola especie, F. placidus, aislada en una fuente hidrotermal en sedimentos costeros en Italia.
+F. placidus tiene un crecimiento óptimo a temperatura de 85 °C y a pH neutro.
+No puede crecer a temperaturas inferiores a 65 °C ni a superiores a 95 °C.
+La célula posee una pared celular de tipo capa S y flagelos.
+Metabólicamente, Ferroglobus es bastante especial comparándolo con su pariente Archaeoglobus.
+F. placidus fue el primer hipertermófilo que se descubrió creciendo anaeróbicamente mediante la oxidación de compuestos aromáticos tales como benzoato acoplada a la reducción de hierro férrico (Fe3+) a hierro ferroso (Fe2+).
+Puede usar también como fuentes de energía gas hidrógeno (H2) y sulfuro de hidrógeno (H2S).
+Debido a su estilo de vida anerobio, F. placidus utiliza nitrato (NO3-) como receptor final de electrones que es convertido nitrito (NO2-).
+También puede usar tiosulfato (S2O32-) como receptor final de electrones.
+Esta especie fue la primera archaea descubierta que puede realizar la oxidación anaerobia del hierro acoplada a la reducción de nitrato.
+Se cree que en el remoto pasado, cuando la tierra era anóxica, organismos similares a F. placidus ayudaron a crear los depósitos de hierro a menudo encontrados en las rocas antiguas.

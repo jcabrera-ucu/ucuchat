@@ -1,0 +1,32 @@
+DECmate fue el nombre de una serie de ordenadores compatibles con los PDP-8, producidos por Digital Equipment Corporation (DEC) a finales de los 1970 y comienzo de los 1980.
+Todos los modelos usaban un microprocesador Intersil 6100 (más tarde renombrado como Harris 6100) o un Harris 6120 (un Intersil 6100 mejorado) que emulaba una CPU de 12 bits DEC PDP-8.
+Disponían de pantallas de solo texto y utilizaban los sistemas operativos OS/78 u OS/278, que eran extensiones del OS/8 para el PDP-8.
+Concebidos para el mercado de los procesadores de texto, típicamente corrían el programa de procesamiento de textos WPS-8.
+Los modelos más tardíos opcionalmente usaron procesadores Intel 8080 o Zilog Z80, lo que les permiría correr CP/M.
+La gama comenzó con el VT78 que fue introducido en julio de 1977.
+Introducido en julio de 1977, esta máquina se montaba en la carcasa de un terminal VT52, usando un microprocesador Intersil 6100 que corría a 2.2 MHz.
+La configuración estándar incluida una unidad de disco flexible dual de 8-pulgadas RX01, albergada en el pedestal sobre el que descansaba la máquina.
+Introducido en 1980, esta máquina se montaba en la carcasa de un terminal VT100.
+Funcionaba con un reloj de 10 MHz, disponía de 32 Kb de memoria y una unidad de disco flexible dual de 8-pulgadas RX02.
+También fue conocido como el VT278.
+Como parte de una triple estrategia contra IBM, Digital Equipment Corporation lanzó este modelo al mismo tiempo que el PRO-380  basado en un PDP-11 y el Rainbow 100 basado en el Intel 8088.
+El DECmate II se fabricana con la misma carcasa del Rainbow 100, pero utiliza el microprocesador 6120.
+Sus dos sistemas operativos son el sistema de procesamiento de textos WPS-8, y el COS-310 (Commercial Operating System, Sistema operativo Comercial) que corre DIBOL.
+Como los otros disponía de un monitor monocromo VR201 (del estilo del VT220), un teclado LK201 y una unidad dual de discos flexibles RX50 que usaba discos de 5.25 pulgadas de simple-cara quadruple-densidad con 400Kb de capacidad.
+Disponía de 32Kb de RAM para uso por programas, y otros 32 Kb de RAM con código utilizado para emulación del dispositivo.
+El código que se ejecutaba en este segundo banco se le llamaba "slushware", en contraste a firmware, ya que era cargado del disco flexible cuando arrancaba la máquina.
+Fue también conocido como el PC278.
+El modelo podría ser expandido añadiendo otra unidad dual de discos flexibles RX50 de 5.25 pulgadas, aunque también podía utilizar unidades RX01 o RX02 de doble discos flexibles de 8-pulgada, o una unidad de disco duro winchester. También se le podía añadir una tarjeta con un coprocesador adicional, lo que le permitía ejecutar CP/M.
+Había tres tarjetas disponibles, una con un Z80 y 64 KB RAM, mientras para las otras dos se podía elegir entre un Zilog Z80 y un Intel 8086, diferenciándose en disponer de 256 KB o 512 KB de RAM.
+La producción cesó en 1986.
+Su sucesor fue el DECmate III, introducido en 1984.
+Introducido en 1984.
+Disponía de una carcasa más pequeña, monitor en color, reloj a 8 MHz, dos unidades RX50 de discos flexibles de 5.25 pulgadas, 32 KB de RAM de usuario, 32 KB de RAM del sistema.
+Fue también conocido como el PC238.
+Lanzado en 1985 y retirado en 1990.
+Era un DECmate III con un controlador de disco duro como parte de la configuración básica.
+Fue también conocido como el PC24P.
+Los DECmate eran aceptables para su uso como procesador de textos, pero debido a varias peculiaridades de su hardware era ligeramente incompatibles con muchos programas que existían para el PDP-8, lo que en gran parte eliminaba una ventaja potencial de la serie DECmate sobre los sistemas IBM PC.
+Los interfaces de E/S trabajaban de forma ligeramente diferente, lo que significaba que los programas de usuario y los programas del sistema no podrían detectar el Control-C (fin de la ejecución) y ejecutar la salida del proceso.
+Cada programa, tanto de usuario como de sistema, tuvo que ser ajustado para solucionar esta anomalía.
+Además, la velocidad de la CPU y la actualización de la pantalla eran sensiblemente más lentas que en los sistemas PDP-8, incluso en los más antiguos.

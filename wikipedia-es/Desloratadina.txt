@@ -1,0 +1,80 @@
+Desloratadina es un fármaco antihistamínico (antagonista de los receptores H₁) prescrito para tratar los síntomas del resfriado y las reacciones alérgicas; tales como, estornudos, picazón, congestión nasal, ojos llorosos, enrojecimiento ocular y/o sarpullidos con erupción o urticaria.
+La desloratadina (también llamada descarboetoxiloratadina) es el principal metabolito activo de la loratadina y es más potente en su efecto farmacológico.
+Sin embargo, en las presentaciones comerciales Loratadina 10mg y Desloratadina 5mg son equipotentes y con la misma efectividad.
+La desloratadina tiene la afinidad más alta para los receptores H₁ en comparación a otros antihistamínicos, cruza poco la barrera hematoencefálica y no actúa en receptores muscarínicos, α-adrenérgicos ni serotoninérgicos.
+Por esta razón, los pacientes reportan menos efectos adversos y menos sedación.
+Se clasifica como antihistamínico de segunda generación.
+En el año 1937 el farmacólogo Daniel Bovet descubrió una sustancia que bloqueaba el efecto de la histamina en los conejillos de indias.
+Esto abrió la posibilidad del desarrollo de los primeros medicamentos anti-histaminérgicos.
+Posteriormente, en 1950, fármacos como difenhidramina (Benadryl®) y la clorfeniramina (Chlor-trimeton®) eran populares para el tratamiento de resfriados y alergias; sin embargo, como efectos secundarios provocan somnolencia, dificultad para la concentración y memoria e irrupción de fases reparadoras de sueño.
+Por tal motivo se empezó a trabajar en fármacos que antagonizaran los efectos de la histamina y que, a su vez, no tuviera los efectos anteriormente mencionados.
+A mediados de 1970 la empresa farmacéutica Schering-Plough® asignó a Charles Magatti, quien tenía un doctorado en química de la Universidad de Rutgers, junto a otros dos científicos en buscar un antihistamínico que no generara síntomas en el sistema nervioso central.
+Magatti y su equipo comenzaron con un antihistamínico de primera generación al cual le eliminaron los componentes que le permitían filtrar a través de las paredes de los vasos del cerebro.
+Después de varios intentos, finalmente lograron aislar una molécula que otros equipos científicos señalaron con ausencia de adormecimiento en roedores.
+Magatti aumentó la potencia de la molécula imitando la estructura del clorfenamina; es decir, agregando una molécula de cloro.
+Este fue el inicio de la Loratadina (Claritin®).
+En el proceso de investigación y desarrollo, se descubrió que la loratadina se metaboliza en desloratadina, su metabolito más potente y con una vida media más larga.
+La desloratadina conservaba la capacidad de bloquear los receptores de histamina y, al mismo tiempo, tenía menos probabilidad de generar sedación.
+La desloratadina fue desarrollada por Schering-Plough® y recibió la aprobación de la FDA en el 2001.
+La desloratadina corresponde a la estrategia de la industria farmacéutica de patentar metabolitos o enantiómeros con el fin de generar nuevas patentes de medicamentos, sin corresponder a un avance científico o terapéutico.
+La sustancia exhibe una ligera solubilidad en agua y una baja solubilidad en metanol, etanol, propilenglicol, acetonitrilo y tolueno.
+Sin embargo, esta aumenta en ambientes ácidos.
+Los excipientes utilizados son estándar y comúnmente empleados en la industria farmacéutica.
+Las tabletas contienen celulosa microcristalina y almidón de maíz pregelatinizado como ingredientes intragranulares, mientras que se emplea sílice anhidro coloidal y talco en el recubrimiento externo.
+La desloratadina se administra por vía oral.
+Se absorbe rápidamente en el duodeno y casi en su totalidad después de la administración.
+Alcanza concentraciones plasmáticas máximas después de 3 horas y efectos terapéuticos después 1 hora.
+La biodisponibilidad es rápida y casi al 100% y no se altera por ingesta de alimentos.
+Con la administración diaria de 5 mg de desloratadina, las concentraciones séricas en estado estacionario se alcanzan en 7 días.
+La desloratadina se une a aproximadamente del 82 al 87% a las proteínas plasmáticas, principalmente a albúmina y en menor medida a glicoproteína ácida alfa-1.
+Además, la desloratadina muestra una mayor solubilidad en agua en comparación con la loratadina, siendo aproximadamente 7 veces mayor (desloratadina 0.35mg/mL, loratadina <0.05 mg/mL).
+La desloratadina, se hidroliza en el hígado.
+A diferencia de la loratadina, la desloratadina no sufre un efecto de primer paso y genera pocos metabolitos.
+La desloratadina se metaboliza en una secuencia de tres pasos en individuos con metabolismo normal.
+En primer lugar, la desloratadina es sometida a n-glucuronidación por la enzima UGT2B10.
+Luego, el N-glucurónido de desloratadina se somete a 3-hidroxilación por la enzima CYP2C8, formando así la 3-hidroxidesloratadina, que es el principal metabolito.
+Por último, el N-glucurónido de 3-hidroxidesloratadina sufre una desconjugación no enzimática.
+Otros metabolitos activos incluyen 5-OH, 6-OH y dihidroxidesloratadina.
+Se estima que aproximadamente el 6-7% de la población general presenta un metabolismo deficiente de la desloratadina.
+Esta frecuencia de metabolizadores deficientes es más alta en individuos afroamericanos, donde aproximadamente el 20% de ellos han demostrado ser metabolizadores lentos en estudios farmacocinéticos.
+La excreción se produce a través de orina (40% en metabolitos conjugados) y heces en un 51%.
+Un pequeño porcentaje del fármaco se elimina de forma inalterada en las heces (6,7%) y en la orina (1,7%), el resto se excreta en forma de metabolitos.
+La semivida de eliminación de la desloratadina es de 27 horas.
+La seguridad del fármaco es similar entre los grupos, por lo que no está indicado ajustar la dosis.
+La desloratadina, como la loratadina, es un antihistamínico tricíclico que tiene una selectiva y periférica acción antagonista H₁.
+No impide la liberación de histamina, sino que compite con la histamina en los receptores H₁, tal como se observa en la figura 1.
+El antagonismo competitivo de la desloratadina bloquea la unión de la histamina con el receptor y evita así los efectos de la misma sobre los receptores del tracto digestivo, útero, grandes vasos y músculos bronquiales.
+Al igual que su precursor, la estructura química de la desloratadina también se ha modificado para reducir su carácter lipofílico, lo que dificulta su paso a través de las células de la barrera hematoencefálica.
+Esto da como resultado una menor posibilidad de efectos depresores del SNC, como somnolencia, sedación y alteración de la función psicomotora.
+La acción antagonista en los receptores H₁, disminuye la permeabilidad capilar, por lo que es más eficaz usarlo como profilaxis en lugar de una vez iniciada la reacción alérgica.
+La desloratadina como la loratadina no se une a receptores muscarínicos, α-adrenérgicos, serotoninérgicos ni dopaminérgicos.
+El antagonismo de los receptores H₁, presenta los siguientes efectos sistémicos:
+No se han demostrado interacciones clínicas significativas que afectan la farmacocinética o farmacodinamia con el sistema del citocromo P450, por lo que es seguro ante inhibidores del CYP3A4.
+Tampoco se describe que el fármaco potencie los efectos adversos psicomotores del alcohol.
+En este caso, la desloratadina no tiene ninguna afectación por la toronja, ya que este fármaco no es un substrato para el sistema de P-glicoproteína.
+En cuanto a la interacción con otros alimentos, la farmacocinética y la biodisponibilidad de la desloratadina es estadísticamente similar si se consume con o sin comida.
+Por ende, puede ser administrada seguramente antes y después de comer.
+Sin embargo, si es posible encontrar algunas interacciones farmacocinéticas:
+La desloratadina está indicada para el alivio sintomático de la fiebre del heno (alergia al polen, al polvo o a otras sustancias presentes en el aire) y otras alergias que incluyen síntomas como estornudos, rinorrea, prurito, lagrimeo y escozor de ojos.
+También se usa para tratar la picazón y el enrojecimiento causados por la urticaria y otras afecciones alérgicas dermatológicas.
+Sin embargo, la desloratadina no es un tratamiento curativo sino temporal ante los síntomas.
+De manera general, todos estos agentes externos ingresa en nuestro organismo, haciendo contacto con una barrera natural (piel o pulmones) activando el sistema inmunológico.
+Después de la interacción linfocitaria y la producción de anticuerpos IgE, estos van a interaccionar con células granulocíticas como mastocitos, basófilos y eosinófilos, liberando moléculas de histamina y otras sustancias inflamatorias que causan los síntomas de la alergia.
+Esto se puede observar en la figura 2.
+La desloratadina entonces bloquea esa vía biológica para tratar los síntomas.
+Al igual que la loratadina, la desloratadina es bien tolerada generalmente y los efectos adversos no son tan comunes como otros antihistamínicos H₁.
+La desloratadina se debe evitar en casos de hipersensibilidad a la desloratadina, loratadina y otros componentes que componen el medicamento.
+Aun cuando no ocurran efectos sedantes o sean mínimos, debe evitarse su uso en personas que por su trabajo estén expuestas a alto riesgo.
+En caso de daño hepático o renal se recomienda iniciar con una dosis menor.
+Se debe evitar su uso en embarazo, y lactancia:
+La dosis tóxica en niños y adultos es de 0,7 mg/kg, pero la dosis letal no está descrita.
+Ante la eventualidad de una sobredosificación se debe concurrir al centro de urgencia más cercano debiendo tomar las medidas estándares de soporte adecuadas.
+Se recomienda un tratamiento sintomático y coadyuvante.
+Los síntomas por ingestión de altas dosis en forma aguda, puede producir nerviosismo, palpitaciones, convulsiones y molestias gastrointestinales, como diarreas y sequedad de la boca.
+La desloratadina cuenta con varias formulaciones disponibles comercialmente, las principales son las tabletas que contienen desloratadina 5 mg, tabletas desintegrantes que contienen 95% de los 5mg y el jarabe que contiene desloratadina 0.5 mg/mL.
+Dosis:
+Una indicación emergente de la desloratadina es en el tratamiento del acné, como coadyuvante económico de la isotretinoína y posiblemente como terapia de mantenimiento o monoterapia.
+La desloratadina como fármaco se considera un “me too”, lo cual es una modificación química que no tiene ninguna ventaja terapéutica o de seguridad sobre la molécula original.
+Pero en este caso, tiene patente y se considera medicamento original.
+Las presentaciones comerciales de Loratadina 10mg y Desloratadina 5mg son equipotentes, con la misma efectividad, el mismo nivel de seguridad y reporte de efectos adversos.
+El costo final para la desloratadina es diez veces más que la loratadina a pesar de generar los mismos efectos farmacológicos.

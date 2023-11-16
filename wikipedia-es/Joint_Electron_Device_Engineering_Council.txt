@@ -1,0 +1,4 @@
+Joint Electron Device Engineering Council (JEDEC) autodenominada como una “Solid State Technology Association”, es la rama de la “Alianza de Industrias Electrónicas” (Electronic Industries Alliance, EIA), que representa a las áreas de la industria electrónica en los Estados Unidos para la normalización de la ingeniería y desarrollo de tecnologías basadas en semiconductores.
+En 1960, crearon JEDEC como una iniciativa conjunta de la EIA y la National Electrical Manufacturers Association (NEMA), para cubrir la creciente necesidad de normalización de dispositivos basados en semiconductores discretos.
+En 1970 sus objetivos se extendieron al ámbito de los, entonces modernos, circuitos integrados.
+Está formada por aproximadamente 300 compañías asociadas, que comprenden fabricantes, distribuidores y usuarios de componentes basados en semiconductores.

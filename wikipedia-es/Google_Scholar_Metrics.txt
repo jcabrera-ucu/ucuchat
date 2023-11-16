@@ -1,0 +1,6 @@
+Google Scholar Metrics es una métrica de revista de Google que establece el índice de impacto de las revistas científicas generado del recuento de citas localizadas en Google Scholar:Utiliza el indicador denominado h5, que es la relación entre el número de artículos publicados por las revistas en los últimos 5 años completos y el número de citas recibidas.
+El total de artículos en los que se basa el cálculo del h5 es el denominado "h-core".
+Por otra parte, Google Scholar también ofrece la mediana h5, que es el número mediano de citas de los artículos que componen el índice h5.
+Tiene rankings generales por idiomas, mostrando las 100 revistas que mayor impacto poseen en cada una de ellos.
+También tiene un ranking por categorías temáticas en el caso de las revistas en inglés, presentando las 20 revistas con mayor índice h5.
+Es una herramienta de evaluación de la visibilidad y de la influencia de artículos recientes en publicaciones académicas.

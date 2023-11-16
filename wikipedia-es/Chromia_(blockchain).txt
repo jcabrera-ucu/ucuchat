@@ -1,0 +1,8 @@
+Chromia es una plataforma blockchain para aplicaciones descentralizadas, concebida para almacenar Dapps y su posterior escalado.
+Chromia anteriormente se llamaba Chromapolis.
+La plataforma utiliza un sistema de blockchain relacional, un modelo que combina la estructura de las bases de datos relacionales utilizadas en el almacenamiento de datos, con un modelo de blockchain.
+Actualmente, Chromia cuenta con su propio token denominado $CHR
+Chromia es el heredero de ChromaWay, una empresa pionera de blockchain.
+En 2012, Alex Mizrahi, el CTO, comenzó a trabajar en lo que se puede llamar la primera implementación de activos definidos por el usuario en una blockchain, llamados Colored Coins.
+Esta creación fue pionera en la tokenización de activos.
+En 2014 Alex, junto a los otros dos miembros fundadores, Henrik Hjelte, CEO, y Or Perelman, COO comienzan a trabajar en soluciones para bancos, empresas y gobiernos.

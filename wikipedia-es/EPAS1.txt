@@ -1,0 +1,31 @@
+La proteína del dominio endotelial PAS 1 (EPAS1, también conocido como factor inducible de la hipoxia 2alpha (HIF-2alpha)) es una proteína que en humanos está codificada por el gen EPAS1. Es un tipo de factor inducible por la hipoxia, un grupo de factores de transcripción implicados en la respuesta corporal al nivel de oxígeno en el ambiente.
+{{cite web La proteína del dominio endotelial PAS 1 (EPAS1, también conocido como el factor inducible de la hipoxia 2alfa (HIF-2alfa)) es una proteína que en humanos está codificada por el gen EPAS1.
+Esta proteína es un tipo de factor inducible de la hipoxia, un grupo de factores de transcripción implicados en la respuesta del cuerpo al nivel de oxígeno en el ambiente.
+El gen se activa bajo condiciones hipóxicas donde la concentración de oxígeno es baja.
+Este gen es también importante en el desarrollo del corazón, y en la conservación del equilibrio de catecolamina, es cual se requiere para la protección del corazón.
+Una mutación en este gen a menudo provoca tumores neuroendocrinos.
+Aun así, una versión especial (alelo) del gen EPAS1 produce el EPAS1 responsable de la adaptación a grandes altitudes en humanos.
+Es sabido que la variante del gen confiere un mayor rendimiento atlético en algunas personas, y por ello ha sido bautizado como el "super gen atleta".
+El gen EPAS1 codifica parcialmente para el factor de transcripción implicado en la inducción de los genes regulados por el oxígeno.
+Este factor es inducido a medida que bajan los niveles de oxígeno (hipoxia).
+La proteína codificada contiene un dominio de proteína hélice-bucle-hélice básica así como un dominio encontrado en proteínas involucradas en rutas de transducción de señal que responden a los niveles de oxígeno del ambiente.
+EPAS 1 está implicado en el desarrollo del corazón embrionario y se expresa en las células endoteliales de las paredes de los vasos sanguíneos del cordón umbilical.
+Durante el desarrollo embrionario temprano, es esencial mantener la homeostasis de la catecolamina y la protección del corazón para prevenir la insuficiencia cardíaca.
+La catecolamina incluye hormonas como la adrenalina y la noradrenalina.
+En la producción de catecolamina, es importante que el organismo permaneza en condiciones homeostáticas, de modo que tanto el delicado corazón fetal como el corazón adulto no se sobreesfuerzen y produzcan una insuficiencia cardíaca.
+La producción de catecolamina en el embrión está relacionada con el control del gasto cardíaco, el cual se produce cuando incrementa el ritmo cardíaco fetal.
+La etnia Tibetana tiene una proporción alta de un alelo que mejora el transporte de oxígeno.
+Este alelo benéfico también se ha encontrado en el genoma del ya extinto homínido de Denísova, lo cual sugiere que este alelo fue introducido en la población humana moderna por hibridación.
+Las mutaciones en el gen EPAS1 están relacionadas con la aparición temprana de tumores neuroendocrinos tales como los paragangliomas, los somatostatinomas y/o los feocromocitomas.
+Las mutaciones son generalmente somáticas con cambio de sentido y se localizan en el sitio principal de hidroxilación del HIF-2α.
+Además de alterar el mecanismo de degradación/hidroxilación de proteínas, las mutaciones de este gen también provocan la estabilización de proteínas y la señalización pseudohipóxica.
+Asimismo, estos tumores neuroendocrinos liberan la eritropoyetina (EPO) en la sangre, provocando una policitemia.
+Las mutaciones en este gen están asociadas con policitemia familiar de tipo 4, hipertensión pulmonar y mal de montaña crónico.
+También existe evidencia de que ciertas variantes de este gen proporcionan protección para las personas que viven a grandes altitudes como en el Tíbet.
+El efecto es más profundo entre los tibetanos que viven en el Himalaya a una altitud de aproximadamente 4,000 metros sobre el nivel del mar, entorno intolerable para otras poblaciones humanas debido a que hay 40% menos oxígeno atmosférico.
+Los tibetanos no padecen ningún problema de salud asociado con el mal de montaña, pero en cambio, producen niveles bajos de pigmento sanguíneo (hemoglobina) (suficientes para la menor concentración de oxígeno), tienen vasos sanguíneos más desarrollados y exhiben un peso de nacimiento extraordinariamente alto.
+En altitudes elevadas, EPAS1 es útil como respuesta adaptativa a corto plazo.
+Aun así, EPAS1 también puede causar una producción excesiva de glóbulos rojos, haciendo que el mal de montaña sea crónico, lo cual a su vez puede causar la muerte y la inhibición de las capacidades reproductivas.
+Algunas mutaciones que aumentan la expresión de esta proteína están asociadas con un incremento en la hipertensión y una embolia a bajas altitudes, con síntomas similares a aquellos del mal de montaña.
+Las personas que viven de forma permanente en altitudes elevadas podrían experimentar la selección de un gen EPAS1 que sea capaz de reducir las consecuencias físicas de la producción excesiva de eritrocitos.
+Se ha demostrado que EPAS1 interacciona con el translocador nuclear del receptor Aril hidrocarburo (ARNT) y el ARNTL.

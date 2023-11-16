@@ -1,0 +1,5 @@
+John Resig es un programador y empresario, conocido por ser el Evangelista de JavaScript de la Fundación Mozilla, creador y líder de desarrollo de la biblioteca JavaScript jQuery, autor de un libro técnico sobre JavaScript y de uno de los blogs más leídos, con una media de 13.000 suscriptores.
+Es graduado en la licenciatura de Ciencias de la Computación por la Rochester Institute of Technology.
+También ha contribuido en proyectos sobre las librerías de JavaScript, incluyendo Processing.js, un convertidor del lenguaje de programación Processing al lenguaje JavaScript.
+Resig es un frecuente invitado en empresas internacionales como Google y Yahoo! e imparte conferencias por todo del mundo.
+John Resig es autor de los siguientes libros sobre programación JavaScript avanzada:

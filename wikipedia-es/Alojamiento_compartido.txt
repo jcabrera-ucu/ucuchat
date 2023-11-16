@@ -1,0 +1,14 @@
+El alojamiento compartido o alojamiento virtual, en inglés Virtual hosting, es una de las modalidades más utilizadas por las empresas dedicadas al negocio del alojamiento web.
+Dependiendo de los recursos disponibles, permite tener una cantidad variable de dominios y sitios web en una misma máquina.
+Es, generalmente, la forma más económica de alojamiento web y ha supuesto una pequeña revolución ya que sus reducidos costes (generalmente menos de 10€ al mes) han hecho posible que muchos profesionales hayan podido llevar su actividad también al mundo en línea.
+En el alojamiento compartido, todos los sitios web alojados comparten los recursos disponibles.
+Dependiendo del tipo de procesador, memoria, espacio de disco y carga del sistema, la cantidad de sitios alojados puede variar desde unos cuantos pocos a cientos e incluso miles.
+El alojamiento compartido es una alternativa económica frente a los servidores dedicados y los servidores virtuales.
+Las empresas de alojamiento web generalmente se asisten utilizando paneles de control (programas asistentes que permiten manejar los dominios, sitios y servidores de forma automática o semiautomática desde una interfaz, generalmente web), como cPanel, DirectAdmin, Plesk, InterWorx, H-Sphere e ISPConfig.
+La mayoría de las empresas de alojamiento web utilizan sistemas operativos GNU/Linux, aunque también algunos proveedores ofrecen soluciones basadas en Microsoft Windows o FreeBSD.
+Comúnmente las empresas de alojamiento web alojan sus sitios utilizando el servidor Apache y el método de virtual hosting, o alojamiento virtual.
+Este método permite alojar múltiples nombres de dominio en una máquina con sólo una dirección IP.
+La implementación de la mayoría de los servidores con alojamiento compartido tiene los siguientes componentes:
+Aparte de webs muy simples, creadas con páginas HTML estáticas, hoy en día las webs típicas explotadas en un hosting compartido son webs con software libre con una arquitectura LAMP.
+Entre las aplicaciones más populares cabe destacar los blogs basados WordPress, webs creadas con sistemas CMS como Joomla, foros de discusión como phpBB y tiendas en línea creadas con Prestashop.
+En este caso es necesario que el hosting contratado se adecue a los requisitos necesarios para este tipo de aplicaciones (soportar aplicaciones PHP y bases de datos MySQL).

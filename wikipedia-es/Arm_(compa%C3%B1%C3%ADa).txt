@@ -1,0 +1,106 @@
+Arm Ltd. es una empresa británica de diseño de software y semiconductores con sede en Cambridge, Inglaterra.
+Su negocio principal es el diseño de procesadores ARM (CPU).
+También diseña otros chips, proporciona herramientas de desarrollo de software bajo las marcas DS-5, RealView y Keil, y proporciona sistemas y plataformas, infraestructura y software system-on-a-chip (SoC).
+Como sociedad de cartera, también posee acciones de otras empresas.
+Desde 2016, es propiedad del conglomerado japonés SoftBank Group.
+Si bien las CPU ARM aparecieron por primera vez en Acorn Archimedes, una computadora de escritorio, los sistemas actuales incluyen principalmente sistemas integrados, incluidas las CPU ARM utilizadas en prácticamente todos los teléfonos inteligentes modernos.
+Los procesadores basados en diseños con licencia de Arm, o diseñados por licenciatarios de una de las arquitecturas del conjunto de instrucciones ARM, se utilizan en todas las clases de dispositivos informáticos.
+Arm tiene dos líneas de unidades de procesamiento de gráficos (GPU), Mali y la Immortalis más nueva (que incluye trazado de rayos basado en hardware).
+Los principales competidores de CPU de Arm en servidores incluyen IBM, Intel y AMD.
+Intel compitió con chips basados en ARM en dispositivos móviles, pero Arm ya no tiene competencia en ese espacio (sin embargo, los proveedores de chips basados en ARM reales compiten dentro de ese espacio).
+Los principales competidores de GPU de Arm incluyen GPU móviles de las empresas tecnológicas estadounidenses y japonesas Imagination Technologies (PowerVR), Qualcomm (Adreno) y, cada vez más, Nvidia, AMD, Samsung e Intel.
+Mientras compiten en GPU, Qualcomm, Samsung y Nvidia han combinado sus GPU con CPU con licencia de Arm.
+Arm tenía una cotización primaria en la Bolsa de Valores de Londres y formaba parte del índice FTSE 100.
+También tenía una cotización secundaria en NASDAQ.
+Sin embargo, el conglomerado japonés SoftBank Group hizo una oferta acordada por Arm el 18 de julio de 2016, sujeta a la aprobación de los accionistas de Arm, valorando la empresa en 24.300 millones de libras esterlinas.
+La transacción se completó el 5 de septiembre de 2016.
+Un acuerdo de adquisición planificado por Nvidia, anunciado en 2020, se derrumbó en febrero de 2022, y SoftBank anunció posteriormente que planeaba lanzar Arm en el mercado de valores para 2023.
+El acrónimo ARM se utilizó por primera vez en 1983 y originalmente significaba "Acorn RISC Machine".
+El primer procesador RISC de Acorn Computers se utilizó en el Acorn Archimedes original y fue uno de los primeros procesadores RISC utilizados en computadoras pequeñas.
+Sin embargo, cuando se incorporó la empresa en 1990, el significado de 'ARM' cambió a "Advanced RISC Machines", a la luz del nombre de la empresa "Advanced RISC Machines Ltd".
+– y según una entrevista con Steve Furber, el cambio de nombre también fue a instancias de Apple, que no deseaba tener el nombre de un antiguo competidor (es decir, Acorn) en el nombre de la empresa.
+En el momento de la oferta pública inicial en 1998, el nombre de la empresa se cambió a "ARM Holdings", a menudo simplemente llamado ARM como los procesadores.
+El 1 de agosto de 2017, se cambiaron el estilo y el logotipo.
+El logotipo ahora está en minúsculas ('arm') y otros usos del nombre están en mayúsculas ('Arm'), excepto cuando la oración completa está en mayúsculas, por lo que, por ejemplo, se convirtió en 'Arm Holdings', y desde entonces solo Arm.
+La empresa se fundó en noviembre de 1990 como Advanced RISC Machines Ltd y se estructuró como una empresa conjunta entre Acorn Computers, Apple y VLSI Technology.
+Acorn proporcionó 12 empleados, VLSI proporcionó herramientas, Apple proporcionó una inversión de $ 3 millones.
+Larry Tesler, vicepresidente de Apple, fue una persona clave y el primer director ejecutivo de la empresa conjunta.
+La nueva compañía tenía la intención de promover el desarrollo del procesador Acorn RISC Machine, que se usó originalmente en Acorn Archimedes y había sido seleccionado por Apple para su proyecto Newton.
+Su primer año rentable fue 1993.
+Las oficinas de la empresa en Silicon Valley y Tokio se abrieron en 1994.
+ARM invirtió en Palmchip Corporation en 1997 para proporcionar sistemas en plataformas de chips y entrar en el mercado de unidades de disco.
+En 1998, la empresa cambió su nombre de Advanced RISC Machines Ltd a ARM Ltd. La empresa cotizó por primera vez en la Bolsa de Valores de Londres y en NASDAQ en 1998 y, en febrero de 1999, la participación accionaria de Apple había caído al 14.8%.
+En 2010, ARM se unió a IBM, Texas Instruments, Samsung, ST-Ericsson (desde que se disolvió) y Freescale Semiconductor (ahora NXP Semiconductors ) para formar Linaro, una empresa de ingeniería de código abierto sin fines de lucro.
+El conglomerado japonés SoftBank Group hizo una oferta acordada por ARM el 18 de julio de 2016, sujeta a la aprobación de los accionistas de ARM, valorando la empresa en £ 23,4 mil millones (US $ 32 mil millones).
+La transacción se completó el 5 de septiembre de 2016.
+En 2017, se transfirió una participación del 25 por ciento de Arm al SoftBank Vision Fund, que recibió inversiones del fondo soberano saudita.
+La empresa de tecnología estadounidense Nvidia anunció planes el 13 de septiembre de 2020 para adquirir ARM de SoftBank, en espera de la aprobación regulatoria, por un valor de 40.000 millones de dólares estadounidenses en acciones y efectivo, lo que habría sido la mayor adquisición de semiconductores hasta esa fecha.
+SoftBank Group adquirirá algo menos del 10% de participación en Nvidia y ARM mantendrá su sede en Cambridge.
+Hay oposición al acuerdo, por varias razones, incluidas las preocupaciones de seguridad nacional del Reino Unido y las preocupaciones de competencia de otras compañías tecnológicas como Google, Microsoft y Qualcomm, cuyos chips en uso o en venta dependen en gran medida de la propiedad intelectual de Arm.
+También está siendo combatido por Arm China, su subsidiaria, cuya participación mayoritaria está en manos de los fondos chinos.
+La adquisición estaba inicialmente programada para concluir antes de finales de 2022 según el contrato.
+Sin embargo, la Comisión Europea, la Autoridad de Mercados y Competencia del Reino Unido y la Comisión Federal de Comercio de EE.
+UU.
+expresaron su preocupación por la finalización centrándose en el papel de Arm dentro de Nvidia, mientras que el gobierno del Reino Unido también expresó su preocupación por la seguridad nacional.
+El intento de fusión finalmente se canceló en febrero de 2022 debido a la presión y los obstáculos regulatorios antes mencionados.
+Softbank Group vendió más de la mitad de Arm China en 2018 a un consorcio local formado por varias partes, incluidas China Investment Corp. y Silk Road Fund, cediendo efectivamente la propiedad mayoritaria de la subsidiaria china a un grupo de inversores que tienen vínculos con Beijing.
+Desde 2020, la discordia entre Arm y los propietarios efectivos de Arm China se hizo visible después de que la empresa matriz británica intentara sin éxito destituir al director ejecutivo de la subsidiaria, quien a pesar de todo mantuvo su puesto.
+Surgió una opinión predominante de que el asunto afectaría negativamente la aprobación pendiente por parte de los reguladores chinos sobre el acuerdo Softbank-Nvidia, así como una oferta pública de Arm.
+En septiembre de 2021, a pesar de la negación de Arm, algunos informes observaron que el director ejecutivo de Arm China, a quien la matriz británica había tratado de despedir, había declarado públicamente la "independencia" de Arm China.
+En febrero de 2022, Allen Wu, director ejecutivo de Arm China, planteó la idea de una oferta pública de la propia subsidiaria china no antes de 2025 como una posibilidad.
+El 29 de abril de 2022, se informó que el director ejecutivo y representante legal de Arm China finalmente había sido reemplazado de acuerdo con documentos legalmente reconocidos.
+A diferencia de la mayoría de los proveedores de microprocesadores tradicionales, como Intel, Freescale (la antigua división de semiconductores de Motorola, ahora NXP Semiconductors) y Renesas (una antigua empresa conjunta entre Hitachi y Mitsubishi Electric), ARM solo crea y otorga licencias de su tecnología como propiedad intelectual (IP), en lugar de fabricar y vender sus propias CPU, GPU, SoC o microcontroladores físicos.
+Este modelo es similar a los de otras casas de diseño británicas ARC International e Imagination Technologies, que de manera similar han estado diseñando y otorgando licencias de GPU, CPU y SoC, además de suministrar herramientas y varios servicios de diseño y soporte a sus licenciatarios.
+Un rasgo característico de los procesadores Arm es su bajo consumo de energía eléctrica, lo que los hace especialmente adecuados para su uso en dispositivos portátiles.
+Los procesadores Arm se utilizan como CPU principal para la mayoría de los teléfonos móviles muchas PDA y dispositivos portátiles, como el iPod y el iPad de Apple, y juegos de computadora, así como muchas otras aplicaciones, incluidos dispositivos de navegación GPS, digital cámaras y televisores.
+La segunda supercomputadora más rápida del mundo (anteriormente la más rápida), la japonesa Fugaku se basa en la arquitectura Arm AArch64.
+El fabricante de supercomputadoras Cray ha agregado la "Opción ARM" (es decir, Opción de hoja de CPU, usando Cavium ThunderX2) para sus supercomputadoras XC50, y Cray afirma que ARM es "una tercera arquitectura de procesador para construir supercomputadoras de próxima generación", por ejemplo, para el Departamento de Energía de EE. UU.
+Fujitsu (el fabricante de supercomputadoras de la computadora K más rápida del mundo en junio de 2011 según TOP500) anunció en la Conferencia Internacional de Supercomputación en junio de 2016 que su futura supercomputadora a exaescala contará con procesadores de su propio diseño que implementan la arquitectura ARMv8, en lugar de los procesadores SPARC utilizados en supercomputadoras anteriores.
+Estos procesadores también implementarán extensiones a la arquitectura ARMv8 equivalente a HPC-ACE2 que Fujitsu está desarrollando con ARM Holdings.
+La supercomputadora de la serie Cray XC50 para la Universidad de Bristol se llama Isambard, en honor a Isambard Kingdom Brunel.
+Se espera que la supercomputadora presente alrededor de 160 nodos, cada uno con dos procesadores ThunderX2 de 32 núcleos que funcionan a 2.1GHz.
+El rendimiento teórico máximo de los 10 240 núcleos y los 40 960 subprocesos es de 172 teraFLOPS.
+El proyecto Vanguard de Sandia National Laboratories es entregar una máquina ARM de exaescala.
+La primera generación se llamó Hammer, estaba basada en X-Gene de Applied Micro.
+La segunda generación se llamó Sullivan y se basó en los procesadores ThunderXs de Cavium.
+La tercera generación del proyecto Vanguard de Sandia National Laboratories llamado Mayer se basó en la preproducción de ThunderX2.
+La cuarta generación también basada en ThunderX2 se llama Astra y estaba programada para entrar en funcionamiento en noviembre de 2018.
+ARM968E-S se utilizó para construir la supercomputadora neuromórfica, SpiNNaker (Spiking Neural Network Architecture).
+Arm ofrece varios diseños de núcleos de microprocesadores que tienen "licencia pública" para sus nuevos "procesadores de aplicaciones" (no microcontroladores) utilizados en aplicaciones tales como teléfonos inteligentes y tabletas.
+Se sabe que tres de esas empresas tienen una licencia para uno de los Cortex-A72 de 64 bits de Arm (algunas incluyen el otro núcleo de 64 bits de ARM, el Cortex-A53 ).
+Los núcleos para ARMv8.2-A incluyen Cortex-A77, Cortex-A65AE, Cortex-A76, Cortex-A75 y Cortex-A55.
+Los núcleos para ARMv8-A incluyen Cortex-A73, Cortex-A72, Cortex-A32, Cortex-A35, Cortex-A57 y Cortex-A53.
+La hoja de ruta del cliente de ARM incluye Hercules en 2020 y Matterhorn en 2021.
+Los núcleos para arquitecturas de 32 bits incluyen Cortex-A32, Cortex-A15, Cortex-A12, Cortex-A17, Cortex-A9, Cortex-A8, Cortex-A7 y Cortex-A5, y "Procesadores ARM clásicos" más antiguos, así como arquitecturas variantes para microcontroladores que incluyen estos núcleos: Cortex-R7, Cortex R5, Cortex-R4, Cortex-M35P, Cortex-M33, Cortex-M23 Cortex-M7, Cortex-M4, Cortex-M3, Cortex-M1, Cortex-M0+ y Cortex-M0 para licencias.
+Las empresas a menudo obtienen licencias de estos diseños de Arm para fabricarlos e integrarlos en su propio sistema en chip (SoC) con otros componentes como GPU (a veces, Arm's Mali) o bandas base de módem/radio (para teléfonos móviles).
+Arm ofrece múltiples programas de licencias para sus núcleos.
+Arm también ofrece Artisan POP IP, donde Arm se asocia con fundiciones para proporcionar una implementación física, lo que permite un tiempo de comercialización más rápido.
+En febrero de 2016, Arm anunció la licencia de tecnología Built on Arm Cortex, a menudo abreviada como licencia Built on Cortex (BoC).
+Esta licencia permite a las empresas asociarse con Arm y realizar modificaciones en los diseños de Arm Cortex.
+Estas modificaciones de diseño no se compartirán con otras empresas.
+Estos diseños básicos semipersonalizados también tienen libertad de marca, por ejemplo, Kryo 280.
+Además de las licencias para sus diseños de núcleos y la licencia BoC, Arm ofrece una "licencia arquitectónica" para sus arquitecturas de conjuntos de instrucciones, lo que permite a los licenciatarios diseñar sus propios núcleos que implementan uno de esos conjuntos de instrucciones.
+Una licencia arquitectónica de Arm es más costosa que una licencia básica de Arm normal.
+Los procesadores basados en diseños con licencia de Arm, o diseñados por licenciatarios de una de las arquitecturas del conjunto de instrucciones ARM, se utilizan en todas las clases de dispositivos informáticos (incluso en el espacio ).
+Los procesadores diseñados por Arm o por los licenciatarios de Arm se utilizan como microcontroladores en sistemas integrados, incluidos los sistemas de seguridad en tiempo real ( ABS de automóviles), sistemas biométricos (sensor de huellas dactilares ), televisores inteligentes (por ejemplo, Android TV), todos los relojes inteligentes modernos (como Qualcomm Toq), y se utilizan como procesadores de propósito general en teléfonos inteligentes, tabletas, computadoras portátiles, computadoras de escritorio (incluso para ejecutar programas tradicionales de Microsoft Windows x86 ), servidores y superordenadores/HPC,
+Los sistemas, incluidos los teléfonos inteligentes iPhone, suelen incluir muchos chips, de muchos proveedores diferentes, que incluyen uno o más núcleos Arm con licencia, además de los del procesador principal basado en Arm.
+Los diseños centrales de Arm también se utilizan en chips que admiten muchas tecnologías comunes relacionadas con la red en teléfonos inteligentes: Bluetooth, Wi -Fi y banda ancha, además de los equipos correspondientes, como auriculares Bluetooth, enrutadores 802.11ac, y red LTE celular de los proveedores.
+En 2011, Arm renovó una asociación de investigación de cinco años y 5 millones de dólares con la Universidad de Míchigan, que extendió su asociación de investigación existente hasta 2015.
+Esta asociación se centraría en la informática sostenible y de energía ultrabaja.
+En octubre de 2017, Arduino anunció su asociación con ARM.
+El anuncio decía, en parte, "ARM reconoció la independencia como un valor central de Arduino... sin ningún tipo de bloqueo con la arquitectura ARM".
+Arduino tiene la intención de seguir trabajando con todos los proveedores de tecnología y arquitecturas.
+En octubre de 2018, ARM Holdings se asoció con Intel para compartir código para sistemas integrados a través del Proyecto Yocto.
+El 20 de octubre de 2018, Arm presentó Arm Mbed OS, un sistema operativo de código abierto para IoT.
+El 8 de octubre de 2019, Arm anunció un nuevo modelo de gobernanza de socios para que los socios colaboren en la hoja de ruta futura.
+Los socios incluyen: Analog Devices, Cypress, Maxim Integrated, Nuvoton, NXP, Renesas, Realtek, Samsung, Silicon Labs y u-blox.
+El 8 de octubre de 2019, Arm anunció el Consorcio de Computación de Vehículos Autónomos (AVCC) para colaborar y acelerar el desarrollo de automóviles autónomos.
+Los miembros incluyen Arm, Bosch, Continental, Denso, General Motors, Nvidia, NXP y Toyota.
+En agosto de 2020, Arm firmó un acuerdo de tres años con DARPA, la Agencia de Proyectos de Investigación Avanzada de Defensa de EE.
+UU., que permite a los investigadores de DARPA utilizar toda la tecnología disponible comercialmente de Arm.
+En octubre de 2001, Warren East fue nombrado director ejecutivo (CEO) de Arm Holdings.
+En el año fiscal 2011, East recibió una compensación total de 1.187.500 libras esterlinas de ARM, que comprende un salario de 475.000 libras esterlinas y una bonificación de 712.500 libras esterlinas.
+En mayo de 2013, el presidente Simon Segars asumió el cargo de director ejecutivo.
+En marzo de 2014, el expresidente de Rexam, Stuart Chambers, sucedió a John Buchanan como presidente.
+Chambers, director no ejecutivo de Tesco y exdirector ejecutivo de Nippon Sheet Glass Group, había trabajado anteriormente en Mars y Royal Dutch Shell.
+El 8 de febrero de 2022, Rene Haas sucedió a Segars como director ejecutivo con efecto inmediato, y Segars dejó Arm.

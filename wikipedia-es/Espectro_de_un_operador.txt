@@ -1,0 +1,66 @@
+El espectro de un operador es un conjunto de valores complejos que generaliza el concepto de valor propio (autovalor) a espacios vectoriales de dimensión infinita.
+El concepto es muy importante tanto en análisis funcional como en mecánica cuántica.
+El estudio de los espectros de los operadores sobre un cierto espacio y sus propiedades se conoce como teoría espectral.
+En dimensión finita, una aplicación lineal, que fijada una base se representa por una matriz, siempre tiene algún valor propio que sea solución de la siguiente ecuación:
+Donde además debe cumplirse que.
+El conjunto de todos los valores que satisface la ecuación anterior recibe el nombre de espectro puntual de la aplicación lineal L.
+Sin embargo, cuando buscamos soluciones como la anterior para aplicaciones lineales (operadores) en espacios de dimensión infinita no siempre existe solución.
+Por ejemplo en el espacio de Hilbert ℓ2 el "operador desplazamiento a la derecha" que viene dado por:
+carece de valores propios según la definición.
+Sin embargo, con la generalización del espectro puntual al más amplio concepto de espectro, puede probarse que todo operador lineal acotado en un espacio de Banach complejo tiene un espectro no vacío.
+El espectro de un operador lineal A tiene que ver con la búsqueda de soluciones de la ecuación:
+La ecuación anterior se plantea normalmente en un espacio vectorial topológico y la razón por la cual se consideran valores complejos es que \mathbb{C} es un cuerpo algebraicamente cerrado (a diferencia de \mathbb{R} que no es algebraicamente cerrado).
+Las soluciones de pueden relacionarse con las propiedades del operador resolvente dado por:
+Los valores complejos para los cuales el operador anterior está bien definido y es acotado sobre un dominio denso se dice que pertenecen al conjunto resolvente.
+El complemento del conjunto resolvente, es decir, los valores para los que el operador resolvente presenta "problemas" por no estar definido, no ser acotado o no tener un dominio denso forman el espectro del operador.
+Dado un operador acotado B, éste es invertible (i.e. tiene una operador inverso acotado), si y sólo si B está acotado inferiormente y tiene un conjunto imagen denso en el espacio sobre el espacio de Banach sobre el que está definido.
+El espectro, no vacío, de un operador acotado siempre puede dividirse en tres partes:
+En dimensión finita, el espectro continuo y residual de un operador siempre son vacíos, y el espectro coincide así con el espectro puntual.
+Esa es la razón por la cual el concepto de espectro generaliza el de espectro puntual, cuando consideramos dimensión infinita.
+Las siguientes tres secciones dan más detalles sobre las características de cada uno de estos tres subconjuntos del espectro de un operador.
+Si el operador no es inyectivo para un cierto valor de \lambda\;, entonces claramente no es invertible.
+Los valores de \lambda\; para los que sucede eso, forman el espectro puntual de B, denotado como, claramente:.
+Este espectro tiene algunas propiedades interesantes:
+El espectro continuo, también llamado "espectro puntual aproximado" prestándose a malas interpretaciones.
+La razón de este otro nombre se debe a que cuando pertenece al espectro continuo, aunque no puede encontrarse un vector propio (propiamente dicho) puede construirse una sucesión de vectores casipropios tal que:
+Ejemplo Considérese el operador T sobre definido por:
+Donde ˆ denota la posición cero.
+Un cálculo directo muestra que B no posee valores propios, por lo que su espectro puntual es vacío, pero cada λ, con |λ| = 1, tiene un vector aproximadamente propio; siendo un el vector:
+Entonces ||un|| = 1 para todo n pero:
+De esto se sigue que B es un operador unitario cuyo espectro cae en el círculo unidad.
+Por tanto, el espectro continuo coincide con todo su espectro.
+Esto también es cierto para una clase muy general de operadores.
+Un operador B puede ser acotado inferiormente y no invertible.
+Por ejemplo el operador de desplazamiento unilateral definido en, similar al definido en la sección anterior, es un ejemplo.
+Este operador es una isometría, por tanto está acotado inferiormente por 1.
+Pero no es invertible por no ser sobreyectivo.
+El conjunto de los valores para los cuales B - λI no tiene un conjunto imagen o rango denso se conoce espectro residual y se designa como,.
+Algunos autores denominan espectro esencial a la unión del espectro continuo y el residual es decir:
+Un operador acotado B sobre un espacio de Banach \mathcal{B} es un operador tal que el siguiente máximo existe:
+Sea ahora \mathcal{B} un álgebra de Banach que contiene un elemento unidad I.
+En esas condiciones se define el espectro de un elemento, denotado usualmente como \sigma(B)\;, consiste en todos aquellos tales que el operador  no tiene inverso en \mathcal{B}.
+Dado un espacio de Banach, entonces el conjunto de operadores acotados sobre este espacio, denotado como , es de hecho un álgebra de Banach.
+Usualmente, la teoría espectral de operadores definidos en un cierto espacio de Banach trabaja con esta álgebra de Banach unitaria de operadores acotados.
+El espectro de un operador acotado tiene las siguientes propiedades básicas:
+La definición de espectro anterior puede ser extendida sin dificultad a operadores no acotados definidos en todo un espacio de Banach X.
+Procediendo de manera similar al caso de operadores acotados se introduce el conjunto resolvente del operador:
+Cuyo resolvente está formado por todos los puntos del plano complejo \mathbb{C} para los que el operador resolvente:
+admite un operador inverso que sea acotado y que por tanto cumplirá:
+Análogamente al caso acotado se dice que un número complejo pertenece al espectrum si no existe un operador acotado e inverso del resolvente, como el descrito más arriba.
+El espectro se puede clasificar de la misma manera que en el caso acotado.
+El espectro de un operador no acotado es en general un conjunto cerrado, que puede ser vacío.
+Consideremos el espacio de Hilbert y consideremos el operador autoadjunto u observable momento lineal de la mecánica cuántica:
+El espectro de este operador es puramente continuo, coincide con el eje real, es decir, todo valor real forma parte del espectro continuo:
+Para ver esto basta considerar la sucesión de vectores aproximadamente propios dada por:
+En el mismo espacio de Hilbert anterior definimos el llamado operador posición de la mecánica cuántica y su dominio como:
+Puede verse que al igual que el operador momento, su espectro es puramente continuo y coincide con el eje real, es decir, es posible encontrar una partícula libre en cualquier posición del espacio.
+Esto puede verse usando la sucesión de funciones:
+El hamiltoniano de un oscilador armónico unidimensional puede representarse en el mismo espacio de Hilbert que los anteriores operadores:
+Este es un operador no acotado aunque su dominio es denso en el espacio L2.
+Su espectro es puramente puntual y consta de los enteros impares positivos:
+En el espacio de Hilbert de secuencias de números complejos de cuadrado sumable, se define la base de Hilbert:
+Mediante la cual se definen los operadores creación y destrucción \hat{a} mediante las relaciones:
+Obviamente se trata de operadores no acotados definidos sólo sobre un dominio denso dado por:
+El espectro de estos operadores tiene las siguientes propiedades:
+Curiosamente el espectro del operador número definido a partir de los anteriores como:
+Es puramente puntual y coincide con los números enteros.

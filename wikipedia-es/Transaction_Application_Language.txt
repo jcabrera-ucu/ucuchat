@@ -1,0 +1,12 @@
+Transaction Application Language o TAL (originalmente "Tandem Application Language") es un lenguaje de procedimiento estructurado en bloques optimizado para su uso en hardware Tandem. TAL se asemeja a un cruce entre C y Pascal.
+Era el lenguaje de programación del sistema (SPL) original para las máquinas Tandem CISC, que no tenían ensamblador.
+El concepto de diseño de TAL, una evolución del SPL de Hewlett Packard, estaba íntimamente asociado y optimizado con un conjunto de instrucciones CISC microprogramadas. Cada declaración TAL podría compilarse fácilmente en una secuencia de instrucciones que manipularan datos en una pila de registros flotantes transitorios.
+La propia pila de registros flotaba en la cima de la asignación de memoria del programa y la pila de llamadas.
+El lenguaje tiene el aspecto de ALGOL o Pascal, con declaraciones de BEGIN y END.
+A pesar de esto, su semántica es más similar a la de C. No permite niveles indefinidos de anidado de procedimientos, no pasa el argumentos de estructura compleja por valor, y no tipifica estrictamente la mayoría de las variables de referencia.
+Las técnicas de programación se asimilan a C, utilizando punteros a estructuras, ocasionales overlays, manejo deliberado de strings y conversiones de formato cuando apropiadas.
+Los tipos de dato disponibles incluyen enteros de 8, 16, 32 y (introducido más tarde) 64 bit.
+Originalmente, el sistema operativo Tandem NonStop estaba escrito en TAL.
+Recientemente, gran parte de él se ha reescrito en C y TAL ha quedado en desuso para nuevos desarrollos.
+En la migración de CISC a RISC, TAL se actualizó, siendo reemplazado por pTAL; los compiladores permitieron que TAL se acelerara, siendo recopilado en aplicaciones RISC nativas.
+En la migración actual de RISC a Intel Itanium 2, TAL y pTAL han sido reemplazados por epTAL, nuevamente, los compiladores permiten que el código TAL y pTAL sea acelerado / recopilado en aplicaciones nativas de Itanium.

@@ -1,0 +1,113 @@
+Se llama contaminación acústica o contaminación sonora al exceso de sonido que altera las condiciones normales del ambiente en una determinada zona.
+Si bien el ruido no se acumula, traslada o perdura en el tiempo como las otras contaminaciones, también puede causar grandes daños en la calidad de vida de las personas si no se controla bien o adecuadamente.
+El término «contaminación acústica» hace referencia al ruido (entendido como sonido excesivo y molesto), provocado por las actividades humanas (tráfico, industrias, locales de ocio, aviones, barcos, entre otros) que produce efectos negativos sobre la salud auditiva, física y mental de los seres vivos.
+Este término está estrechamente relacionado con el ruido debido a que esta se da cuando el ruido es considerado como un contaminante, es decir, un sonido molesto que puede producir efectos nocivos fisiológicos y psicológicos para una persona o grupo de personas.
+Las principales causas de la contaminación acústica son aquellas relacionadas con las actividades humanas como el transporte, la construcción de edificios, obras públicas y las industrias, entre otras.
+Se ha dicho por organismos internacionales, que se corre el riesgo de una disminución importante en la capacidad auditiva, así como la posibilidad de trastornos que van desde lo psicológico (paranoia, perversión) hasta lo fisiológico por la excesiva exposición a la contaminación sónica.
+Un informe de la Organización Mundial de la Salud (OMS), considera los 70 dB (A), como el límite superior deseable.
+En España, se establece como nivel de confort acústico los 55 dBA.
+Por encima de este nivel, el sonido resulta pernicioso para el descanso y la comunicación.
+Según estudios de la Unión Europea (2005): «80 millones de personas están expuestas diariamente a niveles de ruido ambiental superiores a 65 dBA y otros 170 millones, lo están a niveles entre 55-65 dBA».
+Para medir el impacto del ruido ambiental (contaminación acústica) se utilizan varios indicadores que están en continuo desarrollo, a partir de Lp:
+El nivel de presión sonora se define como 20 veces la relación logarítmica de la presión sonora eficaz respecto a una presión de referencia p0, de valor p0 = 2,0×10-5 N/m² = 20 μPa, obtenida mediante una ponderación normalizada de frecuencias y una ponderación exponencial normalizada de tiempos.
+Si no se mencionan explícitamente, debe sobreentenderse que se trata de la ponderación temporal FAST y de la ponderación de frecuencias A, adoptando la siguiente nomenclatura LpA.
+Se define como el nivel de presión que contiene la energía promedio de un ruido fluctuante para el mismo periodo de tiempo.
+El SEL es el nivel LEQ de un ruido de 1 segundo de duración.
+El SEL se utiliza para medir el número de ocasiones en que se superan los niveles de ruido tolerado en sitios específicos: barrios residenciales, hospitales, escuelas, etc.
+Es el más alto nivel de presión sonora continuo equivalente ponderado A, en decibelios, determinado sobre un intervalo temporal de 1 segundo (LAeq,1) registrado en el periodo temporal de evaluación.
+El dB es la unidad que se utiliza para medir la intensidad del sonido y otras magnitudes físicas.
+Es la décima parte de un belio B, unidad que recibe su nombre por Graham Bell.
+Es el nivel de presión sonora continuo equivalente ponderado A, corregido por el tipo de fuente de ruido (tráfico o industrial), por el carácter del ruido (impulsivo, tonal) y por el período considerado (nocturno, vespertino, fin de semana).
+LKeq, T = LAeq, T +Ki
+El LDN mide el nivel de ruido Leq que se produce en 24 horas.
+Al calcular el ruido nocturno, como no debe haber, se penaliza con 10 dBA a los ruidos que se producen entre las 10 de la noche y las 7 de la mañana.
+La Organización Mundial de la Salud (OMS) establece que los niveles de ruido no deben exceder los 50 decibeles (dB) durante el día y los 45 dB por la noche.
+undefined
+El sistema auditivo se resiente ante una exposición prolongada a la fuente de un sonido, aunque esta sea de bajo nivel.
+El efecto auditivo provocado por el ruido ambiental se llama socioacusia.
+Cuando una persona se expone de forma prolongada a un nivel de sonido excesivo, nota un silbido constante en el oído, esta es una señal de alerta.
+Inicialmente, los daños producidos por una exposición prolongada no son permanentes, sobre los 10 días desaparecen.
+Sin embargo, si la exposición a la fuente no cesa, las lesiones serán definitivas.
+La audición se irá perdiendo, hasta convertirse en sordera.
+No solo el ruido prolongado es perjudicial, un sonido repentino de 160 dBA, como el de una explosión o un disparo, pueden llegar a perforar el tímpano o causar otras lesiones irreversibles.
+Citando puntualmente las afecciones auditivas que produce el ruido tenemos: Desplazamiento Temporal y Permanente del umbral de audición.
+Consiste en una elevación del umbral producida por la presencia de un ruido, existiendo recuperación total al cabo de un período, siempre y cuando no se repita la exposición al mismo.
+Se produce habitualmente durante la primera hora de exposición al ruido.
+Esta puede causar dilatación de pupilas, fatiga, dolor de cabeza, etc.
+Es el mismo efecto TTS pero agravado por el paso del tiempo y la exposición al ruido.
+Cuando alguien se somete a numerosos TTS y durante largos períodos (varios años), la recuperación del umbral va siendo cada vez más lenta y dificultosa, hasta volverse irreversible.
+El desplazamiento permanente del umbral de audición esta directamente vinculado con la presbiacucia (pérdida de la sensibilidad auditiva debida a los efectos de la edad).
+La sordera producida por el desplazamiento permanente del umbral de audición afecta a ambos oídos y con idéntica intensidad.
+La inteligibilidad de la comunicación se reduce debido al ruido de fondo.
+El oído es un transductor y no discrimina entre fuentes de ruido, la separación e identificación de las fuentes sonoras se da en el cerebro.
+Como ya es sabido, la voz humana produce sonido en el rango de 100 a 10 000 Hz, pero la información verbal se encuentra en el rango de los 200 a 6000 Hz. La banda de frecuencia determinada para la inteligibilidad de la palabra, es decir entender palabra y frase, está entre 500 y 2500 Hz. La interferencia en la comunicación oral durante las actividades laborales puede provocar accidentes causados por la incapacidad de oír llamados de advertencia u otras indicaciones.
+En oficinas como en escuelas y hogares, la interferencia en la conversación constituye una importante fuente de molestias.
+Con el paso de los años, la contaminación acústica se ha convertido en un problema para la salud.
+Es por ello que la industria ha aumentado sus esfuerzos para disminuir la emisión de ruido en fuentes específicas.
+Una opción para facilitar esta determinación de ruido en dichas fuentes, es localizando el punto donde se genera mayor cantidad de energía sonora.
+La contaminación acústica, además de afectar al oído, puede provocar efectos psicológicos negativos y otros efectos fisiopatológicos.
+Por supuesto, el ruido y sus efectos negativos no auditivos sobre el comportamiento y la salud mental y física dependen de las características personales, al parecer el estrés generado por el ruido se modula en función de cada individuo y de cada situación.
+Todos los efectos psicológicos están íntimamente relacionados, por ejemplo:
+Entre otros efectos no auditivos tenemos:
+El ruido produce dificultades para conciliar el sueño y despierta a quienes están dormidos.
+El sueño es una actividad que ocupa un tercio de nuestras vidas y nos permite descansar, ordenar y proyectar nuestro consciente.
+El sueño está constituido por dos tipos: el sueño clásico profundo (no REM —etapa de sueño profundo—, el que a su vez se divide en cuatro fases distintas), y por otro lado está el sueño paradójico (REM).
+Se ha demostrado que sonidos del orden de aproximadamente 60 dBA, reducen la profundidad del sueño, acrecentándose dicha disminución a medida que crece la amplitud de la banda de frecuencias, las cuales pueden despertar al individuo, dependiendo de la fase del sueño en que se encuentre y de la naturaleza del ruido.
+Es importante tener en cuenta que estímulos débiles sorpresivos también pueden perturbar el sueño.
+El ruido produce alteraciones en la conducta momentáneas, las cuales consisten en agresividad o mostrar un individuo con un mayor grado de desinterés o irritabilidad.
+Estas alteraciones, que generalmente son pasajeras, se producen a consecuencia de un ruido que provoca inquietud, inseguridad o miedo en algunos casos.
+En aquellas tareas en donde se utiliza la memoria se ha demostrado que existe un mayor rendimiento en aquellos individuos que no están sometidos al ruido, debido a que este produce crecimiento en la activación del sujeto y esto en relación con el rendimiento en cierto tipo de tareas, produce una sobre activación traducida en el descenso del rendimiento.
+El ruido hace que la articulación en una tarea de repaso sea más lenta, especialmente cuando se tratan palabras desconocidas o de mayor longitud, es decir, en condiciones de ruido, el individuo se desgasta psicológicamente para mantener su nivel de rendimiento.
+Por supuesto que todos los efectos son directamente proporcional al tiempo de exposición de la persona.
+El ruido hace que la atención no se localice en una actividad específica, haciendo que esta se pierda en otros.
+Perdiendo así la concentración de la actividad.
+Se ha observado que las madres embarazadas que han estado desde comienzos de su embarazo en zonas muy ruidosas, tienen niños que no sufren alteraciones, pero si la exposición ocurre después de los cinco o seis meses de gestación, después del parto los niños no soportan el ruido, lloran cuando lo sienten, y al nacer tienen un tamaño inferior al normal.
+Además son más propensos a desarrollar problemas auditivos.
+El ruido repercute negativamente sobre el aprendizaje y la salud de los niños.
+Cuando los niños son educados en ambientes ruidosos, estos pierden su capacidad de atender señales acústicas, sufren perturbaciones en su capacidad de escuchar, así como un retraso en el aprendizaje de la lectura y la comunicación verbal.
+Todos estos factores favorecen el aislamiento del niño, haciéndolo poco sociable.
+Hace varios años en las normativas de protección del ambiente no se consideraba el contaminante al ruido, pero pese a que la industrialización y en sí ciudades y países han ido creciendo y evolucionando, en todos los países del mundo se han elaborado normas y estatutos que se encargan de la protección del medio ambiente contra el exceso de ruido.
+Los esfuerzos más serios de las comunidades internacionales se traducen en la profundización de los estudios sobre causas y origen (fuentes), deterioro y políticas de prevención y control de la contaminación sonora.
+En Bolivia, su reglamentación se ha basado en los estatutos de los organismos internacionales, incluyendo disposiciones de defensa y preservación de los recursos.
+En el 92 se dicta la ley 1333 general del Medio Ambiente, moderna normativa que incluye la EIA con inclusión de disposiciones de defensa y preservación de los recursos naturales.
+En relación con el control del ruido ambiental, en Chile, se ha avanzado regulando las fuentes fijas como industrias, talleres, bares, etc., con el Decreto Supremo n.º 146 de 1997 del Ministerio Secretaría General de la Presidencia y las fuentes móviles más ruidosas, como los buses de locomoción colectiva, con el Decreto Supremo n.º 129 de 2002 del Ministerio de Transportes y Telecomunicaciones.
+Además, el 15 de septiembre de 1999 se aprueba el reglamento sobre condiciones sanitarias y ambientales básicas en los lugares de trabajo que en su Título IV, Párrafo III, Artículos 70 al 82, regula la exposición al ruido en el trabajo.
+En Ecuador no se ha determinado normativa específica a la contaminación sonora.
+En algunos decretos generales de protección del ambiente se han hecho alusiones pequeñas a este tipo de contaminación.
+En la ciudad de Quito se emitió la ordenanza metropolitana 123 el 5 de julio de 2004 denominada La ordenanza para la prevención y control de la contaminación por ruido, sustitutiva del capítulo II para el control del ruido, del título V del libro segundo del código.
+A nivel autonómico podemos destacar:
+En Andalucía, el Decreto 6/2012, de 17 de enero, por el que se aprueba el Reglamento de Protección contra la Contaminación Acústica en Andalucía, y se modifica el Decreto 357/2010, de 3 de agosto, por el que se aprueba el Reglamento para la Protección de la Calidad del Cielo Nocturno frente a la contaminación lumínica y el establecimiento de medidas de ahorro y eficiencia energética.
+El ruido en las ciudades es un problema que se aborda desde muy variadas posiciones en España.
+Más que una cuestión de salud, suele tratarse como un problema político e incluso ético.
+Numerosas encuestas e informes de expertos, señalan el ruido de las actividades de ocio (música callejera, conciertos, botellones), y no otros ruidos, como uno de los principales causantes de la contaminación acústica.
+La música alta, el botellón o los pubs y discotecas aglutinan el mayor número de críticas por parte de los ciudadanos y políticos de los centros urbanos españoles, como causantes del ruido que impide llevar una vida más saludable a las personas.
+En este sentido, el jefe de Servicio de Información Geográfica del Instituto de Cartografía de Andalucía, Antonio Fajardo de la Fuente, culpaba en un artículo de la revista Amigos de los Museos, a los jóvenes que hacían botellón y a las motocicletas con escape libre, de la excesiva contaminación acústica que había en el municipio sevillano de Osuna.
+Sin embargo, hay estudios que demuestran que hay otros elementos que pueden generar más ruido que los bares, locales de fiestas, concentraciones callejeras, etc. De esta forma, los coches y las motocicletas causan el 47 % del ruido que se genera en las ciudades españolas, por solo el 6 % que generan los peatones o el 2,2 % que producen los perros.
+Otros estudios concluyen que los taladradores de las obras o el paso de los aviones por encima de los edificios, generan hasta 130 decibelios (dB) (el umbral del dolor está en 140 según la OMS), mientras que el ruido de discotecas es de 110 dB y el de una conversación en la calle, de 50 db de media.
+Con esto, se concluye que, pese al pensamiento generalizado en muchas capas de la población, no son los jóvenes ni las actividades de ocio los principales causantes de la contaminación acústica en las ciudades españolas.
+A pesar de esto, las normativas y leyes se empeñan en limitar el ruido en estos ámbitos antes que en otros más ruidosos.
+En 1976 Venezuela establece la Ley Orgánica del Ambiente la cual promulga los principios rectores para la conservación, defensa y mejoramiento del ambiente en beneficio de la calidad de vida.
+En el artículo 88 de esta ley, impone pena de arresto "a quienes dentro de parques nacionales, monumentos nacionales, reservas o refugios de fauna silvestre: Inc. 2: Utilicen radiorreceptores, fonógrafos o cualquier instrumento que produzca ruido que por su intensidad, frecuencia o duración fuesen capaces de causar daño o perturbar la calma y tranquilidad de esos lugares. Inc. 10: Perturbar conscientemente a los animales por medio de gritos, ruidos, proyecciones de piedras, derrumbes provocados o cualquier otro medio".
+El artículo 101 establece que quien, contraviniendo las disposiciones legales dictadas por autoridad competente, produzca o permita la producción de ruidos que por intensidad, frecuencia o duración fuesen capaces de causar daño o malestar a las personas, será sancionado con arresto de 15 a 30 años y multa de 15 a 30 días de salario mínimo.
+Si el ruido es producido en zonas o bajo condiciones capaces de aumentar el daño y malestar de las personas, la pena será aumentada al doble.
+Bolivia, Colombia, Perú, Ecuador y Venezuela firmaron en Cartagena de Indias el Acuerdo Acta de Barahona" con fecha 5 de diciembre de 1991, creando un Comité Ambiental Andino con base en la primera reunión de actividades nacionales del medio ambiente celebrada en Caracas en agosto de 1991. Su objeto fue centralizar los esfuerzos sobre conservación del medio y disminución de contaminación a nivel regional, nacional y municipal en la zona, sin que hasta el presente, conforme a informes diplomáticos, el mismo se haya puesto en práctica.
+Con el fin de erradicar y atenuar un poco los efectos del exceso de ruido en las diferentes partes del planeta, muchos especialistas en el tema han planteado algunos métodos para estos: en algunos casos se habla de la elaboración de un mapa acústico, en el cual se encierran medidas y análisis de los diferentes niveles sonoros de diversos puntos de la ciudad, haciendo énfasis en el sonido provocado por el tráfico sin olvidar otro tipo de emisores de ruido.
+Constituye uno de los métodos más eficientes y a la vez económicos.
+Se trata de los denominados tapones auditivos (o conchas acústicas), que tienen la capacidad de reducir el ruido en casi 20 dB, lo cual permite que la persona que los usa pueda ubicarse en ambientes muy ruidosos sin ningún problema.
+Muy usado por los operarios y demás trabajadores de algunas industrias ruidosas.
+Su utilización consiste en ubicarlos en lugares estratégicos, de forma que puedan cumplir con su función eliminando aquellos componentes de ruido que no deseamos escuchar.
+Entre los materiales que se usan tenemos: resonadores fibrosos, porosos o reactivos, fibra de vidrio y poliuretano de célula.
+La función principal de estos materiales es la de atrapar ondas sonoras y posteriormente transformar la energía aerodinámica en energía termodinámica o calor.
+A la hora de seccionar el material adecuado, de acuerdo a la aplicación requerida, debe tenerse en cuenta el coeficiente de absorción sonora del material, la cual es un dato que debe brindar el fabricante.
+Su función principal es la de evitar la transmisión de ruido de un lado a otro de su cuerpo físico.
+Su mayor utilidad se encuentra en áreas con un alto nivel de ruido.
+Su desempeño se basa en la eliminación de propagación de ondas y contaminación sonora de áreas contiguas de producción.
+En este caso, la selección de una barrera acústica determinada se basa en el coeficiente de transmisión de sonido, traducido en la cantidad de potencia sonora que la barrera puede contener.
+Una barrera acústica es una especie de cortina transparente de vinil o poliuretano de célula abierta.
+También se usan paneles metálicos con altos índices de absorción.
+Los aislamientos se hacen en secciones industriales ruidosas,su función básica es la de disipar la energía mecánica asociada con las vibraciones.
+Su foco de acción se concentra en zonas rígidas de la maquinaria en cuestión, los cuales son los puntos donde se generan vibraciones y donde se promueven el colapso de ondas sonoras.
+En la actualidad, muchos fabricantes de maquinaria ruidosa desde secadores hasta refrigeradores, han adoptado medidas de este tipo, conscientes del gran perjuicio que puede causar a la salud humana.
+Pese a su gran capacidad de controlar niveles muy altos de ruido por medio del aislamiento de la fuente emisora del mismo, del resto de la fuerza laboral, son poco utilizadas en la industria.
+Estas casetas permiten que maquinarias industriales emisoras de un alto nivel de ruido desempeñen su función bajo niveles de ruido tolerables.
+La reducción del ruido se debe llevar a cabo siguiendo la secuencia de medidas a tomar que se muestra a continuación, ordenadas de mayor a menor eficacia y de un aspecto colectivo a uno individual:

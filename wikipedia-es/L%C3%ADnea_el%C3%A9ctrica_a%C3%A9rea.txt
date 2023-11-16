@@ -1,0 +1,7 @@
+Una línea eléctrica aérea es una infraestructura usada en la transmisión y la distribución de energía eléctrica para el transporte de este tipo de energía a grandes distancias.
+Consiste en varios conductores (normalmente múltiplos de tres) suspendidos por torres o postes.
+Puesto que la mayoría del aislamiento es proporcionado por el aire, las líneas aéreas de alta tensión son generalmente el método más barato de transmisión de energía en grandes proporciones.
+Las torres de soporte de las líneas eléctricas están hechas de madera (natural o laminada) o, más habitualmente, de acero (ya sean estructuras reticulares o palos tubulares).
+Los conductores de alambre desnudo en la línea son generalmente de aluminio (ya sean lisos o reforzadas con acero, o materiales compuestos como el carbono y la fibra de vidrio), aunque a veces se utilicen cables de cobre en las redes de distribución de media y sobre todo baja tensión.
+Un objetivo importante del diseño de las líneas eléctricas aéreas es mantener la separación adecuada entre los conductores energizados y el suelo para intentar evitar el contacto, muy peligroso, con la línea, y para proporcionar un soporte fiable para los conductores, resistente a tormentas, cargas de hielo, terremotos y otras causas de daños potenciales.
+Hoy en día, las líneas aéreas se usan, de forma rutinaria, para voltajes superiores a los 765.000 voltios (765KV) entre conductores, e incluso es posible en algunos casos a tensiones mayores.

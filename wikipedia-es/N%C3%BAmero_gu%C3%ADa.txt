@@ -1,0 +1,14 @@
+En fotografía, el número guía de un flash electrónico es una manera de valorar la intensidad de destello de un flash.
+Está basado en dos conceptos: la ley inversa del cuadrado, que explica que una iluminación a distancia doble es la cuarta parte de intensa; y que un número f de la mitad de valor significa una imagen cuatro veces más luminosa.
+Con estas dos ideas, se puede explicar que para un mismo flash, el número f multiplicado por la distancia a la escena es un número constante para una misma emulsión.
+Por ello ese número equivale al valor de la máxima distancia (expresada en metros o pies) entre el flash (a máxima potencia en caso de poder regularse) y la escena u objeto a fotografiar, para una apertura de f/1,y una sensibilidad ISO 100, que permita obtener una exposición correcta en condiciones óptimas.
+Números guía más altos son debidos a flashes más potentes o a emulsiones más sensibles.
+Para una fotografía óptima con flash se conjugan una serie de variables, por lo que la fórmula completa queda:
+Distancia = NG * / número f
+Por ejemplo, un flash con número guía de 24 m a ISO 100 nos informa de que un plano situado a 6 m estará adecuadamente iluminado con una apertura de f/4, (pues 24 = 6 × 4).
+Para el mismo número guía, y una apertura de f/8, el flash debería estar a 3 m del sujeto (pues 24 = 3 × 8).
+En caso de alterar la sensibilidad, podemos calcular la variación del mismo teniendo en cuenta que si la sensibilidad se multiplica por n, el número guía se multiplica por \sqrt{n}.
+Por ejemplo, un flash con NG = 24 a 100 ISO, tendría NG = 48 a 400 ISO (pues 48 = 24 × \sqrt{4}).
+Un flash dotado de cabezal zoom puede adaptar el ángulo abarcado por el destello para iluminar una zona amplia en longitudes focales cortas (asociadas a grandes angulares) o emitir un haz estrecho en longitudes focales largas (posiciones de teleobjetivo).
+En ese caso, el flash llevará asociado un número guía para cada longitud focal.
+Si el fabricante resume la tabla con un solo número, suele dar el mayor de ellos, asociado a la distancia focal más larga.

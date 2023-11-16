@@ -1,0 +1,29 @@
+Los pronombres relativos son un tipo de pronombre que se relacionan con un referente anterior o antecedente, e introducen una oración subordinada relativa.
+Usualmente se considera que los pronombres relativos ocupan la posición del especificador de la oración, y por tanto la oración de relativo que encabezan puede ser vista como un sintagma complementante.
+Las lenguas indoeuropeas introducen las oraciones subordinadas adjetivas mediante pronombres relativos, aunque no todas las lenguas del mundo poseen pronombres relativos de este estilo que introducen la subordinadas adjetivas.
+En las lenguas con pronombres relativos que introducen subordinadas adjetivas estos pronombres tienen una doble función: además de introducir la oración, también cumplen una función sintáctica en ella.
+Ejemplo:
+La proposición subordinada adjetiva se encuentra entre corchetes.
+El pronombre relativo que, además de hacer de complementador que introduce la subordinada adjetiva, está cumpliendo una función gramatical en ella: la función de sujeto.
+Otros ejemplos de oraciones de relativo con otras funciones diferente de las de sujeto son:
+El hecho de que el pronombre relativo tenga una función dentro de la oración se refleja en el hecho de la existencia de concordancia, o en que pueda ir precedido de adjetivos:
+Obsérvese que en estas dos últimas oraciones el número plural del pronombre relativo concuerda con el número del verbo de la oración subordinada y también con el número del antecedente.
+En las lenguas indoeuropeas con caso morfológico el pronombre relativo concuerda en género y número con el antecedente, aunque recibe el caso de acuerdo con la función que desempeña dentro de la oración subordinada.
+En español cuyo, -a funciona de forma de genitivo de que, cual.
+En latín las siguientes oraciones muestran diferentes casos morfológicos del pronombre relativos dados por su función dentro de la oración subordinada:
+Aquí qua tiene género femenino y toma caso ablativo, mientras que el siguiente pronombre relativo quae es también femenino pero toma caso nominativo.
+En español pueden hacer de nexo subordinante de la oración adjetiva los siguientes pronombres:
+y el adjetivo
+Otro tipo de nexo relativo son los llamados "adverbios relativos": donde, cuando, como.
+Ejemplos:
+Este sistema de pronombres del español es el que se encuentra, con ligeras variaciones en la mayoría de las lenguas románicas.
+En gran cantidad de lenguas indoueropeas existen pronombres relativos derivados de las forma proto-indoeuropea *kwe-/ *kwo-.
+A partir de estas formas se desarrollaron formas específicas que variaban según género, número y caso.
+El latín es un ejemplo bastante típico del conjunto máximo de formas que pueden existir:
+En inglés existen pronombres relativos derivados del proto-indoeuropeo *kwe-/ *kwo- como las formas which, who, ... junto con otras formas de creación más reciente como that.
+En inglés las oraciones de relativo pueden ser introducidas por alguno de los pronombres relativos, pero pueden prescindir del pronombre relativo siempre y cuando se trate del objeto y no del sujeto de la cláusula de relativo:
+Esta constituye una innovación del inglés respecto a otras lenguas indoeuropeas, las cuales retienen la obligatoriedad de un pronombre relativo para introducir las oraciones subordinadas adjetivas.
+Algunas como el náhuatl o las lenguas altaicas carecen de pronombres relativos, aunque no por ello dejan de tener oraciones subordinadas de relativo.
+El turco es un ejemplo interesante, porque además de la forma original de formar las oraciones de relativo sin relativo (1a) por influencia del persa, que es una lengua indoeuropea, ha desarrollado oraciones de relativo introducidas por pronombres relativos (ki) como (1b):
+El euskera también carece de pronombres relativos y en su lugar usa un clítico verbal para marcar una oración de relativo.
+La oración (2a) es una oración completa mientras que (2b) es un sintagma nominal complementado por una oración de relativo:

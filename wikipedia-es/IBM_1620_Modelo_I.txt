@@ -1,0 +1,35 @@
+El IBM 1620 Modelo I fue la primera implementación del ordenador para uso científico IBM 1620, introducido en 1959.
+Esta unidad (generalmente llamada solo "1620" hasta la introducción del Modelo II) fue producida tan económica como la IBM la pudo fabricar para mantener un precio de venta bajo.
+Una revista industrial (Datamation) mencionó que el 1620 era el primer ordenador de IBM cuyo sistema básico podría ser arrendado por un importe mensual que era numéricamente más pequeño que su número de modelo.
+Las primeras 20.000 posiciones decimales de la memoria de núcleo Magnético eran internas a la CPU (lo que redujo el espacio necesario para el sistema básico).
+La expansión a 40.000 o a 60.000 posiciones decimales requerían la adición de una unidad de memoria IBM 1623.
+El tiempo del ciclo de memoria era de 20μs (o lo que es lo mismo, la velocidad de la memoria era de 50kHz = 1/20 de un MHz).
+Una operación de Almacenamiento en Memoria del Registro de Dirección (Memory Address Register Storage o MARS) en la memoria de Núcleos para leer, borrar o escribír tomaba 2 μs, como la lectura era destructiva, cada operación relacionada de escritura se hacía automáticamente (pero no necesariamente de forma inmediata) precedida por cada operación de lectura o borrado del mismo "registro(s)" durante el ciclo de memoria de 20 μs.
+La velocidad de reloj del procesador central era de 1 MHz, que estaba dividido por 20 por un contador en anillo de 10 posiciones para proporcionar el sistema que señales de tiempos y de control.
+Las instrucciones tomaban 8 ciclos de memoria (160 μs) para su recuperación y un número variable de ciclos de memoria para su ejecución.
+El Direccionamiento Indirecto añadía 4 ciclos de memoria (80 μs) para cada nivel de indirection.
+La máquina de escribir eléctrica que hacía de impresora de consola era una IBM Modelo B1 modificada, que podía escribir a tan solo 10 caracteres por segundo.
+(Esta máquina de escribir tenía el 'hábito' de romper el martillo "0" y lanzarlo por la sala a mitad de un volcado de memoria largo).
+El ordenador era decimal, no disponía de una ALU convencional por hardware, por lo que toda la aritmética se ejecutaba con tablas de búsqueda en la memoria de núcleos magnéticos. La adición y la sustracción utilizaban una tabla de 100 posiciones (en dirección 00300..00399).
+La multiplicación utilizaba una tabla de 200 posiciones (en dirección 00100..00299).
+En la división básica de la máquina se usaban subrutinas por software, pero podría instalase un hardware opcional de división, utilizando un algoritmo de sustracciones repetidas.
+Adicionalmente instrucciones de aritmética en punto flotantes eran otra opción disponible cuando se instalaba el módulo de dividisión.
+En general se pensaba que a partir de este modelo se utilizaban las tablas de búsqueda en memoria, y que sencillamente cambiando los contenidos de estas tablas permitían al programador usar aritmética en cualquier base de 2 a 10.
+Esto es solo parcialmente cierto cuando el hardware incluía sustracción en complemento a diez (y para la adición con números de signo opuesto).
+Por tanto, únicamente la adición de números sin signo podrían ser correctamente ejecutados en bases 5 a 9.
+Para la suma son signo completa y la sustracción en bases 2 a 4 requería un detallado entendiendo del hardware para crear una "tabla" de suma plegada que falsificaría el uso del complemento y lo llevaba a la lógica.
+También la tabla de sumas tendría que ser recargada para la operación en base 10 normal cada vez que los cálculos de direcciones fueran requeridos por el programa, y luego volver a cargar la tabla otra vez para alternar la base.
+Esto hizo el "truco" un poco menos útil para cualquier aplicación práctica.
+La máquina de escribir era una de oficina estándar eléctrica de IBM, con un interface constituido por un conjunto de relés.
+Podía escribir 10 caracteres por segundo, y había un conjunto de instrucciones que se escribían en la máquina o se leían desde ella.
+Las instrucciones generales RN (leer numérico) y WN (escribir numérico) eran instrucciones en lenguaje ensamblador que suministraban el código de "dispositivo" del segundo campo de dirección, y el código de control del dígito de orden bajo del segundo campo de dirección.
+Para simplificar la entrada y salida había dos instrucciones:
+La máquina de escribir eléctrica IBM Modelo B1 de 10 cps fue reemplazada en modelos más tardíos por una IBM Selectric de bola, que podía escribir a casi 15 caracteres por segundo.
+La unidad de "salida" estándar para un programa era una perforadora de tarjetas, que era más rápida que la máquina de escribir.
+Cuando para las tarjetas se usaba la unidad calculadora mecánica IBM 407, esta podía ser programado para imprimir dos tarjetas, siendo capaz de utilizar las columnas de impresión adicionales disponibles en la 407.
+Toda la salida era síncrona, y el procesador estaba parado mientras el dispositivo de E/S producía su salida, así que la máquina de escribir podía consumir mucho más tiempo que el propio programa durante el tiempo de ejecución.
+En modelos más tardíos, una impresora de línea IBM 1443 podría ser añadida, la que podría imprimir más rápido de lo que el dato podría ser perforado en las tarjetas.
+La impresora de línea podría imprimir 120 o 144 columnas.
+El ancho de carácter era fijo, así que se cambió la medida del papel; la impresora imprimía a 10 caracteres por pulgada (10 cpi), así que una impresora podría imprimir un máximo de 12 pulgadas o 14.4 pulgadas de texto.
+Además, la impresora disponía de un buffer por lo que el retraso del proceso por la E/S se redujo.
+Aun así, la instrucción de impresión bloqueaba el proceso hasta que la línea no era completada.

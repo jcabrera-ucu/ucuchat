@@ -1,0 +1,14 @@
+La Base Estándar para Linux (Linux Standard Base, abreviado LSB), es un proyecto conjunto de varias Distribuciones de Linux bajo la estructura organizativa del Free Standards Group con el objeto de crear y normalizar la estructura interna de los sistemas operativos derivados de Linux.
+La LSB está basada en la Especificación POSIX, la Especificación Única de UNIX (Single UNIX Specification) y en varios otros estándares abiertos, aunque extiende estos en ciertas áreas.
+De acuerdo a la definición de la propia LSB:
+Mediante un proceso de certificación es posible obtener la conformidad a la LSB de un producto.
+Dicha certificación la lleva a cabo el Open Group en colaboración con el Free Standards Group (Grupo de Estándares Libres).
+Como ejemplo, la LSB especifica: bibliotecas estándar, un conjunto de órdenes y utilidades que extienden el estándar POSIX, la estructura jerárquica del sistema de archivos, los niveles de ejecución, y varias extensiones al sistema gráfico X Window y Wayland.
+La LSB ha sido criticada por no considerar aportaciones de proyectos externos a la esfera de influencia de las compañías miembros, especialmente del proyecto Debian.
+Por ejemplo, la LSB especifica que los programas deberían ser distribuidos en el formato RPM de Red Hat, el cual fue inventado mucho después del formato de empaquetado deb del proyecto Debian e ignorando otros sistemas de paquetes como Pacman o PET.
+Es muy poco probable que los programadores del proyecto Debian cambien su formato, el cual consideran superior a RPM (al igual que otros programadores).
+Sin embargo, la mayor parte de la crítica recibida por este tema surge del malentendido en la sugerencia de este uso obligado del formato RPM: el estándar no dicta cuál formato de empaquetado debe ser usado por el sistema operativo, sino solamente que un formato de empaquetado debe ser soportado de manera que los paquetes de otros programadores puedan ser instalados en un sistema que sigue el estándar LSB.
+Debido a que Debian admite la LSB, mediante el paquete homónimo, el problema se solventa y el usuario de un sistema Debian sólo necesita usar el programa alien para transformar un paquete de formato RPM en un paquete de formato nativo (deb) e instalarlo.
+Es una operación que funciona la mayoría de las veces.
+En otras áreas la operación de la LSB es menos controvertida, y ha sido recibida con considerable gratitud.
+Actualmente soportan la Linux Standard Base los siguientes programas de certificación:

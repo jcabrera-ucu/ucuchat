@@ -1,0 +1,14 @@
+Diocles (Διοκλῆς, ca. 240 a. C. – ca. 180 a. C.) fue un matemático y geómetra de la Antigua Grecia.
+Aunque se conoce poco sobre la vida de Diocles, se sabe que fue un contemporáneo de Apolonio de Perge y que destacó a finales del siglo tercero y principios del segundo A.C.
+Se cree que Diocles fue la primera persona en comprobar la propiedad focal de la parábola.
+Su nombre se asocia a la curva geométrica llamada Cisoide de Diocles, la cual Diocles introdujo para resolver el problema de duplicación del cubo.
+Proclo, el último de los grandes filósofos griegos y que vivió alrededor del 450, escribió importantes comentarios sobre el libro I de los Elementos.
+En ellos se refirió a la curva, la cual fue atribuida a Diocles por Gémino de Rodas a principios del.
+Un interesante estudio de Diocles titulado Sobre los espejos ustorios fue preservado por Eutocio en sus comentarios sobre Arquímedes Sobre la esfera y el cilindro.
+Históricamente, Sobre los espejos ustorios ha tenido una gran influencia en los matemáticos árabes, particularmente en Alhacén, matemático, físico y astrónomo musulmán del  considerado creador del método científico.
+El tratado contiene dieciséis proposiciones que fueron probadas mediante secciones cónicas.
+Uno de los fragmentos contiene las proposiciones siete y ocho, que es equivalente a la solución al problema de dividir una esfera por un plano que dé como resultado dos volúmenes que mantengan una cierta relación.
+La proposición diez da una solución al problema de duplicación del cubo.
+El problema es equivalente a resolver una ecuación cúbica concreta.
+Otro fragmento contiene las proposiciones once y doce, y usa la cisoide para resolver el problema de encontrar dos medias geométricas entre dos magnitudes.
+Ya que el tratado cubre más temas aparte del espejo ustorio, podría ser que Sobre los espejos ustorios sea un agregado de tres trabajos cortos de Diocles.

@@ -1,0 +1,15 @@
+IEEE STANDARD 1855-2016, IEEE Standard for Fuzzy Markup Language (FML), es un estándar técnico desarrollado por la IEEE Standards Association.
+FML permite modelar un sistema de lógica difusa de manera legible e independiente del hardware.
+FML se basa en eXtensible Markup Language ( XML ).
+Los diseñadores de sistemas difusos con FML tienen una metodología unificada y de alto nivel para describir sistemas difusos interoperables.
+IEEE STANDARD 1855-2016 utiliza el lenguaje de definición del esquema XML W3C para definir la sintaxis y la semántica de los programas FML.
+Antes de la introducción de FML, los profesionales de lógica difusa podían intercambiar información sobre sus algoritmos difusos agregando a sus funciones de software la capacidad de leer, analizar correctamente y almacenar los resultados de su trabajo en una forma compatible con el Lenguaje de control difuso (FCL) descrito y especificado por la Parte 7 de IEC 61131.
+FML permite a las personas codificar sistemas difusos a través de una colección de etiquetas semánticas correlacionadas que modelan los componentes de un controlador difuso clásico, como la base de conocimiento, la base de reglas, las variables difusas y las reglas difusas.
+Por lo tanto, las etiquetas FML utilizadas para construir un controlador difuso representan el conjunto de lexemas utilizados para crear expresiones difusas.
+Para diseñar un lenguaje basado en XML bien formado, un esquema XML describe una gramática libre de contexto FML que define el nombre, el tipo y los atributos que caracterizaron cada elemento XML.
+Sin embargo, dado que un programa FML representa solo una vista estática de un controlador de lógica difusa, el llamado traductor de lenguaje de hoja de estilo extensible ( XSLT ) cambia esta vista estática a una versión computable.
+De hecho, los módulos XSLT pueden convertir el controlador difuso basado en FML en un lenguaje informático de uso general utilizando un archivo XSL que contiene la descripción de la traducción.
+En este nivel, el control es ejecutable para el hardware.
+En resumen, FML está compuesto esencialmente por tres capas:
+IEEE 1855 fue el primer estándar patrocinado por la IEEE Computational Intelligence Society.
+(https://standards.ieee.org/findstds/standard/1855-2016.html)

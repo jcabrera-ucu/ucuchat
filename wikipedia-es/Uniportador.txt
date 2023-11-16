@@ -1,0 +1,13 @@
+Un uniportador es una proteína de transporte de membrana que transporta una sola especie de sustrato (cargado o no) a través de una membrana celular.
+Puede usar difusión facilitada y transporte a lo largo de un gradiente de difusión o transporte contra uno con un proceso de transporte activo.
+Los uniportadores incluyen tanto transportadores como canales iónicos, y se denominan transportadores facilitados, lo que sugiere un movimiento a favor de un gradiente de concentración o electroquímico.
+Las proteínas transportadoras uniportadoras funcionan uniéndose a una molécula de sustrato a la vez.
+Los canales uniportadores se abren en respuesta a un estímulo y permiten el flujo libre de moléculas específicas.
+Existen varias formas de regular la apertura de canales uniportadores:
+Los uniportadores se encuentran en las mitocondrias y las neuronas.
+El uniportador en la mitocondria es responsable de la absorción de calcio.
+Los canales de calcio se utilizan para la señalización celular y el desencadenamiento de la apoptosis.
+El uniportador de calcio transporta calcio a través de la membrana mitocondrial interna y se activa cuando el calcio supera cierta concentración.
+Los canales de potasio dependientes de voltaje también son uniportadores que se pueden encontrar en las neuronas y son esenciales para los potenciales de acción.
+Este canal es activado por un gradiente de voltaje creado por bombas de sodio-potasio.
+Cuando la membrana alcanza un cierto voltaje, los canales se abren, lo que despolariza la membrana, lo que hace que el potencial de acción se envíe por la membrana.

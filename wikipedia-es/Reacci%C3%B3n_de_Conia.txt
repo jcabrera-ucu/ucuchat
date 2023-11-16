@@ -1,0 +1,17 @@
+La reacción de Conia es una reacción intramolecular, térmica o catalizada por un ácido de Lewis de compuestos carbonílicos insaturados para producir productos cíclicos.
+En la reacción de Conia, la enolización es seguida por un cambio concertado de 1,5-hidrógeno:
+Por lo tanto, la Reacción de Conia es una variante intramolecular de la Reacción Eno, la cual es generalmente intermolecular.
+Las reacciones que generan ciclopentano y derivados de ciclohexano con buenos rendimientos normalmente se producen a 350 °C, pero los anillos de tamaño mediano (7, 8 o 9) necesitan temperaturas más altas y el rendimiento es considerablemente menor.
+Cada paso de la reacción de Conia es reversible, como lo demuestran algunas reacciones retro-Conia de los ciclobutanos donde el producto principal es el isómero de cadena abierta.
+La estereoquímica de la ciclación se ve afectada por la disposición espacial de los dos centros reactivos, y esto depende principalmente de la configuración en el centro de enol y los diversos efectos estéricos que surgen de la conformación de la cadena en el estado fundamental.
+En los casos en los que el producto cíclico todavía es enolizable, la posterior enolización da como resultado una epimerización que puede modificar la relación del producto y, por lo tanto, no se puede llegar a una conclusión simple con respecto a la estereoselectividad.
+Sin embargo, la necesidad de altas temperaturas limita severamente la utilidad sintética de la reacción de Conia-Ene.
+Una versión catalítica que se desarrolla a temperatura ambiente y en condiciones neutras aumentaría drásticamente la utilidad de la reacción.
+En 2004, Toste informó una versión catalizada con oro de fosfina (I) para la adición intramolecular de un β-cetoéster a un alquino inactivado.
+Para esta reacción, se han desarrollado dos hipótesis mecanicistas.
+Para este sistema, los experimentos de etiquetado de deuterio representados a continuación respaldaron un mecanismo que involucra la adición de enol a un complejo de Au-alquino (mecanismo A arriba).
+El rango de los sustratos incluye precursores de cetonas tales como acetales y enoléteres, que también regeneran la cetona a alta temperatura.
+Sin embargo, los β-cetoésteres y las β-dicetonas insaturados también son materiales de partida adecuados.
+Su carácter enólico más fuerte permite que las reacciones procedan a temperaturas más bajas.
+Para sustratos acetilénicos, la migración de doble enlace a menudo ocurre para favorecer un mayor grado de sustitución.
+No se observa dicha migración cuando un grupo metilo terminal estabiliza el enlace doble exo, o si la reacción se lleva a cabo a temperaturas más bajas, por ejemplo con una β-dicetona como sustrato.

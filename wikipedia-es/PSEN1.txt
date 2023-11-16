@@ -1,0 +1,7 @@
+PSEN1 o presenilina-1, es una proteína transmembranal que en la especia humana está codificada por el gen PSEN1 situado en el cromosoma 14.
+La preselina-1 es una subunidad de la enzima gamma secretasa, tiene la función de facilitar la proteólisis de numerosa proteínas en la célula.
+Dentro de la familia de las presenilinas, se han descrito dos variantes: la presenilina 1 o PSEN1 y la presenilina 2 o PSEN2.
+La presenilina 1 juega un importante papel en la degradación de la proteína precursora amiloidea (APP).
+La APP es el precursor del β-amiloide, un péptido de 42 aminoácidos, que es el principal componente de las placas amiloideas presentes en el tejido cerebral de pacientes que sufren la enfermedad de Alzheimer.
+Las mutaciones en el gen de la presenilina 1, son la causa de algunos de los casos de enfermedad de Alzheimer hereditaria de inicio precoz.
+Sin embargo hay que tener en cuenta que este tipo de enfermedad de Alzheimer, corresponde a menos del 1% del total de pacientes afectos del mal.

@@ -1,0 +1,9 @@
+Newton es una aplicación de administración del correo electrónico para iOS, Android, MacOS, Windows, y Chrome OS, desarrollada por CloudMagic, Inc. La aplicación es conocida por sus capacidades de búsqueda, las capacidades de multiplataforma y la interfaz de usuario.
+Durante el período del 15 de septiembre de 2016, CloudMagic cambió de nombre por Newton Mail con los servicios premium, la agregación de una multitud de nuevas capacidades y funciones.
+El 13 de mayo de 2020, Simform y SoFriendly declararon la adquisición y reinicio del Newton Mail.
+En señal de gratitud por apoyo del servicio el Newton ofrece la prolongación por 3 meses para todas las suscripciones existentes.
+El Newton asegura el apoyo de Gmail, Hotmail, Yahoo!
+Mail, Outlook, iCloud, Google Apps, Microsoft Exchange, Office 365, Mail.com, GMX, AOL e IMAP.
+En la actualidad la aplicación trabaja con todos los dispositivos de iOS 8 y superior, así como con los dispositivos Android 4.0 y superior.
+Newton ha sido una de las primeras aplicaciones para Chrome OS cuando Google decidió trasladar las aplicaciones de Android en Chromebook.
+En marzo de 2014, Newton anunció Cards, que es una función que une los servicios populares, tales como Evernote, Pocket, Trello, Asana, Microsoft OneNote, Salesforce.com, Zendesk, y los integra con la aplicación.

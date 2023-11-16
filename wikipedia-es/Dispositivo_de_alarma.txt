@@ -1,0 +1,10 @@
+Un dispositivo de alarma da una señal de advertencia audible, visual o de otra forma sobre un problema o situación anormal.
+Las alarmas están usualmente equipadas con una sirena.
+Los dispositivos de alarma incluyen:
+Las alarmas tienen la capacidad de causar una reacción de lucha o huida en los humanos; una persona en este estado entrará en pánico y ya sea escapar del peligro o intentar eliminarlo, ignorando el pensamiento racional.
+Una persona en ese estado puede ser caracterizada como alarmada.
+Con cualquier tipo de alarma, existe la necesidad de balancear las falsas alarmas (llamadas "falsos positivos") — la señal activándose sin problema alguno — y la falla al alertar un problema real (llamado "falso negativo").
+Las falsas alarmas pueden gastar recursos y pueden ser peligrosas.
+Por ejemplo, falsas alarmas de incendio pueden desperdiciar tiempo valioso de los bomberos, haciéndoles indisponibles para un incendio de verdad.
+Adicionalmente, el exceso de falsas alarmas puede causar que las personas ignoren las señales de alarma, esto les puede hacer ignorar una emergencia de verdad: La fábula El pastor mentiroso de Esopo ejemplifica este problema.
+La palabra viene del antiguo grito francés A l'arme que significa "A las armas", alertando a los hombres armados para que se preparen para la acción, porque puede haber aparecido un enemigo.

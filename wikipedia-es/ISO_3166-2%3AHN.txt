@@ -1,0 +1,4 @@
+Los códigos ISO 3166-2:HN son la parte de los códigos ISO 3166-2 que se aplican a la República de Honduras.
+Cubre los códigos de los 18 departamentos del territorio hondureño.
+La primera parte es el código ISO 3166-2 es HN para designar a Honduras; la segunda parte es alfabética de dos caracteres que corresponde al nombre del departamento.
+Por su importancia, se ha colocado con código  también a la ciudad de Tegucigalpa, M.D.C. como capital de la república y sede de los tres poderes que conducen al estado.

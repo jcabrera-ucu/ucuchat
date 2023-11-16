@@ -1,0 +1,3 @@
+En geometría, una superficie de Dini es una superficie con curvatura constante negativa que puede construirse girando una pseudoesfera.
+Recibe su nombre de Ulisse Dini y está descrita por las siguientes ecuaciones paramétricas:
+Otra descripción es como un helicoide construido a partir de la tractriz.

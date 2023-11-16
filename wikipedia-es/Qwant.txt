@@ -1,0 +1,8 @@
+Qwant es un motor de búsqueda web creado en Francia por el especialista en seguridad Éric Leandri, el inversor Jean Manuel Rozan y el experto en motores de búsqueda Patrick Constant en 2011.
+Fundada el 16 de febrero de 2013, la empresa lanzó la versión definitiva de su buscador el 4 de julio de 2013.
+La compañía afirma no emplear el seguimiento de usuarios y no personaliza los resultados de búsqueda para evitar que sus usuarios queden atrapados en un filtro burbuja.
+El sitio web procesa más de 10 millones de solicitudes de búsqueda por día y más de 50 millones de usuarios individuales al mes en todo el mundo, repartidos en sus tres puntos de entrada principales: la página de inicio normal, una versión ligera y un portal Qwant Junior para niños que filtra resultados.
+El motor de búsqueda está integrado en la lista de software libre de derechos de autor preconizado por el gobierno francés en el cuadro de modernización global de sus sistemas de información.
+La compañía afirma que gana dinero a través de las comisiones que recibe cuando los usuarios visitan sitios web como eBay y Tripadvisor desde sus resultados de búsqueda.
+En marzo de 2017, varios artículos de prensa sugirieron que los resultados de búsqueda de Qwant se basan principalmente en los resultados de búsqueda de Bing, excepto en Francia y Alemania.
+Qwant también confirmó el uso de la red de publicidad Bing.

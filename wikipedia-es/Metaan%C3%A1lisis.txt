@@ -1,0 +1,66 @@
+El metanálisis es un conjunto de herramientas estadísticas, que son útiles para sintetizar los datos de una colección de estudios.
+El metanálisis se inicia recopilando estimaciones de un cierto efecto (expresado en un índice de tamaño del efecto, como la diferencia de medias tipificada, la razón de riesgo, o la correlación) de cada estudio.
+El metanálisis permite valorar estos efectos en contexto: si el tamaño del efecto es consistente, el efecto del tratamiento puede ser considerado como fuerte y el tamaño del efecto se estima con mayor precisión que con un solo estudio.
+Si el tamaño del efecto varía, esa variación puede ser descrita y, potencialmente explicada.
+El término metanálisis, como tal, fue inicialmente aplicado en las ciencias sociales y en psicología.
+A partir de la década de los 80, se comenzó a aplicar de forma creciente en medicina y a partir de los 90 son muy frecuentes los artículos que describen resultados de metanálisis en publicaciones médicas.
+El término "metanálisis" fue acuñado por Gene V. Glass en 1976, siendo el primer estadístico moderno en señalar que su mayor interés era "a qué hemos llamado el metanálisis de la investigación científica".
+Aun cuando esto le permitiera ser ampliamente reconocido como el fundador del método moderno, no fue sino hasta la década de los 90 cuando la práctica de los metanálisis comenzó a figurar, pero no siempre, como los componentes importantes de un proceso de revisión sistemática.
+La teoría estadística en torno al metanálisis mejoró notablemente gracias al trabajo desempeñado por Nambury S. Raju, Larry V. Hedges, Harris Cooper, Ingram Olkin, John E. Hunter, Jacob Cohen, Thomas C. Chalmers, Robert Rosenthal, y Frank L. Schmidt.
+Conceptualmente hablando, se utiliza un enfoque estadístico para combinar los resultados de múltiples estudios.
+Por tanto, sus ventajas son las siguientes:
+El metanálisis que arrojan varios estudios de corto alcance, no predice los resultados de un solo estudio amplio.
+Algunos han argumentado que una debilidad del método es que los focos de sesgo no están controlados por el método: un buen metanálisis de estudios mal diseñados todavía dará lugar a malas estadísticas.
+Esto significaría que sólo los estudios metodológicamente sólidos deben ser incluidos en un metanálisis, una práctica llamada «síntesis de la mejor prueba».
+Otros analistas incluirían estudios más débiles, y añadirían una variable de predicción a nivel de estudio que refleje la calidad metodológica de los estudios para examinar el efecto de la calidad del estudio sobre el tamaño del efecto.
+Sin embargo, otros han argumentado que el mejor enfoque es el de preservar la información sobre la variación en la muestra del estudio, echando una red tan amplia como sea posible, y que los criterios de selección metodológica introduzcan subjetividad no deseada, anulando el propósito de este enfoque.
+Otro escollo potencial es la confianza en lo disponible de estudios publicados, lo que puede generar resultados exagerados debido a dicho sesgo, pues los estudios que muestran resultados negativos o insignificantes tienen menos probabilidades de ser publicados.
+Para cualquier área de investigación determinado, no se puede saber cuántos estudios han sido ocultados o descartados.
+Este problema resulta en la distribución de tamaños del efecto que están sesgados, asimétricos o totalmente aislados; creando un error común de razonamiento lógico, en el que se sobreestima la importancia de los estudios publicados, mientras otros estudios ni se publican.
+Esto debiera ser considerado en serio al interpretar los resultados de un metanálisis.
+Esto se puede visualizar con un gráfico de embudo, el cual, es un diagrama de dispersión del tamaño de muestra y de efecto.
+Para un cierto nivel de efecto, cuanto menor sea el estudio, mayor es la probabilidad de encontrarlo por casualidad; al mismo tiempo, cuanto mayor sea el nivel de efecto, menor será la probabilidad de que un estudio más grande pueda resultar así de positivo.
+En caso de que muchos estudios negativos no fuesen publicados, los positivos restantes darían lugar a tal gráfico de embudo en el cual el tamaño de efecto es inversamente proporcional al tamaño de muestra, es decir, una parte importante del efecto que se muestra se debe a la posibilidad de que no se equilibra en el diagrama por ausencia de datos negativos no publicados.
+En cambio, al publicarse la mayoría de estudios, el efecto mostró no tener razón para sesgarse por el tamaño de estudio; por lo cual resulta, un gráfico de embudo simétrico.
+Así que, si no hay sesgo de publicación, no habría relación alguna entre el tamaño de muestra y el tamaño de efecto.
+Una relación negativa entre el tamaño de muestra y el de efecto implicaría que los estudios que encontraron efectos significativos fueran más propensos de publicarse y/o enviarse para tal fin.
+Hay varios procedimientos disponibles que intentan corregir el problema de cajón al identificarse, tales como adivinar en la mecha de distribución de los efectos de estudio.
+Los métodos para detectar el sesgo de publicación han sido polémicos ya que suelen tener bajo impacto para detectarlo, incluso pueden generar falsos supuestos bajo ciertas circunstancias.
+Un método conjunto para analizar el sesgo de publicación ha sido propuesto para abatir falsos supuestos y sugerir que el 25% de los metanálisis en psicología podrían tener sesgo de publicación.
+Sin embargo, los posibles problemas de bajo impacto siguen siendo controvertidos y las estimaciones de sesgo podrían ser inferiores a la cantidad real.
+El error más grave en el metanálisis (H. Sabhan) ocurre a menudo cuando la(s) persona(s) realizando un metanálisis tiene(n) una agenda económica, social, o política, como la aprobación o la reprobación legislativa.
+La gente con estos tipos de agendas podrían ser más propensos de utilizar indebidamente los metanálisis debido a sus prejuicios.
+Para conocer las directrices de informes, consulte los artículos de Reporte Preferidos para Revisiones Sistemáticas y los Metanálisis (Preferred Reporting Items for Systematic Reviews and Meta-Analyses - PRISMA, por sus siglas en inglés).
+En general, existen dos tipos de prueba que se pueden distinguir al realizar un metanálisis: los datos iniciales aportados por cada participante (DIP) y los datos de agregado (AD).
+Considerando que los datos iniciales representan la información en bruto procedente de los centros de estudio, los agregados de hecho son más comunes y disponibles (por ej: desde la literatura) y típicamente representan estimaciones globales, tales como razones de ventaja (odds ratio) o riesgos relativos.
+Esta distinción ha incrementado las necesidades de diferentes métodos cuando la prueba es deseada, conduciendo al desarrollo de métodos de una o dos etapas; en los de una etapa, los datos iniciales son simultáneamente modelados mientras representan la agrupación de participantes dentro de los estudios; por el contrario, los métodos de dos etapas, sintetizan los datos agregados de cada estudio y consideran aquí las cargas de estudio.
+Reduciendo los datos iniciales a datos agregados, los métodos de dos etapas pueden incluso aplicarse cuando se cuenta con los datos iniciales; lo que presenta una alternativa de acción al realizar el metanálisis.
+Aunque se cree que los métodos de una o dos etapas arrojan resultados parecidos, estudios recientes han demostrado que dichos métodos pueden a veces llevar a diferentes conclusiones.
+El modelo de efectos fijos ofrece una ponderación de estimaciones seriadas: se suele emplear el inverso de la varianza de cada estimación como peso del estudio, de tal manera que los estudios con muestras mayores tienden a contribuir más a la media ponderada que los estudios con muestras menores.
+En consecuencia, cuando los estudios en un metanálisis son dominados por uno grande, los hallazgos en estudios más pequeños resultan prácticamente ignorados.
+Lo más importante, este modelo supone que todos los estudios incluidos son idénticos: estudian a la misma población, usan la misma variable y definiciones de resultados, etc. Este supuesto es típicamente irreal porque toda investigación es propensa a ser influida por varias fuentes de heterogeneidad; así, los efectos del tratamiento pueden diferir según la configuración regional, los niveles de dosificación, las condiciones de estudio.
+Un modelo común para sintetizar estudios heterogéneos, es el modelo de efectos aleatorios; este es tan solo la media ponderada de los tamaños del efecto de un grupo de estudios.
+El peso que se aplica en este proceso de ponderación con un metanálisis de efectos aleatorios se realiza en dos pasos:
+En un caso extremo en el que la varianza específica sea muy grande puede ocurrir que el peso esté muy condicionado por esa varianza, resultando despreciable en términos prácticos los tamaños muestrales de los estudios.
+De esta forma, la media ponderada será muy cercana a la media aritmética simple, no ponderada.
+En el extremo opuesto está el caso en que la estimación de la varianza específica proporciona el valor cero.
+En este caso los pesos serán iguales a los inversos de las varianzas de muestreo y el resultado será idéntico al que se obtiene bajo el modelo de efecto fijo.
+El modelo de efecto fijo es un caso particular del modelo de efectos aleatorios, que se produce cuando la varianza específica es igual a cero.
+La medida de esta inversión depende únicamente de dos factores: la heterogeneidad de precisión, y la heterogeneidad del tamaño del efecto:
+Por otra parte el método más utilizado para estimar la varianza específica y tener en cuenta la heterogeneidad es el método de DerSimonian-Laird (DL), o método de los momentos, propuesto en 1986.
+Posteriormente se han propuesto otros métodos, como el de máxima verosimilitud restringida (REML), un método iterativo y computacionalmente más intensivo.
+Sin embargo, una comparación entre estos dos modelos (y otros) demostró que hay pocas diferencias prácticas y DL es bastante adecuado en la mayoría de los escenarios.
+La metarregresión es una herramienta utilizada en el metanálisis para examinar el impacto de las variables moderadoras en el estudio del tamaño del efecto utilizando técnicas basadas en regresión.
+La metarregresión es más eficaz en esta tarea, de lo que son las técnicas de regresión estándar.
+En Medicina, un metanálisis es el estudio basado en la integración estructurada y sistemática de la información obtenida en diferentes ensayos clínicos, sobre un problema de salud determinado.
+Consiste en identificar y revisar los estudios controlados sobre un determinado problema, con el fin de dar una estimación cuantitativa sintética de todos los estudios disponibles.
+Dado que incluye un número mayor de observaciones, un metanálisis tiene un poder estadístico superior al de los ensayos clínicos que incluye.
+Los dos principales problemas metodológicos de los metanálisis de ensayos clínicos son:
+Un metanálisis clínico se basa principalmente en una integración o reciclaje entre la información ya obtenida y poder obtener un análisis mayor.
+El primer metanálisis clínico fue realizado por Karl Pearson en 1904, en un intento de superar el problema del reducido poder estadístico de los estudios con pequeños tamaños muestrales; si se analizan los resultados de un grupo de estudios similares, se puede alcanzar una valoración más exacta de los efectos.
+En Estadística, un metanálisis se refiere al conjunto de métodos enfocados a contrastar y combinar los resultados de diferentes estudios; con la esperanza de identificar patrones entre los resultados de estudio, las fuentes de desacuerdo entre dichos resultados, u otras relaciones interesantes que pueden salir a la luz en el contexto de múltiples estudios.
+Además, el metanálisis también se puede aplicar a un solo estudio en los casos en los que hay muchas cohortes que no han pasado por los mismos criterios de selección o en las que las mismas metodologías de investigación no se han aplicado a todas de la misma manera o bajo el mismo condiciones exigentes.
+En estas circunstancias, cada cohorte se trata como un estudio individual y se utiliza el metanálisis para extraer conclusiones de todo el estudio.
+En su más simple forma, se lleva a cabo al identificar una medida común del tamaño de efecto; del cual un promedio ponderado podría ser el dato de salida en un metanálisis.
+La ponderación podría estar relacionada con tamaños de muestra dentro de los estudios individuales.
+Más a menudo, hay otras diferencias entre los que necesitan ser permitidos; pero el objetivo general de un metanálisis radica en estimar con mayor fuerza el tamaño real de efecto, en contraste a uno menos preciso derivado en un solo estudio bajo un sencillo conjunto determinado de supuestos y condiciones.

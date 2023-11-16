@@ -1,0 +1,18 @@
+Lyft es una empresa de transporte estadounidense que conecta conductores y usuarios de coches compartidos por medio de una aplicación móvil.
+Creada en 2012, está presente en más de 350 ciudades de Estados Unidos.
+En abril de 2017, fue valorada en $ 7.500 millones y recaudó US$ 2.610 millones en una ronda de inversiones.
+Ese mismo año de 2017 llegó a Canadá.
+Entre sus competidores se encuentran marcas como Uber o Cabify.
+Lyft fue fundada en el verano de 2012 por Logan Green y John Zimmer como una sección de servicios de Zimride, una empresa de transporte colaborativo que ambos habían fundado en 2007.
+Zimride ofrecía trayectos solidarios entre largas distancias, siempre entre dos ciudades, y conectaba conductores y trayectos a través de una conexión en Facebook.
+La empresa se convirtió poco después de su lanzamiento en el mayor programa de trayectos solidarios de Estados Unidos.
+Logan Green creó Zimride tras compartir el coche con otros estudiantes en un viaje de la Universidad de California en Santa Bárbara hasta Los Ángeles.
+Primero usó un foro en Craigslist, pero la intención era eliminar toda ansiedad en no conocer al conductor o al pasajero.
+Cuando Facebook abrió la API a terceros, Green se puso en marcha.
+Los dos fundadores de la empresa fueron presentados por medio de amigos en común y inicialmente se conocieron en Facebook.
+El nombre de la empresa vino del país Zimbabue, donde durante un viaje en 2005, Green observó habitantes locales compartiendo minivans como taxis con ese nombre.
+La versión de pruebas fue lanzada inicialmente en la Universidad Cornell, donde tras seis meses tenía más del 20% del campus registrado.
+Con la información del perfil de Facebook, los conductores y los pasajeros podían tener información entre ellos.
+En mayo de 2013, el nombre de la empresa cambió de Zimride a Lyft.
+El cambio de nombre se fraguó en un hackathon semanal que descubrió el compromiso y la preferencia de los usuarios.
+El 27 de marzo de 2023, los fundadores de la empresa, Logan Green y John Zimmer, anunciaron que abandonarán sus responsabilidades diarias en la empresa.

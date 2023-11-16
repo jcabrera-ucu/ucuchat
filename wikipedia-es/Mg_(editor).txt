@@ -1,0 +1,4 @@
+mg originalmente llamado MicroGnuEmacs, (nombre que tuvo que ser cambiado a petición de Richard Stallman ), es un editor de texto escrito en el lenguaje de programación C que puede ser utilizado en Windows y en sistemas operativos de tipo Unix.
+Se basa en MicroEMACS pero intenta parecerse más a Emacs a la vez que ocupa poca memoria en el disco y se ejecuta a rápida velocidad.
+Una versión expandida del original ha sido incluida como parte de OpenBSD.
+Actualmente, distribuciones de Linux como ArchLinux y Debian disponen de una versión de mg adaptada a partir de la que está incluida en OpenBSD.

@@ -1,0 +1,29 @@
+La definición estándar (en inglés Standard Definition Television, SDTV) es la señal de televisión que no se puede considerar señal de alta definición (HDTV), ni señal de televisión de definición mejorada (EDTV).
+Es la resolución de vídeo dominante desde el origen de la televisión hasta la aparición de la alta definición.
+El sistema tiene una resolución en torno a 500 líneas horizontales.
+El sistema PAL funciona con una resolución de 720×576, mientras que el sistema NTSC con una proporción de 720×480.
+Utiliza una velocidad de 29,97 cuadros por segundo en NTSC, y de 25 para formato PAL.
+Hasta la aparición de los sistemas digitales, SDTV solo tenía un significado, pero actualmente se usa para referirse a dos sistemas de codificación digital y envío de señales de vídeo:
+Debido a la utilización del acrónimo SDTV para referirse a todo tipo de sistemas que no son HDTV, es habitual la confusión de los términos y clasificar sistemas EDTV como el DVD en el grupo de SDTV.
+RCTV
+''Este artículo trata sobre la Definición Estandar (SD En inglés), Si tratas de buscar información sobre Secure Digital.
+(SD) Véase SD (Secure Digital).''
+Lo que se conoce históricamente como SDTV nace con las emisiones en PAL, SECAM o NTSC (en función del formato utilizado en cada país) y se data a comienzos de los años 1960, cuando se hicieron las primeras emisiones de color en estos formatos.
+Desde sus inicios, la TV analógica no ha sufrido ninguna variación en resolución ni en prestaciones, exceptuando la aparición del teletexto, emitido por vez primera por la BBC en el año 1972.
+A pesar de que el estándar se ha mantenido invariable en los últimos 40 años, la mejora en la calidad de los aparatos electrónicos, tanto emisores como receptores ha permitido que las televisiones actuales muestren la señal con una calidad superior a la de los primeros aparatos de color.
+Posteriormente y por similitudes en la calidad de la imagen, otros sistemas que técnicamente no son SDTV, se han catalogado también como de calidad SDTV.
+Es el caso de los formatos analógicos de almacenamiento de vídeo VHS y Beta y del digital MPEG-1.
+En los últimos años, el acrónimo SDTV se ha utilizado mucho, sobre todo entre los fabricantes de aparatos de televisión y multimedia en general, para remarcar la superioridad de la HDTV e incentivar a los consumidores a sustituir sus aparatos y así disfrutar de imágenes de más calidad.
+La resolución de la SDTV comprende 480 líneas horizontales en el sistema estadounidense NTSC y 576 en los sistemas europeos PAL y SECAM, quedando la relación de aspecto siempre en 4:3.
+Otros formatos como MPEG-1 tienen prestaciones similares, aunque solo se muestran 288 líneas, pero en el modo de barrido progresivo se observa con una calidad bastante similar al PAL o el NTSC.
+La resolución temporal es siempre de 25 imágenes (30 en NTSC) entrelazadas por segundo.
+Estas prestaciones inicialmente se consideraron adecuadas debido a las medidas de los primeros aparatos de televisión, puesto que raramente superaban las 20 pulgadas de diagonal de pantalla.
+No obstante, las limitaciones de la SDTV cada vez se muestran más evidentes en los aparatos modernos, a menudo con diagonales de pantalla de más de 30 pulgadas y electrónicas de mucha más calidad que las de los primeros reproductores.
+Desde la aparición del DVD en el año 1995, progresivamente se ha ido sustituyendo la SDTV por la EDTV, quedando la primera relegada solo a las emisiones analógicas, puesto que sistemas como la televisión digital terrestre o las emisiones por satélite ya emiten en EDTV y es de esperar que en pocos años empiecen a emitir en HDTV.
+No obstante, la cantidad de aparatos que solo admiten SDTV es todavía muy elevada y la sustitución por televisores EDTV o HDTV será bastante lenta, de modo que a pesar de que a partir de las emisiones analógicas y que el resto de sistemas de emisión serán EDTV o HDTV, tanto los receptores de satélite y TDT como los reproductores de BRD y HDDVD continuarán siendo compatibles con aparatos SDTV, rebajando la resolución de la señal y enviándola al aparato en campos entrelazados para así permitir su visualización en aparatos antiguos.
+Cuando una señal de televisión de definición estándar se transmite de manera digital, sus píxeles son rectangulares, y no cuadrados como los usados en monitores de ordenador modernos (o las nuevas implementaciones de televisión de alta definición).
+La tabla inferior resume las relaciones de aspecto de píxel para varios tipos de señal de televisión SDTV.
+Nótese que la imagen real (sea 4:3 o 16:9) siempre está contenida en los 704 píxeles horizontales del centro de la imagen digital, y las bandas de 8 píxeles de ancho izquierda y derecha se descartan antes de emitirse.
+No confundir con el overscan, que se realiza sobre las partes visibles de la imagen.
+En la tabla, resolución sería el tamaño de almacenamiento (SAR), y por tanto, el número de píxeles de la imagen, teniendo en cuenta que no tienen por qué ser cuadrados -y no lo son-.
+La relación de aspecto de píxel siempre es la misma para las resoluciones de 720 y 704 píxeles, porque la parte central de las imágenes de 720 está siempre contenida en los 704 píxeles correspondientes, por el efecto comentado justo antes de la tabla.

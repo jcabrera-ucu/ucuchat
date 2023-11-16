@@ -1,0 +1,40 @@
+Methanohalophilus mahii es una especie de arquea metilotrófica, halófila, y metanógena.
+Su genoma se ha secuenciado.
+Es especies estrictamente anaerobia y viven exclusivamente mediante la producción de metano.
+Methanohalophilus mahii fue aislado por primera vez del Gran Lago Salado en Utah.
+Se encuentrado en ambientes acuáticos de alta salinidad.
+El nombre Methanohalophilus es de methanum que significa "metano" en idioma latín; halo que significa "sal" en idioma griego; y mahii que significa "de Mah" en latín, sobre R.A. Mah, quien hizo una gran cantidad de investigaciones sobre microbios aeróbicos y metanogénicos.
+El tipo de cepa específico se designó como SLP (= ATCC 35705) y actualmente es la única cepa identificada de esta especie.
+En todo, son cuatro especies en el género Methanohalophilus, incluso Methanohalophilus mahii, Methanohalophilus halophilus, Methanohalophilus portucalensis, y Methanohalophilus euhalobius. El pariente más cercano, Methanohalophilus portucalensis, tiene una similitud del 99,8% en la secuencia en todo el genoma a Methanohalophilus mahii.
+Las otras especies de Methanohalophilus tiene menos de 94.7% similitud a Methanohalophilus mahii.
+Todas especies dentro del género son halófilas, metanogenas que contribuyen a ecosistemas marinos y ciclismo mineral.
+En 1988, Robert Paterek y Paul Smith estaban buscando bacterias metanogénicas en el Gran Lago Salado en Utah cuando descubrieron por primera vez la archaeon Methanohalophilus mahii en sus sedimentos anóxicos.
+Las muestras de sedimento se recogieron y almacenaron en tubos de plexiglás, y las muestras de subnúcleo se tomaron con un taladro de corcho de bronce y se transfirieron a botellas de suero de cincuenta mililitros.
+Todas las muestras se procesaron dentro de las cuarenta y ocho horas posteriores a la recolección.
+Los medios utilizados para el aislamiento de las colonias de Methanohalophilus mahii se prepararon utilizando la técnica de Hungate para el aislamiento adecuado de los microbios anaerobios.
+Las diluciones en serie se prepararon en una proporción de 1:10, y los tubos de rollo de agar se inocularon y se incubaron a C durante ocho semanas.
+Las colonias metanógenas aisladas se eligieron al identificar aquellas con una textura espumosa, que denota liberación de gas, y se diluyeron e inocularon repetidamente en tubos con tubos de agar hasta que solo quedó un tipo de morfología de colonia.
+Estas colonias aparecieron como colonias de color amarillo pálido de color crema a amarillo pálido con una textura espumosa general debido a la liberación de gas.
+Se realizaron varios análisis para determinar las características de las células.
+Methanohalophilus mahii Methanohalophilus mahii se clasifica como halófilo moderado, o un organismo que puede crecer en ambientes de alta salinidad, ya que puede crecer en un rango de 0.5 a 3.5 M de NaCl con una concentración de crecimiento óptima a 2.0 M de NaCl, pero con una concentración de NaCl 1,2 M que produce la densidad de cultivo más alta. También puede crecer en diferentes niveles de pH que van desde 6.5 hasta 8.2, con un pH óptimo de 7.5.
+Methanohalophilus mahii es un mesófilo, o un organismo que prospera a temperaturas moderadas, y crece mejor a una temperatura de C.
+Methanohalophilus mahii cells macha Gram negativa, y no son móviles.
+Las celdas son irregulares y cocos aproximadamente 0.8 a 1.8 micrómetros de diámetro.
+Además, las células fluorescen bajo luz de 420 nanómetros.
+Los fosfolípidos de membrana están compuestos por núcleos de β-hidroxiaarol, glicolípidos de glucosa y grupos de cabeza polares de etanolamina, glicerol y mioinositol.
+Methanohalophilus mahii es un anaeróbico anaeróbico [1] metilotrófico metilotrofoic y metanógena quimioheterótrofo, y puede reducir compuestos de un solo carbono y compuestos con múltiples carbonos dado que no hay dobles enlaces carbono-carbono presentes.
+Se requieren cantidades traza de Mg2 +, K +, Ca2 + y Fe2 + para el crecimiento metanogénico.
+Pueden usar metanol de forma independiente como fuente de carbono, y la vía glucolítica Embden-Meyerhof-Parnas (EMP) se puede utilizar para procesos catabólicos.
+Donantes de electrones posibles incluyen metanol, metilaminas, dimetilaminas y trimetilaminas.
+Methanohalophilus mahii puede usar varias vías metabólicas para reducir o oxidar los grupos metilo, creando metano o dióxido de carbono en el proceso.
+En la vía metanógena metilotrófica reductiva, Methanohalophilus mahii finalmente puede reducir un grupo metilo a un metano, que se libera.
+n la ruta oxidativa metilotrófica, el grupo metilo se oxida en cambio a dióxido de carbono y se libera.
+Este proceso contribuye directamente a la mineralización de carbono en los ecosistemas marinos.
+La genoma de Methanohalophilus mahii fue secuenciado por secuencia de escopeta using a 6.8 kilobase biblioteca Sanger.
+Se determinó que el tamaño completo del genoma es de 2.012.424 pares de bases de longitud, con 2.906 genes en total, con 2.032 genes que codifican proteínas.
+La secuencia tenía un 42.6% contenido GC, y cuarenta y cinco pseudogenes estaban ubicados.
+Methanohalophilus mahii tiene un único ARNt supresor con una pirrolisina, un aminoácido que se encuentra más comúnmente en procariotas, que puede reconocer y unirse al codón de PARADA ámbar (UAG) que también está codificado por los genes utilizados para metilamina metiltransferasas.
+Esta especie fue la primera del género Methanohalophilus tener su genoma completamente secuenciado [1] </ span>]].
+Tiene especies levemente halófilas, metilotrofas, y metanógenas.
+Estas arqueas contribuyen al proceso de carbono mineralización en el medio marino ecosistemas.
+Específicamente, la ruta oxidativa metilotrofa Methanohalophilus mahii utiliza permite a la especie oxidar metano a dióxido de carbono, que, a su vez, es utilizado por otros planta sy organismo s. This mineral ciclo proceso permite un mayor crecimiento y diversidad en el océano.

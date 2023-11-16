@@ -1,0 +1,100 @@
+Ray Solomonoff  (25 de julio de 1926-7 de diciembre de 2009) fue el fundador de la rama de la inteligencia artificial, basada en el aprendizaje automático, la predicción y la probabilidad.
+Hizo circular el primer informe sobre la máquina no semántica de aprendizaje el 1956.
+Fue el inventor de la probabilidad algorítmica, publicó el teorema fundamental que puso en marcha la complejidad de Kolmogórov y la Teoría de la Información.
+Describió por primera vez estos resultados en una conferencia en Caltech en 1960, y en un informe febrero de 1960 "Un Informe Preliminar sobre un Teoría General de la inferencia inductiva".
+Aclaró estas ideas con más detalle en sus publicaciones de 1964 "una teoría formal de la inferencia inductiva" parte I y Parte II.
+Aunque es más conocido por la probabilidad algorítmica y su teoría general de la inferencia inductiva, hizo muchos descubrimientos importantes durante toda su vida, la mayoría de ellos dirigidos hacia su meta en la inteligencia artificial: desarrollar una máquina que pudiera resolver los problemas difíciles utilizando métodos probabilísticos.
+Ray Solomonoff nació el 25 de julio de 1926, en Cleveland, Ohio, hijo de los inmigrantes rusos Phillip Julius y Sarah Mashman Solomonoff.
+Asistió a la Escuela Secundaria en Glenville, graduándose en 1944.
+En 1944 se unió a la Marina como instructor en Electrónica.
+Desde 1947-1951 estudió en la Universidad de Chicago, estudiando con profesores como Carnap y Fermi, y se graduó con una maestría de Física en 1951.
+Desde sus primeros años estuvo motivado por la pura alegría de los descubrimientos matemáticos y por el deseo de explorar, donde nadie había ido antes.
+A la edad de 16 años, en 1942, comenzó a buscar un método general para resolver problemas matemáticos.
+En 1952 conoció Marvin Minsky, John McCarthy y otros interesados en la inteligencia artificial.
+En 1956, Minsky y McCarthy y otros organizaron el Grupo de estudio de verano de Dartmouth, donde Ray fue uno de los primeros 10 participantes --- el único que permaneció todo el verano.
+Fue en este grupo donde la Inteligencia Artificial fue definida por primera vez como una ciencia.
+en ese momento Ordenadores podían resolver problemas matemáticos muy específicos, pero no mucho más.
+Ray quería encontrar solución a otro tema, cómo hacer que las máquinas fueran más genéricamente inteligentes, y que los ordenadores pudieran utilizar el cálculo de probabilidades para este fin.
+<!
+Escribió tres trabajos, dos con Rapoport, en 1950-52, que son consideradas como los primeros análisis estadístico de las redes.
+Fue uno de los 10 asistentes a la Conferencia 1956 Verano Dartmouth Research Conference sobre la inteligencia artificial, el evento seminal de la inteligencia artificial como un campo.
+Él escribió y distribuyó un informe entre los asistentes: "Una inferencia inductiva Machine".
+Estos fueron los primeros documentos que se escribe sobre la máquina de aprendizaje probabilístico.
+A finales de 1950, inventó lenguas probabilístico suyos y gramáticas asociados.
+Un lenguaje probabilístico asigna un valor de probabilidad a cada cadena sea posible.
+Generalizando el concepto de gramáticas probabilísticas lo condujo a su descubrimiento más importante en 1960 de algorítmica Probabilidad.
+Antes de la década de 1960, el método habitual de cálculo de probabilidad se basa en la frecuencia: tomando la proporción de resultados favorables con el número total de los juicios.
+En su publicación de 1960, y, más completo, en su 1964 publicaciones, Solomonoff revise seriamente esta definición de la probabilidad.
+Él llamó a esta nueva forma de "probabilidad Probabilidad algorítmica".
+El teorema básico de lo que se llamó más tarde Kolmogorov Complejidad era parte de su Teoría General.
+Describir esta idea en 1960: "Consideramos una secuencia muy larga de los símbolos ... Vamos a considerar como una secuencia de símbolos a ser" simple "y tienen una alta probabilidad a priori, si hay una descripción muy breve de esta secuencia - utilizando, por supuesto, algún tipo de método de descripción estipulados. Más exactamente, si sólo utilizamos los símbolos 0 y 1 para expresar nuestra descripción, vamos a asignar la probabilidad 2 - N  a una secuencia de si los símbolos más corto posible, su descripción binario contiene dígitos  N .
+Cinco años más tarde, en 1965, el matemático ruso Kolmogorov [descubrimiento múltiple [|independiente]], se presenta una idea similar.
+Cuando se dio cuenta del trabajo de Solomonoff, reconoció la prioridad Solomonoff, y durante varios años, el trabajo Solomonoff fue más conocido en la Unión Soviética que en el mundo occidental.
+El consenso general en la comunidad científica, sin embargo, fue el de asociar este tipo de complejo con el paso de Kolmogorov, que estaba más preocupado con la aleatoriedad de una secuencia.
+Probabilidad algorítmica se asoció con Solomonoff, que se centró en la predicción - la extrapolación de una secuencia.
+Más adelante en la misma publicación describe Solomonoff 1960 su extensión de la teoría de un solo menor - código.
+Esta es algorítmico
+Probabilidad.
+Él afirma: "Parece que si hay varios métodos diferentes de describir una secuencia, cada uno de estos métodos se debe dar un poco de peso   en la determinación de la probabilidad de esta secuencia."
+A continuación se muestra como esta idea se puede utilizar para generar el universal una distribución de probabilidad a priori y como se permite el uso de la regla de Bayes a la inferencia inductiva.
+inferencia inductiva, por la suma de las predicciones de todos los modelos que describen una secuencia particular, utilizando las ponderaciones adecuadas basadas en las longitudes de estos modelos, obtiene la distribución de probabilidad para la extensión de esta secuencia.
+Este método de predicción desde entonces se conoce como Solomonoff inducción.
+Amplió su teoría, la publicación de una serie de informes previos a las publicaciones en 1964.
+Los documentos de 1964 dan una descripción más detallada de algorítmica Probabilidad e inducción Solomonoff, que presenta 5 modelos diferentes, incluyendo el modelo conocido popularmente como la distribución de Universal.
+Otros científicos que habían estado en la Conferencia de Verano 1956 en Dartmouth (como Newell y Simon) fueron el desarrollo de la rama de la Inteligencia Artificial que utilizan máquinas rige por reglas se-entonces, hecho basado.
+Solomonoff se estaba desarrollando la rama de la Inteligencia Artificial que se centró en la probabilidad y la predicción, y su punto de vista específico de la gripe aviar máquinas detalladas que se regían por la distribución de probabilidad algorítmica.
+La máquina genera teorías junto con sus probabilidades asociadas, para resolver problemas, y como los nuevos problemas y teorías desarrollar, las actualizaciones de la distribución de probabilidad a las teorías.
+En 1968 se encontró con una prueba de la eficacia de la algorítmica Probabilidad, pero sobre todo por falta de interés general en este momento, no lo publicó hasta 10 años después.
+En su informe, que publicó la prueba para el teorema de la convergencia.
+En los años siguientes a su descubrimiento de la algorítmica Probabilidad se centró en cómo utilizar esta probabilidad y la inducción Solomonoff en la predicción y resolución de problemas reales de la influenza aviar También quería entender las implicaciones más profundas de este sistema de probabilidad.
+Un aspecto importante de la algorítmica La probabilidad es que está completo y incalculable.
+En el informe de 1968 muestra que la probabilidad es algorítmico   completo, es decir, si hay alguna regularidad descriptible en un cuerpo de datos, algorítmica Probabilidad finalmente descubrirá que la regularidad, lo que requiere una muestra relativamente pequeña de estas datos.
+Algorítmica Probabilidad es el sistema de probabilidad sólo sabemos que es completa de esta manera.
+Como una consecuencia necesaria de su integridad es   incalculable.
+El incomputability es porque algunos algoritmos - un subconjunto de los que están parcialmente recursiva - nunca se puede evaluar completamente ya que sería demasiado largo.
+Pero estos programas al menos ser reconocido como posibles soluciones.
+Por otro lado, cualquier sistema de     computable es incompleta.
+Siempre habrá descripciones fuera del espacio de búsqueda que sistema de manera que nunca será reconocido ni considerado, incluso en una cantidad infinita de tiempo.
+modelos de predicción computable ocultar este hecho al ignorar este tipo de algoritmos.
+En muchos de sus papeles que se describe cómo buscar soluciones a los problemas y en la década de 1970 y principios de 1980 desarrolló lo que él consideraba la mejor manera de actualizar la máquina.
+El uso de la probabilidad de la IA, pero, no tuvo un camino completamente lisa.
+En los primeros años de la IA, la relevancia de la probabilidad era problemática.
+Muchos en la i.a. comunidad tenía probabilidad no era utilizable en su trabajo.
+El área de reconocimiento de patrones ha utilizado una forma de probabilidad, sino porque no había ninguna teoría basada en líneas generales de cómo incorporar probabilidad, en cualquier AI campo, la mayoría de los campos no sirven para nada.
+Hubo, sin embargo, investigadores como Judea Pearl y Cheeseman Pedro, que argumentó que la probabilidad se podría utilizar en inteligencia artificial.
+Sobre 1984, en una reunión anual de la Asociación Americana para la Inteligencia Artificial (AAAI), se decidió que la probabilidad era de ninguna manera relevante a la gripe aviar
+Un grupo de protesta formado, y al año siguiente hubo un taller en la reunión AAAI dedicado a la "Probabilidad y la incertidumbre de la influenza aviar."
+Este taller anual ha continuado hasta la actualidad.
+Como parte de la protesta en el primer taller, Solomonoff presentar una ponencia sobre cómo aplicar la distribución universal a los problemas de la IA Esta es una versión temprana del sistema que ha venido desarrollando desde entonces.
+En este informe describió la técnica de búsqueda que había desarrollado.
+En los problemas de investigación, el mejor orden de búsqueda, es hora t_i/P_i, donde t_i es el tiempo necesario para poner a prueba el juicio y P_i la probabilidad de éxito de este ensayo.
+Él llamó a esto el "Tamaño Conceptuales Jump" del problema.
+Levin técnica de búsqueda se aproxima a este orden, y así Solomonoff, que había estudiado el trabajo de Levin, llamó a esta técnica de búsqueda Lsearch.
+Trabajo == Historia - Los últimos años ==
+En otros documentos que se estudió la manera de limitar el tiempo necesario para buscar soluciones, la escritura en la búsqueda de recursos limitados.
+El espacio de investigación está limitada por el tiempo disponible o costes en lugar de cortar el espacio de búsqueda como se hace en algunos otros métodos de predicción, como la Descripción Longitud mínima.
+A lo largo de su carrera Solomonoff se ocupó de los posibles beneficios y peligros de la gripe aviar, discutir en muchos de sus informes publicados.
+En 1985 se analizó una posible evolución de la IA, dando una fórmula de predecir cuando se llegaría al "Infinity" Punto.
+Este punto de Infinity es una primera versión de la "singularidad", más adelante se hicieron populares por Ray Kurzweil.
+Originalmente métodos de inducción algorítmica extrapolarse ordenó secuencias de cadenas.
+Los métodos se necesitan para hacer frente a otros tipos de datos.
+Un informe de 1999, generaliza la distribución universal y teoremas de convergencia asociados a los conjuntos desordenados de cuerdas y un , por pares no ordenados de cadenas.
+En 1997, 2003 y 2006 demostró que incomputability y la subjetividad son necesarias y deseables características de cualquiera de inducción de alto rendimiento del sistema.
+En 1970 formó su propia compañía de un hombre, Oxford o Cambridge de Investigación, y ha continuado su investigación allí, salvo los puntos en otros
+instituciones como el MIT, la Universidad de Saarland en Alemania y el Instituto Dalle Molle para la Inteligencia Artificial en Lugano, Suiza.
+En 2003 fue el primer galardonado con el Premio Kolmogorov por el Centro de Investigación de Aprendizaje de Computación en el Royal Holloway, Universidad de Londres, donde dio la conferencia inaugural de Kolmogorov.
+Solomonoff fue hasta hace poco profesor invitado en el CLRC.
+En 2006 intervino en AI ''' 50, "Inteligencia Artificial Conferencia de Dartmouth en los próximos cincuenta años" para conmemorar el cincuentenario
+del grupo de estudio original de Dartmouth verano.
+Solomonoff fue uno de los cinco participantes originales para asistir.
+En febrero 2008, dio el discurso principal en la Conferencia "Tendencias actuales en la teoría y aplicación de la informática" (CTTACS), celebrada en la Universidad de Notre Dame en el Líbano.
+A esto siguieron una serie corta de conferencias, y comenzó la investigación sobre nuevas aplicaciones de la Probabilidad algorítmica.
+Algorítmica Probabilidad e Inducción Solomonoff tienen muchas ventajas para la Inteligencia Artificial.
+Probabilidad algorítmica da estimaciones de probabilidad extremadamente precisa.
+Estos cálculos pueden ser revisadas por un método fiable de forma que sigan siendo aceptables.
+Utiliza el tiempo de búsqueda de una manera muy eficiente.
+Además de las estimaciones de probabilidad, algorítmica Probabilidad "tiene otro valor para la Inteligencia Artificial importante: su multiplicidad de modelos nos da muchas maneras diferentes de entender nuestros datos;
+Un científico muy convencional comprende la ciencia utilizando un único paradigma actual "--- la manera de entender que es el más en boga en la actualidad. Un científico más creativo comprende la ciencia de muchas maneras, y es más fácil crear nuevas teorías, nuevas formas de entender, cuando el 'paradigma actual «ya no se ajusta a los datos actuales".
+Una descripción de la vida y la obra de Solomonoff antes de 1997 está en "El descubrimiento de algorítmica Probabilidad", Revista de Informática y Ciencias de Sistemas, Vol. 55, No. 1, pp 73-88, agosto de 1997.
+En el documento, así como la mayoría de los otros mencionados aquí, están disponibles en su página web a la http://world.std.com/[RJS #/] publicaciones pubs.html página.
+>

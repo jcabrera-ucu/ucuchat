@@ -1,0 +1,24 @@
+Kepler-445d es el primer exoplaneta descubierto en torno a la estrella Kepler-445, en la constelación de Cygnus, a 293,5 años luz de la Tierra.
+Su confirmación se publicó en 2015, después de que el Telescopio Espacial Kepler detectase varios tránsitos del objeto frente a su estrella.
+Su radio, de 1,25 R⊕, está muy por debajo del límite establecido por los expertos que marca la separación entre los cuerpos terrestres de los gaseosos.
+Por tanto, es probable que se trate de un planeta telúrico.
+Los dos otros exoplanetas encontrados alrededor de la estrella Kepler-445 son Kepler-445b y Kepler-445c.
+Los tres tienen órbitas próximas a la pequeña estrella y, por tanto, es probable que sus temperaturas sean lo bastante altas como para descartar la presencia de vida.
+Kepler-445 es una enana roja de tipo M4V, con una masa de 0,18 M☉ y un radio de 0,21 R☉.
+Su metalicidad (0,27) es parecida a la del Sol aunque algo mayor, lo que indica una relativa abundancia de elementos pesados (es decir, todos excepto el hidrógeno y el helio).
+Partiendo de que el límite de acoplamiento de marea de las estrellas de esta clase suele rebasar el confín externo zona habitable y que ninguno de los exoplanetas encontrados en el sistema supera su borde interno, es muy probable que la rotación de cada uno de ellos esté sincronizada con sus órbitas y que, por tanto, cuenten con un hemisferio diurno y otro nocturno.
+La distancia entre Kepler-445d y su estrella es de 0,04 UA o unos seis millones de kilómetros según el PHL, 25 veces menos que la distancia entre la Tierra del Sol.
+El radio del exoplaneta es de 1,25 R⊕, por debajo del límite de 1,6 R⊕ que separa a los planetas telúricos de los de tipo minineptuno.
+El objeto también ha sido confirmado por velocidad radial, lo que ha permitido situar su masa en unas 3,50 M⊕, lo que supondría una gravedad un 122 % mayor que la terrestre.
+El Laboratorio de Habitabilidad Planetaria de la UPRA, considerando la densidad del objeto, ha asignado un HZC de -0,72.
+Así pues, la concentración de metales de Kepler-445d parece ser mucho mayor que la de cualquier objeto del sistema solar, casi de hierro puro.
+La temperatura de equilibrio de Kepler-445d, calculada a partir de su localización en el sistema y la luminosidad de su estrella, es de 28,35 °C.
+Si su atmósfera y albedo son similares a los de la Tierra, su temperatura media superficial sería de unos 70 °C.
+Sin embargo, es probable que por la proximidad respecto a su estrella, la consecuente pérdida de agua, el anclaje por marea y la mayor actividad volcánica —a consecuencia de su masa y ubicación en el sistema—; sufra un efecto invernadero descontrolado que aumente significativamente sus temperaturas.
+En Venus, que proporcionalmente orbita a una distancia muy superior a la de Kepler-445d, la diferencia entre la temperatura de equilibrio y la temperatura media en la superficie es de casi 500 °C.
+Por el contrario, si su efecto invernadero es similar o inferior al de la Tierra y si su composición atmosférica lo permite, podría ser un termoplaneta.
+Kepler-445d es el tercer exoplaneta confirmado en el sistema Kepler-445.
+Poco antes se descubrieron Kepler-445b y Kepler-445c.
+Todos orbitan a distancias muy próximas entre sí y respecto a su estrella.
+Kepler-445b completa una órbita alrededor de su astro cada 2,98 días, Kepler-445c cada 4,87 y Kepler-445d cada 8,15.
+Durante la distancia mínima de intersección orbital, la separación entre Kepler-445c y Kepler-445d llega a ser de entre uno y dos millones de kilómetros, unas cuatro veces más que la distancia entre la Tierra y la Luna.

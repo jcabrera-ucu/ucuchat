@@ -1,0 +1,8 @@
+El sistema de clasificación APG IV de plantas con flores es la cuarta versión de un sistema moderno, en su mayoría de base molecular, de taxonomía de plantas para plantas con flores (angiospermas) que está siendo desarrollado por el Angiosperm Phylogeny Group (APG).
+Se publicó en 2016, siete años después de que se publicara su predecesor, el sistema APG III en 2009, y 18 años después de que se publicara el primer sistema APG en 1998.
+En 2009, se publicó por separado una disposición lineal del sistema; el documento APG IV incluye dicha disposición, con referencia cruzada a la de 2009.
+En comparación con el sistema APG III, el sistema APG IV reconoce cinco órdenes nuevos (Boraginales, Dilleniales, Icacinales, Metteniusales y Vahliales), junto con algunas familias nuevas, lo que hace un total de 64 órdenes de angiospermas y 416 familias.
+En general, los autores describen su filosofía como "conservadora", basada en realizar cambios desde APG III solo donde se ha demostrado "una necesidad bien fundamentada".
+Esto a veces ha resultado en colocaciones que no son compatibles con los estudios publicados, pero donde se necesita más investigación antes de que se pueda cambiar la clasificación.
+Clave para los símbolos usados:
+Así como en los anteriores sistemas APG, la revisión del APG IV se basa en un árbol filogenético para las angiospermas, como se muestra abajo.

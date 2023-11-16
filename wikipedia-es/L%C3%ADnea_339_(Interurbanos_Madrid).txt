@@ -1,0 +1,11 @@
+La línea 339 de la red de autobuses interurbanos de Madrid une la terminal de autobuses de Conde de Casal con Valdemingómez.
+Esta línea une Madrid con el barrio de Valdemingómez.
+Pese a ser una línea con denominación interurbana, en ningún momento abandona el término municipal de Madrid.
+El recorrido total tiene una duración media de unos 20 minutos.
+Está operada por la empresa La Veloz, S. A. mediante concesión administrativa del Consorcio Regional de Transportes de Madrid.
+La línea toma la A-3 o Avenida del Mediterráneo, haciendo todas las paradas intermedias dentro de la zona A. Una vez pasado el cruce con la M-50, hace dos paradas adicionales en la vía de servicio situada en la parte derecha de la calzada.
+Ninguna otra línea del corredor 3 que pase por la carretera hace estas paradas, siendo exclusivas de la línea 339.
+La cabecera está situada en la parada Carretera A-3 - Valdemingómez, donde pasan muchas otras líneas del corredor 3.
+No obstante, el autobús da la vuelta usando la primera salida para entrar en Rivas-Vaciamadrid, a pesar de que en la teoría jamás abandona el término municipal de Madrid.
+Por otra parte, el descanso no se realiza en la propia cabecera al no estar acondicionada para ello (es una parada de paso de otras líneas, véase la tabla siguiente), sino unos metros antes en un lugar más adecuado en la vía de servicio (sentido Madrid).
+El recorrido es idéntico pero en sentido contrario, salvo que las paradas de código 10163 y 7441 en sentido Valdemingómez no tienen equivalente a la vuelta.

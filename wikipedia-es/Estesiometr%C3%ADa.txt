@@ -1,0 +1,3 @@
+La estesiometría (del gr. αἰσθησία, sensación, y μετρoν, medida) es la ciencia que relaciona la intensidad física de un estímulo con la intensidad perceptiva sentida por un sujeto observador del estímulo.
+La estesiometría utiliza un conjunto de técnicas de medición de la sensibilidad que gradúan la intensidad de sucesivos estímulos para observar las sensaciones que desencadenan en el individuo estudiado.
+En el ámbito de las telecomunicaciones, se suele utilizar comúnmente el término «sofometría» para referirse principalmente a la estesiometría del ruido en los canales telefónicos.

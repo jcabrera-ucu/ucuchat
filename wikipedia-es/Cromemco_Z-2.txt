@@ -1,0 +1,32 @@
+El Cromemco Z-2 era un microcomputador basado en el bus S-100 e introducido en 1977.
+Fue el segundo microcomputador lanzado por Cromemco después del Cromemco Z-1.
+El microcomputador Z-2 era el primero de una familia de productos basados en el chasis del Z-2.
+Otros microcomputadores en esta familia eran el Cromemco Z-2D (con discos flexibles), el Cromemco Z-2H (con disco duro), y el CS-250 (una versión muy avanzada fabricada para La Fuerza Aérea de los Estados Unidos.)
+A principios de 1977 todos los microcomputadores, como el Altair 8800 y el Cromemco Z-1, tenían un panel frontal con luces indicadoras y controles para operar el computador.
+El Dr. Roger Melen, cofundador de Cromemco, se dio cuenta de que los computadores del futuro no necesitarían un panel frontal tan complicado; en cambio los computadores serían operados desde una terminal remota.
+Por eso el Dr. Melen diseñó un computador sin luces ni controles en el panel frontal.
+Eso fue el microcomputador Cromemco Z-2, lanzado en la edición de marzo de 1977 de la revista Byte.
+El computador Z-2 fue diseñado para ser montado en un bastidor de 19 pulgadas.
+Tenía una placa madre de bus S-100 de 21 ranuras.
+La unidad central de procesamiento era el Cromemco ZPU que usó el microprocesador Zilog Z80.
+El Z-2 logró una reputación como una máquina muy robusta y fiable.
+Con el avance de la tecnología el computador Z-2 también avanzó.
+En 1978 Cromemco lanzó el microcomputador Z-2D con discos flexibles de 5 ¼ pulgadas.
+En 1979 Cromemco introdujo el microcomputador Z-2H con discos flexibles de 5 ¼ pulgadas, como el Z-2D, y también con un disco duro interno de 11 MB. En la historia de los computadores el Cromemco Z-2H fue el primero con un disco duro interno.
+En 1979 Cromemco también lanzó un disco duro externo (el Cromemco HDD) con dos discos duros de capacidad 11 MB cada uno.
+En 1983, el Z-2H evolucionó al CS-2H con un disco duro interno de 20 MB. En 1982 Cromemco lanzó el DPU, una nueva unidad central de procesamiento para la familia de microcomputadores Z-2 para reemplazar el ZPU.
+El DPU tenía dos microprocesadores, el Zilog Z80 y el Motorola 6800.
+En 1984 el DPU fue reemplazado por el XPU que también tenía dos microprocesadores, el Zilog Z80 y el Motorola 68010.
+En 1986 el XPU fue reemplazado por el XXU que utilizaba el microprocesador Motorola 68020 con el coprocesador Motorola 68881.
+El Chicago Mercantile Exchange utilizó bastidores de computadores Cromemco Z-2 para recoger y procesar todas las transacciones de la bolsa desde 1982 hasta 1992.
+CME es la bolsa más grande del mundo en el intercambio de opciones financieras y contratos de futuros.
+Cromemco fue representado en Medellín, Colombia por Control Sistematizado S.A., fundado en 1980 con el objetivo de "incorporar tecnologías de punta a procesos industriales existentes, mejorando la productividad y la calidad."
+Juan Henao, Álvaro Pérez y Jaime Blandon de Control Sistematizado desarrollaron los primeros sistemas de control industrial en Colombia basados en los microcomputadores Cromemco Z-2.
+Los microcomputadores Cromemco fueron usados para implementar soluciones de control eficaces en la industria textil y otras industrias.
+Investrónica era una compañía española fundada en 1980 que utilizó  sistemas de Cromemco  para el diseño asistido por computadora y la fabricación asistida por computadora (CAD/CAM).
+Investrónica vendió estos sistemas para las industrias de la confección, tapicería, automóvil, y aeronáutica en España.
+Como resultado de un estudio por Bunker-Ramo en 1981 Cromemco se convirtió en el proveedor principal de microcomputadores para la Fuerza Aérea de los Estados Unidos.
+En 1986 Cromemco desarrolló una versión del microcomputador Z-2 muy avanzada, llamada el CS-250, para la Fuerza Aérea de los Estados Unidos utilizando la unidad central de procesamiento Cromemco XXU.
+Para cumplir con los requisitos de La Fuerza Aérea, el CS-250 tenía dos discos flexibles, una unidad de cinta de 60 MB, y un disco duro removible de 760 MB.
+Estos sistemas fueron desplegados a través el mundo para planear misiones de la Fuerza Aérea de los Estados Unidos.
+El autor Stan Veit escribió en 1993:

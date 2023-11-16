@@ -1,0 +1,65 @@
+La valoración de patentes consiste en la aplicación de técnicas de valoración financiera de activos intangibles a tecnologías patentadas.
+Dicha valoración resulta especialmente relevante para las empresas e instituciones con alto grado de inversión en investigación y propiedad industrial, así como para las negociaciones de licencias y compraventas relacionadas con tecnologías, donde se estima el valor económico de las patentes involucradas para establecer condiciones de transacción de las mismas.
+El aumento del volumen de dichas transacciones en los últimos años ha dado lugar a un crecimiento del uso de las diferentes técnicas de valoración de este tipo de activos.
+La valoración de derechos de patente es una de las actividades principales relacionadas con la gestión de la propiedad industrial de instituciones y empresas.
+El conocimiento del valor y el impacto económico de los derechos de propiedad industrial sirve como ayuda en la toma de decisiones sobre los activos de las organizaciones, así como para facilitar la comercialización de dichos derechos.
+Existen diferentes situaciones de negocio donde la valoración de patentes resulta de aplicación.
+La mayoría de las empresas tecnológicas están altamente basadas en activos intangibles e inversión en conocimiento, investigación e innovación.
+De acuerdo con los estudios, los gastos en conocimiento a través de inversión en I+D o software han crecido en una proporción mayor que los gastos en activos tangibles.
+Este cambio en las tendencias de inversión se ve reflejada en una importancia cada vez mayor de los activos intangibles y las patentes en las compañías.
+De este modo, no es posible conocer el valor real de una organización tecnológica sin determinar el valor de su propiedad industrial.
+Como en cualquier otro tipo de transacciones de negocios, las organizaciones que firman acuerdos para adquirir o licenciar derechos de propiedad industrial deben acordar necesariamente un precio de los mismos.
+En este sentido, determinar el valor de las patentes involucradas en cada negociación es esencial para llegar a dicho acuerdo, así como para que las partes determinen un precio justo de los activos adquiridos.
+En escenarios de conflicto de patente, tales como demandas por infracción o acciones de nulidad, la cuantificación de los daños es necesaria en ocasiones como parte los procedimientos legales.
+La correcta valoración de los derechos de patente involucrados es, por tanto, esencial para garantizar una justa compensación por daños.
+Los resultados de valoración de la propiedad industrial se usan como garantía para avales bancarios o para atraer inversión de capital riesgo.
+Varios estudios muestran que la propiedad de patentes y una adecuada gestión de la propiedad industrial juegan un papel de gran relevancia en la decisión de los inversores en proyectos tecnológicos.
+La valoración juega un papel importante en las estrategias de protección por patente de las tecnologías, así como en la selección de aquellos países en los que se desea extender dicha protección.
+Asimismo, la valoración de patentes permite a las empresas identificar debilidades y fortalezas que pueden impactar en la explotación de la tecnología en los diferentes mercados de interés estratégico.
+Las organizaciones están obligadas a declarar sus activos, incluyendo los relacionados con propiedad industrial.
+La valoración de los mismos representa, en consecuencia, un paso necesario tanto para la contabilidad de dichas organizaciones, como para el pago de impuestos derivados de la propiedad e ingresos derivados de las patentes.
+Existen diferentes métodos de valoración utilizados habitualmente por empresas y organizaciones.
+Generalmente, se dividen en dos categorías: métodos de valoración cuantitativa y métodos de valoración cualitativa.
+Mientras que los métodos cuantitativos se basan en datos numéricos para calcular el valor económico de la propiedad industrial, los métodos cualitativos se centran en el análisis de las características y usos potenciales de la propiedad industrial, tales como factores legales, tecnológicos, estratégicos o comerciales de las patentes en cuestión.
+Además, la valoración cualitativa analiza los riesgos y oportunidades asociados a los derechos de propiedad industrial de la organización.
+Dentro del enfoque cuantitativo, existen diversas técnicas de valoración, que pueden ser agrupadas generalmente en cuatro tipos de métodos.
+Este método se basa en el principio de que existe una relación directa entre los costes incurridos en el desarrollo de la propiedad industrial y su valor económico.
+Para medir dichos costes, se emplean principalmente dos técnicas:
+En ambos métodos, se tienen en cuenta los valores actuales, es decir, los gastos con valor actualizado a la fecha de valoración, y no a los gastos realizados en el momento en que ocurrieron.
+Para el cálculo de costes, se tienen en cuenta tanto los costes directos, tales como costes materiales, mano de obra y gestión, como los costes de oportunidad, relacionados con las ganancias perdidas como consecuencia, por ejemplo, del tiempo necesario para poner el producto patentado en el mercado, o a la pérdida de oportunidades de inversión para desarrollar los activos.
+El método de valoración de mercado se basa en la estimación del valor de la patente a partir de transacciones conocidas en mercados similares (por ejemplo, en acuerdos de licencia realizados sobre tecnologías de un mismo campo), de forma que se puedan establecer referencias de derechos de patente comparables al que se quiere calcular.
+Dado que en muchas ocasiones el derecho que se quiere valorar es único, la comparación se puede también realizar en términos de utilidad, especificidad tecnológica o propiedad, teniendo en consideración la percepción del activo dentro de un determinado mercado.
+Es posible encontrar datos de transacciones similares o comparables, por ejemplo, en las siguientes fuentes:
+Este método está basado en el principio de que el valor de un activo está intrínsecamente relacionado con los flujos de ingresos que genera.
+Tras estimar dichos ingresos, el resultado se suele descontar mediante un factor de descuento adecuado con el objetivo de ajustar dicho resultado a las circunstancias de mercado actuales determinando, por tanto, el valor actual neto de los derechos de propiedad industrial.
+Existen diversos métodos de cálculo de los flujos de caja futuros, como por ejemplo:
+De forma diferente a otros métodos, la metodología de opciones tiene en cuenta las oportunidades y opciones posibles a lo largo del proceso de inversión en la tecnología.
+Está basado en los modelos financieros para determinar el valor de opciones de compra de activos (por ejemplo, modelos Black-Scholes), modificados para los casos de aplicación a activos intangibles.
+Estos métodos no dependen de datos puramente financieros.
+De hecho, la valoración derivada de dichos métodos se realiza a través del análisis de diferentes indicadores que afectan a las tecnologías patentadas para evaluar la fortaleza del derecho de propiedad industrial, determinando su importancia con relación a aquellos aspectos que pueden impactar en el valor del activo, como por ejemplo aspectos legales, el nivel de innovación de la tecnología, aspectos de los mercados de explotación o aspectos organizativos de la empresa propietaria de los derechos de patente.
+Normalmente, estos métodos se llevan a cabo mediante cuestionarios que comprenden los diferentes criterios de análisis.
+Algunos ejemplos incluidos en estos cuestionarios pueden ser:
+La valoración de patentes se puede realizar tanto internamente en una organización como externalizándose a empresas de servicios profesionales.
+Realizándola internamente, las organizaciones abordan la valoración en equipos formados por responsables legales, técnicos, financieros, comerciales y estratégicos de su plantilla.
+Asimismo, para asistir a las compañías en las valoraciones, diversas empresas, agencias y oficinas de propiedad industrial han desarrollado herramientas de software para valorar patentes, algunas de las cuales se mencionan a continuación.
+IPscore es una herramienta de valoración de la Oficina Europea de Patentes desarrollada para proporcionar una valoración global de patentes y proyectos de desarrollo tecnológico.
+Esta herramienta está basada en una base de datos instalable de Microsoft Access, y aplica algoritmos cualitativos y cuantitativos para la valoración de patentes y la gestión de carteras de propiedad industrial.
+IPscore proporciona una predicción financiera mostrando el valor actual neto de las tecnologías evaluadas, mostrando sus resultados como gráficas y listados de datos para facilitar la comunicación de las conclusiones de valoración.
+La Oficina Danesa de Patentes y Marcas desarrolló originalmente IPscore, en colaboración con la Copenhagen Business School y un número de empresas de Dinamarca.
+La última versión de IPscore ha sido desarrollada por la Oficina Europea de Patentes, incluyendo algunas mejoras y un entorno multi-idioma.
+IPscore se distribuye de forma gratuita como soporte a la estrategia de patentes de empresas y organizaciones.
+Toolip Valuation es una herramienta en línea de valoración de patentes desarrollada por la empresa Tribalyte Technologies, que se distribuye gratuitamente en su versión Demo.
+Proporciona métodos de valoración cualitativa y cuantitativa de patentes y permite la generación de informes de valoración multi-formato.
+Está especialmente diseñada para gestores de carteras de patentes, agentes de patentes, oficinas de transferencia de tecnología y empresas tecnológicas.
+El método de valoración de patentes de Toolip Valuation es compatible con los resultados de IPscore.
+Está basado en un modelo de ingresos para determinar los flujos de caja futuros asociados con el proyecto que se desea valorar, y calcularlos como el valor actual neto de la tecnología aplicando factores de descuento.
+También incluye información sobre aspectos legales (validez de la patente, países de extensión, plazo de patente en vigor) y datos financieros (ingresos anuales, crecimiento esperado en la compañía o el mercado de operación, factores de descuento, etc.), abarcando también aspectos tecnológicos, estratégicos o comerciales de la tecnología patentada.
+El algoritmo de Toolip Valuation pondera estadísticamente los resultados de entrada proporcionados por el usuario y calcula los flujos de caja futuros a lo largo de la vida de la patente, determinando el valor económico de la misma como la suma de dichos flujos de caja.
+La herramienta también tiene en cuenta factores de riesgo y oportunidad en el resultado final de valoración, proporcionando valores realistas de mercado.
+Toolip Valuation también comprende un motor de cálculo de tasas de royalty y de valoración mediante un método relief from royalty para calcular precios de licencia de tecnología.
+La Oficina Danesa de Patentes y Marcas ha desarrollado un portal web con el propósito de ayudar a las empresas a explotar sus resultados mediante la comercialización de sus derechos de propiedad industrial.
+IP Panorama ha sido desarrollado de forma conjunta por la Oficina Coreana de la Propiedad Industrial (KIPO), la Asociación Coreana para la Promoción de las Invenciones (KIPA) y la Organización Mundial de la Propiedad Industrial (OMPI).
+Consiste en un conjunto de módulos de e-learning, uno de los cuales está específicamente dedicado a la valoración de activos de propiedad industrial.
+Como parte de sus series de publicaciones IP Healthcheck, la Oficina de Propiedad Industrial del Reino Unido (UKIPO) ha publicado un documento con el título "Agreeing a price for intellectual property rights" para ayudar a las empresas en la valoración de sus activos en el contexto de transacciones de propiedad industrial.
+25. M2M Marketplace. El valor de lo intangible.
+Ismael Santiago Moreno, Félix Jiménez Naharro y Antonio de la Torre Gallegos; 2013; Digital Atrés

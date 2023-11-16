@@ -1,0 +1,44 @@
+Un tono de llamada, popularmente conocido por el anglicismo ringtone, es el término con el cual se conoce el sonido hecho por un teléfono para indicar la llegada de un mensaje de texto o al recibir una llamada.
+El anglicismo aún no ha sido acuñado por la Real Academia Española, pues su traducción directa al español, tono de llamada, es ampliamente usada en manuales y tiendas en línea.
+El término es actualmente usado ampliamente para referirse a los sonidos personalizados que tienen los teléfonos móviles de última generación.
+La palabra nace del hecho que los primeros teléfonos tenían un sistema de timbre que producía un sonido fonético similar a la palabra “ring”, este sistema aún está en uso generalizado para los teléfonos de línea a tierra y se usa un timbre electromecánico, que está formado por un electroimán que acciona un badajo que golpea la campana a la frecuencia de la corriente de llamada (20 Hz), se ha visto sustituido por generadores de llamada electrónicos, que, igual que el timbre electromecánico, funcionan con la tensión de llamada (75 V de corriente alterna).
+Suelen incorporar un oscilador de periodo en torno a 0,5 s, que conmuta la salida entre dos tonos producidos por otro oscilador.
+El circuito va conectado a un pequeño altavoz piezoeléctrico.
+Resulta curioso que se busquen tonos agradables para sustituir la estridencia del timbre electromecánico, cuando este había sido elegido precisamente por ser muy molesto y obligar así al usuario a atender la llamada gracias al timbre.
+La nueva generación de timbres para teléfonos móviles están basados en sistemas de sonido digitales.
+AT&T ofreció 7 diferentes tipos de combinaciones de sonidos para sus timbres de Tipo C en los modelos 500 y 2500 de sus teléfonos de Red Telefónica Conmutada.
+Estos sonidos producían tonos distintivos para los consumidores sordos y hacía posible que ellos supieran cuál teléfono era el que estaba sonando entre varios situados en un mismo sitio.
+Un “Bell Chime” fue ofrecido, el cual producía un sonido similar al de la campana de una puerta o el del teléfono tradicional.
+Siguiendo las regulaciones de la Comisión Federal de Comunicaciones de 1975 para la prestación de los servicios telefónicos, las empresas empezaron a crear accesorios para timbres de teléfono que funcionaban con tonos electrónicos o melodías mecánicas.
+La gente también comenzó a hacer sus tonos caseros, utilizando chips de tarjetas de felicitación para que sonara en la melodía de llamadas entrantes.
+Eventualmente los timbres de teléfonos electrónicos iniciaron a normalizarse.
+Algunos de esos timbres producían un solo tono mientras que otros timbres producían dos, tres o una melodía.
+El primer teléfono móvil con Ringtone personalizable fue el modelo Japonés NTT DoCoMo Digital Mova N103 Hyper de NEC Corporation, lanzado en mayo de 1996, tenía unos pocos sonidos incluidos en formato MIDI.
+En septiembre de 1996, IDO el actual au, vendió el Digital Minimo D319 de DENSO Corporation.
+Este fue el primer teléfono móvil que podía crear una melodía original hecha por los consumidores.
+Estos teléfonos llegaron a ser populares en Japón.
+Kētai Chakumero Do-Re-Mi Book (ケータイ着メロ ドレミBOOK, "Mobile ringtones Do-Re-Mi Book"), fue un libro publicado en 1998 que introducía las notas musicales de canciones populares y vendió más de 3.5 millones de copias.
+El primer Ringtone descargable fue creado y enviado en Finlandia en otoño de 1998 cuando un operador de móviles Finlandés Radiolinja (hoy Elisa Oyj) inició su propio servicio llamado Harmonium, inventado por Vessa-Matti Pananen.
+Harmonium contenía las herramientas para crear los tonos monofónicos y el mecanismo para enviarlos vía SMS a un auricular de un teléfono.
+En noviembre de 1998, Digitalphone Groupe, el actual SoftBank Mobile, inició un servicio similar en Japón.
+El concepto del servicio se esparció rápidamente en Europa y Asia y lanzó una industria multimillonaria.
+El comercio de Ringtones fue uno de los más exitosos servicios de la telefonía móvil, con características sociales tales como posibilidad de componer, compartir, y calificar los Ringtones.
+Harmonium también creó rápidamente un mercado para profesionales de alta calidad en ringtones y librerías de ringtones.
+En 2005, los ringtones generaron más de 2 mil millones en ganancias alrededor del mundo.
+La venta y comercialización de ringtones es un primer ejemplo de la convergencia vertical de las telecomunicaciones.
+Los tonos reales o true tone son extractos de canciones pop, que se convierten en populares tonos de teléfono.
+El primer servicio de tonos reales fue iniciado por au en diciembre de 2002.
+My Gift to You de Chemistry fue la primera canción distribuida como True tone.
+Un creador de tonos de llamada es una aplicación que permite al usuario tomar una canción de su colección personal de música, seleccionar que les gusta y enviar el archivo a su teléfono móvil.
+Los archivos pueden ser enviados al teléfono móvil mediante una conexión directa (por ejemplo, cable USB), Bluetooth, mensajes de texto o correo electrónico.
+El primer creador de tonos de llamada fue Harmonium, desarrollado por Vesa-Matti Paananen, un programador informático finlandés, y lanzado en 1997 para su uso con el servicio de mensajes de Nokia.
+Algunos proveedores permiten a los usuarios crear sus propios tonos de música, ya sea con un compositor de melodías o programas como MusicDJ presente en muchos teléfonos de Sony Ericsson.
+Estos suelen utilizar formatos de codificación solo disponibles para un modelo determinado de teléfono o una marca.
+Se soportan otros formatos, como MIDI o MP3, pero deben descargarse en el teléfono antes de que se puede utilizar como tono de llamada normal.
+Cuando alguien compra un tono de llamada, un agregador (empresa que vende tonos de llamada) o bien crea su propia melodía o la mezcla con una pre-existente.
+Después de que el tono de llamada se crea, se pone en un formato de archivo único y se envía al teléfono de la persona a través de SMS.
+Si la empresa utiliza una canción ya existente, deben pagar regalías a la persona que posee la canción.
+El propietario de la canción no consigue todo el dinero, una parte importante se da al proveedor de telefonía celular.
+En el año 2005 "SmashTheTones" (ahora "Mobile17"), se convirtió en la primera solución de terceros para permitir la creación de tonos de llamada en línea sin necesidad de software descargable o un editor de audio.
+Más tarde, el iPhone de Apple permitió a los usuarios crear un tono de cualquier canción comprada en iTunes presente en el iPhone pero con algunas dificultades, incluyendo un límite de 40 segundos y el hecho de que el archivo tiene que ser un formato AAC y cuyo nombre termina con la extensión .m4r
+Hay una variedad de sitios web que permiten a los usuarios crear tonos de llamada desde audio digital u otros archivos de sonido, y enviarlos directamente a su teléfono móvil sin límite en el número de canciones subidas.

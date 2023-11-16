@@ -1,0 +1,144 @@
+En matemáticas, la delta de Kronecker (llamada así en referencia al matemático alemán Leopold Kronecker) es una función de dos variables, generalmente solo números enteros no negativos.
+La función vale 1 si las dos variables son iguales y 0 en caso contrario:
+o con el uso de corchetes de Iverson:
+donde la delta de Kronecker δij es una función definida a intervalos de las variables i y j. Por ejemplo,
+δ1&thinsp;2 = 0
+, mientras que
+δ3&thinsp;3 = 1
+.
+La delta de Kronecker aparece de forma natural en muchas áreas de las matemáticas, la física y la ingeniería, como un medio para expresar de manera compacta su definición anterior.
+En álgebra lineal, la matriz identidad
+I
+de orden
+n × n
+tiene entradas iguales a la delta de Kronecker:
+donde i y j toman los valores
+1, 2, ..., n
+, y el espacio prehilbertiano de vectores se puede escribir como
+Aquí los vectores euclídeos se definen como n-tuplas: y  y el último paso se obtiene utilizando los valores de la delta de Kronecker para reducir la suma sobre j.
+La restricción a números enteros positivos o no negativos es común, pero de hecho, la delta de Kronecker se puede definir en un conjunto arbitrario.
+Se satisfacen las siguientes ecuaciones:
+Por tanto, la matriz
+δ
+puede considerarse como una matriz identidad.
+Otra representación útil es la siguiente forma:
+lo que se puede deducir usando la fórmula de una progresión geométrica.
+Usando el corchete de Iverson:
+A menudo, se usa una notación de un solo argumento δi, que es equivalente a establecer
+En álgebra lineal, se puede considerar como un tensor y se escribe δ.
+A veces, la delta de Kronecker se denomina tensor de sustitución.
+En el estudio del procesamiento digital de señales, la función de muestra unitaria \delta[n] representa un caso especial de una función delta de Kronecker bidimensional \delta_{ij}, donde los índices de kronecker incluyen el número cero, y donde uno de los índices es cero.
+En este caso:
+O más generalmente, donde:
+Sin embargo, este es solo un caso muy especial.
+En el cálculo tensorial, es más común numerar los vectores base en una dimensión particular comenzando con el índice 1, en lugar del índice 0.
+En este caso, la relación no existe y, de hecho, la delta de Kronecker y la muestra unitaria son funciones realmente diferentes que por casualidad se superponen en un caso específico, en el que los índices incluyen el número 0, el número de índices es 2 y uno de los índices tiene el valor de cero.
+Si bien la función de muestra unitaria discreta y la función delta de Kronecker usan la misma letra, difieren de las siguientes maneras.
+Para la función de muestra unitaria discreta, es más convencional colocar un único índice entero entre llaves; por el contrario, la delta de Kronecker puede tener cualquier número de índices.
+Además, el propósito de la función de muestra unitaria discreta es diferente de la función delta de Kronecker.
+La función de muestra unitaria discreta se usa típicamente como una función de entrada a un sistema discreto para descubrir la función de salida del sistema que se generará.
+Por el contrario, el propósito típico de la función delta de Kronecker es filtrar los términos de un convenio de suma de Einstein.
+La función de muestra de unidad discreta se define más simplemente como:
+Además, el procesamiento de señales digitales dispone de una función llamada delta de Dirac, que a menudo se confunde tanto con la función delta de Kronecker como con la función de muestra unitaria.
+La delta de Dirac se define como:
+A diferencia de la función delta de Kronecker \delta_{ij} y la función de muestra unitaria \delta[n], la función delta de Dirac \delta(t) no tiene un índice entero, tiene un único valor continuo no entero t.
+Para confundir más las cosas, la función de impulso unitario a veces se usa para referirse a la delta de Dirac \delta(t) o a la función de muestra unitaria \delta[n].
+la delta de Kronecker tiene la propiedad llamada tamizado que para
+j ∈ ℤ
+y si los números enteros se ven como un espacio de medida, dotados con la medida de conteo, entonces esta propiedad coincide con la propiedad definitoria de la delta de Dirac
+y de hecho, la delta de Dirac a veces se denomina delta de Kronecker debido a esta propiedad análoga.
+En el procesamiento de señales, suele ser el contexto (tiempo discreto o continuo) el que distingue las "funciones" de Kronecker y de Dirac.
+Y por convención,
+δ(t)
+generalmente indica tiempo continuo (Dirac), mientras que argumentos como i, j, k, l, m y n generalmente se reservan para tiempo discreto (Kronecker).
+Otra práctica común es representar secuencias discretas con corchetes; así:
+δ[n]
+. La delta de Kronecker no es el resultado de muestrear directamente la función delta de Dirac.
+La delta de Kronecker forma el elemento neutro multiplicativo de un álgebra de incidencia.
+En teoría de la probabilidad y estadística, la delta de Kronecker y la delta de Dirac se pueden usar para representar una distribución de probabilidad.
+Si el soporte de una distribución consta de puntos
+, con las probabilidades correspondientes
+p1, ..., pn
+, entonces la función de probabilidad
+p(x)
+de la distribución sobre
+x
+se puede escribir, utilizando la delta de Kronecker, como
+De manera equivalente, la función de densidad de probabilidad
+f(x)
+de la distribución se puede escribir usando la función delta de Dirac como
+En determinadas condiciones, la delta de Kronecker puede surgir del muestreo de una función delta de Dirac.
+Por ejemplo, si un impulso delta de Dirac ocurre exactamente en un punto de muestreo e idealmente se filtra en paso bajo (con corte en la frecuencia crítica) según el teorema de muestreo de Nyquist-Shannon, la señal de tiempo discreto resultante será una función delta de Kronenberg.
+Si se considera como un tipo de tensor
+(1,1)
+, el tensor de Kronecker se puede escribir como
+δ
+con un índice covariante j y un índice contravariante i:
+Este tensor representa:
+V → V
+o
+V∗ → V∗
+V∗ ⊗ V → K
+K → V∗ ⊗ V
+, que representa la multiplicación escalar como una suma de producto externo.
+La delta generalizada de Kronecker o delta de Kronecker multi-índice de orden
+2p
+es un tensor tipo
+(p,p)
+que es completamente antisimétrico en sus índices superiores p, y también en sus índices inferiores p.
+Se utilizan dos definiciones que difieren en un factor de
+p!
+. A continuación, la versión que se presenta tiene componentes distintos de cero escalados para ser
+±1
+. La segunda versión tiene componentes distintos de cero que son
+±1⁄p!
+, con los consiguientes cambios en los factores de escala en las fórmulas, como los factores de escala de
+1⁄p!
+en propiedades de la delta de Kronecker generalizada que figuran a continuación, desaparecen.
+En términos de índices, la delta de Kronecker generalizada se define como:
+Sea
+Sp
+el grupo simétrico de grado p. Entonces:
+Usando antisimetrización:
+En términos de un determinante
+p × p
+Usando el teorema de Laplace (la fórmula de Laplace) para un determinante, se puede definir recursivamente:
+donde el símbolo denominado carón,
+ˇ
+, indica un índice que se omite en la secuencia.
+Cuando
+p = n
+(la dimensión del espacio vectorial), en términos del símbolo de Levi-Civita:
+La delta de Kronecker generalizada se puede utilizar para obtener una antisimetrización:
+De las ecuaciones anteriores y de las propiedades del tensor antisimétrico, se pueden deducir las propiedades de la delta de Kronecker generalizada:
+que son la versión generalizada de fórmulas descritas en el apartado Propiedades.
+La última fórmula es equivalente a la fórmula de Cauchy–Binet.
+La reducción del orden mediante la suma de los índices puede expresarse mediante la identidad
+Usando tanto la regla de la suma para el caso
+p = n
+como la relación con el símbolo de Levi-Civita,
+la regla de suma del símbolo de Levi-Civita se deduce como:
+La versión 4D de la última relación aparece en el enfoque espinorial de la relatividad general de Penrose que luego él mismo generalizó, mientras desarrollaba los diagramas de Aitken, para convertirse en parte de la técnica de notación gráfica de Penrose.
+Además, esta relación se usa ampliamente en las teorías dualidad-S, especialmente cuando están escritas en el lenguaje de formas diferenciales y duales de Hodge.
+Para cualquier entero n, utilizando un cálculo de residuos estándar, se puede escribir una representación integral para la delta de Kronecker como la integral de abajo, donde el contorno de la integral va en sentido antihorario alrededor de cero.
+Esta representación también es equivalente a una integral definida por una rotación en el plano complejo.
+La función peine de Kronecker con el período N se define (utilizando la notación usada en procesamiento digital de señales) como:
+donde N y n son números enteros.
+El peine de Kronecker consta así de una serie infinita de impulsos unitarios N separados, e incluye el impulso unitario en cero.
+Puede considerarse que es el análogo discreto del peine de Dirac.
+La delta de Kronecker también se denomina grado de aplicación de una superficie a otra.
+Supóngase que se lleva a cabo una aplicación desde la superficie Suvw a Sxyz que son los límites de las regiones, Ruvw y Rxyz, y que están simplemente conectadas con una correspondencia de uno a uno.
+En este marco, si s y t son parámetros para Suvw, y Suvw a Suvw están orientados según la normal externa de orden
+n
+mientras que la normal tiene la dirección de
+Sean
+,
+,
+definidas y suaves en un dominio que contenga Suvw, de forma que estas ecuaciones definan la aplicación de Suvw en Sxyz.
+Entonces, el grado δ de mapeo es
+1⁄4π
+veces el ángulo sólido de la imagen S de Suvw con respecto al punto interior de Sxyz,
+O
+. Si
+O
+es el origen de la región, Rxyz, entonces el grado, δ viene dado por la integral:

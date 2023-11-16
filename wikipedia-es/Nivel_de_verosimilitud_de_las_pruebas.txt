@@ -1,0 +1,10 @@
+El nivel o grado de verosimilitud de las pruebas clínicas es un sistema jerarquizado, basado en las pruebas o estudios de investigación, que ayuda a los profesionales de la salud a valorar la fortaleza o solidez de las pruebas asociada a los resultados obtenidos de una estrategia terapéutica, validez de una prueba diagnóstica, factor de riesgo de una enfermedad, etcétera.
+Desde finales de la década de 1990, cualquier procedimiento realizado en Medicina, ya sea preventivo, diagnóstico, terapéutico, pronóstico o rehabilitador, tiene que estar definido por su nivel de verosimilitud de las pruebas científicas, movimiento médico y científico conocido como «medicina basada en hechos».
+Según la US Agency for Health Research and Quality:
+Para cada tratamiento oncológico, los resultados obtenidos pueden clasificarse de dos formas diferentes:
+Las dos escalas de evaluación juntas ofrecen una idea del nivel general de verosimilitud de las pruebas.
+Ordenados de mayor a menor:
+Los metaanálisis de estudios aleatorios ofrecen la misma categoría de fortaleza de la verosimilitud de las pruebas que los estudios aleatorios, y no a un nivel superior.
+Ya que los estudios clínicos se clasifican por la solidez del diseño de investigación y la importancia de los resultados obtenidos, todo estudio tendría una jerarquización doble.
+Por ejemplo, 1.b.A para un estudio aleatorio no ciego que muestra un resultado favorable de la supervivencia general y 3.c.D.c para un ensayo de fase II de pacientes seleccionados usando la tasa de respuesta como el resultado.
+Además, todas las recomendaciones deben considerar otras características que no pueden ser cuantificadas tan fácilmente, como:

@@ -1,0 +1,19 @@
+El teorema del cuadrilátero de Euler o la ley de Euler sobre los cuadriláteros, llamada así debido al matemático suizo Leonhard Euler (1707-1783), describe una relación entre los lados de un cuadrilátero convexo y sus diagonales.
+Es una generalización de la ley del paralelogramo, que a su vez puede verse como una generalización del teorema de Pitágoras.
+Debido a esto último, la reformulación del teorema de Pitágoras en términos de cuadriláteros se denomina en ocasiones como el teorema de Euler-Pitágoras.
+Para un cuadrilátero convexo con lados a, b, c y d; diagonales e y f; y siendo g el segmento rectilíneo que conecta los puntos medios de las dos diagonales, se cumplen las siguientes ecuaciones:
+Si el cuadrilátero es un paralelogramo, entonces los puntos medios de las diagonales coinciden, de forma que el segmento g tiene longitud 0.
+Además, los lados paralelos son de igual longitud, y en consecuencia, el teorema de Euler se reduce a:
+expresión de la ley del paralelogramo.
+Si el cuadrilátero es un rectángulo, la ecuación se simplifica aún más, ya que en este caso las dos diagonales también tienen la misma longitud:
+Al dividir entre 2 se obtiene el teorema de Euler-Pitágoras:
+En otras palabras, en el caso de un rectángulo, la relación de los lados del cuadrilátero y sus diagonales se describe mediante el teorema de Pitágoras.
+Euler originalmente dedujo el teorema anterior como corolario de un teorema ligeramente diferente, que requiere la introducción de un punto adicional, pero proporciona una visión más estructural.
+Para un cuadrilátero convexo dado ABCD, Euler introdujo un punto adicional E, tal que ABED forma un paralelogramo, y entonces se cumple la siguiente igualdad:
+La distancia |CE| entre el punto adicional E y el punto C del cuadrilátero que no forma parte del paralelogramo, se puede interpretar como una medida de lo que se desvía el cuadrilátero de un paralelogramo, y |CE|^2 es un término de corrección que debe agregarse a la ecuación original de la ley del paralelogramo.
+Siendo M el punto medio de AC, entonces.
+Ya que N es el punto medio de BD, también es el punto medio de AE, dado que AE y BD son ambas diagonales del paralelogramo ABED.
+Esto implica que y por lo tanto,.
+De este hecho se sigue de acuerdo con el teorema de intercepción (y su inverso) que CE y NM son paralelos, y que por lo tanto,, expresión del teorema de Euler.
+El teorema de Euler se puede extender a un conjunto más grande de cuadriláteros, que incluye los cruzados y los alabeados.
+Es válido para los llamados cuadriláteros generalizados, que consisten simplemente en cuatro puntos arbitrarios en conectados por aristas para que formen el grafo de un ciclo.

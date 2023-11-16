@@ -1,0 +1,20 @@
+En matemática se denomina sinusoide o senoide a la curva que representa gráficamente la función seno y también a dicha función en sí.
+Es una curva que describe una oscilación repetitiva y suave.
+Su forma más básica en función del tiempo (t) es:
+La senoide es importante en física debido al hecho descrito por el teorema de Fourier que dice que toda onda, cualquiera que sea su forma, puede expresarse de manera única como superposición (suma) de ondas sinusoidales de longitudes de onda y amplitudes definidas.
+Por este motivo se usa esta función para representar tanto a las ondas sonoras como las de la corriente alterna.
+La sinusoide puede ser descrita por las siguientes expresiones matemáticas:
+donde
+Es el menor conjunto de valores de x que corresponden a un ciclo completo de valores de la función; en este sentido toda función de una variable que repite sus valores en un ciclo completo es una función periódica, senoidal o sinusoidal.
+En las gráficas de las funciones seno-coseno el período es 2\pi.
+Es el máximo alejamiento en el valor absoluto de la curva medida desde el eje x.
+Desde un punto de vista más técnico, la amplitud de la sinusoide es la norma del supremo de la sinusoide:
+La fase da una idea del desplazamiento horizontal de la senoide.
+Si dos sinusoides tienen la misma frecuencia e igual fase, se dice que están en fase.
+Si dos senoides tienen la misma frecuencia y distinta fase, se dice que están en desfase, y una de las sinusoides está adelantada o atrasada con respecto de la otra.
+Carece de sentido comparar la fase de dos sinusoides con distinta frecuencia, puesto que éstas entran en fase y en desfase periódicamente.
+Obsérvese que la cosinusoide (coseno), o cualquier combinación lineal de seno y coseno con la misma frecuencia, se pueden transformar en una sinusoide y viceversa, ya que:
+siendo
+Si M<0, considérese
+Para el caso particular :
+es decir, la función seno y la función coseno es la misma sinusoide desfasada (desplazada) \pi/2.

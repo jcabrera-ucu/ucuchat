@@ -1,0 +1,22 @@
+En teoría de grafos, la cajeidad (boxicity en inglés) es un invariante de grafo, introducido por Fred S. Roberts en 1969.
+La cajeidad de un grafo es la dimensión mínima en la que un grafo dado puede representarse como un grafo de intersección de cajas paralelas a un sistema de ejes.
+Es decir, debe existir una correspondencia biunívoca entre los vértices del grafo y un conjunto de cajas, tal que dos cajas se intersecan si y solo si hay una arista en el grafo que conecta los vértices correspondientes.
+La figura muestra un grafo con seis vértices y su representación como un grafo de intersección de rectángulos (cajas bidimensionales).
+Este grafo no se puede representar como un grafo de intersección de cajas en ninguna dimensión inferior, por lo que su cajeidad es dos.
+demostró que el grafo con 2n vértices formado al quitar un emparejado perfecto de un grafo completo de 2n vértices tiene cajeidad exactamente n: cada par de vértices desconectados debe estar representado por cajas que están separadas en una dimensión diferente que cada otro par.
+Se puede encontrar una representación de caja de este grafo con dimensión exactamente n al engrosar cada una de las 2n facetas de un hipercubo de dimensión n en una caja.
+Debido a estos resultados, a este grafo se le ha denominado grafo de Roberts, aunque es más conocido como grafo de cóctel y también puede interpretarse como un grafo de Turán T( 2n,n).
+Un grafo tiene cajeidad como máximo uno si y solo si es un grafo de intervalos; la cajeidad de un grafo arbitrario G es el número mínimo de grafos de intervalo en el mismo conjunto de vértices de manera que la intersección de los conjuntos de aristas de los grafos de intervalo es G.
+Cada grafo plano exterior tiene cajeidad como máximo dos, y cada grafo plano tiene cajeidad como máximo tres.
+Si un grafo bipartito tiene cajeidad dos, se puede representar como un grafo de intersección de segmentos de línea recta paralelos al eje en el plano.
+probó que la cajeidad de un grafo bipartito G está dentro de un factor 2 de la dimensión de orden del conjunto parcialmente ordenado de altura-dos asociado a G de la siguiente manera: el conjunto de elementos mínimos corresponde a un conjunto partito de G, el conjunto de elementos máximos corresponde al segundo conjunto parcial de G, y dos elementos son comparables si los vértices correspondientes son adyacentes en G.
+De manera equivalente, la dimensión de orden de un conjunto parcialmente ordenado P de altura dos está dentro de un factor 2 de la cajeidad del grafo de comparabilidad de P (que es bipartito, ya que P tiene altura dos).
+Muchos problemas de grafos se pueden resolver o aproximar de manera más eficiente para grafos con cajeidad acotada que para otros grafos; por ejemplo, el problema del clique se puede resolver en tiempo polinomial para grafos con cajeidad acotada.
+Para algunos otros problemas de grafos, se puede encontrar una solución o aproximación eficiente si se conoce una representación de caja de baja dimensión.
+Sin embargo, encontrar tal representación puede ser difícil: es NP-completo probar si la cajeidad de un grafo dado es como mucho un valor dado K, incluso para K = 2.
+describió algoritmos para encontrar representaciones de grafos arbitrarios como grafos de intersección de cajas, con una dimensión dentro de un factor logarítmico del grado máximo del grafo; este resultado proporciona un límite superior de la cajeidad del grafo.
+A pesar de ser difícil por su parámetro natural, la cajeidad es abordable con parámetros fijos cuando se parametriza por el número de cobertura de vértices del grafo de entrada.
+Si un grafo G tiene m aristas, entonces:
+Si un grafo G es k-degenerado (con k\ge 2) y tiene n vértices, entonces G tiene cajeidad.
+Si un grafo G no tiene el grafo completo en los t vértices como menor, entonces mientras haya grafos sin grafo completo en los t vértices como menor, y con cajeidad.
+En particular, cualquier grafo G tiene la cajeidad, donde \mu(G) denota el invariante de Colin de Verdière de G.

@@ -1,0 +1,9 @@
+Tet metilcitosina dioxigenasa 1 (TET1) es un miembro de la familia TET de enzimas.
+En humanos está codificada por el gen TET1 ubicado en el cromosoma 10.
+TET1 cataliza la transformación de 5-metilcitosina en 5-hidroximetilcitosina.
+TET1 juega un importante papel en la desmetilación del ADN.
+Este fenómeno esta implicado en la regulación de la expresión génica en los mamíferos y en el silenciamiento de determinados genes durante el proceso de diferenciación celular.
+Esta familia de enzimas está compuesta por tres miembros: TET1, TET2 y TET3.
+Actúan sucesivamente sobre la 5-metilcitosina para dar origen a 5-hidroximetilcitosina,  5-formilcitosina  y  5-carboxilcitosina.
+De las tres TET1 es la enzima más estudiada, y se considera de importancia crítica para iniciar el proceso de oxidación en la desmetilación del ADN en células de mamíferos.
+Mutaciones en los genes TET que provocan una disminución en su expresión se han observado en diferentes tipos de cáncer.

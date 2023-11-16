@@ -1,0 +1,23 @@
+En álgebra lineal, se dice que dos matrices A y B de n-por-n sobre el cuerpo K son semejantes si existe una matriz invertible P de n-por-n sobre K tal que:
+Uno de los significados del término transformación de semejanza es una transformación de la matriz A en la matriz B.
+En teoría de grupos, la semejanza se llama clase de conjugación.
+Las matrices semejantes comparten varias propiedades:
+Hay dos razones para estas características:
+Debido a esto, para una matriz A dada, estamos interesados en encontrar una "forma normal" sencilla B que sea semejante a A: el estudio de A se reduce de esta manera al estudio de la matriz semejante (y más sencilla) B.
+Por ejemplo, A se llama diagonalizable si es semejante a una matriz diagonal.
+No todas las matrices son diagonalizables, pero por lo menos sobre los números complejos (o cualquier cuerpo algebraicamente cerrado), toda matriz es semejante a una matriz en forma de Jordan.
+Otra forma normal, la forma canónica racional, se aplica en cualquier campo.
+Observando las formas de Jordan o las formas canónicas racionales de A y B, puede decidirse inmediatamente si A y B son semejantes.
+La semejanza de matrices no depende del cuerpo base: si L es un cuerpo conteniendo a K como subcuerpo, y A y B son dos matrices en K, entonces A y B son semejantes como matrices sobre K si y solo si son semejantes como matrices sobre L.
+Esto es bastante útil: uno puede agrandar en forma segura el cuerpo K, por ejemplo para obtener un cuerpo algebraicamente cerrado; las formas de Jordan pueden computarse sobre el cuerpo grande y puede usarse para determinar si las matrices dadas son semejantes sobre el cuerpo pequeño.
+Este método puede usarse, por ejemplo, para mostrar que toda matriz es semejante a su traspuesta.
+Si en la definición de semejanza, la matriz P puede elegirse para que sea una matriz de permutación, entonces A y B son semejantes en permutación; si P puede elegirse para que sea una matriz unitaria, entonces A y B son unitariamente equivalentes.
+El teorema espectral establece que toda matriz normal es unitariamente equivalente a alguna matriz diagonal.
+Otra relación de equivalencia importante para matrices reales es la congruencia.
+Dos matrices reales A y  B se llaman congruentes si hay una matriz regular real P tal que:
+Recordemos que un endomorfismo es una aplicación lineal entre un mismo espacio vectorial, es decir, tal que:
+Entre el espacio vectorial de los endomorfismos y el anillo de las matrices cuadradas existe un isomorfismo que, fijada una base en, asigna una única matriz a cada endomorfismo (por supuesto si se cambia de base, la matriz también cambiará).
+Supóngase que se tienen dos bases de llamadas  de modo que
+En lo que sigue usaremos el convenio de sumación de Einstein para hacer más ligera la notación.
+Sean ahora y  las matrices asociadas al endomorfismo en las respectivas bases de modo que  y, entonces las matrices se relacionan por:
+es decir hay una relación de similitud entre ellas.

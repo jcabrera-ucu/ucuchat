@@ -1,0 +1,5 @@
+El xDrive es el sistema de tracción total de BMW.
+El XDrive gestiona la tracción en un trabajo conjunto que engloba todos los sistemas, se regula mediante el sistema de frenado aplicado a determinadas ruedas y por el sistema XDrive que selecciona el tipo de tracción necesario en ese determinado momento 2x4 trasera o 4x4 tracción total con reparto de potencia 40% delantero y 60% trasero.
+Esta selección se ejecuta mediante un embrague multidisco en baño de aceite, situado en el diferencial central y que es accionado por medio de un servomotor eléctrico de alta velocidad de respuesta 0,01seg.
+Si una rueda pierde tracción es detectado por la unidad de control y hace intervenir los sistemas ABS, DSC y XDrive en función de la necesidad.
+Por su parte el sistema xDrive libera al DSC de cierto trabajo, dinámicamente el vehículo tracciona mejor en condiciones de poca adherencia con la configuración 4x4 permitiendo cierto deslizamiento de las ruedas no llegando a bloquearlas totalmente como ocurre con los sistemas ABS y DSC tradicionales al detectar la falta de tracción.

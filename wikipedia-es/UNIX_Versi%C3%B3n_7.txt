@@ -1,0 +1,23 @@
+La séptima edición de Unix, también llamada Unix versión 7, Version 7 Unix o V7.
+Lanzado en 1979, fue el último lanzamiento de los Laboratorios Bell para ver la generalización de Unix antes de ser comercializado por AT&T a principios de los años 1980.
+V7 se ejecuta, además de en otros, sobre PDP-11, minicomputadoras y sobre el Interdata 8/32.
+Las versiones de Unix de los Laboratorios Bell son designados sobre la edición del manual de usuario con el que viene acompañado.
+La séptima edición era precedida por la Sexta Edición de Unix, que fue la primera versión en ser lanzada ampliamente fuera de los laboratorios de desarrollo de la línea de Research Unix continuada por la octava edición, con la incorporación del desarrollo desde 4.1BSD.
+V7 ha sido la primera versión de Unix realmente portable, y muchas portabilidades se llevaron a cabo.
+La primera estación de trabajo de Sun se ejecutaba sobre un sistema portado V7 de Unisoft, y la primera versión de Xenix fue una extensión de V7.
+El sistema VAX de V7, llamado UNIX/32V, es el ancestro indirecto del más cercano sistema Unix actual.
+El grupo de la Universidad Wollongong que produjo la migración V6 para Interdata 7/32 también migró V7 hacia esta máquina.
+DEC distribuye su propia versión de V7, llamada V7M (por estar modificada), para el PDP-11.V7M, desarrollado por el Unix Engineering Group (UEG) original, contenía muchos parches al núcleo para el PDP-11 e incluía el apoyo a la instrucción separada y espacios de datos, un trabajo importante para la recuperación de errores de hardware, y muchos controladores de dispositivo.
+Gran parte del trabajo se puso en la producción de una versión fiable de arranque desde muchas unidades de cinta o unidades de disco.
+V7M fue muy respetado en la comunidad Unix.
+UEG se convirtió en el grupo que más tarde desarrolló Ultrix.
+Debido a su poder pero elegante simplicidad, muchos antiguos usuarios de Unix recuerdan con cariño (y con nostalgia) V7 como el pináculo de desarrollo de Unix y de la última “verdadera” Unix,
+mejor a todos los anteriores y posteriores a Unix.
+En 2002, Caldera Systems lanzó V7 bajo la licencia de software libre.
+Imágenes de arranque para V7 pueden ser descargadas hoy, para ser ejecutadas sobre PCs utilizando emuladores de PDP-11.
+Algunas características nuevas fueron introducidas en la versión 7.
+Herramientas de programación
+como lex, lint, pcc y make hicieron su primera aparición en el linaje de la investigación de Unix en la versión 7.
+Versiones más recientes de algunos de ellos ya han sido recogidos por PWB/UNIX.
+Algunos, en particular RJE y SCCS, vinieron de PWB/UNIX, que son en gran parte desconocidos y ajenos a los laboratorios Bell.
+Otros que se enumeran a continuación, demuestran la influencia de la versión 7:

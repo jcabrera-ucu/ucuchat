@@ -1,0 +1,5 @@
+gThumb es un potente visor, organizador, buscador y administrador de imágenes libre.
+Fue desarrollado para utilizarse en el entorno de escritorio GNOME.
+Originalmente estaba basado en el ahora abandonado GQView, y mantiene una interfaz limpia y sencilla.
+gThumb soporta los siguientes formatos de imágenes:
+Para poder utilizar el programa gThumb se necesitan tener instaladas las librerías gráficas GTK+ 2.8, las cuales son implementadas en los entornos de escritorio GNOME y Xfce, entre otros.

@@ -1,0 +1,22 @@
+El voto afirmativo, voto positivo o voto a candidaturas en una elección democrática es aquel válidamente emitido, según los requisitos exigidos por la legislación respectiva, que manifiesta la voluntad del elector a favor de una determinada lista, agrupación o candidato.
+Junto con el voto en blanco constituyen los votos válidos.
+Tiene una gran importancia porque en la mayoría de los sistemas electorales todos los cálculos para atribuir cargos a los candidatos ganadores, se realizan únicamente sobre los votos positivos.
+Los requisitos varían de país en país.
+El requisitos básico de validez de un voto es que haya sido realizado con una boleta oficial.
+En principio su validez no resulta afectada aunque la boleta esté rota o tachada, en tanto no estén destruidos los nombres del partido o de los candidatos.
+No obstante, si la boleta contiene inscripciones el voto pasa a ser nulo (ya que se podría identificar quien lo emitió a partir de su caligrafía).
+En caso de que se hubieran introducido dos boletas idénticas en un sobre, es válido y se cuenta como un solo voto (la papeleta sobrante debe ser destruida ahí mismo).
+En los escrutinios manuales el examen sobre la validez del voto es realizado inicialmente por el presidente de mesa al momento de efectuar el conteo voto a voto de la urna, discriminando entre votos positivos, nulos y en blanco.
+En ciertos casos el voto de los ciudadanos puede ser cuestionado en la mesa electoral, ya sea antes de ser emitido (voto impugnado), o después de ser emitido (voto recurrido).
+En ambos casos la validez del voto queda suspendida, y debe ser resuelta, a favor o en contra, por el juez electoral en el escrutinio definitivo.
+En los casos en los que existen dudas sobre la identidad del votante, el presidente de mesa o los fiscales partidarios pueden "impugnar su voto".
+En ese caso el ciudadano vota siguiendo un procedimiento especial, por el cual se separa el sobre utilizado para votar, y se registra en su exterior los datos del votante y su huella digital.
+El sobre cerrado es enviado al juez electoral a cargo del escrutinio definitivo quien deberá determinar la identidad cuestionada.
+En caso de confirmarla, el voto se vuelve positivo y debe ser computado en el escrutinio definitivo.
+Los sobres de los votos impugnados no pueden ser abiertos en el conteo en la mesa y no se cuentan como positivos en el escrutinio provisorio.
+Si el presidente de una mesa electoral declarara un voto como positivo, nulo o en blanco, pero algún fiscal de un partido político presente estuviera en desacuerdo, puede "recurrirlo".
+El voto recurrido tiene suspendida su validez, la que deberá ser aclarada en el escrutinio definitivo por el juez electoral.
+Los votos recurridos, no se cuentan como positivos en el escrutinio provisorio.
+El voto positivo es de suma importancia para las elecciones democráticas.
+La doctrina habla de "votos válidamente emitidos", excluyendo de los mismos tanto a los votos en blanco como a los votos nulos.
+Por lo tanto, solo los votos positivos influyen en la elección de los candidatos.

@@ -1,0 +1,97 @@
+En álgebra lineal, los números duales extienden los números reales al incorporar un nuevo elemento ε, con la propiedad de que (es decir, ε es nilpotente).
+Así, la multiplicación de números duales está dada por
+(y la adición se realiza por componentes).
+La colección de números duales forma un álgebra asociativa conmutativa y unitaria bidimensional particular sobre los números reales.
+Cada número dual tiene la forma z = a + bε, donde a y b son números reales determinados de forma única.
+Los números duales también pueden considerarse como el álgebra exterior de un espacio vectorial unidimensional.
+El caso general de n dimensiones conduce a los números de Grassmann.
+El álgebra de los números duales es un anillo que es de carácter local, ya que el ideal principal generado por ε es su único ideal maximal.
+Los números duales forman los coeficientes de los cuaterniones duales.
+Al igual que los números complejos y los números complejos hiperbólicos, los números duales forman un álgebra que es bidimensional sobre el campo de los números reales.
+Los números duales fueron introducidos en 1873 por William Clifford, y fueron utilizados a principios del por el matemático alemán Eduard Study, quien los usó para representar el ángulo doble que mide la posición relativa de dos rectas oblicuas en el espacio.
+Study definió un ángulo doble como, donde \vartheta es el ángulo entre las direcciones de dos rectas en un espacio tridimensional y d es una distancia entre ellas.
+La generalización n dimensional, los números de Grassmann, fue introducida por Hermann Grassmann a finales del siglo XIX.
+Usando matrices, los números duales se pueden representar como
+La suma y el producto de los números duales se calculan con adición matricial y multiplicación de matrices ordinarias; ambas operaciones son conmutativas y asociativas dentro del álgebra de números duales.
+Esta correspondencia es análoga a la matrix representación matricial de números complejos habitual.
+Sin embargo, no es la única representación con matrices reales 2 × 2, como se demuestra en perfil de matrices reales 2 × 2.
+El círculo unitario de números duales consiste en aquellos con a = 1 o −1 ya que estos satisfacen z z* = 1, donde z* = a - bε.
+Sin embargo, teniendo en cuenta que
+entonces la aplicación exponencial aplicada al eje ε cubre solo la mitad del círculo.
+Sea z = a + bε.
+Si a ≠ 0 y m = b / a, entonces z = a (1 + mε) es la descomposición polar del número dual z, y pendiente m es su parte angular.
+El concepto de una rotación en el plano numérico dual es equivalente a una aplicación de corte vertical, ya que (1 + pε) (1 + qε) = 1 + (p + q)ε.
+En espacio y tiempo absolutos la transformación de Galileo
+relaciona el sistema de coordenadas en reposo con un marco de referencia móvil de velocidad v.
+Con números duales t + xε que representan sucesos en una dimensión espacial y tiempo,
+la misma transformación se efectúa con la multiplicación por (1 + vε).
+Dados dos números duales p y q, determinan el conjunto de z de tal manera que la diferencia en las pendientes ("ángulo de Galileo") entre las rectas de z a p y q son constantes.
+Este conjunto es un ciclo en el plano de los números duales.
+Dado que la ecuación que establece la diferencia entre las pendientes de las rectas a una constante es una ecuación de segundo grado en la parte real de z, un ciclo es una parábola.
+La rotación cíclica del plano numérico dual ocurre como un movimiento de la recta proyectiva sobre los números duales.
+De acuerdo con Yaglom (págs. 92,3), el ciclo Z = {z: y = α x2} es invariante bajo la aplicación de corte
+Esta composición es una "rotación cíclica".
+El concepto ha sido desarrollado por V. V. Kisil.
+En términos del álgebra abstracta, los números duales se pueden describir como el cociente del anillo de polinomios R [X] por el ideal generado por el polinomio X2,
+La imagen de X en el cociente es ε.
+Con esta descripción, queda claro que los números duales forman un anillo conmutativo con característica 0.
+La multiplicación heredada da a los números duales la estructura de un álgebra asociativa y conmutativa sobre los números reales de dimensión dos.
+El álgebra no es un álgebra con division o un campo, ya que los elementos de la forma 0 + bε no son invertibles.
+Todos los elementos de esta forma son divisores de cero (consúltese también la sección "División").
+El álgebra de los números duales es isomorfa al álgebra exterior de.
+Esta construcción se puede llevar a cabo de manera más general: para un anillo conmutativo R se pueden definir los números duales sobre R como el cociente del anillo de polinomios R[X] por el ideal (X2): la imagen de X tiene un cuadrado igual a cero, y corresponde al elemento ε.
+Este anillo y sus generalizaciones juegan un papel importante en la teoría algebraica de derivación y de diferenciales de Kähler (formas diferenciales puramente algebraicas).
+A saber, el haz tangente de un esquema sobre una base afín R puede identificarse con los puntos de.
+Por ejemplo, considérese el esquema afín
+Recordando que las aplicaciones son equivalentes a, entonces cada aplicación \varphi se puede definir como la transformación de los generadores
+donde la relación
+se mantiene.
+Esto implica una presentación de TX como
+Sobre cualquier anillo R, el número dual a + bε es unitario (es decir, invertible multiplicativamente) si y solo si a es una unidad en R.
+En este caso, el inverso de a + bε es a−1 - ba−2ε.
+Como consecuencia, se observa que los números duales sobre cualquier campo (o cualquier anillo local conmutativo) forman un anillo local, siendo su ideal máximo el ideal principal generado por ε.
+Una generalización más estrecha es la de introducir n generadores anti-conmutación, originando los denominados números de Grassmann o nsupernúmeros, que se analizan a continuación.
+Los números duales encuentran aplicaciones en física, donde constituyen uno de los ejemplos no triviales más simples de un superespacio.
+De manera equivalente, son supernúmeros con un solo generador; los supernúmeros generalizan el concepto a los distintos
+n
+generadores ε, cada uno de ellos anti-conmutativo, con la posibilidad de incrementar
+n
+indefinidamente.
+El superespacio generaliza adicionalmente los supernúmeros, al permitir múltiples dimensiones de desplazamiento.
+La motivación para introducir números duales en la física se deriva del Principio de exclusión de Pauli para los fermiones.
+La dirección en ε se denomina dirección fermiónica, y el componente real se denomina dirección bosónica.
+La dirección fermiónica recibe este nombre por el hecho de que los fermiones obedecen el principio de exclusión de Pauli: bajo el intercambio de coordenadas, la función de onda mecánica cuántica cambia de signo y, por lo tanto, desaparece si se juntan dos coordenadas; esta idea física es reflejada por la relación algebraica ε2 =  0.
+Una aplicación de números duales es de diferenciación automática.
+Considérense los números duales reales anteriores.
+Dado cualquier polinomio real P(x) = p0 + p1x + p2x2 + ... + pnxn, es sencillo extender el dominio de este polinomio de los números reales a los duales.
+Entonces se obtiene este resultado:
+donde P^\prime es la derivada de P.
+Al calcular sobre los números duales, en lugar de sobre los reales, se puede usar esta relación para calcular derivadas de polinomios.
+En términos más generales, se puede extender cualquier función real (analítica) a los números duales analizando su serie de Taylor:
+dado que todos los términos que involucran o superior son trivialmente 0 por la definición de \varepsilon.
+Al calcular las composiciones de estas funciones sobre los números duales y al examinar el coeficiente de ε en el resultado, resulta que se ha calculado automáticamente la derivada de la composición.
+Un método similar funciona para polinomios de n variables, utilizando el álgebra exterior de un espacio vectorial n-dimensional.
+La división de números duales se define cuando la parte real del denominador no es cero.
+El proceso de división es análogo a la división de números complejos, en la que el denominador se multiplica por su conjugado para cancelar las partes no reales.
+Por lo tanto, para dividir una ecuación de la forma:
+se multiplica la parte superior e inferior por el conjugado del denominador:
+que se define para cuando c es no nulo.
+Si, por otro lado, c es cero mientras que d no lo es, entonces la ecuación
+Esto significa que la parte no real del cociente es arbitraria y, por lo tanto, la división no está definida para números duales puramente no reales.
+De hecho, son (trivialmente) divisores de cero y claramente forman un ideal del álgebra asociativa (y por lo tanto anillo) de los números duales.
+La idea de una recta proyectiva sobre los números duales fue desarrollada por Grünwald y Corrado Segre.
+Así como la esfera de Riemann necesita un punto del infinito del polo norte para cerrarla, una recta del infinito logra cerrar el plano de los números duales en un cilindro.
+Supóngase que D es el anillo de los números duales x + y &epsilon; y U es el subconjunto con x ≠ 0.
+Entonces U es la unidad de D. Sea B = {(a, b) en D x D: a ∈ U o b ∈ U}.
+Se define una relación en B de la siguiente manera: (a, b) ~ (c, d) cuando hay una u en U tal que ua = c y ub = d.
+Esta relación es, de hecho, una relación de equivalencia.
+Los puntos de la recta proyectiva sobre D son clases de equivalencia en B bajo esta relación: P(D) = B / ~.
+Considérese el encaje D → P(D) por z → U (z, 1) donde U (z, 1) es la clase de equivalencia de (z, 1).
+Entonces los puntos U (1, n), n2 = 0, están en P(D) pero no son la imagen de ningún punto bajo el encaje.
+P(D) se hace corresponder con un cilindro mediante la siguiente proyección: tómese una tangente del cilindro al plano de los números duales en la recta {y &epsilon;: y ∈ ℝ},&epsilon;2 = 0.
+Ahora, tómese la línea opuesta en el cilindro como eje de un haz de planos.
+Los planos que cruzan el plano de los números duales y el cilindro proporcionan una correspondencia de puntos entre estas superficies.
+El plano paralelo al plano de los números duales se corresponde con los puntos U (1, n), n2 = 0 en la recta proyectiva sobre los números duales.
+Los números duales encuentran aplicaciones en mecánica, especialmente para la síntesis cinemática.
+Por ejemplo, los números duales hacen posible transformar las ecuaciones de entrada/salida de un enlace esférico de cuatro barras, que incluye solo uniones rotativas, en un mecanismo espacial de cuatro barras (rótula, rótula, rótula, cilíndrico).
+Los ángulos dualizados están formados por una parte primitiva, los ángulos, y una parte dual, que tiene unidades de longitud.

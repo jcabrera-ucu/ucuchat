@@ -1,0 +1,21 @@
+El río Liucura es un curso natural de agua que nace en la falda sur de los Nevados de Caburga y fluye en la Región de la Araucanía con dirección general sur hasta desembocar en el río Carrileufú (Pucón).
+El río Liucura nace en las laderas sur de los nevados de Caburga (bordean por el este al lago homónimo) y desemboca en el río Carrileufú.
+En la cuenca del río Pucón o Trancura, desde su nacimiento en las cabeceras en la divisoria de las aguas hasta su desembocadura en el lago Villarrica incluyendo el río Liucura, se observa un régimen pluvio–nival, con sus crecidas invernales, producto de las lluvias, y en menor medida en primavera, producto de una leve influencia nival.
+En años lluviosos las crecidas ocurren entre mayo y julio, producto de aportes pluviales.
+Sin embargo, los caudales provenientes de aportes nivales, observados entre octubre y diciembre, también presentan valores de importancia.
+En años normales y secos la influencia pluvial sigue siendo mayor que la nival, observándose los mayores caudales entre
+junio y agosto.
+El período de bajos niveles de agua se presenta en el trimestre dado por los meses de enero a marzo.
+El caudal del río (en un lugar fijo) varía en el tiempo, por lo que existen varias formas de representarlo.
+Una de ellas son las curvas de variación estacional que, tras largos periodos de mediciones, predicen estadísticamente el caudal mínimo que lleva el río con una probabilidad dada, llamada probabilidad de excedencia.
+La curva de color rojo ocre (con ) muestra los caudales mensuales con probabilidad de excedencia de un 50%.
+Esto quiere decir que ese mes se han medido igual cantidad de caudales mayores que caudales menores a esa cantidad.
+Eso es la mediana (estadística), que se denota Qe, de la serie de caudales de ese mes.
+La media (estadística) es el promedio matemático de los caudales de ese mes y se denota.
+Una vez calculados para cada mes, ambos valores son calculados para todo el año y pueden ser leídos en la columna vertical al lado derecho del diagrama.
+El significado de la probabilidad de excedencia del 5% es que, estadísticamente, el caudal es mayor solo una vez cada 20 años, el de 10% una vez cada 10 años, el de 20% una vez cada 5 años, el de 85% quince veces cada 16 años y la de 95% diecisiete veces cada 18 años.
+Dicho de otra forma, el 5% es el caudal de años extremadamente lluviosos, el 95% es el caudal de años extremadamente secos.
+De la estación de las crecidas puede deducirse si el caudal depende de las lluvias (mayo-julio) o del derretimiento de las nieves (septiembre-enero).
+Su nombre significa en mapudungun piedra blanca.
+Luis Risopatrón lo describe sucintamente en su Diccionario Jeográfico de Chile de 1924:
+Entre las actividades que se realizan en este río están la pesca y el ráfting.

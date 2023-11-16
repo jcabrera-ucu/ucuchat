@@ -1,0 +1,18 @@
+SCUMM (Script Creation Utility for Maniac Mansion, inglés, "Utilidad de creación de scripts para Maniac Mansion") se encuentra a medio camino entre un lenguaje y un motor para videojuegos para aventuras gráficas.
+SCUMM fue creado por Lucasfilm Games (después conocida como LucasArts) y desarrollado por Aric Wilmunder y Ron Gilbert para su videojuego Maniac Mansion en 1987, considerada como una de las primeras aventuras gráficas de la historia de los videojuegos.
+Fue el motor de aventuras gráficas más popular en los ochenta y primeros noventa, teniendo en AGI y SCI de Sierra On-Line sus principales competidores.
+SCUMM permitía a los diseñadores de juegos crear lugares, objetos y secuencias de diálogos sin necesidad de escribir en el mismo lenguaje con el que se había escrito el código fuente del juego.
+La versión original fue codificada por Ron Gilbert (con ayuda inicial de Chip Morningstar, también conocido como UnXman) en 1987,  con versiones posteriores mejoradas por Aric Wilmunder (también conocido como SCUMM Lord) y Brad P. Taylor.
+Este es un lenguaje simbólico que proporciona técnicas de codificación innovadoras.
+Fichas como P.R.I.N.E. fueron los primeros en ser utilizados.
+Para el juego Full Throttle, el equipo trabajó para integrar SCUMM con el motor de animación INSANE que se había desarrollado previamente para Star Wars: Rebel Assault.
+Aunque Wilmunder había logrado que los dos sistemas funcionaran para el envío de Full Throttle, la interacción entre los dos no siempre fue estable y pasó un tiempo antes de The Curse of Monkey Island para que SCUMM funcionara en el motor INSANE, reemplazando algunas de las piezas del motor SCUMM.
+usar eso era nativo de INSANE.
+Internamente, gran parte del funcionamiento de SCUMM no estaba documentado, ya que Wilmunder creía que era relativamente fácil de aprender, pero cambió este enfoque antes de The Secret of Monkey Island.
+Para capacitar a los nuevos empleados en el motor, Gilbert los puso en la Universidad SCUMM, un período de una semana en el que se les enseñó cómo usar el motor SCUMM.
+A estos nuevos empleados, llamados scummlets, se les dio la oportunidad de explorar y ampliar el trabajo de ejemplo para ayudar a identificar dónde encajarían mejor en el equipo de desarrollo.
+LucasArts finalmente abandonó el motor SCUMM en 1998, cuando cambiaron a GrimE, utilizando el lenguaje de programación de software libre Lua, para los juegos Grim Fandango y Escape from Monkey Island.
+Humongous Entertainment continuó usando el motor para sus juegos educativos y series deportivas Backyard Sports.
+En marzo de 2016, Wilmunder reveló que compartiría los documentos de diseño de muchos de los juegos de aventuras de LucasArts y el código fuente del motor SCUMM, que planea proporcionar en formato digital a través de GitHub.
+Nota: La tecnología iMUSE fue implementada en esta versión de SCUMM.
+Aunque la herramienta ScummVM provocó que los juegos basados en SCUMM volvieran a conocerse en la actualidad, no todos los juegos compatibles con la máquina virtual están basados en esa plataforma.

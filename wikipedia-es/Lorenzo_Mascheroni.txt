@@ -1,0 +1,5 @@
+Lorenzo Mascheroni (13 de mayo de 1750, Bérgamo - 14 de julio de 1800, París) matemático Italiano.
+Logró una aproximación geométrica al número π, denominada Método de Mascheroni.
+Al comienzo de su carrera se interesó principalmente en las humanidades (poesía y griego) hasta que empezó como profesor de matemáticas en Pavía.
+En su libro Geometria del Compasso (Pavía, 1797), probó que cualquier construcción geométrica que pueda ser hecha con regla y compás, puede ser hecha únicamente con compás, aunque el primero en dar ese resultado (hoy conocido como Teorema de Mohr-Mascheroni) fue el danés Georg Mohr, quién publicó una prueba en 1672.
+En sus Adnotationes ad calculum integrale Euleri (1790) publicó el cálculo de la constante de Euler-Mascheroni.

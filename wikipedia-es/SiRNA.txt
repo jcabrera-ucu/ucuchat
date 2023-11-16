@@ -1,0 +1,214 @@
+siRNA son las siglas en inglés de small interfering RNA, en español ARN pequeño de interferencia (ARNpi) o ARN de silenciamiento, una clase de ARN bicatenario.
+Es un tipo de ARN interferente con una longitud de 20 a 25 nucleótidos que es altamente específico para la secuencia de nucleótidos de su ARN mensajero diana, interfiriendo por ello con la expresión del gen respectivo.
+Interviene en el mecanismo denominado interferencia de ARN (RNA interference, RNAi), donde el siRNA interfiere con la expresión de un gen específico, reduciéndola.
+Además, los siRNAs también actúan en otras rutas relacionadas con el RNAi, como en la defensa antiviral o en la organización de la estructura de la cromatina en un genoma.
+La complejidad de estas rutas es el objeto de intensos estudios, y su descubrimiento fue la razón por la cual Craig C. Mello y Andrew Fire recibieron el Premio Nobel de Fisiología o Medicina 2006.
+Los siRNAs son moléculas de ARN doble hebra de 20-25 nucleótidos (nt) perfectamente complementarias, que se originan a partir de un ARN largo de doble hebra (dsRNA, double strand RNA).
+Los dsRNAs pueden ser de origen endógeno (por ejemplo los tránscritos generados a partir de secuencias de ADN repetidas en tándem), o de origen exógeno (como virus o transgenes).
+La enzima responsable del procesamiento del dsRNA en moléculas de siRNAs es Dicer, una enzima citoplásmica de la familia ARNasa III, que procesa el dsRNA en fragmentos de ARN doble hebra con extremos 5' fosfato y 2 nucleótidos libres con extremo hidroxilo (-OH) en 3'.
+Los siRNAs suprimen la expresión de los genes diana mediante el corte del ARN mensajero (ARNm) complementario en dos mitades, a través de la interacción de la hebra antisentido del siRNA con el complejo RISC (RNA-induced silencing complex).
+Las dos mitades del ARNm son posteriormente degradadas por la maquinaria celular, lo que conlleva la supresión de la expresión del gen.
+Por otro lado, los siRNAs promueven la modificación del ADN, facilitando el silenciamiento de la cromatina, puesto que favorecen la expansión de los segmentos de heterocromatina, a través del complejo RITS (RNA-induced transcriptional silencing).
+El mecanismo de interferencia de ARN (RNAi) se observó por primera vez en plantas como parte del silenciamiento post-transcripcional de genes (PTGS).
+Investigadores que trataban de introducir transgenes en petunias para conseguir flores de un color violeta más intenso, obtuvieron flores con zonas blancas, lo que indicaba que tanto los transgenes introducidos como los genes endógenos habían sido silenciados.
+Este efecto se denominó co-supresión, y se observó que podía inducirse por:
+Por esta razón, se supuso que este era un mecanismo de defensa en las plantas, de forma que estas responden a la infección de los retrovirus mediante la destrucción de los ARN virales.
+Sin embargo, el mecanismo de acción era desconocido.
+Por otro lado, los investigadores que trabajaban en la década de los 90 en el gusano C. elegans, inyectaban ARN-antisense en las gónadas del gusano para tratar de interferir con la expresión de los genes, puesto que pensaban que el ARN-antisense se aparearía con el ARNm (sense), evitando de esta forma la traducción del ARNm y suprimiendo la expresión del gen objetivo.
+Sin embargo, Guo y Kemphues, observaron que la inyección de ARN-sense en el gusano era igualmente eficaz que el ARN-antisense para la supresión de la expresión génica.
+Pero no podían explicar por qué razón.
+En 1998, Andrew Fire, Craig C. Mello y colaboradores publicaron un trabajo en Nature, en el cual indicaban que, si inyectaban solo ARN de hebra simple en el gusano, tanto sense como antisense, no se observaba ningún efecto.
+Sin embargo, si inyectaban ARN doble hebra (dsRNA), observaban la supresión específica del gen objetivo.
+Esto puede parecer contradictorio con los resultados de Guo y Kemphues, pero estos inyectaron ARN de hebra simple (sense o antisense) que no había sido purificado, de forma que en el proceso de producción se producen segmentos de doble hebra, que son los que generan la supresión observada por Guo y Kemphues.
+Sin embargo, Fire y Mello utilizaron ARN purificado, que no contiene dsRNA y por tanto es inactivo.
+Cuando las hebras sense y antisense se aparean para producir dsRNA, el efecto de supresión es 100 veces mayor al observado con las hebras simples por separado.
+Asimismo, en el mismo reporte, Fire y Mello establecieron que la interferencia de la expresión del gen objetivo se produce a nivel del ARNm: cuando inyectaron en gusanos dsRNA contra el gen mex-3, detectaron que el ARNm de mex-3 desaparece, y por tanto los gusanos no son viables.
+Sin embargo, cuando inyectaban ARN de hebra simple (sense o antisense) contra mex-3, la mayor parte del ARNm de mex-3 permanecía intacto, y por ello no se observa fenotipo.
+Igualmente, también establecieron que el efecto de supresión solo ocurre si el dsRNA que se introduce en el gusano es complementaria de una región codificante (exones), pero no si es complementaria de una región no codificante (intrones o el promotor).
+Esto indica que la interferencia se produce a nivel del ARNm, cuando ya se han eliminado los intrones del pre-ARNm, y por tanto es un mecanismo post-transcripcional.
+Inicialmente los dsRNAs se inyectaban en las gónadas de los gusanos, pero también pueden ser inyectados en el intestino o en la cabeza.
+Incluso se observa efecto cuando los gusanos son alimentados con cepas de E. coli portadoras de un plásmido a partir del cual se transcribe el dsRNA.
+En este caso el efecto es un poco más débil, pero todavía evidente.
+En todos los casos el efecto sobre la expresión del gen diana se observa no solo en el tejido inyectado, sino en la mayoría de los tejidos, lo que indica que la señal puede transmitirse de una célula a otra.
+Una vez que estuvo claro que el mecanismo de RNAi actúa directamente sobre el ARNm, permanecía una importante cuestión: ¿qué es lo que causaba la degradación del ARNm?
+Los experimentos descritos a continuación explican cómo se descubrieron los siRNAs.
+Para explicar la co-supresión observada en plantas, se propuso la existencia de ARNs anti-sense, que mediante apareamiento de bases con el ARNm diana, de alguna manera promoverían la degradación del ARNm o interferirían con la traducción del mismo.
+Sin embargo, en las células afectadas no se detectaron ARNs anti-sense que tuvieran el tamaño de los ARNm, de manera que los investigadores analizaron si en las plantas transgénicas afectadas aparecían moléculas de ARN de menor tamaño.
+En uno de estos experimentos, realizado por Hamilton y Baulcombe en 1999, se analizó la presencia de pequeños ARNs en cinco líneas de plantas de tomate, que habían sido transformadas con un plásmido que codificaba para ACO (aminocyclopropane-carboxylate oxidase).
+En dos de las líneas analizadas la expresión del ARNm de ACO había sido suprimida, y consecuentemente el ARNm no se detectaba en Northern blots.
+Para detectar la posible presencia de ARN pequeños se utilizaron geles de Northern blot con mayor concentración de poliacrilamida, utilizando como sonda tránscritos sense o anti-sense.
+Sólo en las plantas en las que la expresión de ACO había sido suprimida se detectaron ARNs de aproximadamente 25 nt con ambas sondas, pero no se detectaron en las plantas en las que el ARNm de ACO estaba aún presente.
+Por tanto, se demostró la presencia de los pequeños ARN propuestos, en plantas en las que la expresión de ACO estaba afectada.
+Con experimentos similares se demostró que plantas infectadas con virus también contienen pequeños ARNs con secuencias virales.
+Es importante notar que estos pequeños ARNs no son productos de la degradación del ARNm, porque se encontraron no sólo moléculas sense, sino también anti-sense.
+Para estudiar en más profundidad el mecanismo de RNAi, se utilizaron sistemas in vitro.
+En 2000, Phil Zamore, Tom Tuschl y colaboradores desarrollaron un sistema in vitro para estudiar embriones de Drosophila.
+El grupo de Greg Hannon desarrolló otro sistema in vitro, utilizando extractos de células de Drosophila en cultivo.
+Zamore, Tuschl y colaboradores fueron los primeros en mostrar que el ARNm incubado en un extracto se degrada en presencia de dsRNA.
+Para ello, añadieron al extracto dos ARNm modelo que codifican para proteínas luciferasa de 2 especies diferentes (Drosophila no codifica la proteína luciferasa).
+Cuando se añadió al extracto dsRNA contra el ARNm de luciferasa, el ARNm fue degradado eficientemente.
+Cuando se añadió ARN antisense, sólo se degradó una pequeña cantidad del ARNm, y la adición de tampón únicamente (control negativo) no produjo ningún efecto.
+Estos resultados son similares a los obtenidos en los experimentos in vivo con C.elegans, donde se demostró que los dsRNAs son mucho más eficientes que el ARN antisense en la producción de un efecto de RNAi.
+En otro experimento, Zamore, Tuschl y colaboradores comprobaron si los dsRNAs son procesados en pequeños fragmentos de ~25 nt (como ocurre en plantas).
+En este experimento, dsRNAs marcados radiactivamente bien en la hebra sense, en la antisense o en las dos, se incubaron en los extractos de Drosophila en presencia o ausencia de ARNm.
+Cuando los dsRNA se incubaron en el extracto, aparecieron fragmentos de 21 a 23 nts, independientemente de la presencia de ARNm, indicando que los pequeños ARNs proceden del dsRNA y no del ARNm.
+Este experimento mostraba además que ambas hebras del dsRNA (la sense y la antisense) se cortan en pequeños fragmentos, porque los fragmentos aparecen tanto cuando los dsRNAs han sido marcados solo en la hebra sense, como cuando has sido marcados sólo en la antisense.
+Este experimento muestra que los dsRNAs incubados en el extracto son procesados en pequeños fragmentos de ~21-22 nts.
+Este resultado es similar al resultado en plantas mencionado anteriormente.
+Por tanto, la conclusión de los estudios precedentes es que fragmentos de dsRNA (introducidos en las plantas o añadidos a los extractos) son degradados en fragmentos de ~21-25 nts, que son capaces de reconocer el ARNm diana presente en la planta o en el extracto, induciendo a su vez la degradación de éste.
+Estudios posteriores permitieron elucidar con más detalle el mecanismo de RNAi.
+Cuando se introducen en un organismo (por ejemplo, en plantas tras la infección con un virus de ARN, o simplemente inyectando dsRNA en plantas o nemátodos), el ARN exógeno es reconocido por la célula y unido a una enzima llamada Dicer, que contiene diferentes dominios.
+Dicer corta el dsRNA en fragmentos de alrededor de 22 nts.
+Estos pequeños dsRNAs (siRNAs) se incorporan en un complejo con múltiples componentes, denominado RISC (RNA-induced silencing complex).
+El complejo RISC tiene que ser activado (RISC*) a partir de una forma latente, mediante el desapareamiento de las dos hebras de los siRNAs.
+RISC* utiliza la hebra antisentido del siRNA como guía para seleccionar su substrato: el ARNm complementario de la hebra de siRNA presente en el complejo.
+A continuación, RISC* promueve el corte y posterior destrucción del ARNm diana, provocando la supresión de la expresión del gen (en la imagen de la derecha, el mecanismo que utilizan los siRNAs corresponde a la parte central e izquierda).
+La siguiente cuestión que necesitaba resolverse era identificar la enzima ribonucleasa (ARNasa) involucrada en la fragmentación de los dsRNAs.
+Puesto que se habían purificado previamente los fragmentos de la degradación (los siRNAs), se sabía que la enzima tenía que ser capaz de producir fragmentos con grupos 5' fosfato y 3' hidroxilo, lo cual reducía el número de candidatos: en concreto, las ARNasas de la familia de la ARNasa III fragmentan dsRNAs de esta forma.
+Se conocían tres tipos de ARNasa III:
+Para probar cuál de estas ARNasas podía degradar dsRNA en fragmentos de ~22 nt, en 2001 Bernstein y colaboradores expresaron en células S2 de Drosophila todas las proteínas candidatas como proteínas marcadas con una etiqueta (como GST, glutathione S-transferase).
+Las proteínas fueron purificadas con un anticuerpo dirigido contra la etiqueta e incubadas con un dsRNA dirigido contra ciclina E. El resultado de este experimento mostró que solo Dicer es capaz de cortar el dsRNA largo en fragmentos pequeños.
+Las otras ARNasas no fragmentaron el dsRNA.
+Como control negativo se utilizó la proteína "homeless", para probar si el dominio helicasa de Dicer podría estar implicado en la reacción.
+Además el experimento probó que la reacción precisa ATP.
+Para poder unirse a las moléculas de dsRNA, Dicer necesita formar un complejo con otras proteínas que la asisten en sus funciones, como la proteína R2D2 en Drosophila o RDE-4 y RDE-1 en C.elegans.
+Los siRNAs generados por Dicer se ensamblan en el complejo RISC (siglas en inglés de RNA-induced silencing complex) que contiene diferentes factores celulares.
+El componente activo del complejo RISC es una proteína de la familia de las endonucleasas denominadas Argonautas, que cortan la hebra de ARNm diana complementaria al siRNA que está asociado a RISC.
+Como los fragmentos producidos por Dicer son de doble hebra, en teoría ambas hebras podrían producir un siRNA funcional.
+Sin embargo, solo una de las dos hebras (la antisense), denominada la hebra guía, se une a la proteína Argonauta y dirige el proceso de degradación del ARNm complementario.
+La otra hebra (la sense), denominada hebra pasajera, es degradada durante el proceso de activación de RISC.
+Aunque en principio se supuso que una helicasa dependiente de ATP separaba ambas hebras, en realidad el proceso es independiente de ATP y realizado directamente por proteínas que componen el complejo RISC.
+La hebra seleccionada como guía tiende a ser aquella cuyo extremo 5' se aparea menos con su complementaria, aunque la selección de la hebra guía no resulta afectada por la dirección en la que Dicer corta el dsRNA antes de su incorporación al complejo RISC.
+Sin embargo, la proteína R2D2 podría servir como el factor identificador, al unirse al extremo 5' más estable de la hebra pasajera.
+Aunque existen diferentes proteínas de la familia Argonauta (Ago1, Ago2, Ago3 en mamíferos), sólo Ago2 puede formar complejos RISC capaces de fragmentar el ARNm diana.
+En el mismo estudio, se demostró asimismo que Ago2 es capaz de cortar el ARNm diana in vitro en presencia de un siRNA de hebra simple, pero no de un dsRNA, y que la reacción es independiente de ATP.
+Asimismo, se identificaron dos residuos de Ago2 necesarios para la actividad enzimática: D597 y D669.
+La base estructural para la unión del ARN a la proteína Ago2 ha sido examinada mediante cristalografía de rayos X de la unión del dominio estructural de una proteína Argonauta unida a ARN.
+En este estudio, el extremo 5' fosforilado de la hebra de ARN se introduce en una hendidura de superficie básica conservada (presente en proteínas homólogas de diferentes especies) y hace contacto a través de un catión divalente (un átomo con dos cargas positivas) como el magnesio, y por apilamiento aromático (un proceso que permite a más de un átomo compartir un electrón, pasándolo adelante y atrás) entre el nucleótido 5' en el siRNA y un residuo conservado de tirosina.
+Se piensa que este sitio forma un sitio de nucleación para la unión del siRNA a su ARNm complementario.
+Todavía no está claro cómo el complejo RISC activado localiza los ARNm complementarios en el interior celular.
+Aunque se ha propuesto que el proceso de fragmentación podría estar ligado a la traducción, la traducción del ARNm diana no es esencial para la degradación mediada por RNAi.
+De hecho, el proceso de RNAi puede ser más efectivo contra ARNm dianas que no son traducidos.
+Las proteínas Argonauta, los componentes catalíticos de RISC, están localizadas en regiones específicas del citoplasma denominadas P-bodies (cuerpos-P, también cuerpos citoplásmicos o cuerpos GW, porque contienen la proteína GW182), los cuales son regiones con altas tasas de degradación de ARNm; también se ha detectado actividad miRNA en los P-bodies.
+Alteración de los P-bodies disminuye la eficiencia del proceso de RNAi, lo que sugería que los P-bodies podrían ser un lugar crítico para el proceso de RNAi.
+Sin embargo, estudios posteriores han demostrado que los P-bodies no son imprescindibles para el proceso de RNAi, puesto que células sin P-bodies pueden producir silenciamiento tanto con siRNAs como con miRNAs.
+El mecanismo de RNAi se inicia cuando una célula recibe un ARN de doble hebra largo (dsRNA), que puede generarse a partir de un transgén exógeno, un intruso viral o un elemento genético propio.
+Este dsRNA largo se fragmenta en siRNAs por una enzima denominada Dicer.
+Un complejo de silenciamiento inducido por ARN (el complejo RISC) selecciona entre ambas hebras del siRNA: la hebra sense (pasajera) se degrada, mientras que la antisense (guía) se utiliza para localizar el ARNm complementario, y puede tener distintos destinos según el organismo.
+En Drosophila y en mamíferos, la hebra antisense se incorpora directamente en el complejo RISC para identificar el mRNA complementario, que será destruido.
+En ausencia de siRNAs, el complejo RISC carece de especificidad para unirse a ninguna molécula de ARNm.
+Pero cuando se une a la hebra guía del siRNA, el complejo RISC (ahora activado) puede participar en repetidos ciclos de degradación específica del ARNm diana, produciendo el silenciamiento de la expresión del gen correspondiente.
+En la mayor parte de los casos, la supresión no es completa, por lo que produce una reducción de la expresión, denominada knock-down.
+En plantas y en gusanos, después de que Dicer haya procesado el dsRNA originario, la hebra antisense de los siRNAs (primarios) se utiliza en un proceso de amplificación.
+La hebra antisense, unida a una ARN polimerasa-dependiente de ARN (RdRP, del inglés RNA-dependent RNA polymerase), puede aparearse con un ARNm complementario, y actuar como punto de inicio para la síntesis de una nueva molécula larga de dsRNA.
+Dicer actúa entonces sobre este dsRNA, fragmentándolo para generar nuevas moléculas de siRNA (secundarias), que son específicas para diferentes secuencias del mismo ARNm, generando un efecto de amplificación.
+También en este caso, el ARNm unido a siRNAs es destruido, produciendo el silenciamiento (knock-down) del gen correspondiente.
+Esta amplificación en plantas y gusanos permite que el efecto de silenciamiento producido por RNAi se extienda a través de los tejidos somáticos, no reproductivos, por transferencia de dsRNAs directa de célula a célula, generando una amplia resistencia a las infecciones virales.
+Otro descubrimiento sorprendente fue el realizado por Hannon en 2002.
+Cuando se introducía en C. elegans un transgén que contenía una molécula GFP fusionada al gen UNC-22 (un gen responsable de la coordinación motora), seguido de una inyección de dsRNA contra GFP, el resultado era diferente según la posición de la molécula GFP con respecto a UNC-22 en el transgén:
+La explicación a este fenómeno se debe a la presencia en gusanos de la enzima ARN polimerasa-dependiente de ARN (RdRP), que usa como cebador la hebra antisense de los siRNAs generados a partir del dsRNA contra GFP inyectado (primarios), para la producción de un ARN-antisense largo.
+Como la enzima RdRP sólo sintetiza ARN en dirección 3'-5', cuando el transgén es UNC-22--GFP, los siRNAs se unen a la molécula de GFP, y amplifican un ARN que contiene ambos genes, UNC-22 y GFP.
+Este ARN puede aparear con el ARNm del transgén UNC-22--GFP o con el ARNm UNC-22 endógeno del gusano, de forma que al ser fragmentado por Dicer, se generan siRNAs secundarios tanto contra GFP como contra UNC-22, lo que produce el silenciamiento de ambos genes: los gusanos de la progenie son, por tanto blancos (por silenciamiento de GFP) y con descoordinación motora (fenotipo mutante unc-22).
+Sin embargo, cuando el transgén presente es GFP--UNC-22, los siRNAs primarios se unen a GFP y el ARN-antisense largo que se genera sólo incluye la molécula de GFP.
+Esta molécula sólo se puede aparear con el transgén GFP--UNC-22, pero no con el ARNm UNC-22 endógeno.
+Por ello, tras la acción de Dicer sólo se generan siRNAs secundarios contra GFP, de manera que los gusanos de la progenie son blancos (por silenciamiento de GFP), pero normales, porque UNC-22 se expresa a partir del gen endógeno.
+La relación entre la dosis de ARN y el fenotipo se analizó mediante la inyección de una serie de diferentes concentraciones de ARN de hebra simple o doble en C. elegans.
+Utilizando la concentración más elevada de los ARN sense y antisense individuales contra el gen UNC-22 (3,6 millones de moléculas por gónada) se observó fenotipo mutante en, respectivamente, el 1% y el 11% de los descendientes.
+La inyección de dosis comparables de ARN de doble hebra produjo, sin embargo, fenotipo mutante en el 100% de los descendientes.
+Por tanto, la inyección de ARN de doble hebra es al menos 100 veces más eficaz produciendo RNAi que la inyección de ARN de hebra simple.
+En otro experimento, se observó que la inyección de 60.000 (sesenta mil) moléculas de cada hebra de ARN por gusano adulto provocaba el fenotipo mutante en alrededor de 100 descendientes.
+La expresión de UNC-22 comienza en el embrión cuando este consta de unas 500 células.
+En este momento, el material inyectado se diluye hasta solamente algunas moléculas de ARN doble hebra por célula.
+Este resultado sugirió que el ARN doble hebra funciona de una manera catalítica y no estequiométrica, puesto que unas pocas moléculas de ARN doble hebra pueden inducir RNAi.
+También indicaba que existen etapas de amplificación en el mecanismo de RNAi.
+En las células, un dsRNA largo (inyectado, procedente de un virus...) es fragmentado por Dicer, que genera fragmentos cortos de dsRNA (los siRNAs).
+La hebra antisense se incorpora al complejo RISC, activándolo.
+Este complejo identifica el ARNm homólogo del siRNA, cortándolo en dos mitades que son después degradadas por la maquinaria celular.
+Por tanto, el mecanismo de RNAi mediado por siRNAs suprime la expresión génica a nivel post-trancripcional (puesto que la molécula diana es el ARNm), de manera específica a la secuencia.
+Los resultados de este tipo de supresión son similares (a veces idénticos) a los fenotipos de los mutantes nulos: la supresión puede producir una reducción significativa (knock-down) o completa (knock-out) de los niveles de la proteína diana.
+La supresión génica (también llamada silenciamiento) realizada por los siRNAs es extremadamente específica, y solo afecta al ARNm homólogo (aunque con siRNAs sintéticos pueden producirse efectos inespecíficos, denominados efectos off-target; ver más adelante).
+En plantas, el RNAi se denomina "silenciamiento génico post-transcripcional" (PTGS, del inglés post-transcriptional gene silencing), mientras que en Neurospora (un hongo también utilizado como organismo modelo) se denomina quelling.
+Estos mecanismos permiten la defensa contra la invasión viríca o de elementos transponibles.
+Los efectos sistémicos probablemente se explican por el pequeño tamaño de los siRNAs, que pueden pasar de una célula a otra.
+La amplificación de la señal que se observa en ciertos organismos (plantas, C. elegans) resulta de un mecanismo por el cual los siRNAs antisense se aparean al ARNm homólogo y funcionan como cebador para la transcripción de un ARN antisense por una ARN-polimerasa dependiente de ARN (RdRP), que se aparea con el ARNm homólogo y da lugar, tras la acción de Dicer, a la aparición de siRNAs secundarios.
+Schizosaccharomyces pombe (la levadura de fisión) es una levadura ampliamente utilizada en estudios genéticos como organismo modelo (por ejemplo, es el organismo en el que Paul Nurse realizó los estudios sobre el ciclo celular que le permitieron obtener el Premio Nobel de Fisiología o Medicina en 2001).
+A diferencia de Saccharomyces cerevisiae (la levadura del pan, también muy utilizada en estudios genéticos), que tiene pequeños centrómeros puntuales de unos 100bp, S. pombe tiene centrómeros más largos (40-100kb), con secuencias repetitivas, similares a los centrómeros de mamíferos.
+Los elementos repetitivos que rodean al centrómero (cen) son transcritos en S. pombe para producir cenRNAs no-codificantes.
+Estas secuencias repetitivas y los cenRNAs atraen enzimas Histona Metil-Transferasa (HTMasas, de las siglas en inglés) tipo H3K9 (metilan la lisina9 de la histona H3), proteínas HP1 y otros complejos que median la formación de heterocromatina.
+La proteína HP1 recluta cohesinas para promover la cohesión de las cromátidas hermanas en los centrómeros.
+Los nucleosomas asociados con regiones de heterocromatina presentan metilación H3K9 y están hipoacetilados (es decir, presentan pocos grupos acetilo -CO-CH3 asociados), mientras que los nucleosomas de las regiones de eucromatina portan metilación en H3K4 (en lisina4 de la histona H3) y están hiperacetilados.
+Las regiones heterocromáticas de los telómeros y otras regiones cromosómicas comparten muchas propiedades con la heterocromatina centromérica.
+En S. pombe, se han identificado algunos componentes de la maquinaria de RNAi asociados a la generación de heterocromatina centromérica:
+El modelo de tránscrito naciente propone que el complejo RITS interviene en la formación de heterocromatina, asociándose con los tránscritos nacientes a través del apareamiento de bases con los siRNAs de hebra simple presentes en el complejo, además de asociarse con los grupos metilo H3K9 de los nucleosomas a través del dominio cromo de su subunidad Chp1.
+La síntesis de dsRNA y generación de siRNAs ocurre en asociación con regiones cromosómicas específicas y esto puede ser la causa de la restricción en cis (es decir, en la misma molécula de ADN donde se genera) del silenciamiento mediado por siRNAs.
+El circuito de síntesis de siRNA asociado a los cromosomas es esencial para la difusión de la metilación en H3K9 y el silenciamiento en los centrómeros.
+El acoplamienteo del circuito de síntesis de siRNAs con la metilación en H3K9 forma un circuito de retroalimentación (feedback loop) que mantiene la heterocromatina de manera epigenética.
+Por el momento (2008), el papel de los cenRNAs no codificantes en el ensamblaje de la heterocromatina centromérica sólo se ha demostrado en S. pombe, aunque algunos componentes del mecanismo de RNAi contribuyen al silenciamiento de genes en las zonas pericentroméricas en Drosophila melanogaster.
+Los tipos de herramientas que se utilizan para obtener RNAi en el laboratorio son diferentes según los organismos:
+Aunque las moléculas de dsRNA pueden inducir RNAi específico en embriones tempranos de ratón y en ovocitos de ratón, en células somáticas de mamíferos los dsRNAs también activan muchas rutas celulares, algunas de las cuales pueden producir apoptosis.
+La proteína kinasa dependiente de dsRNA (PKR) es un importante "detector" antiviral, que se activa al unirse a dsRNAs largos, como los producidos por los virus.
+Una vez que se activa PKR, ésta inhibe la traducción de proteínas a través de la fosforilación de una de las subunidades del factor de iniciación de la traducción (EIF2).
+La fosforilación de EIF2 produce una supresión general de la síntesis proteica que dirige a la célula hacia la apoptosis.
+PKR también activa las enzimas 2',5'-OligoA sintetasa y ARNasa L, que son componentes centrales de una importante vía antiviral.
+Cuando se unen a los dsRNAs, la 2',5'-OligoA sintetasa se activa, generando oligo-adenilatos que activan la ARNasa L, que a su vez degrada el ARN.
+Los dsRNAs también pueden inducir la expresión de interferón que, conjuntamente con otras señales, pueden estimular la apoptosis.
+Sin embargo, en 2001, Thomas Tuschl y sus colegas demostraron que siRNAs sintéticos de tamaño inferior a 30pb son capaces de inducir RNAi en células de mamífero sin activar las vías de PKR e interferón, un trabajo que fue publicado en Nature.
+Este descubrimiento suscitó un gran interés en la utilización de la técnica de RNAi para investigación biomédica y desarrollo de nuevos fármacos.
+Como se indica en el punto "Herramientas para el silenciamiento de genes", en el caso de células somáticas de mamíferos se pueden introducir bien directamente siRNAs sintéticos o bien un plásmido (o un vector viral) que contenga una horquilla que exprese el siRNA.
+En este segundo caso se habla de expresión de "shRNAs" (siglas en inglés de short hairpin RNA), que son procesados por la enzima Dicer para generar siRNAs funcionales (ver miRNAs).
+Los siRNAs son moléculas de dsRNA de alrededor de 22 nts, con un grupo fosfato en el extremo 5' y un grupo hidroxilo en el extremo 3'.
+El corte del ARNm diana se produce a nivel de la posición 10 a 11 a partir del extremo 5' de los nucleótidos apareados (no se produce ningún otro corte fuera de esta zona), y el corte del ARNm es más eficiente si en sus extremos 3' los siRNAs presentan de 2 a 3 nucleótidos libres.
+Asimismo, la eficacia del siRNA depende de la accesibilidad de la zona de apareamiento en el ARNm diana: la presencia de estructuras secundarias en dicha zona del ARNm o la unión de proteínas en esa zona puede impedir la unión del siRNA, disminuyendo su eficacia.
+En la actualidad, existen muchos algoritmos disponibles para el diseño de siRNAs, tanto comerciales en empresas especializadas (Dharmacon, Ambion , Qiagen , Invitrogen, Sigma , etc.) como en entornos académicos (ver también la página web de Nature sobre RNAi ).
+Los siRNAs sintéticos pueden obtenerse de diversas formas:
+Las moléculas de siRNA o shRNA se introducen en las células mediante técnicas de transfección.
+Es interesante destacar que la ruta del RNAi se puede modular extracelularmente utilizando moléculas químicas pequeñas.
+En un estudio publicado en agosto de 2008, se desarrolló un ensayo basado en células para monitorizar la actividad de la ruta del RNAi, y los autores detectaron que la molécula enoxacin (Penetrex) mejora la degradación del ARNm mediada por siRNA, y promueve la biogénesis de los miRNAs endógenos.
+Este artículo prueba que pequeñas moléculas químicas pueden mejorar la eficacia de la ruta del RNAi, lo que podría ser útil en el desarrollo de herramientas para la investigación y terapéuticas.
+Los siRNAs (y los shRNAs) pueden producir una reducción no intencionada de la expresión de ciertos genes cuya secuencia es próxima a la del siRNA, por corte del ARNm correspondiente o por la inhibición de su traducción.
+Los efectos off-target pueden aparecer si los siRNAs imitan el reconocimiento del ARNm diana por los microRNA.
+Estos efectos inespecíficos pueden reducirse mediante la modificación química del segundo residuo de la hebra activa del siRNA (que es muy importante para la actividad del microRNA) sin afectar al silenciamiento del ARNm diana específico.
+La predicción de los efectos off-target no es muy útil por el momento, pero durante el proceso de diseño es necesario eliminar todos los siRNAs que presenten una similitud significativa a moléculas de ARNm no deseadas, mediante la utilización de BLAST.
+Asimismo es aconsejable utilizar una concentración de siRNAs en el medio de transfección inferior a 100 micromolar, puesto que por encima de dicho valor, aumenta la probabilidad de obtener efectos inespecíficos.
+Por esta razón, es más sencillo controlar la aparición de efectos off-target con siRNAs sintéticos (puesto que se puede controlar su concentración en el medio de cultivo) que con shRNAs, puesto que en este caso el nivel de expresión (que depende del tipo de promotor utilizado) puede variar mucho de célula a célula.
+La especificidad y la robustez del efecto de RNAi sobre la expresión génica hace de este mecanismo una valiosa herramienta en investigación, tanto en cultivos celulares como en organismos vivos, puesto que dsRNAs o siRNAs sintéticos o transgénicos pueden introducirse en las células para inducir el silenciamiento selectivo de genes específicos de interés.
+Esto ha permitido un avance espectacular en el desarrollo de la biología celular, puesto que el RNAi es una herramienta simple y rápida para la comprensión de la función de los genes (a pesar de que en último término es conveniente desarrollar el organismo knockout para asegurar la consistencia de los resultados).
+La técnica de RNAi en el laboratorio también puede utilizarse para silenciar sistemáticamente cada uno de los genes de la célula (análisis genómico), lo que puede ayudar a identificar los componentes necesarios para un proceso celular en particular, como la división celular o las vías de señalización, por ejemplo.
+De hecho, en la actualidad existen colecciones a gran escala de RNAi de mamíferos disponibles públicamente, tanto en empresas comerciales (Dharmacon, Ambion, Qiagen o Sigma, ver enlaces en el apartado "siRNAs y shRNAs") como en instituciones académicas (de ratón o de humano:, , ).
+Por otro lado, la explotación de la vía de RNAi es también una herramienta prometedora en biotecnología y medicina.
+Como comparación en la generación de modelos animales para el estudio de enfermedades:
+La ruta del RNAi se utiliza a menudo en biología molecular y celular para estudiar la función de los genes en cultivos celulares e in vivo en organismos modelo.
+Para ello, se sintetiza dsRNA (o siRNAs/shRNAs en mamíferos) con una secuencia complementaria a la del gen de interés y se introduce en una célula u organismo, donde se reconoce como material genético extraño, lo que activa la ruta del RNAi.
+Utilizando este mecanismo, los investigadores pueden producir una reducción drástica en la expresión del gen diana.
+Estudiando los efectos de esta disminución se pueden dilucidar las funciones fisiológicas del producto de ese gen (la proteína correspondiente).
+Puesto que el RNAi puede no bloquear completamente la expresión del gen de interés, normalmente suele referirse a esta técnica como "knockdown", para distinguirla de los procedimientos de "knockout" en la que la expresión del gen es completamente suprimida.
+La mayoría de las aplicaciones de RNAi en genómica funcional en animales han utilizado C. elegans y Drosophila, puesto que estos son los organismos modelo en los que el mecanismo de RNAi es más efectivo.
+C. elegans es particularmente útil para la investigación con RNAi por dos razones: primero, los efectos de silenciamiento de genes son normalmente heredables, y segundo, porque la administración de dsRNA es extremadamente simple (ver Herramientas para el silenciamiento de genes).
+Aunque la administración es más difícil en otros organismos, también se están haciendo esfuerzos para realizar estudios genómicos a gran escala en células de mamíferos.
+Las aproximaciones para el diseño de librerías genómicas de RNAi pueden requerir mucha más sofisticación que el diseño de un solo siRNA para un conjunto definido de condiciones experimentales.
+Frecuentemente se utilizan redes neuronales artificiales para diseñar librerías de siRNA y para predecir la probabilidad de su eficiencia en el silenciamiento de genes.
+El screening genómico masivo se ve generalmente como un método prometedor para avanzar en la anotación del genoma y ha desencadenado el desarrollo de métodos de screening a gran escala (high-throughput) basados en microarrays.
+Sin embargo, la utilidad de esos screens y la posibilidad de aplicar las técnicas desarrolladas en organismos modelo incluso a especies relacionadas es cuestionable, por ejemplo desde C. elegans a nemátodos parasíticos relacionados.
+La genómica funcional utilizando RNAi es una técnica particularmente atractiva para el mapeo y anotación genómicos en plantas, porque muchas plantas son poliploides, lo que representa un reto significativo para métodos genéticos más tradicionales.
+Por ejemplo, el RNAi ha sido utilizado con éxito para estudios genómicos funcionales en el trigo del pan (que es hexaploide), así como en los sistemas modelos de plantas más comunes, como Arabidopsis y el maíz.
+Una posibilidad muy interesante es la utilización del mecanismo de RNAi en terapia.
+Aunque es difícil introducir dsRNAs largos en células de mamíferos debido a que estos desencadenan la respuesta de interferón, el uso de siRNAs (sintéticos o shRNAs) ha tenido más éxito.
+Entre las primeras aplicaciones en llegar a la fase de ensayos clínicos, se encuentra el tratamiento de la degeneración macular y el virus respiratorio sincitial.
+El RNAi también se ha mostrado efectivo en la reversión de fallo hepático inducido en modelos de ratón.
+Otros usos clínicos propuestos se centran en terapias antivirales, incluyendo la inhibición de la expresión génica viral en células cancerosas, silenciamiento de los receptores y correceptores del HIV en el huésped, el silenciamiento del virus de la hepatitis A y de la hepatitis B, el silenciamiento de la expresión del virus de la gripe y la inhibición de la replicación del virus del sarampión.
+También se han propuesto tratamientos potenciales para enfermedades neurodegenerativas, prestando atención particular a las enfermedades de poliglutaminas tales como la enfermedad de Huntington.
+La interferencia de ARN también se considera una alternativa prometedora para tratar el cáncer, mediante el silenciamiento diferencial de genes sobreexpresados en células tumorales o genes involucrados en la división cellular (mitosis).
+En la revista Molecular Therapy (del grupo Nature), puede encontrarse una serie de artículos de acceso libre que tratan sobre la técnica de RNAi como estrategia terapéutica, que resume diferentes áreas de investigación publicadas en diferentes revistas.
+Un área clave de investigación en el uso de RNAi en aplicaciones clínicas es el desarrollo de un método de administración seguro, que hasta el momento implica sobre todo el uso de sistemas de vectores virales similares a los que se utilizan en terapia génica, aunque también se utilizan otros mecanismos como aerosoles, siRNAs encapsulados en liposomas, conjugados con colesterol o asociados a complejos anticuerpo-protamina.
+A pesar de la proliferación de estudios en cultivos celulares para drogas basadas en RNAi, existen algunas preocupaciones con relación a la seguridad del RNAi, especialmente debido a los posibles efectos off-target (ver Efectos inespecíficos (off-target)), en los que un gen con una secuencia similar al gen diana es también silenciado.
+Un estudio de genómica computacional ha estimado que la tasa de error debido a efectos off-target es aproximadamente del 10%.
+Un importante estudio de enfermedad hepática en ratón produjo una alta tasa de mortalidad en los ratones experimentales, debido según los investigadores a la sobresaturación de la vía del RNAi, a causa de la utilización de shRNAs que deben procesarse en el núcleo y exportarse al citoplasma por un mecanismo activo.
+Todas estas son consideraciones que están bajo intenso estudio en la actualidad, para reducir su impacto en la utilización terapéutica del RNAi.
+La interferencia de ARN se ha utilizado en aplicaciones de biotecnología, particularmente en el diseño de plantas alimenticias que producen niveles bajos de toxinas naturales de plantas.
+Esta técnica aprovecha el fenotipo estable y heredable del RNAi en plantas.
+Por ejemplo, las semillas de algodón son ricas en proteínas nutritivas, pero contienen de forma natural el producto terpenoide tóxico gossypol, haciéndolo no apto para el consumo humano.
+Se ha utilizado RNAi para producir cepas de algodón cuyas semillas contienen niveles reducidos de delta-cadineno sintetasa, una enzima clave en la producción de gossypol, sin afectar la producción de gossypol en otras partes de la planta, donde el gossypol es importante en la prevención del daño producido por los agentes infecciosos de la planta.
+Esfuerzos similares se han dirigido hacia la reducción del producto natural cianogénico linamarino en plantas de yuca.
+Aunque ningún producto vegetal que utilice ingeniería genética basada en RNAi ha pasado todavía la fase experimental, los esfuerzos en el desarrollo de estos productos han reducido con éxito los niveles de alérgenos en plantas de tomate y han disminuido los precursores de carcinógenos probables en plantas de tabaco.
+Otras características vegetales que han sido modificadas en el laboratorio incluyen la producción de productos naturales no-narcóticos en opium poppy, resistencia a virus de plantas comunes y refuerzo de plantas como los tomates con antioxidantes dietéticos.
+Productos comerciales previos, como el tomate Flavr Savr y dos cultivares de papaya resistentes al virus anillado de la papaya, fueron originalmente desarrollados utilizando tecnología antisense, pero probablemente explotaban la ruta del RNAi.

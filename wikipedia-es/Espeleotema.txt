@@ -1,0 +1,39 @@
+Espeleotemas es la denominación formal para lo que comúnmente se conoce como «formaciones de las cavidades».
+La palabra, procede del griego (σπήλαιον, spḗlaion, 'cavidad' + θέμα, théma, 'depósito') y se refiere generalmente a depósitos minerales secundarios formados en cuevas tras la génesis de estas.
+No existen solo espeleotemas secundarios, sino también primarios, dependiendo del tipo de cueva en que se encuentren.
+El término espeleotema fue acuñado en 1952 por el espeleólogo estadounidense G.W. Moore.
+thumb|centre|600px|Sección transversal de una cueva kárstica. El dibujo muestra diferentes tipos de [[espeleotemas:
+El agua de filtración a través de las grietas del terreno en las proximidades de una caverna puede disolver ciertos compuestos, normalmente calcita, aragonito (carbonato cálcico) y yeso (sulfato cálcico).
+La cantidad de mineral disuelto depende, entre otros factores, de la concentración de dióxido de carbono y temperatura de la disolución.
+Cuando esta solución alcanza una caverna llena de aire, la descarga de dióxido de carbono altera la capacidad del agua para mantener estos minerales en disolución, provocando que precipiten.
+Con el tiempo, que puede ser de decenas de miles de años, la acumulación de estos precipitados puede formar espeleotemas secundarios.
+Los espeleotemas secundarios no se forman únicamente en cavernas kársticas, aunque es en ellas donde mejor se aprecian.
+También pueden formarse en cualquier otra cavidad donde el goteo de agua cargada de minerales procedentes del terreno tenga ocasión de precipitar.
+De este modo, pueden encontrarse espeleotemas secundarios en tubos volcánicos que se encuentren en terrenos húmedos e incluso en cavidades artificiales, como minas, siempre que transcurra el tiempo necesario para su formación.
+Los espeleotemas secundarios formados por calcita pura son de un color blanco transparente, pero generalmente aparecen coloreados por minerales como hierro, cobre o manganeso, o pueden ser marrones por la inclusión de partículas de barro o sedimentos.
+Muchos factores influyen en la forma y color de los espeleotemas secundarios, incluyendo la cantidad y dirección de la filtración de agua, la cantidad de ácido en la disolución, la temperatura y humedad ambiental de la cueva, corrientes de aire, el clima de la superficie, la cantidad de precipitaciones anual y la densidad de la cobertura vegetal exterior.
+La mayor parte de la química de la caverna kárstica se desarrolla en torno a la calcita, CaCO3, el mineral primario en la roca caliza.
+Es un mineral poco soluble, cuya solubilidad aumenta con la introducción de dióxido de carbono, CO2.
+Es paradójico que su solubilidad disminuye conforme la temperatura aumenta, al contrario que la gran mayoría de los sólidos disueltos.
+Esta disminución se debe a interacciones con el dióxido de carbono, cuya solubilidad disminuye con elevadas temperaturas.
+Cuando el dióxido de carbono se libera, el carbonato cálcico precipita.
+Muchas otras disoluciones en las cavernas no están compuestas de caliza o dolomita, sino de yeso (sulfato cálcico hidratado), cuya solubilidad aumenta proporcionalmente con la temperatura.
+Se pueden tomar muestras de espeleotemas secundarios, al igual que un núcleo de hielo como un registro de cambios climáticos pasados.
+Una característica de estos espeleotemas es su capacidad única para ser datados con gran precisión mucho más allá del periodo Cuaternario utilizando la técnica de datación por series de uranio.
+Las estalagmitas son particularmente útiles para crear registros paleoclimáticas por su forma relativamente simple como trazas de isótopos de oxígeno, carbono y cationes.
+Estos pueden aportar pistas sobre precipitaciones, temperatura y cambios en la vegetación durante los últimos ~ 500 000 años.
+Otro método de datación es mediante resonancia paramagnética electrónica (RPE).
+Se trata de una técnica espectroscópica sensible a electrones desapareados.
+Permite calcular la edad del espeleotema a partir de la dosis de radiación total acumulada en la muestra y la dosis anual a la que está expuesta.
+Desafortunadamente, no todas las muestras son válidas para la datación mediante RPE: La presencia de impurezas catiónicas tales como Mn2+, Fe2+, o Fe3+, materia orgánica, pueden alterar la muestra.
+Los niveles de radiación deben ser estables en el tiempo geológico, es decir, deben tener una vida útil muy larga para hacer posible la datación.
+Además, defectos superficiales inducidos por la molienda de la muestra, pueden provocar una datación incorrecta.
+De hecho, solo unos pocos porcentajes de las muestras analizadas son adecuadas para la datación.
+Uno de los principales desafíos de la técnica es la identificación correcta de los radicales libres inducidos por la radiación y su gran variedad relacionada con la naturaleza y la concentración variable de las impurezas presentes en la red cristalina de la muestra.
+La aplicación de la espectroscopia EPR/ESR puede ser complicada y debe aplicarse con discernimiento.
+No es una técnica que sustente por sí misma una datación: Se necesitan múltiples líneas de evidencia y múltiples líneas de razonamiento en la datación absoluta.
+Los espeleotemas se forman también en las cuevas volcánicas como los tubos de lava.
+Aunque en ocasiones son similares en apariencia a los presentes en las cuevas kársticas, los espeleotemas primarios presentes en los tubos volcánicos están formados por el enfriamiento de la lava residual en el interior de la cueva.
+Dependiendo de la edad del tubo volcánico y del terreno en que se encuentre, pueden formarse en su interior otros espeleotemas secundarios, como pequeñas estalactitas y diversas concreciones, gracias a aportes de agua con minerales disueltos que acaban precipitando.
+Los espeleotemas primarios más comunes en los tubos de lava son:
+Los espeleotemas secundarios más comunes en tubos de lava de cierta antigüedad son:

@@ -1,0 +1,56 @@
+La difusión molecular, a menudo llamada simplemente difusión, es el movimiento térmico de todas las partículas (líquido o gas) a temperaturas por encima del cero absoluto.
+La velocidad de este movimiento es una función de la temperatura, la viscosidad del fluido y el tamaño (masa) de las partículas.
+La difusión explica el flujo neto de moléculas de una región de mayor concentración a una de menor concentración.
+Una vez que las concentraciones son iguales, las moléculas continúan moviéndose, pero como no existe un gradiente de concentración, el proceso de difusión molecular ha cesado y, en cambio, se rige por el proceso de auto difusión, que se origina a partir del movimiento aleatorio de las moléculas.
+El resultado de la difusión es una mezcla gradual de material de tal manera que la distribución de las moléculas es uniforme.
+Dado que las moléculas aún están en movimiento, pero se ha establecido un equilibrio, el resultado final de la difusión molecular se denomina "equilibrio dinámico".
+En una fase con temperatura uniforme, sin fuerzas netas externas que actúen sobre las partículas, el proceso de difusión eventualmente resultará en una mezcla completa.
+Considere dos sistemas; S1 y S2 a la misma temperatura y capaces de intercambiar partículas.
+Si hay un cambio en la energía potencial de un sistema; por ejemplo μ1>μ2 (μ es potencial químico) se producirá un flujo de energía desde S1 hasta S2, porque la naturaleza siempre prefiere baja energía y máxima entropía.
+La difusión molecular suele describirse matemáticamente utilizando las leyes de difusión de Fick.
+La difusión es de importancia fundamental en muchas disciplinas de la física, la química y la biología.
+Algunos ejemplos de aplicaciones de difusión:
+La difusión forma parte de los fenómenos del transporte.
+De los mecanismos de transporte de masa, la difusión molecular es conocida como la más lenta.
+En biología celular, la difusión es una forma principal de transporte para los materiales necesarios, como los aminoácidos dentro de las células.
+La difusión de disolventes, como el agua, a través de una membrana semipermeable se clasifica como ósmosis.
+El metabolismo y la respiración dependen en parte de la difusión, además de los procesos activos o en masa.
+Por ejemplo, en los alvéolos de los pulmones de los mamíferos, debido a las diferencias en las presiones parciales en la membrana alveolar-capilar, el oxígeno se difunde en la sangre y el dióxido de carbono se difunde.
+Los pulmones contienen una gran área de superficie para facilitar este proceso de intercambio de gases.
+Fundamentalmente, se distinguen dos tipos de difusión:
+Los coeficientes de difusión para estos dos tipos de difusión son generalmente diferentes porque el coeficiente de difusión para la difusión química es binario e incluye los efectos debidos a la correlación del movimiento de las diferentes especies de difusión.
+Debido a que la difusión química es un proceso de transporte neto, el sistema en el que tiene lugar no es un sistema de equilibrio (es decir, aún no está en reposo).
+Muchos resultados en la termodinámica clásica no se aplican fácilmente a sistemas que no están en equilibrio.
+Sin embargo, a veces se producen los llamados estados cuasi estacionarios, donde el proceso de difusión no cambia con el tiempo, donde los resultados clásicos pueden aplicarse localmente.
+Como sugiere su nombre, este proceso no es un verdadero equilibrio, ya que el sistema aún está evolucionando.
+Los sistemas de fluidos que no están en equilibrio pueden modelarse con éxito con la hidrodinámica fluctuante de Landau-Lifshitz.
+En este marco teórico, la difusión se debe a fluctuaciones cuyas dimensiones van desde la escala molecular hasta la escala macroscópica.
+La difusión química aumenta la entropía de un sistema, es decir, la difusión es un proceso espontáneo e irreversible.
+Las partículas pueden diseminarse por difusión, pero no se reordenarán espontáneamente (sin cambios en el sistema, suponiendo que no se crean nuevos enlaces químicos y ausentes fuerzas externas que actúan sobre la partícula).
+La difusión colectiva es la difusión de una gran cantidad de partículas, la mayoría de las veces dentro de un solvente.
+Contrariamente al movimiento browniano, que es la difusión de una sola partícula, las interacciones entre partículas pueden ser consideradas, a menos que las partículas formen una mezcla ideal con su solvente (las condiciones ideales de la mezcla corresponden al caso donde las interacciones entre el solvente y las partículas son idénticas a las interacciones entre las partículas y las interacciones entre las moléculas del disolvente, en este caso, las partículas no interactúan cuando están dentro del disolvente).
+En el caso de una mezcla ideal, la ecuación de difusión de partículas es verdadera y el coeficiente de difusión D, la velocidad de difusión en la ecuación de difusión de partículas es independiente de la concentración de partículas.
+En otros casos, las interacciones resultantes entre partículas dentro del solvente darán cuenta de los siguientes efectos:
+El transporte de material en un fluido estancado o a través de líneas de corriente de un fluido en un flujo laminar ocurre por difusión molecular.
+Se pueden considerar dos compartimentos adyacentes separados por una partición, que contienen gases puros A o B. Se produce un movimiento aleatorio de todas las moléculas, de modo que después de un período las moléculas se encuentran alejadas de sus posiciones originales.
+Si se elimina la partición, algunas moléculas de A se mueven hacia la región ocupada por B, su número depende del número de moléculas en el punto considerado.
+Al mismo tiempo, las moléculas de B se difunden hacia los regímenes que antes ocupaban los puros A. Finalmente, se produce una mezcla completa.
+Antes de este punto en el tiempo, se produce una variación gradual en la concentración de A a lo largo de un eje, denominado x, que une los compartimentos originales.
+Esta variación, expresada matemáticamente como -dCA / dx, donde CA es la concentración de A. El signo negativo surge porque la concentración de A disminuye a medida que aumenta la distancia x. De manera similar, la variación en la concentración de gas B es -dCB / dx.
+La velocidad de difusión de A, NA, depende del gradiente de concentración y la velocidad media con la que las moléculas de A se mueven en la dirección x. Esta relación está expresada por la ley de Fick.
+donde D es la difusividad de A a B, proporcional a la velocidad molecular media y, por lo tanto, depende de la temperatura y la presión de los gases.
+La tasa de Difusión NA, generalmente se expresa como el número de moles que se difunden por unidad de área en tiempo de unidad.
+Al igual que con la ecuación básica de la transferencia de calor, esto indica que la tasa de fuerza es directamente proporcional a la fuerza motriz, que es el gradiente de concentración.
+Esta ecuación básica se aplica a una serie de situaciones.
+Al restringir la discusión exclusivamente a condiciones de estado estable, en las que ni dCA / dx o dCB / dx cambian con el tiempo, se considera primero la contradifusión equimolecular.
+Si no se produce un flujo masivo en un elemento de longitud dx, las velocidades de difusión de dos gases ideales (de volumen molar similar) A y B deben ser iguales y opuestas, es decir N_A=-N_B.
+La presión parcial de A cambia por dPA sobre la distancia dx.
+Del mismo modo, la presión parcial de B cambia dPB.
+Como no hay diferencia en la presión total a través del elemento (no hay flujo en masa), tenemos
+Para un gas ideal, la presión parcial está relacionada con la concentración molar por la relación
+donde nA es el número de moles de gas A en un volumen V. Como la concentración molar CA es igual a nA / V, por lo tanto
+En consecuencia, para el gas A,
+donde DAB es la difusividad de A en B. Del mismo modo,
+Teniendo en cuenta que dPA / dx = -dPB / dx, por lo tanto, demuestra que DAB = DBA = D. Si la presión parcial de A en x1 es PA 1 y x2 es PA 2, la integración de la ecuación anterior,
+Se puede derivar una ecuación similar para la contradifusión del gas B.
+<references group="" responsive="">

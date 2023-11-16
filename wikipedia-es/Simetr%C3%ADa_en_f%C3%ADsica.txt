@@ -1,0 +1,39 @@
+La simetría en física incluye todos los rasgos de un sistema físico que exhibe propiedades de la simetría – eso es, que bajo ciertas transformaciones, aspectos de esos sistemas son invariantes, de acuerdo a una observación particular.
+Una simetría de un sistema físico es un rasgo físico o matemático del mismo que es preservado sobre cierto cambio (Transformación).
+En matemáticas, una transformación es un operador aplicado a una función tal que bajo esa transformación, ciertas operaciones sean simplificadas.
+En ejemplo, en la aritmética cuando se busca un algoritmo de números, el proceso de búsqueda es reducido a la suma de los algoritmos de cada factor.
+La invariancia es definida matemáticamente por transformaciones que dejan magnitudes sin cambio.
+Por ejemplo, la distancia entre dos puntos de un sólido que se mueve, pero no se deforma.
+Una simetría global es una simetría que sostiene todos los puntos en el tiempo-espacio bajo consideración, a diferencia de la simetría local que solo sostiene a un subconjunto de puntos.
+La mayoría de las teorías físicas son descritas por lagrangianos (En física, un lagrangiano es una función matemática a partir del cual se pueden derivar la evolución temporal, las leyes de conservación y otras propiedades importantes de un sistema físico) que son invariantes bajo ciertas transformaciones, cuando las transformaciones son realizadas en diferentes puntos del espacio-tiempo y están relacionadas linealmente – ellas tienen simetría global.
+Por ejemplo, en toda teoría cuántica, la fase global de una función de onda es arbitraria y no representa algo físico.
+Consecuentemente, la teoría es invariante bajo a cambio global de fases (Agregando una constante a la fase de todas las funciones de onda, en todos lados); esto es una simetría global.
+En la electrodinámica cuántica, la teoría es también invariante bajo un cambio local de fase, es decir, que se puede alterar la fase de todas las funciones de onda tal que la alteración sea diferente en cada punto del espacio-tiempo.
+Esto es una simetría local.
+Matemáticamente, las simetrías continuas son descritas por funciones continuas o continuamente diferenciables.
+Una subclase importante de las simetrías continuas en la física son las simetrías espacio-temporales.
+La simetría espacio-tiempo se refiere a aspectos del espacio-tiempo (ntidad geométrica en la cual se desarrollan todos los eventos físicos del Universo, de acuerdo con la teoría de la relatividad y otras teorías físicas) que pueden ser descritos tal que exhiben una forma de simetría.
+Generalmente las simetrías del espacio-tiempo son descritas por campos de vectores lisos en un variedad liso.
+Los mapas lisos subyacentes asociados con los campos vectoriales corresponden más directamente con las simetrías físicas, pero los campos vectoriales por ellos mismos son más comúnmente usados cuando se clasifican las simetrías de un sistema físico.
+Algunos de los más importantes campos vectoriales son los campos vectoriales de Killing que son aquellas simetrías espacio-tiempo en las que se preserva la estructura métrica de una variedad subyacente.
+En términos crudos, los campos vectoriales de Killing preservan la distancia entre dos puntos cualquiera de la variedad y casi siempre van por el nombre de isometrías.
+Un vector de Killing es un vector definido sobre una variedad riemannina o pseudoriemanniana que define un grupo uniparamétrico de isometrías.
+Una simetría discreta es una simetría que describe cambios no continuos en un sistema.
+Por ejemplo, un cuadrado posee simetría discreta rotacional, tanto que solo rotaciones múltiples por los lados derechos del cuadrado conservarán su apariencia original.
+Generalmente se involucran cambios, a los cuales se les llama reflexiones o intercambios.
+Un tipo de simetría conocida como súper-simetría ha sido utilizada para intentar hacer avances en el modelo estándar (Teoría física que explica ciertos fenómeno en partículas fundamentales).
+Aun no ha sido probada experimentalmente.
+Las transformaciones que describen simetrías físicas típicas forman un grupo matemático.
+La teoría de grupo (En álgebra abstracta, la teoría de grupos estudia las estructuras algebraicas conocidas como grupos [En álgebra abstracta, un grupo es un conjunto en el que se define una operación binaria ( i.e. un magma), que satisface ciertos axiomas]) es una área importante de la matemática para los físicos.
+Simetrías continuas son especificadas matemáticamente por grupos continuos (Llamados Grupo de Lie).
+Muchas simetrías físicas son isometrías y están especificadas por Simetría de Grupos.
+Algunas veces este término es usado para tipos más generales de simetrías.
+El conjunto de todas las rotaciones propias a través de cualquier eje de una esfera forma un grupo de Lie llamado, Grupo Ortogonal.
+El conjunto de todas las transformaciones de Lorentz forman un grupo llamado, Grupo de Lorentz.
+Las simetrías discretas están descritas por los Grupos Discretos.
+También, la reducción por simetría de la energía funciona bajo la acción de un grupo y la Ruptura espontánea de simetría electro débil (Concepto de una teoría física que unifica la interacción débil y el electromagnetismo, dos de las cuatro fuerzas fundamentales de la naturaleza [Existen cuatro tipos de interacciones fundamentales: interacción nuclear fuerte, interacción nuclear débil, interacción electromagnética e interacción gravitatoria.] ) de las transformaciones de grupos simétricos parece dilucidar temas en la física de partículas.
+Por ejemplo, la unificación del electromagnetismo y la interacción débil en la cosmología física.
+Las propiedades simétricas de un sistema físico están íntimamente relacionadas con las leyes de conservación que caracterizan al sistema.
+El teorema de Noether da una precisa descripción de esta relación.
+El teorema dice que cada simetría de un sistema físico implica que alguna propiedad física del sistema se conserva, y por el contrario, que cada magnitud conservada tiene una correspondiente simetría.
+Por ejemplo, la isometría del espacio da nacimiento a la conservación lineal de momentum, y la isometría del tiempo da nacimiento a la conservación de la energía.

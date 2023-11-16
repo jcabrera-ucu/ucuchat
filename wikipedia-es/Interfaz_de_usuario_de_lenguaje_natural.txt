@@ -1,0 +1,53 @@
+Interfaces de Usuario de Lenguaje Natural son un tipo de interfaz de usuario que permite la comunicación entre humanos y máquinas, donde los fenómenos lingüísticos, como los verbos, frases y cláusulas actúan como controles de la interfaz de usuario para crear, seleccionar y modificar datos en las aplicaciones de software.
+En el diseño de la interfaz de lenguaje natural las interfaces son buscadas por su velocidad y facilidad de uso, pero además hay factores como la comprensión, que añaden una dificultad significativa, ya que podemos encontrar entradas ambiguas en el sistema.
+Las interfaces de lenguaje natural componen un área activa de estudio en el campo del procesamiento del lenguaje natural y la lingüística computacional.
+Una intuitiva interfaz de lenguaje natural en general es uno de los grandes objetivos activos de la Web Semántica.
+Es importante tener en cuenta que las interfaces de texto son "naturales" en diversos grados, y que muchos lenguajes de programación formal (no natural) incorporan idiomas de lenguaje natural humano.
+Del mismo modo, un motor tradicional de búsqueda de palabras clave podría ser descrito como una interfaz de usuario de la lengua natural “superficial”.
+Un motor de búsqueda de lenguaje natural, en teoría, debería encontrar respuestas a preguntas específicas del usuario (en lugar de buscar por las palabras claves contenidas en la pregunta).
+Por ejemplo, cuando se realiza una pregunta como por ejemplo "Que Estado de EE.UU., tiene el impuesto de renta más alto?", Los motores de búsqueda convencionales ignoran el problema y realizan una búsqueda con las palabras clave ' Estado, renta e impuesto ". La búsqueda en lenguaje natural, por otro lado, intenta utilizar el procesamiento del lenguaje natural para comprender la naturaleza de la pregunta y luego busca y devuelve un subconjunto web que contiene la respuesta a la pregunta. Si funciona, los resultados tendrían una relevancia mayor que los resultados de un motor de búsqueda por palabra clave. Desde un punto de vista comercial, la publicidad en la página de resultados también podría ser más relevante y podría tener un potencial de ingresos más alto que el de los motores de búsqueda por palabra clave.
+A lo largo de la historia los lenguajes naturales han ido evolucionando, de forma paralela al desarrollo y evolución de la especie humana.
+En los últimos años, las aplicaciones diseñadas han intentado promover la comunicación entre humanos y máquinas por lo que se han incluido técnicas de reconocimiento de voz.
+Hoy en día el campo del reconocimiento de lenguaje natural está trabajando para mejorar los resultados, superando las diferentes dificultades que se comentan más adelante.
+Los primeros contactos con la interfaz de usuario de lenguaje natural datan de los años sesenta y setenta de la mano del prototipo NI.
+Los sistemas de reconocimiento se puede dividir en dos tipos principales.
+Sistemas de reconocimiento de patrones entrenados, éste compara los patrones con otros patrones ya conocidos y clasificados para determinar la similitud y por tanto el reconocimiento.
+Y por otro lado tenemos los Sistemas fonéticos que utilizan el conocimiento del cuerpo humano (la producción del habla y audición) para comparar las características del lenguaje (fonética, tales como sonidos de las vocales).
+Los sistemas más modernos se centran en el enfoque de reconocimiento de patrones, ya que combina muy bien con las técnicas de computación actual y tiende a tener una mayor precisión.
+Aun así existen una serie de factores que dificultan estos procesos, ya que influyen en el tratado de la señal y por tanto en el reconocimiento.
+Algunos de ellos son los siguientes:
+La implementación de un sistema de reconocimiento de lenguaje natural, conlleva el tratamiento de la señal acústica, pasando por diferentes bloques que nos ayudarán a extraer las características necesarias para implementar el sistema.
+Este tratamiento lo podríamos resumir con los siguientes apartados:
+1. El primer paso es la captura de la señal de voz.
+Se utiliza un micrófono que a través de un convertidor CAD(Conversor Analógico/Digital) convierte la señal acústica en una señal eléctrica, a la cual se le realiza la extracción de parámetros.
+En este paso existe una dificultad añadida, provocada por la no linealidad y perdida de frecuencias introducido por el sistema micrófono/convertidor.
+2. La siguiente etapa es la segmentación y el etiquetado, aquí el sistema intenta encontrar las regiones estables donde las características son constantes.
+Uno de las técnicas más utilizadas es la utilización de solapamiento entre el enventanado, para evitar dejar parte de señal sin analizar.
+En este nivel además se suelen aplicar filtros de normalización y pre-énfasis, con los cuales se prepara la señal para ser procesada.
+3. En tercer lugar se realiza el cálculo de parámetros, lo que proporciona una representación espectral de las características de la señal de voz que podemos utilizar para entrenar el sistema de reconocimiento (HMM, Redes neuronales, entre otros).
+Los métodos más comunes en esta etapa son el análisis de banco de filtros y LPC.
+Para el cálculo de coeficientes que caracterizan la señal se sigue un patrón de bloques estandarizado por la ETSI.
+Los sistemas de reconocimiento de voz se pueden separar en varias clases, categorizados por la descripción de los diferentes tipos de expresiones que tienen la capacidad de reconocer.
+Estas clases se basan en el hecho de que una de las dificultades del ASR es la capacidad de determinar cuando un locutor comienza y termina de hablar.
+A continuación se nombran los tipos más distinguidos:
+La interfaz de lenguaje natural en el pasado dio lugar a los usuarios que querían antropomorfizar sus equipos, o al menos atribuir más inteligencia que la que garantizan.
+Esto conduce a expectativas poco realistas de las capacidades del sistema por parte del usuario.
+Tales expectativas hacen difícil aprender las restricciones del sistema, y si ellos les atribuyen un exceso de capacidad, esto dará lugar a la decepción cuando el sistema no funcione como se espera.
+Existe un documento de 1995 titulado "Natural Language Interfaces to Databases – An Introduction'", en el cual se describen algunos de los retos más significativos:
+La pregunta de "Lista de todos los empleados de la empresa con un permiso de conducir" es ambiguo a menos que sepa que las compañías no pueden tener licencias de conducir.
+"Lista de todos los solicitantes que viven en California y Arizona."
+Es ambiguo a menos que se sepa que una persona no puede vivir en dos lugares a la vez.
+Resuelve lo que un usuario quiere decir por el 'él', 'ella' o 'esto', en una consulta auto-referencial
+Otros objetivos a tener en cuenta de forma más general son la velocidad y eficiencia del sistema interfaz, como en cualquier otro algoritmo estos dos puntos son los que determinarán que unas técnicas sean mejores que otras y por tanto que tengan mayor éxito en el mercado.
+Por último, respecto a las técnicas utilizadas, el principal problema a resolver es el de crear un algoritmo general que pueda reconocer todos los tipos de voces, sin diferenciar entre nacionalidad, sexo o edad.
+Ya que pueden existir diferencias significativas entre las características extraídas a varios locutores que pronuncian la misma palabra o frase.
+La interfaz de lenguaje natural y su reconocimiento con resultados satisfactorios, dan lugar a que esta tecnología pueda ser utilizada para diferentes usos y aplicaciones.
+Algunos de los principales usos son:
+A continuación se nombran y definen algunas de las aplicaciones que utilizan el reconocimiento de lenguaje natural, y por tanto tienen integradas las utilidades nombradas anteriormente.
+Ubiquity, es una extensión para Mozilla Firefox, compuesto por una colección de lenguaje natural derivado de fácil y rápidos comandos que actúan como mashups de servicios web, permitiendo a los usuarios obtener información y relacionarla con la actual u otras páginas web.
+Wolfram Alpha, es un servicio en línea que responde a las consultas directamente mediante un cálculo de la respuesta a partir de datos estructurados, en lugar de proporcionar una lista de documentos o páginas web que podrían contener la respuesta como un motor de búsqueda.
+Fue anunciado en marzo de 2009 por Stephen Wolfram, y fue lanzado al público el 15 de mayo de 2009.
+Siri, es una aplicación de asistente personal para iPhone OS.
+La aplicación utiliza el procesamiento del lenguaje natural para responder a las preguntas y hacer recomendaciones.
+La aplicación para el iPhone es el primer producto publicado por sus creadores, que se centra en aplicaciones de inteligencia artificial.
+El grupo de marketing de la compañía asegura que Siri se adapta a las preferencias individuales del usuario a través del tiempo y personaliza los resultados, para completar tareas como hacer una reserva para una cena.

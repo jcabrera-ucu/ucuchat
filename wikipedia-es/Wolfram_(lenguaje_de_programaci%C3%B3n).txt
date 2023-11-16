@@ -1,0 +1,12 @@
+Wolfram Language (el lenguaje de programación de Mathematica) es un lenguaje de programación multi-paradigma desarrollado por Wolfram Research, que sirve como el principal idioma de interfaz para Mathematica y Wolfram Programming Cloud.
+Está diseñado para ser lo más general posible, con énfasis en computación simbólica, programación funcional y programación basada en reglas.
+Está construido para representar estructuras y datos arbitrarios.
+El lenguaje es muy amplio, tocando numerosos dominios, a menudo especializados.
+Por ejemplo, este incluye funciones incluidas para generar y ejecutar máquinas de Turing, crear gráficos y audio, analizar modelos 3D y resolver ecuaciones diferenciales.
+También contiene una extensa documentación.
+El lenguaje está integrado en el software de sistema instalado en cada Raspberry Pi.
+Intel Edison, introducido en CES 2014, también integra el lenguaje.
+El lenguaje también será integrado en el motor de juegos Unity.
+A pesar de que ya existe de alguna forma desde hace más de 25 años, el nombre del lenguaje no fue anunciado oficialmente hasta en junio de 2013.
+Antes, se referían a este lenguaje a nivel interno por varios nombres, tales como "M" y "Wolfram Language".
+Muchos otros nombres fueron considerados, tales como "Lingua" y "Express", mientras que a menudo se le llama erróneamente "Mathematica", tras su aplicación principal.

@@ -1,0 +1,32 @@
+CryptoLocker es un ransomware tipo troyano dirigido a computadoras con el sistema operativo Windows que se extendió a finales de 2013.
+CryptoLocker se distribuye de varias formas, una de ellas como archivo adjunto de un correo electrónico y otra, accediendo a través del puerto remoto 3389.
+Una vez activado, el malware cifra ciertos tipos de archivos almacenados en discos locales y en unidades de red usando criptografía de clave pública RSA, guardándose la clave privada en los servidores del malware.
+Realizado el cifrado, muestra un mensaje en pantalla, en el cual ofrece descifrar los archivos afectados, si se realiza un pago antes de una fecha límite (a través de bitcoins o con vales prepago), y menciona que la clave privada será destruida del servidor y que será imposible recuperarla si la fecha límite expira.
+Si esto ocurre, el malware ofrece la posibilidad de descifrar los datos a través de un servicio en línea provisto por los operadores del malware, con un precio, en bitcoins, mucho más alto.
+A pesar de que el malware es fácilmente eliminado, los archivos permanecen cifrados, cuya clave privada se considera casi imposible de descifrar.
+El creador de CryptoLocker fue un ruso de 31 años, Evgeniy Bogachev, por el cual el FBI ofrecía una recompensa de tres millones de dólares por cualquier pista sobre su paradero.
+El virus CryptoLocker se propaga principalmente como un archivo adjunto desde un correo electrónico aparentemente inofensivo, simulando ser un correo de una compañía legítima; o bien se descarga en una computadora infectada con un virus troyano anterior, conectada a un botnet.
+Un archivo ZIP adjuntado al correo contiene un archivo ejecutable, con un ícono y tipo de archivo que lo hacen parecer un archivo PDF, aprovechando el uso por defecto de Windows de ocultar la extensión de los archivos, que permite ocultar la extensión verdadera, .EXE.
+En algunos casos, este archivo puede contener al troyano Zeus, que a su vez instala el CryptoLocker.
+Cuando se ejecuta por primera vez, una parte suya se instala en la carpeta Documentos, con un nombre aleatorio, y luego, agrega una clave en el registro que hace que se ejecute al encenderse la computadora.
+Luego, intenta conectarse con uno de los servidores de control designados; una vez conectada, genera un par de claves RSA de 2048-bits, y envía la clave pública a la computadora infectada.
+Debido a que el servidor designado puede ser un proxy local, que luego puede ser derivado a otros (a menudo en otros países), es difícil rastrearlo.
+Finalizada su instalación, el malware comienza el proceso de cifrado de los archivos en discos locales, y en unidades de redes usando la clave pública, y registra cada archivo cifrado en el registro de Windows.
+Solamente cifra archivos con ciertas extensiones, las cuales incluyen ficheros de Microsoft Office, OpenDocument, archivos de AutoCAD, imágenes y otros documentos.
+Finalizada el cifrado de archivos, el malware muestra un mensaje en pantalla informando que se han cifrado archivos, y exige el pago de 300 dólares americanos o euros a través de un vale prepago anónimo (por ejemplo, los de MoneyPak o Ukash) o de 0,5 bitcoins, para descifrar los archivos.
+El pago debe ser realizado dentro de 72 o 100 horas, caso contrario, la clave privada en el servidor será destruida, y «nunca nadie será capaz de recuperar los archivos».
+Si el pago es realizado, el usuario puede descargar el programa de descifrado, que viene precargada la clave privada del usuario.
+Symantec estimó que el 3% de sus usuarios infectados con CryptoLocker decidieron pagar.
+Algunos usuarios infectados que han pagado reclamaron que sus archivos no fueron descifrados.
+En noviembre de 2013, los operadores de CryptoLocker lanzaron un servicio en línea que dice que permite a los usuarios descifrar sus archivos sin usar el programa ofrecido por CryptoLocker, y que también permite comprar la clave privada de descifrado después de haber expirado la fecha límite.
+El proceso consiste en subir un archivo cifrado al sitio como muestra, y esperar a que el servicio encuentre una coincidencia en sus registros, el cual menciona que ocurre en 24 horas.
+Si encuentra una coincidencia, el sitio ofrece la posibilidad de realizar el pago desde el sitio web; si la fecha límite ya expiró, el costo se incrementa a 10 Bitcoin (un precio estimado de US$ 90000).
+A pesar de que los programas antivirus están diseñados para detectar tales amenazas, estos quizá no podrían detectar al CryptoLocker, o tal vez lo hagan cuando está cifrando archivos, o incluso cuando ya lo finalizó.
+Esto normalmente sucede cuando se distribuye una versión nueva del malware (un ataque de día cero).
+Como el proceso de cifrado tarda un tiempo, si el malware es eliminado tempranamente, limitaría su daño.
+Algunos expertos sugieren tomar ciertas medidas preventivas, como usar aplicaciones que no permitan la ejecución del código de CryptoLocker.
+CryptoLocker también intenta borrar las copias de seguridad de Windows antes de cifrar los archivos.
+Debido a la longitud de la clave usada por el malware, se la considera casi imposible de obtenerla usando un ataque de fuerza bruta sin realizar el pago; un método similar utilizado por el gusano Gpcode.AK, el cual usaba una clave de 1024-bits, creída en aquel entonces computacionalmente imposible de romper sin usar computación distribuida, o bien descubriendo una forma de romper el cifrado.
+Actualmente el certsi posee un servicio gratuito de recuperación: https://www.certsi.es/
+A finales de octubre de 2013, la empresa en seguridad informática Kaspersky Lab anunció la creación de un DNS sinkhole, que permite bloquear los dominios usados por CryptoLocker.
+Recuperación datos >https://www.youtube.com/watch?v=o2l-zFakKfk

@@ -1,0 +1,23 @@
+La infiltración continua de la herida (CWI por sus siglas en inglés, Continuous wound infiltration) se refiere a la infiltración continua de un anestésico local en una herida quirúrgica para ayudar en el manejo del dolor durante la recuperación postoperatoria.
+La infiltración continua de la herida apareció por primera vez en el mercado a fines de la década de 1990 cuando una compañía estadounidense (I-Flow Corporation) encontró una manera de difundir uniformemente e infiltrar continuamente un anestésico local a través de un catéter de múltiples agujeros especialmente diseñado dentro de la herida, para permitir el tratamiento del dolor postoperatorio.
+Los beneficios de la infiltración de la herida son bastante importantes, razón por la cual la infiltración de la herida de "single shot" o inyección única ya se ha realizado durante varias décadas.
+El factor limitante del enfoque de inyección única siempre ha sido el período de semidesintegración de los anestésicos locales que no permitiría un tratamiento del dolor postoperatorio a largo plazo.
+Se administra un anestésico local en la herida con un catéter multiagujero especialmente diseñado.
+El catéter permite una extensión uniforme en toda el área de la herida, dependiendo del tamaño del catéter.
+El cirujano coloca el catéter durante la cirugía poco antes de cerrar la incisión quirúrgica.
+Para una mejor colocación del catéter y bloqueo del nervio, el catéter debe ubicarse lo más cerca posible del nervio.
+Se debe aplicar un túnel si se prefiere una infiltración distal de la raíz nerviosa adyacente.
+Para cirugías torácicas y abdominales, el cirujano colocará el catéter superior a las fascias respectivas.
+Para cirugías torácicas, el catéter es superior a la pleura.
+Para todo tipo de cirugías abdominales, el catéter debe estar cerca del peritoneo.
+Una revisión sistemática mostró que los catéteres de heridas profundas (colocados preperitonealmente o en el plano transverso del abdomen) proporcionan un mejor control del dolor que los catéteres de heridas subcutáneas después de la cirugía abdominal.
+Después de colocarlo, el catéter se conecta a una bomba elastomérica que asegura un suministro constante del anestésico y también sirve como contenedor del medicamento.
+Dependiendo del caudal y del tamaño de la bomba, una bomba puede proporcionar infiltración continua de la herida durante varios días.
+El CWI se considera una alternativa efectiva a otras técnicas anestésicas regionales, como los bloqueos nerviosos periféricos y la anestesia espinal-epidural.
+Es especialmente aplicable cuando esas técnicas están contraindicadas, como en pacientes que usan coagulantes potentes.
+Además, algunos pacientes pueden preferir una alternativa para la analgesia epidural debido a los efectos secundarios relacionados con la epidural.
+La analgesia epidural puede conducir a complicaciones neurológicas graves (hematoma epidural y absceso, con una incidencia de uno en 1000–6000 para las epidurales torácicas;  y la necesidad de colocación preoperatoria en pacientes despiertos, considerado como engorroso por muchos pacientes, que a veces conducen al rechazo.
+El resultado en la mayoría de los casos es beneficioso para el paciente debido a un retorno más rápido a las funciones normales del cuerpo, menos dolor, rehabilitación más rápida y menos efectos secundarios.
+El CWI ofrece la oportunidad de minimizar significativamente el uso de narcóticos durante el manejo del dolor postoperatorio y reduce los efectos secundarios (NVPO) que vienen con los opioides.
+Además, se ha demostrado que el CWI proporciona mejores puntajes de satisfacción en comparación con las alternativas.
+]]

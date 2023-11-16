@@ -1,0 +1,25 @@
+El salinon (que significa "salero" en griego) es una figura geométrica que consta de cuatro semicírculos.
+Se introdujo por primera vez en el Libro de los Lemas, un trabajo atribuido a Arquímedes.
+Sea O el origen de un sistema de coordenadas cartesianas.
+Supóngase que A, D, E y B son cuatro puntos sobre la misma recta, en ese orden, sobre la línea de división O AB.
+Sea AD=EB.
+Los semicírculos se dibujan sobre la línea AB con diámetros AB, AD y EB, y se dibuja otro semicírculo por debajo con el diámetro DE.
+Un salinon es la figura delimitada por estos cuatro semicírculos.
+Arquímedes introdujo el salinon en su "Libro de los Lemas" aplicando la Proposición 10 del Libro II de los Elementos de Euclides, señalando que "el área de la figura limitada por las circunferencias de todos los semicírculos [es] igual al área del círculo con diámetro CF".
+A saber, el área del salinon es:
+Denótense los puntos medios de AD y EB como G y H, respectivamente.
+Por lo tanto, AG = GD = EH = HB = r1.
+Debido a que DO, OF y OE son todos radios del mismo semicírculo, DO = OF = OE = r2.
+Por adición de segmentos, AG + GD + DO = OE + EH + HB = 2r1 + r2.
+Como AB es el diámetro del salinon, CF es un eje de simetría.
+Como todos son radios del mismo semicírculo, AO = BO = CO = 2r1 + r2.
+Sea P el centro del círculo grande.
+Dado que CO = 2r1 + r2 y OF = r 2, CF = 2r1 + 2r2, entonces el radio del círculo es r1 + r2.
+El área del círculo = p (r1 + r2)2.
+Sea x=r1 e y=r2.
+El área del semicírculo con diámetro AB, denotado por, es:
+El área del semicírculo con diámetro DE es:
+El área de cada uno de los semicírculos con diámetros AD y EB es
+Por lo tanto, el área del salinon es:
+como queda demostrado.
+Si los puntos D y E convergen con O, formaría un arbelos, otra de las creaciones de Arquímedes, con simetría en respecto al eje vertical del sistema de coordenadas cartesianas.

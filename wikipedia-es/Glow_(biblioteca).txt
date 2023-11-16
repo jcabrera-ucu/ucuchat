@@ -1,0 +1,2 @@
+Glow es una biblioteca JavaScript de código abierto creada por la BBC.
+Su desarrollo empezó en el año 2007 y fue lanzada bajo la licencia Apache en julio de 2009.

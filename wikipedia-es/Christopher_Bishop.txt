@@ -1,0 +1,10 @@
+Christopher Michael Bishop (nacido el 7 de abril de 1959) es un informático, físico y académico británico.
+Es director de laboratorio de Microsoft Research Cambridge, profesor honorario de informática en la Universidad de Edimburgo y miembro del Darwin College de Cambridge.
+Bishop es miembro del Consejo de Inteligencia Artificial del Reino Unido.
+También ha sido nombrado recientemente miembro del Consejo de Ciencia y Tecnología del Primer Ministro.
+Bishop se licenció en Física en el St Catherine's College de Oxford y se doctoró en Física Teórica en la Universidad de Edimburgo, con una tesis sobre la teoría cuántica de campos supervisada por David Wallace y Peter Higgs.
+La investigación de Bishop investiga el aprendizaje automático permitiendo a los ordenadores aprender de los datos y la experiencia.
+Bishop es autor de dos libros de texto sobre aprendizaje automático muy citados y ampliamente adoptados: Neural Networks for Pattern Recognition (1995) y Pattern Recognition and Machine Learning (2006).
+Bishop recibió el premio Tam Dalyell en 2009 y la medalla Rooke de la Real Academia de Ingeniería en 2011.
+Dio las conferencias de Navidad de la Royal Institution en 2008 y la conferencia Turing en 2010.
+Bishop fue elegido miembro de la Real Academia de Ingeniería (FREng) en 2004, miembro de la Real Sociedad de Edimburgo (FRSE) en 2007 y miembro de la Real Sociedad (FRS) en 2017.

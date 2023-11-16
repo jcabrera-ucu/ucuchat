@@ -1,0 +1,8 @@
+La longitud eléctrica es una unidad de medida que se usa en el estudio de líneas de transmisión de energía eléctrica.
+Normalmente se designa esta magnitud con la letra θ.
+Se define como el producto entre la constante de fase de la onda y la distancia a la que están separados de la carga.
+Así:
+Desarrollando esta fórmula:
+que expresa la distancia a la carga en función de la longitud de onda.
+Este parámetro depende de la frecuencia: parece que la carga "está más lejos" (en longitud eléctrica) cuando aumenta la distancia.
+Esto es porque hay que recorrer más periodos espaciales de la onda (longitudes de onda).

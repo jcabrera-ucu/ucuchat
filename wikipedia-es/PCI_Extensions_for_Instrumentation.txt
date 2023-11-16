@@ -1,0 +1,6 @@
+El bus PXI es un bus industrial de comunicaciones estándar para instrumentación y control.
+Las siglas significan una extensión del bus PCI pensada para aplicaciones de instrumentación (en inglés: PCI eXtensions for Instrumentation).
+El bus PXI fue inventado e introducido en 1997 por la empresa National Instruments.
+Hoy en día cuenta con una organización independiente que gestiona el estándar y más de 60 miembros fabricantes.
+Se fundamenta y amplía estándares existentes hardware y software, como el CompactPCI para la parte mecánica y conexionado, el VXI para la parte eléctrica y de temporización, y el concepto de controlador (driver) que debe incluir todo hardware de la familia PXI.
+La evolución natural combina la tecnología PCI con la PCI-Express en sus formatos PXI (PXI y PXI-Express respectivamente).

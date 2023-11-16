@@ -1,0 +1,55 @@
+El índice de citas es una lista ordenada de referencias bibliográficas realizadas en artículos.
+Se puede decir que vincula los documentos a través de sus citas, posibilitando conocer las citas recibidas por un autor o trabajo concreto.
+Sirve, por tanto, como indicador de la calidad de un artículo.
+Realizando el recuento de todos los trabajos citados en un número dado de publicaciones dentro de una materia se puede establecer quiénes son los autores más citados y cuáles son los trabajos con mayor impacto en los distintos campos del conocimiento.
+Además, estos recuentos de citas permiten descubrir los colegios invisibles.
+Por añadidura, sirve como herramienta de recuperación bibliográfica que da a conocer otros documentos que tratan el tema del artículo citado o similares, ya sean documentos que forman parte del corpus científico retrospectivo o investigaciones y teorías de vanguardia.
+Otro de sus usos es la creación de sociogramas científicos en el campo de la sociología.
+El más usado y conocido es el Web of Science (WOS) publicado por el Instituto para la Información Científica (Institute for Scientific Information, ISI).
+Como alternativa al WOS aparece Scopus, la base de datos de Elsevier que, junto con el portal SCImago Journal & Country Rank (SJR), permiten complementar los análisis que se han venido haciendo hasta ahora.
+Al elaborar un trabajo científico, se parte de la bibliografía existente para corroborar y fundamentar lo expuesto en el mismo.
+El registro de esas fuentes, que más tarde formará los índices de citas, supone un requisito indispensable para la fundamentación del aparato crítico de la obra, además de un reconocimiento a sus predecesores.
+Este registro se efectúa a través de citas bibliográficas, referencias o menciones que un autor hace de un trabajo anterior en el que se ha basado o que ha consultado.
+El problema fundamental de las citas es su carencia de uniformidad, tanto en el motivo de la cita como en su relevancia.
+Una cita puede servir simplemente para ilustrar el conocimiento que se expone, para agradecer a otro autor una cita previa o incluso por interés, buscando sacar un beneficio con la cita.
+Garfield (1978), químico, además de especialista en documentación y lingüista, aporta una lista de 15 razones para citar.
+Aunque no son las únicas, se puede decir que son las principales:
+Smith (1981) apunta las siguientes razones para citar un documento:
+Como podemos ver, las razones para citar un documento aportadas por Garfield y las aportadas por Smith son prácticamente las mismas, incluso coinciden.
+Esto nos permite ver cómo uno de ellos ha citado a otro y lo ha leído en algún momento, puesto que uno de los dos se ha fijado en el otro para hacer esta lista.
+El problema de esta falta de unicidad en los sistemas de citación, y de unos motivos que a veces son poco claros, se pone de manifiesto al intentar utilizar las citas como indicador de la calidad del artículo, resultando insuficiente un recuento cuantitativo del número para su determinación.
+Por otra parte, los criterios de citación no son siempre estrictamente científicos; algunas coincidencias aleatorias, como el idioma o el lugar geográfico, pueden determinar el impacto de un artículo y su citación en trabajos posteriores.
+Este problema se puede observar, por ejemplo, en el caso de las publicaciones iberoamericanas, cuyo impacto internacional es escaso al ser poco visibles, de tal forma que no se encuentran recogidas en índices de citas y, en consecuencia, son escasamente citadas.
+Otro factor que determina el impacto de un artículo es el acceso que se tenga del mismo.
+Un documento accesible siempre tendrá más posibilidades de ser citado que uno que no lo es tanto, ya sea estando disponible para un grupo de investigadores o que esté indizado en fuentes de información secundarias.
+El problema de la accesibilidad y visibilidad se ha visto en parte solucionado por proyectos de libre acceso, como el proyecto Red ALyC, que permiten la difusión de la literatura científica y dan visibilidad a artículos que de otra forma no la tendrían.
+Ocurre, por tanto, un problema en cuanto a la citación y calidad que se desgaja del índice de citas y del análisis de las mismas, ya que no todos los artículos son igualmente citados, ni todos son necesariamente citados; no todos los artículos son citados, ni recuperados, ni son los mejores -en cuanto a los conocimientos que puedan contener- dentro de los que han sido citados (Ferreiro Aláez, 1993).
+Esto presupone que la calidad de los artículos, en cuanto al número de citas que recibe, no tiene un carácter objetivo ni del todo preciso, sino más bien subjetivo, ya que muchos artículos se citan porque no están restringidos a un ámbito de estudio concreto, ni a un área geográfica específica; también influye que los artículos modernos son más fácilmente difundibles en la actualidad y esto permite que sean leídos por más personas o autores que posiblemente vayan a citar dichos artículos.
+Existen, además, otros muchos factores como la llamada “citación interna” o autorreferencias (cita de un artículo a otro dentro de la misma revista) y también los ya mencionados colegios invisibles.
+Dentro del concepto de índice de citas es importante tener en cuenta el término “análisis de citas” que sirve como herramienta analítica que utiliza las citas y referencias de los documentos científicos (Garfield, 1978).
+Le Pair (1988) dice que el análisis de citas es probablemente una buena herramienta de evaluación para los campos científicos que utilizan la revista como canal de comunicación.
+Lord (1984) indica que puede emplearse el análisis de citas para contar citas que permitan evaluar las publicaciones científicas, para conocer la bibliografía citada por dos documentos o para un análisis de co-citas, que nos permitan estudiar el desarrollo de la ciencia en un campo específico.
+Eddhe (1990) indica tres aplicaciones principales: “evaluación cualitativa y cuantitativa de los científicos, de las publicaciones y de los organismos investigadores; modelar el desarrollo histórico de la ciencia y de la tecnología; y para búsqueda y recuperación de la información”.
+Estos índices de citas permiten la búsqueda hacia atrás en el tiempo y con vistas al futuro como no es posible con los índices tradicionales.
+Su antecedente más antiguo son los libros de citas, del.
+El primer índice de citas conocido fue el elaborado por Eugene Garfield, a raíz de un encargo del National Institute of Health (NIH) de EE.UU.
+para realizar un índice de citas especializado en genética.
+De ese encargo nació el SCI (Science Citation Index) en 1961, un año después de la fundación del ISI (Institute for Scientific Information), con 1,4 mill.
+de citas, a partir del vaciado de 613 revistas (Martínez Morilla, J. A., 2006).
+Fue también el inicio de los índices multidisciplinares, al darse cuenta Garfield de la complicación que suponía desarrollar un índice tan específico.
+La herramienta fundamental es la Web of Science (WOS), de la empresa estadounidense Thomson Scientific.
+Inicialmente fue llamada Institute for Scientific Information (ISI).
+Desde 1963, ISI cuenta con tres bases de datos que ofrecen citas:
+También publica anualmente el ISI Journal Citation Reports (JCR) en dos ediciones: Ciencias y Ciencias Sociales.
+La función principal de estas bases de datos es obtener información sobre artículos científicos publicados.
+Una manera de obtener esta información es por la búsqueda del nombre del investigador que encabeza la lista de autores, teniendo en cuenta que el autor principal no es siempre el que encabeza la lista.
+El orden en el que aparecen los autores puede ser alfabético, por importancia (ascendente o descendente) o incluso rotativo, normalmente en grupos de investigación fijos.
+Es conveniente no olvidar que Thomson Scientific no deja de ser una empresa, que aplica un sistema de acuerdo a sus propios intereses y orientación, buscando obtener un beneficio económico con el servicio que presta.
+El monopolio causado por su uso para la evaluación de la Ciencia en el ámbito internacional ha generado un importante rechazo y críticas generalizadas a sus criterios de selección (Urbano Salido, C., 2002).
+Entre estos requisitos cuentan la periodicidad regular, la edición internacional, el uso del inglés en los artículos (al menos en el título, el resumen y las palabras clave) y el proceso de revisión por pares, siempre pasando por el filtro posterior de la empresa, que determina si el contenido de una nueva publicación enriquece o no la base de datos o si el tema ya está adecuadamente tratado.
+Las críticas a sus criterios de selección se fundamentan en la falta de cobertura de áreas lingüísticas no inglesas y de los países en vías de desarrollo, y el incumplimiento temporal de alguno de sus criterios.
+Además, habría que sumar a lo anterior las deficiencias de las cuales adolece cualquier índice de citas, como el hecho de que las revisiones obtengan, muchas veces, más citas que los propios artículos, la mayor citación de artículos en revistas de prestigio y gran visibilidad, o el hecho de que la investigación básica se cite más que la investigación aplicada.
+Pero los índices del ISI no son los únicos.
+Otro índice de citas a nivel internacional es el elaborado por el Institute of Electrical Engineers, que empezó a principios del s. XX.
+Las publicaciones españolas están escasamente representadas todavía en la Web of Science (WOS), por lo que, debido a esto, se puede recurrir a otras herramientas para acceder a ellas.
+Además, existe una serie de aplicaciones web que permiten trabajar sobre las citas:

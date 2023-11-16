@@ -1,0 +1,18 @@
+En economía el término efecto de red, efecto red o externalidad de red se usa para describir situaciones en las que el consumo de una persona influye directamente en la utilidad de otra, ya sean éstas positivas o negativas.
+En concreto, las externalidades de red forman un tipo especial de externalidades en el que la utilidad que obtiene de un bien una persona, depende del número de individuos que lo consuman.
+Un ejemplo de lo anterior son los teléfonos o los módems ya que sólo son útiles si existe otro en algún lugar distinto con el que se puede comunicar.
+El fenómeno de las externalidades de red puede ser también resultado de una moda.
+Bajo esta situación, los efectos de la red van en dos direcciones:
+Otro de los efectos de las externalidades de red, es el caso de los bienes complementarios, en círculo de retroalimentación.
+No existe razón alguna para que se abra un local de alquiler de vídeos en formato blue-ray en un lugar en el que nadie tiene la consola adecuada, pero tampoco existen razones para comprarse una consola si no es posible acceder a discos que poder ver. En este caso, la demanda de consolas depende del número de discos de video existentes, lo cual da lugar a una forma algo más general de externalidades de red.
+En el tema de los efectos de las externalidades de red, la masa crítica es fundamental.
+Por ejemplo, si la demanda de un usuario depende de cuántos usuarios tengan el producto, es importante estimular el crecimiento de las ventas al principio del ciclo de vida del mismo.
+Razón por la cual es bastante usual observar que empresas informáticas ofrecen la posibilidad de acceder a programas o servicios a un precio muy bajo con la finalidad de establecer un nuevo mercado.
+El aspecto más importante es conocer el tamaño del mercado.
+La teoría económica solo es una guía, ya que todo depende de la naturaleza del bien, de los costos y beneficios de los usuarios que adoptan la tecnología.
+Un aspecto relevante en las externalidades de red es el papel que desempeña la administración pública.
+Un buen ejemplo es Internet: cuando surgió, era utilizado por unos cuantos usuarios para intercambiar ficheros de datos.
+Cuando hacia mediados de los ochenta, la National Science Foundation (NSF) de Estados Unidos utilizó la tecnología de internet para conectar algunas universidades, se creyó que la finalidad era que los investigadores universitarios transmitieran datos a través de estos superordenadores.
+Sin embargo, la propiedad fundamental de las redes de comunicaciones es que si todo el mundo está conectado a la red, todo el mundo está conectado entre sí.
+Una vez que, con esta actividad de fomento, se alcanzó la masa crítica de usuarios conectados a Internet, el valor de estar conectado para los usuarios nuevos se incrementó enormemente.
+Externalidades de red

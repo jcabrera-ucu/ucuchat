@@ -1,0 +1,36 @@
+La teoría de situaciones didácticas es la principal contribución teórica de Guy Brousseau a la didáctica de la matemática.
+Es una teoría de la enseñanza, basada en la hipótesis de que los conocimientos matemáticos no se construyen espontáneamente y busca las condiciones para una génesis artificial de los mismos.
+La visión sobre la enseñanza y el aprendizaje de la matemática es una construcción colaborativa de una comunidad educativa que permite «comprender las interacciones sociales entre alumnos, docentes y saberes matemáticos que se dan en una clase y condicionan lo que los alumnos aprenden y cómo lo aprenden».
+El enfoque de esta teoría constituye una forma alternativa de explicar los procesos de enseñanza y de aprendizaje con respecto a lo planteado por los teóricos de la época que se sustentaban en la epistemología piagetiana.
+Surge a partir de un trabajo de investigadores, estudiantes de grado y posgrado y alumnos de diferentes niveles de escolaridad.
+En 1970, la Asociación de Profesores de Matemática de la Enseñanza Pública de Francia publica las reflexiones de Brousseau sobre su experiencia como maestro rural, a la luz de sus estudios universitarios en matemática y psicología.
+Desde entonces, trabaja y dirige centros de investigación y experimentación para desarrollar su teoría a partir de la construcción de modelos de las situaciones utilizadas para enseñar que son analizadas, criticadas, modificadas o sustituidas por otras más apropiadas para el aprendizaje.
+Una situación didáctica es una situación construida con la intención de que los alumnos aprendan un determinado saber.
+Para enseñar un conocimiento los docentes utilizan textos, materiales, juegos, desafíos, etc: en esta teoría se llaman medios, los cuales son estudiados y producidos por la ingeniería didáctica.
+Además de los medios materiales, la propuesta de enseñanza incluye las reglas de interacción con el medio y es solo en la puesta en funcionamiento del dispositivo (juego, problema, etc) que se produce un efecto de enseñanza.
+Cuando el sujeto que aprende se adapta al medio creado, puede dar nuevas respuestas que dan cuenta del aprendizaje, ya que el conocimiento se manifiesta como un instrumento de control de la situación.
+La situación es un modelo de interacción de un sujeto con cierto medio, es una herramienta del docente quien diseña y manipula un entorno para que su alumno aprenda.
+La situación o problema elegido por el docente con la intención de provocar el aprendizaje en el alumno, lo involucra en las interacciones del alumno con el mismo.
+Ese juego con el sistema de interacciones se llama situación didáctica.
+Las situaciones didácticas se clasifican en situaciones de acción, de formulación y de validación, según la manera en que se manifiestan los conocimientos del alumno cuando intenta controlar su entorno.
+En una situación de acción se producen intercambio de información no codificada o sin lenguaje, mediante acciones y decisiones.El alumno debe actuar sobre un medio, donde pone en acto conocimientos implícitos.
+En una situación de formulación los intercambios de información se realizan mediante mensajes donde se utiliza un código lingüístico.
+La formulación de un conocimiento supone la capacidad de reconocerlo, descomponerlo y reconstruirlo en un código compartido.
+El medio debe involucrar a otro sujeto a quien comunicarlo, de manera que solo cooperando pueden resolver la situación.
+Supone la adquisición de repertorios lingüísticos asociados a los conocimientos enunciados.
+En una situación de validación los intercambios de información tienen la forma de juicios acerca del conocimiento en cuestión.
+En este caso, los interlocutores poseen la misma información, pero el emisor es un proponente y el receptor es un oponente, respecto a las relaciones entre un medio y el conocimiento asociado al mismo.
+Al tener diferentes opiniones, uno pide al otro una demostración o una justificación de su respuesta.
+La situación a-didáctica es una fase del proceso en la cual se da el aprendizaje (y no la enseñanza) ya que  los alumnos deben encontrar por sí mismos relaciones entre sus elecciones y los resultados que obtienen.
+El problema elegido por el docente debe provocar en el alumno las adaptaciones deseadas, de manera que pueda resolverlo actuando, hablando, reflexionando, a partir del momento que acepta el problema, o sea, que lo hace suyo.
+A partir de ese momento y hasta que produce su respuesta, el docente no interviene en la puesta en escena de los conocimientos que el alumno debe construir.
+Este debe saber que el problema fue elegido para que él adquiera un nuevo conocimiento y que el mismo está justificado por la lógica de la situación, por lo cual él puede construirlo, ya que el profesor propone situaciones que están al alcance de su estado de conocimiento.
+El problema se organiza de manera que el conocimiento que se quiere enseñar es necesario para la resolución, de manera que, al resolverlo, el alumno habrá construido dicho conocimiento.
+En dicha resolución el alumno puede poner en juego, además, otros conocimientos que ya tiene, pero estos no son específicos de la situación.
+No debe entenderse como castigo, sino como una propiedad de la situación que permite que el alumno tenga información del mismo medio con el que interactúa, sobre lo acertado o no de su acción y de su producción, con la posibilidad de intentar nuevas resoluciones.
+No es el docente quien le dice si está bien o mal su respuesta, sino que él puede darse cuenta porque le permite o no hacer lo solicitado en el problema.
+Cada conocimiento matemático está asociado al menos a una situación que lo caracteriza y lo diferencia de los demás.
+El conjunto de tales situaciones está estructurado y puede ser engendrado a partir de una pequeña cantidad de situaciones llamadas fundamentales, a través de un juego de variables.
+En esta fase del proceso didáctico, el docente relaciona los conocimientos construidos libremente por el alumno en la fase adidáctica con el saber cultural o científico, preserva la producción del alumno y le da estatus científico.
+Guy Brousseau IREM
+La théorie des situations didactiques Le cours de Montréal 1997

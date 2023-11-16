@@ -1,0 +1,5 @@
+El Ajedrez saltamontes es una variante del ajedrez, en el que a los peones se les permite promover a una pieza mágica llamada Saltamontes.
+El Saltamontes (mostrado como una reina invertida) se mueve como una reina pero debe saltar encima de otra pieza para moverse o capturar.
+En algunas variantes los Saltamontes se colocan en la posición inicial del tablero en adición a las piezas usuales.
+Por ejemplo, los peones pueden moverse hacia delante y los saltamontes se ubican a lo largo de la segunda y séptima filas, como se muestra en el diagrama a la derecha.
+Otra posibilidad es sustituir a las reinas con saltamontes en posición inicial.

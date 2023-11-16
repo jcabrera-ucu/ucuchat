@@ -1,0 +1,25 @@
+Los virus adenoasociados (AAV, por sus siglas en inglés) constituyen un grupo de virus satélite de la familia Parvoviridae y del género Dependovirus.
+El AAV es un virus muy simple y no autónomo, que contiene ADN lineal de cadena sencilla.
+El virus requiere la coinfección con adenovirus u otros para replicarse.
+El AAV está extendido en la población humana pero no está asociado con ninguna enfermedad conocida.
+La organización del genoma es extremadamente simple, comprendiendo sólo dos genes:
+La longitud mínima aceptada para codificar en los genes "rep" y "cap" es de 1 kb y la máxima del genoma nativo es de 4.7 kb ya que este tamaño es el ideal para mantener una función óptima de empaquetamiento.
+Los extremos del genoma comprenden repeticiones terminales (TR) de cerca de 145 nucleótidos.
+Los AAV de tipo salvaje pueden integrar su ADN en el cromosoma del hospedador en ausencia del virus ayudante.
+Esta integración puede ocurrir con más frecuencia en regiones del cromosoma 19 y está involucrada la proteína rep.
+Los vectores de AAV contienen sólo las secuencias víricas TR que bordean la unidad de transcripción de interés.
+El único problema parece ser que la longitud del vector ADN no puede exceder mucho de la longitud del genoma viral con 4680 nucleótidos.
+Generalmente, el desarrollo de vectores AAV es voluminoso y lleva consigo la introducción en la célula hospedadora, no solo del propio vector, sino también de un plásmido que codifica rep y cap para proveer de las funciones de virus ayudante.
+La ventaja potencial del vector AAV es que parece capaz de una expresión a largo plazo en células que no se dividen.
+Los vectores son estructuralmente simples, y pueden de todas formas provocar menos respuesta de la célula hospedadora que del adenovirus.
+Los AAV reciben ese nombre porque a menudo se encuentran en células que han sido infectadas simultáneamente con adenovirus.
+Sin embargo, por sí mismo son inofensivos.
+A diferencia de los adenovirus:
+Los adenovirus asociados han resultado ser muy novedosos en el campo de la terapia génica.
+Especialmente porque se integran en el genoma y puede entrar en células en división (a diferencia de los adenovirus).
+Además, presenta otras ventajas que le hacen un buen candidato como vector en terapia génica: no causa enfermedades en humanos y no es inmunogénico.
+Su principal limitación en el presente es que los vectores son difíciles de desarrollar en grandes cantidades, son difíciles de manipular y además, necesitan otros virus durante la coinfección (herpes virus 6).
+Se están usando en músculo y ojo; últimamente, en cerebro.
+El ciclo viral de los vectores virales adenoasociados ocurre en dos formas, fase de latencia o fase de replicación.
+En condiciones favorables (infección celular con un virus adenovirus) favoreciendo a la formación de la doble cadena y el ciclo lítico.
+La replicación es favorecida por la maquinaria enzimática celular, produciendo las proteínas necesarias para la generación de la progenie.

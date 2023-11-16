@@ -1,0 +1,13 @@
+El síndrome de Holt-Oram es una enfermedad de origen genético que se considera una variante del síndrome corazón mano.
+Produce malformaciones que afectan a varios órganos, principalmente extremidades superiores y corazón.
+Es muy poco frecuente por lo que se incluye dentro de las enfermedades raras.
+Fue descrito en 1960 por los médicos británicos Mary Clayton Holt (1924-1993) y Samuel Oram (1913-1991).
+Los síntomas principales consisten en malformaciones de los huesos de la mano y extremidades superiores, incluyendo focomelia, pulgares ausentes o con 3 falanges en lugar de las 2 habituales y falta de desarrollo del radio que ocasiona longitud desigual de los brazos.
+En el corazón puede existir comunicación interauricular, comunicación interventricular y en ocasiones arritmias como fibrilación auricular.
+Está provocado por una mutación en el gen TBX5 situado en el cromosoma 12 humano (12q24.1).
+Suele ser debido a una mutación nueva en dicho gen, en este caso no existen antecedentes familiares.
+Cuando uno de los padres está afectado, existe un 50% de probabilidades de que un hijo determinado presente la enfermedad, por ser las transmisión autosómica dominante.
+El gen TBX5 codifica un factor de transcripción que regula la expresión de otros genes implicados en el desarrollo del corazón y los miembros superiores.
+Puede sospecharse la enfermedad por ecografía, Cuando alguno de los padres es portador del gen TBX5 anómalo, se realiza diagnóstico genético tras estudio del ADN fetal obtenido mediante amniocentesis y biopsia corial.
+El pronóstico es variable dependiendo de la gravedad de las malformaciones cardiacas que son las que disminuyen las expectativas de vida.
+No existe tratamiento curativo de la afección, las medidas terapéuticas se basan en mejorar la función cardiaca, si es necesario mediante cirugía, y en el tratamiento de las malformaciones de miembros superiores mediante medidas rehabilitadoras, con la finalidad de mejorar la función.

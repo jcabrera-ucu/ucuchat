@@ -1,0 +1,34 @@
+La enfermedad granulomatosa crónica es una enfermedad que se caracteriza por una mayor susceptibilidad a infecciones bacterianas severas, junto con la formación de abscesos y granulomas.
+Se produce como consecuencia de un defecto en la capacidad microbicida de las células fagocíticas, en especial de los neutrófilos; un tipo de glóbulos blancos con una importante función en la defensa del organismo frente a los agentes extraños.
+Esta patología es causada por un defecto funcional en el mecanismo de estallido respiratorio de las células fagocíticas, lo que conduce a que sean incapaces de matar a los microorganismos que fagocitan.
+Como consecuencia estos microorganismos continúan vivos dentro de las células de defensa hasta que finalmente, cuando las células mueren, quedan nuevamente libres.
+Esta incapacidad microbicida lleva a que los pacientes sean incapaces de controlar de manera efectiva las infecciones.
+La formación de granulomas es un intento del sistema de defensa de estos pacientes para contener la propagación del microorganismo invasor.
+Este defecto tiene un origen genético y en la mayoría de los casos se hereda como recesivo ligado al sexo (al cromosoma X), si bien en un pequeño grupo la herencia es autosómica recesiva.
+En este tipo de herencia recesiva ligada al cromosoma X, es necesaria la presencia de un gen anormal en el cromosoma X de cada uno de los padres para causar la enfermedad en la mujer, pero en los hombres un solo cromosoma X con el gen alterado puede causar la enfermedad.
+Se han encontrado alteraciones en los cromosomas 22 (Xp22), 1 (1q25), 7 (7q11) y 16 (16q24), según los casos, la mayor parte de estos genes se encuentran implicados en la formación del complejo enzimático NAD(P)H oxidasa.
+La enfermedad se caracteriza por infecciones frecuentes debidas a bacterias y hongos (Aspergillus).
+En el curso de estas infecciones se producen abscesos y granulomas por la reacción inflamatoria crónica que se produce.
+La edad de presentación es variable, pero en la mayor parte de los casos hay manifestaciones clínicas en el primer año de vida.
+Los tipos de infección que presentan estos enfermos son: neumonía, inflamación de los ganglios linfáticos (linfadenitis), infecciones de la piel, abscesos hepáticos, osteomielitis, abscesos rectales, sepsis, otitis, conjuntivitis.
+El diagnóstico de esta enfermedad se basa en la presencia de las manifestaciones clínicas comentadas, y en la realización de algunos exámenes de laboratorio.
+Cuando se sospecha de enfermedad granulomatosa crónica (EGC), se deben realizar pruebas de función de neutrófilos y se deben confirmar los resultados positivos mediante genotipado.
+La mutación p47phox se debe a una conversión de pseudogén, por lo tanto, puede no ser detectable por secuenciación estándar; en estos casos, puede ser necesaria una inmunotransferencia o determinación de dosis de genes para confirmar la deficiencia de p47phox.
+Las infecciones causadas por los patógenos comúnmente asociados a EGC deben conllevar a la realización de un cribado funcional o genético; la detección neonatal o postnatal temprana de los niños potencialmente afectados es esencial si existen antecedentes familiares de CGD.
+En los análisis encontraremos una cifra aumentada de glóbulos blancos o leucocitos (y en concreto de neutrófilos), elevación de las inmunoglobulinas y con frecuencia anemia.
+El dato diagnóstico más importante consiste en demostrar el defecto funcional en el estallido respiratorio de los fagocitos mediante ciertos tests tales como el del nitroazul de tetrazolio o citometría de flujo con 123-Dihidrorodamina (DHR).
+Uno de los análisis más frecuentemente utilizados para el diagnóstico de los defectos funcionales en el mecanismo de estallido respiratorio, es el de reducción de NBT, las células que son capaces de producir un estallido respiratorio competente, son capaces también de reducir el NBT, principio en el cual se basa el test.
+En este ensayo las células se exponen a una solución que contiene NBT y un estimulante de la fagocitosis tal como por ejemplo el Acetato-miristato de forbol (PMA).
+Las células estimuladas forman pequeñas vesículas fagocíticas donde incorporan el NBT de la solución, y si cuentan con un mecanismo de explosión respiratoria funcional, reducen al NBT.
+Luego se observan al microscopio, las células que produjeron el estallido respiratorio muestran gránulos intensamente coloreados de negro (las vesículas fagocíticas donde se produjo la reducción del NBT).
+El test hace un recuento del porcentaje de células fagocíticas coloreadas sobre el número de células fagocíticas total; a mayor número de células coloreadas, mejor es la funcionalidad microbicida del paciente.
+Los intervalos de referencia para esta técnica usualmente varían entre 80% y 100% de células activadas luego del ensayo.
+Porcentajes menores probablemente indiquen un defecto en la capacidad de producción de especies reactivas de oxígeno.
+Esta enfermedad es tratada por especialistas en pediatría, en enfermedades infecciosas e inmunología clínica.
+Para el seguimiento es importante contar con el médico de familia.
+El mayor problema en esta enfermedad es la necesidad de hospitalizaciones frecuentes para tratar las infecciones, por ello el principal objetivo del tratamiento es la prevención de estas.
+A las personas con enfermedad granulomatosa crónica se les administran vacunas y fármacos, como trimetoprim-sulfametoxazol, con el fin de prevenir ciertas infecciones.
+Si a pesar de estas medidas no se consigue evitar la infección, se realizará tratamiento con antibióticos y drenaje quirúrgico de los abscesos y focos de infección.
+Como tratamiento definitivo, se ha utilizado el trasplante de células de médula ósea.
+La terapia génica se encuentra actualmente en estudio.
+Es muy importante mantener algunas medidas generales de higiene, para evitar o disminuir el riesgo de infecciones: evitar el tabaco y realizar limpiezas dentales, lavado y curación de las heridas de la piel con antisépticos, buenos hábitos deposicionales, y evitar el contacto con heno, paja, serrín, etc., que pueden contener esporas de Aspergillus.2222

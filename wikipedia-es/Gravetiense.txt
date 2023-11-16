@@ -1,0 +1,17 @@
+<mapframe text="Selección de yacimientos Gravettianos de la base de datos ROAD (CC BY-SA 4.0 ROCEEH)" longitude="15" latitude="50" zoom="3" width="400", height="300">
+{ "type": "ExternalData",
+"service": "page",
+"title": "ROCEEH/Gravettian.map"
+}
+El Gravetiense (ca. 33.000-22.000 BP) es una fase de la cultura Perigordiense de los Homo sapiens, en el Paleolítico Superior.
+Se desarrolló durante una fase climática fría, donde predominaban los renos y los mamuts.
+Abarca la península ibérica, Francia, Bélgica, Italia, Europa Central, Ucrania y parte de Rusia.
+Hay una gran unidad cultural en la industria lítica, en las estructuras de habitación y en las esculturas femeninas, llamadas venus.
+Las venus evocan representaciones femeninas, con un tamaño de unos 10 cm de media.
+Su silueta presenta una exageración de los atributos femeninos.
+thumb|260px|Europa aproximadamente hace 20 000 años. El [[Último periodo glacial (Ingl. Last Glacial Maximum, LGM) hace alrededor de 21 000 a 18 000 años. El utillaje óseo es menos abundante que en el Auriñaciense, aunque aparecen los primeros objetos de hueso decorados. También aparece la cocción de arcilla.
+Las estructuras de habitación son numerosas y a menudo de gran complejidad, en fosas circulares u ovales, excavadas en suelo helado, delimitadas por huesos de mamuts.
+Esta fase, desarrollada hacia el 30000 a. C., se caracteriza por la abundancia de buriles, incluso asociados a raspadores, perforadores o a hojas truncadas.
+En cambio hay menos raspadores y en general son planos.
+Un útil característico es la llamada punta de la Gravette, de dorso rectilíneo.
+Aparecen también hojas de dorso rebajado y puntas de azagaya óseas.

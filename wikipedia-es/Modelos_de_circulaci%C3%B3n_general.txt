@@ -1,0 +1,5 @@
+Un modelo general de circulación (MCG, en inglés: GCM) es un modelo de tipo matemático sobre lo que es la circulación de una atmósfera u océano planetario.
+Un modelo general de circulación se basa en ecuaciones Navier-Stokes sobre una esfera rotatoria utilizando términos termodinámicos para las diversas fuentes de energía (radiación, y calor latente).
+Estas ecuaciones sirven de base para modelos complejos en programas de computador que normalmente se utilizan para simular las condiciones de la atmósfera y los océanos de la Tierra.
+Los MCGs son componentes claves del modelo de clima global, junto con componentes de la superficie terrestre y también del mar, como hielo marino.
+Estos modelos y los MCGs son ampliamente utilizados para el pronóstico del tiempo, para comprender el clima y para proyectar el cambio climático.

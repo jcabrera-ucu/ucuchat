@@ -1,0 +1,33 @@
+En la producción de fundiciones, la ledeburita surge cuando el contenido de carbono es de entre 2,06% y 6,67%.
+La mezcla eutéctica de austenita y cementita es 4,3% de carbono, su fórmula empírica es (Fe3C: 2Fe), con un punto de fusión de 1147 °C.
+(punto eutéctico C).
+Su nombre proviene de Adolf Ledebur (1837-1906), metalúrgico alemán que la describió en 1882.
+La ledeburita no es una fase, sino una mezcla de fases: austenita y cementita.
+Al enfriarse se forma una matriz de cementita Fe3 C que contiene glóbulos de austenita a 2,11% de carbono.
+La fase principal se inicia con la nucleación de la cementita.
+En la placa de cementita originada en el líquido eutéctico, crecen dendritas planas de austenita.
+A continuación se produce un crecimiento relativamente rápido de cristales de las dos fases.
+Cada una de las fases continua dentro de la misma estructura, es decir, pertenecen al mismo grano.
+Se hace una distinción entre ledeburita I y ledeburita II.
+La ledeburita I (justo por debajo de 1147 °C) es una microestructura de austenita y cementita, la ledeburita II, a temperatura ambiente, está formada por cementita con cementita recristalizada secundaria (que se separa de la austenita con la disminución de la temperatura al enfriarse el metal) y perlita, si el enfriamiento ha sido lento.
+La perlita se forma por la descomposición de la austenita eutectoide por debajo de los 727 °C.
+Si el enfriamiento es más rápido, se pueden desarrollar bainita en lugar de perlita, y con enfriamiento muy rápido se pueden desarrollar martensita.
+La cementita es un compuesto metaestable que tiende a descomponerse en ferrita α y grafito si se espera el "tiempo suficiente" (Mucho tiempo).
+Fe3 C → 3Fe + C
+Si el enfriamiento de la masa fundida es suficientemente lento, especialmente si contiene elementos de aleación llamados "grafitizantes" ( silicio, cobre, níquel), que no forma ledeburita sino un eutéctico al 4,25% de C, compuesto de grafito y austenita con 2,03% en peso de carbono, la fundición gris, y cuyo punto de fusión es de 1153 °C.
+La ledeburita posee una alta dureza y fragilidad.
+La ledeburita se produce en las aleaciones de solo hierro y carbono en el intervalo de concentraciones de carbono del 2% al 6,67%, que corresponde a los hierros fundidos.
+El mecanismo de formación en ledeburita hipoeutéctica (a la izquierda de la eutéctica que corresponde a 4,3 % de carbono en el diagrama de hierro-carbono ), eutécticos e hipereutécticas diferentes planchas.
+Tras el enfriamiento, la composición de la fase del hierro líquido hipoeutéctico primero comienza a cristalizar la austenita, por lo que la composición de la fase líquida comienza a cambiar en la dirección de aumento de la concentración de carbono (debido a la menor solubilidad del carbono en la austenita).
+Al llegar al punto eutéctico (4,3% de carbono, 1147 °C) comienza la cristalización eutéctica, ledeburita.
+En el proceso de enfriamiento adicional del hierro fundido en el rango de temperatura de 1147 °C a 727 °C, la austenita se empobrece en carbono y se libera cementita secundaria.
+Cementita secundaria captura de límite de grano de austenita se fusiona con cementita ledeburita por lo tanto, casi invisible al microscopio.
+Con un ligero sobreenfriamiento a continuación 727 °C la austenita por eutectoide de reacción se transforma en perlita (dividido en ferrita y cementita).
+Por lo tanto, en un hipoeutéctica fundición blanca, a temperatura ambiente, la ledeburita está presente como componente estructural junto con perlita y cementita secundaria.
+Al enfriar, la fase líquida del punto eutéctico a una temperatura de 1147 °C comienza la cristalización simultánea de una mezcla de austenita y cementita, la ledeburita.
+La austenita más tarde se descompone en la mezcla de ferrita-cementita (perlita).
+En el hierro blanco hipereutéctica de líquido cristaliza la cementita primaria en forma de agujas planas, a continuación, se forma la ledeburita.
+A temperatura ambiente la fundición blanca contiene dos componentes estructurales: cementita primaria y ledeburita.
+Ledeburita no es un tipo de acero como el nivel de carbono es demasiado alto, aunque puede ocurrir como un componente separado en algunos aceros de alto carbono, se encontró en su mayoría con cementita o perlita en una gama de hierros fundidos.
+La ledeburita se pueden formar en aceros cuando primero, el contenido de carbono es suficientemente alto (más de 0,7% (entre el 1,3% al 1,5%), que corresponde a los aceros para herramientas), y, en segundo lugar, a gran contenido de carburo en los elementos de aleación (Cr, W, Ti, Mo, etc.) La introducción de estos elementos de aleación en grandes cantidades reduce la solubilidad del carbono en la austenita, y en la perlita, que en ciertos casos, conduce a la posibilidad de proporcionar eutéctica en contenido de carbono comparativamente bajo.
+Como ejemplo en los aceros rápidos.

@@ -1,0 +1,4 @@
+Taphrinomycetes es una clase de hongos de la división Ascomycota que incluye un solo orden Taphirales y este último a su vez comprende dos familias, ocho géneros y 140 especies.
+Los hongos de esta clase son dimórficos (con un estado hifal y levadurifome) que parasitan a las plantas.
+Suelen aparecer como agallas o manchas en las hojas.
+A continuación se muestran los órdenes, familias, géneros y especies que componen la clase según NCBI:

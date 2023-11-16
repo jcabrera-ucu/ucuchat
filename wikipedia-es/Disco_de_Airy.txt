@@ -1,0 +1,17 @@
+El disco de Airy es un fenómeno óptico.
+Debido a la naturaleza ondulatoria de la luz, cuando ésta atraviesa una apertura circular se difracta produciendo un patrón de interferencia de regiones iluminadas y oscuras sobre una pantalla alejada de la apertura (ver interferencia).
+El patrón de difracción resultante en una apertura circular iluminada uniformemente tiene una región central brillante conocida como disco de Airy rodeada de una serie de anillos concéntricos denominados patrón de Airy (ambos nombrados así en honor a George Airy).
+El diámetro del disco central está relacionado con la longitud de onda de la luz y el tamaño de la abertura circular.
+La más importante aplicación de este concepto está en cámaras y telescopios.
+Debido a la difracción, el punto más pequeño en el que se puede enfocar un rayo de luz usando una lente tiene el tamaño de un disco de Airy.
+Así, incluso teniendo una lente perfecta, aún existe un límite para la resolución de una imagen creada por dicha lente.
+Un sistema óptico en el que la resolución no está limitada por imperfecciones en las lentes sino solo por difracción se dice que está limitado por difracción.
+El disco de Airy es de gran importancia en física, óptica y astronomía.
+Se debe la descripción del fenómeno a George Biddell Airy en 1835, cuando el fenómeno de la difracción ya había sido descubierto desde hacia más de una década.
+Lejos de la apertura del sistema óptico el ángulo en el que se produce el primer mínimo de la intensidad luminosa y medido a partir del eje óptico de la luz incidente viene determinado por la siguiente expresión:
+donde &lambda; es la longitud de onda y d es el diámetro de la abertura.
+El criterio que se utiliza para determinar si un sistema óptico resuelve dos focos de luz independientes es que el centro del disco de Airy para el primer objeto debe estar como mínimo a la distancia del primer mínimo del patrón de difracción del segundo objeto.
+De este modo la resolución angular de un sistema óptico limitado por difracción viene dada por la misma fórmula.
+Véase también:
+Español:
+Inglés

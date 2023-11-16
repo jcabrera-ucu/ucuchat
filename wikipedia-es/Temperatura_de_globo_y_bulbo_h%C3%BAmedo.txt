@@ -1,0 +1,11 @@
+La temperatura de globo y bulbo húmedo (TGBH) (del inglés wet-bulb globe temperature, también muy conocido como índice WBGT) es una medida de la temperatura aparente que estima el efecto de la temperatura, la humedad, la velocidad del viento (el efecto refrescante del aire) y la radiación visible e infrarroja (generalmente la radiación solar) en el ser humano.
+Los higienistas industriales, atletas y militares la emplean para determinar la exposición apropiada a altas temperaturas.
+Se deriva de la siguiente fórmula :
+Las temperaturas pueden ser en Celsius o Fahrenheit
+En interiores, o cuando la radiación solar es despreciable se usa la siguiente fórmula:
+La Conferencia Americana de Higienistas Industriales Gubernamentales publicó un valores límites que debían ser adoptados por todos los organismos para su uso en zonas de trabajo.
+El proceso para determinar el WBGT también está descrito en el ISO 7243, Ambientes Cálidos - Estimación del estrés térmico en trabajadores, basado en el índice WBGT.
+El Colegio de Medicina del Deporte de Estados Unidos se basa en éste índice para limitar la intensidad de ciertos deportes en ambientes cálidos.
+En regiones cálidas algunas instalaciones militares estadounidenses muestran una bandera para indicar la categoría de riesgo en función del índice WBGT.
+El ejército publica directrices para la ingesta de líquidos y el nivel de actividad física para individuos aclimatados y otros que no según el uniforme y el índice WBGT.
+El índice de calor que pública el Servicio Meteorológico Nacional de Estados Unidos y el índice de humedad (humidex) publicado por el Servicio Meteorológico de Canadá, conjuntamente con la velocidad de viento usado en ambos países, también mide el calor percibido o el frío, pero ambos no tienen en cuenta la radiación.

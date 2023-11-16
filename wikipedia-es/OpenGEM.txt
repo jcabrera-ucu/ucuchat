@@ -1,0 +1,8 @@
+OpenGEM es una distribución de 16 bits de un GEM, una interfaz gráfica de usuario para el sistema operativo DOS.
+OpenGEM está destinado a proporcionar una interfaz sencilla para instalar y utilizar el sistema GUI y marco de ventanas para el sistema operativo FreeDOS.
+OpenGEM fue desarrollado por Shane Coughlan en colaboración con el equipo de desarrolladores de FreeGEM y es liberado bajo los términos de la GNU General Public License (GPL).
+Las versiones 3 a 6 de OpenGEM están alojadas en SourceForge y en el sitio web de FreeDOS.
+OpenGEM no se ha desarrollado activamente desde 2008, pero es una característica completa como una GUI básica e incluye un SDK completo para el futuro desarrollo o extensión de terceros.
+OpenGEM funciona con FreeDOS Beta 9 y superior, DR DOS 5 y superior, MS-DOS 3.3 y superior, IBM PC DOS 3.3 y superior y REAL / 32, y DOSBox 0,65.
+OpenGEM funcionará en Windows 95, Windows 98, Windows 98SE, Windows ME.
+No se sabe que funcione con Windows NT, Windows 2000 y Windows XP o superior.

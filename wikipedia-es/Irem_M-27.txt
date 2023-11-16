@@ -1,0 +1,4 @@
+Irem M-27 es una placa de arcade creada por Irem destinada a los salones arcade.
+El Irem M-27 fue lanzada por Irem en 1980.
+Posee un procesador 6502 y un chip de sonido AY-3-8910.
+En esta placa funcionaron 4 títulos.

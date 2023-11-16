@@ -1,0 +1,36 @@
+Planificación de tecnología de la información (ITP) es una disciplina dentro de la tecnología de información y sistemas de información.
+Haciendo el proceso de planificación para inversiones de tecnología de la información y que hacen que la decisión sea más rápida, más flexible, y un proceso alineado exhaustivamente es la preocupación de ITP.
+Según la revista Architecture & Governance Magazine, (Estratégico)convirtió en una disciplina global dentro del dominio de Planificación Estratégico en arquitectura de empresa es ahora una de varias capacidades.
+El departamento de TI tarda demasiado en ajustar los planes para satisfacer las necesidades comerciales.
+En el momento en que TI está preparado, las oportunidades han pasado y los planes están obsoletos.
+TI no tiene los medios para comprender cómo respalda actualmente la estrategia comercial.
+El vínculo entre las capacidades de TI, y sus costos, beneficios y riesgos asociados, y las necesidades del negocio no están trazados.
+Además, la recopilación de información y el procesamiento de números retrasan el proceso.
+TI hace planes que no reflejan lo que TI realmente hará o lo que el negocio realmente necesita.
+Al final, el negocio no entiende cómo la TI contribuye a la ejecución de la estrategia.
+TI no comienza a planificar con una imagen clara de qué demanda es verdaderamente estratégica o qué acciones tendrán el mayor impacto.
+La información sobre las necesidades comerciales y los costos, beneficios y riesgos de las capacidades de TI proviene de fuentes de diversa calidad.
+Luego, TI toma decisiones de planificación basadas en información engañosa.
+Los planes de TI a menudo terminan siendo rígidos y no verificables.
+Los planes no incluyen contingencias que reduzcan el impacto del cambio, ni han sido verificados como el mejor plan de acción mediante comparación con alternativas y escenarios.
+TI simplemente no tiene el tiempo ni la información para ello.
+Preparar manualmente múltiples planes y seleccionar el mejor llevaría demasiado tiempo para la mayoría de las organizaciones, especialmente considerando la disponibilidad de la información necesaria para una comparación.
+Según la investigación de Forrester, hay varias estrategias reconocidas para proporcionar una capacidad de planificación de tecnología de la información..
+Un repositorio de dato de aplicación.
+Las herramientas de planificación proporcionan un inventario común de los datos de las aplicaciones, incluidos los costos, los ciclos de vida y los propietarios, de modo que los planificadores tengan fácil acceso a la información que impulsa sus decisiones.
+Mapas de capacidad.
+Forrester recomienda usar mapas de capacidad para vincular las capacidades de TI con los procesos comerciales críticos que respaldan.
+Estas herramientas de software proporcionan una herramienta gráfica que describe claramente cómo las capacidades empresariales que TI proporciona a la empresa están vinculadas a los esfuerzos de TI.
+Esto también se puede conocer como hoja de ruta de TI o tecnología roadmap.
+Herramientas de análisis del vacío.
+Junto con los mapas de capacidad, las herramientas de planificación capturan información sobre el estado futuro de las capacidades comerciales según lo dicte la estrategia comercial.
+Los usuarios aprovechan esta funcionalidad para identificar las áreas donde las capacidades de TI deben construirse, mejorarse o reducirse, impulsando la estrategia de TI.
+Modelado y capacidad analítica.
+Estas herramientas permiten a los equipos de planificación crear una variedad de planes, que luego se pueden comparar entre sí para sopesar los pros, los contras y los riesgos de cada uno.
+Además, se hace visible su impacto en la arquitectura y las iniciativas actuales.
+Esto mantiene los planes relevantes, brinda a los equipos la previsión para planificar de manera integral y permite que TI comunique el plan con claridad.
+Informando herramientas.
+Los informes guían las decisiones del equipo de planificación, por ejemplo, qué aplicaciones tienen capacidades redundantes, no se han actualizado o están plagadas de problemas costosos.
+Por lo tanto, las decisiones estratégicas de TI se justifican más fácilmente.
+el proceso de gestión se utiliza en la política comercial y cada persona puede promover la política de alimentación de datos y cuánto proceso puede saber el proceso se construye en todos y cada uno de los procesos de gestión de datos.
+Empresas como Barclay Banco.., Accenture y Vodafone, así como las agencias de Gobierno como el departamento de Seguridad de Patria y Laboratorio Nacional Los Álamos, han realizado inversiones en capacidades de planificación estratégica de TI y se han validado retornos de inversión de hasta el 700 % para este tipo de proyectos.

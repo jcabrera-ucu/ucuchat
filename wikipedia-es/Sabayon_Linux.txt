@@ -1,0 +1,34 @@
+Sabayon Linux (anteriormente conocida como RR4 Linux / RR64 Linux (versión 32 bits/versión 64 bits); fue una distribución Linux basada en Gentoo, creada y mantenida por IXNAY y el Equipo de Sabayon.
+El nombre de la distribución proviene del zabaione un postre italiano hecho a base de huevos.
+El logotipo de Sabayon es una impresión de la pata de una gallina.
+En noviembre de 2020, se anunció que las futuras versiones de Sabayon Linux se basarían en Funtoo en lugar de Gentoo Linux.
+Sabayon Linux cambiaría su nombre a MocaccinoOS.
+Sabayon Linux se diferencia de Gentoo Linux en que se puede tener una instalación completa del sistema operativo sin necesidad de compilar todos los paquetes para poseerlo.
+La instalación inicial está hecha usando paquetes binarios precompilados.
+Sabayon Linux, sin embargo, incluye acceso al código fuente para su compilación posterior.
+La distribución se encuentra oficialmente disponible para la arquitectura de procesador x86-64 solamente.
+Sabayon Linux usa el empaquetamiento de Gentoo llamado Portage, esto significa que todas las actualizaciones están contenidas en el árbol de portage, utilizado ampliamente en un sistema Gentoo.
+Aunque la distribución es un LiveDVD (en el caso de la 'mini-Edición' es un LiveCD), la instalación al disco duro puede ser iniciada una vez que el sistema ha sido completamente arrancado.
+Sabayon Linux usa el instalador Anaconda.
+En las versiones anteriores, se utilizaba el instalador de Gentoo Linux.
+El proceso de instalación está diseñado para ser una instalación sencilla de un sistema Gentoo.
+Esta última requiere poseer conocimientos más extensos del sistema operativo.
+Sabayon Linux incluye propiedades gráficas específicas que permiten al usuario elegir entre AIGLX o XGL, unido a Beryl (actualmente se está añadiendo el proyecto de ventanas 3D llamado Metisse, desarrollada por Mandriva), para el uso de una de ellas, desde el disco óptico, antes de ingresar definitivamente al escritorio de bienvenida.
+Estas características pueden ser modificadas, ingresando a Gestor de Aceleración(Acceleration Manager) siguiendo: KDE Menu/Settings, o bien, seleccionando la propiedad antes de iniciada la sesión gráfica.
+La versión LiveDVD incluye un menú similar al de OpenSUSE, y una opción para cambiar al menú clásico de KDE.
+Sabayon Linux se encuentra disponible para los entornos de escritorio KDE, GNOME, Xfce, Enlightenment, etc.
+Sabayon Linux se basó en dos gestores de paquetes.
+Portage fue heredado de Gentoo, mientras que Entropy fue desarrollado para Sabayon por Fabio Erculiani y otros.
+Portage descargó el código fuente y lo compiló específicamente para el sistema de destino, mientras que Entropy administró archivos binarios de los servidores.
+Los paquetes tarball binarios fueron precompilados utilizando el árbol inestable de Gentoo Linux.
+Luego, los clientes de Entropy extrajeron estos tarballs y realizaron varias llamadas posteriores y previas a la compilación del ebuild de Gentoo para configurar un paquete correctamente.
+Esto significa que el sistema era completamente compatible en binario con un sistema Gentoo que usaba la misma configuración de compilación.
+La adopción de dos administradores de paquetes permitió a los usuarios expertos acceder a la flexibilidad total del sistema Gentoo y otros para administrar fácil y rápidamente las aplicaciones y actualizaciones de software.
+El software Entropy presentaba la capacidad de permitir a los usuarios ayudar a generar contenido relevante votando y adjuntando imágenes, archivos y enlaces web a un paquete.
+El navegador de aplicaciones de Rigo era una interfaz gráfica de usuario para Entropy que fue el sucesor de Sulphur (también conocido como Entropy Store).
+Tomando un enfoque de "menos es más", Rigo fue diseñado para ser simple y rápido.
+Durante una entrevista con Fabio Erculiani, describió a Rigo como una interfaz de usuario de administración de aplicaciones "similar a Google".
+Rigo manejó las actualizaciones del sistema, la búsqueda de paquetes, la instalación/eliminación de paquetes, la votación positiva/negativa de paquetes y muchas otras tareas comunes de Entropy.
+La siguiente tabla o cuadro muestra las versiones de Sabayon Linux, desde que la distribución se llamaba RR4 o RR64 (para versiones x86 y x86-64 respectivamente), hasta que desde la versión 3.0.
+cambió a Sabayon Linux.
+Desde la versión 3.0 Beta 0 XGL Edition, todas las versiones poseen soporte para escritorios 3D, utilizando AIGLX, XGL, y actualmente Compiz, exceptuando la versión 1.0 Business Edition.

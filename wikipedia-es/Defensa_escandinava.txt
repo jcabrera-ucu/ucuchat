@@ -1,0 +1,29 @@
+La Defensa escandinava es una apertura de ajedrez semi abierta.
+Se caracteriza por los movimientos (en notación algebraica):
+La popularidad de la defensa se basa en que las negras pretenden jugar una estructura de peones como en la Caro-Kann ...Af5 con una disposición de piezas más agresivas.
+La jugada principal en la posición de partida es:
+Tratando de ganar un tiempo atacando a la dama si esta captura.
+El negro tiene dos grandes continuaciones : 2 ... Dxd5 y 2 ... Cf6 (Variante Marshall).
+Es posible la jugada 2 ... c6 jugada por Blackburne, pero no es habitual.
+Después de 2 ... Dxd5, la jugada principal es 3.Cc3.
+Contra ella, las negras tiene varias opciones.
+La variante principal transcurre tras 3.Cc3 Da5.
+Parte de la popularidad de esta defensa se debe a que Anand usó esta línea convincentemente en su encuentro con Kasparov por el campeonato del mundo.
+La idea de las negras es llegar a la siguiente posición o tabiya:
+1.e4 d5 2.exd5 Dxd5 3.Cc3 Da5 4.d4 Cf6 5.Cf3 c6 jugada de espera flexible que aunque facilita la idea estratégica más importante que tienen a su disposición las blancas, d4-d5, a su vez evita problemas con la dama negra, que ha desplazado a la anterior 5...Af5 como jugada principal.
+Aquí lo más habitual es 6.Ac4 Af5, que lleva a la segunda tabiya más importante de la variante: 7.Ad2 e6 8.De2 Ab4 9.Ce5!
+Cbd7 10.O-O-O.
+Por supuesto la variante ni el orden de las jugadas es obligatorio, y las numerosas desviaciones dan lugar a numerosas variantes imposibles de enumerar todas en este artículo.
+Así:
+Esta variante ha recibido varios nombres pero ninguno tiene el consenso de la comunidad ajedrecística.
+La variante principal sigue así: 4.d4 Cf6 5.Cf3 y aquí se juegan tres variantes principales:
+La idea es retrasar la captura el peón d5 evitando la pérdida de tiempo en la que incurre el negro con ... Dxd5 3.Cc3.
+Ahora las blancas tienen varias posibilidades:
+Tras 3...Cxd5 4.c4 las principales variantes principales son:
+Pero las negras también tiene a su disposición 3...Ag4 que es conocida con el nombre de variante portuguesa y que agudiza el juego notablemente.
+Veamos: 4.f3 Af5 5.Ab5 + Cbd7 6.c4 y aquí:
+Los peones suelen ser compensados por la actividad y el desarrollo.
+Sin embargo, las blancas no tienen necesidad de jugar arriesgadamente: 4.Ae2 o 4.Cf3 son sólidas opciones.
+Esta jugada tiene fama de ser muy molesta, sobre todo si las negras tienen la intención de recuperar el peón de d5.
+A menudo las negras tendrán que entregar material para hacerse con la iniciativa.
+Veamos:

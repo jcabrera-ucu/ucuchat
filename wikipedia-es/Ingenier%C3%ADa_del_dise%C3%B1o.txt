@@ -1,0 +1,27 @@
+La ingeniería del diseño, con carácter general, es el arte de aplicar los conocimientos científicos en la ordenación de los elementos básicos, tangibles e intangibles, de un objeto o estructura con el fin de aumentar su belleza o utilidad.
+undefined
+En entornos informáticos, el término alude a la representación o modelo del software que proporciona información acerca de la estructura de los datos, arquitectura, interfaces, etcétera.
+La utilizan los ingenieros del software, y su importancia radica en el hecho de que es de aquí de donde se extraen o se establece la calidad del software y se pueden hacer las mejoras pertinentes si es necesario sin invocar a pruebas o al cliente.
+undefined
+El término diseño admite varias significados.
+Así, el “diseño” puede ser una actividad, la “actividad de diseñar”, puede ser un producto, el “resultado de la actividad de diseñar”, o puede ser un calificativo, y en este sentido es muy común referirse a algo como “de diseño”, cuando aporta una geometría, una forma o unas cualidades diferenciadoras que implican un aire de calidad y distinción.
+undefined
+El término “diseño” viene de “diseñar”, que a su vez tiene su origen en el latín, designare, que en origen significa en trazar (un surco en la tierra) y también dibujar, marcar o designar.
+De hecho, la primera acepción del término diseño, en español, es “traza o delineación de una figura o un edificio”.
+undefined
+Pero el término admite también un significado amplio: “ordenación de los elementos básicos, tangibles e intangibles, de un objeto o estructura con el fin de aumentar su belleza o utilidad”.
+undefined
+De acuerdo con esta significación, el diseño aborda los “elementos básicos”, esto es, los más relevantes o fundamentales.
+La ordenación de los detalles correspondería a una parte del “diseño”, que sería el “diseño detallado”.
+También se debe apuntar que el diseño no conlleva necesariamente unas tareas de “cálculo” o de “dimensionamiento preciso”, tareas que sí formarían parte de un diseño detallado o de las propias de una ingeniería.
+undefined
+Por otro lado, el término “ingeniería”, del latín ingenium, se define como: “el arte de aplicar los conocimientos científicos a la invención, utilización o perfeccionamiento de la técnica en todas sus determinaciones”.
+undefined
+El diseño del software es un proceso interactivo mediante el cual los requerimientos se traducen en un “plano” para construir el software.
+Para lograr que un diseño sea presentable se deben seguir ciertas pautas.
+undefined
+Refinamiento es un proceso de elaboración.
+Refabricación técnica de reorganización que simplifica el diseño (o código) de un componente sin cambiar su función o comportamiento, dicho de otra manera, "es el proceso de cambiar un sistema de software de tal forma que no altere el comportamiento externo de su código (diseño) y aun así se mejore su estructura interna".
+undefined
+Indican cómo se ubicarán las funcionalidad y los subsistemas dentro del entorno computacional físico que soportará al software.
+undefined

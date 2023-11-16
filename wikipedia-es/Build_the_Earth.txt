@@ -1,0 +1,10 @@
+El proyecto Build the Earth (BTE), está dedicado a crear un modelo a escala 1:1 de la Tierra dentro del videojuego Minecraft.
+Build the Earth fue creado por el usuario de YouTube PippenFTS en marzo de 2020 como un proyecto cooperativo con el fin de recrear la Tierra en Minecraft.
+En un vídeo de YouTube, PippenFTS pidió voluntarios para recrear estructuras creadas por el hombre sobre un modelo rudimentario del terreno de la tierra.
+Creó un servidor de Discord para ayudar a coordinar el proyecto, atrayendo a cientos de usuarios en abril de 2020.
+Mojang, desarrollador de Minecraft, mencionó este proyecto en su página web el Día de Tierra de 2020.
+En julio de 2020, el usuario de YouTube, MrBeast, publicó un vídeo donde él y 50 personas más construyeron su ciudad natal de Raleigh, en Carolina del Norte dentro del proyecto.
+El proyecto Build the Earth depende principalmente de dos modificaciones de <i id="mwMw">Minecraft</i> : «Cubic Chunks» y originalmente usaba «Terra 1-to-1» pero ahora usa «terra++».
+Cubic Chunks anula la limitación de altura para construir en Minecraft.
+Terra 1-to-1/Terra++ emplea información de servicios de datos geográficos, como Google Earth, para automáticamente generar terreno y simplificar el proceso de construcción.
+PippenFTS dijo que «con el mod «Cubic Chunks» podemos disfrutar de una Tierra en Minecraft tal y como es, sin necesidad de reducir las dimensiones de nada».

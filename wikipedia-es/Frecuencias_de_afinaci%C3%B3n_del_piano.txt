@@ -1,0 +1,10 @@
+La frecuencia de afinación del piano se consigue partiendo como base del sonido la 440, elegido por convención.
+A continuación se muestran las teclas de un piano virtual estándar con 88 teclas con las frecuencias, en ciclos por segundo (Hz), de cada nota.
+Esta distribución de las frecuencias se conoce como temperamento igual, es decir, la octava está dividida en 12 semitonos perfectamente iguales (desde el punto de vista logarítmico).
+Cada tono se obtiene multiplicando el anterior por la raíz duodécima de dos.
+Por ejemplo, normalmente el la de la octava central del piano (la3 según la notación franco-belga) es sintonizado a 440 Hz. Para obtener el siguiente semitono (la), es necesario multiplicar 440 Hz por la raíz duodécima de 2.
+Para pasar de la a si (es decir, dos semitonos), es necesario multiplicar 440 por la raíz duodécima de 2 elevado al cuadrado.
+Estas frecuencias corresponden a un piano teórico ideal.
+En un piano real, la relación entre semitonos es ligeramente mayor, especialmente en los extremos inferior y superior, debido al espesor de cuerda que causa inarmonía por la fuerza requerida para doblar la cuerda de piano de acero, incluso en ausencia de tensión.
+Este efecto es conocido a veces como octava extendida y el patrón de desviación se llama curva de Railsback.
+(Véase el artículo afinación del piano).

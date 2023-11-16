@@ -1,0 +1,11 @@
+En álgebra abstracta, un ideal artiniano, llamado así por Emil Artin, se encuentra en la teoría de los anillos , en particular con los anillos polinomiales.
+Dado un anillo polinomial R = k[ X1, ... Xn] donde k es un cuerpo, un ideal artiniano es un ideal I en R para el cual la dimensión de Krull del anillo R/I es cociente 0.
+Además, menos precisamente, se puede pensar en un ideal artiniano como uno que tiene al menos cada indeterminado en R elevado a una potencia mayor que 0 como generador.
+Si un ideal no es artiniano, se puede tomar el cierre artiniano de la siguiente manera.
+Primero, tómese el mínimo común múltiplo de los generadores del ideal.
+Luego, agréguese al grupo generador del ideal cada indeterminado del mínimo común múltiplo con su potencia elevada en 1 si la potencia no es 0 para empezar.
+A continuación se muestra un ejemplo.
+Escójanse y  y. Aquí,  y  son ideales artinianos, pero  no porque en, el indetermindado  no aparece solo a una potencia como un generador.
+Para tomar el cierre artiniano de, , se deternina el MCM de los generadores de , que son.
+Luego, se suman los generadores, y a , y se simplifica.
+Así, se obtiene que es artiniano.

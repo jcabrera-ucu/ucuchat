@@ -1,0 +1,26 @@
+LocName, una abreviatura de 'Location Name' (del español; Nombre de ubicación), es una aplicación web y aplicación móvil.
+La cual permite a sus usuarios asignar un nombre corto y personalizado a sus detalles de dirección y a sus coordenadas de un mapa físico.
+Los nombres guardados son conocidos como "LocNames".
+Este proceso permite que los usuarios compartan su dirección detallada de forma más rápida que compartiendo los detalles de una dirección estándar.
+Entonces otros usuarios pueden buscar el LocName deseado en una de las aplicaciones y usar la navegación GPS para lograr llegar al sitio.
+LocName está utilizando un concepto nuevo de geocodificación inversa para convertir las coordenadas de un mapa en nombres sencillos que son fáciles de recordar y compartir.
+A ingresar a la aplicación, los usuarios son incitados a registrar una cuenta LocName usando cualquier email, Facebook, o Google+.
+El primer paso después de aquello es registrar una dirección LocName.
+Este es el principal servicio proporcionado por LocName.
+Los usuarios en su primera vez pueden permitir que la aplicación encuentre su ubicación usando el GPS, o pueden ajustar manualmente la ubicación del alfiler si esta no es exacta.
+Una vez está confirmada, los usuarios darían a aquella ubicación un nombre personalizado o "LocName" (Nombre Loc).
+Los detalles adicionales son opcionales, pero los detalles de dirección estándar sirven para confirmar la ubicación del GPS.
+Esto finaliza la creación de una dirección LocName.
+Los usuarios pueden crear tantos Locnames como gusten.
+Una vez un LocName es creado el usuario tiene varias opciones.
+Puede compartir el LocName utilizando varios medios, como por ejemplo vía texto, email, o medios de comunicación sociales.
+Un hiperenlace será enviado al receptor el cual lo llevará a la página de sitio del LocName.
+Los usuarios también pueden salvar un LocName en sus listas de favoritos.
+Pueden también usar la navegación de GPS para llegar a la dirección LocName deseada.
+En este momento, LocName utiliza la API de Google Maps para el sistema de navegación de la versión web, mientras que las versiones para móviles utilizan la aplicación de mapas disponible en el teléfono inteligente.
+La idea del sistema de direccionamiento LocName llegó a la mente del fundador durante un viaje a Barcelona.
+Al darse cuenta de que Google podría devolver muchas ubicaciones diferentes con el mismo nombre, pensaron que un sistema mejorado podría permitir que cada uno de estos lugares tuvieran un nombre único.
+Después de pensar y refinar mucho la idea, se decidieron por la idea final de LocName para ser implementada a la web y al móvil.
+Al regresar a Egipto, El Equipo desarrolló la primera versión de la aplicación web para LocName, completada en el verano de 2013.
+En febrero de 2014, LocName se unió a la aceleradora de startups Flat6Labs.
+Al recibir financiamiento, tutoría y asociación de Flat6Labs, LocName pudo mejorar su aplicación web y desarrollar su primera versión de la aplicación móvil.

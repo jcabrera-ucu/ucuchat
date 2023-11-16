@@ -1,0 +1,7 @@
+La letra ng o naf (ݣ) es una letra adicional del álfabeto árabe derivada de ك|kāf con la adición de tres puntos encima utilizada para representar un sonido nasal velar.
+No se usa directamente en el idioma árabe, pero sí se usa para representar una n velar /ŋ/ cuando se escriben idiomas túrquicos.
+En el área de lenguas bereberes representa el sonido /g/, el mismo uso de la letra persa گ|gaf (گ).
+En el alfabeto turco otomano y en otras lenguas túrquicas representaba la velar /ŋ/.
+Un ejemplo es la palabra دݣز (däŋiz, “mar”), compárese deniz en turco moderno y deñiz en kirguís, turcomano, uigur y uzbeko.
+La letra se usa o se ha usado para escribir:
+En unicode aparece como:

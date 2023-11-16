@@ -1,0 +1,11 @@
+SASL: Siglas en inglés para Simple Authentication and Security Layer (capa de seguridad y autenticación simple).
+SASL es un framework para autenticación y autorización en protocolos de Internet.
+Separa los mecanismos de autenticación de los protocolos de la aplicación permitiendo, en teoría, a cualquier protocolo de aplicación que use SASL usar cualquier mecanismo de autenticación soportado por SASL.
+A pesar de que mediante SASL sólo se maneja la autenticación (y se requieren otros mecanismos --como por ejemplo TLS-- para cifrar el contenido que se transfiere), SASL proporciona medios para un uso negociado del mecanismo elegido.
+Las especificaciones originales de SASL fueron editadas por John Meyers en el RFC 2222.
+Este fue hecho obsoleto por el RFC 4422, editado por Alexey Melnikov y Kurt Zeilenga.
+Un mecanismo SASL se modela como una sucesión de retos y respuestas.
+Los mecanismos definidos por SASL incluyen:
+Los protocolos definen su representación de intercambios SASL con un perfil.
+Un protocolo tiene un nombre de servicio como "LDAP" en un registro compartido con GSSAPI y Kerberos.
+Entre los protocolos que ahora mismo usan SASL se incluyen IMAP, LDAP, POP3, SMTP, XMPP y algunos servidores IRC, como Freenode.

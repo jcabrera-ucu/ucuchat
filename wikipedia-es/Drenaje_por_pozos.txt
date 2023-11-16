@@ -1,0 +1,19 @@
+El drenaje por pozos es el drenaje subterráneo por medio de pozos.
+Cuando las tierras agrícolas sufren de saturación o de salinidad del suelo, el drenaje por pozos de bombeo (drenaje vertical) puede aliviar tales problemas.
+Es una alternativa del drenaje por zanjas o tubos enterrados (drenaje horizontal).
+Con un sistema de drenaje subterráneo se puede bajar el nivel freático (o tabla de agua) y evacuar sales del suelo de modo que las condiciones del suelo y los rendimientos de los cultivos se mejoran.
+El sistema de drenaje vertical consiste de pozos profundos en una red triangular, cuadrada, o rectangular.
+El diseño de la red de los pozos de bomba se refiere a la profundidad, la capacidad, la descarga hidráulica, y el espaciamiento de los pozos.
+El espaciamiento entre los pozos se puede calcular con una ecuación de drenaje vertical a base de la descarga necesaria, las propiedades del acuífero (como profundidad y permeabilidad), la profundidad del pozo y la profundidad requerida de la napa freática (o tabla de agua).
+La ecuación de estado estacionario básica para flujo subterráneo hacia pozos que completamente penetran un acuífero homogéneo es:
+donde:
+El radio de influencia Ri de los pozos depende de la forma de la red y se calcula como:
+donde:
+La descarga segura Q se obtiene de:
+en que:
+Así, la ecuación básica se deja escribir también como:
+Con la ecuación de drenaje por pozos se pueden calcular varias alternativas de diseño para llegar a la solución más atractiva para el control de la tabla de agua en tierras agrarias.
+El costo de la alternativa más atractiva se puede comparar con el costo de un sistema de drenaje horizontal, que sirve el mismo propósito, para decidir cual de los dos es preferible.
+El diseño netamente técnico del pozo mismo se describe en.
+La anterior ecuación básica no se puede aplicar para determinar el espaciamiento entre los pozos cuando ellos no penetran el acuífero entero y/o la permeabilidad del acuífero es uniforme ni isotrópico.
+En estos casos se requiere una solución numérica de ecuaciones diferenciales más complicadas, y se necesita un programa de computadora.

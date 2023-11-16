@@ -1,0 +1,81 @@
+En teoría de la información, el teorema de Shannon-Hartley es una aplicación del teorema de codificación para canales con ruido.
+Un caso muy frecuente es el de un canal de comunicación analógico continuo en el tiempo que presenta un ruido gaussiano.
+El teorema establece la capacidad del canal de Shannon, una cota superior que establece la máxima cantidad de datos digitales que pueden ser transmitidos o no sin error (esto es, información) sobre dicho enlace de comunicaciones con un ancho de banda específico y que está sometido a la presencia de la interferencia del ruido.
+En las hipótesis de partida, para la correcta aplicación del teorema, se asume una limitación en la potencia de la señal y, además, que el proceso del ruido gaussiano es caracterizado por una potencia conocida o una densidad espectral de potencia.
+La ley debe su nombre a Claude Shannon y Ralph Hartley.
+Considerando todas las posibles técnicas de codificación de niveles múltiples y polifásicas, el teorema de Shannon-Hartley indica que la capacidad del canal C es:
+donde:
+A finales de los años 20, Harry Nyquist y Ralph Hartley desarrollaron una serie de ideas fundamentales relacionadas con la transmisión de la información, de manera particular, en el contexto del telégrafo como sistema de comunicaciones.
+En aquellos años, estos conceptos eran avances de gran alcance de carácter individual, pero no formaban parte del corpus de una teoría exhaustiva.
+Fue en los años 40, cuando Claude Shannon desarrolló el concepto de capacidad de un canal basándose, en parte, en las ideas que ya habían propuesto Nyquist y Hartley y formulando, después, una teoría completa sobre la información y la transmisión de esta, a través de canales.
+En 1927, Nyquist determinó que el número de pulsos independientes que podían pasar a través de un canal de telégrafo, por unidad de tiempo, estaba limitado a dos veces el ancho de banda del canal.
+donde f_p es la frecuencia del pulso (en pulsos por segundo) y B es el ancho de banda (en hercios).
+La cantidad 2B se llamó, más adelante, tasa de Nyquist, y transmitiendo a esta tasa de pulsos límite de 2B pulsos por segundo se le denominó señalización a la tasa de Nyquist.
+Nyquist publicó sus resultados en 1928 como parte de su artículo "Certain topics in Telegraph Transmission Theory".
+Durante ese mismo año, Hartley formuló una manera de cuantificar la información y su tasa de transmisión a través de un canal de comunicaciones.
+Este método, conocido más adelante como ley de Hartley, se convirtió en un importante precursor para la sofisticada noción de capacidad de un canal, formulada por Shannon.
+Hartley indicó que el número máximo de pulsos distintos que se pueden transmitir y recibir, de manera fiable, sobre un canal de comunicaciones está limitado por el rango dinámico de la amplitud de la señal y de la precisión con la cual el receptor puede distinguir distintos niveles de amplitud.
+De manera específica, si la amplitud de la señal transmitida se restringe al rango de [-A...+A] voltios, y la precisión del receptor es +/- \Delta V voltios, entonces el número máximos de pulsos distintos M está dado por:
+Tomando la información para ser el logaritmo del número de los mensajes distintos que podrían ser enviados, Hartley después construyó una medida de la información proporcional al ancho de banda del canal y a la duración de su uso.
+A veces sólo se habla de dicha proporcionalidad cuando se cita a la ley de Hartley.
+Posteriormente, Hartley combinó la observación de Nyquist, y su propia cuantificación de la calidad o ruido de un canal en términos del número de niveles de pulso que podían ser distinguidos, de manera fiable y denotados por M, para llegar a una medida cuantitativa de la tasa de información que se puede obtener.
+La ley de Hartley se explica, cuantitativamente, de manera usual, como la tasa de información alcanzable de R bits por segundo, (b/s):
+Hartley no resolvió, de manera precisa cómo el parámetro M debe depender de las estadísticas de ruido del canal, o cómo la comunicación podía ser fiable incluso cuando los pulsos individuales correspondientes a símbolos no se pudieran distinguir, de manera fiable, de los niveles de M; con las estadísticas del ruido gaussiano.
+Los diseñadores de sistemas tienen que elegir un valor muy conservador de M para alcanzar la mínima tasa de error.
+El concepto de una capacidad libre de errores aguardó hasta que Claude Shannon investigó sobre las observaciones de Hartley con respecto a la medida logarítmica de la información y las observaciones de Nyquist sobre el efecto de las limitaciones del ancho de banda del canal.
+El resultado de la tasa de Hartley se puede ver como la capacidad de un canal M sin errores de 2B símbolos por segundo.
+Algunos autores se refieren a ello como capacidad.
+Pero ese supuesto canal, libre de errores, es un canal ideal, y el resultado es, necesariamente, menor que la capacidad de Shannon de un canal con ruido de ancho de banda B, que es el resultado Hartley-Shannon que se estimó más adelante.
+El desarrollo de la teoría de la información de Claude Shannon durante la Segunda Guerra Mundial estimuló el siguiente gran paso para entender qué cantidad de información se podría comunicar, sin errores y de manera fiable, a través de canales con ruido gausiano de fondo.
+Fundamentado sobre las ideas de Hartley, el teorema de Shannon de la codificación de canales con ruido (1948) describe la máxima eficiencia posible de los métodos de corrección de errores versus los niveles de interferencia de ruido y corrupción de datos.
+La prueba del teorema muestra que un código corrector de errores construido aleatoriamente es, esencialmente, igual de bueno que el mejor código posible.
+El teorema se prueba con la estadística de tales códigos aleatorios.
+El teorema de Shannon demuestra cómo calcular la capacidad de un canal sobre una descripción estadística del canal y establece que, dado un canal con ruido con capacidad C e información transmitida en una tasa R, entonces si
+existe una técnica de codificación que permite que la probabilidad de error en el receptor se haga arbitrariamente pequeña.
+Esto significa que, teóricamente, es posible transmitir información casi sin error hasta un límite cercano a C bits por segundo.
+El inverso también es importante.
+Si
+la probabilidad del error en el receptor se incrementa sin límite mientras se aumente la tasa.
+De esta manera no se puede transmitir ninguna información útil por encima de la capacidad del canal.
+El teorema no trata la situación, poco frecuente, en que la tasa y la capacidad son iguales.
+El teorema de Shannon-Hartley establece cuál es la capacidad del canal, para un canal con ancho de banda finito y una señal continua que sufre un ruido gaussiano.
+Conecta el resultado de Hartley con el teorema de Shannon de la capacidad del canal en una forma que es equivalente a especificar la M en la fórmula de Hartley de la tasa de información en términos de la relación señal/ruido, pero alcanzando fiabilidad a través de la codificación correctora de errores, más fiable, que los niveles de pulso distinguibles.
+Si existiera una cosa tal como un canal analógico con ancho de banda infinito y sin ruido, uno podría transmitir cantidades ilimitadas de datos sin error, sobre este, por cada unidad de tiempo.
+Sin embargo, los canales de comunicación reales están sujetos a las limitaciones impuestas por el ancho de banda finito y el ruido.
+Entonces, ¿cómo el ancho de banda y el ruido afectan a la tasa en la que la información puede ser transmitida sobre un canal analógico?
+Aunque parezca sorprendente, las limitaciones del ancho de banda, por sí solas, no imponen restricciones sobre la tasa máxima de información.
+Esto es porque sigue siendo posible, para la señal, tomar un número infinitamente grande de valores distintos de voltaje para cada pulso de símbolo, siendo cada nivel levemente distinto del anterior que representa a un determinado significado o secuencia de bits.
+Sin embargo, si combinamos ambos factores, es decir, tanto el ruido como las limitaciones del ancho de banda, encontramos un límite a la cantidad de información que se puede transferir por una señal de potencia limitada, aun cuando se utilizan técnicas de codificación de niveles múltiples.
+En el canal considerado por el teorema de Shannon-Hartley, el ruido y la señal se suman.
+Es decir, el receptor mide una señal que sea igual a la suma de la señal que codifica la información deseada y una variable aleatoria continua que represente el ruido.
+Esta suma crea incertidumbre en cuanto al valor de la señal original.
+Si el receptor tiene cierta información sobre el proceso aleatorio que genera el ruido, se puede, en principio, recuperar la información de la señal original considerando todos los posibles estados del proceso del ruido.
+En el caso del teorema de Shannon-Hartley, se asume que el ruido es generado por un proceso gaussiano con una varianza conocida.
+Puesto que la varianza del proceso gaussiano es equivalente a su potencia, normalmente se llama a esta varianza la potencia de ruido.
+Tal canal es llamado canal aditivo del ruido blanco gaussiano, porque el ruido gaussiano es añadido a la señal; blanco significa igual cantidad de ruido en todas las frecuencias dentro del ancho de banda del canal.
+Comparando la capacidad del canal con la tasa de información de la ley de Hartley, podemos encontrar el número eficaz de los niveles distinguibles M:
+La raíz cuadrada convierte con eficacia el cociente de potencias de nuevo en un cociente de voltaje, así que el número de niveles es aproximadamente proporcional al cociente entre el valor de la raíz cuadrada media de la amplitud de la señal y la desviación estándar del ruido.
+Esta semejanza entre la capacidad de Shannon y la ley de Hartley no se debe interpretar como M niveles de pulsos pueden enviarse literalmente sin ninguna confusión.
+Se necesitan más niveles, para permitir codificación redundante y la corrección de errores, pero la tasa de datos neta que puede acercarse con la codificación es equivalente a usar M en la ley de Hartley.
+En la versión simple de arriba, la señal y el ruido están completamente incorreladas, y en ese caso S + N es la potencia total de la señal y del ruido recibidos juntos.
+Una generalización de la ecuación antedicha para el caso donde el ruido adicional no es blanco (es decir, la relación S/N no es constante con la frecuencia sobre el ancho de banda) como muchos canales estrechos independientes y gaussianos en paralelo:
+donde:
+Nota: el teorema se aplica solamente a los ruidos que son procesos gaussianos estacionarios.
+La manera en que esta fórmula introduce el ruido dependiente de la frecuencia no sirve para describir todos los procesos del ruido continuo en el tiempo.
+Por ejemplo, consideremos un proceso del ruido que consista en sumar una onda aleatoria cuya amplitud sea 1 o -1 en cualquier momento del tiempo, y un canal que añada dicha onda a la señal original.
+Los componentes de la frecuencia de la onda son altamente dependientes.
+Aunque tal ruido puede tener una alta potencia, es bastante fácil transmitir una señal continua con mucha menos potencia que la necesaria si el ruido subyacente fuera una suma de los ruidos independientes de cada banda de frecuencia.
+Para las relaciones señal/ruido grandes o pequeñas y constantes, la fórmula de la capacidad puede ser aproximada:
+Se trata del caso en el que S/N>>1, entonces:
+En esta situación es posible observar, que la capacidad crece logarítmicamente con la relación señal a ruido.
+Así, fijado un cierto ancho de banda B, duplicar la S/N implica incrementar la capacidad C en solo 1 bit/s.
+La dependencia con el ancho de banda no es exactamente lineal ya que el ruido es blanco y por tanto, N también crece linealmente con B.
+Es habitual expresar la anterior aproximación en función de la \frac{S}{N} medida en decibelios.
+Es decir, :
+En este caso S/N<<1, entonces, teniendo en cuenta que :
+A diferencia del caso anterior, ahora la capacidad depende linealmente son la relación señal a ruido.
+Es decir, duplicar la S/N implica duplicar la capacidad C.
+Por otro lado, desaparece la dependencia con el ancho de banda.
+Dado que el límite de Shannon-Hartley asume ruido blanco, su densidad espectral de potencia N_0/2 (W/Hz) es constante.
+Por tanto, la potencia del ruido es y en consecuencia, la capacidad se simplifica en:
+Định lý mã hóa trên kênh nhiễu

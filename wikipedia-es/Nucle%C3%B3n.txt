@@ -1,0 +1,38 @@
+En física nuclear, un nucleón corresponde al nombre colectivo para dos partículas: el neutrón y el protón (ambas formadas por cuarks de primera generación, los más ligeros).
+Los nucleones son dos de los constituyentes del núcleo atómico, que también contendría piones portadores de la interacción que mantiene unidos a los nucleones.
+Hasta los años 60, los nucleones fueron considerados partículas elementales; posteriormente se postuló que podrían estar formados por cuarks, y la evidencia sólida de que estaban formados por constituyentes discernibles apareció en la década de los 70.
+Actualmente se sabe que son partículas compuestas, cada una formada por tres cuarks unidos mediante la fuerza fuerte transmitida por gluones.
+La masa de los nucleones está asociada tanto a las propias masas de los cuarks como al campo de gluones.
+Existe un tipo interacción no-electromagnética entre un nucleón y un leptón que conlleva la transformación de un neutrón en un protón (o vicersa); es conocida como decaimiento débil o desintegración beta.
+Esta desintegración está asociada a la fuerza nuclear débil.
+Tanto el protón como el neutrón son parte de los bariones y, por tanto, se comportan como fermiones.
+La posibilidad de los nucleones de transformarse el uno en el otro está asociada a que en la terminología de la física de partículas, estas dos partículas poseen un isospín doblete 1/2.
+Esto explicaría por qué sus masas son tan similares, con el neutrón siendo solo un 0,1% más pesado que el protón.
+Se podría decir que los nucleones se encuentran en la línea donde la física de partículas y la física nuclear se entremezclan.
+La teoría cuántica de campos, en particular la cromodinámica cuántica, provee de las ecuaciones fundamentales que explican las propiedades de los cuarks y de la fuerza nuclear fuerte.
+Estas ecuaciones explican cuantitativamente cómo los cuarks se unen entre sí para formar protones y neutrones (y todos los demás hadrones).
+Sin embargo, cuando varios nucleones se unen para formar un núcleo atómico (nucleido), estas ecuaciones fundamentales se vuelven muy difíciles de resolver (ver retículo QCD).
+En vez de eso, los nucleidos son estudiados por la física nuclear, que analizan los nucleones y sus interacciones mediante modelos y aproximaciones, tales como el modelo de capas nuclear.
+Estos modelos pueden explicar satisfactoriamente propiedades de los nucleidos, como por ejemplo, cuándo un cierto nucleido sufrirá un decaimiento radiactivo.
+Los protones y neutrones son más conocidos por constituir el núcleo atómico, pero también pueden existir de manera aislada, sin ser parte de núcleos más grandes, aunque existe una diferencia importante: los protones son estables o altamente estables mientras que los neutrones aislados se desintegran mediante desintegración beta siendo su vida media de 15 minutos en estado aislado.
+Dentro del núcleo el intercambio de piones de carga negativa generalmente estabiliza a los neutrones.
+Un protón por sí solo corresponde al núcleo del átomo de hidrógeno-1 (1H).
+Un neutrón por sí solo es inestable como se ha dicho (ver más abajo), pero se le puede encontrar en reacciones nucleares y también son usados en análisis científico (ver dispersión de neutrones).
+Tanto el protón como el neutrón están constituidos por tres cuarks.
+El protón está conformado por dos cuarks arriba y un cuark abajo, mientras que el neutrón en un cuark arriba y dos cuarks abajo.
+Los cuarks se mantienen unidos mediante la fuerza nuclear fuerte.
+También se dice que los cuarks se mantienen unidos por medio de gluones, en tanto que los gluones son los mediadores de la fuerza nuclear fuerte.
+El cuark arriba tiene una carga eléctrica +2/3 e, y el cuark abajo tiene carga −1/3 e. Entonces las cargas eléctricas totales del protón y del neutrón son: +e y 0, respectivamente.
+La palabra neutrón viene del hecho de ser eléctricamente «neutro».
+Las masas del protón y del neutrón son muy similares: la del protón es 1.6726 u o 938.27 MeV/c2, mientras que la del neutrón es 1.6749 u o 939.57 MeV/c2, lo que significa que el neutrón es prácticamente un 0.1 % más pesado.
+La similitud de masas es explicada por la simetría aproximada del isospin.
+Tanto protones como neutrones tienen un momento angular intrínseco o espín de 1/2.
+Esto significa que son fermiones y no bosones, y por lo tanto, como los electrones, están sujetos al principio de exclusión de Pauli.
+Esto es un hecho importante en la física nuclear: los protones y neutrones de un núcleo atómico no pueden estar en un mismo estado cuántico, por lo que se distribuyen en una serie de capas nucleares análogas a las de los electrones en el modelo atómico.
+Otra razón por la que el spin de los protones y neutrones es importantes es que de su suma se desprende el spin nuclear.
+Este es más conocido por su papel crucial en la técnica de la resonancia magnética nuclear, utilizada en los análisis químicos y biológicos.
+El reconocimiento del núcleo atómico se debió a lo evidenciado por el experimento de Rutherford de 1919.
+Por esa época se entendió que el núcleo atómico contenía las cargas positivas.
+Previamente ya se habían observado protones aislados por Oracio Golden en 1886, aunque en esa época no se conocía el núcleo atómico y por tanto el mismo concepto de nucleón era inexistente.
+El conocimiento que se tenía del átomo de hidrógeno ionizado junto con el experimento de Rutherford llevó a este a postular que el núcleo atómico debía contener los protones.
+El descubrimiento del neutrón fue más tardío y se debió a James Chadwick en 1932.

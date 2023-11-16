@@ -1,0 +1,7 @@
+La Sega System 32 es una videoconsola de arcade lanzada por Sega en 1991.
+Fue el primer sistema de arcade de 32-bits.
+Tiene un procesador RISC 32-bit a 16 MHz.
+Algunos títulos notables eran Golden Axe: The Revenge of Death Adder, Rad Mobile, OutRunners y SegaSonic the Hedgehog.
+También existe otra versión del hardware, llamada System Multi 32.
+Este era similar al original, pero tenía doble monitor para cada juego.
+List of Sega arcade system boards

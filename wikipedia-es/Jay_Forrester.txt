@@ -1,0 +1,22 @@
+Jay Wright Forrester (14 de julio de 1918-16 de noviembre de 2016) fue un ingeniero informático estadounidense.
+Fue profesor en la MIT Sloan School of Management.
+Forrester es conocido como el fundador de la dinámica de sistemas, disciplina que se ocupa de la simulación de interacciones entre objetos en sistemas dinámicos y que se aplica, con mayor frecuencia, a la investigación y consultoría en organizaciones y otros sistemas sociales.
+Sus padres, Ethel y Marmaduke Forrester, eran maestros y ya desde muy pequeño lo expusieron a la tecnología.
+Su casa era una de las pocas en el área que contaba con instalaciones internas de plomería.
+En la escuela leía manuales sobre cómo hacer baterías o instalar alarmas contra robos.
+Su interés por la innovación lo llevó a construir un sistema eléctrico eólico de 12 V en el rancho de su familia, para lo que usó partes de coches desechables.
+Forrester nació en 1918 en Anselmo Nebraska EUA.
+Después de haber obtenido el título de Ingeniero Electricista en la Universidad de Nebraska, Forrester llegó a ser un pionero del desarrollo de la informática, para la cual desarrolló en la década de 1950 la invención de la memoria de acceso aleatorio RAM. A su vez, es considerado el autor de la primera imagen animada sintética.
+Su interés por la electrónica (extendido después hacia la entonces incipiente disciplina de la informática), lo llevó a considerar a los ordenadores como un instrumento fundamental para el desarrollo de teorías.
+Jay W. Forrester planteaba que el mundo estaba lleno de sistemas.
+La mayoría son bastante simples y fácilmente entendibles; no obstante, los problemas sociales son sistemas con una gran cantidad de variables y sumamente complicados.
+Por esa razón, Forrester propone la utilización de computadoras para la simulación de sistemas reales, a través de la formulación de modelos fácilmente traducibles a programas informáticos, mediante los cuales el modelo es puesto a prueba.
+De esta manera, el ser humano puede aspirar a predecir el comportamiento de sistemas tan complejos como las sociedades.
+En su libro Industrial Dynamics (considerado el punto de partida de la dinámica de sistemas), Forrester pone de manifiesto el hecho de que el actual crecimiento de la población es insostenible por más de 100 años.
+Forrester, junto con otras personalidades, fundó el Club de Roma; organización internacional cuyo objetivo es concienciar a la sociedad de que el actual sistema es insostenible y está abocado al colapso.
+Particularmente, el "precio del progreso", fue estudiado por los pioneros como la obra de Meadows, Los límites del crecimiento, al principio de la década de 1970.
+Antes, a mediados de la década de 1960, Bottomore en Critics of Society y Radical Thought in North America.
+ Libros
+ Revistas
+ Software
+Organizaciones

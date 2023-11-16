@@ -1,0 +1,20 @@
+En el subcampo matemático del análisis numérico, la estabilidad numérica es una propiedad de los algoritmos numéricos.
+Describe cómo los errores en los datos de entrada se propagan a través del algoritmo.
+En un método estable, los errores debidos a las aproximaciones se atenúan a medida que la computación procede.
+En un método inestable, cualquier error en el procesamiento se magnifica conforme el cálculo procede.
+Métodos inestables generan rápidamente anomalías y son inútiles para el procesamiento numérico.
+La estabilidad numérica de un método junto con el número de condición define cuán buen resultado podemos obtener usando métodos aproximados para calcular cierto problema matemático.
+Algunas veces un solo cálculo puede ser logrado de varias maneras, que pueden ser algebraicamente idénticas en términos de números reales o complejos, pero que en la práctica producen resultados diferentes según varían los niveles de estabilidad numérica.
+Una de las tareas comunes del análisis numérico es tratar de seleccionar algoritmos robustos: esto es, que tienen una buena estabilidad numérica en un amplio intervalo (range) de situaciones.
+Estos métodos están frecuentemente disponibles para usuarios de lenguajes de programación como bibliotecas de computación matemática (ver mathematical computing libraries).
+El uso apropiado de bibliotecas de computación matemática es usualmente muy superior a algoritmos numéricos "caseros".
+Dado un algoritmo f(x), con x los datos de entrada y ε el error en los datos de entrada, decimos que el algoritmo es numéricamente estable (es decir que el algoritmo depende continuamente de los parámetros) para el error absoluto si
+y numéricamente estable para el error relativo si
+Decimos que un algoritmo es numéricamente inestable para el error absoluto si
+y numéricamente inestable para el error relativo si
+Cuando se calculan soluciones numéricas a ciertas ecuaciones diferenciales parciales, la estabilidad se consigue algunas veces incluyendo la difusión numérica.
+La difusión numérica es un término matemático que asegura que errores de redondeo y de otro tipo en los cálculos se diseminen y no se sumen causando desbordes en el cálculo.
+La estabilidad numérica es la razón por la cual no se puede normalmente testear un código numérico como la simulación del clima corriéndolo hacia atrás.
+Correr el código hacia adelante incluye usualmente métodos numéricos para asegurar que los errores de aproximación aleatorios se vuelvan cada vez menos importantes a medida que el cálculo procede, asegurando la estabilidad numérica.
+Correr el código hacia atrás magnifica los errores generando resultados sin utilidad práctica.
+Cuando se resuelve un problema numérico con un método aproximado, dos tipos de errores pueden ocurrir:

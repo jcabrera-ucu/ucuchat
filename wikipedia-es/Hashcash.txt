@@ -1,0 +1,16 @@
+Hashcash es una propuesta realizada por Adam Back en 1997 para combatir el correo basura o spam.
+Más recientemente se conoce por inspirar el mecanismo de prueba de trabajo usado en Bitcoin.
+La estrategia que sigue es establecer un mecanismo rápido de verificación de que quien ha mandado un mensaje tiene el suficiente interés para mandarlo que está dispuesto a "pagar" con tiempo de CPU para poner una marca que demuestre que no lo manda simplemente porque no cuesta nada.
+De esta forma quienes quieran mandar grandes volúmenes de spam tendrán que dedicar altos costes disuadiéndoles o al menos acotando sus actuaciones.
+Para implementar esta estrategia se usan problemas matemático complejos cuya solución se verifica con facilidad.
+Como por ejemplo: Cálculo de raíces cuadradas de números grandes, o encontrar colisiones parciales de hash.
+Para usar esta técnica en los sistemas de correo se han desarrollado plug-ins que insertan cabeceras X-hashcash en los mensajes de forma similar a la siguiente:
+Estos valores se calculan, a partir de la fecha, la dirección de correo del destinatarios (si son múltiples habrá que insertar múltiples cabeceras X-hashcash) y un número de versión junto con algún valor aleatorio.
+Esto se realiza cuando se manda el correo aprovechando que el correo no es interactivo en tiempo real.
+El coste para la generación del código suele dimensionarse para que tarde unos segundos en un equipo medio.
+De esta forma se penaliza más a quien tiene una máquina lenta.
+Verificar la cabecera para cada correo implica cambiar los servidores de correo.
+Además, si alguien con un sniffer captura cabeceras X-HashCash, nada le impediría mandar un mensaje a cada uno de los destinatarios aprovechando la duración de los salvoconductos ya generados
+El almacenamiento de los hashes para tantos destinatarios supone un coste.
+Las listas de correo sin embargo tendrían sobrecargas, al mandar mensajes a cada destinatario.
+Por ello los usuario deben comprobar el hashcash con la dirección de la lista y no el de cada miembro.

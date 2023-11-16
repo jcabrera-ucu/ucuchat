@@ -1,0 +1,34 @@
+Las nucleoporinas (Nups) son el conjunto de proteínas que conforman el poro nuclear, y regulan el transporte selectivo y bidireccional que se produce entre el núcleo celular y el citoplasma.
+Su estructura tridimensional es variable, algunas son globulares altamente plegadas y otras filamentosas.
+Estas proteínas forman asociaciones relativamente permanentes con la estructura del poro, por lo que se denominan componentes del complejo de poro nuclear o nucleoporinas.
+Están agrupadas en subcomplejos que presentan funciones, composiciones, propiedades bioquímicas y posiciones específicas.
+Muchos loci genéticos se unen a las Nups, en los complejos del poro y también dentro del nucleoplasma.
+Estas interacciones regulan la expresión de los genes que están implicados en la diferenciación, el desarrollo, la progresión del ciclo celular y la respuesta antiviral.
+Las nucleoporinas tienen un papel central en la biología celular, se han relacionado con una amplia gama de enfermedades humanas, incluidas las infecciones virales, el cáncer y las enfermedades neurodegenerativas.
+Las nucleoporinas son necesarias para lograr el buen funcionamiento del poro nuclear, y también para cumplir una función estructural sobre el mismo.
+Forman estructuras mediante su asociación en complejos multi-moleculares.
+Algunas nucleoporinas específicas juegan un papel indispensable en la formación de la envoltura nuclear, mediante la estructura que "abraza" la superficie curvada de la membrana nuclear, estas son el andamiaje del complejo de poro nuclear (en inglés NPC), entre las membranas nuclear interna y nuclear externa.
+Otras nucleoporinas conectándose con las del andamiaje, ayudan a formar la estructura tubular, a través de la cual se produce el intercambio entre el núcleo y el citoplasma.
+Por su parte las nucleoporinas presentes sobre la superficie del canal tubular, son más móviles y así facilitan el transporte de macromoléculas y representan aproximadamente la mitad de la masa de todo el complejo de poro nuclear.
+Las Nucleoporinas están agrupadas en subcomplejos que presentan funciones, composiciones, propiedades bioquímicas y posiciones específicas.
+Las Nucleoporinas (Nups) incluyen tres subfamilias:
+La mayoría de las nucleoporinas son conservadas evolutivamente entre mamíferos y levaduras y algunos estudios genómicos muestran una conservación del complejo de poro nuclear también en plantas y algas eucariotas.
+Las Nucleoporinas (Nups) son proteínas altamente plegadas cuyo peso molecular en miles de Daltons (kDa), varía entre 35kDa y 400kDa.
+Entonces por ejemplo la Nup35, es una molécula proteica de 35kDa (o 35000 Da).
+Su estructura tridimensional es variable, algunas son globulares y otras filamentosas.
+son estructuras secundarias de las nucleoporinas.
+Esta hélice mantiene su forma por la presencia de los puentes de hidrógeno que se forman entre los átomos de oxígeno de un aminoácido y el átomo de hidrógeno de otro aminoácido.
+Los grupos R se extienden hacia afuera de la hélice.
+Es una estructura anfipática porque posee una parte hidrofílica y una parte hidrófoba, lo que causa el enrollamiento de la estructura.
+La hélice α es el principal motivo de estructura secundaria.
+son estructuras secundarias de las nucleoporinas formadas por la asociación de láminas beta paralelas, en un patrón helicoidal con dos o tres caras.
+o helicoide enrollado (del inglés coiled coil) es un motivo estructural de nucleoporinas, en donde se enrollan juntas 2 a 7 hélices alfa, siendo los dímeros y los trímeros las formas más comunes.
+El cuerpo principal del complejo de poro nuclear (NPC) consta de un número pequeño, de aproximadamente 30 proteínas diferentes (ver Tabla 1).
+Sin embargo, debido a la simetría óctuple del NPC, estas Nups están cada una presentes en múltiples copias (por lo general 16 por poro) lo que resulta en alrededor de 400 polipéptidos para cada NPC en cada célula eucariota.
+O sea que, la estructura de los NPC es modular, consistiendo de unos pocos tipos de proteína plegada, muy repetidos.
+Una lista creciente de proteínas integrales de membrana de la envoltura nuclear están descritas para funcionar en la organización del genoma, y también en el ensamblaje de los NPCs.
+Las moléculas pequeñas pasan a través de la NPC por difusión pasiva, mientras que las moléculas más grandes son transportados de una manera facilitada.
+Para lograr un transporte selectivo, los factores solubles de transporte están obligados a interactuar con las sustancias de carga por una parte y los NPC por otra.
+En los últimos años, se ha encontrado que las nucleoporinas desempeñan papeles dinámicos en una variedad de funciones celulares, además de su bien conocida función como componentes estructurales de los poros nucleares.
+Por ejemplo, las nucleoporinas han demostrado estar involucradas en la modificación de proteínas y la regulación de la formación del huso mitótico.
+La Nup358 y el subcomplejo Nup107-160 están localizados en los cinetocoros durante la mitosis y desempeñan un papel en el ensamblaje del huso.

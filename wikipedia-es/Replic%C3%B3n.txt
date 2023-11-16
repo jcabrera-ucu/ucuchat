@@ -1,0 +1,37 @@
+Se conoce como replicón a la unidad de ADN o ARN en la cual ocurre un acto individual de replicación.
+Cada replicón dispara solo una vez en cada ciclo celular.
+El replicón debe poseer los elementos de control necesarios para la replicación.
+Tiene un origen en el cual se inicia la replicación y puede o no tener un sitio de terminación.
+Las bacterias y arqueobacterias pueden contener información genética adicional en forma de plásmidos, cada plásmido representaría un replicón.
+La replicación inicia en un origen al separarse la doble hebra de ADN, al microscopio electrónico se observa una burbuja de replicación dentro de ADN no replicado.
+El punto en el cual la replicación ocurre es llamado horquilla de replicación o punto de crecimiento.
+El origen puede ser usado para iniciar una replicación unidireccional o bidireccional dependiendo si se forman una o dos horquillas de replicación.
+Al microscopio electrónico no es posible distinguir entre una replicación unidireccional y una bidireccional, en ambos casos se observa una estructura en forma de la letra griega teta.
+En la mayoría de las cadenas circulares de ADN la replicación es bidireccional.
+Una consecuencia importante de la estructura circular es que la replicación puede generar dos cromosomas encadenados.
+El genoma de E. Coli se replica de manera bidireccional desde un sitio único en el locus oriC.
+Dos horquillas de replicación surgen del sitio oriC y se mueven alrededor del genoma.
+El iniciador de la replicación es la proteína DnaA que se une a múltiples regiones llamadas cajas DnaA en el sitio oriC.
+La dnaA es una proteína de unión a ATP y su unión con el ADN se regula dependiendo si se une ATP, ADP o ningún nucleótido.
+Uno de los mecanismos por los cuales se controla la actividad del origen del replicón es mediante la metilación del ADN.
+El oriC de la bacteria E. Coli contiene 11 copias de la secuencia GATC/CTAG el cual es un blanco para metilación en la posición N6 de la adenina por la enzima Dam metilasa.
+Antes de la replicación el sitio palindrómico se metila en las adeninas de cada hebra.
+A través de la replicación se insertan las bases no modificadas a las hebras hijas.
+Esto genera ADN hemimetilado en el cual se aprecia una hebra metilada y una hebra no metilada.
+La habilidad de un plásmido dependiente de oriC de replicarse depende de su estado de metilación.
+Si el plásmido se encuentra metilado, es sometido a una sola ronda de replicación lo que ocasiona que los productos hemimetilados se acumulen.
+El sitio GATC/CTAG puede permanecer hemimetilado alrededor de 13 minutos.
+El inicio de la replicación en E. coli requiere varias actividades sucesivas:
+El inicio del replicón en oriC inicia con la formación de un complejo que ulteriormente requiere seis proteínas: dnaA, dnaB, dnaC, HUgyrasa y SSB.
+De las seis proteínas, la dnaA es la única involucrada en el inicio del replicón.
+El móvil para el inicio después de la apertura del origen lo proveen la dnaB y la helicasa.
+Estos eventos solo ocurren si el sitio de origen se encuentra completamente metilado en ambas cadenas.
+La primera etapa en la formación del replicón es la unión del complejo dnaA-ATP al sitio oriC.
+El complejo dnaA-atp realiza actividad de atpasa al entrar en contacto con los fosfolípidos de la membrana interna y en presencia de adn de cadena simple.
+Cuando el origen se abre, el complejo dnaA-ATP pasa a dnaA-ADP, se inactiva y previene el reinicio de la replicación.
+La apertura del sitio oriC involucra la acción de dos tipos de secuencia en el origen: repetidos de 9 pares de bases y de 13 pares de bases.
+Ambos repetidos definen los límites del origen que debe tener como mínimo 245 pares de bases.
+A la derecha del sitio oriC se encuentran 4 repetidos de 9 pares de bases que proveen el sitio de unión inicial para el complejo dnaA-ATP.
+Complejos de dnaA-ATP se aglomeran un núcleo central helicoidal alrededor del cual el ADN de oriC se envuelve.
+el complejo dnaA-ATP actúa en un grupo de repetidos de AT a la izquierda del sitio oriC.
+Al activarse, la dnA-ATP sufre un cambio conformacional que abre la cadena de DNA en oriC y lo estabiliza.

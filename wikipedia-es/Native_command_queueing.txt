@@ -1,0 +1,3 @@
+El término native command queueing (NCQ) hace referencia a una tecnología que aumenta el rendimiento en las unidades discos duros del tipo Serial ATA (SATA).
+Permite al disco duro optimizar el orden en que son ejecutadas las solicitudes de escritura/lectura.
+La optimización se hace reduciendo la cantidad de movimientos innecesarios de los cabezales de la unidad de disco duro.

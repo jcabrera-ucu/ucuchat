@@ -1,0 +1,32 @@
+La refrigeración líquida o watercooling es una técnica de enfriamiento que utiliza líquido refrigerante como medio refrigerante, logrando así excelentes resultados en la disminución de temperaturas.
+Conlleva enormes posibilidades de overclock.
+Se suele diseñar con circuitos de agua estancos.
+El agua, y cualquier líquido refrigerante, tiene mayor capacidad térmica que el aire. Aprovechando este principio, un circuito de refrigeración líquida disipa el calor generado en los componentes del PC usando el agua como fluido refrigerante, enfriándola en un radiador con ventiladores que está en contacto con el exterior de la caja, expulsando el calor fuera de esta.
+El líquido refrigerante (agua o una mezcla de esta con otros compuestos) se almacena en un depósito.
+Una bomba se encarga de impulsarlo a presión para hacerlo pasar por los distintos bloques (el del procesador, el del chipset, el de la tarjeta gráfica, el del disco duro, etc.).
+Una vez que el líquido ha pasado por todos los bloques, llega al radiador, que suele tener ventiladores cuyo caudal de aire enfría el líquido circulante.
+Tras haber sido enfriado el líquido en el radiador, llega de nuevo al depósito, para volver a iniciar el recorrido, formando así un circuito cerrado de refrigeración.
+Observamos pues que un circuito de refrigeración líquida debe contar con varios componentes básicos: Circuito de agua o conjunto de tubos por los que fluye el líquido refrigerante, incluyendo un depósito.
+Bloque(s) de agua, generalmente de cobre o aluminio, semejante a un pequeño radiador donde el componente caliente transmite el calor al líquido refrigerante.
+Bomba que genera la circulación del líquido.
+Radiador en donde el líquido, circulando por tubos muy finos, es enfriado gracias al caudal de aire generado por ventiladores.
+En caso de querer refrigeración extrema, es conveniente emplear placas peltier.
+Con estos sistemas se consigue enfriar el ordenador en su conjunto ya que a diferencia de los sistemas tradicionales no se disipa el calor dentro del chasis.
+Además ha quedado probada su eficacia frente a otros sistemas, generalmente más ruidosos aunque más baratos, que usan el aire como medio de disipación.
+Se puede montar un circuito de refrigeración líquida por piezas o por kits; aunque la mayoría suele optar por montarlo pieza a pieza, ya que los kits no suelen satisfacer a los overclockers y modders, que suelen ser quienes compran estos sistemas y los montan en sus equipos informáticos.
+La marca de los componentes suele influir mucho, especialmente por cuestiones relacionadas con el diseño de los componentes y los materiales utilizados.
+Los circuitos de refrigeración líquida pueden clasificarse según esta tabla:
+Otra variante de este sistema de enfriamiento consiste en utilizar aceite en vez de agua.
+Dado que el aceite común no conduce la electricidad, algunos usuarios han probado con éxito la técnica de sumergir la placa base por completo en un recipiente previamente lleno de aceite mineral, y luego hacer que este circule por un radiador de refrigeración por agua normal.
+Con este sistema se logra aislar la placa de elementos externos potencialmente perjudiciales, tales como la acumulación de polvo o humedad.
+Las desventajas obvias son las que derivan de mantener el computador o sus componentes principales sumergidos en un recipiente lleno de líquido, como degradación de los condensadores de los circuitos por la paulatina penetración del líquido en ellos.
+En pruebas prolongadas en donde se mantuvo sumergida una placa socket 478 con un procesador Pentium 4 a 3,2 GHz durante un mes, y luego fue extraído del líquido y montada en un chasis común, el equipo se mantuvo funcionando sin problemas más de un año.
+Cabe recordar que dicho sistema de enfriamiento es usado desde hace décadas en los transformadores eléctricos y otros dispositivos.
+Su uso en materia computacional es mayormente experimental y artesanal, por lo general promovido por entusiastas de la computación que exploran nuevas alternativas.
+Sin embargo el computador Apple PowerMac G5 es un ejemplo de una implementación comercial de este sistema de refrigeración.
+Una forma de aplicación sencilla de la refrigeración por aceite es la sustitución del agua por aceite en un sistema de watercooling tradicional, añadiendo un radiador de mayor capacidad.
+También se puede implementar un sistema de refrigeración de este tipo ocupando una caja hermética llena del líquido dieléctrico (aceite o líquido que no conduce la electricidad, especialmente diseñado para estos propósitos) en el cual se sumergen todos los elementos del PC a excepción de los discos duros.
+Esto permite que el contacto directo entre el líquido y los componentes calientes como el procesador, GPU, etc., disipen el calor a él y luego éste, en contacto con las paredes de la caja y, por ende, al aire externo, transfiera finalmente el calor al ambiente.
+Este método a veces es llamado "pasivo" ya que no requiere de ningún tipo de bomba o ventiladores, aunque puede ser mejorado con algún mecanismo que remueva el líquido dentro del gabinete y favorezca una distribución más homogénea de la temperatura.
+Una forma más compleja es la de sumergir la placa en un acuario o recipiente lleno de aceite mineral, y luego instalar un sistema de watercooling que haga circular el aceite por un radiador para la disipación del calor que va intercambiando con los componentes sumergidos.
+Entre las ventajas de la refrigeración con aceite se cuentan:

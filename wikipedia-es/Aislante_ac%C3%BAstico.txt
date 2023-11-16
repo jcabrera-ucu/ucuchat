@@ -1,0 +1,19 @@
+Aislar implica impedir que un sonido penetre en un medio, o que salga de él; por eso, la función de los materiales aislantes, dependiendo de donde estén, puede ser o bien, reflejar la mayor parte de la energía que reciben (en el exterior), o sino, por el contrario, absorberla.
+A pesar de ello, hay que diferenciar entre aislamiento acústico y absorción acústica:
+Los materiales aislantes son, generalmente, malos absorbentes, ya que su misión es reflejar el sonido que le llega.
+Los materiales aislantes suelen ser más densos y rígidos (plomo, hormigón, acero, etc.), mientras que los absorbentes son más porosos para absorber y retener las ondas sonoras (lana de roca o de vidrio, poliuretano, etc.) Un material absorbente colocado en el espacio cerrado entre dos tabiques paralelos mejora el aislamiento que ofrecerían dichos tabiques por sí solos.
+No se puede decir que existan aislantes acústicos específicos, como existen aislantes térmicos específicos.
+La capacidad de aislamiento acústico de un determinado elemento constructivo, fabricado con uno o más materiales, es su capacidad de atenuar el sonido que lo atraviesa.
+La atenuación o pérdida de transmisión sonora de un determinado material se define como la diferencia entre la potencia acústica incidente y el nivel de potencia acústica que atraviesa el material.
+La pérdida de transmisión sonora depende de la frecuencia, del tamaño del tabique o pared y de la absorción del recinto receptor.
+El hecho de que la atenuación sonora dependa de múltiples factores hace que no se pueda decir, con propiedad, que existan materiales aislantes acústicos.
+El aislamiento acústico de un elemento plano se determina en laboratorio, produciendo un sonido en una de sus caras y midiendo el sonido trasmitido en la otra.
+El resultado se expresa en decibelios (dB).
+Este resultado, si aparece reflejado en las especificacines técnicas del material, lo hace bajo la nomenclatura de capacidad de aislamiento y tiene que hacer referencia a un espesor/espesores concretos.
+El aislamiento acústico se consigue principalmente por la masa de los elementos constructivos en aquellos casos en que la densidad de los materiales supere los 300 kg/m.
+Sólo en este caso será de aplicación la ley de masas y sus fórmulas para determinar la capacidad de aislamiento acústico del material.
+Por otra parte, una disposición adecuada de materiales puede mejorar el aislamiento acústico hasta niveles superiores a los que, la suma del aislamiento individual de cada elemento, pudiera alcanzar.
+Cuando se realiza un acondicionamiento acústico, no sólo hay que prestar atención a las paredes y suelos del recinto, sino a los pequeños detalles.
+Una junta entre dos paneles mal sellada, una puerta que no encaja, etc., pueden restar eficacia al aislamiento.
+Los materiales que podemos encontrar para realizar el aislamiento acústico pueden ser:
+De hecho, el Catálogo de Elementos Constructivos del CTE (de España) la densidad no es un parámetro a tener en cuenta y sólo se exige para el cumplimiento de los valores expresados dicho valor de AFr.

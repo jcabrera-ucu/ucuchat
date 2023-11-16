@@ -1,0 +1,5 @@
+La prerrenderización es el proceso de renderización previa, sistema en que las imágenes no son renderizadas en tiempo real por el hardware que muestra los gráficos o reproduce el vídeo.
+Parte de los gráficos o vídeos se renderiza previamente en diferentes equipos, generalmente más potentes que el material responsable de la pantalla final.
+Los archivos prerrenderizados previamente se usan cuando el procesamiento en tiempo real no es posible para lograr el mismo resultado.
+El prerrenderizado fue usado principalmente en videojuegos (anteriores al 2003, aproximadamente), los cuales eran de 3D y 2D.
+Este método se utilizó mucho en los primeros juegos de series como Resident Evil o Dino Crisis 2 entre otros.

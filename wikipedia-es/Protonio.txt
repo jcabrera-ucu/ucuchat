@@ -1,0 +1,22 @@
+El protonio es un átomo exótico formado por un protón y un antiprotón orbitando el uno al otro.
+El protonio es un bosón eléctricamente neutro con número bariónico cero.
+Se conocen dos métodos para generar protonio.
+El primero involucra violentas colisiones de partículas.
+El segundo, involucra colocar antiprotones y protones en la misma jaula magnética.
+Este último fue usado durante el experimento ATHENA por el equipo de Evandro Lodi Rizzini en el laboratorio del CERN en Ginebra en 2002, pero no fue hasta 2006 cuando los científicos se dieron cuenta de que se estaba generando protonio durante el experimento.
+Las reacciones que involucran un protón y un antiprotón a altas energías dan lugar a estados finales con muchas partículas.
+De hecho, este tipo de reacciones son la base de los colisionadores de partículas como el Tevatrón en el Fermilab.
+Investigaciones indirectas del protonio en el LEAR (Low Energy Antiproton Ring, Anillo de Antiprotones de Baja Energía) han usado antiprotones incidentes sobre núcleos como los del helio con resultados poco claros.
+Las colisiones a muy baja energía, del rango de 10 eV a 1 keV pueden conducir a la formación de protonio.
+Experimentos planeados usarán trampas como la fuente de antiprotones de baja energía.
+Un haz de tales características permitiría incidir sobre átomos de hidrógeno, en el campo de un láser, lo que provocará la excitación de los pares protón-antiprotón ligados en un estado excitado de protonio con una cierta eficiencia.
+Las partículas no ligadas son rechazadas mediante su repulsión en un campo magnético.
+Debido a que el protonio no está cargado, no se verá afectado por ese campo.
+Este protonio no repelido, si está formado, podría ser capaz de atravesar un metro de alto vacío, dentro del cual se espera que se desintegre mediante la aniquilación del protón con el antiprotón.
+Los productos de la desintegración darían señales inequívocas de la formación de protonio.
+Los estudios teóricos del protonio han utilizado principalmente mecánica cuántica no relativista.
+Estos dan predicciones para la energía de enlace nuclear y la vida media de los estados.
+Los tiempos de vida calculados están en el rango de.
+A diferencia del átomo de hidrógeno, en el que las interacciones dominantes son debidas a la atracción culombiana del electrón y el protón, los constituyentes del protonio interactúan predominantemente a través de la interacción nuclear fuerte.
+De esta forma, las interacciones multipartículas que involucran mesones en estados intermedios pueden ser importantes.
+Por lo tanto, la producción y estudio del protonio sería de interés también para el entendimiento de las fuerzas nucleares.

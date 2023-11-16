@@ -1,0 +1,23 @@
+Blaster (también llamado Lovsan o LoveSan 3a1) es un gusano de red de Windows que se aprovecha de una vulnerabilidad en el servicio DCOM para infectar a otros sistemas de forma automática.
+El gusano fue detectado y liberado el día 11 de agosto de 2003.
+La tasa de infecciones aumentó considerablemente hasta el día 13 de agosto de 2003.
+undefined Gracias al filtrado por las ISP's y la gran publicidad frente este gusano, la infección pudo frenarse.
+El 29 de agosto de 2003, Jeffrey Lee Parson, de 18 años de Hopkins, Minnesota fue arrestado por crear la variante B del gusano Blaster; admitió ser el responsable y fue sentenciado a 18 meses en prisión en enero de 2005.
+undefined
+El método con el que infecta los sistemas vulnerables es bastante parecido a la que usó el gusano Sasser, aparte, deja una puerta trasera que permite la intrusión a terceros, haciendo que la máquina infectada sea fácilmente atacada por otros virus, o accesos remotos no autorizados.
+El gusano se disemina al explotar un desbordamiento de buffer en el servicio DCOM para los sistemas operativos Windows afectados, para los cuales se liberó un parche un mes antes en el boletín 026 y luego en el boletín 039.
+Está programado para realizar un ataque organizado de denegación de servicio al puerto 80 de "windowsupdate.com".
+sin embargo, los daños fueron mínimos debido a que el sitio era redirigido a "windowsupdate.microsoft.com".
+Aparte, Microsoft apagó sus servidores para minimizar los efectos.
+El gusano tiene en su código los siguientes mensajes:
+"I just want to say LOVE YOU SAN!!)" es por eso que a veces es llamado el gusano LoveSan o LovSan. El segundo: "billy gates why do you make this possible ? Stop making money and fix your software!! (Billy Gates, ¿Porqué haces esto posible? ¡¡Deja de hacer dinero y corrige tu software!!)" Es un mensaje a Bill Gates, el fundador de Microsoft, y el objetivo del gusano.
+En algunas versiones de Windows, puede generar inestabilidad del sistema, e incluso una ventana que advierte al usuario de que se debe reiniciar el ordenador:
+Apagando el sistema:
+Se está apagando el sistema.
+Guarde todo trabajo en progreso y cierre la sesión.
+Cualquier cambio sin guardar se perderá.
+El apagado fue ordenado por NT AUTHORITY\SYSTEM
+Tiempo Restante: hh:mm:ss
+Mensaje:
+Windows debe reiniciar ahora porque Remote Procedure Call
+(RPC) Service Terminó inesperadamente.

@@ -1,0 +1,10 @@
+El tres en línea, también conocido como ceros y cruces, tres en raya (España, México, Ecuador y Bolivia), cerito cruz (en Cuba), michi (en Perú), triqui (en Colombia), cuadritos, juego del gato, gato (en Chile, Costa Rica y México), tatetí (en Argentina, Paraguay y Uruguay), totito (en Guatemala), triqui traka, equis cero, o la vieja (en Venezuela) es un juego de lápiz y papel entre dos jugadores: O y X, que marcan los espacios de un tablero de 3×3 alternadamente.
+Una partida ganada por el primer jugador, X:
+Una partida que termina en empate:
+Los jugadores no tardan en descubrir que el juego perfecto termina en empate sin importar con qué juega el primer jugador.
+Normalmente son los niños pequeños los que juegan al tres en raya: cuando ya han descubierto una estrategia imbatible se pasan a juegos más sofisticados, como el de puntos y cajas.
+La misma simplicidad del juego de tres en raya lo hacen ideal como herramienta pedagógica para enseñar los conceptos de teoría de juegos y la rama de inteligencia artificial que se encarga de la búsqueda de árboles de juego.
+Cada jugador solo debe colocar su símbolo una vez por turno y no debe ser sobre una casilla ya jugada.
+En caso de que el jugador haga trampa el ganador será el otro.
+Se debe conseguir realizar una línea recta o diagonal por símbolo.
+Entre las variantes del tres en raya se encuentran:

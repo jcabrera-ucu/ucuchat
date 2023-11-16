@@ -1,0 +1,38 @@
+Un compuesto de organopaladio es un compuesto químico orgánico que contiene átomos de carbono y de paladio, unidos por enlaces químicos.
+La química Organopaladio es una rama de la química organometálica que se ocupa de los compuestos orgánicos de paladio y sus reacciones.
+El paladio se utiliza a menudo como un catalizador en la reducción de alquenos y alquinos con hidrógeno.
+Este proceso implica la formación de un enlace covalente paladio-carbono.
+El paladio es también importante en las reacciones de acoplamiento carbono-carbono, como se muestra en la reacciones en cascada''
+En contraste con sus vecinos de la tabla periódica, los otros elementos del grupo 11, la presencia del elemento paladio en química orgánica no implica la existencia de compuestos de organopaladio estables, sino más bien la formación de compuestos de organopaladio como intermediarios de reacción.
+Además de eso, en muchas reacciones solamente se utilizan cantidades mínimas del metal que actúa como catalizador.
+Cuando se estabiliza el compuesto organopaladado en forma de anillo de 5 o 6 miembros, el complejo es estable, y se puede manipular sin ningún problema.
+Estos compuestos, llamados paladaciclos, tienen unas propiedades muy interesantes que se desarrollan más adelante.
+El paladio reacciona con los alquenos para formar un complejo pi, que puede reaccionar con una gran cantidad de nucleófilos en reacciones similares a la reacción de oximercuración.
+El enlace C-Pd es luego eliminado por reducción o eliminación.
+En el proceso Wacker, de gran importancia industrial, el etileno se convierte en acetaldehído con cloruro de paladio.
+Los compuestos de alilo con un grupo saliente adecuado reaccionan con sales de paladio (II) para formar complejos de pi-alilo con hapticidad 3, como el cloruro de alilpaladio dímero.
+Estos intermediarios también reaccionan con nucleófilos, por ejemplo, carbaniones derivados de malonatos o con aminas en aminaciones alílicas, como se muestra a continuación.
+Los compuestos intermedios de alilpaladio también aparecen en la alquilación alílica asimétrica de Trost, el reordenamiento de Carroll y en una variación oxo de la oxidación de Saegusa.
+Un estudio de 2007 informa sobre la reacción de aminación del grupo CH alílico catalizada por el catalizador White que da lugar a un complejo de alilpaladio a través de la división del CH alílico en vez de por el desplazamiento de un grupo saliente alílico.
+Varios grupos orgánicos pueden enlazarse al paladio y formar complejos estables unidos por enlace sigma.
+En la actualidad, se conocen complejos con grupos alquilo, vinilo, arilo, y alquinilo con enlaces Pd-C(sp3), Pd-C(sp2), Pd-C(sp).
+La estabilidad de los enlaces en términos de la energía de disociación de enlace sigue la tendencia: Pd-alquinilo > Pd-vinilo ≈ Pd-arilo > Pd-alquilo y los cambios en la longitud del enlace carbono-metal van en dirección opuesta: Pd-alquinilo < Pd-vinilo ≈ Pd-arilo < Pd-alquilo.
+Los compuestos de paladio con valencia cero Pd (0) como el tris(dibencilidenacetona)dipaladio (0) y el tetraquis(trifenilfosfina)paladio (0) reaccionan con haluros de carbono R-X en una adición oxidativa para dar intermedios R-Pd-X con enlace covalente Pd-C.
+Este proceso químico es la base de una gran clase de reacciones orgánicas llamadas reacciones de acoplamiento (ver reacciones de acoplamiento catalizadas por paladio).
+Un ejemplo es la reacción de Sonogashira
+El trifluoroacetato de paladio (II) ha demostrado ser eficaz en la descarboxilación aromática:
+En el mecanismo de reacción propuesto, el Pd (II) sustituye al protón del ácido carboxílico, mientras se pierde el grupo TFA (trifluoroacético), se pierde dióxido de carbono en una reacción de primer orden y el TFA destruye el complejo formado Ar-Pd-TFA sin que el Pd cambie su estado de oxidación.
+Desde su descubrimiento a mediados de los años sesenta, los paladaciclos han representado un tema de investigación muy interesante.
+Al principio se identificaron como intermedios importantes en la síntesis orgánica mediada por paladio y más recientemente debido a sus propiedades únicas, estos compuestos han experimentado un renacimiento que ha sido fundamental en el desarrollo reciente de sustancias para su uso en catálisis homogénea.
+Esto es destacable en las reacciones de acoplamiento cruzado C-C.
+En general, estos compuestos pueden sintetizarse de una manera muy fácil, lo que hace posible modular sus propiedades estéricas y electrónicas o incluso incluir motivos quirales en sus estructuras para permitirles aplicaciones potenciales en transformaciones enantioselectivas como auxiliares quirales.
+Otras áreas importantes donde las paladaciclos han encontrado aplicaciones recientes incluyen su uso como agentes mesogénicos y fotoluminiscentes, así como aplicaciones biológicas para el tratamiento del cáncer (química bioorganometálica).
+El primer complejo de organopaladio (IV) fue descrito en 1986, obtenido por reacción de yoduro de metilo con Me2Pd(II)bpy (Me = metilo).
+Era el complejo Me2Pd(IV)Ibpy donde bpy es el ligando bidentado 2,2'-bipiridina.
+Los compuestos de paladio deben su reactividad a la facilidad de intercambio entre los intermediarios de reacción de Pd (0) y Pd (II).
+No hay pruebas concluyentes de que haya conversiones de Pd (II) a Pd (IV) en las de reacciones mediadas por compuestos organometálicos de paladio.
+Un reacción que muestra tal mecanismo fue descrita en el año 2000 y se refería a una reacción de Heck, que estaba acompañada por un desplazamiento o migración [1,5] de hidrógeno en presencia de aminas:
+La migración del hidruro se llevaba a cabo como si interviniera un metalociclo de Pd (IV).
+En un trabajo relacionado, el compuesto intermedio asociado con la migración de hidruro permanece como Pd (II).:
+y en otros trabajos (una síntesis novedosa de indoles con dos migraciones de Pd), se postula la existencia de equilibrios entre ciclos de paladio.:
+y en ciertos acoplamientos intramoleculares se ha demostrado valor sintético independientemente de su estado de oxidación:

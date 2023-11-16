@@ -1,0 +1,11 @@
+Un programa geométrico es un problema de optimización de la forma
+Minimizar \ f_0(x)\ tal que
+donde son posinomios y  son monomios.
+Hay que subrayar que al hablar de programación geométrica (al contrario que en otras disciplinas), un monomio se define como una función con  definido como
+donde c > 0 \ y.
+Tiene múltiples aplicaciones, como el dimensionamiento de circuitos y la estimación paramétrica vía regresión logística en estadística.
+Los programas geométricos no son por regla general problemas de optimización convexa, pero pueden transformarse en ellos mediante un cambio de variables y una transformación de las funciones objetivo y de restricción.
+Definiendo, el monomio , donde b = log{c}.
+De la misma forma, si f es el posinomio
+entonces, donde y.
+Tras el cambio de variables, el posinomio se convierte en una suma de exponenciales de funciones afines.

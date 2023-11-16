@@ -1,0 +1,83 @@
+El  (pronunciado, abreviado:POJ,  literalmente: escritura vernacular), también conocido como transcripción eclesiástica, es un conjunto de reglas de Ortografía que se utilizan como sistema de transliteración para algunas variantes del chino, especialmente en el sur.
+Fue desarrollado por misioneros europeos en el siglo XIX utilizando el alfabeto latino.
+El nombre (chino: 白话字) significa "caracteres vernáculos", es decir, caracteres escritos que representan el chino vernáculo hablado de todos los días.
+Aunque el nombre de escritura vernácula se puede aplicar a muchos tipos de escritura, el término hace referencia en especial al sistema de escritura del chino min nan por misioneros presbiterianistas.
+El sistema lo inventaron misioneros que venían de occidente que trabajaban en la inmigración a China alrededor de 1830 y se perfeccionó por misioneros que trabajaban en las ciudades de Amoy y Tainan.
+Se le conoció primeramente como "vernácula Amoy romanizada".
+Debido a sus orígenes por la comunidad cristiana se ha conocido por algunos escritores de hoy en día como "romanización de la Iglesia" (en chino: 教会 罗马 字, pinyin: Jiaohui Luōmǎzì, Peh-oe-ji:Kàu-hōe Lô-má-jī), a menudo abreviado por las iniciales de POJ (en chino: 教 罗, pinyin:. Jiaoluo) Existe cierto debate sobre si " "o" romanización de la Iglesia " es el nombre más adecuado.
+La historia del Peh-oe-ji fue fuertemente influenciada por las organizaciones cristianas que se propagaban en la época.
+Documentos iniciales indican que el propósito de la creación del POJ fue a afines para las enseñanzas de los cristianos convertidos.
+Los primeros en utilizar un sistema de transcripción para el min nan eran los misioneros españoles de Manila en el siglo XVI.
+Sin embargo, principalmente se utilizó ese sistema como medio de enseñanza para los estudiantes del español, y al parecer no tuvo influencia en el Peh-oe-ji.
+En el siglo XIX, China fue cerrada a los misioneros cristianos por temor a las enseñanzas occidentales.
+Los primeros orígenes del sistema POJ se encuentran en un pequeño vocabulario llamado diccionario del dialecto chino Hok-këèn escrito por primera vez en 1820 por el congregacionista inglés Walter Henry Medhurst que lo publicó en 1832.
+Este diccionario representaba la primera gran obra en referencia al POJ, aunque la romanización fue muy diferente al sistema moderno, por tal motivo fue llamado romanización primitiva de la iglesia.
+Medhurst, que vivía en Malacca, fue influenciado por la romanización del chino mandarín de Robert Morrison, pero tuvo que innovar en varias áreas para reflejar las principales diferencias entre el mandarín y Min nan.
+Varios acontecimientos importantes ocurrieron en la obra de Medhurst, especialmente en la aplicación de marcas de tono constante (influenciado por los estudios lingüísticos contemporáneos en sánscrito, que se estaba convirtiendo en la corriente principal para los estudiosos occidentales) Medhurst estaba convencido de que la representación exacta y la reproducción de la estructura tonal del Min nan era vital para la comprensión.
+El sistema por Medhurst fue influenciado por otros sistemas con respecto a la notación y las iniciales tonales, pero fue difícil su comprensión y su énfasis en el registro literario del Min nan fue retirado por escritores posteriores.
+A raíz de la labor de Medhurst, Samuel Wells Williams se convirtió en el principal defensor de los cambios en la ortografía ideados por Morrison y adaptados por Medhurst.
+Luego a través de la comunicación personal, cartas y artículos impresos en el repositorio chino se llegó a una nueva versión del POJ.
+La primera gran obra para representar esta nueva Ortografía era el Manual anglo-chino con romanización coloquial en el dialecto Amoy de Elihu Doty, publicado en 1853.
+Por tanto, el manual puede ser considerado como la primera presentación de un pre-moderno POJ, un importante paso de la ortografía de Medhurst y diferente del sistema de hoy en pocos detalles.
+John Van Nest Talmage ha sido tradicionalmente considerado como el fundador de POJ, aunque ahora parece que él era uno de los primeros promotores del sistema, en lugar de su inventor.
+En 1842 se firmó el Tratado de Nankín, que incluía entre sus disposiciones la creación de puertos de tratado en el que los misioneros cristianos tendrían libertad de predicar.
+Xiamen (entonces conocida como Amoy) fue uno de los puertos de tratado, británicos, canadienses y misioneros norteamericanos se movilizaron para comenzar a predicar a los habitantes locales.
+Estos misioneros, ubicados en la Isla Gulangyu, crearon obras de referencia y tratados religiosos, incluyendo una traducción de la Biblia.
+Naturalmente, basaron la pronunciación de la romanización en el habla de Xiamen, que se convirtió en el estándar de facto.
+Dos de las principales variantes del min nan, el quanzhou y zhangzhou se combinaron en Xiamen para formar el ""no Quan, no Zhang" " es decir, ni la una ni la otra, sino más bien una fusión, lo que se conoce hoy como dialecto Amoy.
+El hecho de que los tratados religiosos, diccionarios y guías didácticas ya existían en dialecto amoy significó que los misioneros de Taiwán podrían comenzar con las enseñanzas.
+La comunidad misionera estaba dividida sobre si era conveniente el POJ como un fin para ortografía o como un medio para la alfabetización sin caracteres.
+William Campbell describió el POJ como un paso en el camino hacia la lectura y la escritura con caracteres, alegando que promover un sistema de escritura independiente serviría para halagar las pasiones nacionalistas en China, donde los caracteres se consideran una parte sagrada de la cultura china.
+Un gran beneficio para la promoción de POJ llegó en 1880, cuando James Laidlaw Maxwell, un médico misionero en Tainan, donó una pequeña imprenta a la iglesia local, que Thomas Barclay aprendió a operar en el año 1881 antes de la fundación de la Presbyterian Church Press en 1884.
+Posteriormente una edición del periódico Church News de Taiwán (en chino:台湾教会公报, pinyin:Táiwān Jiàohuì Gōngbào; Peh-ōe-jī: Tâi-oân Kàu-hoē Kong-pò) apareció por primera vez en 1885 y fue producido por la Iglesia Presbiteriana de Taiwán y se convirtió en el primer periódico impreso en el país.
+De modo que otros autores hicieron sus propias modificaciones a las convenciones establecidas por Medhurst y Doty, el Peh-oe-ji evolucionó y finalmente se instaló en su forma actual.
+el diccionario de bolsillo de Ernest Tipson de 1934 fue la primera obra de referencia para reflejar la ortografía moderna.
+La competencia por el POJ se introdujo durante la época colonial en Taiwán (1895-1945) en la forma de la escritura Kana, un sistema diseñado como ayuda para la enseñanza y guía de pronunciación, en lugar de otros como el POJ.
+A partir de la década de 1930, con la creciente militarización de Japón y el movimiento Kōminka que pretendía "japonizar" el país hubo una serie de medidas tomadas contra las lenguas nativas.
+Si bien estas medidas dieron lugar a una supresión del POJ, eran "una lógica consecuencia del aumento de la cantidad de la enseñanza del japonés, en lugar de un intento explícito de prohibir una ortografía taiwanesa".
+La Segunda Guerra Sino-japonesa comenzó en 1937 y trajo medidas más estrictas en vigor, y junto con la prohibición de romanizados taiwaneses, varias publicaciones fueron prohibidas, escuelas privadas que enseñan chino clásico con la pronunciación Min nan fueron cerradas en 1939, Las autoridades japonesas llegaron a percibir el POJ como un obstáculo para la japonización y sospecharon que el POJ se utilizaba para mensajes revolucionarios secretos.
+Con la guerra en curso el gobierno prohibió el periódico Church News de Taiwán en 1942 que estaba escrito en POJ.
+Inicialmente, el gobierno del Kuomintang en Taiwán tuvo una actitud liberal hacia los "dialectos locales" (es decir, las variedades no-Mandarín del chino).
+El Consejo de Promoción del Mandarín produjo folletos que describían las versiones de los símbolos fonéticos del mandarín ("Bopomofo") para escribir en taiwanés, éstos se destinaron a los funcionarios del gobierno recién llegados de fuera de Taiwán, así como para los locales.
+La primera acción del gobierno contra la lengua materna llegó en 1953, cuando se prohibió el uso del taiwanés y el japonés.
+El siguiente paso para suprimir el movimiento se produjo en 1955, cuando se prohibió el uso del POJ para hacer proselitismo.
+En ese momento hubo 115.000 personas alfabetizadas con el POJ en Taiwán, Fujian, y el sureste asiático.
+Dos años más tarde, a los misioneros se les prohibió el uso de biblias romanizadas, y el uso de "lenguas maternas" (es decir, taiwanés, hakka y aborigen) en el trabajo de la iglesia se convirtió en ilegal.
+La prohibición de las biblias en POJ fue anulada en 1959, pero las iglesias se animaron a usar biblias de caracteres.
+Las actividades gubernamentales contra el POJ se intensificaron a finales de 1960 y principios de 1970, cuando varias publicaciones fueron prohibidas o incautadas en un esfuerzo por prevenir la propagación de la romanización.
+En 1964 se prohibió en el uso de escuelas y lugares oficiales o de tal manera eran multadas o cerradas.
+El periódico Church News de Taiwán (impreso con POJ) fue prohibido en 1969, y sólo se le permitió regresar un año más tarde, cuando los editores acordaron imprimir en caracteres.
+En la década de 1970, una traducción en POJ del nuevo Testamento conocido como "la Biblia Tapa Roja "fue confiscada y prohibida por el régimen nacionalista.
+El Ministerio de Educación y el Ministerio del Interior decidieron en 1984 prohibir a los misioneros utilizar "dialectos locales" y romanizaciones en el trabajo.
+Con el fin de la ley marcial en 1987, las restricciones a las "lenguas vernáculas" se levantaron, lo que resultó en un creciente interés en la escritura taiwanesa durante la década de 1990.Por primera vez desde la década de 1950, la lengua y la literatura taiwanesa fue discutida y debatida abiertamente en los periódicos y revistas.
+También hubo apoyo del entonces partido de oposición, el Partido Democrático Progresista.
+De un total de 26 ortografías en Taiwán en 1987 (incluyendo desaparecidos sistemas), hubo otro 38 inventados entre 1987-1999, incluyendo 30 romanizaciones diferentes, seis adaptaciones del Zhuyin y dos sistemas como el Hangul.
+El sistema actual del Peh-oe-ji se ha mantenido estable desde 1930, con algunas excepciones menores (que se detallan más abajo).
+Existe un alto grado de similitud con la ortografía vietnamita.
+En el POJ se utilizan las siguientes letras y combinaciones:
+En la norma Amoy o taiwanesa Hokkien hay siete tonos distintos, que convencionalmente se enumeran 1-8, con el número 6 omitido (el tono 6 solía ser un tono distinto, pero desde entonces se ha fusionado con el tono 2 largo).
+Los tonos 1 y 4 están representados sin signo diacrítico y pueden distinguirse entre sí por la sílaba final, que es una vocal.
+En el min nan se tiene el sandhi, es decir, cambios en el tono dependiendo de la posición de la sílaba en cualquier frase o expresión dada.
+Sin embargo, como en el Pinyin del chino mandarín, el POJ siempre marca el tono de la citación (es decir, el original, tono de pre-sandhi) en lugar del tono que en realidad habla.
+Esto significa que cuando se lee en voz alta el lector debe ajustar las marcas de tono en la página para dar cuenta del sandhi.
+Existe cierto debate en cuanto a la correcta colocación de marcas de tono en el caso de los diptongos y triptongos.
+Inicialmente el POJ no era apoyado por las aplicaciones de procesamiento de texto, debido a los Signos diacríticos especiales necesarios para escribirlos.
+Hoy en día se ha apoyado y mejorado con recursos suficientes para entrar y visualizar el POJ correctamente.
+Existen varios métodos para ser compatible con Unicode POJ, incluyendo OpenVanilla (Mac OS X y Microsoft Windows), multiplataformas de métodos de entradas emitidas por el Ministerio de Educación de Taiwán, Mozilla Firefox, permite visualizar en POJ.
+Cuando el POJ se utilizó por primera vez en aplicaciones de procesamiento de texto no fue plenamente apoyada por el estándar Unicode, y necesitó de soluciones alternativas.Una solución fue reemplazar caracteres con equivalentes cercanos, por ejemplo tildes, sin embargo, incluso después de la adición de estos signos, todavía hay relativamente pocas fuentes que son capaces de procesar correctamente la secuencia de comandos y en su lugar aparecen cuadros.
+Una de las formas modernas más populares de la escritura taiwanesa es el uso de ortografía mixta llamada Han-Lo (chino: 汉 罗, pinyin: HAN-Luo, literalmente chino-romano) y a veces Han-romanizado, de hecho, el término Han-Lô no describe un sistema específico, sino que abarca cualquier tipo de escritura del min nan, que cuenta con caracteres y romanización.
+Es en general la romanización del POJ, aunque recientemente algunos textos han empezado a aparecer con grafías Tai-LO.
+El problema de usar sólo caracteres chinos para escribir es que hay muchos morfemas (estimados en alrededor del 15%), que no se asocia definitivamente con un carácter particular.
+Varias estrategias se han desarrollado para hacer frente a la cuestión, en particular la creación de nuevos recursos.
+Hay dos razones para el uso de la escritura ortografía mixta, con dos objetivos diferentes.
+La primera consiste en permitir que los hablantes nativos (casi todos de los cuales ya pueden escribir en caracteres) escriban en caracteres y el 15% restante con letras, el segundo es reemplazar el carácter en forma gradual, para ser reemplazado finalmente por el texto completamente romanizado.
+Algunos libros utilizan el Peh-oe-ji, incluyendo libros de texto, diccionarios, la biblia, poesía y trabajos.La gente en su mayoría nativa de Taiwán no está familiarizada con el POJ o cualquier otro sistema de escritura.
+Comúnmente se afirma que "Taiwán no tiene escritos" refiriéndose al alto uso de caracteres en contraste al bajo número de romanizaciones.
+POJ mantiene la ortografía del taiwánes "con el inventario más rico de la obra escrita, incluyendo diccionarios, libros de texto, literatura y otras publicaciones en muchas áreas".
+Una estimación de 1999 pone el número de usuarios alfabetizados con el POJ alrededor de 100.000 y las organizaciones laicas se han formado para promover el uso de romanizaciones entre los hablantes de Taiwán.
+En 2006, el Ministerio de Educación de Taiwán eligió una romanización oficial para uso en la enseñanza de la lengua en el sistema escolar estatal.
+El POJ fue uno de los sistemas candidatos, junto con el pingim y el Tai-Lô, que ganó al final.
+El Tai-Lô conserva la mayor parte de las normas ortográficas del POJ.
+Los partidarios de la escritura taiwanesa generalmente, desconfían del sistema, por lo que dudan si el tai-Lô o POJ se convertirá en el sistema dominante en el futuro.
+Fuera de Taiwán, se utiliza muy poco el POJ.
+Por ejemplo, en Fujian, la Universidad de Xiamen utiliza una romanización conocida como pìngyīm, basada en el Pinyin.

@@ -1,0 +1,7 @@
+El Journal Citation Reports (JCR 'Informes sobre citas en revistas científicas') es una publicación anual que realiza el Instituto para la Información Científica, que actualmente es parte de la empresa Clarivate.
+Esta publicación evalúa el impacto y relevancia de las principales revistas científicas del campo de las ciencias aplicadas y sociales.
+Originalmente era parte del Science Citation Index, y actualmente está realizado a partir de los datos que este contiene.
+El JCR calcula anualmente dos índices para las revistas indexadas en su base de datos:
+Está muy relacionado con el cálculo del factor de impacto de las publicaciones científicas, uno de los principales indicadores a la hora de evaluar la actividad científica en Europa, Estados Unidos, México, Chile y Brasil.
+En general diversas universidades, centros de administración y ministerios encargados de educación superior, hacen sus evaluaciones de profesores universitarios y otros investigadores sobre el número y la calidad de los artículos publicados en revistas indexadas en el JCR.
+Este sistema, aunque basado en indicadores objetivos, no está exento de críticas, en especial para determinadas área que tienen una cobertura escasa de revistas en dicho índice.

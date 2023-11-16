@@ -1,0 +1,15 @@
+La válvula EL90 (6AQ5) es un tetrodo con base miniatura de 7 pines (B7G).
+Sus características en 250V son casi idénticas a la válvula 6V6.
+Hay diferentes versiones de esta válvula, algunas son la 6AQ5A o la 6005W.
+Sus equivalentes son la 6AQ5, BPM04, CV1862, CV8229 y N727.
+La EL90 tiene un voltaje y consumo de filamento de 6,3V 0,45A.
+Las conexiones de sus pines son las siguientes:
+Pin 1: Reja de control
+Pin 2: Cátodo
+Pin 3: Filamento
+Pin 4: Filamento
+Pin 5: Ánodo
+Pin 6: Reja de pantalla
+Pin 7: Reja de control
+En un amplificador push-pull en clase AB1 son capaces de producir hasta 10W de potencia sonora.
+La válvula EL90 fue muy utilizada como amplificador final de audio en televisores y radios a válvulas.

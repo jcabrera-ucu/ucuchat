@@ -1,0 +1,56 @@
+Half-Life: Alyx es un videojuego perteneciente al género de disparos en primera persona en realidad virtual (VR) desarrollado y publicado por Valve Corporation.
+Es el primer videojuego de la serie Half-Life desde el lanzamiento de Half-Life 2: Episode Two en 2007, y tiene lugar entre los eventos de Half-Life y Half-Life 2.
+La historia sigue a Alyx Vance, quien aparece como personaje jugador por primera vez, y su padre Eli en su lucha contra una ocupación de la Tierra por la Alianza.
+El videojuego fue desarrollado usando el motor Source 2 y funciona con todos los visores compatibles con SteamVR, incluyendo a Valve Index, HTC Vive, Oculus Rift y Windows Mixed Reality.
+Su lanzamiento se produjo el 23 de marzo de 2020.
+Half-Life: Alyx funciona con todos los visores de realidad virtual compatibles con PC.
+Las características reveladas en el videojuego incluyen "guantes de gravedad", que permiten al jugador manipular la gravedad.
+No hay un lanzamiento planeado que no sea de realidad virtual para el videojuego, ya que la jugabilidad se desarrolló principalmente en torno a conceptos de realidad virtual.
+Half-Life: Alyx incluirá soporte para modificaciones de usuarios a través de Steam Workshop y algo de soporte para la edición de niveles dentro del motor Source 2.
+Half-Life: Alyx tiene lugar entre los eventos de Half-Life y Half-Life 2.
+Los jugadores controlan a Alyx Vance mientras ella y su padre Eli Vance luchan contra una raza alienígena, la Alianza, que domina la Tierra.
+La historia comienza cuando Alyx y su padre son capturados por la Alianza, pero Russell, un miembro de la Resistencia logra rescatar a Alyx, advirtiéndole que la Alianza transportará a Eli a Nova Prospekt para interrogarlo.
+Alyx se aventura en la Zona de Cuarentena fuera de la Ciudad 17 para interceptar el tren que transporta a Eli.
+En el camino, conoce a un excéntrico Vortigaunt que le dice que su padre Eli sufrirá una muerte prematura en el futuro.
+Después de abrirse camino a través de la Zona de Cuarentena, Alyx descarrila el tren, y el Vortigaunt rescata a Eli de entre los restos.
+Eli le cuenta a Alyx que mientras estaba bajo custodia se enteró de que la Alianza está almacenando una súper arma en una "Bóveda" enorme en la Zona de Cuarentena.
+Él le indica a Alyx que busque la Bóveda y robe su contenido antes de que la Alianza pueda transferirlo a un lugar más seguro.
+Ella se aventura a través de la Zona de Cuarentena, luchando con varias especies de alienígenas Xen y soldados de la Alianza en su camino a la Bóveda.
+Alyx logra desactivar una central eléctrica que mantenía la Bóveda a flote en el cielo, descubriendo que cada central tiene un Vortigaunt como esclavo que es obligado a canalizar su energía a la Bóveda.
+El Vortigaunt rescatado por Alyx promete que él y su raza derribarán las centrales eléctricas restantes.
+Eli contacta a Alyx y le advierte que la Bóveda no contiene un arma; en cambio, fue construida como una prisión alrededor de un complejo de apartamentos para contener algo descubierto por la Alianza.
+La Bóveda fue hecha para levitar en el cielo en la Zona de Cuarentena desierta como una medida de contención extrema.
+Alyx se aventura, razonando que lo que sea que esté dentro de la Bóveda puede ayudarlos a luchar contra la Alianza.
+Al acercarse a la Bóveda, Alyx escucha a un científico que insinúa a los superiores de la Alianza que la Bóveda contiene un sobreviviente del incidente de Black Mesa.
+Asumiendo que este sobreviviente es Gordon Freeman, Alyx planea un rescate y estrella con éxito la Bóveda contra el suelo.
+Al abordar la Bóveda, encuentra el complejo de apartamentos, alrededor del cual fue construida, suspendido en un estado altamente surrealista; las habitaciones, cocinas y salas de estar están superpuestas unas encima de otras, y los fenómenos físicos se extienden por todo el edificio, aparentemente, debido a distorsiones del espacio-tiempo.
+Alyx navega a través del interior surreal de la Bóveda y descubre una celda de prisión avanzada en el centro.
+Ella la logra abrir, esperando encontrar a Freeman.
+Sin embargo, en su lugar, libera al misterioso G-Man, extrayéndose a sí mismo y a Alyx de la Bóveda.
+Como recompensa, G-Man ofrece sus servicios a Alyx.
+Ella le pide que retire a la Alianza de la Tierra, pero este enfatiza que esta solicitud iría en contra de los intereses de sus "Jefes".
+En cambio, le muestra a Alyx un evento futuro y le ofrece la oportunidad de impedir la muerte de Eli a manos del Consejero (entes con forma de gusano; "Advisor" en inglés) de la Alianza al final de Half-Life 2: Episode Two.
+Alyx acepta, matando al Consejero y salvando a su padre.
+G-Man le informa a Alyx que ella ha demostrado ser capaz de reemplazar a Freeman, con quien G-Man no está satisfecho debido a su falta de voluntad para llevar a cabo su misión.
+G-Man atrapa a Alyx en estado de hibernación y se va.
+Posterior a los créditos del juego ocurre una escena ambientada después de la destrucción del súper portal de la Alianza en Half-Life 2: Episode Two.
+Gordon recupera la conciencia en la base de la Resistencia en White Forest.
+Eli está vivo y el Consejero está muerto, pero Alyx no está.
+Mientras G-Man los observa en secreto desde una esquina de la habitación, el robot mascota de Alyx, Dog, llega a la escena con la palanca de Gordon.
+Eli, lleno de deseos de venganza, manifiesta su propósito de matar a G-Man, y le entrega la palanca a Gordon.
+En 2015, Valve comenzó a trabajar con la compañía de electrónica HTC para desarrollar el casco de realidad virtual HTC Vive, que se lanzó en junio de 2016.
+Durante su desarrollo, se le preguntó a Valve cuál sería el videojuego insignia para la unidad; Esto llevó a Valve a explorar lo que sería un videojuego importante que podrían proporcionar.
+Desarrollaron varios prototipos, con al menos tres videojuegos de realidad virtual en proceso en 2017.
+Valve acotó sus opciones a un videojuego basado en Portal o Half-Life.
+Concluyendo que el movimiento de un videojuego de Portal sería desorientador en la realidad virtual, se decidieron por un videojuego de Half-Life.
+Valve había estado trabajando en ideas para un videojuego de Half-Life 3 alrededor de 2016, pero sabía que había muchas expectativas y había tenido problemas con su contenido; Al usar la realidad virtual, el equipo descubrió que en la plataforma de realidad virtual era más fácil innovar, lo que impulsó su decisión de continuar con el desarrollo de Half-Life: Alyx.
+Valve lo describió como el "videojuego insignia de realidad virtual" de la compañía y lo desarrolló utilizando su motor Source 2.
+Los conceptos iniciales reutilizaron elementos de Half-Life 2 y probaron ideas de jugabilidad que serían adecuadas para la realidad virtual y que mostrasen las características de la tecnología en comparación con la jugabilidad que no era de realidad virtual, reduciéndose a las que sentían mejor y daban la sensación de inmersión.
+El personal incluía al equipo de Campo Santo, que Valve adquirió en 2018, y Jay Pinkerton y Erik Wolpaw, escritores de los videojuegos de Half-Life y Portal.
+Aunque Alyx fue interpretada por Merle Dandridge en los videojuegos anteriores de Half-Life 2, Ozioma Akagha la interpretará en este videojuego.
+El diseñador de Valve Greg Coomer declaró que estaban buscando una voz diferente para una Alyx más joven y que estaban impresionados con el trabajo de Akagha.
+Coomer también declaró que mientras los videojuegos anteriores en Half-Life presentaban a un silencioso Gordon Freeman, descubrieron que tener la voz de Alyx ayudó a mejorar la narración y la narrativa del videojuego.
+Los actores adicionales incluyen a James Moses Black como Eli, en reemplazo de Robert Guillaume, quien murió en 2017, Tony Todd como los Vortigaunts, Mike Shapiro como G-Man y Rhys Darby por un personaje aún no nombrado.
+El videojuego se reveló oficialmente en noviembre de 2019, con una fecha de lanzamiento establecida para marzo de 2020.
+Los propietarios de los visores Valve Index recibirán el videojuego gratis.
+Half-Life: Alyx obtuvo críticas muy positivas, llegando a alcanzar la aclamación universal, tanto del público como de la crítica especializada

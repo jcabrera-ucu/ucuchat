@@ -1,0 +1,23 @@
+UVB-76 es el indicativo de llamada de una emisora de onda corta que transmite en la frecuencia de 4625 kHz (USB).
+La emisora es conocida por muchos aficionados del medio como el timbre, el zumbador o Buzzer, esto hace referencia al más inusual, misterioso y ampliamente discutido contenido de una emisora: un corto y monótono zumbido, repetido a un promedio de 25 pulsos por minuto durante 23 horas y 10 minutos por día, las emisiones generalmente comenzaban a las 7:00 o 7:50 UTC.
+Generalmente, un minuto antes de cada hora, las pulsaciones eran sustituidas por un tono continuo, el cual continuaba por un minuto hasta que se restablecía las pulsaciones.
+En la actualidad, la emisión del zumbido es continua durante el tiempo de emisión y este no se sustituye por un tono continuo al inicio de cada hora.
+En muy raras ocasiones los zumbidos han sido sustituidos y cuando esto ha sucedido ha sido por lo general para dar lugar a transmisiones de secuencias de números y palabras en ruso.
+El propósito de la emisora es desconocido.
+El transmisor de la estación estaba inicialmente ubicado en Povarovo, Rusia, a medio camino entre Zelenograd y Solnechnogorsk a unos 40 km de Moscú y a 10 km al norte de Zvenigorod.
+Sin embargo, hace algunos años se detectó que la triangulación de las señales de la UVB-76 cambiaron, se han trasladado al este de Rusia, donde, ya no hay un solo punto de emisión, ahora son dos, el primero cercano a San Petersburgo y el segundo a poca distancia de Pskov.
+En 2011, un grupo de exploradores urbanos exploraron los edificios abandonados en Povarovo.
+Afirman que se trata de una base militar abandonada.
+Se encontró un registro de radio, lo que confirma el funcionamiento de un transmisor a 4625 kHz.
+Su propósito es desconocido.
+Una página web señala que el propósito era "La transmisión de órdenes a unidades militares y centros de reclutamiento en el distrito militar de Moscú".
+Sin embargo, esto no ha sido confirmado.
+No obstante, esto es poco probable, ya que la estación transmitió un simple zumbido por aproximadamente 15 años antes de que palabras o números fueran transmitidos por primera vez.
+Por la naturaleza de las transmisiones y la ubicación del transmisor, también se rumorea que se trata de un medio de comunicación entre el Comando General del Ejército.
+También es muy difundida la versión en que UVB-76 era empleada para transmitir mensajes codificados a espías de Rusia, como se asume generalmente en las emisoras de números, tan populares en las frecuencias de onda corta.
+Otra posibilidad es que por la constancia de la transmisión se trate de un sistema de alerta, disponibilidad u operatividad de una instalación militar, con una clase de interruptor de hombre muerto.
+También se especula que, por la gran potencia de la antena, la estación podría estar enviando mensajes hacia el espacio exterior.
+Otra teoría sobre la función de la emisora sería el estudio de la ionosfera, ya que, según la Revista de las ciencias de la Tierra Rusa, el observatorio geofísico de Borok realiza una investigación titulada como "Sondeo de la ionosfera mediante el efecto Doppler de las ondas de radio" con una frecuencia asignada de 4625 MHz, la misma frecuencia de emisión que tiene la UVB-76.
+Aunque debe hacerse notar que la frecuencia en que opera la estación es 4625 kHz y no 4625 MHz.
+La estación emplea unos transmisores Molniya-2M (PKM-15) Molniya-3 (PKM-20) y un Viaz-M2 como transmisor de seguridad.
+También usa una antena dipolo horizontal VGDSh h ≈ 20 m.

@@ -1,0 +1,14 @@
+El comando Ejecutar en un sistema operativo como Microsoft Windows y sistemas similares a Unix se utiliza para abrir directamente una aplicación o documento cuya ruta se conoce.
+El comando funciona más o menos como una interfaz de línea de comando de una sola línea.
+En la interfaz de GNOME (un derivado de tipo UNIX), el comando Ejecutar se utiliza para ejecutar aplicaciones a través de comandos de terminal.
+Se puede acceder a él pulsando +.
+KDE (un derivado similar a UNIX) tiene una funcionalidad similar llamada KRunner.
+Se puede acceder a él mediante las mismas teclas de enlace.
+El procesador de comandos DEC TOPS-10 y TOPS-20 incluía un comando  para ejecutar programas.
+En el lenguaje de programación BASIC,  se utiliza para iniciar la ejecución del programa desde el modo directo, o para iniciar un programa de superposición desde un programa de carga.
+A partir de Windows 95, el comando Ejecutar es accesible a través del menú Inicio y también a través de la tecla de acceso directo +.
+Aunque el comando Ejecutar sigue estando presente en Windows Vista y posteriores, ya no aparece directamente en el menú Inicio de forma predeterminada, en favor del nuevo cuadro de búsqueda y un atajo al comando Ejecutar en el submenú Accesorios.
+El comando Ejecutar se lanza en el entorno de escritorio de GNOME y KDE manteniendo pulsada la tecla +.
+Entre los usos se incluye el de hacer aparecer páginas web; por ejemplo, si un usuario hiciera aparecer el comando Ejecutar y escribiera, el navegador web predeterminado del usuario abriría esa página.
+Esto permite al usuario no sólo lanzar el protocolo, sino también todos los esquemas de URI registrados en el sistema operativo y las aplicaciones asociadas a ellos, como   y.
+En GNOME y KDE, el comando Ejecutar actúa como un lugar donde se pueden ejecutar aplicaciones y comandos.

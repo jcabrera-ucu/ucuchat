@@ -1,0 +1,8 @@
+La teoría de las limitaciones o teoría de las restricciones (TOC, por las siglas de Theory of Constraints, en inglés) fue creada por Eliyahu M. Goldratt, un doctor en física israelí.
+La libertad de elección implica responsabilidad.
+Siendo empresario de la industria del software y siendo su empresa la sexta de más rápido crecimiento en 1982 según Inc. Magazine, se preguntó si acaso existiría alguna relación válida entre las técnicas utilizadas en la resolución de problemas científicos y los que él encontró en su trabajo empresarial.
+Inició su investigación y el desarrollo de su teoría, la cual publicó en forma de una novela, su best-seller La meta.
+En este libro, muestra la esencia de su teoría.
+La desarrolla de manera lúdica en el entorno de una empresa manufacturera sentenciada a la liquidación; su gerente, Alex Rogo, tiene tres meses para recuperar la rentabilidad de la empresa y la estabilidad en su familia.
+La esencia de la teoría de las restricciones se basa en cinco puntos correlativos de aplicación:
+Existen tres tipos de limitaciones:

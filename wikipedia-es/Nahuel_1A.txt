@@ -1,0 +1,9 @@
+Nahuel 1A fue un satélite de comunicaciones geostacionario argentino, que fue construido por Dornier Satellitensysteme (de Alemania) y Aérospatiale (de Francia), ubicado en la posición orbital de 72 grados de longitud oeste y fue operado inicialmente por Nahuelsat y desde 2006 por AR-SAT.
+El satélite se basa en la plataforma Spacebus-2000.
+El mismo fue retirado del servicio y enviado a la órbita cementerio en abril de 2010.
+Operó desde la estación terrestre de Benavídez en la provincia de Buenos Aires.
+El satélite fue lanzado con éxito al espacio el 31 de enero de 1997, a bordo de un cohete Ariane 44L desde el Puerto espacial de Kourou en la Guayana Francesa, junto con el GE-2.
+Tenía una masa de lanzamiento de 1.790 kg. Su esperanza de vida estimada fue de 12 años.
+Fue equipado con 18 transpondedores en banda Ku que cubrían América.
+Nahuel 1A también fue el inicio del programa espacial de Uruguay, ya que era utilizado por la estatal Antel para los servicios de telecomunicaciones uruguayos.
+Su lugar será ocupado por el satélite ARSAT-1 construido enteramente con recursos de Argentina y lanzado al espacio en octubre de 2014.

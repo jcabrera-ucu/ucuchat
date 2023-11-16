@@ -1,0 +1,18 @@
+En topología, orbifold (Orbidad u orbivariedad) es la generalización de una variedad diferenciable, consistente en un espacio topológico (llamado espacio subyacente) con una estructura de orbifold (véase abajo).
+El espacio subyacente localmente aparece como un cociente de un espacio euclídeo bajo la acción de un grupo finito de isometrías.
+El ejemplo principal del espacio subyacente es un espacio cociente de una variedad bajo la acción de un grupo finito de difeomorfismos.
+En particular, una variedad con borde lleva una estructura natural de orbifold, puesto que es Z2-factor de su doblado.
+Un espacio factor de una variedad a lo largo de una S1-acción diferenciable sin puntos fijos lleva estructura de orbifold (este no es un caso particular del ejemplo principal).
+La estructura de orbifold da una estratificación natural para las variedades abiertas en su espacio subyacente, donde cada estrato corresponde a un conjunto de puntos singulares del mismo tipo.
+Debe ser observado que un espacio topológico puede llevar muchas estructuras de orbifold diversas.
+Por ejemplo, considere O el orbifold asociado a un espacio factor de la 2-esfera a lo largo de una rotación de π, es homeomorfo a la 2-esfera, pero la estructura natural de orbifold es diferente.
+Es posible adoptar la mayoría de las propiedades de variedades a los orbifolds y estas propiedades son generalmente diferentes de las propiedades correspondientes del espacio subyacente.
+En el ejemplo antedicho, su grupo fundamental de orbifold es Z2 y su característica euleriana de orbifold es 1.
+La definición formal sigue las mismas líneas que una definición de variedad, pero en vez de tomar dominios en Rn como el modelo local de las cartas, se debe tomar dominios de cocientes de abiertos de Rn por un grupo finito que actúa linealmente.
+Un orbifold (topológico) O, es un espacio topológico X de Hausdorff con base numerable, llamado el espacio subyacente, con una estructura de orbifold, que es definida por el atlas de orbifold (véase abajo).
+Una carta de orbifold es un subconjunto abierto U ⊆ X junto con un conjunto abierto V ⊆ Rn y una función continua φ : V → U que satisfacen la propiedad siguiente: hay un grupo finito Γ que actúa linealmente en V y un homeomorfismo θ : V/Γ → U tal que φ=θoπ, donde π denota la proyección V → V/Γ.
+Una colección de las cartas {φα:Vα → Uα} del orbifold se llama atlas del orbifold si satisface las propiedades siguientes:
+El atlas de orbifold define la estructura de orbifold totalmente y miramos dos atlas de orbifold de X como dando la misma estructura de orbifold si pueden ser combinados para dar un atlas más grande de orbifold.
+Uno puede agregar condiciones del diferenciabilidad en la función de pegado ψ en la definición anterior y conseguir una definición de orbifold diferenciable de la misma manera que fue hecha para las variedades.
+La V-variedad de Ichiro Satake (1956) proporcionó la primera definición formal de lo que ahora se llama orbifold.
+Fue retitulado de esta manera y popularizado por William Thurston.

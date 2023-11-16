@@ -1,0 +1,5 @@
+Lauren McCarthy es una artista y programadora estadounidense.
+McCarthy crea obras de arte mediante varias técnicas y medios, incluyendo en espectáculo, inteligencia artificial e interacción programada por computadora.
+También es conocida por crear p5.js, una versión en JavaScript de código abierto del lenguaje Processing.
+McCarthy se graduó del programa del MIT en Artes, Cultura y Tecnología.
+Recibió una maestría en Bellas Artes de la UCLA en 2011, donde ha sido profesora asistente desde 2016.

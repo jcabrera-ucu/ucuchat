@@ -1,0 +1,6 @@
+El receptor de neurotensina tipo 1 es una proteína que en los humanos está codificada por el gen NTSR1.
+Para una estructura cristalina de NTS1, ver el código pdb 4GRV.
+El receptor de neurotensina 1, también llamado NTR1, pertenece a la gran superfamilia de receptores acoplados a proteína G y se considera un GPCR de clase A.
+El NTSR1 media la modulación biológica múltiple a través de la neurotensina, como la presión arterial baja, el azúcar en sangre elevado, la temperatura corporal baja, la antinocicepción y la regulación de la motilidad y la secreción intestinal.
+<references group="" responsive="">
+Este artículo incorpora texto de la Biblioteca Nacional de Medicina de los Estados Unidos, que se encuentra en el dominio público.

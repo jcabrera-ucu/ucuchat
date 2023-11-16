@@ -1,0 +1,35 @@
+En el álgebra lineal y el análisis funcional, la traza parcial es una generalización de la traza.
+Mientras que la traza es una función a valores escalares sobre operadores, la traza parcial es una función operador-valorada.
+La traza parcial tiene usos en la interpretación de estados relativos (Many-worlds) de la mecánica cuántica.
+Supóngase V, W son espacios vectoriales sobre un cuerpo finito-dimensionales de dimensiones m, n respectivamente.
+La traza parcial TrV es una función
+Se define como sigue: sea
+y
+bases para V y W respectivamente; entonces T tiene una representación matricial
+relativo a la base
+de
+Ahora para los índices k, i en el rango 1,...,m, considérese la suma:
+esto da una matriz bk, i. El operador lineal asociado en V es independiente de la elección de bases y es por definición la traza parcial.
+Por ejemplo,
+el operador de traza parcial puede ser caracterizado invariantemente como sigue: Es el único operador lineal
+tal que
+La traza parcial se generaliza a los operadores en los espacios de Hilbert infinito dimensionales.
+Supóngase V, W son espacios de Hilbert, y sea
+una base ortonormal para W.
+Hay un isomorfismo isométrico
+Bajo esta descomposición, cualquier operador se puede mirar como matriz infinita de operadores en V
+primero supóngase que T es un operador no negativo.
+En este caso, todas las entradas diagonales de la matriz antedicha son operadores no negativos en V.
+Si la suma
+converge en la topología fuerte de operadores de L(V), es independiente de la base elegida de W.
+La traza parcial TrV(T) se define como este operador.
+La traza parcial de un operador autoadjunto está definida ssi las trazas parciales de las partes positiva y negativa están definidas.
+Supóngase que W tiene una base ortonormal, que denotamos por la notación vectorial de ket como.
+Entonces
+En el caso de los espacios de Hilbert finito dimensionales, hay una manera útil de ver la traza parcial que implica la integración con respecto a una medida de Haar convenientemente normalizada μ sobre el grupo unitario U(W) de W.
+Convenientemente normalizada significa que μ se toma como una medida con masa total igual a la dim(W).
+Teorema.
+Supóngase V, W son espacios de Hilbert finito dimensionales.
+Entonces
+conmuta con todos los operadores de la forma y por tanto es unívocamente de la forma.
+El operador R es la traza parcial de T.

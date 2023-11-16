@@ -1,0 +1,16 @@
+Plastic Leaded Chip Carrier (PLCC), también llamado Quad-Flat-J-Leg Chipcarrier (QFJ), es un encapsulado de circuito integrado, con un espaciado de pines de 0,05 pulgadas = 1,27 mm.
+El número de pines oscila entre 20 y 84.
+Los encapsulados PLCC pueden ser cuadrados o rectangulares.
+El ancho oscila entre 0,35 y 1,15 pulgadas.
+PLCC es un estándar de la JEDEC (Joint Electron Device Engineering Council).
+Las configuraciones PLCC requieren menos espacio en placa que sus competidores, los Leadless Chip Carrier o LCC (similares a los encapsulados dual in-line package o DIP pero con "bolillas" en lugar de pines en cada conector).
+Un dispositivo PLCC puede utilizarse tanto para montaje superficial como para instalarlo en un zócalo PLCC.
+A su vez los zócalos PLCC pueden montarse en la superficie o mediante tecnología through-hole (perforaciones en la placa con borde metalizado).
+La causa de usar un zócalo montado en superficie puede ser que el chip no soporte el calor generado durante el proceso, o para facilitar su reemplazo.
+También puede ser necesario cuando el chip requiere programación independiente, como las flash ROM.
+Algunos zócalos thru-hole están diseñados para su uso en prototipos mediante wire wrap.
+Usualmente, los PLCC tienen forma cuadrada con el mismo número de pines en cada lado, aunque existen variaciones de forma rectangular con más pines en los lados más largos, pero siempre con el mismo espaciado entre pines.
+El nombre normalmente indica el número de pines a continuación de las siglas.
+Por ejemplo, un encapsulado de 52 pines se designa como QFJ52 o PLCC52.
+Las variantes más usadas son:
+Aunque por su altura no es adecuado para aplicaciones de muy alta integración, se usa en:

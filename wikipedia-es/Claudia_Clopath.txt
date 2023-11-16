@@ -1,0 +1,23 @@
+Claudia Clopath es una profesora de Neurociencia Computacional en el Imperial College de Londres y líder de investigación en el Sainsbury Wellcome Center for Neural Circuits and Behavior.
+Desarrolla modelos matemáticos para predecir la plasticidad sináptica tanto para aplicaciones médicas como para el diseño de máquinas con características similares a las de los humanos.
+Clopath estudió física en la Escuela Politécnica Federal de Lausana.
+Permaneció allí para sus estudios de posgrado, supervisada por Wulfram Gerstner.
+Juntos trabajaron en modelos de plasticidad dependiente del tiempo de onda (STPD) que incluían los potenciales de membrana presinápticos y postsinápticos.
+Después de obtener su doctorado, trabajó como investigadora postdoctoral con Nicolas Brunel en la Universidad de París V Descartes.
+Posteriormente se unió a la Universidad de Columbia, donde trabajó en el Centro de Neurociencia Teórica.
+Clopath usa modelos matemáticos para predecir la plasticidad sináptica y estudiar las implicaciones de la plasticidad sináptica en las redes neuronales artificiales.
+Estos modelos pueden explicar los orígenes de las vibraciones en las redes neuronales y podrían determinar las actividades de las neuronas excitadoras e inhibidoras.
+Utilizó este modelo para explicar porqué las neuronas inhibitorias son importantes en la determinación de la frecuencia oscilatoria de una red.
+Espera que los modelos del cerebro que genere puedan usarse en aplicaciones médicas, así como para diseñar máquinas que puedan lograr un aprendizaje similar al humano.
+Ha estudiado las conexiones de las células nerviosas en la corteza visual.
+El modelo desarrollado por Clopath y Sandra Sadeh en el Bernstein Center Freiburg fue el primero en combinar redes neuronales biológicas y una red neuronal computacional.
+Permite a los usuarios hacer que las células nerviosas del sistema visual puedan detectar diferentes características, así como coordinar las sinapsis entre las células.
+Se puede utilizar para comprender el desarrollo de células nerviosas a medida que estas reciben información de cada ojo.
+Clopath ha colaborado con DeepMind para crear sistemas de inteligencia artificial que se puedan aplicar en múltiples tareas, lo que les permitiría recordar información o dominar una serie de pasos.
+Así Clopath y DeepMind utilizaron la consolidación sináptica, un mecanismo que permite a redes neuronales recordar.
+El algoritmo, Elastic Weight Consolidation, puede calcular la importancia de las diferentes conexiones en una red neuronal y aplicar un factor de ponderación que dicta su importancia.
+Esto determina la velocidad a la que se alteran los valores de un nodo dentro de la red neuronal.
+Demostraron que software que use Elastic Weight Consolidation puede aprender y lograr un rendimiento comparable al de los humanos en diez juegos.
+El desarrollo de sistemas de aprendizaje automático para tareas de aprendizaje continuo se ha convertido en el foco de la investigación de Clopath, utilizando modelos computacionales en redes neuronales recurrentes para establecer cómo la inhibición bloquea la plasticidad sináptica.
+En 2015 fue galardonada con el Premio de Investigación por la Facultad de Google.
+Entre sus publicaciones destacan:

@@ -1,0 +1,19 @@
+En matemáticas, se conoce como desigualdad entre media aritmética y geométrica, o MA-MG, aquella desigualdad que establece que la media aritmética de un conjunto de números reales positivos es mayor o igual que la media geométrica del mismo conjunto, cumpliéndose únicamente la igualdad cuando todos los elementos del conjunto sean iguales.
+La media aritmética de un conjunto de números reales es igual a la suma dividida por el número total de elementos,
+La media geométrica de un conjunto de reales no negativos, es igual a la raíz enésima del producto de todos ellos:
+Sea entonces
+La igualdad se cumple si y sólo si.
+Para demostrar la desigualdad MA-MG, se desarrollará por una variante del método de inducción matemática, demostrando que la MA-MG es cierta para 2 elementos, luego generalizándolo para 2n elementos y demostrando que si es cierta para n es cierta para n-1 elementos (variante "adelante-atrás" según Augustin Louis Cauchy).
+Sea un conjunto de n elementos.
+Procedemos a considerar el primer paso en que n=2:
+Quedando así demostrado para n=2, luego se demuestra que si es cierta para n es cierta para 2n elementos.
+Siguiendo la hipótesis,
+Se sigue que,
+Siendo esto igual a,
+Quedando así demostrado que si es cierto para n elementos es cierto para 2n elementos.
+Ahora procedemos a demostrar que si es cierta para n elementos es cierta para n-1 elementos,
+Sean y
+Se considera la desigualdad de todos los elementos mencionados,
+Haciendo raíz n-1-ésima se sigue,
+Quedando así demostrado por el método inductivo, la veracidad de la desigualdad MA-MG.
+Q.E.D.

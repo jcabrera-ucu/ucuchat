@@ -1,0 +1,2 @@
+La estabilidad estructural se refiere a la capacidad de una estructura bajo las fuerzas que actúan sobre ella de alcanzar un estado de equilibrio mecánico.
+Las combinaciones de fuerzas o acciones bajo las cuales una estructura no es estable se denominan inestabilidades y pueden ser de varios tipos:

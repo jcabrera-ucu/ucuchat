@@ -1,0 +1,62 @@
+La bauxita es una roca sedimentaria con un contenido de aluminio relativamente alto.
+Es la principal fuente de aluminio del mundo.
+La bauxita consiste principalmente en los minerales de aluminio gibbsita (Al(OH)3), boehmita (γ-AlO(OH)) y diásporo (α-AlO(OH)), mezclados con dos óxidos de hierro, goetita y hematita, minerales de la arcilla de aluminio, caolinita, y pequeñas cantidades de anatasa (TiO2 ) e ilmenita (FeTiO3 o FeO.TiO2).
+Puede ser tanto blanda como dura, compuesta por óxidos de aluminio hidratados.
+Se origina como residuo producido por la meteorización química de una amplia gama de rocas comúnmente ricas en arcilla.
+Algunas bauxitas tienen un origen más complejo y pueden ser precipitados químicos reprocesados.
+Comúnmente se forma en los trópicos en zonas de clima cálido y húmedo.
+La bauxita recibió su nombre en alusión a la ciudad de Les Baux, en Provenza (Francia), donde la identificó el geólogo Pierre Berthier en 1821 y la llamó bauxite, su nombre en francés.
+La bauxita puede tener variados colores, entre ellos rosado, rojo, crema, café, gris y amarillo.
+Cuando es de color rojizo se debe a óxidos de hierro.
+La estructura también es variable y puede ser porosa, compacta, estratificada, sin estructuras, pisolítica o con estructuras semejantes a vainas.
+Otras bauxitas preservan la estructura de la roca original y son seudomórficas.
+De manera simplificada la química de la bauxita se puede expresar en la siguiente fórmula:
+donde X puede ser un número entre 0 y 1.
+Se han propuesto numerosos esquemas de clasificación para la bauxita pero, hasta 1982, no hubo consenso.
+Vadász (1951) distinguió bauxitas lateríticas (bauxitas de silicato) de bauxitas de minerales de karst (bauxitas de carbonato):
+En el caso de Jamaica, un análisis reciente de los suelos mostró niveles elevados de cadmio, lo que sugiere que la bauxita se origina en depósitos de ceniza volcánica del Mioceno en episodios de vulcanismo significativo en Centroamérica.
+Es la principal mena del aluminio utilizada por la industria.
+La bauxita se extrae generalmente por un sistema de minería a cielo abierto, aproximadamente de 4 a 6 metros de profundidad.
+Entre el 85 y 95% de la bauxita extraída por la minería se usa en la producción de aluminio.
+Hay numerosos depósitos de bauxita, principalmente en las regiones tropicales y subtropicales, y también en Europa.
+Algunos de los principales países donde se extrae la bauxita son Brasil, Jamaica y Australia.
+El contenido de hierro en las bauxitas eleva el coste de producción del aluminio, por lo que las bauxitas con mucho hierro no son deseables para producir aluminio.
+"A partir de ésta arcilla bauxítica puede obtenerse bauxita de alto grado eliminando la fracción arcillosa y recuperando los agregados gibsíticos, mediante lavado y tamizado. Estos agregados contienen 59% de Al2 O3 y 3% de SiO2 y 4,5%de Fe2 O3•
+en Colombia, en un área de 1000km2, entre los departamentos de Cauca y Valle se estima en 750'000.000 de toneladas de arcilla bauxftica en base seca que permitirían extraer 93'750.000 toneladas de agregados gibsfticos".
+.
+La extracción industrial de bauxita comenzó en 1860 en el departamento francés de Gard.
+Durante mucho tiempo, se mantuvo por debajo de 10 000 toneladas anuales hasta principios de la década de 1880.
+El inicio de la producción de aluminio mediante la Proceso Héroult-Hall en 1886 marcó el comienzo de un fuerte aumento.
+A principios del, la producción superó por primera vez la marca simbólica de 100 000 toneladas, y la de un millón de toneladas anuales hacia 1920.
+Salvo después de la Primera Guerra Mundial, Francia siguió siendo el primer productor mundial hasta la Segunda Guerra Mundial, seguida de Estados Unidos.
+Hacia 1930, nuevos países de América (el Caribe, Guyana y Surinam) y Europa (Yugoslavia y Hungría) empezaron a desempeñar un papel cada vez más importante en la producción, llegando a representar dos tercios de la producción mundial en 1939.
+En la segunda mitad del se produjo una renovación de los países productores: la producción de los actores históricos (Francia, Estados Unidos) se volvió progresivamente marginal, la de América Latina (Jamaica, Brasil) conservó un lugar importante, pero sobre todo, la rápida aparición de Australia y, en menor medida, de Guinea.
+Desde finales del, la extracción de bauxita ha seguido aumentando a un ritmo elevado, duplicándose la cantidad anual extraída entre 2000 y 2015.
+En 2019, se extrajeron más de 350 millones de toneladas de bauxita.
+El aumento de la demanda está siendo impulsado en particular por los tres principales países productores, Australia, China y Guinea.
+La necesidad de aluminio como parte de la transición energética y la lucha contra el calentamiento global debería seguir impulsando la producción en los próximos años.
+La bauxita se suele extraer a cielo abierto porque casi siempre se encuentra cerca de la superficie del terreno, con poca o ninguna sobrecarga.
+A partir de 2010, aproximadamente entre el 70% y el 80% de la producción mundial de bauxita seca se procesa primero en alúmina y luego en aluminio por electrólisis.
+Las rocas de bauxita suelen clasificarse según su aplicación comercial prevista: metalúrgicas, abrasivas, cementeras, químicas y refractarias.
+El mineral de bauxita suele calentarse en un recipiente a presión junto con una solución de hidróxido de sodio a una temperatura de 150 a. A estas temperaturas, el aluminio se disuelve como aluminato sódico (el proceso Bayer).
+Los compuestos de aluminio en la bauxita pueden estar presentes como gibbsita(Al(OH)3), boehmita(AlOOH) o diáspora(AlOOH); las diferentes formas del componente de aluminio dictarán las condiciones de extracción.
+El residuo no disuelto, barro rojo, una vez extraídos los compuestos de aluminio contiene óxidos de hierro, sílice, calcia, titania y algo de alúmina sin reaccionar.
+Tras separar el residuo por filtración, al enfriar el líquido se precipita gibbsita pura, que se siembra con hidróxido de aluminio de grano fino.
+La gibbsita suele convertirse en óxido de aluminio, Al2O3, mediante calentamiento en hornos rotatorios o calcinadores flash de fluido a una temperatura superior a 1000 °C.
+Este óxido de aluminio se disuelve a una temperatura de aproximadamente 960 °C en criolita fundida.
+A continuación, esta sustancia fundida puede producir aluminio metálico haciendo pasar una corriente eléctrica a través de ella en el proceso de electrólisis, que se denomina proceso Hall-Héroult, llamado así por sus descubridores estadounidense y francés.
+Antes de la invención de este proceso, y antes del proceso Deville, el mineral de aluminio se refinaba calentándolo junto con sodio o potasio elementales en un vacío.
+El método era complicado y consumía materiales de por sí caros en aquella época.
+Esto hizo que el aluminio elemental primitivo fuera más caro que el oro.
+Como carga a granel, la bauxita es una carga del Grupo A que puede licuarse si está excesivamente húmeda.
+La licuefacción y el efecto de superficie libre pueden hacer que la carga se desplace rápidamente dentro de la bodega y que el buque se vuelva inestable, pudiendo hundirlo.
+Un buque que se sospecha que se hundió de esta manera fue el MS Bulk Jupiter en 2015.
+Un método que puede demostrar este efe| cto es la "prueba de la lata", en la que se coloca una muestra del material en una lata cilíndrica y se golpea contra una superficie muchas veces.
+Si se forma una lechada húmeda en la lata, existe la probabilidad de que la carga se licúe; aunque, a la inversa, incluso si la muestra permanece seca, esto no prueba de forma concluyente que vaya a permanecer así, o que sea segura para la carga.
+La bauxita es la principal fuente del metal raro galio.
+Durante el procesamiento de la bauxita a alúmina en el proceso Bayer, el galio se acumula en el licor de hidróxido de sodio.
+De éste puede extraerse por diversos métodos.
+El más reciente es el uso de resina de intercambio iónico.
+Las eficiencias de extracción alcanzables dependen críticamente de la concentración original en la bauxita de alimentación.
+A una concentración de alimentación típica de 50 ppm, alrededor del 15 por ciento del galio contenido es extraíble.
+El resto va a parar a las corrientes de lodo rojo e hidróxido de aluminio.

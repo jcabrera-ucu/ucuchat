@@ -1,0 +1,42 @@
+Werewolf: The Apocalypse - Earthblood es un videojuego de rol de acción desarrollado por Cyanide Studio y publicado por Nacon.
+Está basado en el juego de rol Werewolf: The Apocalypse de White Wolf Publishing, y es parte de la serie más grande World of Darkness.
+Fue lanzado el 4 de febrero de 2021 para Microsoft Windows, PlayStation 4, PlayStation 5, Xbox One y Xbox Series X/S.
+La historia sigue a Cahal, un hombre lobo eco-terrorista que ha sido desterrado de su tribu de hombres lobo y que lucha contra la corporación Endron y la contaminación que ocasiona.
+El jugador, como Cahal, atraviesa áreas en el noroeste de Estados Unidos y puede cambiar de forma a una forma de lobo, humano o hombre lobo para realizar diversas tareas, como exploración, conversación y combate.
+Werewolf: The Apocalypse - Earthblood es un videojuego de rol de acción en tercera persona para un solo jugador en el que el jugador asume el papel de un hombre lobo ecoterrorista.
+El jugador explora varias áreas en el noroeste de Estados Unidos, en forma de grandes mundos centrales.
+Dentro de estas áreas, el jugador juega a través de misiones, que pueden tener efectos en el mundo del juego, incluyendo el desbloqueo de misiones secundarias.
+El jugador también va a Penumbra, un lugar entre el mundo físico y el mundo espiritual, donde puede recibir misiones secundarias o desafíos del Gran Espíritu de la Cascada, quien le da recompensas al jugador por completarlos, como abrir atajos entre áreas.
+El hombre lobo es un cambiaformas y puede tomar la forma de un lobo y un humano además de su forma de hombre lobo.
+Cada forma tiene su propia mecánica de juego ligada a ella: la forma de lobo se usa para exploración, rastreo, espionaje y sigilo, además de poder atravesar pasajes estrechos; la forma humana se usa para interacciones, como usar máquinas y conversar con personas; y la forma de hombre lobo se usa para el combate.
+Cuando están en forma humana, otros personajes no son conscientes de que el personaje del jugador realmente es un hombre lobo, lo que permite al jugador ir de incógnito.
+El jugador desarrolla al hombre lobo a través de un árbol de habilidades, donde puede elegir entre diferentes arquetipos conectados a diferentes debilidades y fortalezas.
+El jugador también tiene acceso a varios potenciadores sobrenaturales, que se obtienen de la naturaleza.
+El juego implica el manejo de la ira del personaje del jugador: la ira del hombre lobo aumenta a medida que se entera de los problemas que los humanos han causado, como la contaminación y la codicia.
+Si el jugador deja que la ira del hombre lobo se desborde, el hombre lobo entrará en un estado de frenesí y se convertirá en una bestia violenta y monstruosa.
+Cuando está en estado de frenesí, el hombre lobo es más poderoso, pero también le resulta más difícil analizar la información, como si un personaje es un enemigo o un inocente, y atraerá la atención de los enemigos.
+Una vez en el estado de frenesí, la única forma de salir de él es matar a todos los presentes, sin importar si son enemigos o no.
+Earthblood tiene lugar en el noroeste de Estados Unidos y se desarrolla en el Mundo de Tinieblas, donde seres sobrenaturales, como vampiros y hombres lobo, luchan en secreto por el poder.
+El mundo está gobernado por tres entidades: Kaos, una fuerza caótica y creativa que crea vida y supervisa la naturaleza; la Tejedora, que tiene la tarea de dar forma a la creatividad del Kaos, organizando la Tierra; y el Wyrm, que originalmente existía como una fuerza de equilibrio entre las dos anteriores, una fuerza de ruptura y renovación, pero que se ha convertido en un agujero negro que intenta destruir todo debido a lo poderoso que se ha vuelto la Tejedora, y que corrompe humanos fácilmente.
+El juego se centra en los hombres lobo, conocidos como Garou, cuya nación consta de trece tribus llamadas la Nación Garou.
+Mientras que los vampiros se integran en sociedades humanas, los hombres lobo son reclusos, y son retratados como el "sistema inmunológico del planeta", trabajando para proteger la naturaleza.
+Las diferentes tribus tienen diferentes puntos de vista sobre cómo lograr esto y cómo tratar con la humanidad: por ejemplo, los Moradores del Cristal piensan que la humanidad puede salir de los problemas ambientales con el uso de la tecnología; las Furias Negras luchan por el feminismo, los derechos de las mujeres y la igualdad de género; los Roehuesos se preocupan por la clase social y luchan por las personas económicamente oprimidas; ya los Garras Rojas les gustaría librar una guerra contra la humanidad para ver quién sobrevivirá.
+Debido a sus diferentes perspectivas, hay muchas luchas internas entre las tribus.
+El juego sigue al hombre lobo Cahal, quien abandonó su tribu, la tribu familiar Fianna de hombres lobo irlandeses, después de matar accidentalmente a otro miembro de la tribu, pero regresa para protegerlo y dominar su ira después de descubrir una nueva amenaza.
+En su búsqueda de la redención, participa en la Gran Guerra de los Garou para luchar contra la poderosa corporación Endron, que causa contaminación y problemas ambientales,   y, a sabiendas, sirve al Kaos para aprovechar su eléctrica, y cuya filial productora de petróleo Endron está instalando un sitio de extracción junto a un santuario.
+Werewolf: The Apocalypse - Earthblood fue desarrollado por Cyanide Studio en el motor de videojuegos Unreal Engine, con la cooperación de White Wolf Publishing para ayudar a que el videojuego se mantenga fiel al juego de rol Werewolf: The Apocalypse original de White Wolf en el cual Earthblood se basa.
+Está dirigido por Julien Desourteaux, con Martin Ericsson como escritor principal.
+Todo el equipo de diseño de niveles del juego anterior de Cyanide, Styx: Shards of Darkness también trabajó en Earthblood, y según Desourteaux hubo muchas cosas que se trasladaron de Shards of Darkness a Earthblood, aunque tuvieron que desarrollar el combate desde cero.
+Antes del inicio del desarrollo del videojuego, los desarrolladores consideraron varios géneros para una adaptación de Werewolf: The Apocalypse, como un videojuego de lucha o un videojuego de rol isométrico, antes de decidirse por un videojuego de rol de acción.
+Las primeras preguntas que hicieron, que formarían el videojuego, incluyeron "¿cuándo te enfurecerás?", "¿cuándo usarás la violencia?", "¿cuándo habrás tenido suficiente?"
+y "¿cuál es el precio de cambiar el mundo a través de violencia?"; querían evitar dar respuestas consideradas correctas, y querían que el jugador pensara en ello por sí mismo y encontrara respuestas.
+Según Desourteaux, esta cuestión de gestión de la ira es el tema principal del videojuego; se consideró una narrativa ramificada para facilitar la exploración de estas cuestiones, pero finalmente los desarrolladores se decidieron por una historia mayormente lineal con ramificaciones menores.
+Ericsson describió el videojuego como fuertemente centrado en su narrativa y, por lo tanto, con un protagonista definido y una historia fija con temas como la familia, el distanciamiento, el cinismo y el idealismo.
+La preproducción del videojuego comenzó a fines de 2016, luego de la compra de White Wolf por parte de Paradox Interactive en 2015, y el videojuego se anunció en enero de 2017.
+Originalmente, fue programado para ser publicado por Focus Home Interactive, pero cambió de editor a Nacon en 2018 luego de la compra de Cyanide Studio por parte de Nacon.
+Se presentó por primera vez en el E3 2019 en Los Ángeles en junio de 2019, y se exhibió en PDXCON 2019 en octubre.
+El videojuego finalmente se lanzó el 4 de febrero de 2021 para Microsoft Windows, PlayStation 4, PlayStation 5, Xbox One y Xbox Series X.
+Aunque el videojuego fue bien recibido durante el E3 2019,   con Paste llamándolo uno de sus videojuegos favoritos exhibidos allí, obtuvo "reseñas mixtas o promedio" en el lanzamiento, según el agregador de reseñas Metacritic;   la versión de PlayStation 4 se destacó por recibir reseñas en su mayoría negativas.
+Por otra parte, las reseñas realizadas para PlayStation 5 y Xbox Series X/S están medianamente por encima de la media, sin sobresalir demasiado.
+Las reseñas para Xbox One son prácticamente inexistentes.
+En su análisis, 3DJuegos lo llamó "una pobre adaptación", recibiendo la calificación final de "no recomendado".

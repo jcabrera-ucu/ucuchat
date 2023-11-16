@@ -1,0 +1,3 @@
+En matemáticas, un teorema del punto fijo es un teorema que especifica condiciones bajo las cuales se puede afirmar que una función f sobre un dominio dado (con rango en el mismo dominio) tiene, al menos, un punto fijo; es decir, que existe un punto x en dicho dominio para el cual: f(x) = x.
+En diferentes ámbitos de estudios (espacios topológios, espacios de Banach, espacios métricos, espacios euclídeos, etc) hay diferentes teoremas del punto fijo.
+Por ejemplo:

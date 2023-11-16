@@ -1,0 +1,31 @@
+Un pulsorreactor es un motor a reacción que funciona de forma pulsátil.
+El primer modelo funcional fue creado y patentado en 1906 por el ingeniero ruso nacionalizado francés Victor Von Karavodin (también conocido como Victor De Karavodine).
+El inventor francés Georges Marconnet patentó el modelo sin válvulas en 1910.
+Fue el primer tipo de reactor de la historia fabricado en serie para fines bélicos.
+Concretamente, el modelo Argus I, fue diseñado para propulsar la bomba voladora V1.
+El motor Argus I tenía un empuje máximo de unos 400 kgf y su autonomía era de unos treinta y cinco minutos de funcionamiento, equivalente a la vida útil del sistema de válvulas empleadas en la admisión.
+Después, debido al desgaste por las tremendas presiones que el mismo manejaba, las láminas de admisión de las válvulas terminaban por destruirse causando la paralización del reactor.
+La invención y perfeccionamiento del motor turborreactor, más eficiente, acabó con su uso.
+Existen dos clases de pulsorreactores: el pulsorreactor de válvulas y el pulsorreactor sin válvulas.
+El Argus I es un ejemplo de pulsorreactor del primer tipo.
+Su estructura consta de tres partes fundamentales:
+Su funcionamiento depende de un flujo de aire que entra a través de las válvulas situadas en la parte frontal del reactor donde se mezcla con el combustible que sale de un conjunto de inyectores situados en el sistema de válvulas.
+Una bujía hace explotar la mezcla, haciendo que la fuerza de la explosión acelere los gases en ambas direcciones lo cual provoca que las válvulas de admisión de aire se cierren haciendo que el gas se vea forzosamente obligado a salir por el tubo de salida de gases, produciendo el empuje, y luego crea un vacío haciendo que las válvulas de admisión vuelvan a abrirse para posteriormente repetir la operación.
+Una vez iniciada la ignición parte de la energía de la explosión se transforma en calor que calienta el cuerpo del reactor, lo cual facilita posteriormente la tarea de la ignición pulsátil, ya que el calor antedicho hace innecesario tener que utilizar la bujía como fuente de ignición, lo cual hace que el reactor tenga un funcionamiento autosostenido sin la intervención de ningún mecanismo de ignición externa.
+El mayor inconveniente de este sistema es principalmente la vida útil de las válvulas de admisión, ya que al ser simples tiras de acero flexible aguantan durante poco tiempo las tensiones y las temperaturas a las que el reactor las somete, haciendo que en muy pocos minutos empiecen a sufrir fatiga estructural, y empiecen a desintegrarse o a fundirse, haciendo de este sistema algo muy delicado y de vida efímera, aunque muy barato de construir en comparación a otros tipos de reactor.
+Estos pulsorreactores son un perfecconamiento del anterior.
+Los primeros modelos empezaron a aparecer pasada la Segunda Guerra Mundial.
+Las naciones aliadas empezaron a investigar el potencial de estos reactores para diversos fines, y empezaron a desarrollar pulsorreactores sin válvulas para poder alargar su vida útil y así poder aprovechar las posibilidades que podían ofrecerles, aunque la llegada del turborreactor ahogó a esta tecnología por completo.
+Existen multitud de modelos, pero el más eficiente y el más conocido es el denominado Lockwood Hiller que aunaba en su diseño la sencillez y una magnífica relación peso/empuje, también siendo estos reactores de gran fiabilidad al no poseer ninguna pieza móvil.
+Además son reactores comparativamente hablando más seguros que sus predecesores con válvulas.
+Es poco probable que sufran daños por ingestión de partículas sólidas o fluidos.
+El funcionamiento de estos reactores a grandes rasgos es similar, solo que al no poseer sensibles juegos de válvulas, estas han sido sustituidas por un método de retorno de gases calientes.
+La explicación es la siguiente:
+Muchos pulsorreactores utilizan distintos tubos para la admisión y el escape, mientras que este sencillo diseño combina la misma apertura para la admisión y escape.
+Esto es posible debido a la resonancia producida por los pulsorreactores, que permite que en la fase de alta presión producida por la combustión, el mismo tubo actúe como tubo de escape, mientras que en el vacío producido después de la explosión, este actúe como una entrada de admisión.
+Este diseño de pulsorreactor sin válvulas es menos eficiente en esta forma primitiva debido a que falta un tubo de resonancia y de ahí una falta de compresión y succión mediante las ondas acústicas que emite cualquier pulsorreactor.
+Sin embargo, funciona bastante bien con un instrumento tan simple como es un tarro de mermelada vacío con un agujero en la tapa y combustible en el interior, de ahí el nombre ( jam jar en inglés)
+Los pulsorreactores de hoy no tienen casi ninguna función destacable en el mundo aeronáutico y han quedado relegados al puesto de hobby doméstico, al producirse manualmente para aplicaciones de aeromodelismo o como curiosidad científica.
+Los pulsorreactores poseen características que les hacen merecedores de cierto respeto frente a otros tipos de reactor: su construcción es muy sencilla, no requieren de grandes equipos ni tampoco de materiales inusuales para su construcción, muchos modelos sin válvulas pueden desarrollar grandes potencias sin ser excesivamente caros de realizar, además de que un pulsoreactor puede quemar casi cualquier tipo de combustible (petroderivados, gases, alcoholes etc etc..).
+También son reactores de gran sencillez de reparación y se pueden producir en tiempos muy pequeños.
+Sin embargo también presentan graves inconvenientes:

@@ -1,0 +1,29 @@
+Media Player Classic (MPC) es un reproductor multimedia para Microsoft Windows.
+El programa simula el aspecto del antiguo Windows Media Player 6.4 pero integra más opciones y características encontradas en reproductores más modernos.
+Este reproductor y sus derivados son el reproductor por defecto de algunos pack de codecs como K-Lite Codec Pack y Combined Community Codec Pack.
+Media Player Classic fue originalmente creado y mantenido por un programador de nombre "Gabest".
+Fue desarrollado como un programa de código cerrado, pero después fue re-licenciado como software libre bajo los términos de la GNU General Public License.
+MPC está alojado en el proyecto  en SourceForge.net.
+Actualmente forma parte del proyecto MPC Home Cinema project.
+Media Player Classic tiene capacidad para reproducir VCD, SVCD y DVD, Sin necesidad de instalar ningún programa adicional.
+Tiene decodificadores para video en MPEG-2 con soporte de subtítulos y audio en LPCM, MP2, AC3 y DTS audio, y también contiene un mejorado visor de archivos MPEG que soporta reproducción de VCD y SVCD usando el lector de VCD/SVCD/XCD.
+A partir del 30 de octubre de 2005 Gabest agregó soporte para *.mp4 y MPEG-4 Timed Text.
+Un filtro decodificador AAC fue presentado también, que logra que MPC sea capaz de reproducir AAC en contenedores MP4, como una alternativa a Winamp y iTunes.
+Media Player Classic esta primeramente basado sobre la arquitectura DirectShow, y por lo tanto directamente usa los filtros decodificadores de Directshow instalados.
+Por ejemplo cuando se instala el filtro directshow de código abierto ffdshow, mpc ofrece una reproducción rápida, de alta calidad y con habilidades de post procesado de los formatos DivX, Xvid, H.264 y Flash Video.
+MPC provee soporte beta de DXVA, para tarjetas de video NVIDIA y ATI compatibles con H.264 o VC-1.
+este soporte provee aceleración por hardware a la reproducción de estos formatos.
+Adicionalmente, MPC también puede usar la arquitecturas QuickTime y RealPlayer (si están instaladas en el computador) para reproducir estos formatos.
+Media Player Classic incluye soporte nativo de los contenedores OGM y Matroska.
+Sin embargo la reproducción de OGM esta limitada por el filtro CoreVorbis.
+Esto afecta a los nuevos formatos (2006 en adelante).
+La razón de este problema es que MPC usa un hard-coded o un filtro Vorbis antiguo, así si se instalan nuevos filtros, MPC es incapaz de usarlos.
+MPC soporta reproducción y grabación de teleer está instalado.
+El proyecto Media Player Classic Homecinema actualizó el reproductor original adhiriendo nuevas opciones, actualizando librerías y corrigiendo fallos.
+Incluye decodificadores de video adicionales (en particular H.264 y VC-1 con soporte DXVA), soporte de renderizado EVR, arreglo de fallos y más.
+También hay disponible una versión de 64 bits que soporta Windows XP x64, Windows Vista x64, Windows 7 x64 y Windows 8 x64.
+a
+Gabest, principal desarrollador, indica que el desarrollo del reproductor continua en marzo del 2007, pero no se ha progresado en la actualización del código fuente.
+En abril del 2005, Gabest anuncio que dos reproductores, de nombre VX30 y The KMPlayer, han violado la General Public License (GPL) por usar porciones del código fuente de MPC.
+Maui X-Stream, el distribuidor de VX30, quien fue previamente acusado de violaciones de la GPL con su programa CherryOS, no ha hecho comentarios sobre el asunto.
+Sin embargo, los autores de The KMPlayer han publicado un comentario oficial en sus foro que niegan la acusación.

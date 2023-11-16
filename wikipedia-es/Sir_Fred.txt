@@ -1,0 +1,6 @@
+Sir Fred es un videojuego de plataformas realizado por Carlos Granados, Fernando Rada, Camilo Cela y Paco Menéndez, producido durante la edad de oro del software español publicado bajo el sello de la compañía Made in Spain en España y por Mikro-Gen en el Reino Unido, en el año 1986.
+Sir Fred debe internarse en el castillo de los Beni-Gómez donde se encuentra secuestrada su amada.
+Para ello puede hacer uso de los objetos que encontrará en las diferentes localidades, así como de sus especiales habilidades.
+El personaje puede andar, correr, saltar, nadar, bucear, lanzar piedras y esgrimir espadas.
+Podía ser finalizado de diferentes formas, puesto que la localización de los objetos y de la princesa variaba según la partida, además de que el mapeado disponía de diferentes rutas posibles.
+El juego recibió excelentes críticas en su momento, avaladas por su calidad técnica y la variedad de acciones que el protagonista podía desarrollar.

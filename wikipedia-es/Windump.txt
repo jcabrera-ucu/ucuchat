@@ -1,0 +1,10 @@
+WinDump es la versión para Windows de tcpdump (el cual funciona en Unix y derivados de él), siendo una herramienta gratuita de gestión y control de redes que funciona mediante línea de comandos.
+Es totalmente compatible con tcpdump y permite diversas funciones como interceptar y mostrar los paquetes, TCP/IP o de otros tipos, que son transmitidos sobre la red a la que está conectado, o diagnosticar el estado de la red y guardar los registros en ficheros, todo esto en función de reglas más o menos complejas.
+WinDump está basado en las librerías de WinPcap que se puede bajar gratuitamente de su página oficial.
+Para la ejecución de WinDump es completamente necesario instalar primero WinPcap.
+Para poder usar WinDump son necesarios privilegios de administrador, debido a que en su “promiscuous mode” (modo promiscuo) permite interceptar los paquetes de otros usuarios poniendo en peligro la confidencialidad de los datos de la red.
+Hay que decir que Windump interpreta los datos dependiendo del protocolo involucrado en la captura, ya que no es lo mismo una captura de consulta DNS que un inicio de sesión o establecimiento de conexión TCP, o una captura ICMP, aunque las diferencias, en algunos casos, son pocas.
+Por ejemplo, en una captura ICMP aparece la palabra "icmp", que sin embargo en una captura TCP no aparece.
+WinDump incluye multitud de opciones para resumir, clarificar y, en general, hacer que sean más entendibles los datos de salida, por ejemplo, aplicando filtros para controlar solo cierto tipo de tráfico o mostrar solo el de ciertas direcciones IP.
+Para filtrar y clarificar nuestros resultados aún más, podemos hacer uso de filtros más avanzados y utilizar operadores lógicos.
+Por ejemplo, podemos:

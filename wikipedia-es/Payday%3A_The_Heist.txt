@@ -1,0 +1,54 @@
+PAYDAY: The Heist es un videojuego de disparos en primera persona.
+Desarrollado por Overkill Software y distribuido por Sony Online Entertainment.
+Fue lanzado para PlayStation 3 en Norte América el 18 de octubre de 2011 y el 2 de noviembre de 2011 en Europa y para Microsoft Windows el 20 de octubre de 2011.
+La versión de PlayStation 3 está disponible en PlayStation Network y la de Microsoft Windows en Steam.
+La clasificación del juego es de PEGI: 18 no apto para menores de 18 años
+El jugador tomará el papel de uno de los miembros de una banda de ladrones.
+Estos ladrones utilizan máscaras de payasos para cometer sus robos.
+La banda está compuesta por cuatro miembros, los cuales son: Dallas, Chains, Hoxton y Wolf
+Se pueden jugar varias partidas en varios mapas, los cuales son: First World Bank, Heat Street, Panic Room, Green Bridge, Diamond Heist, Slaughterhouse, Undercover (Contenido descargable), Counterfeit (Contenido descargable), No Mercy (Solamente en Microsoft Windows).
+El jugador y los compañeros pueden ser derribados, esposados y arrestados.
+Si es derribado, otro miembro de la banda tendrá que ayudar al miembro que ha sido derribado antes de que se agote el tiempo, el cual para después de comenzar a ayudar al miembro que ha sido derribado.
+Si es esposado, otro miembro de la banda tendrá que quitarle las esposas al miembro que ha sido esposado.
+Si es arrestado, el miembro de la banda desaparecerá del equipo y podrá ser intercambiado por un rehén para que sea liberado.
+Para tener un rehén, hay que acercarse a un civil que esté en el suelo y ponerle unas bridas.
+Los policías pueden liberar a los rehenes y a los civiles que no están con bridas.
+Hay varios objetos como las sierras y los taladros que tienen que ser colocados en un lugar específico y sirven para llegar a lugares a los que no se pueden acceder de forma normal.
+Se puede jugar en el modo de un jugador, en el que tú controlas a un miembro de la banda y los demás son controlados por el ordenador.
+También se puede jugar en el modo de multijugador, en el que tú controlas a un miembro de la banda y los demás son controlados por otros jugadores que están jugando al videojuego.
+En el modo de multijugador, si algún miembro de la banda se queda sin jugador que lo controle, será controlado por el ordenador.
+Se puede subir de niveles de reputación y elegir entre diferentes ramas de especialización.
+Las ramas son: Asalto, Francotirador, Apoyo y Artillero (este último mediante DLC. Cuando se sube un nivel de reputación, se obtienen mejoras nuevas según la rama que te hayas escogido para subir justo antes de subir de nivel.
+Dallas: A la edad de 30 años, trato de enfrentar a dos grandes familias de la mafia en Chicago.
+Su plan falló y huyó hacia el sur, varios jefes de la mafia ordenaron asesinarlo, pero de alguna manera logró ir a la clandestinidad y sobrevivir.
+Después de que las cosas se tranquilizaran, volvió a subir en la escalera criminal.
+Ahora es la cara que todos temen.
+(Su máscara es de un payaso, tiene una nariz roja, al igual que todas, las cuencas son de color negro y esta tiene la bandera de Estados Unidos en la parte superior).
+Hoxton: Hoxton nunca podría tener un trabajo, aunque su vida dependería de ello.
+Su estilo de vida lo llevó a una vida de constantes complicaciones y robo.
+Sus deudas crecieron, al igual que su colección de enemigos de años de travesuras y robo.Necesitaba reunir sumas de dinero cada vez mayores para así poder pagar sus deudas.
+Él cometió su primer delito grave a la edad de 24 años y los desafíos sólo han aumentado desde entonces.
+(Su máscara a diferencia de todas, tiene una nariz cilíndrica con una pequeña estrella rosada al lado, labios de color rojo y el área de sus cejas es de color rosado).
+Chains: Cuando era adolescente, Chains siempre se metió en problemas.
+Después de años de saltos entre hogares adoptivos e instituciones juveniles, terminó en el ejército.
+Allí se convirtió en un excelente soldado, pero siempre odiaba que le dijeran que hacer.
+Chains dejó a los militares y se convirtió en un soldado de la fortuna, ofreciendo su experiencia militar al mejor postor.
+(Su máscara es de un payaso, la única diferencia con Dallas es que tiene líneas verticales atravesando sus ojos y tiene labios de color rojo).
+Wolf: Wolf era un ciudadano respetuoso de la ley durante la mayor parte de su vida.
+Durante la crisis económica mundial de finales de los años 2000, la compañía de Wolf solo tenía un cliente, que con el tiempo se enfadó y quiso salir.
+Su compañía fue a la bancarrota.
+Ahora persigue una carrera criminal con la misma determinación que lo llevó cuando solía dirigir su empresa.(Su máscara, a diferencia de todas, tiene una nariz con apariencia más humana, la parte inferior es de color roja y su boca está decorada de tal forma que da a entender que está cosida).
+Requisitos mínimos:
+Sistema operativo: Windows XP / Vista / 7
+Procesador: P4 a 3 GHz / Athlon 3400+
+Memoria: 1 GB de RAM
+Gráficos: nVidia 7800GTX / ATI x1900
+Versión de DirectX: 9.0c
+Otros Requisitos: Conexión a Internet de banda ancha
+Requisitos recomendados:
+SO: Windows XP / Vista / 7
+Procesador: Core 2 Duo / Athlon x2
+Memoria: 2 GB de RAM
+Gráficos: nVidia 260 / ATI 4850
+Versión de DirectX®: 9.0c
+Otros Requisitos: Conexión a Internet de banda ancha

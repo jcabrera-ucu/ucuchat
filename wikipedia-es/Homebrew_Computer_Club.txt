@@ -1,0 +1,32 @@
+El Homebrew Computer Club en Silicon Valley, era uno de los primeros y más influyentes clubes de computadoras en el mundo.
+El club se reunió desde el 5 de marzo de 1975 hasta diciembre de 1986.
+Varios empresarios y hackers destacados surgieron del club incluyendo los fundadores de Apple y Cromemco.
+El club ha sido descrito como “el crisol de una industria entera”.
+El Homebrew Computer Club era un grupo informal de entusiastas de electrónica y aficionados con inclinación técnica que recolectaban e intercambiaban partes, circuitos, información referente a la construcción DIY de dispositivos computacionales.
+Fue iniciado por Gordon French y Fred Moore que se reunían en el Community Computer Center en Menlo Park.
+Ambos estaban interesados en mantener un foro abierto regular, para que la gente se reuniera para trabajar en hacer la fabricación de computadores más accesible a todo el mundo.
+La primera reunión fue celebrada en marzo de 1975 en el garaje de Gordon French en Menlo Park, condado de San Mateo, California, en ocasión de la llegada al área del primer microcomputador Altair, una unidad enviada por People's Computer Company para revisión.
+Reuniones subsecuentes fueron celebradas en el Stanford Linear Accelerator Center.
+Después de reuniones más o menos "formales", los participantes a menudo volvían a convocarse en "The Oasis", un bar y grill en El Camino Real en las proximidades de Menlo Park, recordado años después por un miembro como "otra zona de espera del Homebrew".
+La película Piratas de Silicon Valley hecha para la televisión en 1999 (y el libro en que se basa, Fire in the Valley: The Making of the Personal Computer) describe el papel que el Homebrew Computer Club desempeñó en crear los primeros computadores personales, aunque la película pusiera erróneamente la reunión en Berkeley y representara mal el proceso de reunión.
+Muchos de los miembros originales del Homebrew Computer Club continúan reuniéndose (en fecha 2009) habiendo formado el Club 6800, nombre basado en el del microprocesador 6800 de Motorola (ahora Freescale).
+Ocasionalmente y variadamente renombrado después del lanzamiento del 6800, 6809, y de otros microprocesadores, el grupo continúa reuniéndose mensualmente en Cupertino, California.
+Aunque los miembros de Homebrew eran aficionados, la mayor parte tenía un fondo de ingeniería electrónica o programación de computadoras.
+Vinieron a las reuniones para hablar del Altair 8800 y otros tópicos técnicos e intercambiar diagramas esquemáticos y trucos de programación.
+Lee Felsenstein fue el moderador de las reuniones del club (portador de "la gran vara", un indicador de pizarra usado como apoyo para su forma de moderación).
+De las filas de este club surgieron los fundadores de muchas compañías de microcomputadoras, incluyendo Steve Wozniak (Apple Inc), Harry Garland y Roger Melen (Cromemco), George Morrow (Morrow Designs), Adam Osborne (Osborne Computer), y Bob Marsh (Processor Technology).
+John Draper (el famoso “Captain Crunch”) también era miembro del club, al igual que Li-Chen Wang, creador de “Palo Alto Tiny Basic” y software para el Cromemco Dazzler.
+Jerry Lawson, inventor del primer sistema de videojuegos basado en cartuchos fue un miembro del club, y fue el único miembro afroamericano.
+El boletín de noticias del Homebrew Computer Club era una de las fuerzas más influyentes en la formación de la cultura de Silicon Valley.
+Creado y editado por sus miembros, inició la idea del computador personal, y ayudó a sus miembros a construir los kits computadores originales, como el Altair 8800 que debutó en la revista Popular Electronics.
+Uno de tales eventos influyentes fue la publicación del Open Letter to Hobbyists (Carta abierta a los aficionados) de Bill Gates, que arremetió contra los primeros hackers de la época por piratear programas informáticos comerciales.
+La primera aplicación del boletín de noticias fue publicada el 15 de marzo de 1975, y continuó con varios diseños, terminando después de 21 ediciones en diciembre de 1977.
+En los comienzos, el boletín de noticias fue publicado desde una variedad de direcciones, pero sumisiones posteriores fueron a una dirección de P.O.Box en Mountain View, California.
+Ha habido dos reencuentros del club: el 5 de marzo de 2001 y el 11 de noviembre de 2013.
+El primer reencuentro del club, que fue celebrado en 2001, tomó lugar en el auditorio del Stanford Linear Accelerator Center (SLAC), el mismo lugar donde el club se reunió históricamente.
+Muchos de los primeros miembros del club asistieron al reencuentro incluyendo a Gordon French (anfitrión de la primera reunión del club), Len Shustek (anfitrión de las reuniones en SLAC), Lee Felsenstein (moderador de las reuniones del club), Harry Garland y Roger Melen (co-fundadores de Cromemco), y John Draper (“Captain Crunch”).
+El segundo reencuentro del club se celebró el 11 de noviembre de 2013 en el Museo Histórico de Ordenadores en Mountain View, California.
+El reencuentro fue arreglado por Hilda Sendyk, miembro del club.
+Len Shustek, presidente del museo, fue el anfitrión.
+A causa de la gran importancia del club en el desarrollo de la tecnología de la computadora personal, muchos representantes de la prensa asistieron al evento incluyendo Time Magazine, Bloomberg News, y el New York Times.
+Lee Felsenstein fue el moderador de la reunión, y Ted Nelson (autor del libro “Computer Lib”) y Steve Wozniak (cofundador de Apple Computer) fueron los oradores.

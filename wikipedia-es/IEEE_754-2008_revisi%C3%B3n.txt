@@ -1,0 +1,77 @@
+IEEE 754-2008 (anteriormente conocido como IEEE 754r) fue publicado en agosto de 2008 y es una revisión significativa, y sustituye, el IEEE 754-1985 en coma flotante estándar, mientras que en 2019 se consiguió actualiza con una revisión menor IEEE 754-2019.
+La revisión de 2008 extendió el estándar anterior donde era necesario, agregó aritmética y formatos decimales, ajustó ciertas áreas del estándar original que se dejaron sin definir y se fusionó en IEEE 854 (el estándar de punto flotante independiente de radix).
+En algunos casos, donde las definiciones más estrictas de la aritmética de punto flotante binario pueden ser incompatibles con el rendimiento de alguna implementación existente, se hicieron opcionales.
+La norma había estado bajo revisión desde 2000, con una fecha de finalización prevista para diciembre de 2006.
+La revisión de una norma IEEE sigue en general tres fases:
+El 11 de junio de 2008, fue aprobado por unanimidad por el Comité de Revisión del IEEE (Revcom), y fue aprobado formalmente por el Consejo de Normas del IEEE-SA el 12 de junio de 2008.
+Se publicó el 29 de agosto de 2008.
+La participación en la redacción del estándar estaba abierta a personas con un sólido conocimiento de la aritmética de coma flotante.
+Más de 90 personas asistieron al menos a una de las reuniones mensuales, que se celebraron en Silicon Valley, y muchas más participaron a través de la lista de correo.
+El progreso a veces fue lento, lo que llevó al presidente a declarar en la reunión del 15 de septiembre de 2005 que "no se están haciendo progresos, estoy suspendiendo estas reuniones hasta nuevo aviso por esos motivos".
+En diciembre de 2005, el comité se reorganizó bajo nuevas reglas con una fecha de finalización prevista para diciembre de 2006.
+Se adoptaron nuevas políticas y procedimientos en febrero de 2006.
+En septiembre de 2006, se aprobó un borrador de trabajo para enviarlo al comité patrocinador principal (el Comité de Normas del Microprocesador de IEEE, o MSC) para su edición y para enviarlo a la boleta electoral del patrocinador.
+La última versión del proyecto, la versión 1.2.5, se presentó al MSC el 4 de octubre de 2006.
+El MSC aceptó el proyecto el 9 de octubre de 2006.
+El proyecto se ha modificado considerablemente en detalle durante el proceso de votación.
+La primera votación del patrocinador tuvo lugar del 29 de noviembre de 2006 al 28 de diciembre de 2006.
+De los 84 miembros del cuerpo electoral, el 85.7% respondió, el 78.6% votó la aprobación.
+Hubo votos negativos (y más de 400 comentarios), por lo que hubo una votación de recirculación en marzo de 2007; esto recibió una aprobación del 84%.
+Hubo suficientes comentarios (más de 130) de esa boleta de que se preparó un tercer borrador para la segunda boleta de recirculación de 15 días que comenzó a mediados de abril de 2007.
+Por razones técnicas, el proceso de boleta se reinició con la cuarta boleta en octubre de 2007; también hubo cambios sustanciales en el borrador como resultado de los comentarios de 650 votantes y de las solicitudes del patrocinador (el IEEE MSC); esta boleta simplemente no alcanzó la aprobación requerida del 75%.
+La quinta votación tuvo una tasa de respuesta del 98.0% con una aprobación del 91.0%, con comentarios que condujeron a cambios relativamente pequeños.
+Las boletas sexta, séptima y octava mantuvieron índices de aprobación de más del 90% con progresivamente menos comentarios sobre cada borrador; el octavo (que no tenía comentarios en el alcance: 9 eran repeticiones de comentarios anteriores y uno referido a material que no estaba en el borrador) fue presentado al Comité de Revisión de Estándares de IEEE ('RevCom') para su aprobación como estándar de IEEE.
+El Comité de Revisión de Estándares de IEEE (RevCom) consideró y aprobó por unanimidad el borrador del IEEE 754r en su reunión de junio de 2008, y fue aprobado por la Junta de Estándares de IEEE-SA el 12 de junio de 2008.
+La edición final está completa y el documento ahora se ha enviado a El Departamento de Publicaciones de Normas IEEE para su publicación.
+El nuevo IEEE 754 (formalmente IEEE Std 754-2008, el Estándar IEEE para Aritmética de punto flotante) fue publicado por la IEEE Computer Society el 29 de agosto de 2008, y está disponible en el sitio web IEEE Xplore
+Esta norma reemplaza a IEEE 754-1985.
+IEEE 854, el estándar de punto flotante independiente de Radix se retiró en diciembre de 2008.
+Las mejoras más obvias al estándar son la adición de un tipo binario de 16 bits y 128 bits y tres tipos decimales, algunas operaciones nuevas y muchas funciones recomendadas.
+Sin embargo, ha habido aclaraciones significativas en la terminología en todo momento.
+Este resumen destaca las principales diferencias en cada cláusula principal de la norma.
+El alcance (determinado por el patrocinador del estándar) se ha ampliado para incluir formatos decimales y aritméticos, y agrega formatos extensibles.
+Muchas de las definiciones se han reescrito para mayor claridad y coherencia.
+Algunos términos se han renombrado para mayor claridad (por ejemplo, desnormalizado se ha renombrado a subnormal ).
+La descripción de los formatos se ha hecho más regular, con una distinción entre los formatos aritméticos (en los que se puede realizar la aritmética) y los formatos de intercambio (que tienen una codificación estándar).
+La conformidad con el estándar ahora se define en estos términos.
+Se han enumerado los niveles de especificación de un formato de punto flotante para aclarar la distinción entre:
+Los conjuntos de entidades representables se explican en detalle, mostrando que pueden ser tratados con el significado considerado como una fracción o un número entero.
+Se definen los conjuntos particulares conocidos como formatos básicos y se explican las codificaciones utilizadas para el intercambio de formatos binarios y decimales.
+Los formatos de intercambio binario tienen la " precisión media " (formato de almacenamiento de 16 bits) y la " precisión cuádruple " (formato de 128 bits) agregadas, junto con fórmulas generalizadas para algunos formatos más amplios; Los formatos básicos tienen codificaciones de 32 bits, 64 bits y 128 bits.
+Se describen tres nuevos formatos decimales, que coinciden con las longitudes de los formatos binarios de 32-128 bits.
+Estos dan formatos de intercambio decimal con significados de 7, 16 y 34 dígitos, que pueden estar normalizados o no. Para obtener un rango y precisión máximos, los formatos combinan parte del exponente y el significado en un campo de combinación, y comprimen el resto del significado usando una codificación entera decimal (que usa la codificación Densely Packed Decimal o DPD, una forma comprimida de BCD ) o codificación entera binaria convencional.
+Los formatos básicos son los dos tamaños más grandes, que tienen codificaciones de 64 bits y 128 bits.
+También se especifican fórmulas generalizadas para algunos otros formatos de intercambio.
+Los formatos extendidos y extensibles permiten la aritmética en otras precisiones y rangos.
+Esta cláusula se ha cambiado para fomentar el uso de atributos estáticos para controlar las operaciones de punto flotante y (además de los atributos de redondeo requeridos) permite el manejo alternativo de excepciones, la ampliación de resultados intermedios, las optimizaciones de cambio de valor y la reproducibilidad.
+Se ha agregado el atributo de redondeo a más cercano, distancia desde cero (requerido solo para operaciones decimales).
+Esta sección tiene numerosas aclaraciones (especialmente en el área de comparaciones), y ahora se requieren varias operaciones previamente recomendadas (como copiar, negar, abs y clase).
+Las nuevas operaciones incluyen múltiples fusibles de suma (FMA), conversiones explícitas, predicados de clasificación (isNan ( x ), etc.), varias funciones mínimas y máximas, un predicado de ordenamiento total y dos operaciones específicas de decimales (la misma cantidad y cuantización).
+Las operaciones mín. Y máx. Están definidas, pero dejan margen para el caso en el que las entradas tienen el mismo valor pero difieren en la representación.
+En particular:
+Para admitir operaciones como la ventana en la que una entrada de NaN debe reemplazarse silenciosamente con uno de los puntos finales, se definen min y max para seleccionar un número, x, en lugar de un NaN silencioso:
+Estas funciones se denominan minNum y maxNum para indicar su preferencia por un número sobre un NaN silencioso.
+Sin embargo, en presencia de una entrada de NaN de señalización, se devuelve un NaN silencioso como con las operaciones habituales.
+Después de la publicación de la norma, se observó que estas reglas hacen que estas operaciones no sean asociativas; Por esta razón, han sido reemplazados por nuevas operaciones en IEEE 754-2019.
+La aritmética decimal, compatible con la utilizada en Java, C #, PL / I, COBOL, Python, REXX, etc., también se define en esta sección.
+En general, la aritmética decimal sigue las mismas reglas que la aritmética binaria (los resultados se redondean correctamente, etc.), con reglas adicionales que definen el exponente de un resultado (en muchos casos es posible más de uno).
+A diferencia de 854, 754-2008 requiere una conversión de base correctamente redondeada entre coma flotante decimal y binaria dentro de un rango que depende del formato.
+Esta cláusula ha sido revisada y aclarada, pero sin adiciones importantes.
+Esta cláusula ha sido revisada y aclarada considerablemente, pero sin adiciones importantes.
+Esta cláusula se ha extendido desde la Cláusula 8 anterior ('Trampas') para permitir el manejo opcional de excepciones en varias formas, incluidas las trampas y otros modelos como try / catch.
+Las trampas y otros mecanismos de excepción siguen siendo opcionales, como lo fueron en IEEE 754-1985.
+Esta cláusula es nueva; recomienda cincuenta operaciones, incluidas las funciones de registro, potencia y trigonométricas, que los estándares del lenguaje deben definir.
+Todos estos son opcionales (no se requieren para cumplir con el estándar).
+Las operaciones incluyen algunas en modos dinámicos para atributos, y también un conjunto de operaciones de reducción (suma, producto escalado, etc.)
+Esta cláusula es nueva; recomienda cómo los estándares del lenguaje deben especificar la semántica de las secuencias de operaciones, y señala las sutilezas de los significados y optimizaciones literales que cambian el valor de un resultado.
+Esta cláusula es nueva; recomienda que los estándares de lenguaje proporcionen un medio para escribir programas reproducibles (es decir, programas que producirán el mismo resultado en todas las implementaciones de un lenguaje), y describe lo que debe hacerse para lograr resultados reproducibles.
+Este anexo es nuevo; enumera algunas referencias útiles.
+Este anexo es nuevo; Proporciona orientación a los desarrolladores de depuradores para las características que se desean para soportar la depuración de código de punto flotante.
+Este es un nuevo índice, que enumera todas las operaciones descritas en el estándar (obligatorio u opcional).
+Debido a los cambios en el diseño y desarrollo de la CPU, el estándar de punto flotante IEEE 2008 podría verse como histórico u obsoleto como el estándar de 1985 que reemplazó.
+Hubo muchas discusiones externas y elementos no cubiertos en el proceso de estandarización, los siguientes son los que se hicieron públicos:
+En 754, la definición de flujo inferior era que el resultado es pequeño y encuentra una pérdida de precisión.
+Se permitieron dos definiciones para la determinación de la condición 'pequeña': antes o después de redondear el resultado infinitamente preciso a la precisión de trabajo, con exponente ilimitado.
+Se permitieron dos definiciones de pérdida de precisión: resultado inexacto o pérdida debido solo a la desnormalización.
+Ningún sistema de hardware conocido implementó este último y se ha eliminado del estándar revisado como una opción.
+El Anexo U de 754r recomendó que solo la levedad después del redondeo e inexacta como pérdida de precisión sea una causa de la señal de flujo inferior.

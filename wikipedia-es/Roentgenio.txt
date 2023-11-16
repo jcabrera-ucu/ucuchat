@@ -1,0 +1,46 @@
+El roentgenio es un elemento químico del grupo 11 de la tabla periódica cuyo símbolo es Rg y su número atómico es 111.
+Fue descubierto en 1994 por científicos alemanes en Darmstadt.
+En noviembre de 2004 recibió el nombre de roentgenio en honor a Wilhelm Conrad Röntgen (1845-1923), premio Nobel de Física, descubridor de los rayos X.
+El roentgenio se obtiene a través del bombardeo de hojas de bismuto (Bi) con iones de níquel (Ni), decayendo en 15 milisegundos.
+El roentgenio no tiene isótopos estables o naturales.
+Se han sintetizado varios isótopos radiactivos en el laboratorio, ya sea por fusión de los núcleos de elementos más ligeros o como productos intermedios de desintegración de elementos más pesados.
+Se han informado nueve isótopos diferentes de roentgenio con masas atómicas 272, 274, 278-283 y 286 (283 y 286 sin confirmar), y para dos de los cuales, roentgenio-272 y roentgenio-274, han conocido pero no confirmado estado metaestables.
+Todos estos se descomponen a través de la descomposición alfa o la fisión espontánea, aunque 280Rg también puede tener una rama captura de electrones.
+Todos los isótopos de roentgenio son extremadamente inestables y radiactivos; en general, los isótopos más pesados son más estables que los más ligeros.
+El isótopo de roentgenio conocido más estable, 282Rg, es también el isótopo de roentgenio más pesado conocido; tiene una vida media de 100 segundos.
+El 286Rg no confirmado es incluso más pesado y parece tener una vida media aún más larga de unos 10,7 minutos, lo que lo convertiría en uno de los nucleidos superpesados de vida más larga que se conocen; del mismo modo, el 283Rg no confirmado parece tener una vida media prolongada de aproximadamente 5,1 minutos.
+También se ha informado que los isótopos 280Rg y 281Rg tienen vidas medias superiores a un segundo.
+Los isótopos restantes tienen vidas medias en el rango de milisegundos.
+Aparte de las propiedades del núcleo, no se han determinado propiedades del roentgenio o de sus compuestos; esto se debe a su producción extremadamente limitada y costosa y al hecho de que el roentgenio (y sus antecesores) se descomponen muy rápidamente.
+Las propiedades del roentgenio metal siguen sin conocerse y solo se dispone de predicciones.
+El roentgenio es el noveno miembro de la serie 6d de los metales de transición.
+Cálculos sobre su potencial de ionización, radio atómico y radio iónico son similares a los de su homólogo más ligero el oro, lo que implica que las propiedades básicas del roentgenio se parecerán a las de los otros elementos del grupo 11, es decir cobre, plata y oro; sin embargo, también se prevé que muestre varias diferencias con respecto a sus homólogos más ligeros.
+Se predice que el roentgenio sea un metal noble.
+El potencial de reducción de 1,9 V para el par Rg3+/Rg es mayor que el 1,5 V para el par Au3+/ Au.
+La primera energía de ionización prevista del roentgenio de 1020 kJ/mol casi coincide con la del gas noble radón a 1037 kJ/mol.
+Basado en los estados de oxidación más estables de los elementos más ligeros del grupo 11, se prevé que el roentgenio muestre estados de oxidación +5 y +3 estables, con un estado +1 menos estable.
+Se prevé que el estado +3 sea el más estable.
+Se espera que el roentgenio (III) tenga una reactividad comparable a la del oro (III), pero debería ser más estable y formar una mayor variedad de compuestos.
+El oro también forma un estado −1 algo estable debido a los efectos relativistas, y se ha sugerido que el roentgenio también podría hacerlo: sin embargo, se espera que la afinidad electrónica del roentgenio sea alrededor de 1.6 eV, significativamente más bajo que el valor del oro de 2.3 eV, por lo que los roentgénidos pueden no ser estables o incluso posibles.
+Los orbitales 6d se desestabilizan por efectos relativistas y interacción espín-órbitas cerca del final de la cuarta serie de metales de transición, lo que hace que el alto estado de oxidación sea roentgenio (V) más estable que su homólogo más ligero, el oro (V) (conocido solo en pentafluoruro de oro, Au2F10) ya que los electrones 6d participan en la unión a un mayor medida.
+Las interacciones espín-órbita estabilizan los compuestos de roentgenio molecular con más electrones 6d de enlace; por ejemplo, se espera que RgF6- sea más estable que  RgF4 -, que se espera que sea más estable que  RgF 2 -.
+La estabilidad de RgF 6 - es homóloga a la de  AuF 6 -; el análogo de plata  AgF 6 -  es desconocido y se espera que sea solo marginalmente estable a la descomposición en  AgF4 - y F2.
+Además, se espera que Rg2F10 sea estable a la descomposición, exactamente análoga a Au2F10, mientras que Ag2F10 debería ser inestable a la descomposición en Ag2F6 y F2.
+El heptafluoruro de oro, AuF7, se conoce como un complejo de difluoruro de oro (V) AuF5·F2, que es más bajo en energía de lo que sería un heptafluoruro de oro (VII) verdadero; En cambio, se calcula que RgF7 es más estable como heptafluoruro de roentgenio (VII) verdadero, aunque sería algo inestable, su descomposición en Rg2F10 y F2 liberando una pequeña cantidad de energía a temperatura ambiente.
+Se espera que el roentgenio(I) sea difícil de obtener.
+El oro forma fácilmente el cianuro complejo, que se utiliza en su extracción del mineral mediante el proceso de cianuración del oro; Se espera que el roentgenio haga lo mismo y forme.
+La química probable del roentgenio ha recibido más interés que la de los dos elementos anteriores, meitnerio y darmstadtio, ya que se espera que las subcapas s de valencia de los elementos del grupo 11 se contraigan relativistamente más fuertemente en el roentgenio.
+Los cálculos sobre el compuesto molecular RgH muestran que los efectos relativistas duplican la fuerza del enlace roentgenio-hidrógeno, aunque las interacciones espín-órbita también lo debilitan en 0,7 eV (16 kcal/mol).
+También se estudiaron los compuestos AuX y RgX, donde X = F, Cl, Br, O, Au o Rg.[2][62] Se prevé que Rg+ sea el ion metálico más blando, incluso más blando que Au+, aunque no hay acuerdo sobre si se comportaría como un ácido o como una base.[63][64] En solución acuosa, Rg+ formaría el ion agua [Rg(H2O)2]+, con una distancia de enlace Rg–O de 207,1pm.
+También se espera que forme complejos de Rg(I) con amoníaco, fosfina y sulfuro de hidrógeno.
+Se espera que el roentgenio sea sólido en condiciones normales y que cristalice en la estructura cúbica centrada en el cuerpo, a diferencia de sus congéneres más ligeros que cristalizan en la estructura cúbica centrada en las caras, debido a que se espera que tenga densidades de carga de electrones diferentes a las de ellos.
+Debe ser un metal muy pesado con una densidad de alrededor de 22-24g/cm; en comparación, el elemento más denso conocido del que se ha medido su densidad, el osmio, tiene una densidad de 22,61g/cm.
+Los elementos estables del grupo 11, cobre, plata y oro, tienen todos una configuración electrónica externa (n−1)d10ns1.
+Para cada uno de estos elementos, el primer estado excitado de sus átomos tiene una configuración (n−1)d9ns2.
+Debido al acoplamiento espín-órbita entre los electrones d, este estado se divide en un par de niveles de energía.
+en el caso del cobre, la diferencia de energía entre el estado fundamental y el estado excitado más bajo hace que el metal se vea rojizo.
+en el caso de la plata, la brecha de energía se amplía y el color se vuelve plateado.
+Sin embargo, a medida que aumenta el número atómico, los niveles excitados se estabilizan por efectos relativistas y en el oro la brecha de energía vuelve a disminuir y el color hace aparecer el dorado.
+En el caso del roentgenio, los cálculos indican que el nivel 6d97s2 se estabiliza hasta tal punto que se convierte en el estado fundamental y el nivel 6d107s1 se convierte en el primer estado excitado.
+La diferencia de energía resultante entre el nuevo estado fundamental y el primer estado excitado es similar a la de la plata y se espera que el roentgenio tenga una apariencia plateada.
+Se espera que el radio atómico del roentgenio sea de alrededor de 138pm.

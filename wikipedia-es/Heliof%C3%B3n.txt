@@ -1,0 +1,7 @@
+El heliofón es un instrumento musical electrónico diseñado por Bruno Hellberger y desarrollado a partir del hellertion de la década de 1920.
+Como en este, el sonido se produce a través de tubos de vacío y está controlada por faders, en concreto, por una consola que cuenta con 58 faders.
+La peculiaridad no sólo es el mayor número de faders, sino que, además, cada fader está dividido en tres zonas, lo que permite controlar simultáneamente los timbres.
+El volumen de la salida se controla por pedales y el vibrato a través de una palanca situada a la altura de la rodilla.
+El heliofón fue un antecesor del sampler, pues era capaz de imitar de forma realista instrumentos musicales y sonidos vocales.
+El primer prototipo de heliofón se concluyó en 1936 en Berlín, pero fue destruido durante la Segunda Guerra Mundial -después de la guerra, Hellberger construyó una segunda versión en 1947 en Viena y continuó con el desarrollo de éste hasta su muerte en 1951.
+Muerto Hellberger, el desarrollo del helliophon fue asumido por Wolfgang Wehrmann.

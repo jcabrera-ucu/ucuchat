@@ -1,0 +1,7 @@
+MACA (siglas en inglés de Multiple Access with Collision Avoidance) es un protocolo informático.
+La modificación incluida en este protocolo, respecto a CSMA/CD, es que ahora las estaciones, antes de transmitir, deben enviar una trama RTS (Request To Send).
+Dicha trama, indica la longitud del paquete de datos a enviar.
+El Tamaño de dicha trama es de 30 bytes.
+Ante esto, el resto de estaciones actuarán de tal forma que, si “escuchan” un RTS, esperarán por el CTS (Clear to send) y, si “escuchan” un CTS, esperarán el tiempo necesario para que se transmita la longitud indicada en dicho CTS.
+También existe el protocolo combinado de MACA con CSMA/CA consiste en utilizar MACA usando el CSMA/CA para enviar el RTS y el CTS.Este último es el más usado en la actualidad en redes inalámbricas (802.11).
+Carrier Sense Multiple Access/Collision Avoidance

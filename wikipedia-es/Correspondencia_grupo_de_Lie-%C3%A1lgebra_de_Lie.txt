@@ -1,0 +1,105 @@
+En matemáticas, la correspondencia entre el grupo de Lie y el álgebra de Lie permite estudiar los grupos de Lie, que son objetos geométricos, en términos de álgebras de Lie, que son objetos lineales.
+En este artículo, cuando se habla de un grupo de Lie se hace referencia a un grupo de Lie real.
+Para los casos complejos y p-ádicos, véase el grupo de Lie complejo y el grupo de Lie p-ádico.
+En este artículo, se supone que las variedades (en particular, los grupos de Lie) son los segundos numerables; en particular, tienen como máximo varios componentes conectados.
+Hay varias maneras en las que se puede entender la construcción del álgebra de Lie de un grupo de Lie G.
+Un enfoque utiliza campos vectoriales invariantes a la izquierda.
+Se dice que un campo vectorial X en G es invariante bajo las traslaciones a la izquierda si, para cualquier g, h en G cumple que
+donde y  es el diferencial de l_g entre espacios tangentes (en otras palabras, l_g está relacionado con sí mismo para cualquier g en G).
+Sea el conjunto de todos los campos vectoriales invariantes de traslación izquierda en G, que es un espacio vectorial real.
+Además, está cerrado bajo el soporte de Lie; es decir, [X, Y] es invariante de traslación izquierda si X, Y lo son.
+Así, es un subálgebra de Lie del álgebra de Lie de todos los campos vectoriales en G y se llama álgebra de Lie de G.
+Se puede entender esto más concretamente identificando el espacio de los campos vectoriales invariantes izquierdos con el espacio tangente en la identidad, de la siguiente manera: dado un campo vectorial invariante izquierdo, se puede tomar su valor en la identidad y obtener un vector tangente en la identidad, es posible extenderlo a un campo vectorial invariante a la izquierda.
+Por lo tanto, el álgebra de Lie puede considerarse como el espacio tangente en la identidad y el soporte de X e Y en T_e G se puede calcular extendiéndolos a campos vectoriales invariantes a la izquierda, tomando el conmutador de los campos vectoriales y luego evaluando la identidad.
+También hay otra encarnación de como el álgebra de Lie de elementos primitivos del álgebra de Hopf de distribuciones en G con soporte en el elemento de identidad; para esto, véanse las construcciones relacionadas a continuación.
+Supóngase que G es un subgrupo cerrado de GL(n;C) y, por lo tanto, un grupo de Lie, según el teorema de los subgrupos cerrados.
+Entonces el álgebra de Lie de G puede calcularse como
+Por ejemplo, se puede usar el criterio para establecer la correspondencia para grupos compactos clásicos (véase la tabla con "grupos de Lie compactos" a continuación)
+Si
+es un homomorfismo de grupo de Lie, entonces su diferencial en el elemento de identidad
+es un homomorfismo de álgebra de Lie (los paréntesis van a paréntesis), que tiene las siguientes propiedades:
+En particular, si H es un subgrupo cerrado de un grupo de Lie G, entonces es un subalgebra de Lie de.
+Además, si f es inyectiva, entonces f es una inmersión y, por lo tanto, se dice que G es un subgrupo inmerso (Lie) de H. Por ejemplo, es un subgrupo inmerso de H. Si f es sobreyectiva, entonces f es una submersión y si, además, G es compacto, entonces f es un paquete principal con el grupo de estructuras de su núcleo (lema de Ehresmann).
+Sea un producto directo de los grupos de Lie y  proyecciones.
+Entonces los diferenciales dan la identificación canónica:
+Si H, H' son subgrupos de Lie de un grupo de Lie, entonces
+Sea G un grupo de Lie conectado.
+Si H es un grupo de Lie, entonces cualquier homomorfismo de grupo de Lie f: G \to H está determinado únicamente por su diferencial df.
+Precisamente, existe la aplicación exponencial (y una para H) tal que  y, dado que G está conectado, esto determina f únicamente.
+En general, si U es una vecindad del elemento de identidad en un grupo topológico conectado G, entonces coincide con G, ya que el primero es un subgrupo abierto (por lo tanto cerrado).
+Ahora, define un homeomorfismo local desde una vecindad del vector cero hasta la vecindad del elemento de identidad.
+Por ejemplo, si G es el grupo de Lie de matrices cuadradas reales invertibles de tamaño n (grupo lineal general), entonces es el álgebra de Lie de matrices cuadradas reales de tamaño n, y.
+La correspondencia entre los grupos de Lie y las álgebras de Lie incluye los siguientes tres resultados principales:
+En la segunda parte de la correspondencia, no se puede omitir la suposición de que G está simplemente conectado.
+Por ejemplo, las álgebras de Lie de SO(3) y SU(2) son isomorfas, pero no hay un homomorfismo correspondiente de SO(3) en SU(2).
+Más bien, el homomorfismo va del grupo simplemente conectado SU(2) al grupo no simplemente conectado SO(3).
+Si G y H están ambos simplemente conectados y tienen álgebras de Lie isomorfas, el resultado anterior permite demostrar que G y H son isomorfas.
+Un método para construir f es usar la fórmula de Baker-Campbell-Hausdorff.
+Quizás la prueba más elegante del primer resultado anterior utiliza el teorema de Ado, que dice que cualquier álgebra de Lie de dimensión finita (sobre un campo de cualquier característica) es un subalgebra de Lie del álgebra de Lie de matrices cuadradas.
+La prueba es la siguiente: según el teorema de Ado, se supone que es un subalgebra de Lie.
+Sea G el subgrupo de generado por  y sea  ser un recubrimiento simplemente conexo de G; no es difícil demostrar que  es un grupo de Lie y que la aplicación de recubrimiento es un homomorfismo del grupo de Lie.
+Dado que, se completa la prueba.
+Ejemplo: cada elemento X en el álgebra de Lie da lugar al homomorfismo del álgebra de Lie
+Según el tercer teorema de Lie, como, y su exp es la identidad, este homomorfismo es el diferencial del homomorfismo del grupo Lie para algunos subgrupos sumergidos H de G. Este homomorfismo de grupo de Lie, llamado subgrupo uniparamétrico generado por X, es precisamente el mapa exponencial  y H su imagen.
+Lo anterior se puede resumir en que existe una correspondencia biyectiva canónica entre y el conjunto de subgrupos uniparamétricos de G.
+Un enfoque para probar la segunda parte de la correspondencia del grupo de Lie-álgebra de Lie (el teorema de los homomorfismos) es utilizar la fórmula de Baker-Campbell-Hausdorff, como en la Sección 5.7 del libro de Hall.
+Específicamente, dado el homomorfismo del álgebra de Lie \phi desde a, se puede definir f: G \to H localmente (es decir, en un vecindario de la identidad) por la fórmula
+dónde e^X es el mapa exponencial de G, que tiene un inverso definido cerca de la identidad.
+Ahora, afirmando que f es un homomorfismo local.
+Por lo tanto, dados dos elementos cerca de la identidad e^X y e^Y (con X e Y pequeños), consideramos su producto e^Xe^Y.
+De acuerdo con la fórmula de Baker-Campbell-Hausdorff, se tiene que e^Xe^Y=e^Z, donde
+con \cdots indicando otros términos expresados como conmutadores repetidos que involucran a X e Y. Así,
+porque \phi es un homomorfismo del álgebra de Lie.
+Usando la fórmula Baker-Campbell-Hausdorff nuevamente, esta vez para el grupo H, se ve que esta última expresión se convierte en y por lo tanto se tiene que
+Por lo tanto, f tiene la propiedad de homomorfismo, al menos cuando X e Y son suficientemente pequeños.
+Es importante enfatizar que este argumento es solo local, ya que la aplicación exponencial solo es invertible en un pequeño vecindario de la identidad en G y dado que la fórmula de Baker-Campbell-Hausdorff solo se cumple si X e Y son pequeños.
+Téngase en cuenta también que todavía no se ha utilizado la suposición de que G esté simplemente conectado.
+La siguiente etapa en el argumento es extender f de un homomorfismo local a uno global.
+La extensión se realiza definiendo f a lo largo de una ruta y luego usando la conexión simple de G para mostrar que la definición es independiente de la elección de la ruta.
+Un caso especial de correspondencia de Lie es una correspondencia entre representaciones de dimensiones finitas de un grupo de Lie y representaciones del álgebra de Lie asociada.
+El grupo lineal general es un grupo de Lie (real) y cualquier homomorfismo del grupo de Lie
+se llama una representación del grupo de Lie G. El diferencial
+es entonces un homomorfismo del álgebra de Lie llamado representación del álgebra de Lie (el diferencial d \pi a menudo simplemente se denota por \pi).
+El teorema de los homomorfismos (mencionado anteriormente como parte de la correspondencia del grupo de Lie-álgebra de Lie) dice que si G es el grupo de Lie simplemente conectado cuyo álgebra de Lie es, cada representación de proviene de una representación de G. La suposición de que G debe estar simplemente conectado es esencial.
+Considérese, por ejemplo, el grupo de rotación SO(3), que no está simplemente conectado.
+Hay una representación irreducible del álgebra de Lie en cada dimensión, pero solo las representaciones de dimensiones impares del álgebra de Lie provienen de representaciones del grupo.
+Esta observación está relacionada con la distinción entre giro entero y giro medio entero en mecánica cuántica.
+Por otro lado, el grupo SU(2) simplemente está conectado con el álgebra de Lie isomorfo al de SO(3), por lo que cada representación del álgebra de Lie de SO(3) da lugar a una representación de SU(2).
+Un ejemplo de una representación de grupo de Lie es la representación adjunta de un grupo de Lie G; cada elemento g en un grupo de Lie G define un automorfismo de G por conjugación: ; el diferencial d c_g es entonces un automorfismo del álgebra de Lie.
+De esta manera, se obtiene una representación, llamada la representación adjunta.
+El correspondiente homomorfismo del álgebra de Lie se llama la representación adjunta de  y se denota por.
+Se puede demostrar que, lo que en particular implica que el soporte de Lie está determinado por la ley de grupo sobre G.
+Según el tercer teorema de Lie, existe un subgrupo de  al que pertenece el álgebra de Lie.
+(en general no es un subgrupo cerrado; solo un subgrupo inmerso).
+Se llama el grupo adjunto de.
+Si G está conectado, se ajusta a la secuencia exacta:
+donde Z(G) es el centro de G. Si el centro de G es discreto, entonces Ad es aquí una aplicación de recubrimiento.
+Sea G un grupo de Lie conectado.
+Entonces G es unimodular si y solo si para todo g en G.
+Supóngase que G sea un grupo de Lie que actúa sobre una variedad X y sea Gx el estabilizador de un punto x en X. A su vez,.
+Entonces
+Para un subconjunto A de o G, sea
+que son el centralizador de álgebra de Lie y el centralizador de grupo de Lie de A. Luego.
+Si H es un subgrupo conectado de G cerrado, entonces H es normal si y solo si es un ideal y en tal caso.
+Sea G un grupo de Lie conectado.
+Dado que el álgebra de Lie del centro de G es el centro del álgebra de Lie de G (véase el § anterior), G es abeliano si y solo si su álgebra de Lie es abeliana.
+Si G es abeliano, entonces la aplicación exponencial es un grupo de homomorfismo suryectivo.
+Su núcleo es un grupo discreto (ya que su dimensión es cero) llamado la red entera de G y se denota por \Gamma.
+Según el primer teorema del isomorfismo, induce el isomorfismo.
+Por el argumento de rigidez, el grupo fundamental \pi_1(G) de un grupo de Lie conectado G es un subgrupo central de un recubrimiento simplemente conectado de G; en otras palabras, G encaja en la extensión central
+Equivalentemente, dado un álgebra de Lie y un grupo de Lie simplemente conectado  cuya álgebra de Lie es, hay una correspondencia uno a uno entre cocientes de  por subgrupos centrales discretos y grupos de Lie conectados que tienen álgebra de Lie.
+Para el caso complejo, los toros complejos son importantes; véase el grupo de Lie complejo para este tema.
+Sea G un grupo de Lie conectado con un centro finito.
+Entonces, las afirmaciones siguientes son equivalentes:
+Es importante enfatizar que la equivalencia de las condiciones anteriores se cumple solo bajo el supuesto de que G tiene un centro finito.
+Así, por ejemplo, si G es compacto con centro finito, el recubrimiento universal también es compacto.
+Claramente, esta conclusión no se cumple si G tiene un centro infinito, por ejemplo, si G=S^1.
+Téngase en cuenta también que las últimas tres condiciones anteriores son puramente de naturaleza algebraica.
+Si G es un grupo de Lie compacto, entonces
+donde el lado izquierdo es la cohomología del álgebra de Lie de y el lado derecho es la cohomología de G de De Rham (aproximadamente, esto es una consecuencia del hecho de que cualquier forma diferencial en G puede hacerse invariable por el argumento del promedio).
+Sea G un grupo de Lie.
+El álgebra de Lie asociada de G puede definirse alternativamente como sigue.
+Sea A(G) el álgebra de distribuciones en G con soporte en el elemento de identidad con la multiplicación dada por convolución.
+A(G) es de hecho un álgebra de Hopf.
+El álgebra de Lie de G es entonces, el álgebra de Lie de elementos primitivos en A(G).
+Según el teorema de Milnor-Moore, existe el isomorfismo canónico entre el álgebra envolvente universal de  y A(G).

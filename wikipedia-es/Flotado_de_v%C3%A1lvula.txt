@@ -1,0 +1,9 @@
+El flotado de válvulas se da en los motores de combustión interna de cuatro tiempos, siendo un fenómeno que se produce a altas RPM del motor.
+Sucede cuando el resorte no puede cerrar a tiempo la válvula sobre su asiento, luego que la leva actuó sobre esta, siendo empujada nuevamente por dicha leva.
+Cuando se da esta condición, se dice que la válvula permanece "flotando" y no llega a cerrarse, lo que produce una importante pérdida de rendimiento.
+La única forma de recuperar el motor de esta condición es bajando su velocidad (bajar las RPM); de no hacerlo, se corre el riesgo de doblar los vástagos de las válvulas o de romperlas al golpear contra los pistones.
+Rebote de válvula: Es una condición similar, se da cuando la válvula se cierra, y el efecto combinado de la inercia de la válvula y la resonancia del resorte reducen la fuerza con la que cierra, permitiendo que la válvula se abra parcialmente inmediatamente después de cerrarse.
+Soluciones: resortes de válvulas más duros pueden evitar el flotado y el rebote de válvulas, pero a expensas de aumentar las pérdidas de potencia por fricción, y aumentar la fatiga en todo el sistema de válvulas.
+Varias técnicas han sido utilizadas para compensar el efecto de resortes más rígidos, como el doble resorte, resorte progresivo, taqués con rodillos y válvulas neumáticas.
+El fabricante de motos italiano Ducati utiliza el sistema de válvulas desmodrómico, el que consta, esencialmente, de una leva para abrir la válvula y otra para cerrarla, lo que evita el uso de resortes, y permite alcanzar altas RPM.
+Los fabricantes de motores de Fórmula 1 utilizan un sistema de válvulas neumático, para alcanzar altas RPM y evitar el flotado de las válvulas.

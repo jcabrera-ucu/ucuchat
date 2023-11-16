@@ -1,0 +1,4 @@
+La conjugación cruzada es un tipo especial de conjugación en una molécula, donde, en un conjunto de tres enlaces pi, sólo dos orbitales pi interactúan por conjugación, el tercero está excluido de la interacción.
+En términos clásicos, significa que la alternancia estricta de enlaces simples y dobles (-CH=CH–CH=CH–CH-) está interrumpida por dos enlaces simples consecutivos en cada punto de conjugación cruzada, en el esquema: -CH=CH–C(=CH)–CH=CH-.
+Algunos ejemplos de conjugación cruzada pueden encontrarse en moléculas como benzofenona, diviniléter, dendralenos y fulerenos.
+El tipo de conjugación tiene un impacto en la reactividad y transiciones electrónicas moleculares.

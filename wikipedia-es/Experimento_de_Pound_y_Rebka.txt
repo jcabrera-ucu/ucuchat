@@ -1,0 +1,34 @@
+El experimento Pound-Rebka es un experimento bien conocido para probar la teoría de la Relatividad General de Albert Einstein.
+Fue propuesto por R. V. Pound y G. A. Rebka Jr. en 1959, y fue la última de las pruebas clásicas de la relatividad general en ser verificadas (en ese mismo año).
+Es un experimento de corrimiento al rojo gravitacional, que mide el corrimiento al rojo de la luz que se mueve en un campo gravitatorio, o, de forma equivalente, una prueba de la predicción de la Relatividad General de que los relojes deberían ir a diferentes velocidades en diferentes lugares de un campo gravitatorio.
+Se considera que fue el experimento que introdujo una era de pruebas de precisión de la Relatividad General.
+La prueba está basada en el siguiente principio: cuando un átomo sufre una transición de un estado excitado a un estado base, emite un fotón con una frecuencia y energía específicas(no del todo).
+Cuando el mismo átomo en su estado base encuentra un fotón con esa misma frecuencia y energía, lo absorberá y sufrirá una transición al estado excitado.
+Si la frecuencia y la energía del fotón son diferentes es menos probable que el átomo pueda absorberlo (esta es la base de la teoría cuántica).
+Cuando el fotón viaja en un campo gravitatorio, su frecuencia y, por tanto, su energía, cambia debido al corrimiento al rojo gravitatorio.
+Como resultado, el átomo receptor muy raramente puede absorberlo.
+Pero si el átomo emisor se mueve justamente a la velocidad relativa correcta al átomo receptor, el corrimiento doppler resultante se cancelará con el corrimiento al rojo gravitacional y el átomo receptor podrá absorber el fotón.
+La velocidad relativa "correcta" de los átomos es por tanto una medida del corrimiento al rojo gravitacional.
+La energía asociada con el corrimiento al rojo gravitacional a una distancia de 22.5 metros es muy pequeña.
+El cambio fraccional en la energía viene dado por δE/E, es igual a gh/c2=2.5x10-15.
+Por tanto, se requieren fotones de alta energía (longitud corta de onda) para detectar estas diferencias diminutas.
+(Piénsese que la longitud de onda es la distancia entre los hitos de una regla).
+Los rayos gamma de 14 kev emitidos por el hierro-57 cuando sufre una transición de su estado base son apropiados para este experimento.
+Normalmente, cuando un átomo emite o absorbe un fotón, se mueve también un poco (de rebote), lo cual resta algo de energía del fotón debido al principio de conservación del momento.
+El corrimiento doppler requerido para compensar este efecto de rebote sería mucho mayor (unos 5 órdenes de magnitud) que el corrimiento doppler necesario para compensar el corrimiento al rojo gravitacional.
+En 1958, Mößbauer informó que todos los átomos de una capa sólida absorben la energía de rebote cuando un átomo de la capa emite un rayo gamma.
+Por tanto, el átomo emisor se mueve muy poco (de forma similar a un cañón, que no rebota mucho cuando se ponen muchas bolsas de arena tras él).
+Esto permitió a Pound y Rebka preparar su experimento como una variación de la espectroscopia de Mößbauer.
+La prueba se llevó a cabo en el laboratorio Jefferson de la Universidad de Harvard.
+Una muestra sólida compuesta de hierro (57Fe) emisor de rayos gamma fue colocada en el centro de un cono de altavoz que fue colocado junto al tejado del edificio.
+Otra muestra compuesta de 57Fe fue colocada en el sótano.
+La distancia entre esta fuente y el receptor era de 22.5 metros.
+Los rayos gamma viajaron a través de una bolsa de Mylar llena de helio, para minimizar la dispersión de los rayos gamma.
+Se colocó un contador de escintilación debajo de la muestra receptora de 57Fe para detectar los rayos gamma que no fueran absorbidas por la muestra receptora.
+Haciendo vibrar el cono de altavoz, la fuente de rayos gamma se movía con velocidad variable, creando así corrimientos doppler variables.
+Cuando el corrimiento doppler se cancela con el corrimiento al rojo gravitacional, la muestra receptora absorbe rayos gamma y el número de rayos gamma detectado por el contador de escintilación disminuye de forma acorde.
+La variación en absorción puede ser relacionada con la fase de la vibración del altavoz, por tanto con la velocidad de la muestra emisora, y por tanto con el corrimiento doppler.
+Para compensar posibles errores sistemáticos, Pound y Rebca variaron la frecuencia del altavoz entre 10Hz y 50Hz, intercambiando la fuente y el receptor-detector, y usaron diferentes altavoces (ferroeléctricos y electroimanes móviles transductores).
+Los resultados confirmaron que las predicciones de la Relatividad General estaban soportadas por las observaciones al nivel 10% de confianza.
+Más tarde se refinó el resultado, consiguiendo mejorar el nivel 1% de confianza, por Pound y Snider.
+Otra prueba usando un máser de hidrógeno incrementó la precisión de la medida.

@@ -1,0 +1,13 @@
+El Samsung Galaxy Z Fold 3 (estilizado como Samsung Galaxy Z Fold3, vendido como Samsung Galaxy Fold 3 en ciertos territorios) es un teléfono inteligente plegable que forma parte de la serie Samsung Galaxy Z.
+Samsung Electronics lo reveló el 11 de agosto de 2021 en el evento Galaxy Unpacked junto con el Z Flip 3.
+Es el sucesor del Samsung Galaxy Z Fold 2.
+En marzo de 2022, Samsung renombró el dispositivo como "Galaxy Fold 3" en ciertos territorios de Europa del Este por razones de confidencialidad relacionadas con la invasión rusa de Ucrania.
+La pantalla exterior y el panel trasero del Z Fold 3 usan Gorilla Glass Victus, mientras que la pantalla interior plegable está hecha de "Ultra-Thin Glass" propiedad de Samsung, con dos capas protectoras de plástico que la cubren.
+El Z Fold 3 tiene una clasificación de protección de ingreso IPX8 para resistencia al agua, sin clasificación de resistencia al polvo.
+El marco exterior está construido de aluminio, comercializado como 'Armor Frame' por Samsung, que se afirma que es un 10% más resistente que el marco de aluminio del Z Fold 2.
+El Galaxy Z Fold 3 tiene dos pantallas: su pantalla exterior, que es una pantalla de 6,23 pulgadas con una frecuencia de actualización variable de 120 Hz, y su pantalla interior plegable, que es una pantalla de 7,6 pulgadas y 120 Hz, con soporte para el S Pen Pro y la edición S Pen Fold.
+El dispositivo tiene 12 GB de RAM y 256 o 512 GB de almacenamiento flash UFS 3.1, sin soporte para expandir la capacidad de almacenamiento del dispositivo a través de tarjetas micro-SD.
+El Z Fold 3 equipa el Qualcomm Snapdragon 888, actualizado desde el Snapdragon 865+ del Z Fold 2.
+La batería incluida del dispositivo es una de doble celda de 4400 mAh que se carga rápidamente a 25 W a través de un cable USB-C, o mediante carga inalámbrica de hasta 10 W.
+El Z Fold 3 cuenta con 3 cámaras traseras, incluida una cámara principal de 12 MP, una cámara ultra gran angular de 12 MP y una cámara de teleobjetivo de 12 MP, y cuenta con dos cámaras frontales, una cámara selfie de 10 MP en la pantalla exterior y una cámara debajo de la pantalla de 4MP en la pantalla interna plegable.
+Samsung deshabilitará las funciones relacionadas con la cámara si el usuario intenta desbloquear el gestor de arranque.

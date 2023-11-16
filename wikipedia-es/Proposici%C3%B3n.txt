@@ -1,0 +1,114 @@
+En filosofía y lógica, el término proposición se usa para referirse a: Intuitivamente una proposición expresa un contenido semántico a la que, bajo cierto procedimiento acordado o prescrito, es posible asignarle un valor de verdad (usualmente "verdadero" o "falso", aunque en lógica formal se admiten otros valores de verdad diferentes).
+Una proposición es una cadena de signos expresados en un determinado lenguaje.
+En un lenguaje natural, esos signos usualmente son sonidos o caracteres escritos, mientras que un tipo de lenguaje formalizado pueden ser signos arbitrarios.
+Dado que los lenguajes son tipos de estructuras combinatorias que admitidamente pueden representar entidades de la realidad, se admite que las proposiciones son cadenas de signos a las que es posible emparejar con objetos reales.
+Es importante notar que lo que hace de una cadena de signos una proposición, es que sea interpretable (ya que existen por ejemplo cadenas de signos u oraciones de un lenguaje que carecen de un referente o interpretación bien definidos).
+En ese sentido una proposición puede entenderse como un producto lógico del pensamiento humano que es expresado mediante una lengua natural, aunque también existen lenguajes formales (como la notación matemática).
+Una proposición expresada en lenguaje natural deberá ser una oración gramatical o como mínimo una oración semánticamente no vacía, mientras que una proposición expresada en un lenguaje formal deberá ser una cadena de signos que constituya una fórmula bien formada.
+En lógica tradicional se distinguen la proposición y el juicio, por cuanto la primera es el producto lógico del acto por el cual se afirma o se niega algo de algo, mientras ese acto constituye el juicio.
+Para Aristóteles, la proposición es un discurso enunciativo perfecto, que se expresa en un juicio que significa lo verdadero y lo falso como juicio de términos.
+Por eso el juicio es una afirmación categórica, es decir, incondicionada porque representa adecuadamente la realidad.
+En lógica formal se identifica una proposición lógica con una fórmula bien formada usando los símbolos del alfabeto que caracteriza al lenguaje formal que se esté empleando.
+Las reglas de buena formación garantizan que la proposición sea interpretable en términos de verdad o en un modelo formal.
+Las fórmulas mal formadas de hecho no pueden tener valor de verdad ya que no existe garantías de que sean interpretables y por tanto puedan tener un valor de verdad.
+Un enunciado lingüístico (generalmente en la forma gramatical de una oración enunciativa) puede ser considerado como proposición lógica cuando es susceptible de poder ser verdadero o falso.
+Por ejemplo «Es de noche» puede ser verdadero o falso.
+Aunque existen lógicas polivalentes, en orden a la claridad del concepto, aquí consideramos únicamente el valor de verdad o falsedad.
+La condición de ser susceptible de ser verdadero o falso requiere además algunas propiedades formales:
+Según su estructura o complejidad interna las proposiciones pueden clasificarse en:
+Debe notarse que proposición se refiere a contenidos semánticos (a la relación entre una expresión lingüística y un hecho del mundo real), mientras que el término enunciado se refiere a un hecho pragmático usualmente realizado a través de una actuación lingüística como es una oración.
+Así por ejemplo, “Llueve” es un oración, al igual que “It rains” y ambas oraciones expresan la misma proposición lógica por cuanto ambos representan siempre el mismo valor.
+También se distingue la proposición de la creencia.
+Apreciar, percibir que llueve como acto interno del individuo fundamenta la creencia, con independencia de su expresión lingüística.
+Podríamos de alguna forma considerarlo como pensamiento.
+Mirar por la ventana y constatar que llueve suscita una creencia de que “está lloviendo”, con independencia de que se exprese afirmándolo en un enunciado.
+Como proposición, (independiente de las creencias y los pensamientos de cualquiera; con independencia del lenguaje o forma de expresión lingüística en el que se exprese el pensamiento, incluso de la realidad de que llueva o no llueva), a la lógica lo que le interesa es únicamente la función: «poder ser verdadero o falso».
+Algunos filósofos, por eso, llegaron a pensar que la lógica habla de lo posible, lo que puede ser o no ser, o de “mundos composibles”, pero no de lo real.
+(Mundo = conjunto determinado de posibles compatibles en una unidad posible).
+La lógica se preocupa de las proposiciones; y estudia las formas válidas según las cuales a partir de la verdad o falsedad de una o varias proposiciones se pueda argumentar o inferir la verdad o falsedad de otras.
+Por eso la verdad lógica es una verdad formal, que no tiene contenido.
+Eso explica por qué puede establecer sus leyes y reglas de modo simbólico, construyendo diversos cálculos que puedan modelizar algunos contextos lingüísticos o teorías científicas, de forma semejante a las matemáticas.
+Su elemento fundamental es la proposición lógica y la definición de las reglas que, tomadas como leyes lógicas, permiten la transformación de unas expresiones bien formadas (EBF)s en otras equivalentes, como inferencias.
+Tengamos en cuenta que el cálculo lógico basado en valor V y F, traducido como sistema binario a 1 y 0, es la base sobre la que se han construido las máquinas de cálculo y los ordenadores o computadoras.
+Los enunciados y los juicios subjetivos son estudiados por otras ciencias.
+En lógica proposicional y lógica de primer orden (y en menor medida en las lenguas naturales) existe una forma de clasificar las proposiciones de acuerdo a su estructura interna.
+Una proposición atómica, fórmula atómica o simple puede ser representada por una única variable proposicional inanalizable (en el contexto de la lógica proposicional) o como una fórmula bien formada donde todas las variables están ligadas (en el contexto de la lógica primer de primer orden).
+Si establecemos conexiones lógicas entre varias proposiciones según unas reglas perfectamente establecidas en sus elementos simbólicos y definidas como funciones de verdad, construiremos proposiciones moleculares o compuestas.
+Una proposición molecular es analizable a partir de los valores de verdad de las partes.
+Así las condiciones de verdad de una proposición molecular, pueden derivarse sistemáticamente de las proposiciones atómicas que la forman.
+Así la proposición «Si llueve, entonces el suelo está mojado», enlaza la proposición «llueve» con la proposición «el suelo está mojado», bajo el aspecto de función de verdad «si… entonces…».
+El valor de verdad de una proposición lógica atómica (o variable proposicional) en lógica bivalente es, por definición, verdadero o falso (podemos representarlo como V o F).
+En lógica polivalente pueden existir más valores de verdad además de V o F. Por ejemplo en lógica difusa el valor de verdad de una proposición se representa por un número del intervalo cerrado [0,1] (nótese que aquí el conjunto de valores de verdad es infinito), este número se interpreta como la probabilidad de que una proposición sea cierta (dado que la probabilidad es un número entre 0 y 1).
+Así el enunciado «llueve» es verdadero si y sólo si está lloviendo en ese momento.
+Pero si dicho enunciado se considera como proposición lógica atómica, p, entonces puede ser tanto verdadera como falsa.
+Es una verdad de hecho o contingente, porque tiene los dos posibles valores de verdad, por la propia definición de proposición lógica.
+El contenido de la relación de un enunciado con lo real no es objeto de la lógica sino de otras ciencias.
+El valor de verdad de una proposición molecular puede ofrecer los siguientes casos:
+El valor lógico V (verdad) de la proposición “llueve y hace calor”, sólo se dará en el caso de que las dos proposiciones “llueve” (p) y “hace calor” (q) sean tomadas en su valor de V; en los demás casos será falsa.
+Sin embargo en la proposición “llueve o hace calor” basta que una de las dos sea considerada en su valor de verdad V para que la proposición molecular sea verdadera.
+La función “y” conjuntiva y la función “o” disyuntiva se definen en tablas de verdad, como funciones de verdad, functores o conectivas.
+Las dos proposiciones moleculares enunciadas más arriba pueden ser verdaderas o falsas según sean los valores que tomemos en consideración en cada una de las proposiciones que la integran.
+Por eso ambas son contingentes.
+El valor de verdad de la proposición “llueve y no llueve” es una contradicción y siempre será falsa, con independencia del valor que consideremos V o F de “llueve” (p) y de “no llueve” (¬p).
+La función de verdad “no” se define mediante una tabla de verdad.
+El valor de verdad de la proposición “llueve o no llueve”, es una tautología y siempre será verdadera con independencia de los valores que consideremos de “llueve” (p) o de “no llueve” (¬p).
+El análisis del valor de verdad de una proposición se realiza mediante las tablas de verdad.
+Las tautologías se constituyen como «leyes lógicas» o «verdades formales» y son la base sobre la que se construyen las reglas de inferencia en el razonamiento o cálculo lógico.
+Si bien pueden estudiarse las proposiciones como elementos dados de los cuales estudiar sus condiciones de verdad, es más útil analizar lógicamente las proposiciones mediante diferentes enfoques :
+Tradicionalmente la lógica aristotélica consideraba de esta forma las proposiciones lógicas.
+Este tipo de análisis está claramente en desuso, pues introduce el verbo «ser» como referencia a la realidad que, por definición, es un elemento extralógico.
+Por eso Aristóteles consideraba la validez formal de sus argumentos como silogismo categórico.
+Hoy día no se acepta dicha argumentación como categórica, lo que no quita nada a la validez formal del silogismo.
+Hoy día la lógica aristotélica se «interpreta» como lógica de clases: Como la unión o separación de clases que tienen o no tienen una propiedad común.
+Una clase es el concepto de una propiedad que puede definir o no a una colección o conjunto de individuos.
+La clase tiene su sentido aun cuando no existan individuos que pertenezcan a ella; pero los individuos que pertenecen a ella están de esta manera clasificados.
+La proposición así analizada queda definida como relación entre clases.
+Una entidad es un conjunto cuando existe una clase de la que es elemento.
+La proposición “los perros son mamíferos”, se interpreta como la clase de los mamíferos incluye a la clase de los perros o dicho de otra forma: “Todos los individuos que pertenezcan a la clase de los perros pertenecerán a la clase de los mamíferos”.
+Es importante no confundir la clase lógica con la clase natural o conjunto.
+El referente del conjunto son los individuos, considerados en cuanto elementos "pertenecientes" o no "pertenecientes" al conjunto, y siempre y cuando estén cuantificados en orden a su existencia o no existencia.
+Una clase lógica, en cambio, es definida por una propiedad, haya o no haya individuos, existan o no existan.
+La confusión proviene de que el conjunto, en muchas ocasiones, se define como "clase" por una propiedad, siendo entonces al mismo tiempo una clase lógica,(cfr. nota 8).
+La clase "Pegaso" entendida como propiedad de "caballos voladores" es algo con un sentido lingüístico y cultural, pero no dice nada acerca de la existencia de individuos que posean dicha propiedad.
+La lógica considera la propiedad "pegaso" como un posible, siempre y cuando no implique en su concepto una contradicción, como sería la propiedad de "circunferencia cuadrada".
+A veces se confunde erróneamente el uso de un concepto como clase lógica o un Todo-lógico, distribuido o no-distribuido, como si fuera un conjunto de individuos existentes.
+Tal puede ocurrir cuando se utilizan lingüísticamente "pronombres vagos" o "pronombres perezosos" que llama Quine.
+Se utiliza el término "algo", algún o algunos, cualquiera o todo o todos (considerando tales pronombres como sustitución de uno, uno por uno o cualquiera de todos o algunos de los posibles elementos de la clase como si fueran individuos reales y existentes. Por ello "un conjunto vacío" es igual a otro conjunto vacío, porque son la misma clase lógica sin definición alguna. Pero una "Clase definida" no es igual a otra. "Pegaso" no es igual que "Unicornio" aunque ambas sean "vacías". Y no conviene confundir la lógica con la teoría de conjuntos. Se confunde de este modo la clase lógica con la clase natural como si fuera aquella un conjunto enumerable. Una clase lógica significa toda la extensión lógica o el dominio de discurso de un concepto expresado como término lingüístico que significa posibles individuos de cuya existencia no sabemos nada.
+La existencia se reconoce en un sistema de referencia de lenguaje objeto o primer nivel como lógica de primer orden.
+Las propiedades lógicas sitúan su referencia en una lógica de segundo orden.
+La clase ordena, clasifica todo universo, total o parcialmente definido, en dos clases: dicha clase y su clase complementaria.
+Cualquier individuo del universo se define por pertenecer o no pertenecer a una clase.
+En el caso de Maximiliano, Maximiliano es una clase entera, universal, porque únicamente está formada por un único individuo: Maximiliano.
+El enunciado anterior ha de leerse ahora como: "La clase Maximiliano=Maximiliano, pertenece a la clase de los seres que corren".
+El valor de verdad de las proposiciones atómicas parte de los individuos x, y, z, etc. considerados únicamente como pertenecientes o no pertenecientes a una clase.
+Los valores de verdad de las proposiciones moleculares y sus relaciones con otras proposiciones surgen a partir de las relaciones y operaciones entre las clases.
+La lógica de clases estudia dichas operaciones y sus conectivas lógicas.
+En matemáticas las clases se consideran como conjuntos y los individuos son considerados como elementos:
+”Maximiliano corre” es ahora analizado como Fx en que el argumento x es reemplazado por Maximiliano y F como predicado reemplaza a correr.
+Por lo mismo F(x, y) cuando x es Maximiliano e y es Fernando.
+Para proposiciones generales y particulares hay que utilizar cuantificadores Para todo x se cumple Fx.
+Así "[Todos los hombres] son mortales" se interepreta como "x es un hombre" y F es "ser mortal".
+se interpreta como "Existe algún x en el que se cumple Fx" o "Algunos hombres son mortales".
+Pepe ama a María es ahora analizada como Rab, donde R es la relación que simboliza "amar a"; a es Pepe y b es María.
+Nótese que no es lo mismo que Rba, pues sería María ama a Pepe.
+Lo que da lugar a una lógica de relaciones.
+Los cálculos pueden ser eternamente infinitos según consideremos las proposiciones y definamos las reglas.
+Pero a la lógica le interesan aquellos que resultan útiles para ser aplicados a un ámbito específico, capaces de generar modelos de interpretación, bien sean lingüísticos o de otra clase.
+El llamado cálculo de deducción natural, es el más fácilmente ligado a la expresión lingüística habitual.
+Las proposiciones en la lógica aristotélica pueden ser afirmativas o negativas.
+En lógica bivalente o lógica binaria, la negación de una proposición negativa equivale a una afirmativa.
+El predicado de una proposición negativa está tomado en su extensión universal, se refiere a todos.
+El predicado de una proposición afirmativa está tomado en su extensión particular, algunos.
+Por su extensión, las proposiciones pueden clasificarse en universales, cuando el sujeto está tomado en su extensión universal ("Todo S es P"), particulares, cuando el sujeto está tomado en su extensión particular ("Algún S es P").
+La combinación de ambos criterios da lugar a los siguientes tipos de proposiciones:
+Las proposiciones son los elementos a partir de los cuales se construyen los razonamientos.
+La lógica aristotélica estudia los razonamientos según un esquema llamado silogismo.
+La lógica matemática estudia los sistemas formales, formados por conjuntos de signos y reglas combinatorias definidas axiomáticas, que son interpretables semánticamente.
+La lógica matemática suele dividirse en cuatro subcampos: teoría de modelos, teoría de la demostración, teoría de conjuntos y teoría de la recursión.
+En lógica matemática, la noción fundamental es la de lenguaje formal, un lenguaje formal viene definido por tres elementos:
+Una cuestión planteada a propósito de las proposiciones es:
+Tradicionalmente en filosofía, se ha considerado que la verdad lógica es independiente del lenguaje empleado para definirla y, por tanto, ha considerado, que la proposición representa la estructura lingüística como algo independiente de los enunciados:
+Los que consideran que la verdad únicamente es aplicable al mundo y a los enunciados directamente, sin tener que llegar a la fusión de la lógica con el lenguaje, consideran la proposición como un artilugio conceptual inútil:
+Ciertamente la verdad lógica se ha de mantener, como verdad, a través de todas las sustituciones léxicas, y no depende de los rasgos del mundo que se expresan mediante el léxico.
+Pero:
+Lo que tal vez nos remita a la noción de la creencia como evidencia, anterior a la mera constitución del signo y su articulación lingüística.

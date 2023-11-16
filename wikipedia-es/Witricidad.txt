@@ -1,0 +1,30 @@
+Witricidad (del inglés witricity o wireless electricity) es una marca registrada de la corporación WiTricity que se refiere a los dispositivos y procesos que utilizan una forma de transferencia inalámbrica de energía para proporcionar energía eléctrica sin el uso de cables a objetos a distancia utilizando para ello campos magnéticos oscilantes.
+La witricidad utiliza los campos de resonancia magnética para disminuir la pérdida de energía.
+El término witricity fue utilizado para un proyecto dirigido por el Profesor Marin Soljačić en 2007.
+La witricidad se basa en un fuerte acoplamiento entre objetos electromagnéticos resonantes para la transferencia inalámbrica de energía entre ellos.
+Esto difiere de otros métodos como inducción simple, microondas, o ionización del aire.
+El sistema consta de transmisores y receptores que contienen antenas de bucle magnético exactamente sintonizados a la misma frecuencia.
+Debido a que operan en el campo electromagnético cercano, los dispositivos receptores deben estar a no más de un cuarto de la longitud de onda del emisor (que es de unos pocos metros para la frecuencia utilizada por el sistema de ejemplo).
+En su primer trabajo, el grupo también simuló resonadores dieléctricos de Ghz.
+A diferencia de los sistemas de transmisión inalámbrica de energía de campo lejano basados en las ondas electromagnéticas, la witricidad emplea el Acoplamiento inductivo resonante de campo cercano mediante campos magnéticos similares a los encontrados en los transformadores, excepto en que la bobina del primario y del secundario están físicamente separadas, y ajustadas para resonar al aumentar su acoplamiento magnético.
+Estos campos magnéticos sintonizados generados por la bobina primaria se pueden ajustar para interactuar fuertemente con los arrollamientos secundarios emparejados en el equipo a distancia, pero mucho más débilmente con los objetos circundantes o los materiales tales como las señales de radio o los tejidos biológicos.
+En particular, WiTricity se basa en el uso de resonancias “fuertemente acopladas" para lograr una transmisión de energía de alta eficiencia. Aristeidis Karalis, refiriéndose a la demostración experimental del equipo, dice que la usual inducción electromagnética no resonante podría ser casi 1 millón de veces menos eficiente en este sistema en particular. Los investigadores sugieren que los niveles de exposición están por debajo del umbral de las normas de seguridad de la FCC, y los niveles de potencia radiada también cumplen con las regulaciones de interferencia de radio de la FCC.
+Hace más de 100 años que esta tecnología fue inicialmente descubierta por Nikola Tesla.
+Los investigadores atribuyen la demora en desarrollar estas leyes físicas bien conocidas a las limitaciones de la tecnología y la simple falta de necesidad.
+Sólo recientemente los modernos consumidores poseen un gran número de dispositivos electrónicos portátiles que actualmente requieren de baterías y de cargadores.
+Los investigadores del Instituto de Tecnología de Massachusetts (MIT) demostraron con éxito la capacidad para suministrar energía a una bombilla de 60 vatios de forma inalámbrica, usando dos bobinas de cobre de 5 vueltas y 60 cm de diámetro, que estaban situadas a 2 m de distancia, con aproximadamente un 45% de eficiencia.
+Las bobinas fueron diseñadas para resonar ambas a 9,9 MHz y orientadas a lo largo del mismo eje.
+Una de ellas estaba conectada inductivamente a una fuente de energía, y la otra a una bombilla.
+La configuración suministraba energía a la bombilla, incluso cuando la línea directa de visión se bloqueaba mediante un panel de madera.
+La tecnología emergente fue demostrada por Eric Giler, director ejecutivo de la empresa estadounidense WiTricity, en la TED Global Conference celebrada en Oxford (Inglaterra) en julio de 2009.
+En esta demostración, Giler mostró que una unidad de energía WiTricity podía encender un televisor, así como tres teléfonos celulares.
+En 2010 la compañía china Haier demostró en el Consumer Electronics Show un televisor de alta definición funcionando totalmente sin cables, para lo que se valió de la witricidad.
+Las bobinas de cable eléctrico que hoy desarrolla WiTricity resultan ser un acto de justicia histórica.
+Basadas en el invento de Tesla, una vez que se enchufan a un tomacorriente esas bobinas de resonancia generan un campo magnético.
+Si otra bobina se encuentra lo suficientemente cerca de este campo, se produce una carga eléctrica sin que medie ningún cable.
+El resultado es la transferencia de energía de forma inalámbrica.
+El método resulta ser perfectamente seguro, ya que se trata de campos magnéticos como los utilizados por la tecnología Wi-Fi.
+La compañía ha demostrado la capacidad de sus equipos para dotar de energía a los dispositivos portátiles, televisores y lámparas mediante el añadido de bobinas de resonancia en baterías y fuentes eléctricas.
+También se encuentra trabajando en un cargador inalámbrico para vehículos eléctricos.
+Yendo aún más lejos, se prevén aplicaciones para dispositivos trasplantados bajo la piel y que podrían ser recargados de manera no intrusiva.
+En cualquier caso, el desafío de hoy pasa por incrementar la potencia de las bobinas de resonancia para lograr campos magnéticos con mayor alcance, es decir, que generen electricidad a mayor distancia.

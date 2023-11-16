@@ -1,0 +1,7 @@
+Digital Interface for Video and Audio (Interfaz Digital de Video y Audio, abreviado DIVA o DiiVA) es una interfaz bidireccional de audio / vídeo para la transmisión de flujos digitales tanto comprimidos como sin comprimir.
+DIVA admite una velocidad de datos de bajada (desde la fuente hasta la pantalla) de 13,5 Gbit / s que es capaz de Deep Color en resoluciones superiores a 1080p.
+DIVA también es compatible con un canal de datos de 2,25 Gbit/s de comunicación bi-direccional que puede transportar múltiples sub-canales (audio, control, video comprimido, etc ..).
+Esto da DIVA una velocidad de datos en bruto bi-direccional de 18 Gbit/s, o una tasa de datos utilizables bidireccional de 14,4 Gbit/s (a causa de la codificación 8b/10b).
+DIVA fue demostrado en el China Digital Living Forum & Showcase 2008 utilizando un único cable CAT6A.
+El Grupo de Promotores de DIVA se compone de Changhong, Haier, Hisense, Konka, Panda, Skyworth, SVA, TCL y Synerchip.
+El Grupo de Promotores de DIVA espera terminar las especificaciones de DIVA a finales de 2008 y tener chips DIVA lanzados en 2009 o 2010.

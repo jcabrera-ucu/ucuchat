@@ -1,0 +1,10 @@
+En electrónica, TO-18 es la designación de un tipo de encapsulado metálico utilizado en la fabricación de transistores.
+El encapsulado es más caro que el equivalente de plástico de tamaño similar TO-92.
+El nombre proviene del JEDEC, de su nombre original en inglés Transistor Outline Package, Case Style 18.
+Incluye una lengüeta localizada a 45° del pin 1, que típicamente es el emisor.
+El diámetro de los pines es nominalmente 0,45 mm, el diámetro de la cápsula es 4,5-4,95 mm (0,178-0,195 pulgadas) y el ancho total (sin incluir la lengüeta) es de 5,4 mm.
+Diferentes fabricantes tienen distintas tolerancias por la que la forma puede variar ligeramente, también, dependiente de su función.
+El TO-18 se utiliza en transistores y otros dispositivos con no más de 3 pines.
+Para el caso de diodos, fotodiodos y LED el encapsulado tiene únicamente dos pines.
+Dispositivos sensibles o emisores de luz tienen una ventana transparente, una lente o un refletor parabólico en lo alto del encapsulado.
+Por ejemplo, diodos láser como los que se encuentra en los reproductores de CD pueden utilizan el encapsulado TO-18 con una lente.

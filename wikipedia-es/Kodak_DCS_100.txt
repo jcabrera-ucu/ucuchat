@@ -1,0 +1,33 @@
+La Kodak Professional Digital Camera System o DCS, lo llamada en forma no oficial DCS 100, fue la primera cámara réflex digital (DSLR) comercial.
+Comprendía un cuerpo trasero, que contenía el sensor de imagen digital, montado en un cuerpo de Nikon F3, y comercializado por Kodak en mayo de 1991; la compañía había presentado la cámara en el Photokina de 1990.
+Orientada la mercado del periodismo fotográfico para mejorar la velocidad con la que los fotógrafos podían enviar las imágenes al estudio o la redacción, la DCS tenía una resolución de 1,3 megapíxel.
+La DCS 100 fue presentada públicamente por primera vez en Arlés (Francia), en las Journées de l'Image Pro por Ray H. DeMoulin, el presidente mundial de la Eastman Kodak Company.
+453 periodistas asistieron a la presentación, que se realizó en el Palais des Congres de Arles.
+El predecesor de la Digital Still Camera (DCS) fue el prototipo creado en los laboratorios de Kodak Research a mediados de 1987.
+Un sensor de 1,3 megapixel había sido producido por Microelectronics Technology Division de Kodak y el siguiente paso lógico fue crear un sistema de imagen digital de alta resolución basado en él.
+El prototipo DCS fue desarrollado para pruebas por la Associated Press.
+Los desarrolladores de Kodak eligieron la Nikon F3HP porque era la cámara profesional más ampliamente usada en su época.
+Hubo que resolver una serie de problemas clave: ¿Cómo colocar con precisión el sensor de imagen en el plano de película de la cámara?
+¿Cómo sincronizar el período de exposición del obturador mecánico de la cámara y el período de integración electrónica del sensor de imagen?
+¿Qué objetivos proporcionarían imágenes nítidas sin distorciones?
+¿Qué comentarios se pueden proporcionar para ayudar al fotógrafo a obtener la exposición correcta?
+Muchas escenas tenían mayor rango dinámico que el sensor de imágenes.
+¿Cómo se almacenan las imágenes digitales?.
+La F3HP tenía contactos de motor que proveían suficientes señales para la sincronización electrónica.
+Se seleccionó un conjunto de potenciales objetivos que se pusieron a pruebas de MTF y se seleccionaron los más compatibles.
+La batería y el disco duro fueron integrados en un sistema remoto con correa que el fotógrafo colgaba de su hombro.
+La salida del convertidor A/D se procesaba para generar un histograma de exposición para el fotógrafo.
+Finalmente, dado que el sensor de imagen era más chico que el fotograma de 35 mm, se colocaron plantillas de colores en el visor para indicar el área que el sensor capturaría.
+El prototipo fue probado extensamente en 1987 y 1988 por fotógrafos de AP y en estudios, comparando su desempeño con los sistemas de película.
+Había suficiente entusiasmo con el sistema para emprender una versión comercial.
+Una versión anterior se mostró en el Photokina en 1990 y el producto fue lanzado en mayo de 1991.
+El DCS 100 mantenía muchas de las características del prototipo, incluyendo una Digital Storage Unit (DSU), que se colgaba del hombro, para almacenar y visualizar las imágenes y para contener las baterías.
+El DSU contenía un disco rígido de 200 megabyte que podía almacenar hasta 156 imágenes sin compresión, o hasta 600 imágenes usando una placa de compresión compatible con JPEG que fue ofrecida posteriormente como una agregado opcional.
+Un teclado externo permitía agregar una descripción de la imagen y otra información.
+El sistema Kodak Professional Digital Camera estaba disponible con dos cuerpos traseros diferentes.
+El DC3 color utiliza un diseño de matriz de filtro de color personalizado.
+El DM3 monócromo no tenía matriz de filtro de color.
+Unos cuantos DM3 fueron fabricados sin filtros IR.
+Internamente, tenía un disco rígido SCSI de 3,5". Se conectaba a la computadora mediante una interface SCSI externa. Aparecía como un dispositivo SCSI, y podía accederse mediante un plugin TWAIN para Photoshop 3. Hay varios modelos del DCS 100 con diferentes versiones de buffers, blanco y negro, color, transmisión, con teclado y módem.
+El sistema fue comercializado a precio de venta al público de $20.000.
+En total se vendieron 987 unidades

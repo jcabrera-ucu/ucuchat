@@ -1,0 +1,51 @@
+Vala es un lenguaje de programación creado con el objetivo de acercar las características de los lenguajes modernos a C, sin requisitos adicionales de tiempo de ejecución y con pocos costos, centrado en los objetos de la biblioteca GObject.
+Ha sido desarrollado por Jürg Billeter y Raffaele Sandrini.
+Actualmente es desarrollado y mantenido por Rico Tzschichholz.
+La sintaxis se inspira en C#, con leves modificaciones para adaptarse mejor al sistema de objetos de GObject.
+Para la gestión de memoria, GObject usa el sistema de conteo de referencias.
+En C, el programador debe gestionar la adición y la eliminación de referencias a mano, en cambio, en Vala, la gestión de estas referencias es automática, siempre que el programador use los tipos referenciales incluidos en el lenguaje en lugar de usar punteros comunes.
+El único detalle del que debe preocuparse es de evitar que se generen listas circulares, pues en ese caso este sistema de gestión de memoria no funcionará correctamente.
+Valac, el compilador de Vala, traduce el código Vala en código C, un lenguaje intermedio (tal como hace Java a Bytecode o C# al CIL), en lugar de ser compilado directamente en ensamblador, que luego puede compilarse en cualquier plataforma soportada por GLib, con cualquier compilador de C estándar.
+Además, Valac también admite otra sintaxis de entrada, es el caso de Genie, que funciona de la misma forma que Vala pero con una sintaxis inspirada en Python.
+De hecho, Vala y Genie pueden ser usados juntos para crear un mismo programa.
+El lenguaje de programación Vala tiene sus inicios junto a Jürg Billeter.
+Ya que el señalaba que escribir y refactorizar código basado en GObject en C requería mucho trabajo adicional en comparación con los lenguajes más modernos que ya automatizaban estas tareas.
+También señaló que estos lenguajes modernos no producen bibliotecas que puedan usarse fácilmente en otros entornos.
+Por lo que propuso un lenguaje orientado a objetos con todas las funciones que pudiera producir interfaces de estilo C automáticamente.
+Jürg Billeter le mencionó su idea a su compañero de estudios Raffaele Sandrini, quien intervino para ayudar a construir el primer compilador.
+En mayo de 2006, valac se convirtió en un alojamiento completamente autónomo.
+A diferencia de Objective-C, y con pocas excepciones C++, Vala no es una extensión de C, ya que C no es un subconjunto de la sintaxis de Vala.
+Por lo tanto Vala no es un preprocesador de C.
+La sintaxis está fuertemente basada en C# y por lo tanto también en Java, pero Vala no es un subconjunto de C# ni viceversa.
+Por lo tanto, los programas C# no se pueden compilar con Vala, incluso si se ignoran las considerables diferencias entre las bibliotecas estándar.
+Vala es estático y fuertemente tipado y permite la inferencia de tipos (tipado implícito) para variables locales.
+Entre otras cosas, Vala ofrece:
+Vala alivia al desarrollador de la gestión de memoria manual.
+En lugar de un recolector de basura como en Java o .NET/Mono, se usa el conteo automático de referencias.
+El recuento de referencias tiene la ventaja de ser determinista y la capacidad en tiempo real es, pero debe, por otro lado, en el caso de los ciclos de referencia manualmente por el desarrollador utilizando una referencia débil; por ejemplo, cuando un elemento en una estructura de datos de árbol tiene una referencia a su elemento padre y este a su vez tiene una referencia al elemento hijo, es decir, ambos se refieren entre sí.
+Vala también permite la gestión manual de la memoria con punteros como opción.
+El uso de la funcionalidad de las bibliotecas de código nativo requiere escribir archivos vapi, definiendo la interfaz de la biblioteca.
+La escritura de estas definiciones de interfaz está bien documentada para las bibliotecas de C, especialmente cuando se basan en GObject.
+Sin embargo, las bibliotecas de C++ no son compatibles.
+Los archivos Vapi se proporcionan para una gran parte de la plataforma GNOME, incluido GTK.
+Las bibliotecas desarrolladas en Vala son bibliotecas C válidas y pueden ser utilizadas directamente por los desarrolladores de C, ya que Vala, a diferencia de lenguajes como C++ y D, es compatible con la interfaz binaria de C (ABI).
+Como biblioteca estándar, Vala utiliza GLib y sus submódulos GIO, GObject, GModule, que está disponible para la mayoría de los sistemas y ofrece cosas como subprocesos independientes de la plataforma, entrada/salida, administración de archivos, sockets de red, complementos, expresiones regulares y mucho más.
+También hay una biblioteca llamada Gee, escrita en Vala, que proporciona clases genéricas de Colección/Contenedor.
+Las interfaces gráficas de usuario se pueden desarrollar con el kit de herramientas GTK + GUI y la herramienta de diseño de superficies Glade.
+Para hacer que una biblioteca C se pueda usar con Vala, no se necesitan enlaces de tiempo de ejecución (envoltorios), solo una descripción estática en un llamado archivo vapi (API de Vala) con sintaxis de Vala anotada, que el compilador de Vala indica en tiempo de compilación, como las llamadas al método Vala en llamadas a funciones C debe ser transformado.
+Estos archivos se pueden generar semiautomáticamente para bibliotecas basadas en GObject, para las bibliotecas C que no se basan en GObject, deben escribirse a mano.
+Los enlaces ya están disponibles para una gran cantidad de bibliotecas, incluidas las bibliotecas C que no están basadas en GObject, como SDL, OpenGL, etc.
+Las bibliotecas básicas GLib / GIO y Gee de Vala están disponibles en todas las plataformas comunes, como sistemas tipo Unix, Linux, macOS y Windows.
+Los únicos requisitos para Vala son GLib y un compilador de C. De manera que Vala no está atada a GNOME.
+Si el desarrollador evita cosas como información de ruta dependiente de la plataforma y bibliotecas que no son multiplataforma y, en su lugar, utiliza las abstracciones de GLib, puede desarrollar aplicaciones multiplataforma con Vala.
+GTK también está disponible para los distintos sistemas operativos.
+Un programa Vala compilado en código binario está vinculado a la plataforma respectiva, ya que entonces está en forma de código de máquina nativo.
+Entre las aplicaciones desarrolladas con Vala y que ya han alcanzado cierto nivel de popularidad se encuentran la aplicación de gestión de fotografías Shotwell, el cliente de Twitter Pino y la herramienta de copia de seguridad Déjà-Dup.
+Las tres son aplicaciones estándar de la distribución de Linux Fedora a partir de la versión 13.
+Shotwell es también la gestión de fotos preinstalada en Ubuntu 10.10 y ha reemplazado a F-Spot.
+La interfaz Unity de Ubuntu, desarrollada originalmente para netbooks, se está desarrollando en Vala, al igual que DLNA / UPnP-Servidor de medios Rygel, que se utiliza, entre otras cosas, en el proyecto GNOME.
+El compilador de Vala en sí es un ejemplo de un proyecto de línea de comandos más grande escrito en Vala.
+Existen algunos otros proyectos como el entorno de escritorio Pantheon de elementary OS el cual también esta construido sobre Vala.
+El programa más simple "Hola mundo":
+"Hola mundo" con la ayuda de la programación orientada a objetos:
+Un ejemplo más complejo, mostrando algunas de las características de la orientación a objetos de Vala:

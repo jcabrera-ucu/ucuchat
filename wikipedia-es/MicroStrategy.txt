@@ -1,0 +1,17 @@
+MicroStrategy es una compañía que ofrece software OLAP de inteligencia de negocio y de informes para empresas.
+Su software permite crear informes y análisis de datos almacenados en una Base de datos relacional y otras fuentes.
+MicroStrategy describe su software de informes núcleo como "ROLAP" u "OLAP Relacional" para diferenciar el uso de la tecnología de base de datos relacional y distinguirlo del OLAP tradicional, aunque también soporta tecnología MOLAP desde la versión 7i.
+La suite de software más reciente se llama MicroStrategy 10.
+Esta versión incluye importantes mejoras en una serie de áreas, proporcionando a los negocios la capacidad de construir sus propios cuadros de mando en cuestión de minutos.
+Así mismo, Visual Insight es un producto que permite explorar los datos visualmente para descubrir ideas de negocio, analizar los datos importantes almacenados en Hadoop y otros motores, orientados a Big Data y mejorar la toma de decisiones.
+Microstrategy cuenta con una fuerte estrategia en el área de aplicaciones móviles con su producto Microstrategy Mobile, plataforma que permite a las organizaciones construir una amplia variedad de aplicaciones móviles esenciales que proporcionan inteligencia de negocios, transacciones y contenidos multimedia para aplicaciones en teléfonos móviles y Tabletas.
+MicroStrategy Cloud proporciona a las compañías el aprovechamiento de una plataforma de Inteligencia de Negocios de clase mundial de una manera fácil, la cual permite implementar aplicaciones a miles de usuarios en corto tiempo, apoyando a reducir drásticamente riesgos de proyectos, costos operativos y eliminar los gastos de capital.
+MicroStrategy Wisdom Profesional ofrece estudios de marketing sin precedentes y gráfico social de millones de usuarios de redes sociales; acceso a análisis únicos, diseñados para dar oportunidad a las empresas de entender aún mejor a sus consumidores, además de ofrecer productos y servicios.
+Como resultado de la consolidación en la industria de Negocios Inteligentes, MicroStrategy es uno de los pocos proveedores independientes de software BI.
+Cuando IBM anunció sus planes para adquirir Cognos, y SAP de adquirir Business Objects, MicroStrategy objetó reclutando a empleados de sus competidores y a empleados de sus clientes.
+MicroStrategy cuenta con clientes importantes, tales como: Lowes, McDonalds, el ejército de E.U., Universal Studios, KB Toys, y Priceline.com, entre otros.
+Clientes de MicroStrategy han invertido en el desarrollo a gran escala de almacenes de datos o sub-almacenes como parte de sus estrategias.
+En el Estudio 7 de Inteligencia de Negocio, una encuesta independiente realizada en el 2008, MicroStrategy recibió la máxima puntuación de producto, de acuerdo el criterio de lealtad de los vendedores encuestados.
+MicroStrategy sigue evaluado como número uno en la fidelidad de sus clientes.
+asimismo en el 2008, fue colocado como líder en el cuadrante de Gartner "Magic Quadrant for Business Intelligence".
+MicroStrategy cuenta con operaciones directas en 23 países de todo el mundo.

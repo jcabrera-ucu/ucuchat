@@ -1,0 +1,23 @@
+Oswald Veblen (24 de junio de 1880 – 10 de agosto de 1960) fue un matemático estadounidense que destacó en geometría, topología y teoría de conjuntos.
+Parte de su trabajo encontró aplicaciones en la física atómica y la teoría de la relatividad.
+Demostró el teorema de la curva de Jordan en 1905.
+Veblen nació en Decorah (Iowa).
+Se educó en la escuela de Iowa City.
+Hizo sus estudios de licenciatura en la Universidad de Iowa, donde recibió un A.B. en 1898, y en la Universidad de Harvard, donde obtuvo un segundo B.A. en 1900.
+Para sus estudios de su doctorado, se fue a estudiar matemáticas a la Universidad de Chicago, donde obtuvo su Ph.D. en 1903.
+Su tesis doctoral fue A System of Axioms for Geometry ('Un sistema de axiomas para la geometría') que fue dirigida bajo la supervisión de E. H. Moore.
+Posteriormente Veblen enseñó matemáticas en la Universidad de Princeton desde 1905 a 1932.
+En 1926, fue nombrado catedrático de la cátedra Henry B. Fine de Mathematics.
+En 1932, ayudó a organizar el Institute for Advanced Study de Princeton, renunciando a su plaza de catedrático para convertirse en el primer catedrádico del Instituto en el mismo año.
+Mantuvo esta cátedra en el institito hasta que pasó a ser profesor emérito en 1950.
+O. Veblen
+era sobrino de Thorstein Veblen, un reconocido economista y sociólogo estadounidense.Veblen murió en Brooklin en 1960 a la edad de 80 años.
+Tras su muerte la American Mathematical Society creó un galardón en su honor, llamado Oswald Veblen Prize in Geometry.
+Este premio es conocedido cada tres años y es uno de los premios más prestigiosos dentro del campo de la investigación geométrica.
+Durante su carrera, Veblen hizo importantes contribuciones a la topología y la geometría proyectiva y diferencial, incluyendo importantes resultados en física moderna.
+Veblen introdujo los llamados axiomas de Veblen de la geometría proyectiva
+y demostró el teorema de Veblen-Young.
+Además introdujo las funciones de Veblen de los ordinales y usó una extensión de las mismas para definir
+los llamados ordinales de Veblen
+Participó en supervisar el trabajo pionero que llevó a desarrollar el ordenador electrónico ENIAC durante la Segunda Guerra Mundial.
+Además escribió en un artículo de 1912 sobre el conjetura de los cuatro colores.

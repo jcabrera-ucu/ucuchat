@@ -1,0 +1,35 @@
+En matemáticas, un enunciado en el que dos expresiones (iguales o distintas) denotan el mismo objeto matemático se llama igualdad matemática.
+Dos objetos matemáticos son considerados iguales si los objetos poseen el mismo valor.
+Por ejemplo, la frase «la suma de dos y dos» y la expresión «cuatro» se refieren al mismo objeto matemático, un cierto número natural.
+La expresión «es igual a» o «es lo mismo que» se suele representar en matemáticas con el signo =.
+Así, el ejemplo anterior suele escribirse como:
+thumb|right|300px|El primer uso del signo igualdad, la ecuación equivale a la notación moderna 14x+15=71, tomado de [[The Whetstone of Witte de Robert Recorde (1557).]]
+El signo = (igual), utilizado para indicar el resultado de una operación aritmética, fue ideado por el matemático Robert Recorde en 1557.
+Cansado de escribir "is equalle to", sic, usó un par de rectas paralelas, ——, en su trabajo Whetstone of Witte.
+Con la publicación de este libro, Recorde introdujo por primera vez el álgebra en Inglaterra.
+`
+Dados tres objetos x, y, z, donde el uso de la palabra «objeto» comprende tanto a aquellos presentes en la experiencia sensible, como a los entes de razón.
+Para indicar que dos objetos x e y son iguales, se utiliza el símbolo = de esta manera:
+Esto significa que, si dos objetos representados por diferentes letras son en realidad el mismo, se relacionan a través del signo igual.
+La igualdad se define como una relación de equivalencia que cumple los siguientes axiomas:
+Dado un conjunto S, dotado de las operaciones de suma y multiplicación.
+Si a, b, c, d son cuatro elementos en S, entonces para la relación de igualdad (=) se cumplen las propiedades siguientes:
+Las igualdades pueden ser:
+Una relación de equivalencia entre los elementos de un conjunto determina sobre el conjunto dado una partición o una colección de clases de equivalencia.
+El conjunto de las clases de equivalencia se llama conjunto cociente.
+Decimos que dos elementos del conjunto original son equivalentes si pertenecen a la misma clase de equivalencia.
+Por ejemplo, los números naturales se pueden dividir en dos clases, usando la relación de equivalencia 'dos números están relacionados si dan el mismo resto al dividirlos por dos'.
+Esta relación divide los números en dos clases, los pares y los impares.
+El conjunto cociente contiene dos elementos, que son, el conjunto de los números pares, y el conjunto de los impares.
+Según esta relación, 4 y 8 pertenecen a la misma clase y son 'equivalentes', pero 16 y 17 pertenecen a clases distintas.
+Reglas que tiene que cumplir una relación \sim \, para ser de equivalencia:
+El axioma de extensionalidad establece las condiciones de igualdad entre conjuntos.
+La lógica de predicados contiene los axiomas estándar para la igualdad que formalizan la ley de Leibniz, propuestos por el filósofo Gottfried Leibniz en el.
+La idea de Leibniz era que dos cosas son idénticas si y solamente si tienen exactamente las mismas propiedades.
+Para formalizar esto, debemos poder decir:
+Sin embargo, en la lógica de primer orden, no podemos cuantificar sobre predicados.
+Así, necesitamos utilizar un esquema de axioma:
+Este esquema de axioma, válido para cualquier predicado P en una variable, responde solamente por una dirección de la ley de Leibniz; si x y y son iguales, entonces tienen las mismas propiedades.
+Podemos garantizar la otra dirección simplemente postulando:
+Entonces si x e y tienen las mismas propiedades, entonces en particular son iguales con respecto al predicado P dado por P(z) si y solo si x = z, puesto que P(x) vale, P(y) deben también valer, luego x = y dependiendo de la variable.
+La relación contraria es una relación de diferencia, notada con un igual tachado: \ne \,

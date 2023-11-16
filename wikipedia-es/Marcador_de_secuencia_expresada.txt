@@ -1,0 +1,48 @@
+Un marcador de secuencia expresada o EST (acrónimo en inglés: Expressed Sequence Tag) es una pequeña subsecuencia de una secuencia nucleotídica transcrita (codificante de una proteína o no).
+Se pueden usar para identificar genes que se transcriben y en el descubrimiento de genes, y para determinación de secuencias.
+La identificación de los EST ha progresado rápidamente, con aproximadamente 52 millones de ESTs disponibles en las bases públicas (por ej. GenBank mayo de 2008, todas las especies).
+Los EST son producidos por una ejecución de secuenciación sobre un ARNm clonado (por ejemplo secuenciando varios cientos de pares de bases de un extremo de un clon de ADNc tomado de una biblioteca de ADNc).
+La secuencia resultante es un fragmento de baja calidad, generalmente de 500 a 800 nucleótidos, que es la longitud de secuenciación de los secuenciadores automáticos más habituales.
+Como esos clones consisten en ADN, que es complementario al ARNm, los EST representan porciones de genes expresados.
+Se puede presentar en las bases de datos tanto como secuencia de ADNc/ARNm o complemento reverso de ARNm, la cadena molde.
+Es necesario crear un clon de ADN, porque es más estable, de tal forma que representa solo una secuencia expresada del ADN.
+Las ESTs (Expressed sequence tags o bien en español, marcadores de secuencias expresadas) son potentes herramientas al reducir el tiempo para identificar la ubicación de un gen determinado dentro del genoma, los científicos han demostrado mediante la utilización de las ESTs se podido aislar de manera rápida los genes que causan la enfermedad de Alzheimer y el cáncer de colon.
+Las EST pueden asignarse a ubicaciones específicas del cromosoma utilizando técnicas de mapeo físico, tales como el mapeo híbrido por radiación o la hibridación fluorescente in situ (FISH).
+Por otra parte, si el genoma del organismo del cual se obtuvo la EST se ha secuenciado se pueden alinear las secuencias EST con este genoma.
+El entendimiento actual de los genes del genoma humano (2006) incluye la existencia de miles de genes basados solamente en evidencia de EST.
+En este sentido, las EST se convierten en un instrumento para afinar la transcripciones predichas de esos genes, lo que lleva a la predicción de sus productos proteicos, y finalmente, de su función.
+Además, la situación en la que se obtienen los EST (tejido, órgano, estado de enfermedad —por ejemplo, cáncer—) proporciona información sobre las condiciones en las que el gen correspondiente está actuando.
+Los EST contienen suficiente información para permitir el diseño de sondas precisas para chips de ADN que luego se pueden utilizar para determinar la expresión de genes.
+Algunos autores usan el término «EST» para describir genes de los que no se tiene mucha información.
+dbEST es una división de GenBank creada en 1992, que contiene la secuencia de datos y la información de secuencias de cDNA llamado también «Un solo paso» o «etiquetadas de secuencia expresada» a partir de una serie de organismos.
+Como GenBank, los datos en la dbEST son enviados por los laboratorios del mundo y no está curada (corregida).
+Uno de los objetivos de las bases de datos de EST es organizar y consolidar los datos de EST en gran medida redundantes, para mejorar la calidad de la información de secuencias y que los datos puedan ser utilizados para extraer el ADNc de longitud completa.
+Es uno de los enfoques de alto rendimiento es la secuenciación de etiquetas de secuencias expresadas.
+Son secuencias cortas obtenidas a partir de clones de ADN complementario y sirven como identificadores cortos de genes, típicamente están en el rango de 200 a 400 nucleótidos de longitud obtenidos a partir de ya sea el extremo 5’ o 3’ de los insertos de ADNc.
+En la mayoría de los proyectos de EST han desarrollan un elevado número de secuencias, estos se presentan GenBank y dbEST.
+dbEST además incluye secuencias que son más largas que las tecnologías ecológicas tradicionales, o se producen como secuencias individuales o en pequeños lotes.
+Entre estas secuencias son productos de los experimentos de presentación diferencial y experimentos RACE.
+Si una secuencia se caracteriza más tarde y anotado con características biológicas tales como una región codificante, 5'UTR, 3'UTR o, debe ser presentada a través del procedimiento de GenBank presentaciones regulares (a través de Bankit o de lentejuelas), incluso si una parte de la secuencia es ya en dbEST.
+Los datos de EST son capaces de proporcionar una estimación aproximada de los genes que se expresan de forma activa en un genoma bajo una condición fisiológica en particular.
+Las secuencias EST suelen ser de baja calidad, ya que se generan de forma automática y sin verificación; y por lo tanto contienen altos porcentajes de errores.
+Muchas bases son determinadas como ambiguas y representadas por N.
+Otro problema de las EST es la presencia de clones quiméricos debido a artefactos de clonación en la construcción de la biblioteca, en la que más de una transcripción se liga a un clon resultante del extremo 5’ de un gen y el extremo 3’ de otro gen. Se ha estimado que hasta el 11 % de los clones de ADNc pueden ser quiméricos.
+Las secuencias que no deberían incluirse en las comunicaciones EST son las siguientes: secuencias mitocondriales, rRNA, secuencias virales, secuencias del vector, vector y del enlazador regiones deben ser retirados de las secuencias EST antes de su presentación.
+La base de datos dbEST contiene colecciones de EST para un gran número de organismos (>250).
+La base de datos se actualiza regularmente para reflejar el progreso de varios proyectos de investigación de secuenciación de EST, cada secuencia EST recién presentada es sujeta a una búsqueda de similitud en la base de datos.
+<!--
+Because of the way ESTs are sequenced, many distinct expressed sequence tags are often partial sequences that correspond to the same mRNA of an organism.
+In an effort to reduce the number of expressed sequence tags for downstream gene discovery analyses, several groups assembled expressed sequence tags into EST contigs.
+Example of resources that provide EST contigs include:
+Constructing EST contigs is not trivial and may yield artifacts (contigs that contain two distinct gene products).
+When the complete genome sequence of an organism is available and transcripts are annotated, it is possible to bypass contig assembly and directly match transcripts with ESTs.
+This approach is used in the TissueInfo system (see below) and makes it easy to link annotations in the genomic database to tissue information provided by EST data.
+High-throughput analyses of ESTs often encounter similar data management challenges.
+A first challenge is that tissue provenance of EST libraries is described in plain english in dbEST.
+This makes it difficult to write programs that can non ambigously determine that two EST libraries were sequenced from the same tissue.
+Similarly, disease conditions for the tissue are not annotated in a computationally friendly manner.
+For instance, cancer origin of a library is often mixed with the tissue name (e.g., the tissue name "glioblastoma" indicates that the EST library was sequenced from brain tissue and the disease condition is cancer).
+With the notable exception of cancer, the disease condition is often not recorded in dbEST entries.
+The TissueInfo project was started in 2000 to help with these challenges.
+The project provides curated data (updated daily) to disambiguate tissue origin and disease state (cancer/non cancer), offers a tissue ontology that links tissues and organs by "is part of" relationships (i.e., formalizes knowledge that hypothalamus is part of brain, and that brain is part of the central nervous system) and distributes open-source software for linking transcript annotations from sequenced genomes to tissue expression profiles calculated with data in dbEST.
+-->

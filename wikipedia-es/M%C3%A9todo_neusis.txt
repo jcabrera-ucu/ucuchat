@@ -1,0 +1,26 @@
+miniaturadeimagen|300px|Construcción neusis
+Neusis es un método de construcción geométrica, en el que se emplea una regla en la que se marca una distancia que debe encajarse entre dos curvas, y que además debe pasar por un punto dado.
+Fue utilizado en la antigüedad por matemáticos griegos, aunque estaba considerado un recurso atípico que solo se debía emplear para abordar determinados problemas cuya resolución no parecía posible usando exclusivamente regla y compás (en los que no se admite valerse de una regla con una marca de distancia).
+La construcción neusis (del griego νεῦσις de νεύειν neuein "dirección de inclinación"; plural: νεύσεις neuseis) consiste en ajustar la posición de un segmento rectilíneo de longitud prefijada (denominada diastema, de la palabra griega "διάστημα", que significa "distancia") entre dos curvas dadas (denominadas curva directriz y curva de ajuste), de manera que el segmento o su extensión, pasa a través de un punto dado denominado polo.
+Dicho de otra forma, la posición buscada debe cumplir tres condiciones: uno de los extremos del segmento tiene que situarse sobre la curva directriz; el otro extremo tiene que situarse sobre la curva de ajuste; y el segmento o su prolongación debe pasar por el polo.
+Una construcción neusis se debe realizar mediante el uso de la 'regla neusis': una regla que puede hacer rotaciones alrededor del polo (lo que se puede realizar poniendo una chincheta en el polo y después presionando la regla contra la chincheta).
+En la figura, una de las terminaciones de la regla está marcada con un círculo amarillo, cuyo centro coincide con el origen de la división de la escala de la regla.
+Una segunda marca en la regla (el círculo azul) indica la distancia dada, denominada diastema.
+La marca amarilla se mueve a lo largo de la curva directriz, hasta que la marca azul coincide con la curva de ajuste.
+La posición del segmento encontrado de esta forma se muestra en la figura con el punto remarcado en azul y el punto remarcado en rojo.
+miniaturadeimagen|200px|Trisección neusis de un ángulo >135° para encontrar φ=θ/3, utilizando solo la longitud de la regla. El radio del arco es igual a la longitud de la regla. Para ángulos θ<135° se aplica la misma construcción, pero con P extendido más allá de AB
+La neusis ha sido importante porque a veces provee una forma de resolver problemas geométricos que no se pueden solucionar a través de construcciones con regla y compás únicamente.
+Ejemplos son la trisección de cualquier ángulo en tres partes iguales, o la construcción de un heptágono regular.
+Matemáticos tales como Arquímedes de Siracusa (287–212 a.C.) utilizaban neuseis libremente, y siglos después Isaac Newton continuaba empleando este procedimiento.
+Sin embargo, la técnica cayó en desuso gradualmente.
+Se sabe que un n-ágono regular es construible mediante neusis para n=
+Benjamin y Snyder descubrieron en 2014 que el endecágono regular es neusis-construible.
+El historiador de las matemáticas Thomas Little Heath, sugirió que Enópides (440 a.C.) fue el primero de los matemáticos griegos en poner las construcciones con regla y compás por encima de las neuseis.
+El principio de evitar neuseis siempre que fuera posible, pudo ser difundido por Hipócrates de Quíos (430 a.C.), originario de la misma isla que Oenopides, y quien fue —por lo que se sabe— el primero en escribir libros sobre geometría sistemática y ordenada.
+Cien años después de él Euclides también evitó neuseis en su muy influyente libro, Los Elementos.
+El siguiente ataque a la neusis vino cuando, desde el siglo IV a.C., el idealismo de Platón ganó terreno.
+Bajo su influencia se desarrolló una jerarquía de tres tipos de construcciones geométricas.
+Descendiendo desde lo "abstracto y noble" hasta lo "mecánico y terrenal", las tres clases eran:
+Al final el uso de neusis fue tomado como aceptable solamente cuando las otras dos categorías de construcción más elevadas no ofrecían una solución.
+Neusis se convirtió en un tipo de recurso de última necesidad que se utilizaba cuando todos los demás métodos, más respetables, habían fallado.
+Utilizar neusis cuando los otros métodos podían haber sido utilizados fue marcado por el matemático griego Pappus de Alejandría (325 d.C.) como un "error a considerar".

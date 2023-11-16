@@ -1,0 +1,12 @@
+Un estudio descriptivo es un tipo de metodología a aplicar para deducir un bien o circunstancia que se esté presentando; se aplica describiendo todas sus dimensiones, en este caso se describe el órgano u objeto a estudiar.
+Los estudios descriptivos se centran en recolectar datos que describan la situación tal y como es.
+¿Qué es la investigación descriptiva?
+A diferencia de la investigación exploratoria, es de naturaleza concluyente.
+Esto quiere decir que la investigación descriptiva reúne información cuantificable que puede usarse para hacer inferencias estadísticas de tu público objetivo a través del análisis de los datos
+Otro tipo del término descriptivo es que el lector obtenga una imagen exacta de la realidad que estamos transmitiendo en palabras así que representa lo que el lector cree poder describir mediante una idea.
+Su función es describir cómo se distribuye una enfermedad o evento en cierta población, en un lugar y durante un período de tiempo determinado; cuál es su frecuencia y cuáles son los determinantes o factores con ella asociados.
+La epidemiología descriptiva es la rama de la epidemiología que describe el epidemiológico en tiempo, lugar y persona, cuantificando la frecuencia y distribución del fenómeno mediante medidas de incidencia, prevalencia y mortalidad, con la posterior formulación de hipótesis y considera:
+- Qué población o subgrupos desarrollan la enfermedad o lo hacen con más frecuencia.
+- Cómo la frecuencia de ésta varía a lo largo del tiempo y/o en poblaciones con diferentes características.
+- En qué localización geográfica es más o menos frecuente dicha enfermedad.
+A partir de la descripción de la distribución de estos eventos, se podrá arriesgar una explicación o "hipótesis" que dé cuenta de las causas que los producen.

@@ -1,0 +1,21 @@
+La plitidepsina (también conocida como dehidrodidemnina B, comercializada por PharmaMar, S.A. bajo el nombre comercial de Aplidin) es un compuesto químico extraído de la ascidia Aplidium albicans.
+Actualmente se está probando en ensayos clínicos.
+Es un miembro de la clase de compuestos conocidos como didemninas.
+La plitidepsina es un depsipéptido cíclico, es decir, es un péptido cíclico en la que hay uno o más enlaces ester en lugar de uno o más enlaces peptídicos.
+Su estructura química es muy similar a la de la didemnina B, siendo la única diferencia que el residuo lactato en la didemnina B está presente en la versión de piruvato oxidado.
+Como todos los compuestos de la clase didemnina, la plitidepsina muestra actividades antitumoral, antiviral e inmunosupresora.
+Parece prometedora para la reducción de tumores en cánceres pancreáticos, de estómago, vejiga, y próstata.
+La plitidepsina inhibe la proteína humana eEF1A que podría interaccionar con varias proteínas de coronavirus.
+La plitidepsina posee actividad antiviral contra el SARS-CoV-2 in vitro e in vivo en un modelo de ratón.
+En julio de 2003, la plitidepsina se le concedió la calificación de medicamento huérfano por la Agencia Europea de Medicamentos para el tratamiento de la leucemia linfoide aguda.
+El 14 de diciembre de 2017, el Comité de Medicamentos de Uso Humano de la Agencia Europea de Medicamentos adoptaron una opinión negativa, recomendaron rechazar la autorización de comercialización para el tratamiento del mieloma múltiple.
+PharmaMar solicitó que se re-examinara la opinión inicial.
+Después de re-examinar la opinión, se confirmó el rechazo de la autorización de comercialización el 22 de marzo de 2018.
+El Comité de Medicamentos de Uso Humano era de la opinión de que los beneficios de la Aplidina no superaban sus riesgos.
+La mejora de la supervivencia general no quedó suficientemente demostrada, y se informaba de efectos adversos severos más frecuentemente con la combinación de Aplidin y dexametasona que con dexametasona sola.
+En Australia la plitidepsina se aprobó en diciembre de 2018, en combinación con dexamethasone, para el tratamiento de pacientes con mieloma múltiple recidivante y refractario que habían recibido por lo menos tres regímenes de tratamiento previos, incluyendo un inhibidor del proteasoma y un inmunomodulador.
+Se puede usar después de dos líneas previas de terapia si resulta refractario y/o intolerante tanto a un inhibidor de proteasoma como a un immunomodulator.
+En 2007 estaba siendo sometida a ensayos clínicos de fase II multicentro.
+En 2016 se anunciaron resultados preliminares de un ensayo pequeño de fase I para mieloma múltiple.
+Un artículo de investigación publicado en la revista Science el 25 de enero de 2021 declara que la plitidepsina presenta una potente eficacia pre-clínica contra el SARS-CoV-2 actuando sobre la proteína eEF1A del huésped.
+Las proteínas virales del SARS-CoV-2 interaccionan con la maquinaria de traducción eucariótica y los inhibidores de la traducción tienen un potente efecto antiviral.

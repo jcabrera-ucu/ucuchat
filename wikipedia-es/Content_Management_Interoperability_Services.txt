@@ -1,0 +1,13 @@
+Content Management Interoperability Services (CMIS) o Servicios de Interoperabilidad de Gestión de Contenidos es un estándar abierto que permite a diferentes sistemas de gestión de contenidos interoperar a través de Internet.
+En concreto, CMIS define una capa de abstracción para el control de diversos sistemas de gestión de documentos y repositorios, que utilicen protocolos web.
+CMIS define un modelo de dominio más enlaces de servicios web y Restful AtomPub (RFC5023), que pueden ser utilizados por las aplicaciones.
+OASIS, un consorcio de estándares web, ha aprobado CMIS como especificación OASIS el 1 de mayo de 2010.
+CMIS 1.1 ha sido aprobada como especificación OASIS, el 12 de diciembre de 2012.
+CMIS proporciona un modelo de datos común que cubre los archivos tecleados y carpetas con propiedades genéricas que se pueden establecer o leer.
+Hay un conjunto de servicios para la adición y la recuperación de documentos ("objetos").
+Puede haber un sistema de control de acceso, una comprobación y una instalación de control de la versión, y la capacidad de definir relaciones genéricas.
+Se definen dos enlaces de protocolo, uno usando WSDL y SOAP y otro utilizando transferencia de estado representacional (Representational State Transfer-REST), utilizando la convención AtomPub.
+El modelo se basa en arquitecturas comunes de los sistemas de gestión de documentos.
+Aunque iniciada por AIIM, CMIS está actualmente gestionada por el organismo de normalización OASIS.
+Los participantes en el proceso incluyen Adobe Systems Incorporated, Alfresco, EMC, eXo, FatWire, HP, IBM, ISIS Papyrus, Liferay, Microsoft, Nuxeo, Open Text, Oracle, Newgen OmniDoccs y SAP.
+El estándar está disponible para comentarios públicos en OASIS.

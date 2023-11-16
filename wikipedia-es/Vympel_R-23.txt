@@ -1,0 +1,47 @@
+El Vympel R-23 (nombre código de la OTAN AA-7 "Apex") es un misil aire-aire de alcance medio, desarrollado por la Unión Soviética para sus aviones de combate.
+Es comparable al AIM-7 Sparrow estadounidense y ha sido utilizado por múltiples fuerzas aéreas alrededor del mundo, teniendo un grado éxito casi identicó a su contra partes occidentales.
+La nueva arma, designada K-23 por su Buró de Diseño, fue desarrollada para armar al nuevo caza MiG-23.
+Su diseño fue supervisado por el equipo de V.A. Pustyakov.
+Estaba pensada para emplearse contra objetivos de tamaño de un bombardero, y preveía capacidad de ascenso (para posibilitar la intercepción de objetivos a mayor altura que el avión lanzador).
+Originalmente se pensó para emplear un buscador de modo dual, de guía semiactiva por radar o por guía infrarroja, pero esto demostró ser no factible.
+Por ello se desarrollaron dos modelos separados con capacidad radar semiactiva e infrarroja pasiva (zdeliye 340 y 360, respectivamente).
+Las evaluaciones de disparo se llevaron a cabo en 1967, aunque la guía semiactiva por radar demostró ser extremadamente problemática.
+El misil, designado R-23, entró en servicio en enero de 1974.
+La versión de guía infrarroja pasiva sería llamada R-23T, y la versión radar semiactiva R-23R.
+Ambas versiones empleaban el mismo motor y carga útil de guerra, con un radio letal de 8 metros.
+También se desarrolló un proyectil tipo inerte para entrenamiento, el R-23UT.
+Los analistas occidentales dudaron y afirmaron que el R-23 era bastante primitivo, pero los ingenieros soviéticos lo compararon con ejemplares capturados del AIM-7 Sparrow, que fue sometido a un proceso de ingeniería inversa y bautizado como K-25 en 1968, y consideraron que el alcance y resistencia a las contramedidas del R-23R eran superiores al AIM-7E contemporáneo.
+El alcance máximo efectivo del R-23R era de alrededor de 14 km a baja altura y 25 km a gran altura.
+El alcance para el R-23T era de alrededor de 11 km. Ambos podían ser disparados con el avión maniobrando hasta 4 G contra un objetivo que maniobrara hasta 5G.
+Una de sus mayores limitaciones tácticas era su gran alcance mínimo, lo que prohibía su lanzamiento a distancias inferiores a los 1300 m para intercepciones desde el cuadrante trasero.
+Se construyeron grandes cantidades de R-23s.
+También se lo fabricó bajo licencia en Rumania con el nombre de A-911.
+A comienzos de 1975 se desarrolló una versión mejorada para armar al MiG-23ML/MLD.
+El resultante R-24T tenía una cabeza buscadora con mayor sensibilidad, mientras que el R-24R de guía radar tenía capacidad para detectar y seguir el objetivo luego del lanzamiento, y una capacidad de altura de hasta 25.000 m. Ambas versiones tenían un propulsor más potente, carga de guerra más grande, y un reducido alcance mínimo de 500 m. Podían emplearse ahora contra objetivos que maniobraran a 7G.
+El R-24 permaneció en servicio limitado hasta el retiro de los últimos MiG-23 rusos en 1997.
+Véase también: Guerra del Libano de 1982.
+Si bien muchas fuentes afirman que el desempeño del R-23 es similar al del AIM-7 Sparrow, algunos artículos rusos sostienen que es superior al AIM-7 en combate fuera de alcance visual, basando esta afirmación en el misil Python III fue el arma más exitosa empleada por Israel durante los combates aéreos del Valle de Bekka en junio de 1982 sobre el Líbano, lo cual significaría que los AIM-7 israelíes fallaban contra sus objetivos.
+Los Israelíes sostienen en tanto que el Python III fue el más exitosa porque lo emplearon en casi todas sus derribos del Valle.
+Es una afirmación interesante porque los rusos declararon que el Molniya R-60 fue el misil aire-aire más efectivo empleado por los Sirios en 1982 sobre el Valle de Bekka.
+Esto indicaría la falta de fiabilidad de los misiles de alcance superior al visual de esta generación (tanto el AIM-7 como el R-23), ya que no tuvieron la efectividad demostrada por los Python III o los R-60.
+Véase también: Guerra Civil de Angola
+También se reportó que durante la guerra en Angola a finales de la década de 1980, los MiG-23ML de la Fuerza Aérea Cubana dispararon varios misiles R-24 contra los Mirage F-1CZ sudafricanos de la SAAF, derribando al menos dos de ellos sin sufrir pérdidas propias.
+El 27 de septiembre de 1987, durante la Operación Moduler, se montó un intento de interceptar los cazas de la Fuerza Aérea Cubana, los MiG-23MLs cubanos.
+El F1CZ del capitán Arthur Piercy fue dañado por un R-24 o R-60 disparado de frente por el comandante Alberto Ley Rivas.
+La explosión destruyó la rampa de arrastre del avión y dañó la hidráulica.
+Piercy pudo recuperar un AFB Rundu, pero el avión sobrepasó la pista.
+El impacto en el terreno provocó que el asiento de expulsión de Piercy se disparara, pero no se separó del asiento y sufrió lesiones importantes en la columna vertebral.
+La capacidad BVR, de los misile R-24R que poseían los cazas MiG-23ML de la FAR, le dio la ventaja sobresaliente a los cazas cubanos, los sudafricanos no tenían misiles parecidos, ya que los vetustos y poco confiables Matra R.530, no podía competir contra los misiles que tenía el enemigo y con la imposibilidad de poder adquirir las variantes avanzadas de los misiles franceses, como el Matra Super 530F para los Mirage F1, dio el golpe de gracia a los sudafricanos, quienes dejarían la superioridad aérea a los MiG-23 durante el resto de la campaña.
+Véase también: Guerra Irán-Irak y Guerra del Golfo
+Se reportan muchas muertes por los misiles R-23 en la guerra entre Irán e Irak, cuando los MiG-23MF/ML de la Fuerza Aérea Iraquí, quienes se enfrentaron contra los cazas F-14A, F-4D/Es y F-5E iraníes.
+Muchos derribos R-23/24 fueron acreditados a Irak con los MiG-23, quienes combatieron contra los cazas de la Fuerza Aérea de la República Islámica de Irán(IRIAF), la mayor parte de los derribos, fueron de F-4D/E y F-5E iraníes, aunque también, los R-24 derribaron un F-14 Tomcat, en 1981, cerca de la isla de khark.
+Durante la guerra del golfo de 1991, el primer día de conflicto (17.1.1991) un caza MiG-23ML del 63 Sq. de la IrAF (piloto Hussam) logra dañar a un bombardero medio F-111F Aardvark(No.70-2384) de la 48.ª edición del TFW con un misil R-24T de guía infrarroja, al sur de la base aérea de Balad (Samara Southwest) a las 4:30 hora local, minutos más tarde (5:10) otro MiG-23ML logra disparar un R-24T de infrarrojos a otro bombardero F-111F de la 48a TFW, a 15 millas del Este de Salman Pal, al cual daña en uno de los motores, pero no logra derribarlo.
+Varios reclamos rusos de la Fuerza Aérea Soviética, afirman lo siguiente:
+El 6 de junio de 1982 un MiG-23 derribó un vehículo aéreo no tripulado BQM-34 israelí con un R-23.
+El 7 de junio de 1982 tres MiG-23MF (pilotos Khallyak, Said y Merza) atacaron un grupo de F-16 Fighting Falcon.
+El Capitán Merza detectó los F-16 a una distancia de 23 km y derribó dos con misiles R-23 (uno desde 9 km y otro desde 8 km); sin embargo, luego fue derribado.
+El 8 de junio de 1982, dos MiG-23MF nuevamente se enfrentaron con F-16.
+El MiG-23 del Mayor Yokhou detectó un F-16 a una distancia de 20 km y lo derribó con un R-23 disparado desde 7 km; sin embargo el mismo cayó derribado por un AIM-9L Sidewinder disparado desde otro F-16.
+El 9 de junio de 1982 dos MiG-23MF (pilotos Dib y Said) atacaron un grupo de F-16.
+Dib derribó un F-16 a una distancia de 6 o 7 km con un R-23, pero fue derribado, probablemente con un AIM-9 Sidewinder.
+El 28 de septiembre de 1988, dos MiG-23MLD soviéticos pilotados por Vladmir Astakhov y Boris Gavrilov derribaron dos AH-1J Cobras que habían ingresado en el espacio aéreo y aéreo que utiliza R-24.

@@ -1,0 +1,136 @@
+Mega Man, conocido como Rockman (ロックマン) en Japón, es un videojuego de acción-plataformas de 1987 desarrollado y publicado por Capcom para la Nintendo Entertainment System.
+Fue dirigida por Akira Kitamura, con Nobuyuki Matsushima como programador principal, y es el primer juego de la franquicia Mega Man y la serie original de videojuegos.
+Mega Man fue producido por un pequeño equipo específicamente para el mercado de consolas domésticas, por primera vez para Capcom, que anteriormente se centraba en los títulos arcade.
+El juego da inicio a la lucha del robot humanoide y el personaje jugador Mega Man contra el científico loco Dr. Wily y los seis Robot Masters bajo su control.
+El juego no lineal de Mega Man le permite al jugador elegir el orden en el que completará sus seis etapas iniciales.
+Cada uno culmina en una batalla contra jefes "Robot Master" que otorga al personaje jugador un arma única.
+Parte de la estrategia del juego consiste en elegir el orden para abordar las etapas con el fin de ganar las armas que serán más útiles en futuros niveles.
+Los críticos elogiaron a Mega Man por su diseño general, aunque el juego no fue un éxito comercial.
+Mega Man estableció muchas de las convenciones de juego, historia y gráficos que definen las secuelas, subseries y spin-offs posteriores.
+Desde entonces, el juego se ha incluido en compilaciones de juegos, relanzado en teléfonos móviles y se ha convertido en parte de los servicios de emulación de consola.
+Recibió un remake completo en 3D titulado Mega Man Powered Up en 2006.
+En el año 20XX, los robots desarrollados para ayudar a la humanidad son comunes gracias a los esfuerzos del reconocido diseñador de robots Dr. Light.
+Sin embargo, un día estos robots se descontrolan y comienzan a atacar a la población, entre ellos seis robots humanoides avanzados creados por el Dr. Light con fines industriales: Cut Man, Guts Man, Ice Man, Bomb Man, Fire Man y Elec Man.
+Se da cuenta de que el culpable es su antiguo rival, el Dr. Wily (que planea conquistar el mundo), pero no está seguro de qué hacer.
+Su robot ayudante Rock, que tiene un fuerte sentido de la justicia, se ofrece a convertirse en un robot de lucha para detener el plan del Dr. Wily y convertirse en Mega Man.
+Con el tiempo, derrota a los seis robots y recupera sus núcleos centrales, luego se enfrenta al Dr. Wily dentro de su fábrica de robots con sede en el Pacífico (que resulta ser robots de Light que producen en masa).
+Después de un enfrentamiento final, Wily es derrotado y Mega Man regresa con su familia.
+El lanzamiento inicial occidental del juego, manteniendo la trama básica igual, cambió significativamente algunos detalles del manual japonés original.
+En esta versión, el Dr. Light y el Dr. Wily (aquí el asistente de Light se volvió desleal) cocrearon el robot humanoide Mega Man junto con los seis robots avanzados, cada uno de los cuales fue diseñado para el beneficio de los ciudadanos de Monsteropolis (no existía tal lugar en la trama original).
+El Dr. Wily se vuelve desleal a su compañero y reprograma estos seis robots para ayudarse a tomar el control del mundo, creando los siete imperios de Monsteropolis.
+El Dr. Light envía a Mega Man para destruir a sus compañeros creaciones y detener al Dr. Wily.
+Mega Man consta de seis niveles de plataformas de desplazamiento lateral elegidos libremente por el jugador.
+En cada nivel, el personaje jugador, Mega Man, lucha contra varios enemigos y obstáculos antes de enfrentarse a un jefe "Robot Master" al final del nivel.
+Al derrotar al jefe, el jugador asimila el ataque característico del Robot Master, o "Arma Especial", en el arsenal de Mega Man por el resto del juego.
+A diferencia del Mega Buster estándar (Rock Buster en Japón), los poderes de Robot Master tienen municiones limitadas que se reponen recogiendo celdas de municiones lanzadas por enemigos derrotados al azar.
+Los enemigos también sueltan células de energía que reponen el indicador de salud de Mega Man.
+Si bien el jugador es libre de continuar el juego en cualquier orden, cada Robot Master es especialmente vulnerable a un arma específica, lo que alienta al jugador a completar ciertas etapas antes que otras.
+El jugador también puede volver a visitar los niveles borrados.
+Además de las armas tomadas de los Robot Masters, el jugador puede recoger un elemento generador de plataforma conocido como "Magnet Beam" en el escenario de Elec Man.
+Mega Man también cuenta con un sistema de puntuación en el que los jugadores obtienen puntos por derrotar a los enemigos y ganar puntos extra por recolectar poderes de los enemigos caídos y por despejar cada etapa.
+Cada robot maestro valía un número aleatorio entre 50,000 y 100,000 puntos, mientras que el Dr. Wily siempre valía 200,000 puntos.
+El sistema de puntuación se eliminó en juegos posteriores de Mega Man, ya que no proporcionaba ningún beneficio al jugador.
+Con los puntajes altos no se ganaban vidas adicionales, no se registraban, etc. y en general no tenían sentido.
+Cuando se completan las seis etapas de Robot Master, la séptima y última etapa aparece en el medio del menú de selección de etapa.
+Esta etapa, en la que el jugador atraviesa la fábrica de robots del Dr. Wily, es una cadena de cuatro etapas regulares unidas, cada una con al menos un nuevo jefe.
+Durante estas etapas finales, los seis Robot Masters también deben ser combatidos nuevamente en un orden predeterminado antes de la confrontación final contra el Dr. Wily.
+Antes de Mega Man, Capcom hacía principalmente juegos de arcade, y sus lanzamientos de consolas eran principalmente conversiones a consolas domésticas de estos títulos.
+A mediados de la década de 1980, Capcom hizo planes para desarrollar Mega Man específicamente para el mercado japonés de videoconsolas.
+Decidieron atraer talento joven y fresco para el pequeño equipo, incluido el artista Keiji Inafune, un recién graduado universitario que comenzó en el equipo de Street Fighter.
+Inafune recordó que el equipo de desarrollo de Mega Man trabajó muy duro para completar el producto final, con un supervisor de proyecto y diseñador líder que buscaba la perfección en todos los aspectos posibles del juego.
+El equipo de desarrollo de Mega Man estaba formado por solo seis personas.
+Inafune (acreditado como "Inafking") diseñó e ilustró a casi todos los personajes y enemigos del juego, así como el logotipo japonés de Rockman, el diseño de la caja y el manual de instrucciones.
+También fue responsable de hacer estos diseños en forma gráfica de sprites.
+"No teníamos mucha gente, así que después de dibujar diseños de personajes, en realidad estaba haciendo el punteado (pixelación) para Nintendo", declaró Inafune.
+"En aquel entonces, las personas no estaban especializadas y teníamos que hacer muchas cosas diferentes porque había muy poca gente, así que realmente terminé haciendo todos los personajes".
+Inafune fue influenciado por el protagonista Astro Boy del manga homónimo de Osamu Tezuka en sus diseños de Mega Man.
+Mega Man es azul porque aparentemente aquel color tenía la mayor cantidad de tonos en la paleta de 56 colores de la consola (cian incluido), y esa selección se utilizó para mejorar los detalles de Mega Man.
+Aunque a menudo se le atribuye el diseño del personaje, Inafune insiste en que "solo hizo la mitad del trabajo al crearlo", ya que su mentor desarrolló el concepto básico del personaje antes de la llegada de Inafune.
+Los sprites básicos para Roll y Dr. Light se crearon antes de que Inafune se uniera al proyecto, y los diseños para Cut Man, Ice Man, Fire Man y Guts Man estaban en proceso.
+Además de los enemigos normales, el primer personaje de Inafune fue Elec Man, inspirado en los personajes de cómics estadounidenses.
+El artista ha comentado que Elec Man siempre ha sido su diseño favorito.
+Los diseños para el Dr. Light y el Dr. Wily se basaron en Santa Claus y Albert Einstein, respectivamente; el último personaje estaba destinado a representar a un "científico loco" arquetípico.
+El equipo había considerado inicialmente nombres como "Mighty Kid", "Knuckle Kid", y "Rainbow Man" antes de tomar una decisión final.
+El nombre "Rainbow" se consideró porque el personaje podía cambiar a siete colores según el arma seleccionada.
+El equipo de producción eligió un motivo musical al nombrar a los personajes principales de Mega Man.
+El nombre original del protagonista es Rock y el nombre de su hermana es Roll, un juego de palabras con el término "rock and roll".
+Este tipo de nomenclatura se extendería más tarde a muchos personajes a lo largo de la serie.
+Uno de los argumentos originales considerados por el equipo pero no utilizados en la versión final era que en el juego secuestraban a Roll, y Rock tenía que rescatarla.
+Otra idea incluía una lucha del jefe contra un Roll gigante cerca del final del juego.
+El equipo decidió incorporar elementos de anime para la animación del juego.
+Inafune explicó: "La mano de Mega Man se transforma en una pistola y puedes verla salir de su brazo. Queríamos asegurarnos de que la animación y el movimiento fueran realistas y realmente tuvieran sentido. Así que con Mega Man, tuvimos esta combinación perfecta de personaje del juego con ideas de animación ".
+La jugabilidad de Mega Man se inspiró en el juego de piedra, papel o tijera.
+El supervisor del proyecto quería un sistema simple que ofreciera una "jugabilidad profunda".
+Cada arma causa una gran cantidad de daño a un Robot Master específico, otras tienen poco o ningún efecto contra ellas, y no hay una sola arma que domine a todas las demás.
+Originalmente, Mega Man podía agacharse, pero el equipo decidió no implementar esto ya que dificultaba la capacidad de los jugadores para determinar la altura de los proyectiles en pantalla.
+Naoya Tomita (acreditado como "Tom Pon") comenzó a trabajar en los fondos escénicos de Mega Man inmediatamente después de su entrenamiento en Capcom.
+Tomita demostró ser uno de sus compañeros al superar los desafíos del poder limitado de la consola al maximizar el uso de elementos de fondo.
+Mega Man fue orquestado por Manami Matsumae (acreditado como "Chanchacorin Manami"), que compuso la música, creó los efectos de sonido y programó los datos en tres meses, utilizando un controlador de sonido programado por Yoshihiro Sakaguchi (acreditado como "Yuukichan's Papa").
+Las notas musicales fueron traducidas una por una al lenguaje de la computadora.
+Los límites creativos de tener solo tres notas disponibles eran un desafío para Matsumae, y cuando no podía escribir canciones, creaba los efectos de sonido.
+Cuando el juego se localizó para su distribución en América, Capcom cambió el título del juego de Rockman a Mega Man.
+Este apodo fue creado por el entonces vicepresidente senior de Capcom, Joseph Morici, que afirmó que se había cambiado simplemente porque no le gustaba el nombre original.
+"Ese título era horrible", dijo Morici.
+"Así que se me ocurrió Mega Man, y les gustó lo suficiente como para seguir usándolo en los siguientes juegos en EE.UU."
+Nadia Oxford de 1UP.com atribuyó este cambio a la creencia de Capcom de que los niños americanos estarían más interesados en un juego con este último título.
+Los críticos recibieron bien a Mega Man, aunque el juego se vendió mal.
+AllGame describió la versión NES del juego como una "combinación casi perfecta de acción, desafío y excelencia audiovisual" y le otorgó cinco estrellas, su calificación más alta. Lucas M. Thomas, de IGN, describió el juego como un "clásico innegable" para la NES, destacando sus gráficos, su innovadora mecánica de juego basada en armas y su música.
+El editor de IGN, Matt Casamassina, proclamó: "Mega Man es uno de los mejores ejemplos de excelentes gráficos, música increíble y una jugabilidad casi perfecta en un solo cartucho".
+Los escritores de GameSpot, Christian Nutt y Justin Speer, identificaron el juego como un "ganador en la jugabilidad", otorgado su "presentación discreta".
+Jeremy Parish de 1UP.com también lo describió como un "comienzo encantador (aunque un poco brusco) para la serie".
+Ya sea positivo o negativo, Mega Man ha sido comúnmente recibido como muy difícil.
+Casamassina de IGN encontró el juego más difícil en la franquicia, y uno de los títulos más difíciles en la NES.
+Thomas de IGN observó que su combinación de alta dificultad y corta longitud perjudicaba su capacidad de rejugabilidad.
+Según 1UP.com, los jefes de Mega Man "duros para Nintendo" distinguen el juego de sus dos secuelas inmediatas y más populares.
+Total! caracterizó retrospectivamente el juego como "una pesadilla de plataforma demasiado dura e insoportablemente frustrante".
+Mega Man también recibió varios honores de revistas y sitios web de videojuegos.
+IGN enumeró el juego en el número 30 en su "Top 100 NES Games of All Time".
+Nintendo Power clasificó a Mega Man en el número 20 en sus "100 Mejores Juegos de Nintendo de todos los tiempos" en su número 100 de septiembre de 1997, luego en el número 61 en sus "Mejores 200 juegos" en su número 200 de febrero de 2006.
+1UP.com lo incluyó en sus "5 precuelas de videojuegos más vistas" y como el número 17 en su lista de "Los 25 mejores juegos de NES".
+La revista británica The Games Machine le otorgó el galardón "Star Player" después de su lanzamiento en las regiones PAL.
+El departamento de ventas de Capcom originalmente creía que el juego no se vendería, pero después de que Japón había recibido cantidades limitadas, se había considerado lo suficientemente exitoso como para encargar rápidamente una localización estadounidense.
+Como parte de la localización apresurada, el presidente de Capcom EE.
+UU.
+le dijo al representante de marketing que se hiciera una cubierta al día siguiente, por lo que un amigo la dibujó en aproximadamente seis horas.
+Inafune culpó al desempeño relativamente pobre de América del Norte en su portada específica de la región, que visualiza elementos que no se encuentran en el juego: Mega Man se parece más a un hombre de mediana edad que a un niño, su traje es de color amarillo y azul en lugar de ser completamente azul, y está sosteniendo una pistola en lugar de tener su cañón en el brazo.
+Con los años, la portada se hizo infame en la comunidad de jugadores.
+Ha sido considerada una de las peores portadas de juegos de todos los tiempos por publicaciones como GameSpy, Wired, y OC Weekly.
+El Mega Man Universe cancelado presentaba un personaje jugable de "Bad Box Art Mega Man" junto con el clásico Mega Man de 8 bits.
+"Bad Box Art Mega Man" se ha convertido en un personaje jugable en Street Fighter X Tekken.
+Con poca cobertura de prensa en el extranjero, salvo para un anuncio de página completa en Nintendo Fun Club News, las ventas ganaron impulso sobre el boca a boca, haciendo que el juego fuera un éxito durmiente.
+Si bien Mega Man no fue un gran logro comercial para Capcom, la compañía decidió permitir que el equipo de desarrollo creara una secuela, Mega Man 2, para un lanzamiento japonés en 1988.
+Muchos de los elementos de diseño eliminados del Mega Man original debido a limitaciones de espacio, como los personajes enemigos planeados, se incluyeron en el siguiente juego.
+Mega Man 2, con una carátula enormemente mejorada, aunque todavía repite el error de la 'pistola', sin cambios en las instrucciones de Capcom America, al veterano ilustrador de juegos Marc Ericksen, ('Strider, Galaga, Bad Dudes'), demostró ser un éxito que solidificó a Mega Man como una de las franquicias de más larga duración de Capcom.
+Debido a la "abrumadora demanda", Capcom reeditó el Mega Man original en Norteamérica en septiembre de 1991.
+Capcom llevó los mismos gráficos y sprites de 8 bits presentes en el Mega Man original a los siguientes cinco juegos de la serie principal.
+Aunque las secuelas presentan historias más complejas, mecánicas de juego adicionales y mejores gráficos, los elementos centrales iniciados por Mega Man siguen siendo los mismos a lo largo de la serie.
+Mega Man 9 y Mega Man 10 volverían más tarde al estilo gráfico familiar establecido por este título.
+El sistema de puntuación en Mega Man no ha estado presente en ninguna de sus secuelas.
+Según GamesRadar, Mega Man fue el primer juego en ofrecer una opción de "selección de nivel" no lineal, como un marcado contraste con juegos lineales como Super Mario Bros. y juegos de mundo abierto como The Legend of Zelda y Metroid.
+GamesRadar acredita la función de "selección de nivel" de Mega Man como la base de la estructura de misión no lineal que se encuentra en la mayoría de los juegos de misiones múltiples, de mundo abierto y de misiones secundarias, como Grand Theft Auto, Red Dead Redemption y Spider-Man: Shattered Dimensions.
+Mega Man ha sido relanzado varias veces desde su debut en 1987.
+Se incluyó una versión con gráficos mejorados y música organizada junto con Mega Man 2 y Mega Man 3 en la compilación de Sega Mega Drive, Mega Man: The Wily Wars.
+Otra adaptación del juego fue lanzada en Japón en PlayStation como parte de la serie Rockman Complete Works en 1999.
+Esta versión también presenta música arreglada además de un "Navi Mode" especial que dirige al jugador en ciertas partes de los niveles.
+Mega Man se compiló con otros nueve juegos de la serie en Mega Man Anniversary Collection de América del Norte lanzada para PlayStation 2 y GameCube en 2004 y Xbox en 2005.
+Una versión para teléfono móvil de Mega Man desarrollada por Lavastorm se lanzó para descargar en América del Norte en 2004.
+Un lanzamiento de teléfono móvil japonés de 2007 por separado recibió una actualización de 2008 agregando la opción de jugar como Roll.
+Mega Man para NES fue reeditado en el servicio de Consola Virtual para tres sistemas diferentes: la Wii en Europa en 2007 y en Norteamérica y Japón en 2008,  la 3DS en 2012, y para la Wii U en 2013.
+La versión del juego Complete Works se puso a disposición en PlayStation Store tanto en Japón como en Norteamérica.
+Una nueva versión mejorada titulada Mega Man Powered Up, conocida como Rockman Rockman (ロックマン ロックマン) en Japón, se lanzó en todo el mundo para la PSP en 2006.
+El juego presenta una revisión gráfica con modelos de personajes en 3D estilo chibi con cabezas grandes y cuerpos pequeños.
+Inafune había planeado originalmente hacer que Mega Man se viera de esta manera, pero no pudo debido a las limitaciones de hardware de la NES.
+El productor Tetsuya Kitabayashi declaró que el rediseño de los modelos de personajes fue el resultado de la relación de pantalla panorámica 16:9 de la PSP.
+Las cabezas más grandes de los personajes permitieron al equipo de desarrollo crear expresiones faciales visibles.
+"El concepto para estos diseños era 'juguetes'. Queríamos diseños lindos dirigidos a niños pequeños ... el tipo de personajes que verías colgando de llaveros y cosas así", explicó el diseñador de personajes Tatsuya Yoshikawa.
+"No solo eso, me aseguré de decirles a los diseñadores que no escatimaran en ninguno de los detalles originales de Mega Man. Queríamos que sus proporciones y movimientos se reflejaran con precisión en estos diseños también".
+Como el tamaño de la nueva versión las etapas no son proporcionales a las del original, la relación de pantalla panorámica también presentó a los desarrolladores más espacio para llenar.
+Mega Man Powered Up presenta dos estilos de juego: "Old Style" es comparable a la versión de NES aparte de la presentación actualizada, y "New Style" usa la pantalla panorámica completa de la PSP y contiene escenas de la historia con actuación de voz, diseños de escenario alterados, música remezclada, y tres modos de dificultad para cada etapa.
+Este modo también agrega dos nuevos Robot Masters (Oil Man y Time Man).
+La versión NES originalmente tenía la intención de tener un total de ocho Robot Masters, pero se redujo a seis debido a un calendario apretado.
+Además, la nueva versión permite a los jugadores desbloquear y jugar a través del juego como los ocho Robot Masters, Roll y Protoman.
+Las etapas de New Style difieren en estructura de las de Old Style, con algunas rutas solo accesibles para Robot Masters específicos.
+Mega Man Powered Up también presenta un Modo Desafío con 100 desafíos para completar, un editor de niveles para crear etapas personalizadas y una opción para distribuir niveles creados por fanáticos al servicio en línea de PlayStation Network.
+Mega Man Powered Up recibió críticas generalmente positivas, con puntajes agregados del 83% en GameRankings y 82 de 100 en Metacritic a partir de mayo de 2010.
+La nueva versión se vendió mal en el comercio minorista y luego se lanzó como una descarga paga en la tienda digital japonesa PlayStation Network y como un paquete con Mega Man Maverick Hunter X en Japón y América del Norte.
+Capcom también tradujo Mega Man Powered Up al chino para su lanzamiento en Asia en 2008.

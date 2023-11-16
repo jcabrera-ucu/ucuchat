@@ -1,0 +1,9 @@
+El BMW 003 es un turborreactor alemán que alcanzó la producción en serie durante la Segunda Guerra Mundial.
+El primer encendido del BMW 003 tuvo lugar en agosto de 1940 en las instalaciones de Spandau.
+Esta primera versión del motor tenía un compresor de seis etapas y resultó plagado de problemas.
+Al mes siguiente se iniciaron los trabajos en una versión radicalmente distinta, con un compresor de siete etapas, distinta turbina, flujo de aire, quemadores e incluso con los álabes rediseñados.
+Esta versión, llamada 003A fue probada por primera vez en diciembre de 1942, consiguiendo un empuje de 550 kg frente a los 260 de la primera versión.
+El diseño original del 003 había recibido durante ese tiempo sus propias mejoras, y era capaz de entregar 440 kg de empuje, lo que animó a instalar dos de estos motores en el prototipo V1 del Messerschmitt Me 262.
+Sin embargo la fiabilidad seguía siendo reducida y ambos motores dejaron de funcionar en el vuelo de prueba.
+Afortunadamente el prototipo estaba equipado de un tercer motor, de pistón, con lo que se consiguió aterrizar sin complicaciones.
+Por su parte, el desarrollo del 003A continuó, y a finales de 1943 ya era capaz de producir un empuje al despegue de 800 kg manteniendo su funcionamiento durante 50 horas, con lo que las autoridades del Reichsluftfahrtministerium empezaron a pensar que podía igualar las prestaciones del más complejo, pesado y voluminoso Jumo 004.

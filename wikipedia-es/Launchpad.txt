@@ -1,0 +1,10 @@
+Launchpad es una plataforma de desarrollo colaborativo de software, en particular el de software libre a través de un sitio web como un servicio gratuito.
+Está desarrollada y mantenida por Canonical Ltd.
+El registro solo es necesario si se desea comentar, o subir nuevos reportes de errores.
+El 9 de julio del 2007, Canonical anunció la liberación de Storm con la licencia libre LGPL 2.1.
+Storm, primer componente de Launchpad liberado, es un mapeador para Python de objetos a sistemas relacionales (ORM), que ayuda a simplificar el desarrollo de aplicaciones que funcionen sobre una base de datos.
+Este desarrollo está basado en Zope.
+El Launchpad pasó a ser completamente libre, bajo la versión 3 de la licencia GNU Affero General Public license.
+Consta de varias partes:
+Launchpad es usada primordialmente para el desarrollo de Ubuntu y sus derivados oficiales, aunque también contempla otras distribuciones y proyectos independientes.
+Launchpad utiliza el servidor de aplicaciones web gratuito y de código abierto Zope.

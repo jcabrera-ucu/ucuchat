@@ -1,0 +1,13 @@
+El Flyboard Air es una combinación entre una tabla flotante y un avión de reacción, se trata de una evolución del flyboard, un aparato propulsado por agua a presión controlado por un piloto entrenado.
+En este caso, es Flyboard Air ya no depende de un medio acuático ya que funciona con energía química y gas permitiendo a personas con un poco de entrenamiento pilotarlo por el cielo a una velocidad de hasta 200 km/h con 4 turbinas y 1000 CV en total.
+Su inventor es Franky Zapata, un excampeón del mundo de moto de agua que luego se dedicó a fabricar piezas para éstas.
+Con los años creó su propia compañía y desarrolló varios inventos que formaban parte de los sueños del imaginario colectivo como el jetpack, el ya mencionado hoverboard y, finalmente, los primeros prototipos del Flyboard Air salieron en 2016.
+El Flyboard Air es una muestra de cómo la tecnología avanza inexorablemente y los aparatos que antes veíamos en el cine o en los libros poco a poco van ocupando nuestra realidad.
+A diferencia del jetpack, este nuevo aparato no es necesario llevarlo como una mochila sino que directamente nos debemos colocar en la imagen para dirigirlo.
+Debido a esto mucha gente siente inseguridad a la hora de pilotarlo y de momento sólo unas pocas personas lo han hecho en ocasiones especiales como competiciones o rodajes.
+Cuenta con 4 turbinas y, en caso de que una fallase, las otras 3 podrían compensar sin problemas la carencia.
+En caso de fallar dos de las turbinas el Flyboard Air descendería automáticamente hacia el suelo.
+Para mantener la estabilidad en el aire utiliza la misma técnica que un dron gracias a un ordenador que lleva integrado, que está conectado con un joystick que controla el piloto desde su mano.
+El combustible es transportado por el piloto en una especie de mochila amarrada a la espalda.
+Se estima que puede llegar a volar hasta los 300 m de altitud.
+En cuanto a la duración de las turbinas en funcionamiento no es muy elevada, se ha demostrado que puede estar 6 minutos sin problemas y la predicción es que debería poder volar hasta 30 minutos.

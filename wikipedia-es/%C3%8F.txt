@@ -1,0 +1,6 @@
+La Ï (I con diéresis) es una letra utilizada en afrikáans, griego, ucraniano, francés, gallego, catalán y neerlandés
+Mayoritariamente se emplea con el fin de evitar el diptongo de palabras tales como maïs (maíz en francés y neerlandés), Oekraïne (Ucrania en afrikáans y neerlandés), naïf (ingenuo en francés), caïamos (caíamos en gallego) o raïm (uva en catalán).
+En el ucraniano no tiene esa función, sino que se trata de una letra asociada al fonema /ji/ ("yi" transliterado en español).
+En español se puede usar en poesía con el mismo objetivo: forzar la lectura con hiato de vocales que ordinariamente forman diptongo, como vïuda.
+En varias transcripciones de lenguas amerindias se usa para transcribir un "i central" es decir una vocal central cerrada cuyo signo AFI es.
+En Unicode, la mayúscula Ï está codificada en U+00CF y la minúscula ï está codificada en U+00EF.

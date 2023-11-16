@@ -1,0 +1,62 @@
+Un número pseudoaleatorio es un número generado en un proceso que parece producir números al azar, pero no lo hace realmente.
+Las secuencias de números pseudoaleatorios no muestran ningún patrón o regularidad aparente desde un punto de vista estadístico, a pesar de haber sido generadas por un algoritmo completamente determinista, en el que las mismas condiciones iniciales producen siempre el mismo resultado.
+Una variable pseudoaleatoria es una variable que ha sido creada a través de un procedimiento determinista (por norma general un programa de ordenador o subrutina) el cual tiene como entrada dígitos realmente aleatorios.
+La cadena pseudoaleatoria resultante suele ser más larga que la cadena aleatoria original, pero menos aleatorio, es decir, con menos entropía.
+Los mecanismos de generación de números aleatorios que se utilizan en la mayoría de los sistemas informáticos son en realidad procesos pseudoaleatorios.
+Los generadores de números pseudoaleatorios son ampliamente utilizados en campos tales como el modelado por computadora, estadística, diseño experimental, etc. Algunas de estas secuencias son lo suficientemente aleatorias para ser útiles en estas aplicaciones.
+Una de las utilidades principales de los números pseudoaleatorios tiene lugar en los campos de la criptografía y de la esteganografía.
+Por ello se sigue investigando en la generación de dichos números, empleando por ejemplo medidores de ruido blanco o analizadores atmosféricos, ya que experimentalmente se ha comprobado que tienen una aleatoriedad bastante alta.
+Asimismo, también destacan su uso en el llamado método de Montecarlo, con múltiples utilidades, por ejemplo para hallar áreas / volúmenes encerradas en una gráfica y cuyas integrales son muy difíciles de hallar o irresolubles; mediante la generación de puntos basados en estos números, podemos hacer una buena aproximación de la superficie /volumen total, encerrándolo en un cuadrado / cubo , aunque no lo suficientemente buena.
+Un campo donde resulta imprescindible, es en la programación de juegos, donde a menudo se necesita disponer de series elegidas al azar.
+Por ejemplo para crear nubes con patrones diferentes según escenarios.
+Esto es aún más necesario en aquellos juegos donde el azar es primordial (como juegos donde el azar está implícito en la propia dinámica del juego, por ejemplo juegos de cartas, que necesitan ser barajadas) o incluso una cuestión que garantice la fiabilidad para dotar al juego de imparcialidad, como en los casos donde en esos juegos se realizan apuestas económicas.
+Y que suelen recurrir al algoritmo Fisher-Yates.
+Por lo general, el interés no radica en generar un solo número aleatorio, sino muchos, reunidos en lo que se conoce como secuencia aleatoria.
+Se llama secuencia pseudoaleatoria, sucesión de números pseudoaleatorios, secuencia de pseudorruido o código de pseudorruido a cualquier grupo de secuencias binarias que presentan propiedades aleatorias parecidas a las del ruido.
+Las secuencias de pseudorruido se distinguen de las secuencias aleatorias de verdad en que muestran una periodicidad.
+Es decir, están formadas por una serie periódica de números positivos y negativos, o bits, de longitud N. A uno de estos bits de una secuencia de pseudorruido se le llama chip.
+Por lo tanto, a la velocidad de la secuencia se le llama tasa chip, y se mide en chips por segundo (cps).
+Una secuencia de este tipo se puede representar de la siguiente manera:
+Los códigos de pseudorruido deben satisfacer, entre otras, las siguientes condiciones:
+La sucesión, supone en si una secuencia, pero como sucesión, ha sido obtenida mediante un proceso aritmético definido, efectiva para el propósito para el que se la requiere.
+Si bien una sucesión de números pseudoaleatorios parece generalmente no obedecer a ningún patrón o ley de formación, todo generador de números pseudoaleatorios con un estado interior finito, se repetirá luego de una larga sucesión de números.
+Es posible demostrar esto mediante el principio del palomar.
+Debe notarse que la sucesión, aun siendo una secuencia, guarda una periodicidad buscada de por sí o como consecuencia indeseable.
+Por lo general, al crear secuencias aleatorias se busca que la periodicidad sea la menor posible, salvo en sistemas donde sea requerido como parte del planteamiento concebido y esperado, de ahí la sucesión.
+La generación de números tiene múltiples usos (principalmente en estadística, simulaciones y criptografía).
+Al principio los investigadores que necesitaban secuencias de números aleatorios tenían que generarlos ellos mismos mediante dados, monedas, cartas, etc. o utilizar tablas de números aleatorios existentes.
+El primer intento de dotar a los investigadores con un suministro de dígitos aleatorios tuvo lugar en 1927, cuando la Cambridge University Press publicó una tabla de 41.600 dígitos desarrollada por Leonard H.C. Tippet.
+En 1947 la RAND Corporation generó una secuencia de números a partir de una simulación electrónica de una rueda de ruleta; los resultados fueron publicados en 1955 bajo el título A Million Random Digits with 100.000 Normal Deviates.
+John von Neumann fue un pionero en la investigación de los generadores de números aleatorios implementados en computadoras.
+En 1951, Derrick Henry Lehmer inventó el Generador lineal congruencial, utilizado en un gran número de generadores pseudoaleatorios actuales.
+Con la proliferación de los ordenadores, los algoritmos de generación de números pseudoaleatorios fueron reemplazando las tablas de números aleatorios, y los generadores de números aleatorios «reales» (generadores de números aleatorios por hardware) son utilizados en muy raras ocasiones.
+Teorema 3.1 (Hull y Dobell, 1962)
+Un generador congruencial tiene período máximo p=m si y sólo si:
+Algunas consecuencias:
+Teorema 3.2 Un generador multiplicativo tiene período máximo p=m-1 si:
+Además de preocuparse de la longitud del ciclo, las secuencias generadas deben aparentar muestras i.i.d. U(0,1).
+Por ejemplo, los valores generados pueden mostrar una estructura reticular.
+Se han propuesto diversas pruebas (ver sección siguiente) para determinar si un generador tiene problemas de este tipo y se han realizado numerosos estudios para determinadas familias (e.g. Park y Miller, 1988, m=231−1).
+Dada una semilla x_0, un multiplicador a, una constante c llamada incremento y un módulo m, se define
+entonces y para obtener una muestra u_i en [0,1] para  se define
+El Generador Congruencial Lineal Simple es un caso particular del Generador Congruencial Lineal (LCG) dado por
+donde g una función determinista de los x_j's con y las muestras generadas a  están dados por u_i=x_i/m.
+Algunos generadores son los siguientes:
+Para verificar si un generador tiene las propiedades estadísticas deseadas hay disponibles una gran cantidad de test de hipótesis y métodos gráficos:
+Se trata principalmente de contrastar si las muestras generadas son (análisis univariante).
+Se divide el intervalo [0,1] en k subintervalos de misma longitud y se generan.
+Para sea f_j el número de u_i's que están en el j-ésimo subintervalo y sea
+si n es un número muy grande (al menos debe ser mayor o igual a 100) entonces \chi^2 tendrá aproximadamente una distribución bajo la hipótesis nula.
+A un nivel de confianza rechazamos H_0 si, para valores de k suficientemente grandes, se puede utilizar la aproximación
+Los métodos más avanzados tratan normalmente de contrastar si las k-uplas:
+son (uniformes independientes en el hipercubo; análisis multivariante).
+Nos centraremos en los métodos genéricos.
+Pueden usarse en:
+Uno de los contrastes más conocidos es el test ji-cuadrado de bondad de ajuste.
+Aunque si la variable de interés es continua, habría que discretizarla (con la correspondiente perdida de información).
+Importante: Empleando los métodos genéricos del modo habitual, desconfiamos del generador si la muestra/secuencia no se ajusta a la distribución teórica (p-valor \leq\alpha).
+En este caso además, también se sospecha si se ajusta demasiado bien a la distribución teórica (p-valor ).
+Los contrastes se plantean habitualmente desde el punto de vista de la inferencia estadística en la práctica: se realiza una prueba sobre la única muestra disponible.
+Si se realiza una única prueba, en las condiciones de H_0 hay una probabilidad \alpha de rechazarla.
+En simulación tiene mucho más sentido realizar un gran número de pruebas:
+Este procedimiento es también el habitual para validar un método de contraste de hipótesis por simulación.

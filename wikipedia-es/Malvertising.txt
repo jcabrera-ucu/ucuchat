@@ -1,0 +1,7 @@
+El Malvertising (del inglés malicious advertising) consiste en introducir malware en la publicidad en línea para extender otro malware.
+El atacante se aprovecha de ser un anunciante para buscar fallos de seguridad en el software subyacente y, si los encuentra, los aprovecha para instalar software malicioso sin que el usuario sea consciente.
+Debido a su propia naturaleza, es frecuente llevar a cabo el ataque a través de la web y por tanto la aplicación en la que se buscan los fallos es en el navegador y los plugins instalados en este como Flash o Acrobat Reade r. También se han realizado campañas de Malvertising sobre aplicaciones móviles como la de Spotify.
+A pesar de que suele ocurrir en sitios de internet que proporcionan contenido ilegal (como la descarga de películas), a veces se abre camino entreplataformas más convencionales como Spotify, eBay, New York Times, Yahoo.com, el portal de noticias de MSN, la web en inglés de la BBC, redes de distribución de publicidad como DoubleClick o Zedo.
+Según algunos estudios en 2015, más de un tercio de las páginas web más visitadas del mundo fueron infectadas con malware a través de anuncios malintencionados.
+Esto lleva a que sea difícil bloquear este tipo de ataques de forma segura.
+Las principales formas de prevención consisten en:

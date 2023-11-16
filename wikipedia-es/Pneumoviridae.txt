@@ -1,0 +1,5 @@
+Pneumoviridae es una familia de virus de ARN perteneciente al orden Mononegavirales que infectan vertebrados.
+Son virus envueltos cuya cápside presenta una simetría helicoidal.
+Esta familia de virus fue un género de la familia Paramyxoviridae hasta 2016.
+El genoma de estos virus es de ARN monocatenario negativo y por tanto se incluyen en el grupo V de la clasificación de Baltimore.
+Dentro de esta familia de virus, se han descrito dos géneros, Orthopneumovirus y Metapneumovirus.

@@ -1,0 +1,12 @@
+La programación de copiar y pegar, a veces denominada simplemente pegar, es la producción de un código de programación de computadora altamente repetitivo, producido por las operaciones de copiar y pegar.
+Es principalmente un término peyorativo; aquellos que usan el término a menudo implican una falta de competencia de programación.
+También puede ser el resultado de limitaciones tecnológicas (por ejemplo, un entorno de desarrollo insuficientemente expresivo) ya que normalmente se utilizarían subrutinas o bibliotecas.
+Sin embargo, hay ocasiones en que la programación de copiar y pegar se considera aceptable o necesaria, como el desenroscado de bucles (Cuando no es soportado automáticamente por el compilador), o ciertos modismos de programación, y algunos editores de código de la fuente en forma de snippets.
+Copiar y pegar a menudo es realizado por programadores inexpertos o estudiantes, que encuentran el acto de escribir código desde cero difícil o irritante y prefieren buscar una solución preescrita o una solución parcial que puedan usar como base para resolver sus propios problemas.
+Un problema mayor es que bugs pueden ser fácilmente introducido por suposiciones y decisiones de diseño hechos en las distintas fuentes que no aplican cuando son usadas en otro ambiente de desarrollo.
+Copiar y pegar en la programación también puede ser el resultado de una mala comprensión de las características comunes en los lenguajes de computadora, tales como estructuras de bucle, funciones y subrutinas.
+La programación de copiar y pegar se acepta ocasionalmente como una técnica de programación válida.
+Esto se ve más comúnmente en "boilerplate", como declaraciones de clase o importación de bibliotecas estándar, o al usar una plantilla de código existente (con contenido vacío o funciones de código auxiliar) como marco para completar.
+Un ejemplo sencillo es un bucle for el cual podría ser expresado como.
+El código de muestra que utiliza tal bucle for podría ser: El bucle podría haber sido generado por el siguiente snippet (especificando tipos y nombres variables):
+Patrones de diseño

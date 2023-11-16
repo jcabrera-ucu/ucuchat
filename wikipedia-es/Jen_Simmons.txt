@@ -1,0 +1,10 @@
+Jen Simmons es una diseñadora gráfica, desarrolladora web, educadora y conferencista estadounidense conocida por su experiencia en estándares web, particularmente HTML y CSS.
+Simmons obtuvo una licenciatura en Sociología de Gordon College en 1991.
+En 2007 se graduó de la Universidad de Temple con una postgrado en Artes de Cine y Medios.
+Además de trabajar en desarrollo web desde 1998, Simmons es diseñadora de piezas impresas y actuaciones en vivo, incluidos trabajos de diseño de iluminación y proyección.
+Es miembro del grupo de trabajo CSS creado por el World Wide Web Consortium y ha destacado en la implementación del diseño de la cuadrícula CSS.
+Actualmente, es diseñadora y desarrolladora en Mozilla, donde diseñó el Inspector de cuadrícula del navegador Firefox.
+Simmons dirige el canal de YouTube Layout Land, y acuñó el término diseño intrínseco para referirse a su filosofía de diseños web que combinan diseños fijos, de tamaño de contenido y fluidos.
+Es conferenciante frecuente en eventos como el An Event Apart, el festival South by Southwest, Fluent y SmashingConf.
+Simmons está en Twitter desde 2007 y tiene más de 50 mil seguidores.
+En 2007, fue la primera usuaria de Twitter en acuñar la expresión fail whale (ballena fracasada) para ilustrar el mensaje de error del sitio web que se mostró durante las interrupciones hasta 2013.

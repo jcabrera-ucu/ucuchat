@@ -1,0 +1,13 @@
+Lunar Jetman es un videojuego de ZX Spectrum realizado en 1983 por la compañía Ultimate Play The Game, nombre comercial de Ashby Computers&Graphics.
+Se trata de una de las compañías más valoradas de software de 8 bits.
+El juego fue desarrollado por los hermanos Tim y Chris Stamper, creadores de la compañía en 1982.
+Tras un año de éxito con sus anteriores títulos, Ultimate Play The Game lanzó su primera secuela, ya que Lunar Jetman, es la segunda parte de Jetpac, el primer juego de la compañía y con el que había logrado gran éxito de crítica y público.
+En esta nueva aventura, el personaje vuelve a ser un astronauta, Jetman, que debé recorrer la superficie lunar plagada de peligros y enemigos.
+El aspecto y movimiento del personaje es muy similar al de Jetpac, pudiendo caminar o desplazarse volando con su mochila Jet, aunque en este caso, a diferencia del anterior título, el combustible es limitado y debemos repostar cada cierto tiempo de uso.
+Aparte en Lunar Jetman, nuestro personaje también podrá conducir en determinados momentos del juego un poderoso todoterreno dentro del cual seremos invulnerables.
+El problema es que este vehículo solo puede desplazarse en el llano y cualquier cráter lunar nos impedirá avanzar y Jetman tendrá que eliminar estos obstáculos para seguir avanzando.
+Jetman podrá además portar a sus espaldas varios objetos que le ayudarán en su misión: Podrá recoger bombas para lanzarlas y destruir las bases enemigas, un cañón con el que podrá armar su vehículo y un teletransportador con el que podrá moverse a otros puntos de la Luna.
+El éxito en el juego se logrará si destruye todas las bases enemigas, para lo cual debe dejar caer una bomba de las que iremos encontrando y que puede transportar en la mochila Jet o en el todoterreno, esto tendrá que hacerlo en un periodo limitado de tiempo, si no lo consigue desde la base se dispararán dos misiles hacia la tierra y el todoterreno, que Jetman deberá interceptar.
+Además el personaje deberá esquivar o eliminar con su láser a los múltiples enemigos que le acecharán en su camino.
+Este es el primer juego de Ultimate Play The Game realizado para los ordenadores de 48 K, abandonando ya la compañía el limitado 16 K. Esta mayor capacidad le permite a los autores realizar un juego con mayor riqueza gráfica e incluyen el scroll lateral por primera vez en sus juegos.
+A pesar de su calidad, su gran dificultad y menor jugabilidad motivaron que fuera uno de los juegos de menor éxito de la primera etapa de la compañía.

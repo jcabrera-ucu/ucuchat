@@ -1,0 +1,12 @@
+Judea Pearl es un matemático, científico de la computación y filósofo, más conocido por desarrollar la aproximación probabilística a la inteligencia artificial, en particular utilizando las redes bayesianas, y la formalización del razonamiento causal (véase Causalidad).
+Pearl recibió un Grado Ingeniería Eléctrica del Technion, Israel, en 1960, un Máster en Físicas de la Universidad Rutgers, EE. UU., en 1965, y un Doctorado en Ingeniería Eléctrica del Instituto Politécnico de Brooklyn, EE.
+UU.
+en 1965.
+Trabajó en los Laboratorios de Investigación RCA y posteriormente se unió a la UCLA en 1970, donde actualmente es profesor en Ciencias de la Computación y Estadística y director del Laboratorio de Sistemas Cognitivos.
+En 2002, su hijo, Daniel Pearl fue secuestrado y asesinado en Pakistán, por lo que él y su familia crearon la Daniel Pearl Foundation.
+Recibió el Premio Turing en 2011 por sus contribuciones fundamentales a la inteligencia artificial a través del desarrollo de un cálculo de probabilidades y de razonamiento causal.
+Judea Pearl fue uno de los pioneros de las Redes bayesianas y la aproximación probabilística a la inteligencia artificial y uno de los primeros en dar un formalismo matemático al fenómeno de la causalidad en las ciencias empíricas.
+Su trabajo también trata a un alto nivel un modelo cognitivo.
+Sus intereses son la filosofía de la ciencia, representación del conocimiento, lógicas no estándares y aprendizaje automático.
+Pearl es descrito como "uno de los gigantes en el campo de la inteligencia artificial" por el Richard Korf, de la UCLA.
+Su trabajo en causalidad ha "revolucionado el entendimiento de este campo en estadística, psicología, medicina y en las ciencias sociales".

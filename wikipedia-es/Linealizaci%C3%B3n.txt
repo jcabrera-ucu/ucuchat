@@ -1,0 +1,29 @@
+En matemáticas y sus aplicaciones, la linealización se refiere al proceso de encontrar la aproximación lineal a una función en un punto dado.
+En el estudio de los sistemas dinámicos, la linealización es un método para estudiar la estabilidad local de un punto de equilibrio de un sistema de ecuaciones diferenciales no lineales.
+Este método se utiliza en campos tales como la ingeniería, la física, la economía, y la biología.
+El resultado de la linealización de una función es una función lineal que normalmente se utiliza con finalidades de cálculo.
+La linealización es un método eficaz que se utiliza para aproximar el resultado de una función en un punto cualquiera x = a a partir de la pendiente y del valor de la función y = f(x) al punto x = b, siempre que f(x) sea derivable a [a, b] (o a [b, a])y que a sea cercano a b. En resumen, la linealización aproxima el resultado de la función cerca del punto x = a.
+Por ejemplo, se puede saber que.
+Pero, sin calculadora, ¿cuál debería ser una buena aproximación de ?
+Para cualquier función dada y = f(x), f(x) se puede aproximar si es cercana a un punto donde es derivable y conocida.
+El requisito más básico es que, si L_a(x) es la linealización de f(x) a x = a, L(a) = f(a).
+La ecuación lineal de una ecuación cualquiera es una recta, dado un punto (H, K) y la pendiente M. La fórmula general de esta ecuación es:.
+Usando el punto (a, f(a)), L_a(x) deviene.
+Como las funciones derivables son localmente lineales, la mejor pendiente para sustituir en la ecuación, ha de ser la pendiente de la línea tangente a f(x) a x = a.
+Mientras el concepto de linealidad local se aplica principalmente a puntos arbitrariamente próximos a x = a, este concepto de relativamente próximo funciona relativamente bien para aproximaciones lineales.
+Después de todo, una linealización es solamente una aproximación.
+La pendiente M ha de ser, más exactamente, la pendiente de la recta tangente a x = a.
+Visualmente, la figura muestra la recta tangente a f(x) en x. A f(x+h), donde h es cualquier valor pequeño, positivo o negativo, f(x+h) es muy cercano al valor de la recta tangente al punto.
+La ecuación para la linealización de una función a x = a es:
+Para x = a, f(a) es f(x) a a. La derivada de f(x) es f'(x), y la pendiente de f(x) a a es f'(a).
+Para encontrar, se puede usar el hecho que.
+La linealización de en x = a es, porque la función  define la pendiente de la función  en x = a. Haciendo a = 4, la linealización a 4 es.
+En este caso x = 4.001, por tanto es aproximadamente.
+El valor exacto es cercano a 2.00024998, por tanto la aproximación dada por la linealización es extraordinariamente precisa.
+La linealización permite usar herramientas desarrolladas para el estudio de sistemas lineales en el estudio del comportamiento de sistemas no lineales en torno a un punto dado.
+La linealización de una función es el término de primer orden del desarrollo en la serie de Taylor en torno al punto de interés.
+Para sistemas definidos por la ecuación
+el sistema linealizado se puede escribir como
+donde es el punto de interés y  es el Jacobiano de  evaluado a.
+En análisis de estabilidad, se pueden utilizar los valores propios del jacobiano evaluado al punto de equilibrio para determinar la naturaleza del equilibrio si todos los valores propios son positivos, el equilibrio es inestable; si son todos negativos, el equilibrio es estable; y si los valores son de signos mixtos, el equilibrio es un punto de silla.
+Cualquier valor propio complejo aparecerá en un par de complejos conjugados (ya que los valores propios son las raíces del polinomio anulador que tiene coeficientes reales) e indicará un equilibrio espiral (o circular si los componentes reales son cero en torno al equilibrio).

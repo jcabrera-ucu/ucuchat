@@ -1,0 +1,3 @@
+Mycoplasmatales es un orden de Mollicutes que comprende dos géneros reconocidos y un tercer género en estado de Candidatus (todavía no aceptado formalmente).
+Son muy pequeños (0,3 µm), con un genoma entre 0,6 y 2,2 millones de pares de bases y bajo GC, entre 23 y 39%.
+Son parásitos o comensales que no tienen pared celular y que requieren colesterol para su crecimiento.

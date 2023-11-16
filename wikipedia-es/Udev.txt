@@ -1,0 +1,45 @@
+udev es el gestor de dispositivos que usa el núcleo Linux en su versión 2.6.
+Su función es controlar los ficheros de dispositivo en <tt>/dev</tt>.
+Es el sucesor de devfs y de hotplug, lo que significa que maneja el directorio <tt>/dev</tt> y todas las acciones del espacio de usuario al agregar o quitar dispositivos, incluyendo la carga de firmwares.
+En un sistema Linux tradicional (sin udev ni devfs), en el directorio <tt>/dev</tt> hay nodos de dispositivo creados para cada dispositivo conocido, esté o no en el sistema.
+Se dice que es un conjunto de ficheros estático, ya que los nodos no cambian.
+Además, la forma de acceder a un periférico concreto no es siempre la misma, ya que depende de qué otros aparatos hay conectados:
+si se conectan los discos A y B, se llamarán <tt>disco1</tt> y <tt>disco2</tt> respectivamente.
+Pero si está solo un disco (el B, por ejemplo), se llamará <tt>disco1</tt>, porque solo hay uno.
+El B ha cambiado de nombre.
+Este modelo de gestión de dispositivos da algunos problemas:
+udev soluciona estos problemas, sobre todo el de poder acceder a un dispositivo con un nombre siempre fijo.
+Ésta fue la razón por la que se hizo udev, ya que antes estaba devfs, que solucionaba alguno de estos problemas, pero no todos (véase sección Diferencias con devfs).
+udev resuelve los problemas anteriores de la siguiente forma:
+udev mantiene en <tt>/dev</tt> solo las entradas correspondientes a los dispositivos que hay conectados al sistema.
+Así se soluciona el problema del <tt>/dev</tt> superpoblado.
+No se usa el número mayor y menor para reconocer a cada dispositivo.
+Puede funcionar incluso aunque estén elegidos al azar.
+Por tanto, no le afecta el que se acaben las combinaciones mayor/menor asignables.
+Permite dar un nombre fijo para cada dispositivo, por ejemplo cámara, sin que éste dependa de qué otros dispositivos hay conectados ni del orden en que se han conectado.
+Un disco duro, por ejemplo, se reconoce por el identificador de su sistema de ficheros, el nombre del disco, y el conector físico en el que está.
+Avisa mediante mensajes D-BUS para que cualquier programa del espacio de usuario pueda enterarse cuando un dispositivo se conecta o desconecta (esto es útil para HAL).
+También permite a los programas consultar la lista de dispositivos conectados y la forma de acceder a cada uno.
+udev hace que toda la política de nombres de dispositivo esté en espacio de usuario, y no en el núcleo.
+Esto hace posible que un programa cualquiera pueda decidir el nombre de un dispositivo, por ejemplo basándose en sus características.
+No es necesario modificar el núcleo si no se está conforme con el nombre que se le da a un dispositivo.
+Otra ventaja de tener el demonio de udev (<tt>udevd</tt>) en espacio de usuario es que esta memoria se puede llevar a disco (al espacio de intercambio), a diferencia de la memoria de núcleo.
+Esto lo hace apropiado para sistemas embebidos con poca memoria física.
+udev respeta la forma de nombrar dispositivos definida en el LSB, aunque permite que los usuarios usen otros nombres.
+El proceso (<tt>udevd</tt>) ocupa poca memoria y no necesita ejecutarse siempre.
+Esto también favorece a los sistemas embebidos y equipos poco potentes.
+devfs también se hizo para solucionar algunos de los problemas originales, pero no todos.
+Los autores de udev explican en (en inglés) las razones por las que udev es mejor que devfs.
+Resumiendo:
+udev se ejecuta mediante un demonio: el proceso <tt>udevd</tt>, que detecta cuándo se ha conectado o desconectado un dispositivo del sistema.
+Cuando pasa uno de estos eventos, udev obtiene información de contexto (subsistema del núcleo, conector físico usado, nombre dado por el núcleo, ...) y también del propio dispositivo (número de serie, fabricante, ...).
+Esta información la puede encontrar mediante los datos que hay en <tt>/sys</tt>, en donde está montado el sistema de ficheros sysfs, del que se encarga el núcleo (versión 2.6 y posteriores).
+Un conjunto de reglas (en <tt>/etc/udev/rules.d/</tt>) deciden qué acción hay que hacer a partir de los datos obtenidos.
+Lo que la regla hará será -probablemente- dar un nombre al dispositivo, crear el fichero de dispositivo apropiado, y ejecutar el programa que se haya configurado para que acabe de hacer funcionar el dispositivo.
+Las reglas pueden asociar un nombre fijo a un dispositivo, pero también pueden llamar a un programa externo que dé más información sobre el dispositivo; así se puede conseguir un nombre más específico.
+Dos posibles reglas que dan un nombre fijo a dos impresoras distintas; las dos conectadas por USB pero con un número de serie distinto (obtenido por sysfs):
+BUS=="usb", SYSFS_serial=="W09090207101241330", \
+NAME="lp_color"
+BUS=="usb", SYSFS_serial=="HXOLL0012202323480", \
+NAME="lp_plain"
+udev fue desarrollado por Greg Kroah-Hartman, con ayuda de Dan Stekloff, Kay Sievers, y muchos otros.

@@ -1,0 +1,3 @@
+La fotodisociación es la disociación de una molécula por los fotones incidentes.
+Este proceso ha representado y sigue representando un papel importante en la evolución de las atmósferas planetarias.
+Una importante parte del oxígeno del aire proviene de las plantas (a través de la fotosíntesis), pero el resto es el resultado de la disociación del vapor de agua atmosférico, cuya molécula H2O, al ser herida por los fotones de la luz solar, da OH más un H (hidrógeno libre); posteriormente dos OH reconstituyen una molécula de agua H2O y dejan un átomo de O sobrante.

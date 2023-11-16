@@ -1,0 +1,4 @@
+La bomba de plutonio es una bomba de tipo implosivo, para su construcción se rodea la masa fisionable de explosivos convencionales especialmente diseñados para comprimir el plutonio, de forma que una esfera de plutonio del tamaño de una pelota de tenis se reduce casi instántaneamente hasta un volumen de 2 a 4, o incluso 5, veces menor, aumentando en la misma proporción la densidad del material.
+En general, sin embargo, se utilizan esferas huecas de diámetro algo mayor.
+La masa de material físil comprimida, que inicialmente no era crítica, sí lo es en las nuevas condiciones de densidad y geometría, iniciándose una reacción en cadena de fisión nuclear descontrolada ante la presencia de neutrones, que acaba provocando una violenta explosión y la destrucción total dentro de un perímetro limitado.
+La bomba lanzada en la Segunda Guerra Mundial sobre Nagasaki (Fat Man) era de plutonio.

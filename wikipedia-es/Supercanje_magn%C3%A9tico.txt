@@ -1,0 +1,4 @@
+El supercanje magnético o superintercambio magnético es el tipo de canje que se da a través de un intermediario, como un ligando puente (sea un átomo o una molécula).
+A diferencia del canje magnético directo, que tiene lugar entre los orbitales magnéticos de los metales, el supercanje exige la participación de orbitales de otros átomos.
+En la práctica, en la mayor parte de los sistemas se da supercanje, más que canje, ya que las distancias interatómicas suelen ser demasiado elevadas como para que el solapamiento entre orbitales magnéticos sea significativo.
+<References/>

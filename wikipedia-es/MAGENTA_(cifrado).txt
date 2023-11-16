@@ -1,0 +1,7 @@
+En criptografía, MAGENTA es un algoritmo de cifrado simétrico por bloques desarrollado por Deutsche Telekom.
+El nombre MAGENTA es un acrónimo para Multifunctional Algorithm for General-purpose Encryption and Network Telecommunication Applications (el color magenta es también parte del color corporativo de dicha empresa).
+El cifrador fue propuesto para convertirse en el AES, pero no avanzó más allá de la primera ronda.
+Debilidades criptográficas fueron descubiertas y se comprobó que era uno de los cifradores más lentos remitidos.
+MAGENTA tiene un tamaño de bloque de 128 bits y un tamaño de clave de 128, 196 y 256 bits.
+Es un cifrador Feistel con 6 rondas.
+Después de la presentación del algoritmo a las primeras conferencias de AES, varios criptógrafos encontraron inmediatamente vulnerabilidades, que fueron compiladas y presentadas a la segunda conferencia (Biham, 1999).

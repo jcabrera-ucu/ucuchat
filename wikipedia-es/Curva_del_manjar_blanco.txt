@@ -1,0 +1,73 @@
+En matemáticas, la curva del manjar blanco es un tipo de curva autoafín construible por subdivisiones sucesivas aplicadas en los puntos medios de cada estado anterior.
+También se conoce como la curva de Takagi, en honor a Teiji Takagi, quien la describió en 1901, o como la curva de Takagi-Landsberg, una generalización de la curva que lleva el nombre de Takagi y de Georg Landsberg.
+Su nombre proviene de su parecido con un manjar blanco, un tipo de pudding de origen francés.
+Es un caso particular de la curva de De Rham (véase curva fractal).
+La función manjar blanco se define en el intervalo unidad mediante
+donde s(x) es una onda triangular, definida por ,
+es decir, s(x) es la distancia de x al número entero más cercano.
+La curva de Takagi-Landsberg es una ligera generalización, dada por
+para un parámetro w; por lo tanto, la curva del manjar blanco es el caso w=1/2.
+El valor H=-\log_2 w se conoce como parámetro de Hurst.
+La función se puede extender a toda la recta real: la aplicación de la definición dada arriba muestra que la función se repite en cada intervalo unitario.
+La función también podría estar definida por la serie en la sección Expansión en series de Fourier.
+La versión periódica de la curva de Takagi también se puede definir como la solución limitada única a la ecuación funcional
+De hecho, la función del manjar blanco T_w ciertamente está acotada y resuelve la ecuación funcional, ya que
+Por el contrario, si T:\R\to\R es una solución acotada de la ecuación funcional, iterando la igualdad que se tiene para cualquier N
+de donde T=T_w.
+Por cierto, las ecuaciones funcionales anteriores poseen infinitas soluciones continuas, no acotadas, como por ejemplo
+La curva del manjar blanco se puede construir visualmente a partir de funciones de onda triangulares si la suma infinita se aproxima mediante sumas finitas de los primeros términos.
+En las siguientes ilustraciones, las funciones triangulares progresivamente más finas (mostradas en rojo) se agregan a la curva en cada etapa.
+La suma infinita que define T_w(x) converge absolutamente para todo x: desde para todo, tiene:
+Por lo tanto, la curva de Takagi de parámetro w se define en el intervalo unitario (o \mathbb{R}) si |w|<1.
+La función Takagi del parámetro w es continua.
+De hecho, las funciones T_{w,n} definidas por las sumas parciales son continuas y converge uniformemente hacia T_w, ya que:
+Este valor se puede hacer tan pequeño como se quiera seleccionando un valor suficientemente grande de n.
+Por lo tanto, según el teorema del límite uniforme, T_w es continua si |w| <1.
+Dado que el valor absoluto es una función subaditiva, también lo es la función y sus dilataciones s(2^kx).
+Dado que las combinaciones lineales positivas y los límites puntuales de las funciones subaditivas son subaditivas, la función de Takagi es subaditiva para cualquier valor del parámetro w.
+Para w=1/4, se obtiene una parábola.
+De hecho, la construcción de la parábola por subdivisión del punto medio ya fue descrita por Arquímedes.
+Para los valores del parámetro 0< w < 1/2, la función de Takagi T_w es diferenciable en sentido clásico en cualquier x\in\R que no sea un número racional diádico.
+Precisamente, por derivación bajo el signo de la serie, para cualquier x\in\R racional no diádico que se desee
+donde es la secuencia de dígitos en la expresión binaria de x, es decir,.
+Además, para estos valores de w, la función T_w es lipschitziana de constante 1\over 1-2w.
+En particular para el valor especial w=1/4, se tiene que para cualquier x\in[0,1] racional no diádico, de acuerdo con el mencionado
+Para w=1/2, la función del manjar blanco T_w es de variación acotada en cualquier conjunto abierto no vacío; ni siquiera es lipschitziana localmente, pero es casi-lipschitziana.
+De hecho, admite la función como módulo de continuidad.
+La función Takagi-Landsberg admite una expansión en series de Fourier absolutamente convergente:
+con y, para m\ge 1
+donde 2^{\nu(m)} es la potencia máxima de 2 que divide a m. De hecho, la onda triangular s(x) anterior posee una expansión en series de Fourier absolutamente convergente
+Por convergencia absoluta, se puede reordenar la serie doble correspondiente para T_w(x):
+poniendo m=2^n(2k+1) se genera la serie de Fourier anterior para T_w(x).
+La definición recursiva permite dar el monoide de auto-simetrías de la curva.
+Este monoide viene dado por dos generadores, g y r, que actúan en la curva (restringida al intervalo unitario) como
+y
+Un elemento general del monoide tiene entonces la forma para algunos enteros  que actúa en la curva como una función lineal:  para algunas constantes a, b y c.
+Debido a que la acción es lineal, se puede describir en términos de un espacio vectorial, con la base:
+En este representación, la acción de g y r viene dada por
+y
+Es decir, la acción de un elemento general \gamma aplica la curva del manjar blanco en el intervalo unitario [0,1] a un subintervalo para algunos enteros m, n, p.
+la aplicación viene dado exactamente por donde los valores de a, b y c se puede obtener directamente multiplicando las matrices anteriores.
+Es decir:
+Téngase en cuenta que obtener es inmediato.
+El monoide generado por g y r a veces se denomina monoide diádico, un sub-monoide del grupo modular.
+Cuando se habla del grupo modular, la notación más común para g y r es T y S, pero esa notación entra en conflicto con los símbolos utilizados aquí.
+La representación tridimensional anterior es solo una de las muchas representaciones que puede tener; muestra que la curva del manjar blanco es una posible realización de la acción.
+Es decir, hay representaciones para cualquier dimensión, no solo para 3, de forma que algunas de ellas generan la curva de De Rham.
+Dado que la integral de de 0 a 1 es 1/2, la identidad  permite que la integral sobre cualquier intervalo sea calculada por la siguiente relación recursiva, con el tiempo de cálculo en el orden del logaritmo de la precisión requerida.
+Definiendo
+se tiene que
+La integral viene dado por:
+Se puede obtener una expresión más general definiendo
+lo que combinado con la representación en serie da
+teniendo en cuenta que
+Esta integral también es auto-semejante en el intervalo unitario, bajo una acción del monoide diádico descrito en la sección Autosemejanza.
+Aquí, la representación es de 4 dimensiones y tiene la base.
+Reescribiendo lo anterior en el intervalo unitario para que la acción de g sea más clara, se tiene que
+A partir de esto, se pueden obtener inmediatamente los generadores de la representación en cuatro dimensiones:
+y
+Las integrales repetidas se transforman bajo una representación de 5,6, ... dimensiones.
+Sea
+Definiendo la función de Kruskal-Katona
+el teorema de Kruskal-Katona establece que este es el número mínimo de (t &minus; 1)-simplex que son caras de un conjunto de N t-simplex.
+A medida que t y N se acercan al infinito, (adecuadamente normalizada) se aproxima a la curva del manjar blanco.

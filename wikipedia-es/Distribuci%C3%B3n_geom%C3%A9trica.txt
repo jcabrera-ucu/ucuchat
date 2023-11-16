@@ -1,0 +1,18 @@
+En teoría de probabilidad y estadística, la distribución geométrica es cualquiera de las dos distribuciones de probabilidad discretas siguientes:
+Si una variable aleatoria discreta X sigue una distribución geométrica con parámetro 0<p<1 entonces escribiremos o simplemente.
+Si la variable aleatoria discreta X se usa para modelar el número total de intentos hasta obtener el primer éxito en una sucesión de ensayos independientes Bernoulli en donde en cada uno de ellos la probabilidad de éxito es p entonces la función de probabilidad de es
+para
+Si entonces la función de distribución está dada por
+para
+Si considerando que X modela el número de fracasos antes del primer éxito entonces la variable aleatoria X cumple con algunas propiedades:
+La media de X, siempre que X modele el número de ensayos hasta obtener el primer éxito, está dada por
+La varianza de X está dada por
+La función generadora de probabilidad f.g.p está dada por
+si.
+La función generadora de momentos está dada por
+si t<-\ln(1-p).
+La distribución geométrica tiene la propiedad de pérdida memoria, es decir, para cualesquiera m,n\geq0
+Su distribución análoga, la distribución exponencial, también tiene la propiedad de pérdida de memoria.
+Esto significa que si intentamos repetir el experimento hasta el primer éxito, entonces, dado que el primer éxito todavía no ha ocurrido, la distribución de condicional del número de ensayos adicionales no depende de cuantos fallos se hayan observado.
+El dado o la moneda que uno lanza no tiene "memoria" de estos fallos.
+La distribución geométrica es la única distribución discreta que tiene la propiedad de pérdida de memoria.

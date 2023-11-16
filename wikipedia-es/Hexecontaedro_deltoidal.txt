@@ -1,0 +1,21 @@
+En geometría, un hexecontaedro deltoidal (también llamado a veces hexecontaedro trapezoidal, hexecontaedro estrombico o hexecontaedro tetragonal) es un sólidos de Catalan que es el poliedro conjugado del rombicosidodecaedro, un sólidos arquimediano.
+Es uno de los seis sólidos de Catalan que no tiene un camino hamiltoniano entre sus vértices.
+Es topológicamente idéntico al hexecontaedro rómbico no convexo.
+Las 60 caras son deltoides (también denominados cometas).
+Los bordes corto y largo de cada deltoide están en la proporción 1:7 + √5⁄6 ≈ 1:1.539344663...
+El ángulo entre dos aristas cortas en una sola cara es arccos(-5-2√5⁄20)≈118.2686774705°.
+El ángulo opuesto, entre los bordes largos, es arccos(-5+9√5⁄40)≈67.783011547435°.
+Los otros dos ángulos de cada cara, entre un lado corto y uno largo, son ambos iguales a arccos(5-2√5⁄10)≈86.97415549104°.
+El ángulo diedro entre cualquier par de caras adyacentes es arccos(-19-8√5⁄41)≈154.12136312578°.
+Topológicamente, el hexecontaedro deltoidal es idéntico al hexecontahedro rómbico no convexo.
+El hexecontaedro deltoidal se puede derivar de un dodecaedro (o icosaedro) desplazando los centros de las caras, los centros de las aristas y los vértices hacia diferentes radios del centro del cuerpo.
+Los radios se eligen de modo que la forma resultante tenga caras planas de cometa, cada una de manera que los vértices vayan a las esquinas de grado 3, las caras a las esquinas de grado cinco y los centros de las aristas a los puntos de grado cuatro.
+Los 62 vértices del disdiaquis triacontaedro caen en tres conjuntos centrados en el origen:
+Estos tres poliedros se visualizan en las siguientes figuras:
+El hexecontaedro deltoidal tiene 3 posiciones de simetría ubicadas en los 3 tipos de vértices:
+El hexecontaedro deltoidal se puede construir a partir de un icosaedro regular o de un dodecaedro regular agregando vértices en la mitad de cada arista y en la mitad de cada cara, y creando nuevas aristas desde el centro de cada arista hasta los centros de las caras.
+La notación de poliedros de Conway los daría como oI y oD, orto-icosaedro y orto-dodecaedro.
+Estas variaciones geométricas existen como un continuo en un grado de libertad.
+Cuando se proyecta sobre una esfera (véase a la derecha), se puede observar que las aristas forman las aristas de un icosaedro y de un dodecaedro dispuestas en sus posiciones duales (equivalente al compuesto de dodecaedro e icosaedro).
+Este teselado está relacionado topológicamente como parte de la secuencia de poliedros deltoidales con figura de cara (V3.4.n.4), y continúa con teselados del plano hiperbólico.
+Estas figuras isoedrales tienen simetría reflexiva (*n32).

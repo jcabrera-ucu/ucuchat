@@ -1,0 +1,80 @@
+La secuenciación del genoma del cáncer es la secuenciación del genoma completo de un grupo único, homogéneo o heterogéneo de células cancerosas.
+Es un método de laboratorio bioquímico para la caracterización e identificación de las secuencias de ADN o ARN de las células cancerosas
+A diferencia de la secuenciación del genoma completo (WGS siglas en inglés de Whole Genome Sequencing), que suele realizarse a partir de células sanguíneas, como en los proyectos de secuenciación del WGS de J. Craig Venter y James D. Watson, de la saliva, de las células epiteliales o de los huesos, la secuenciación del genoma del cáncer implica la secuenciación directa del tejido tumoral primario, del tejido normal adyacente o distal, del microentorno tumoral, como los fibroblastos/células estromales, o de las zonas tumorales metastásicas.
+Esta técnica también permite el análisis de muestras de ADN circulante tumoral presentes en el plasma de pacientes.
+Al igual que la secuenciación del genoma completo, la información generada por esta técnica incluye: la identificación de las bases nucleotídicas (ADN o ARN), el número de copias y las variantes de la secuencia, el estado de las mutaciones y los cambios estructurales, como las translocaciones cromosómicas y los genes de fusión.
+La secuenciación del genoma del cáncer no se limita a la secuenciación WGS y también puede incluir la secuenciación del exoma, el transcriptoma, el micrónoma y el perfilado de la secuencia final.
+Estos métodos se pueden utilizar para cuantificar la expresión génica, la expresión de miARN y para identificar eventos de corte y empalme alternativos además de los datos de secuencia.
+El primer informe sobre la secuenciación del genoma del cáncer apareció en 2006.
+En este estudio se secuenciaron 13.023 genes en 11 tumores de mama y 11 tumores colorrectales.
+En 2007 se publicó un seguimiento posterior en el que el mismo grupo añadió algo más de 5.000 genes más y casi 8.000 especies de transcripción para completar los exomas de 11 tumores de mama y colorrectales.
+El primer genoma completo del cáncer que se secuenció fue el de una leucemia mieloide aguda citogenéticamente normal, realizado por Ley et al. en noviembre de 2008.
+El primer tumor de cáncer de mama fue secuenciado por Shah et al. en octubre de 2009, los primeros tumores de pulmón y piel por Pleasance et al. en enero de 2010, y los primeros tumores de próstata por Berger et al. en febrero de 2011.
+Históricamente, los proyectos de secuenciación del genoma del cáncer se han dividido entre los proyectos de secuenciación basados en el transcriptoma y los centrados en el ADN.
+El Proyecto de Anatomía del Genoma del Cáncer (CGAP, por sus siglas en inglés de Cancer Genome Anatomy Project) se financió por primera vez en 1997 con el objetivo de documentar las secuencias de las transcripciones de ARN en las células tumorales.
+A medida que mejoró la tecnología, el CGAP amplió sus objetivos para incluir la determinación de perfiles de expresión génica de tejidos cancerosos, precancerosos y normales.
+El CGAP publicó en 2003 la mayor colección de marcadores de secuencias expresadas de cáncer a disposición del público.
+El Proyecto Genoma del Cáncer del Instituto Sanger, financiado por primera vez en 2005, se centra en la secuenciación del ADN.
+Ha publicado un censo de genes implicados en el cáncer y una serie de pruebas de resecuenciación del genoma completo en busca de genes implicados en el cáncer.
+El Consorcio Internacional del Genoma del Cáncer (ICGC, por sus siglas en inglés de International Cancer Genome Consortium) se fundó en 2007 con el objetivo de integrar los datos genómicos, transcriptómicos y epigenéticos disponibles de muchos grupos de investigación diferentes.
+En diciembre de 2011, el ICGC incluía 45 proyectos comprometidos y disponía de datos de 2.961 genomas del cáncer.
+El proceso de tumorigénesis que transforma una célula normal en una cancerosa implica una serie de complejos cambios genéticos y epigenéticos.
+La identificación y caracterización de todos estos cambios puede llevarse a cabo mediante diversas estrategias de secuenciación del genoma del cáncer.
+El poder de la secuenciación del genoma del cáncer reside en la heterogeneidad de los cánceres y los pacientes.
+La mayoría de los cánceres tienen varios subtipos y, junto con estas "variantes del cáncer", se encuentran las diferencias entre un subtipo de cáncer en un individuo y en otro.
+La secuenciación del genoma del cáncer permite a los médicos y oncólogos identificar los cambios específicos y únicos que ha sufrido un paciente para desarrollar su cáncer.
+A partir de estos cambios, se puede emprender una estrategia terapéutica personalizada.
+Una gran contribución a la muerte por cáncer y al fracaso de su tratamiento es la evolución clonal a nivel citogenético, por ejemplo, como se observa en la leucemia mieloide aguda (LMA).
+En un estudio de Nature publicado en 2011, Ding et al. identificaron fracciones celulares caracterizadas por cambios mutacionales comunes para ilustrar la heterogeneidad de un determinado tumor antes y después del tratamiento frente a la sangre normal de un individuo.
+Estas facciones celulares solo podrían haberse identificado a través de la secuenciación del genoma del cáncer, lo que muestra la información que puede proporcionar la secuenciación y la complejidad y heterogeneidad de un tumor dentro de un individuo.
+Los dos principales proyectos centrados en la caracterización completa del cáncer en individuos, que implican en gran medida la secuenciación, son el Proyecto del Genoma del Cáncer, con sede en el Instituto Wellcome Trust Sanger, y el Atlas del Genoma del Cáncer, financiado por el Instituto Nacional del Cáncer (NCI) y el Instituto Nacional de Investigación del Genoma Humano (NHGRI).
+Junto a estos esfuerzos, el Consorcio Internacional del Genoma del Cáncer (una organización más amplia) es una organización científica voluntaria que ofrece un foro de colaboración entre los principales investigadores mundiales del cáncer y la genómica.
+El objetivo del Proyecto Genoma del Cáncer es identificar variantes de secuencia y mutaciones críticas en el desarrollo de los cánceres humanos.
+El proyecto consiste en el cribado sistemático de los genes codificantes y de las uniones de empalme que flanquean a todos los genes del genoma humano para detectar mutaciones adquiridas en los cánceres humanos.
+Para investigar estos eventos, el conjunto de muestras de descubrimiento incluirá ADN de un tumor primario, tejido normal (de los mismos individuos) y líneas celulares de cáncer.
+Todos los resultados de este proyecto se amalgaman y almacenan en la base de datos de cáncer COSMIC.
+COSMIC también incluye datos mutacionales publicados en la literatura científica.
+El TCGA es un esfuerzo multiinstitucional para comprender las bases moleculares del cáncer mediante tecnologías de análisis del genoma, incluidas las técnicas de secuenciación del genoma a gran escala.
+Se están recogiendo, secuenciando y analizando cientos de muestras.
+En la actualidad, los tejidos cancerosos que se están recogiendo incluyen: sistema nervioso central, mama, gastrointestinal, ginecológico, cabeza y cuello, hematológico, torácico y urológico.
+Los componentes de la red de investigación TCGA incluyen: recursos centrales de bioespecímenes, centros de caracterización del genoma, centros de secuenciación del genoma, centros de caracterización del proteoma, un centro de coordinación de datos y centros de análisis de datos del genoma.
+Cada tipo de cáncer se somete a una caracterización y un análisis genómicos exhaustivos.
+Los datos y la información generados están disponibles de forma gratuita a través del portal de datos del proyecto TCGA.
+El objetivo del ICGC es "obtener una descripción exhaustiva de los cambios genómicos, transcriptómicos y epigenómicos en 50 tipos y/o subtipos de tumores diferentes de importancia clínica y social en todo el mundo".
+La secuenciación del genoma del cáncer utiliza la misma tecnología que la secuenciación del genoma completo.
+La historia de la secuenciación ha recorrido un largo camino, originado en 1977 por dos grupos independientes: la técnica de secuenciación enzimática del ADN didoxilado de Fredrick Sanger y la técnica de degradación química de Allen Maxam y Walter Gilbert.
+Después de estos artículos de referencia, más de 20 años más tarde nació la "segunda generación" de secuenciación de alto rendimiento (HT-NGS), seguida de la "tercera generación de tecnología HT-NGS" en 2010.
+Las figuras de la derecha ilustran el proceso biológico general y las empresas que participan en la secuenciación HT-NGS de segunda y tercera generación.
+Las tres principales plataformas de segunda generación son la pirosecuenciación de Roche/454, la secuenciación por ligadura de ABI/SOLiD y la tecnología de secuenciación por amplificación en puente de Illumina.
+Las tres principales plataformas de tercera generación incluyen la secuenciación en tiempo real de una sola molécula (SMRT) de Pacific Biosciences, la secuenciación de nanoporos de Oxford y la secuenciación por semiconductores de Ion.
+Como en cualquier proyecto de secuenciación del genoma, las lecturas deben ensamblarse para formar una representación de los cromosomas que se secuencian.
+En el caso de los genomas del cáncer, esto se suele hacer alineando las lecturas con el genoma humano de referencia.
+Dado que incluso las células no cancerosas acumulan mutaciones somáticas, es necesario comparar la secuencia del tumor con un tejido normal coincidente para descubrir qué mutaciones son exclusivas del cáncer.
+En algunos tipos de cáncer, como la leucemia, no resulta práctico comparar la muestra de cáncer con un tejido normal, por lo que debe utilizarse un tejido no canceroso diferente.
+Se ha calculado que el descubrimiento de todas las mutaciones somáticas de un tumor requeriría una cobertura de secuenciación de 30 veces el genoma del tumor y un tejido normal equivalente.
+En comparación, el borrador original del genoma humano tenía una cobertura de aproximadamente 65 veces.
+Uno de los principales objetivos de la secuenciación del genoma del cáncer es identificar las mutaciones impulsoras: cambios genéticos que aumentan la tasa de mutación en la célula, lo que conduce a una evolución tumoral más rápida y a la metástasis.
+Es difícil determinar las mutaciones impulsoras sólo a partir de la secuencia del ADN, pero las mutaciones impulsoras suelen ser las más compartidas entre los tumores, se agrupan en torno a oncogenes conocidos y tienden a ser no silenciosas.
+Las mutaciones pasajeras, que no son importantes en la progresión de la enfermedad, están distribuidas al azar por todo el genoma.
+Se ha estimado que el tumor medio es portador de unas 80 mutaciones somáticas, de las que se espera que menos de 15 sean impulsoras.
+En la actualidad, se están desarrollando diferentes softwares con el objetivo de identificar aquellas variantes de nucleótido único que guarden relación directa con la transformación celular y el desarrollo de tumores.
+Un estudio reciente comparó la precisión de tres de estos programas comúnmente llamados detectores de mutaciones (en inglésmutation caller's), en un estudio sobre reproducibilidad en muestras de cáncer de mama utilizando WGS y WES.
+Los tres programas analizados fueron MuTect2, SomaticSniper y Strelka2, y los que mostraron un mejor rendimiento fueron: MuTect2 cuando se realizó un WES, y MuTect2 y Strelka2 para WGS.
+Además, el mismo trabajo publicó las siguientes recomendaciones con el objetivo de mejorar la reproducibilidad de los datos al trabajar con WGS en muestras de cáncer:
+Además, como observaciones finales en este trabajo se concluyó que la detección de mutaciones en cancer es un proceso inherentemente integrado del cual cada componente y cada combinación de estos es igual de importante y, finalmente, que los estudios de revisión y validación deben realizarse teniendo en cuenta todo el proceso, desde la muestra hasta el resultado.
+Un análisis genómico personal requiere una mayor caracterización funcional de los genes mutantes detectados y el desarrollo de un modelo básico del origen y la progresión del tumor.
+Este análisis puede utilizarse para hacer recomendaciones de tratamiento farmacológico.
+Hasta febrero de 2012, esto sólo se ha hecho en los ensayos clínicos con pacientes diseñados para evaluar el enfoque de genómica personal para el tratamiento del cáncer.
+Un cribado a gran escala de mutaciones somáticas en tumores de mama y colorrectales demostró que muchas mutaciones de baja frecuencia contribuyen poco a la supervivencia celular.
+Si la supervivencia de las células viene determinada por muchas mutaciones de escaso efecto, es poco probable que la secuenciación del genoma descubra un único "talón de Aquiles" para los fármacos contra el cáncer.
+Sin embargo, las mutaciones somáticas tienden a agruparse en un número limitado de vías de señalización,  que son posibles objetivos de tratamiento.
+Los cánceres son poblaciones heterogéneas de células.
+Cuando los datos de la secuencia se obtienen de un tumor completo, se pierde la información sobre las diferencias en la secuencia y el patrón de expresión entre las células.
+Esta dificultad puede mejorarse con el análisis de una sola célula.
+Las propiedades clínicamente significativas de los tumores, incluida la resistencia a los fármacos, a veces están causadas por reordenamientos a gran escala del genoma, más que por mutaciones individuales.
+En este caso, la información sobre las variantes de un solo nucleótido tendrá una utilidad limitada.
+La secuenciación del genoma del cáncer puede utilizarse para proporcionar información clínicamente relevante en pacientes con tipos de tumores raros o novedosos.
+Traducir la información de la secuencia en un plan de tratamiento clínico es muy complicado, requiere expertos de muchos campos diferentes y no está garantizado que conduzca a un plan de tratamiento eficaz.
+El incidentalome es el conjunto de variantes genómicas detectadas no relacionadas con el cáncer en estudio.
+(El término es un juego de palabras con el nombre de incidentaloma, que designa a los tumores y crecimientos detectados en las imágenes de todo el cuerpo por casualidad).
+La detección de estas variantes puede dar lugar a medidas adicionales, como la realización de más pruebas o el control del estilo de vida.

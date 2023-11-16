@@ -1,0 +1,126 @@
+Racing Lagoon (レーシングラグーン) es un videojuego desarrollado y publicado por Square.
+El juego es único en combinar las carreras de coches con elementos de rol.
+La historia nos sitúa en Yokohama, Japón.
+Año 1999.
+Sho Asaki, acaba de ingresar en una banda de carreras callejeras con la que espera poder recordar su pasado.
+Lanzado para la PlayStation, el juego es compatible con la Sony PocketStation.
+La banda sonora fue compuesta por Noriko Matsueda y es una fusión entre jazz y techno fusion; acompañándola en su tarea estuvo Takahito Eguchi en su primer trabajo como compositor.
+La banda sonora fue publicada como álbum.
+El juego recibió malas críticas y nunca salió de Japón, aun así consiguió vender 100,000 copias.
+El juego nos propone carreras ilegales intercaladas con secuencias de texto sobre imágenes estáticas.
+El jugador puede customizar el coche cambiándole el color y algunas piezas y, batirse en duelo con otros conductores a los cuales le podemos arrebatar piezas o coches si les vencemos.
+El juego cuenta con dos modos: un modo "RPG de conducción a alta velocidad", donde el jugador conduce alrededor de misiones y carreras de otros conductores, y un "Modo de batalla de 2 guerreros", donde el jugador simplemente compite en carreras.
+El modo RPG es la parte principal del juego.
+<!--
+Racing Lagoon plot takes place in Yokohama, Japan, in 1999, and centers on several groups of street racers.
+10 years prior to the game an event called "Fastest Legend" took place.
+One night, Team Bay Lagoon Racing (BLR), a five-member team led by "The Ace", Ikki Fujisawa, holds a race against Night Racers Honmuku (NR).
+The story follows one of BLR's newly joined members, Sho Akasaki, who is just beginning his racing career.
+Akasaki is determined to find out about the mystery of the "Fastest Legend", as well as his forgotten past.
+A new member of Bay Lagoon Racing, begins the story of his racing career with the two-tone white and black 86-Lev (Toyota Corolla Levin).
+He's determined to find out about the mystery of the legend 10 years ago, as well as his forgotten past: his involvement in the D-Project of WON-TEC.
+His search leads him to finding out that he was the one that became the legend 10 years ago, driving a silver Zeta3000 (Nissan Fairlady Z32) and was the first test subject for the D-Project, he was also the one that caused the incident that ended the legend, and the lives of his fellow Diablo drivers.
+He switches over to a blue Zeta3000 at the end of the game, racing with Fujisawa after the latter recovers from the effects of the final battle.
+Leader of Bay Lagoon Racing who drives a two-tone red and black RS2000turbo (Nissan Skyline DR30), he is a former member of the Hakone DRIFT DANCERS.
+He was one of the contestants for the YOKOHAMA GP championship round, where he's defeated by Akasaki.
+Looking to get even with Akasaki, he challenges him to a Taiman battle around the Bay Lagoon area, where he crashes on the same corner that Makoto Sawaki did.
+After leaving the hospital, he drives the DiabloZETA (Nissan Fairlady Z32) for WON-TEC during the Darkness GP and a DiabloTUNE version of his RS2000turbo in the final battle, though his consumption of the Diablo drugs leaves him hospitalized after the final battle.
+He recovers and is seen racing Akasaki on his RS2000turbo, having gotten rid of its DiabloTUNE.
+Associate team leader of Bay Lagoon Racing who drives a two-tone blue and black Seven-RX (Mazda RX-7 FC) and works at the gas station (GS) in South Yokohama.
+He's defeated by Akasaki during the BLR qualifying battle for the representative in the YOKOHAMA GP.
+His bitter defeat drives him into challenging Akasaki into a Taiman battle with his Seven-RX that had DiabloTUNE and leaves the team afterwards.
+He later dies when he crashes into the port of Yokohama in the eve of the YOKOHAMA GP Qualifiers, physically and mentally unstable due to the Diablo drugs he took to be able to control the DiabloTUNE car.
+The youngest member of Bay Lagoon Racing who drives a two-tone blue and yellow CVC1600 (Honda Civic).
+During the early part of the story, he is saved by Akasaki when he is cornered by thugs along the cemetery area.
+He then helps Akasaki search for Yuka when she goes missing, telling him about the Ishikawa brothers' involvement.
+He is last seen injured by the WON-TEC building, beaten up by WON-TEC personnel to send a message to Akasaki prior to the Darkness GP.
+The only female member of Bay Lagoon Racing and Akasaki's girlfriends.
+Her car is a two-tone red and pink Micro GT (Mini).
+She first gets kidnapped by the Ishikawa brothers in an attempt to intimidate BLR, but is quickly rescued by Akasaki with the help of the Night Racers' Makoto Sawaki.
+She then accompanies Akira Tsujimoto in helping Akasaki escape when the latter is trapped in the Bay Lagoon Tower.
+Leader of the Night Racers who drives the purple X1800 turbo (Nissan 180SX), rival to Ikki Fujisawa and also one of the South Yokohama representatives for the YOKOHAMA GP, racing in both the qualifying and championship rounds.
+A very close friend to his second-in-command, Makoto Sawaki, he is deeply affected when Sawaki crashes during the Taiman battle against Akasaki, and disbands the Night Racers when BLR's Nanba dies in a crash, and Sawaki succumbs to his coma.
+In the final episode Tsujimoto, along with Suzuki, helps Akasaki to escape out of the WON-TEC buildings.
+He joins BLR at the end of the game.
+Tsujimoto's most trusted member of the Night Racers who drives a white Sil-14Q (Nissan Silvia) and the initial rival to Sho Akasaki.
+Compared to the Ishikawa brothers, he is friendly towards their rival team, even helping Akasaki rescue Yuka Suzuki when she was kidnapped.
+During the team battle between NR and BLR, his Taiman battle with Akasaki ends tragically as crashes out on the second to the last corner of the Bay Lagoon route.
+Akasaki rescues him out of his burning Sil-14 but the crash leaves him comatose.
+After the YOKOHAMA GP Qualifiers, he succumbs to his injuries and dies in the hospital.
+A member of the Night Racers who drives an orange GRA-SI (Honda Integra).
+A jealous person, he does not take well to his defeat to Akasaki in the first team race and goes on to kidnap his girlfriend Yuka Suzuki with his younger brother Shinsuke, which leads him to getting hit by Sawaki.
+This later causes him to turn his back on the Night Racers and collaborate with WON-TEC to kidnap Akasaki.
+His fate at the end of the game is unknown.
+A member of the Night Racers and Keisuke's younger brother.
+His car is a green CVC1600 (Honda Civic), he and his brother kidnap Yuka Suzuki of BLR after the former loses to Akasaki in the first team race.
+He does not follow his brother when he defects to WON-TEC and does not seem to even be aware of his intentions.
+Leader of the all-women team Queen's Motomachi, her team that specializes in the drag racing events on tight, short course in the Yokohama Chinatown.
+Her car is a pink Wagon660 (Suzuki Wagon R).
+She later takes part in the YOKOHAMA GP Qualifiers, but ultimately loses out to BLR's Fujisawa and Akasaki, and NR's Tsujimoto.
+She appears to have a rivalry with Sakuragicho GT's Kawasaki.
+Another member of Queen's Motomachi who works on the restaurant JOHNNY'S. She is the one who introduced Akasaki to the Chinatown Drag events, and is often found hanging out here.
+Her car, like the rest of the Queen's Motomachi team, is a Wagon660 (Suzuki Wagon R), hers painted in light blue color.
+When her team drives to North Yokohama to challenge other teams, she gets at odds with Victory Road Takashima's leader Freddie Roberts before the start of the chicken race at the quay.
+Leader of Sakuragicho GT, a drag racing team in North Yokohama known for their Zokky (Bōsōzoku) styled-cars, he drives a violet Cancer (Toyota Chaser).
+He also takes part in the YOKOHAMA GP Qualifiers.
+He shares some sort of rivalry with Queen's Motoamachi leader Yui Tachikawa.
+American leader of the VICTORY ROAD Takashima team, famous for the chicken game-style racing at the quay in North Yokohama.
+He is known for being able to stop the closest to the edge of the quay in the chicken races.
+He drives a two-tone black and gold Danger-V8 (Chevrolet Camaro), that he uses to take part in the Qualifying round of the YOKOHAMA GP.
+Leader of the Hakone DRIFT DANCERS, his car is a light blue X1800 (Nissan 180SX).
+He serves as the primary rival to BLR during their trip to Hakone.
+He is an old friend and mentor of Ikki Fujisawa, who he defeated in their race before when Fujisawa still raced with a two-tone red and black 86Lev (Toyota Corolla Levin).
+Along with Manabu Oda, he introduces Akasaki to the legend of 10 years ago.
+He also competes in the YOKOHAMA GP finals.
+A member of the Hakone DRIFT DANCERS, his car is a black car SW2000 (Toyota-MR2).
+Member of the Hakone DRIFT DANCERS, his car is a red Celine-1928 (Toyota Celica).
+Member of the Hakone DRIFT DANCERS, his car is the white and lavender tone Thunder86 (Toyota Sprinter Trueno).
+The leader of team RR WEST and one of the contestants for YOKOHAMA GP.
+Her car is a black 32TypeR (Nissan Skyline R32).
+Leader of the Daikoku WAVES and the host of the Daikoku PA gymkhana race event.
+His car is a white Avenue (Nissan Avenir).
+Leader of the GALE WANGAN team, his car is a red and white tone 33TypeR (Nissan Skyline R33).
+He is one of the competitors in the YOKOHAMA GP finals.
+Former team leader of the C-1 Road Stars 10 years ago.
+His car is a dark blue Elephant (Mitsubishi Pajero).
+He tells Akasaki of his encounter with the legend from 10 years ago, informing him that the legendary racer drove an odd-looking Zeta3000 (DiabloZeta).
+The current team leader of the C-1 Road Stars.
+His car is a gold and black tone car RZ-3000 (Toyota Supra).
+Prior to meeting him and Todoroki, Akasaki competes against him in the YOKOHAMA GP finals.
+A wandering racer along C1, his car is a White SEVEN-FD (Mazda-RX-7).
+A female wanderer of C1, her car is White COSMIC-RE (Mazda Cosmo).
+The third of the wanderers of C1 is White RZ-3000 (Toyota Supra).
+The president of WON-TEC, the organization that manufactures the Diablo drugs and the parts for the DiabloTUNE cars.
+A German member of WON-TEC, who is responsible for the D-Project and organized the Darkness GP race.
+He is the one that gave Akasaki his Diablo drugs and DiabloZeta 10 years ago, and the one that subjected him to the D-Sleep program after Akasaki killed all of the other D-Project drivers in a large scale car crash.
+After the destruction of the Bay Lagoon Tower, he ambushes Lee Won and shoots him dead before Akasaki could hit him with a steel pipe.
+He then challenges Akasaki to one final race along the crumbling roads surrounding the tower, and his black Germany TURBO (Porsche 911) falls in a burning crevice on the road, killing him.
+The British leader and member of the WON-TEC racers.
+His car is a red Nightmare (Lotus Europa) with a Union Jack flag on the door.
+An Italian member of the WON-TEC racers.
+His car is a red Scuderia12 (Ferrari Testarossa).
+A researcher known for leading the development of the Diablo drugs for the D-Project.
+He was confronted by Akasaki in his laboratory at the Forget Hill, and he quickly recognized the BLR driver as the project's earliest test subject.
+He reveals the secrets of the D-Project to him and gives him a disk that contains all the information about WON-TEC and their involvement in the legend of 10 years ago that culminated in the deaths of several DiabloZeta drivers, and their involvement in the current resurgence of the Diablo that started with Kyoji Nanba's death.
+WON-TEC tried to capture him as they followed Akasaki to the mountain, but he made his escape with his blue WR-2000 (Subaru Impreza WRX), but his escape fails when his car crashes and he is shot dead by Schneider.
+Satoru's sister, and Ikki Fujisawa's lover.
+She was involved with Akasaki 10 years ago while acting as a spy for WON-TEC, though her secret was discovered when Akasaki discovers a stash of Diablo drugs in her apartment, which drives him to cause the incident that ended the lives of several DiabloZeta drivers as well as the legend of 10 years ago.
+She is also the one that introduces Fujisawa to Diablo, and when he finally collapses due to the effects of the drugs, she attempts to drive the two of them and his DiabloTUNE RS2000turbo into the river, but she is stopped by Akasaki.
+At the end of the game, she is seen watching over the recuperating Fujisawa in the hospital.
+The leader of the team BlackKnights Yokosuka, and the host of the BayLagoon UnOfficial race events.
+She drives a blue Celine (Toyota Celica) and competes in the Daiba PA Gymkhana.
+A well-known driver in Hakone and an old friend of Ikki Fujisawa, he drives a yellow EVO-2000 (Mitsubishi Lancer Evolution).
+He seems to have knowledge of Diablo as he is the one that tells Akasaki of Satoru Kawashima's location.
+The owner of the tune shop Windy in Hakone, and the one that provides Akasaki with the race car he used for the YOKOHAMA GP finals.
+His personal car is a brown Zeta2400 (Nissan S30).
+Being a tuner, he seems to be aware of the rumors about the DiabloTUNE, and how it may have been connected to the death of Kyoji Nanba.
+The brother of Kyoji that took over the day-to-day running of GS after his brother's death.
+-->
+Como el juego no tiene las licencias oficiales, los nombres de los coches son ficticios ,pero el modelado es igual al modelo real.
+algunos ejemplos de los coches del juego con su nombre real y ficticio son :
+La banda sonora del juego fue compuesta por Noriko Matsueda, con algunas pistas contribuidas por Takahito Eguchi; Fue el primer papel de composición de Eguchi.
+Se ha descrito como una fusión de jazz/techno, con música "acelerada" que incluye grabaciones en vivo de saxofones.
+La banda sonora fue lanzada como álbum el 19 de junio de 1999 por DigiCube.
+El álbum de dos discos cuenta con 62 pistas y cubre una duración de 2:31:03.
+Aunque el juego no fue bien recibido por la publicación japonesa de juegos Famitsu, que obtuvo solo 21 puntos sobre 40, el juego logró vender más de 141,000 copias en Japón a fines de 1999.
+El juego fue votado el #45 por "las secuelas más buscadas" por los lectores de Famitsu.

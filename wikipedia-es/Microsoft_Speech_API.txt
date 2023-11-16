@@ -1,0 +1,13 @@
+La interfaz de programación de aplicaciones de voz o SAPI (abreviatura en inglés de Microsoft Speech API) es una API desarrollada por Microsoft para permitir el uso de aplicaciones de reconocimiento de voz y síntesis de voz dentro de aplicaciones de Windows.
+Hasta la fecha, se han lanzado una serie de versiones de la API, que se han distribuido ya sea como parte de un Speech SDK, o como parte de Windows en sí.
+Las aplicaciones que utilizan SAPI incluyen Microsoft Office, Microsoft Agent y Microsoft Speech Server.
+En general, todas las versiones de la API se han diseñado de tal manera que un desarrollador de software puede escribir una aplicación, para llevar a cabo el reconocimiento de voz y síntesis, mediante el uso de un conjunto estándar de interfaces, accesibles desde una variedad de lenguajes de programación.
+Además, es posible que una tercera empresa tercera producir sus propios motores de reconocimiento de voz y de texto o adaptar los motores existentes para trabajar con SAPI.
+En principio, siempre y cuando estos motores se ajustan a las interfaces definidas, pueden ser utilizados en lugar de los motores suministrados por Microsoft.
+En general, la API de voz es un componente de libre distribución que se puede enviar en cualquier aplicación de Windows que desea utilizar la tecnología de voz.
+Muchas versiones (aunque no todos) de los motores de reconocimiento de voz y síntesis también son de libre distribución.
+Ha habido dos "familias" principales de la API de Microsoft Speech.
+Las Versiones SAPI 1 a 4 son todos similares entre sí, con características adicionales en cada nueva versión.
+Sin embargo, SAPI 5 era una interfaz completamente nueva, lanzada en 2000.
+Desde entonces, se han lanzado varias sub-versiones de esta API.
+<References/>

@@ -1,0 +1,23 @@
+Una ventana de plasma corresponde a la tecnología que llena un volumen con plasma el cual se mantiene confinado dentro de un campo magnético.
+Actualmente, debido a las limitantes tecnológicas, principalmente las altas cantidades de energía requerida, solo se logran generar pequeñas cantidades dentro de un volumen cilíndrico en donde el plasma se forma como una superficie plana.
+El plasma se logra mediante el calentamiento de un gas a temperaturas extremadamente altas.
+A medida que el plasma se calienta, se va tornando cada vez más grueso y viscoso.
+Esta viscosidad le permite al plasma resistir diferencias de presión, llegando a soportar hasta 9 atmósferas de diferencia lo que permite generar, mediante el plasma, un vacío.
+La ventana de plasma permite que se pueda trabajar con láser y haces de electrones que funcionan preferentemente en el vacío.
+Esto permite el desarrollo de tecnologías como la soldadura por haz de electrones.
+La ventana de plasma tiene su origen en el Brookhaven National Laboratory en Upton, Nueva York y fue creada por Ady Hershcovitch quien la patento en el año 1995  y por el cual obtuvo el R&D 100 Award.
+La creación de la ventana de plasma sirvió como puntapié inicial para el desarrollo de otras ideas como la Válvula de Plasma, en 1996.
+El plasma fue mencionado en un texto de carácter científico por vez primera en el año 1928 en un artículo relacionado con el estudio de gases a los cuales se le aplicaban descargas eléctricas.
+Este artículo fue escrito por Irving Langmuir.
+Los orígenes de la ventana de plasma pueden remontarse décadas antes de su creación en un laboratorio estadounidense.
+Las primeras ideas de algo similar a esta tecnología se encuentran en el imaginario de la ciencia ficción en donde se acuñó el concepto de campo de fuerza.
+Este concepto hace referencia a la capacidad de generar una envolvente artificial energética alrededor de algún objeto, área o persona, teniéndolo a resguardo de ataques o intrusiones ya que no permite el paso de materia.
+Este tipo de Campos de Fuerzas es común verlos en sagas de ciencia ficción como Star Trek (1966), en donde la nave espacial The Enterprise posee un campo de fuerza en la zona de embarque y desembarque de naves, lugar en el que el campo cumple la función de separar la atmósfera creada al interior de la nave, del vacío del espacio exterior
+Junto con la literatura y el cine de ciencia ficción, otro ámbito que desarrollo el concepto de Campo de Fuerza fue el ámbito científico en el siglo XIX, gracias al trabajo de Michael Faraday.
+Para la física un campo de fuerza se define como la región del espacio donde se manifiesta una fuerza.
+Faraday, mediante experimentos con imanes y limaduras de hierro, observaba y dibujaba los patrones que estos generaban y estas líneas de fuerza demuestran gráficamente como los campos de fuerza eléctricos y magnéticos están presentes en el espacio.
+Faraday está considerado actualmente como el descubridor de uno de los conceptos más importantes de toda la ciencia, sin ir más lejos, toda la física moderna se encuentra escrita en el lenguaje de sus campos de fuerza.
+Las Ventanas de Plasma son generadas con temperaturas de alrededor de 12.000 °C, con lo cual para poder generar una ventana de plasma de pequeñas dimensiones se necesita un estimado de 16 kW, lo que equivale al consumo de 160 bombillas de 100 W encendidas simultáneamente.
+Este consumo de energía se convierte en unos de los principales límites que se presentan para esta tecnología.
+Otra característica de las Ventanas de Plasma radica en la posibilidad de brillar en una amplia gama de colores, esto dependiendo del gas utilizado para crear el plasma.
+Así por ejemplo si se utiliza Argón (Ar) se obtendrá una ventana de color azul violeta.

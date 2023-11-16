@@ -1,0 +1,184 @@
+En ciencias de la computación, la compresión de datos es la reducción del volumen de datos tratables para representar una determinada información empleando una menor cantidad de espacio.
+Al acto de compresión de datos se denomina «compresión», y al contrario «descompresión».
+El espacio que ocupa una información codificada (datos, señal digital, etc.) sin compresión es el producto entre la frecuencia de muestreo y la resolución.
+Por tanto, cuantos más bits se empleen mayor será el tamaño del archivo.
+No obstante, la resolución viene impuesta por el sistema digital con que se trabaja y no se puede alterar el número de bits a voluntad; por ello, se utiliza la compresión, para transmitir la misma cantidad de información que ocuparía una gran resolución en un número inferior de bits.
+La compresión es un caso particular de la codificación, cuya característica principal es que el código resultante tiene menor tamaño que el original.
+La compresión de datos se basa fundamentalmente en buscar repeticiones en series de datos para después almacenar solo el dato junto al número de veces que se repite.
+Así, por ejemplo, si en un fichero aparece una secuencia como "AAAAAA", ocupando 6 bytes se podría almacenar simplemente "6A" que ocupa solo 2 bytes, en algoritmo RLE.
+En realidad, el proceso es mucho más complejo, ya que raramente se consigue encontrar patrones de repetición tan exactos (salvo en algunas imágenes).
+Se utilizan algoritmos de compresión:
+A la hora de hablar de compresión hay que tener presentes dos conceptos:
+La información que transmiten los datos puede ser de tres tipos:
+Teniendo en cuenta estos tres tipos de información, se establecen tres tipologías de compresión de la información:
+El objetivo de la compresión es siempre reducir el tamaño de la información, intentando que esta reducción de tamaño no afecte al contenido.
+No obstante, la reducción de datos puede afectar o no a la calidad de la información:
+La codificación de entropía se originó en la década de 1940 con la introducción de la codificación Shannon-Fano,
+la base de la codificación Huffman que se desarrolló en 1950.
+La codificación por transformada se remonta a finales de la década de 1960, con la introducción de la transformada rápida de Fourier (FFT) en 1968 y la transformada Hadamard en 1969.
+Una importante técnica de compresión de imágenes es la transformada de coseno discreta (DCT), una técnica desarrollada a principios de la década de 1970.
+La DCT es la base del JPEG, un formato de compresión con pérdidas que fue introducido por el Joint Photographic Experts Group (JPEG) en 1992.
+JPEG reduce en gran medida la cantidad de datos necesarios para representar una imagen a costa de una reducción relativamente pequeña de la calidad de la misma y se ha convertido en el formato de archivo de imagen más utilizado.
+Su algoritmo de compresión altamente eficiente basado en la DCT fue en gran parte responsable de la amplia proliferación de imágenes digitales y fotos digitales.
+Lempel-Ziv-Welch (LZW) es un algoritmo de compresión sin pérdidas desarrollado en 1984.
+Se utiliza en el formato GIF, introducido en 1987.
+DEFLATE, un algoritmo de compresión sin pérdidas especificado en 1996, se utiliza en el formato Portable Network Graphics (PNG).
+La compresión wavelet, el uso de wavelets en la compresión de imágenes, comenzó tras el desarrollo de la codificación DCT.
+El estándar JPEG 2000 se introdujo en el año 2000.
+A diferencia del algoritmo DCT utilizado por el formato JPEG original, JPEG 2000 utiliza en su lugar algoritmos de transformada de ondícula discreta (DWT).
+}} La tecnología JPEG 2000, que incluye la extensión Motion JPEG 2000, fue seleccionada como el estándar de codificación de vídeo para el cine digital en 2004.
+La compresión de datos de audio, que no debe confundirse con la compresión de rango dinámico, tiene el potencial de reducir el ancho de banda y los requisitos de almacenamiento de los datos de audio.
+[Los algoritmos de compresión de audio se implementan en software como códecs de audio.
+Tanto en la compresión con pérdidas como en la compresión sin pérdidas, se reduce la redundancia de la información, utilizando métodos como la codificación, la cuantización, la transformada de coseno discreta y la predicción lineal para reducir la cantidad de información utilizada para representar los datos sin comprimir.
+Los algoritmos de compresión de audio con pérdidas proporcionan una mayor compresión y se utilizan en numerosas aplicaciones de audio, como Vorbis y MP3.
+Estos algoritmos se basan casi todos en la psicoacústica para eliminar o reducir la fidelidad de los sonidos menos audibles, reduciendo así el espacio necesario para almacenarlos o transmitirlos.
+La compensación aceptable entre la pérdida de calidad de audio y el tamaño de transmisión o almacenamiento depende de la aplicación.
+Por ejemplo, un disco compacto (CD) de 640 MB contiene aproximadamente una hora de música de alta fidelidad sin comprimir, menos de 2 horas de música comprimida sin pérdidas o 7 horas de música comprimida en el formato MP3 a una tasa de bits media.
+Una grabadora de sonido digital puede almacenar normalmente unas 200 horas de habla claramente inteligible en 640 MB.
+La compresión de audio sin pérdidas produce una representación de los datos digitales que puede descodificarse en un duplicado digital exacto del original.
+Los ratios de compresión se sitúan en torno al 50-60% del tamaño original, que es similar a los de la compresión genérica de datos sin pérdidas.
+Los códecs sin pérdidas utilizan el ajuste de curvas o la predicción lineal como base para estimar la señal.
+Los parámetros que describen la estimación y la diferencia entre la estimación y la señal real se codifican por separado.
+Existen varios formatos de compresión de audio sin pérdidas.
+Véase lista de códecs sin pérdidas para obtener una lista.
+Algunos formatos están asociados a un sistema distinto, como Direct Stream Transfer, utilizado en Super Audio CD y Meridian Lossless Packing, utilizado en DVD-Audio, Dolby TrueHD, Blu-ray y HD DVD.
+Algunos formatos de archivo de audio presentan una combinación de un formato con pérdidas y una corrección sin pérdidas; esto permite eliminar la corrección para obtener fácilmente un archivo con pérdidas.
+Estos formatos incluyen MPEG-4 SLS (Scalable to Lossless), WavPack y OptimFROG DualStream.
+Cuando se van a procesar archivos de audio, ya sea por compresión posterior o para edición, es deseable trabajar a partir de un original inalterado (sin comprimir o comprimido sin pérdidas).
+El procesamiento de un archivo comprimido sin pérdidas para algún fin suele producir un resultado final inferior a la creación del mismo archivo comprimido a partir de un original sin comprimir.
+Además de para la edición o la mezcla de sonido, la compresión de audio sin pérdidas se utiliza a menudo para el almacenamiento de archivos, o como copias maestras.
+La compresión de audio con pérdidas se utiliza en una amplia gama de aplicaciones.
+Además de las aplicaciones independientes de reproducción de archivos en reproductores MP3 u ordenadores, los flujos de audio comprimidos digitalmente se utilizan en la mayoría de los DVD de vídeo, la televisión digital, los medios de transmisión en Internet, la radio por satélite y por cable, y cada vez más en las emisiones de radio terrestre.
+La compresión con pérdidas suele lograr una compresión mucho mayor que la compresión sin pérdidas, al descartar los datos menos críticos basándose en optimizaciones psicoacústicas.
+La psicoacústica reconoce que no todos los datos de un flujo de audio pueden ser percibidos por el sistema auditivo humano.
+La mayor parte de la compresión con pérdidas reduce la redundancia identificando primero los sonidos perceptualmente irrelevantes, es decir, los sonidos que son muy difíciles de oír.
+Ejemplos típicos son las frecuencias altas o los sonidos que se producen al mismo tiempo que los sonidos más fuertes.
+Esos sonidos irrelevantes se codifican con menor precisión o no se codifican en absoluto.
+Debido a la naturaleza de los algoritmos con pérdidas, la calidad del audio sufre una pérdida de generación digital cuando se descomprime y recomprime un archivo.
+Esto hace que la compresión con pérdidas sea inadecuada para almacenar los resultados intermedios en aplicaciones profesionales de ingeniería de audio, como la edición de sonido y la grabación multipista.
+Sin embargo, los formatos con pérdidas, como el MP3, son muy populares entre los usuarios finales, ya que el tamaño del archivo se reduce al 5-20% del tamaño original y un megabyte puede almacenar aproximadamente un minuto de música con la calidad adecuada.
+Para determinar qué información de una señal de audio es irrelevante desde el punto de vista perceptivo, la mayoría de los algoritmos de compresión con pérdidas utilizan transformaciones como la transformada de coseno discreta (MDCT) para convertir las formas de onda muestreadas en el dominio del tiempo en un dominio de transformación, normalmente el dominio de la frecuencia.
+Una vez transformadas, las frecuencias de los componentes pueden priorizarse según su audibilidad.
+La audibilidad de los componentes espectrales se evalúa utilizando el umbral absoluto de audición y los principios de enmascaramiento simultáneo-el fenómeno en el que una señal es enmascarada por otra señal separada por la frecuencia-y, en algunos casos, enmascaramiento temporal-en el que una señal es enmascarada por otra señal separada por el tiempo.
+También se pueden utilizar los contornos de igual sonoridad para ponderar la importancia perceptiva de los componentes.
+Los modelos de la combinación oído-cerebro humano que incorporan estos efectos suelen denominarse modelo psicoacústicos.
+Otros tipos de compresores con pérdidas, como la codificación predictiva lineal utilizada con el habla, son codificadores basados en la fuente.
+La LPC utiliza un modelo del tracto vocal humano para analizar los sonidos del habla e inferir los parámetros utilizados por el modelo para producirlos momento a momento.
+Estos parámetros cambiantes se transmiten o almacenan y se utilizan para impulsar otro modelo en el descodificador que reproduce el sonido.
+Los formatos con pérdidas se utilizan a menudo para la distribución de audio en streaming o la comunicación interactiva (como en las redes de telefonía móvil).
+En estas aplicaciones, los datos deben descomprimirse a medida que fluyen, en lugar de hacerlo después de que se haya transmitido todo el flujo de datos.
+No todos los códecs de audio pueden utilizarse para aplicaciones de streaming.
+La Latencia es introducida por los métodos utilizados para codificar y decodificar los datos.
+Algunos códecs analizan un segmento más largo, llamado trama, de los datos para optimizar la eficiencia, y luego lo codifican de manera que se requiera un segmento más grande de datos a la vez para decodificar.
+La latencia inherente al algoritmo de codificación puede ser crítica; por ejemplo, cuando hay una transmisión bidireccional de datos, como en una conversación telefónica, los retrasos significativos pueden degradar seriamente la calidad percibida.
+A diferencia de la velocidad de compresión, que es proporcional al número de operaciones que requiere el algoritmo, aquí la latencia se refiere al número de muestras que hay que analizar antes de procesar un bloque de audio.
+En el caso mínimo, la latencia es de cero muestras (por ejemplo, si el codificador/decodificador simplemente reduce el número de bits utilizados para cuantificar la señal).
+Los algoritmos del dominio del tiempo, como el LPC, también suelen tener latencias bajas, de ahí su popularidad en la codificación del habla para la telefonía.
+Sin embargo, en algoritmos como el MP3, hay que analizar un gran número de muestras para implementar un modelo psicoacústico en el dominio de la frecuencia, y la latencia es del orden de 23 ms.
+La codificación del habla es una categoría importante de la compresión de datos de audio.
+Los modelos perceptivos utilizados para estimar qué aspectos del habla puede escuchar el oído humano suelen ser algo diferentes de los utilizados para la música.
+El rango de frecuencias necesario para transmitir los sonidos de una voz humana es normalmente mucho más estrecho que el necesario para la música, y el sonido es normalmente menos complejo.
+Por ello, la voz puede codificarse con alta calidad utilizando una tasa de bits relativamente baja.
+Esto se consigue, en general, mediante una combinación de dos enfoques:
+Los primeros algoritmos utilizados en la codificación del habla (y en la compresión de datos de audio en general) fueron el algoritmo A-law y el algoritmo μ-law.
+Las primeras investigaciones sobre audio se realizaron en los Laboratorios Bell.
+Allí, en 1950, C. Chapin Cutler presentó la patente de la modulación diferencial por código de impulsos (DPCM).
+En 1973, P. Cummiskey, Nikil S. Jayant y James L. Flanagan introdujeron la DPCM adaptativa (ADPCM).
+La codificación perceptiva se utilizó por primera vez para la compresión de la codificación del habla, con la codificación predictiva lineal (LPC).
+Los conceptos iniciales de LPC se remontan a los trabajos de Fumitada Itakura (Universidad de Nagoya) y Shuzo Saito (Nippon Telegraph and Telephone) en 1966.
+Durante la década de 1970, Bishnu S. Atal y Manfred R. Schroeder en Bell Labs desarrollaron una forma de LPC llamada codificación predictiva adaptativa (APC), un algoritmo de codificación perceptiva que explotaba las propiedades de enmascaramiento del oído humano, seguido a principios de los años ochenta con el algoritmo de predicción lineal excitada por código (CELP), que logró una relación de compresión significativa para su época.
+La codificación perceptual es utilizada por los formatos modernos de compresión de audio como MP3 y AAC.
+La transformada de coseno discreta (DCT), desarrollada por Nasir Ahmed, T. Natarajan y K. R. Rao en 1974, proporcionó la base para la transformada discreta del coseno modificada (MDCT) utilizada por los formatos modernos de compresión de audio como el MP3, Dolby Digital, y AAC.
+El MDCT fue propuesto por J. P. Princen, A. W. Johnson y A. B. Bradley en 1987, tras un trabajo anterior de Princen y Bradley en 1986.
+El primer sistema comercial de automatización de emisiones de audio del mundo fue desarrollado por Oscar Bonello, un profesor de ingeniería de la Universidad de Buenos Aires.
+En 1983, utilizando el principio psicoacústico del enmascaramiento de las bandas críticas publicado por primera vez en 1967, comenzó a desarrollar una aplicación práctica basada en el recién desarrollado ordenador IBM PC, y el sistema de automatización de la radiodifusión fue lanzado en 1987 bajo el nombre de Audicom.
+Veinte años después, casi todas las emisoras de radio del mundo utilizaban una tecnología similar fabricada por varias empresas.
+En febrero de 1988 se publicó un compendio bibliográfico sobre una gran variedad de sistemas de codificación de audio en el Journal on Selected Areas in Communications (JSAC) del IEEE.
+Aunque había algunos artículos de antes, esta colección documentaba toda una variedad de codificadores de audio acabados y en funcionamiento, casi todos ellos utilizando técnicas perceptivas y algún tipo de análisis de frecuencia y codificación sin ruido de fondo.
+El vídeo sin comprimir requiere una tasa de datos muy alta. Aunque los códecs mediante compresión de vídeo sin pérdidas funcionan con un factor de compresión de 5 a 12, un vídeo típico de compresión con pérdidas H.264 tiene un factor de compresión de entre 20 y 200.
+Las dos técnicas clave de compresión de vídeo utilizadas en los estándares de codificación de vídeo son la transformada de coseno discreta (DCT) y la compensación de movimiento (MC).
+La mayoría de los estándares de codificación de vídeo, como los formatos H.26x y MPEG, suelen utilizar la codificación de vídeo DCT con compensación de movimiento (compensación de movimiento en bloque).
+La mayoría de los códecs de vídeo se utilizan junto con las técnicas de compresión de audio para almacenar los flujos de datos separados pero complementarios como un paquete combinado utilizando los llamados formato contenedors.
+Los datos de vídeo pueden representarse como una serie de fotogramas de imágenes fijas.
+Estos datos suelen contener abundantes cantidades de redundancia espacial y temporal.
+Los algoritmos de compresión de vídeo intentan reducir la redundancia y almacenar la información de forma más compacta.
+La mayoría de los formatos de compresión de vídeo y códecs explotan la redundancia espacial y temporal (por ejemplo, mediante la codificación de diferencias con compensación de movimiento).
+Las similitudes pueden codificarse almacenando solo las diferencias entre, por ejemplo, fotogramas temporalmente adyacentes (codificación intercuadro) o píxeles espacialmente adyacentes (codificación intracuadro).
+La compresión Inter-frame (una codificación delta temporal) (re)utiliza los datos de uno o más fotogramas anteriores o posteriores de una secuencia para describir el fotograma actual.
+La codificación intracuadro, por el contrario, utiliza solo datos del cuadro actual, siendo en realidad una compresión de imagen.
+Los formatos de codificación de vídeo entre fotogramas utilizados en las videocámaras y en la edición de vídeo emplean una compresión más simple que utiliza solo la predicción intra-frame.
+Esto simplifica el software de edición de vídeo, ya que evita que un fotograma comprimido se refiera a datos que el editor ha eliminado.
+Normalmente, la compresión de vídeo emplea además técnicas de compresión con pérdidas como la cuantización que reducen aspectos de los datos de origen que son (más o menos) irrelevantes para la percepción visual humana explotando características perceptivas de la visión humana.
+Por ejemplo, las pequeñas diferencias de color son más difíciles de percibir que los cambios de brillo.
+Los algoritmos de compresión pueden promediar un color a través de estas áreas similares de una manera similar a los utilizados en la compresión de imágenes JPEG.
+Como en toda compresión con pérdidas, hay un compromiso entre la calidad de vídeo y la tasa de bits, el coste de procesar la compresión y la descompresión, y los requisitos del sistema.
+Los vídeos muy comprimidos pueden presentar artefactos de compresión visibles o molestos.
+Otros métodos distintos de los formatos de transformación basados en la DCT, como la compresión fractal, la búsqueda de coincidencias y el uso de una transformada wavelet discreta (DWT), han sido objeto de algunas investigaciones, pero no suelen utilizarse en productos prácticos.
+La compresión wavelet se utiliza en codificadores de imágenes fijas y de vídeo sin compensación de movimiento.
+El interés por la compresión fractal parece estar disminuyendo, debido a los recientes análisis teóricos que muestran una falta de eficacia comparativa de tales métodos.
+En la codificación entre fotogramas, se comparan los fotogramas individuales de una secuencia de vídeo de un fotograma a otro, y el códec de compresión de vídeo registra las diferencias respecto al fotograma de referencia.
+Si el fotograma contiene áreas en las que no se ha movido nada, el sistema puede simplemente emitir un breve comando que copie esa parte del fotograma anterior en el siguiente.
+Si hay secciones del fotograma que se mueven de forma sencilla, el compresor puede emitir un comando (ligeramente más largo) que indique al descompresor que desplace, rote, aclare u oscurezca la copia.
+Este comando más largo sigue siendo mucho más corto que los datos generados por la compresión intracuadro.
+Normalmente, el codificador también transmite una señal de residuo que describe las restantes diferencias más sutiles con respecto a las imágenes de referencia.
+Utilizando la codificación de entropía, estas señales de residuo tienen una representación más compacta que la señal completa.
+En las zonas de vídeo con más movimiento, la compresión debe codificar más datos para mantener el ritmo del mayor número de píxeles que cambian.
+Normalmente, durante las explosiones, las llamas, las bandadas de animales y en algunas tomas panorámicas, el detalle de alta frecuencia provoca una disminución de la calidad o un aumento de la tasa de bits variable.
+En la actualidad, casi todos los métodos de compresión de vídeo más utilizados (por ejemplo, los que figuran en las normas aprobadas por la UIT-T o la ISO) comparten la misma arquitectura básica que se remonta a la norma H.261, estandarizada en 1988 por la UIT-T.
+Se basan principalmente en la DCT, aplicada a bloques rectangulares de píxeles vecinos, y en la predicción temporal mediante vectores de movimiento, así como, actualmente, en una etapa de filtrado en bucle.
+En la etapa de predicción, se aplican varias técnicas de deduplicación y de codificación de diferencias que ayudan a decorrelacionar los datos y a describir los nuevos datos basándose en los ya transmitidos.
+A continuación, los bloques rectangulares de datos de píxeles restantes se transforman en el dominio de la frecuencia.
+En la principal etapa de procesamiento con pérdidas, los datos del dominio de la frecuencia se cuantifican para reducir la información que es irrelevante para la percepción visual humana.
+En la última etapa, la redundancia estadística se elimina en gran medida mediante un codificador de entropía que suele aplicar alguna forma de codificación aritmética.
+En una etapa adicional de filtrado en bucle se pueden aplicar varios filtros a la señal de imagen reconstruida.
+Al computar estos filtros también dentro del bucle de codificación pueden ayudar a la compresión porque pueden aplicarse al material de referencia antes de que se utilice en el proceso de predicción y pueden guiarse utilizando la señal original.
+El ejemplo más popular son los filtros de desbloqueo que eliminan los artefactos de bloqueo de las discontinuidades de cuantificación en los límites de los bloques de transformación.
+En 1967, A.H. Robinson y C. Cherry propusieron un esquema de compresión de ancho de banda de codificación de longitud de carrera para la transmisión de señales de televisión analógicas.
+La transformada de coseno discreta (DCT), que es fundamental para la compresión de vídeo moderna, fue introducida por Nasir Ahmed, T. Natarajan y K. R. Rao en 1974.
+H.261, que debutó en 1988, introdujo comercialmente la arquitectura básica prevalente de la tecnología de compresión de vídeo.
+Fue el primer formato de codificación de vídeo basado en la compresión DCT.
+H.261 fue desarrollado por varias empresas, entre ellas Hitachi, PictureTel, NTT, BT y Toshiba.
+Los estándares de codificación de vídeo más populares utilizados para los códecs han sido los estándares MPEG.
+MPEG-1 fue desarrollado por el Motion Picture Experts Group (MPEG) en 1991, y fue diseñado para comprimir vídeo de calidad VHS.
+Fue sucedido en 1994 por MPEG-2/H.262, que fue desarrollado por varias empresas, principalmente Sony, Thomson y Mitsubishi Electric.
+MPEG-2 se convirtió en el formato de vídeo estándar para DVD y televisión digital SD.
+En 1999, le siguió MPEG-4/H.263.
+También fue desarrollado por varias empresas, principalmente Mitsubishi Electric, Hitachi y Panasonic.
+H.264/MPEG-4 AVC fue desarrollado en 2003 por varias organizaciones, principalmente Panasonic, Godo Kaisha IP Bridge y LG Electronics.
+AVC introdujo comercialmente los modernos algoritmos de codificación aritmética binaria adaptable al contexto (CABAC) y codificación de longitud variable adaptable al contexto (CAVLC).
+AVC es el principal estándar de codificación de vídeo para los discos Blu-ray, y es ampliamente utilizado por los sitios web para compartir vídeos y los servicios de transmisión por Internet como YouTube, Netflix, Vimeo y iTunes Store, el software web como Adobe Flash Player y Microsoft Silverlight, y varias emisiones de HDTV por televisión terrestre y por satélite.
+Los algoritmos de compresión genómica son la última generación de algoritmos sin pérdidas que comprimen datos (normalmente secuencias de nucleótidos) utilizando tanto algoritmos de compresión convencionales como algoritmos genéticos adaptados al tipo de datos específico.
+En 2012, un equipo de científicos de la Universidad Johns Hopkins publicó un algoritmo de compresión genética que no utiliza un genoma de referencia para la compresión.
+HAPZIPPER se adaptó a los datos del HapMap y logra una compresión de más de 20 veces (95% de reducción del tamaño del archivo), proporcionando una compresión de 2 a 4 veces mejor y es menos intensiva desde el punto de vista computacional que las principales utilidades de compresión de uso general.
+Para ello, Chanda, Elhaik y Bader introdujeron la codificación basada en MAF (MAFE), que reduce la heterogeneidad del conjunto de datos clasificando los SNP por su frecuencia alélica menor, homogeneizando así el conjunto de datos.
+Otros algoritmos desarrollados en 2009 y 2013 (DNAZip y GenomeZip) tienen ratios de compresión de hasta 1200 veces, lo que permite almacenar 6.000 millones de pares de bases de genomas humanos diploides en 2.
+5 megabytes (en relación con un genoma de referencia o promediado entre muchos genomas).
+Para una referencia en compresores de datos genéticos/genómicos, véase.
+El trabajo de investigación científica de Boris Weisler se centraba en una línea árida de la matemática: la teoría de grupos algebraicos.
+El vocablo “grupo” se utiliza para designar al conjunto de simetrías de un objeto y la manera en que estas interactúan.
+Obviamente, el grupo dependerá de la geometría del objeto en cuestión.
+Ahora bien, la abstracción matemática permite definir la noción de grupo sin un objeto subyacente, y a partir de su estructura interna reconstruir dicho objeto.
+La relevancia de este proceso radica en que ha permitido descubrir de manera abstracta nuevas e insospechadas geometrías.
+Al lidiar directamente con grupos se utilizan métodos algebraicos de gran formalidad.
+De alguna manera, se trabaja solo con variables e incógnitas pensando siempre en que hay un objeto por detrás, pero sin aferrarse nunca a él.
+Si mediante estos métodos se logra establecer un resultado, entonces este tendrá consecuencias -a veces insospechadas- sobre estos objetos “nebulosos” y su geometría.
+Su Gran Teorema, espectacular, puede leerse de la siguiente manera: “todo subgrupo del grupo de matrices de entradas enteras y determinante 1 que es denso en la topología Zarisky es casi denso en la topología de congruencias”.
+Aunque parece un trabalenguas, lo cierto es que este resultado de 1984 es una verdadera joya de la matemática, y tardó años en ser completamente comprendido y asimilado por la comunidad académica.
+Del mismo, de difícil comprensión, se deduciría un nuevo diferente concepto de "compresión sin compresión" basado, en principios "matemáticos-semánticos".
+Un terreno todavía muy poco explorado.
+Si somos capaces de comprender la información a "comprimir" como un mero lenguaje convencional, que consta de significado pero que se expresa como significante, y somos capaces de traducir estos significantes a números,
+números susceptibles de operaciones matemáticas, la "compresión" de la información, deja de entenderse como tal pasando a ser, sencillamente, la reducción de un número (que puede ser extraordinariamente grande), una fórmula, o clave numérica resultante de operaciones matemáticas sobre el "objeto-información" a reducir (comprimir, en el lenguaje habitual).
+El ejemplo al que se recurre como demostración suele ser del siguiente tipo: Traducimos una información, un texto, un libro con 100.000 palabras.
+Lo convertimos a su equivalente numérico binario, pero, para entender mejor el ejemplo, volvemos a convertirlo a su equivalente decimal.
+Nos queda entonces, un número enorme, con una determinada terminación, secuencia numérica.
+Elegimos, de esas originales 100.000 palabras (ahora representadas como números decimales) las últimas 5000 (la elección es convencional, y de acuerdo a las necesidades prefijadas).
+Tomamos estas 5000 palabras finales del texto-número como "patrón".
+Y las restamos n veces, hasta llegar a obtener un número menor que el patrón utilizado.
+Le llamaremos, convencionalmente, "resto".
+Así, nos quedan también dos claves.
+Les llamaremos, "claves de reconstrucción de la información inicial".
+Simplemente, habrá que coger luego ese resto y sumar n veces el patrón elegido, hasta que comprobemos que tal patrón coincide con el final de la información inicial o totalidad.
+Y de esas dos claves, habremos reconstruido el total de la información.
+Por supuesto, este es solo un ejemplo modelo muy simplificado.
+Con la base de los principios aquí explicados, y las herramientas matemáticas e informáticas disponibles se puede avanzar más allá de los límites aparentes.
+Téngase en cuenta que ni siquiera nos hemos referido a recursos como la recursividad, también aplicable a este método y perfectamente tratable informáticamente.

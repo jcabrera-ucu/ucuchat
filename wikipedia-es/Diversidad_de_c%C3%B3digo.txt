@@ -1,0 +1,17 @@
+La diversidad de código, es una técnica empleada en un medio de transmisión con el objetivo de enviar varias señales en un único canal en entornos MIMO dando lugar al código espacio-tiempo.
+Este servicio proporciona altas tasas de transmisión de datos con alta fiabilidad.
+Las técnicas de diversidad explotan el canal para transmitir una versión de la señal original, con el objetivo de recibir éste con la mejor calidad posible, siendo transmitidas por las diferentes antenas transmisoras.
+Existen varios tipos de diversidad:
+<ul>
+<li>Diversidad de espacio</li>
+<li>Diversidad de frecuencia</li>
+<li>Diversidad de tiempo</li>
+<li>Diversidad de polarización</li>
+<li>Diversidad de ángulo</li>
+<li>Diversidad por selección</li>
+<li>Diversidad por conmutación</li>
+<li>Diversidad por combinación de razón máxima </li>
+</ul>
+De todas ellas, la más destacable es un tipo de codificación con diversidad espacio-temporal basada en principios de ortogonalidad: STBC ortogonal.
+Con este tipo de codificación, cada señal transmitida es ortogonal al resto.
+Con las múltiples transmisiones de los datos codificados hay una mayor oportunidad para que el receptor para identificar una señal inequívoca, ya que es menos afectada negativamente por la vía física.

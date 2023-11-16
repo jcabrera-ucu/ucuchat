@@ -1,0 +1,23 @@
+Mars Odyssey (españolː Odisea de Marte) es una sonda espacial lanzada por la NASA el 7 de abril de 2001.
+Su objetivo fue el estudio del clima y la realización de un mapa de la superficie de Marte.
+También se utiliza como enlace de comunicaciones con los robots que están en el suelo.
+La inserción orbital tuvo lugar el 24 de octubre de 2001.
+La nave tiene forma de caja de 2,2 m de largo, 1,7 m de altura y 2,6 m de ancho.
+Los materiales de construcción de la nave son de aluminio y titanio.
+La nave se divide en doble módulo, el módulo de equipamiento contiene los equipos electrónicos, cableado y los instrumentos científicos.
+En su exterior se monta la antena UHF, las cámaras de estrellas, la caja de la batería, y otros instrumentos.
+En otro módulo es de propulsión, que contiene los tanques de combustible, motores, y otros componentes de propulsión.
+La nave pesa en el lanzamiento 725 kg de peso, de los cuales 348,7 kg era propelente.
+La electricidad era obtenida por 3 paneles solares con células de arseniuro de galio que generaban 750 W en Marte.
+La electricidad iba almacenada en una batería de NiH2 con capacidad de 16 A/h.
+Los mecanismos usados en la nave son: una bisagra para poner a distintas posiciones la antena parabólica de alta ganancia, un cardán para remover a distintas posiciones los paneles solares, y un brazo desplegable de 6 m para el instrumento GRS, contenido en un contenedor interno.
+Las telecomunicaciones se hacían mediante el uso de una antena parabólica de 1,3 m de diámetro en banda X de microondas, contando también con una antena de baja ganancia para emergencias.
+Una antena UHF se usa para la comunicación con los robots en el suelo.
+El control de actitud es determinado por el uso de un sensor solar, 2 cámaras de estrellas con un mapa completo del universo,4 ruedas de reacción.
+Para la estabilización se usa una IMU (Unidad de medición inercial) con giroscopios.
+También se usa pequeños motores para correcciones.
+La unidad de propulsión usa un motor principal con un empuje de 65,3 kg de fuerza, 4 motores de 0,1 kg de empuje para la actitud, y cuatro de 2,3 kg de empuje.
+El depósito de combustible contiene hidrazina y tetróxido de dinitrógeno en 2 tanques, además de varios tubos, válvulas y filtros de pirotecnia, también hay un único tanque de helio gaseoso para presurizar el combustible.
+La nave lleva un software de vuelo, con numerosas aplicaciones, y ejecuta, comprime, almacena, manda, etc. los datos de la nave, además soluciona problemas en la nave.
+El ordenador de a bordo de la nave usa el microprocesador RAD6000, con una memoria RAM de 128 MB y una ROM de 3 MB; además la electrónica contiene tarjetas y sensores para el control de la nave.
+Una tarjeta de memoria de 1 Gb es para el almacenamiento de imágenes.

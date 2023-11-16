@@ -1,0 +1,63 @@
+El MOS Technology 6510 es un microprocesador diseñado por MOS Technology, Inc., y es el sucesor directo del célebre 6502.
+El principal cambio respecto del 6502 es la incorporación de un puerto de Entrada/Salida de 8 bits de propósito general (solo seis pines I/O están disponibles en la versión más común del 6510).
+Además, el bus de direcciones podía hacerse triestado.
+El 6510 fue usado ampliamente en el ordenador doméstico Commodore 64 y, en cantidades significativamente más pequeñas, en el Commodore SX-64 (una versión portátil del C64).
+En ambos casos los pines extra del procesador se utilizaron para controlar el mapa de memoria del ordenador, y en el C64, para controlar el motor eléctrico del Commodore Datasette, la lectograbadora dedicada de casete.
+Era posible, escribiendo la correcta máscara de bits al procesador en la dirección $01, mapear la totalidad de los 64K de RAM del C64, no dejando mapeados ni la ROM ni los puertos de entrada/salida.
+En 1985 MOS produjo el 8500, una versión HMOS del 6510.
+Aparte del cambio del proceso de fabricación, era idéntico a la versión NMOS del 6510.
+Aunque el 8500 se diseñó principalmente para utilizarlo en el Commodore 64C, una versión modernizada del C64 en carcasa tipo Commodore 128, cantidades limitadas del 8500 se utilizaron en viejos C64 con base NMOS.
+Hizo su debut oficial en 1987, aparciendo en una placa madre con el nuevo chipset HMOS 85xx.
+La variante 7501/8501 del 6510 fue introducida en 1984.
+Comparado con el 6510, esta variante amplía el número de pines del puerto de E/S de 6 a 8, pero omite los pines para la interrupción no enmascarable y la salida de reloj.
+Fue usado en los ordenadores domésticos C16, C116 y Plus/4 de Commodore, donde el puerto de E/S controla no sólo el Datasette, sino también la interface del CBM Bus.
+La principal diferencia entre las CPU 7501 y 8501 es que se fabricaron con procesos ligeramente diferentes: el 7501 con proceso HMOS-1 y el 8501 con HMOS-2.
+La variante 8502 capaz de correr a 2 MHz fue usada en el Commodore 128.
+Todas estas CPU eran compatibles a nivel opcode (incluyendo opcodes no documentados).
+La unidad de disco Commodore 1551 usaba el 6510T, una versión del 6510 con ocho líneas de E/S.
+Las señales de NMI y RDY no están disponibles.
+Elemento que una vez proporcionada la primera instrucción, basta que sea incrementado en una unidad para que proporcione la dirección de la segunda instrucción.
+Sirven para llevar a cabo un modo de direccionamiento, denominado indexado con el que la localización del operando de una instrucción se busca en la MEM añadiendo el contenido de estos registros a la dirección especificada en la instrucción.
+Registro de 8 bits, 7 son significativos y sirven para señalar una situación provocada en la ejecución que se acaba de realizar.
+Se trata de un contador programable que direcciona la página 1 de la MEM como si se tratase de una pila LIFO.
+Para simplificar la localización de las posiciones de MEM se lee la estructura en forma de páginas, cada una de las cuales consta de varias líneas o posiciones.
+Así, una MEM de 64K posiciones, se puede dividir en 256 páginas de 256 líneas cada una.
+Comprende las 16 líneas del bus de direcciones, de carácter unidireccional.
+Consta de 8 líneas bidireccionales, por las que se transfieren los datos y las instrucciones, en sus salidas hay buffers amplificadores capaces de soportar una carga.
+A partir de un código creado en C para emular el funcionamiento se obtiene:
+Definiendo los tipos word de tamaño de 16 bits (2 bytes) y byte (8 bits)
+Un struct cpu:
+word
+cpu.PC, cpu.MAR
+byte
+cpu.A, cpu.X, cpu.Y, cpu.IR, cpu.SP, cpu.MBR, cpu.FLAGS
+funciones "void":
+memoria
+cmp
+fetch_dato
+cpx
+fetch_codigo
+cpy
+poner_dato
+dec
+fetch_dir
+eor
+carry
+inc
+negative
+lsr
+zero
+pop
+overflow
+push
+adc
+rol
+and
+ror
+asl
+sbc
+brach
+cilco_ejec
+El switch (cpu.IR) contendrá 85 opcodes (codop) de los 256 disponibles (0..255) ya que solo hay definidos 151 de ellos y se utilizan 105.
+Los cases del swich son los siguientes y a cada uno le corresponde un opcode:
+Se definieron banderas como constantes:

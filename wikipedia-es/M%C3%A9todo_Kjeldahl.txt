@@ -1,0 +1,6 @@
+El método Kjeldahl o digestión de Kjeldahl, en química analítica, es un proceso de análisis químico para determinar el contenido en nitrógeno de una sustancia química y se engloba en la categoría de medios por digestión húmeda.
+Se usa comúnmente para estimar el contenido de proteínas de los alimentos.
+Fue desarrollado por el danés Johan Kjeldahl en 1883.
+El "nitrógeno Kjeldahl" es la suma del nitrógeno orgánico y el nitrógeno amoniacal.
+Otro método, de igual o mayor aptitud técnica, para medir el contenido de nitrógeno es método GOST 30181.6-94..
+Según el medio de recogida en la destilación, el amonio se valora de dos formas:

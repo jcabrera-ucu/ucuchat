@@ -1,0 +1,49 @@
+Los contrastes radiológicos son sustancias radiopacas, que aplicadas por diferentes vías de administración (oral, rectal, endovenosa, etc.) pueden ser empleadas, durante un examen de rayos X o radiografías, para facilitar y/o mejorar la visualización de distintos órganos o fluidos de nuestro cuerpo con un fin diagnóstico.
+También se emplean contrastes radiológicos para las técnicas de resonancia magnética.
+Dichas sustancias mejoran la visualización ya que producen un incremento en la diferencia de densidad entre los diversos tejidos.
+Para la selección de sustancias como medio de contraste radiológico se han definido unas características que debería tener un supuesto medio de contraste ideal:
+Sin embargo, no todos los medios de contraste empleados actualmente en clínica cumplen con todas estas características.
+Distinguimos dos tipos de contrastes: negativos y positivos.
+== Contrastes radiológicos negativos ==
+Su denominación se debe a que absorben menos las radiaciones que los órganos y fluidos corporales; de tal forma, que los órganos o tejidos se ven más opacos que las cavidades donde se encuentre el medio de contraste.
+Los principales medios de contraste radiológico pertenecientes a este grupo son los gases, solubles en sangre y rápidamente eliminables, como el oxígeno y dióxido de carbono.
+Son empleados fundamentalmente en la visualización del tracto gastrointestinal, pudiendo ser administrados tanto por vía oral como por vía rectal.
+Otros ejemplos de contrastes negativos son: aire (generalmente se administra por vía rectal para la visualización del colon) y polvo efervescente o bicarbonato sódico (empleado por vía oral para la visualización de las estructuras comprendidas entre el esófago y duodeno).
+El dióxido de carbono es bien tolerado por los pacientes ya que no se absorbe, y sus indicaciones más frecuentes son en pacientes con insuficiencia renal y/o con antecedentes de alergia al contraste yodado.
+Los contrastes radiológicos positivos se caracterizan por ser sustancias más radiopacas que los órganos o fluidos de sus proximidades; esto es debido a que suelen tener un número atómico elevado, que les permite absorber o atenuar gran cantidad de radiación.
+Dentro de este grupo destacan principalmente los contrastes baritados y yodados.
+Es un elemento químico que forma parte de la familia de los lantánidos.
+Como medio de contraste es empleado fundamentalmente en resonancia magnética; se caracteriza por ser administrado por vía endovenosa, y se elimina por vía renal.
+Hay que tener en cuenta, que el galidonio en su forma libre es tóxico, por tanto su utilización como medio de contraste requiere la unión a un agente quelante; de tal manera que esta unión lo convierte en una sustancia no tóxica, aunque es verdad que esta unión depende directamente de la estructura que presente el quelante.
+A la dosis habitual de este medio de contraste (0.1 a 0.2 mmol/kg) la mayoría de las reacciones son leves, como por ejemplo sensación de frío o calor, náuseas, cefalea, mareos o picazón.
+Reacciones alérgicas como exantema, urticaria o broncoespasmo son muy poco frecuentes.
+También se ha relacionado el gadolinio con nefrotoxicidad, provocando fibrosis sistémica nefrogénica, a cual se trata de una enfermedad, poco frecuente, pero muy grave, que puede llegar a comprometer la vida del paciente; se caracteriza fundamentalmente, por un aumento en la formación de tejido conectivo en la piel, articulaciones, músculos y órganos internos.
+Muchos fármacos con gadolinio han sido retirados del mercado debido a que se observó que, parte del gadolinio no se eliminaba de forma íntegra, y los que liberaban más cantidad, daban lugar a la formación de depósitos cerebrales.
+si bien, es cierto, que no se han identificado síntomas ni trastornos relacionados con dichos depósitos.
+Aun así, y por precaución, dichos fármacos fueron retirados por la AEMPS (Agencia Española de Medicamentos y Productos Sanitarios), y los que se han mantenido, se ha recomendado que se usen cuando sea estrictamente necesario, y a la mínima dosis posible.
+También se ha observado que dichos depósitos pueden formarse en otros órganos, y se han relacionado con efectos secundarios que pueden provocar estos fármacos.
+La fibrosis sistémica nefrogénica es el mecanismo por el cual el gadolinio provoca dicho daño, se cree que se debe a su capacidad de provocar la liberación de citosinas a través de la estimulación de macrófagos de la piel (por los iones libres de Gd) o monocitos en sangre periférica (por los complejos de quelante-Gd).
+Estos procesos de activación de macrófagos, liberación de citoquinas proinflamatorias provocan la diferenciación de fibrocitos en la sangre y la activación de fibroblastos, consecuentemente se genera una respuesta que crea depósitos de colágeno y fibrosis.
+Se ha comprobado que la presencia de insuficiencia renal contribuye a la liberación de gadolinio mediante el aumento de la transmetalación.
+Cuanto mayor sea la proporción de gadolinio no unido a quelante (gadolinio libre) mayor es el daño porque presenta mayor capacidad de activación.
+El bario se emplea en forma de polvo de sulfato de bario (BaSO4), que se mezcla con agua formando una suspensión.
+En cuanto a sus características principales, destaca la ausencia de actividad (no tiene actividad farmacológica) y toxicidad (ya que no se absorbe), además, tiene una excelente capacidad de opacificación y no produce falsos positivos.
+Se emplea como medio de contraste para la visualización de estructuras en el tracto gastrointestinal, pudiéndose administrar tanto por vía oral, como por vía rectal.
+Esta contraindicado en situaciones en las que se sospeche cualquier alteración del sistema gastrointestinal como perforación intestinal, obstrucción del tracto gastrointestinal, irritación peritoneal, estenosis pilórica, fístulas, etc.
+El sulfato de bario es que contraste radiológico positivo que menor toxicidad presenta.
+Aunque a priori parezca una paradoja dado que el bario es un metal pesado, cuyos compuestos solubles presentan una elevada toxicidad, estos compuestos prácticamente carecen de toxicidad por su baja solubilidad y consecuentemente la imposibilidad de absorción.
+De ahí, que esté contraindicado en aquellas situaciones en las que pueda existir la absorción de este compuesto, como por ejemplo en perforación intestinal.
+Así mismo, las reacciones alérgicas son muy poco frecuentes.
+Se trata del grupo más importante dentro de los medios de contraste, ya que son los más usados.
+Se caracterizan por una alta densidad de contraste y una baja toxicidad.
+Su estructura química se corresponde con un núcleo benzoico yodado.
+Así se les puede dividir en monoméricos (tienen un solo núcleo benzoico) y diméricos (dos núcleos benzoicos); dando lugar así a cuatro grupos de contrastes yodados:
+La principal diferencia entre los iónicos y los no iónicos es la sustitución del radical carboxilo (-COOH) de los iónicos, por un radical hidroxilo (-OH), lo que hace que no se disocien y por ello presenten menor osmolaridad.
+También, debido a esta característica presentan mejor tolerancia neural, se unen menos a proteínas plasmáticas, y tienen una menor incidencia de efectos adversos; sin embargo, son más costosos.
+Los contrastes yodados se pueden administrar tanto por vía oral, como por vía endovenosa, y dependiendo de la vía de administración, presentaran características farmacocinéticas diferentes.
+Los contrastes yodados administrados por vía oral se absorben muy poco y se eliminan fácilmente por vía rectal, mientras que los administrados por vía endovenosa, se eliminan prácticamente de forma total por vía renal, y es solo un 2% excretado por vía biliar.
+Es necesario distinguir entre los medios de contraste iónicos y no iónicos en cuanto a su toxicidad.
+Son responsables del signo tóxico: nefropatía inducida por contraste, que es la reacción adversa más importante provocada por los contrastes yodados.
+Aunque el mecanismo exacto no se conoce del todo bien, se piensa que el mecanismo toxicodinámico es el siguiente: la quimiotoxicidad que ejerce el medio de contraste sobre la nefrona genera la producción de ROS (radicales libres de oxígeno) y por tanto un efecto citotóxico que cursa con estrés oxidativo y activación de citosinas proinflamatorias.
+Esto conduce a la inhibición de reabsorción tubular de proteínas, a la vacuolización, apoptosis y necrosis.
+La cascada oxidativa termina en hipóxia en los túbulos renales y pérdida de nefronas.

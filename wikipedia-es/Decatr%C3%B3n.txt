@@ -1,0 +1,12 @@
+Se llama decatrón a una válvula termoiónica que funciona como contador de pulsos.
+Consta de diez ánodos que son las salidas del tubo.
+Además, tiene dos grupos de otros diez ánodos, los de cada grupo interconectados entre sí de modo que al exterior salen dos patillas, que son las señales de conteo.
+Aplicándoles consecutivamente un pulso positivo, se avanza o retrocede la cuenta.
+El decatron contiene gas a baja presión, que se ioniza cuando los ánodos están a una tensión positiva suficiente.
+Esta nube de gas ionizado crea un camino de baja resistencia a uno de los ánodos.
+El tubo queda en este estado hasta que se aplique un pulso más positivo a un electrodo de conteo.
+En ese momento, la ionización se desplaza al ánodo auxiliar más cercano (ver figura).
+Un segundo pulso positivo en el otro ánodo auxiliar hace avanzar la ionización.
+Cuando el pulso desaparece, la nube ionizada pasa al siguiente ánodo, completando una cuenta.
+También existen modelos con un solo grupo de ánodos auxiliares que sólo permiten la cuenta unidireccional.
+En este tipo, es la geometría del tubo la que evita que la nube ionizada retroceda al ánodo de donde partió antes del pulso de conteo.

@@ -1,0 +1,7 @@
+La reconciliación medicamentosa (reconciliación de medicamentos o conciliación de medicamentos) se define según el Instituto para el Mejoramiento del Cuidado de la Salud (Institute for Healthcare Improvement en inglés) como el proceso de identificación del listado exacto de los medicamentos que el paciente consume desde su casa, e incluye el nombre, dosis, frecuencia y vía de administración y la comparación con la lista de medicamentos ordenados por el médico durante la atención médica con el fin de establecer finalmente un listado único de medicamentos para el manejo intra hospitalario o ambulatorio de cada paciente
+Los pasos de este proceso son:
+1. Verificación de los antecedentes del paciente en relación con los medicamentos que toma en forma ambulatoria.
+En este listado se recomienda preguntar sobre los medicamentos de origen natural y de venta libre (Over The Counter en inglés).
+2. Aclarar cuales medicamentos son apropiados para el paciente.
+3. Confrontar los medicamentos que tienen interacciones entre sí o que están contraindicados por su uso conjunto.
+El propósito de este proceso es reducir los eventos adversos prevenibles relacionados con el uso de medicamentos mediante la utilización consciente de los registros de la historia clínica.

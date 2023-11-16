@@ -1,0 +1,30 @@
+El reactor nuclear rápido refrigerado por sodio o SFR (del inglés: Sodium-cooled Fast Reactor) es un proyecto de reactor nuclear de IV generación para diseñar un reactor nuclear de neutrones rápidos avanzado.
+Se construye a partir de dos proyectos estrechamente relacionados ya existentes, el LMFBR y el Reactor Nuclear Rápido Integral, con el objetivo de producir un reactor nuclear de espectro rápido, refrigerado por sodio.
+Se pretende que estos reactores nucleares sean usados en centrales nucleares para producir energía nuclear utilizando combustible nuclear.
+El ciclo del combustible nuclear emplea un reciclaje total de los actínidos con dos opciones principales: uno es un reactor nuclear refrigerado por sodio de tamaño intermedio (150–600 MWe) usando combustible de aleación metálica uranio-plutonio-actínidos menores-circonio, apoyado por un ciclo de combustible basado en el reprocesamiento pirometalúrgico en instalaciones integradas con el reactor nuclear.
+La segunda es un reactor nuclear refrigerado por sodio de tamaño medio a grande (500–1,500 MWe) usando combustible mezclado de óxido de plutonio-uranio, apoyado por un ciclo de combustible basado en procesamiento acuoso avanzado en un lugar central prestando servicio a varios reactores nucleares.
+La temperatura de salida es de aproximadamente 510–550 grados Celsius para ambos.
+Una ventaja de los refrigerantes de metal líquido es su alta capacidad calofírica la que proporciona una inercia térmica contra el sobrecalentamiento.
+El agua es difícil de usar como refrigerante para un reactor nuclear rápido debido a que el agua actúa como un moderador de neutrones que frena a los neutrones rápidos y los pasa a neutrones térmicos.
+Mientras que puede ser posible utilizar agua supercrítica como refrigerante en un reactor nuclear rápido, esto requeriría una muy alta presión.
+En contraste, los átomos del sodio son mucho más pesados que los del oxígeno o del hidrógeno que se pueden encontrar en el agua y por lo tanto los neutrones pierden menos energía en las colisiones con los átomos del sodio.
+También el sodio no necesita ser presurizado dado que su punto de ebullición es mucho más alto que la temperatura de operación del reactor y el sodio no corroe las partes de acero del reactor.
+Una desventaja del sodio es su reactividad química, la que requiere precauciones especiales para prevenir y apagar incendios.
+Si el sodio entra en contacto con el agua explota y se incendia cuando entra en contacto con el aire.
+Esto fue lo que sucedió en la Central Nuclear de Monju en un accidente del año 1995.
+Adicionalmente, los neutrones hacen que se convierta en radiactivo, sin embargo, el sodio activado solo tiene una vida media de 15 horas.
+La temperatura de operación no debería sobrepasar la temperatura de fusión del combustible.
+La interacción química del combustible con el revestimiento (en inglés: Fuel-to-Cladding Chemical Interaction, FCCI) tenía que ser impedida desde el diseño.
+La FCCI es la fusión eutéctica entre el combustible y el revestimiento; el uranio, el plutonio y el lantano (un producto de la fisión) inter-permean con el hierro del revestimiento.
+La aleación que se forma tiene una baja temperatura de fusión eutéctica.
+La FCCI causa que el revestimiento reduzca su resistencia y eventualmente podría romperse.
+La cantidad de transmutación transuránica está limitada por la producción de plutonio a partir del uranio.
+Se ha propuesto utilizar óxido de magnesio como una solución de diseño para tener una matriz inerte.
+El óxido de magnesio tiene un orden de magnitud inferior de probabilidad de interactuar con los neutrones (ya sean térmicos o rápidos) cuando se le compara con elementos como el hierro.
+El reactor nuclear SFR está diseñado para manejar los desechos de alto nivel, y en particular, el manejo del plutonio y otros actínidos.
+Características importantes de seguridad del sistema incluyen una largo tiempo de respuesta termal, un gran margen para ebullición del refrigerante, un sistema primario que opera cerca de la presión atmosférica y un sistema intermedio de sodio entre el sodio radiactivo en el sistema primario y el agua y el vapor en la central generadora de energía.
+Con innovaciones para reducir el costo del capital, tales como un diseño modular, la remoción de un ciclo primario, la integración de la bomba y del intercambiador de calor intermedio o simplemente encontrar mejores materiales para la construcción, el SFR puede ser una tecnología viable para la generación de electricidad.
+El espectro rápido del SFR también hace posible la utilización de los materiales fisibles y fértiles disponibles (incluyendo el uranio empobrecido) considerablemente más eficientemente que los reactores nucleares de espectro térmico con ciclos de combustible de una sola pasada.
+Algunos reactores nucleares refrigerados por sodio son:
+La mayoría de estos eran centrales experimentales, que ya no se encuentran operacionales
+Relacionados:

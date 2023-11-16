@@ -1,0 +1,62 @@
+La clasificación de juegos es una forma aproximada de clasificación taxonómica de los juegos, es decir, todas aquellas actividades lúdicas estructuradas y diferenciadas de los deportes.
+Existen muchos métodos diferentes para clasificar juegos.
+La teoría de juegos clasifica los juegos de acuerdo con varios criterios: si un juego es simétrico o asimétrico, cuál es la "suma" de un juego (suma cero, suma constante, etc.), si un juego es un juego secuencial o un juego simultáneo, si un juego comprende información perfecta o información imperfecta, y si un juego está determinado.
+La teoría de juegos puede establecer modelos de apoyo a la decisión: el problema de un jugador es saber a partir de qué información debe jugar.
+Ya en 1564, Jérôme Cardan había establecido la clasificación formal de juegos que luego retomó Gottfried Wilhelm Leibniz en 1704.
+Así, en el siglo XVI.
+Cardan ya había separado los juegos así: "juegos en los que interviene la habilidad física, como los juegos de pelota", y "juegos en los que interviene la habilidad, como en el ajedrez".
+Luego Leibniz habló de "juegos en los que entra el movimiento" y "juegos en los que sólo entran el número y la situación".
+La fórmula del "aspecto combinatorio" utilizada por Michel Boutin (ver más abajo) es muy adecuada para los "juegos de peones".
+Sin embargo, cubre un concepto que concierne a todos los juegos.
+Cuando el aspecto combinatorio (también llamado “razón”, “reflexión”, etc.) es el único componente que aparece en los juegos, hablamos de “juegos determinados” que son objeto de numerosos trabajos de investigación como los de Pierre Parlebas:
+El azar es toda circunstancia causada por un generador aleatorio, como puede ser un dado, una ruleta, una carta tomada de una baraja, etc.
+Si el resultado de un sorteo aleatorio se revela antes del inicio del juego, o de cada ronda cuando el juego se juega en rondas sucesivas, no se puede hablar de azar.
+Por ejemplo, Ricochet Robots no es un juego de azar ya que el sorteo del objetivo se realiza al inicio de cada ronda y no durante el transcurso de ésta.
+O por ejemplo, un lanzamiento para determinar quién juega con las piezas blancas no convierte al ajedrez en un juego de azar.
+Tampoco existe el azar cuando se está ante una decisión de un oponente que no se puede conocer cuando se elige una acción propia.
+La incertidumbre en la que se encuentra un jugador de Stupid Vulture o Maka Bana no se debe al azar sino a la incertidumbre de la decisión del oponente.
+Esta incertidumbre puede surgir de dos mecanismos distintos: o la decisión previa está oculta o las elecciones son simultáneas.
+Lo que parece ser azar es en realidad incertidumbre basada en información imperfecta.
+Si el azar existe en el póquer, se debe a la distribución aleatoria de cartas y no a la incertidumbre a la que se enfrenta un jugador cuando se pregunta si su oponente está mintiendo o no.
+Se dice que un juego es "información completa y perfecta" cuando todos los jugadores tienen la misma información en todo momento para tomar sus decisiones (motivación del jugador, posibilidades de elección del jugador y movimientos anteriores).
+Esta información a veces puede requerir memoria: por ejemplo, en ciertos juegos, todos los jugadores reciben inicialmente un paquete de cartas conocidas pero deben memorizar las cartas jugadas y por lo tanto las que quedan en la mano.
+Por otro lado, un juego, donde los participantes determinan simultáneamente una acción, conduce a situaciones en las que la información es imperfecta: por ejemplo, realizar una jugada sin conocer las decisiones de los demás jugadores.
+La noción de información completa, perfecta o no, es fundamental en el desarrollo de estrategias y juega un papel capital en el comportamiento de los jugadores: los entusiastas del póquer no tienen el mismo perfil que los ajedrecistas.
+La teoría de juegos distingue entre juegos para uno, dos o más jugadores.
+Los juegos de cero jugadores son considerados más como simulaciones realizadas por programas informáticos, que no entran en la categoría de juegos propiamente dicha.
+Los juegos se pueden clasificar por la fuente de incertidumbre que enfrentan los jugadores:
+Con base en estas tres causas surgen tres clases de juegos:
+Según el autor francés Michel Boutin, los juegos pueden clasificarse inicialmente entre aquellos que involucran habilidad física, y los que no. Dentro de estos últimos, según las causas de incertidumbre antes descritas, la clasificación propuesta es la siguiente:
+! Líneas
+! Aspecto combinatorio
+! Azar
+! Información
+! Categorías
+! A ! 01
+! B ! 02
+! C ! 03
+! D ! 04
+! E ! *
+! F ! *
+! G ! 05
+! H ! 05
+Se incluyen las cinco categorías anteriores.
+Cada uno de ellos se asocia luego con la habilidad física que juega un papel en el mecanismo del juego, puede ser habilidad, fuerza, velocidad, respiración, agudeza visual, etc.
+Numerosas clasificaciones de juegos desarrolladas por psicólogos, filósofos, coleccionistas, fabricantes, locutores, etc. no conducen a la definición de clases estancas.
+Sin embargo, la clasificación de Roger Caillois permite reflexionar sobre el lugar del juego en diferentes sociedades.
+En su obra Les jeux et les hommes, las actividades lúdicas se dividen en categorías según la importancia de la competencia, la suerte, la simulación y el vértigo en los juegos.
+También existen clasificaciones educativas basadas en criterios que en ocasiones permiten organizar los juegos con gran pragmatismo.
+Este es el caso de la clasificación propuesta por François Haffner en su sitio sobre los juegos de mesa.
+Los juegos se presentan allí según dos criterios: "Tipo de juego/mecanismo" y "Tema del juego/decoración".
+Por ejemplo: Mediterráneo (Eurogames, 1996) es del tipo “economía empresarial” con el tema Egipto, Grecia, Mediterráneo, Roma, etc.
+Hay cuatro enfoques básicos para clasificar los juegos utilizados en educación física:
+Existen varios métodos para clasificar los videojuegos.
+Eric Solomon propone una clasificación de "sentido común, pero amplia" de los videojuegos, en simulaciones (el juego refleja la realidad), juegos abstractos (el juego en sí es el centro de interés) y deportes.
+Además de estos, señala que los juegos (en general, no solo los videojuegos) se clasifican según el número de jugadores.
+Los juegos con dos jugadores abarcan juegos de mesa como el ajedrez.
+Los juegos con varios jugadores abarcan juegos de cartas como el póquer y juegos familiares comercializados como Monopoly y Scrabble.
+Puzzles y Solitaire son juegos para un jugador.
+También incluye juegos para cero jugadores, como Game of Life de Conway, aunque reconociendo que otros argumentan que tales juegos no constituyen un juego, porque carecen de cualquier elemento de competencia.
+Afirma que estos juegos de cero jugadores son, no obstante, juegos porque se utilizan de forma recreativa.
+Otro método, desarrollado por Wright, divide los juegos en las siguientes categorías: educativos o informativos, deportivos, sensoriomotores (por ejemplo, juegos de acción, juegos de lucha y disparos, y simuladores de conducción y carreras), otros vehículos simuladores (no cubiertos por conducción y carreras), juegos de estrategia (por ejemplo, juegos de aventuras, juegos de guerra, simulaciones estratégicas, juegos de rol y rompecabezas) y "otros".
+Un tercer método, desarrollado por Funk y Buchman, y refinado por otros, clasifica los juegos electrónicos en seis categorías: entretenimiento general (sin peleas ni destrucción), educativo (aprendizaje o resolución de problemas), violencia de fantasía (personajes de dibujos animados que deben pelear o destruir cosas, y arriesgarse a ser asesinado, para lograr un objetivo), violencia humana (como violencia de fantasía, pero con personajes humanos en lugar de dibujos animados), deportes no violentos (sin peleas ni destrucción) y violencia deportiva (peleas o destrucción involucrado).

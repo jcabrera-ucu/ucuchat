@@ -1,0 +1,7 @@
+Una curva epidemiológica es un gráfico estadístico utilizado en epidemiología para visualizar el inicio de un brote epidémico.
+Puede ayudar con la identificación del modo de transmisión de la enfermedad y también puede mostrar la magnitud de la enfermedad, sus valores atípicos, su tendencia en el tiempo y su periodo de incubación.
+Puede dar a los investigadores una idea de si es probable que un brote provenga de una fuente puntual (como un manipulador de alimentos), una fuente común continua (con contaminación en progreso) o una fuente propagada (que se transmite principalmente entre personas).
+Las curvas epidemiológicas generalmente muestran la frecuencia de casos nuevos comparados con la fecha de inicio de la enfermedad.
+La primera descripción de curvas epidemiológicas de la pandemia de COVID-19 mostró el patrón de un "estallido mixto".
+Según los investigadores, allí probablemente pudo un brote de fuente común continuo en un mercado en Wuhan en diciembre de 2019, potencialmente de varios eventos zoonóticos.
+Los investigadores encontraron que el brote probablemente provenía una fuente propagada, significando que el virus se hizo capaz de ser transmitido de persona a persona.

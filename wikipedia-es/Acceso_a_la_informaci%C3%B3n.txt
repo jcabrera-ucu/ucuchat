@@ -1,0 +1,29 @@
+El acceso a la información se refiere al conjunto de técnicas para buscar, categorizar, modificar y acceder a la información que se encuentra en un sistema: bases de datos, bibliotecas, archivos, Internet... Es un término estrechamente relacionado con la informática, la bibliotecología y la archivística, disciplinas que estudian el procesado automatizado, clasificado y custodia de la información respectivamente.
+Asimismo, el acceso a la Información involucra a muchos otros temas, como los derechos de autor, el Código abierto, la privacidad y la seguridad.
+El acceso a la información se aplica a información que ya ha sido procesada por el entendimiento humano o por algún tipo de sistema de procesamiento automático, por lo que el objetivo no es tanto encontrar la manera más eficiente de clasificarla y archivarla; como sí lo es encontrar la mejor manera de obtener de manera inequívoca la información deseada utilizando para ello el menor número de recursos.
+.
+En ocasiones, el acceso a la información no es posible debido a las reticencias de algunos estados a publicar datos calificados como sensibles para la seguridad o que no serían bien recibidos por la opinión pública.
+En otras ocasiones, el ciudadano encuentra que no puede acceder a información personal que está siendo utilizada sin su consentimiento.
+El derecho de acceso a la información se refiere al derecho de toda persona a conocer lo que concierne a los asuntos públicos y a acceder a sus datos personales que se encuentren en posesión de la administración pública o de terceros con el objetivo de oponerse a ellos, para lo que se habilita el habeas data.
+El acceso a la información guardada en un sistema dependerá de tanto de la manera que este tenga de categorizar y clasificar los recursos que contiene como la forma en la que se accede a ella.
+Por ejemplo, en una biblioteca, en la que se almacenan volúmenes escritos, estos suelen estar ordenados por áreas temáticas y estas, a su vez, se ordenan por orden alfabético; como es el caso de la ordenación CDU.
+Sin embargo también se guarda información relativa al autor, editorial y, más modernamente, su ISBN.
+Así pues, el usuario podrá acceder a los diferentes volúmenes consultando a un bibliotecario sobre cualquiera de estos parámetros del libro, consultando en un índice o acudiendo él mismo a las estanterías para buscar la categoría, título y autor directamente en los volúmenes o su etiquetado.
+Lo interesante de este sistema es que no es necesario conocer a priori cual es el libro que se desea buscar, sino que solo es necesario conocer un parámetro de búsqueda.
+Si un usuario desea buscar un libro sobre un tema en concreto, no es necesario que conozca ninguno, sino que acude al área temática que busca y escoge uno de los volúmenes a conveniencia; o si desea un autor en concreto lo busca por orden alfabético y escoge otro volumen.
+Sin embargo, en un archivo de documentos, como un registro de la propiedad, el usuario desea directamente acceder a cierta información sin importarle la que sea parecida o del mismo autor.
+En este sistema, se acudiría a un parámetro inequívoco, como puede ser una referencia catastral en concreto.
+Sin embargo, se debe categorizar toda la información para que también se pueda acceder a ella de manera temática, por ejemplo, si un registrador de la propiedad decide revisar el registro de todo un pueblo.
+Esto se consigue gracias a los denominados metadatos.
+De una forma análoga, los sistemas informáticos también almacenan información y, por tanto, necesitan medios de acceder a sus propias bases de datos con el objetivo de satisfacer una petición del propio sistema o del usuario.
+Los medios de estos sistemas son mucho más potentes, pues asociado al la gran cantidad de información que puede almacenar un sistema medio, también se dispone de una gran capacidad de proceso y análisis de los contenidos.
+Las bases de datos están diseñadas de tal forma que el acceso a la información se encuentra optimizado para que, con el menor número de parámetros, se pueda acceder a la información buscada.
+Para ello se usan los metadatos, etiquetas que se aplican a información parecida o que posee parecidos técnicos.
+De esta manera, se podrá lanzar una búsqueda mediante un motor de búsqueda con el objetivo de obtener la información requerida aunque no se conozca completamente los detalles sobre ésta.
+Por ejemplo, en Wikipedia un lector puede estar interesado en un tema en concreto, por lo que escribiría en su navegador web la URL que se refiere de forma única al artículo al que se desea acceder.
+Puede que el lector no conozca el nombre del artículo, por lo que lanza una petición al sistema en forma de una cadena de caracteres a través de la barra de búsqueda y este le devuelve una lista de posibles coincidencias según criterios de semejanza.
+Otra opción es que esté interesado en un área temática, por lo que puede acceder a una categoría en concreto para ver una lista de artículos relacionados.
+También puede ser que el lector no desee encontrar información en concreto, por lo que podría pulsar sobre Página aleatoria, lo que no dejaría de ser una forma de acceso a la información.
+Sin embargo, en internet suele ser más normal que no se sepa el recurso que se busca, por lo que el usuario usará un buscador web, que seleccionará la información que considere más relevante para el usuario atendiendo a criterios de semejanza, frecuencia de la búsqueda o criterios comerciales.
+Para ello, el buscador ya habrá indexado de forma previa la información a la que ha podido acceder.
+Otra mucha información, la denominada internet profunda no es accesible por este medio, ya que puede que esté cifrada, protegida o en sistemas cuyo acceso no está permitido o no es posible.

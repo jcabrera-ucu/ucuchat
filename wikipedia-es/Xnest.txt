@@ -1,0 +1,10 @@
+Xnest es un servidor X Window System que direcciona su salida a una ventana.
+En otras palabras, Xnest abre una ventana que trabaja como otra pantalla en la cual el usuario puede abrir más ventanas.
+thumb|400px|An Xnest window containing [[KDM within a running KDE session.]]
+A nivel de protocolo, Xnest trabaja como un cliente del servidor X que muestra la ventana de Xnest, y como un servidor con respecto a las aplicaciones que abren ventanas dentro de Xnest.
+Xnest se puede usar para crear un escritorio virtual de otro equipo, dentro de una ventana.
+Xnest también se usa para la depuración de servidores y para probar que las aplicaciones funcionen correctamente con distintas resoluciones.
+El usuario puede escoger el tamaño de la ventana Xnest, que también es el tamaño de la pantalla virtual que contiene.
+De esta manera se puede iniciar una ventana Xnest con el tamaño de un PDA para probar si una aplicación funciona correctamente en el tamaño de pantalla del dispositivo.
+Xnest se puede usar para mostrar localmente un escritorio remoto de otro equipo.
+Más aún, al comportarse Xnest como cualquier servidor X regular, aplicaciones remotas pueden ser lanzadas de manera que se conecten a un servidor Xnest local.

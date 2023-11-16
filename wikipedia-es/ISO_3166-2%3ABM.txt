@@ -1,0 +1,5 @@
+La ISO 3166-2:BM incluye los códigos de las divisiones de Bermudas.
+El objetivo de esta familia de normas es establecer en todo el mundo una serie de abreviaturas para los lugares, para su uso en las etiquetas de paquetes, contenedores y tal.
+En cualquier lugar donde un código alfanumérico corto puede servir para indicar claramente la ubicación de una forma más conveniente y menos ambigua que la forma completa el nombre del lugar.
+Actualmente no hay códigos ISO 3166-2 para Bermudas.
+Bermudas es designada oficialmente por ISO 3166-1 alpha-2 con el código BM.

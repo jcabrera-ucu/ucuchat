@@ -1,0 +1,15 @@
+Un Domicilio Electrónico es sitio informático seguro, personalizado, válido y optativo, registrado por los ciudadanos, empresas o representantes, para la entrega o recepción de comunicaciones de cualquier naturaleza y eventualmente para el cumplimiento de obligaciones fiscales.
+Su constitución, implementación, alcance y evolución se enmarca en la normativa legal vigente de cada país.
+Usualmente se requiere que se constituya el domicilio electrónico de forma personal y presencial, presentando toda la documentación correspondiente.
+Una vez constituido, toda interacción con los organismos notificadores no requiere presencia física del notificado.
+El Domicilio Electrónico tiene en el ámbito administrativo público, los mismos efectos del domicilio fiscal constituido, siendo válidas y plenamente eficaces todas las notificaciones, emplazamientos y comunicaciones que allí se produzcan.
+Anteriormente, cada vez que cualquier entidad del Estado debía comunicar al ciudadano la resolución de un trámite, solicitarle o comunicarle información, era indispensable que la persona concurriera al organismo público personalmente, implicando traslados, costos en tiempo, dinero e impacto ambiental.
+Mediante el Domicilio Electrónico, se da un paso cualitativo en la modernización de la gestión pública, permitiendo que toda la comunicación con el ciudadano se haga a través de mecanismos electrónicos.
+Beneficios concretos:
+Para lograr que los trámites, enmarcados en una estrategia de Gobierno Electrónico sean realmente 100% electrónicos, es necesario que la comunicación con el ciudadano también lo sea.
+Ya sea durante el trámite, para que aporte datos o para comunicarle información relevante, o al final del mismo para notificarle la resolución, es necesario contar con un mecanismo de notificación y de domicilio electrónico.
+En el Uruguay, existe el concepto de Domicilio Electrónico desde principios de la década del 2000, pero estaba acotado al marco del Poder Judicial, con normativa específica a esos efectos.
+En el año 2012, la Agencia de Gobierno Electrónico (AGESIC), licitó una solución completa para Notificaciones y Comunicaciones Electrónicos que incorporara un Domicilio Electrónico, que tuviera alcance nacional.
+Es decir, para potencialmente todos los ciudadanos, empresas y organismos del país.
+La solución escogida fue la provista por la empresa Domicilio Electrónico, mediante su módulo de para ser implementado a nivel nacional.
+Mediante este, todos los organismos del país (empresas públicas, administración central, etc.), podrán notificar, comunicar e intercambiar información electrónicamente con toda persona física, empresas u otros organismos públicos del país.

@@ -1,0 +1,14 @@
+En el campo matemático de la teoría de grafos, el grafo F26A es un grafo cúbico bipartito simétrico con 26 vértices y 39 aristas.
+Tiene coloración de grafos 2, índice cromático 3, diámetro 5, radio 5 y cintura 6.
+También es un grafo 3-vértices-conectado y 3-aristas-conectado.
+El grafo F26A es hamiltoniano y se puede describir mediante la notación LCF como [&minus;7, 7]13.
+El grupo de automorfismos del grafo F26A es un grupo de orden 78.
+Actúa transitivamente sobre los vértices, sobre las aristas y sobre los arcos del grafo.
+Por lo tanto, el grafo F26A es un grafo simétrico (aunque no distancia transitivo).
+Tiene automorfismos que llevan cualquier vértice a cualquier otro vértice y cualquier arista a cualquier otra arista.
+Según el Censo de Forster, el grafo F26A es el único grafo simétrico cúbico en 26 vértices.
+También es un grafo de Cayley para el grupo diédrico D26, generado por a, ab y ab4, donde:
+El grafo F26A es el grafo cúbico más pequeño donde el automorfismo agrupa acciones regularmente en arcos (es decir, en aristas que se considera que tienen una dirección).
+El polinomio característico del grafo F26A es igual a:
+El grafo F26A se puede incrustar como un mapa regular quiral en el toro, con 13 caras hexagonales.
+El grafo dual para este embebido es isomorfo al grafo de Paley de orden 13.

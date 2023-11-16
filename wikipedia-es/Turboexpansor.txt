@@ -1,0 +1,12 @@
+Turbina Tesla
+Un turboexpansor o turbina de expansión es una turbina centrífuga o de flujo axial, a través de la cual se expande un gas a alta presión para producir trabajo que a menudo se utiliza para impulsar un compresor o generador.
+Debido se extrae trabajo del gas a alta presión, la expansión se realiza a través de un camino aproximadamente isentrópico (es decir, un proceso de entropía constante), y el gas de escape de baja presión de la turbina está a una temperatura muy baja, usualmente −150 °C o menos, dependiendo de la presión de funcionamiento y las propiedades del gas.
+Es frecuente también la licuefacción parcial del gas.
+Los turboexpansores fueron desarrollados para plantas de procesamiento de gas con la finalidad de recuperar etano y propano a partir de gas natural.
+Para el uso del turboexpansor es necesario que exista una caída de presión en el flujo de gas.
+Su uso más eficiente es con gas rico y adicionalmente se pueden lograr recuperación de etano por encima del 30%.
+Posteriormente se fue ampliando su uso para la industria de generación eléctrica tanto en aplicaciones geotérmicas o de recuperación de energía en los gasoductos.
+En resumen, los turboexpansores tienen las siguientes aplicaciones y rangos de operación:
+El uso de sellos secos y cojinetes magnéticos en los turboexpansores es una tecnología probada y madura.
+Son equipos que no consumen combustible lo cual baja los costes de operación.
+Son equipos que pueden operar de manera confiable por encima de las 30.000 horas.

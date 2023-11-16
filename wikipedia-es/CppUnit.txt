@@ -1,0 +1,3 @@
+CppUnit es un marco de programación de pruebas unitarias para el lenguaje de programación C++.
+El proyecto ha sido bifurcado en diversas ocasiones.
+La versión de freedesktop.org, mantenida por Markus Mohrhard, programador del proyecto LibreOffice, está en desarrollo activo y es distribuida en varias distribuciones Linux como Debian, Ubuntu, Gentoo y Arch.

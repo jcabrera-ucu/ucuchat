@@ -1,0 +1,17 @@
+Se denomina herramientas de diseño asistido a un conjunto de herramientas que permiten el diseño asistido por computador.
+Es frecuente utilizar la sigla CAD, del inglés Computer Aided Design, para designar al conjunto de herramientas de software orientadas fundamentalmente, pero no exclusivamente, al diseño (CAD), la fabricación (CAM) y el análisis (CAE) asistidos por computadora en los ámbitos científico e industrial.
+Inicialmente estos programas se limitaban a pequeñas aplicaciones centradas en el dibujo técnico en dos dimensiones que venían a sustituir el tradicional tablero de dibujo, ya que ofrecía ventajas para la reproducción y conservación de los planos y reducía el tiempo de dibujo, permitiendo además usar elementos repetitivos y agilizar los cambios.
+Se podría comparar a las ventajas de los primeros procesadores de textos frente a la máquina de escribir.
+Sus comienzos se vieron frenados por estar destinados a un grupo de usuarios muy reducido y requerían, además, de un hardware muy potente.
+Por no hablar de la resistencia de muchos profesionales a adoptar estas tecnologías.
+Pero su potencial, el incremento de potencia del hardware y la importancia de las empresas que los usaban (entre los que ha destacado la industria de la automoción) permitieron que poco a poco estas herramientas alcanzaran las tres dimensiones y fueran incluyendo curvas complejas, superficies y, finalmente, sólidos.
+Hasta llegar a los complejos sistemas asociativos y paramétricos que permiten realizar todo el diseño de un automóvil o un avión, someterlos a pruebas de choque, temperaturas, etc., realizar toda la infografía de marketing, realizar prototipos y, por supuesto, fabricarlos, programando y controlando las máquinas que los fabrican y comprobando después los resultados obtenidos.
+Todo ello en tiempos impensables hace veinte años.
+Actualmente estos sistemas están conectados a los sistemas de gestión y producción de tal forma que ya desde la fase de diseño se puede saber el coste del producto final, controlar los stocks de componentes y materiales para su fabricación y, en fin, todo lo que uno pueda imaginar.
+Hemos pasado de tener una representación de un plano en pantalla a tener un modelo virtual del que podemos obtener datos, montar en otros modelos, hacerlo adaptativo, imprimirlo, fabricarlo.
+El siguiente paso fueron los llamados sistemas expertos que permiten recoger reglas y normas de forma que el sistema guía al usuario en la toma de decisiones.
+Y ahora se persigue recoger el conocimiento y la experiencia del usuario y que el sistema aprenda, teniendo en cuenta estética, ingeniería, fabricación y calidad.
+La evolución de estos sistemas ha permitido avances impresionantes en la industria, de los que hoy se benefician desde los satélites hasta las batidoras domésticas.
+Importancia de las empresas que los usaban (entre los que ha destacado la industria de la automoción) permitieron que poco a poco estas herramientas alcanzaran las tres dimensiones y fueran incluyendo curvas complejas, superficies y, finalmente, sólidos.
+Hasta llegar a los complejos sistemas asociativos y paramétricos que permiten realizar todo el diseño de un automóvil o un avión, someterlos a pruebas de choque, temperaturas, etc., realizar toda la infografía de marketing, realizar prototipos y, por supuesto, fabricarlos, programando y controlando las máquinas que los fabrican y comprobando después los resultados obtenidos.
+Todo ello en tiempos impensables hace veinte años.

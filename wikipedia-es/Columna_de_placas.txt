@@ -1,0 +1,15 @@
+Una columna de platos (o columna de placas ) es un equipo químico utilizado para llevar a cabo operaciones unitarias donde es necesario transferir masa entre una fase líquida y una fase gaseosa.
+En otras palabras, es un contactor particular de gas-líquido.
+La peculiaridad de este contactor de gas-líquido es que el gas entra en contacto con el líquido a través de diferentes etapas; cada etapa está delimitada por dos placas (excepto la etapa en la parte superior de la columna y la etapa en la parte inferior de la columna).
+Algunas aplicaciones comunes de las columnas de placa son la destilación, la absorción de gas-líquido y la extracción de líquido-líquido.
+En general, las columnas de placa son adecuadas tanto para operaciones continuas como de lotes.
+La alimentación a la columna puede ser líquida, gaseosa o gaseosa y líquida en equilibrio.
+Dentro de la columna, en cambio, siempre hay dos fases: una fase gaseosa y una fase líquida.
+La fase líquida fluye hacia abajo a través de la columna a través de la gravedad, mientras que la fase gaseosa fluye hacia arriba.
+Estas dos fases entran en contacto en correspondencia con orificios, válvulas o tapas de burbujas que llenan el área de las placas.
+El gas se mueve a la placa superior a través de estos dispositivos, mientras que el líquido se mueve a la placa inferior a través de un tubo descendente.
+El líquido se recoge en la parte inferior de la columna y se evapora a través de un hervidor, mientras que el gas se acumula en la parte superior y se condensa a través de un condensador.
+El líquido y el gas producidos en la parte superior y en la parte inferior son en general recirculados.
+En el caso más simple, solo hay una corriente de alimentación y dos secuencias de productos.
+En el caso de la columna de fraccionamiento, en cambio, hay muchos flujos de productos.
+<references group="" responsive="">

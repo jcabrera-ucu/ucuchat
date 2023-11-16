@@ -1,0 +1,6 @@
+El modulor es un sistema de medidas detallado por el arquitecto suizo Le Corbusier (en colaboración con André Wogenscky), quien publicó en 1948 el libro llamado Le Modulor seguido por Le Modulor 2 en 1953 en los que da a conocer su trabajo, y de cierta manera, se une a una larga “tradición” vista en personajes como Vitruvio, Leonardo Da Vinci y Leon Battista Alberti en la búsqueda de una relación matemática entre las medidas del hombre y la naturaleza.
+De cierta manera es una búsqueda antropométrica de un sistema de medidas del cuerpo humano en que cada magnitud se relaciona con la anterior por el número áureo, todo con la finalidad de que sirviese como medida base en las partes de la arquitectura.
+Las medidas parten desde la medida del hombre con la mano levantada (226 cm) y de su mitad, la altura del ombligo (113 cm).
+Desde la primera medida multiplicando sucesivamente y dividiendo de igual manera por el número de oro se obtiene la llamada serie azul, y de la segunda del mismo modo la roja.
+Siendo cada una sucesión de Fibonacci y permitiendo miles de combinaciones armónicas.
+En el billete suizo de 10 CHF aparece una imagen del Modulor.

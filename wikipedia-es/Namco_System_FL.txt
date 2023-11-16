@@ -1,0 +1,5 @@
+Namco System FL es una Placa de arcade creada por Namco destinada a los salones arcade.
+El Namco System FL fue lanzada por Namco en 1993.
+El sistema tenía un procesador Intel i960-KB 32-bit RISC de velocidad 20 MHz, y el audio lo gestionaba el Namco C75 (M37702 based 16-bit) a 16.384 MHz, que manejaba un chip de audio Namco C352 de 32 canales.
+En esta placa funcionaron 2 títulos de conducción.
+Chip de sonido

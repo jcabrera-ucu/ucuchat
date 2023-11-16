@@ -1,0 +1,3 @@
+Un oscilógrafo es un instrumento para medir corriente eléctrica alterna o variable, en términos de intensidad y voltaje, y volcar los resultados en una gráfica sobre papel o en una pantalla de vídeo.
+Existen dos tipos básicos del instrumento:
+Además de los usos específicos en electricidad y electrónica, existen numerosas aplicaciones del oscilógrafo en el campo de la medicina, incluyendo los electrocardiógrafos para medir el funcionamiento del corazón el electroencefalógrafo para registrar las ondas cerebrales, y equipos específicos para aplicaciones en estudios fonéticos.

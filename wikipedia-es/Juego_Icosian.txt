@@ -1,0 +1,6 @@
+El desafío conocido como icosian game es un juego matemático desarrollado en 1857 por William Rowan Hamilton.
+El objetivo del juego es dar con el recorrido de Hamilton por las aristas de un dodecaedro para visitar una y sólo una vez cada vértice y que el de llegada coincida con el de partida.
+Este desafío se comercializó como un tablero con agujeros en cada nodo del grafo del dodecaedro y luego, fue distribuido en Europa en diversos formatos.
+El propósito de Hamilton era encarar el problema de simetrías de un icosaedro, para el que inventó los icosianos —un recurso algebraico para computar las simetrías.
+La solución del acertijo es un ciclo que contiene veinte (en Griego antiguo icosa) aristas.
+Por ejemplo, el circuito de Hamilton en el dodecaedro.

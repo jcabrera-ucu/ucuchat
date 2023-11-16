@@ -1,0 +1,7 @@
+Las monooxigenasas son enzimas que incorporan un grupo hidroxilo a un sustrato en muchas rutas metabólicas.
+En la reacción que catalizan, los dos átomos de una molécula de dioxígeno se reducen a un grupo hidroxilo y a una molécula de H2O con la oxidación concomitante del sustrato y de una molécula de NADH o NADPH.
+Puesto que catalizan una transferencia de electrones (una reacción redox), las monooxigenasas se clasifican como un subtipo de enzimas oxidorreductasas.
+2XDO
+2XYO
+2Y6R
+COQ6;     CYP450;      MICAL1;    MICAL2;    MICAL2PV1; MICAL2PV2; MICAL3;

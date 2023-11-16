@@ -1,0 +1,18 @@
+Rachel Binx (Nuevo México) es una científica de datos, desarrolladora y diseñadora estadounidense.
+Es cofundadora de Meshu y Gifpop, dos empresas que crean objetos físicos, como mapas y GIF animados, a partir de datos sociales.
+También ha trabajado en Stamen Design y NASA.
+En 2006, se mudó a California para asistir a la Universidad de Santa Clara, donde hizo una licenciatura en Matemáticas y una licenciatura en Historia del Arte.
+Después de graduarse, trabajó de manera independiente en visualización de datos y diseño web.
+En 2011 se unió a Stamen Design, un estudio de diseño y tecnología en San Francisco, California.
+En Stamen, Binx trabajó en proyectos para clientes como MTV, Facebook y Oprah.
+Cofundó Meshu, Gifpop y monochōme, pequeñas empresas que exploran la creación de objetos físicos únicos a partir de los datos que los clientes consideran significativos.
+Meshu fue cofundada con Sha Hwang, otro exalumno de Stamen.
+Meshu es un servicio en el que las personas pueden cargar datos geográficos de servicios, como Foursquare, para convertirlos en joyas y accesorios.
+El objeto impreso en 3D resultante se crea a partir de puntos de datos cargados por el usuario.
+Gifpop es un servicio para hacer GIF físicos.
+El servicio imprime tarjetas impresas lenticulares a partir de archivos gif cargados.
+Se lanzó a través de un proyecto de Kickstarter que recaudó más de $ 35,000 de más de 1,000 patrocinadores.
+En 2014 fundó monochōme, una empresa de ropa que permite a los clientes utilizar mosaicos de mapas de OpenStreetMap para crear una impresión personalizada en varios artículos.
+En 2015 se unió al Laboratorio de Propulsión a Chorro de la NASA.
+Creó una herramientas de visualización de datos para rovers, satélites y otra tecnología espacial.
+Trabaja como parte del grupo de investigación de interacción humano-computadora que crea herramientas de visualización de datos para evaluaciones de misiones.

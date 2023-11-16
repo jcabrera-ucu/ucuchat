@@ -1,0 +1,24 @@
+La lutolita o fangolita (en inglés: mudstone) es una roca sedimentaria granulosa fina cuyos componentes originales son arcillas o fangos.
+Se distingue de los esquistos arcillosos por su falta de fisibilidad (es decir, por carecer de capas paralelas).
+El término "lutolita" también se usa para describir rocas como calizas o dolomías que están compuestas predominantemente de limo carbonatado.
+Sin embargo, en la mayoría de los contextos, el término se refiere a rocas silicoclásticas denominadas de forma inespecífica lutitas, compuestas principalmente de silicatos.
+El vehículo de exploración Curiosity de la NASA encontró depósitos de lutolitas en Marte que contienen sustancias orgánicas como propano, benceno y tolueno.
+No existe una definición única de lutolita que haya alcanzado aceptación general, aunque existe un amplio acuerdo en que son rocas sedimentarias de grano fino, compuestas principalmente de partículas de silicatos con un tamaño inferior a 0.063 mm. Las partículas individuales de este tamaño son demasiado pequeñas para distinguirlas sin un microscopio, lo que significa que la mayoría de las clasificaciones hacen énfasis en su textura, en lugar de centrarse en la composición de los minerales constituyentes.
+Históricamente, las lutolitas han recibido menos atención de los petrólogos que las areniscas.
+La definición más simple es que una lutita es un roca clástica de grano fino que no presenta laminación ni es fisible.
+La mayoría de las definiciones también incluyen el requisito de que la roca contenga cantidades significativas de granos del tamaño de limo y arcilla.
+Un requisito común es que sea una roca que contenga más del 50% de partículas de tamaño limoso y arcilloso, de forma que entre un tercio y dos tercios de la fracción correspondiente a los tamaños limoso y arcilloso, sean partículas de arcilla.
+Otra definición es que la lutolita es una roca sedimentaria en la que no predominan el limo, la arcilla ni los granos más gruesos.
+La roca de esta composición que muestra laminaciones o fisibilidad a veces se describe como "esquisto arcilloso" en lugar de como "lutolita".
+La falta de fisibilidad o estratificación en la lutita puede deberse a la textura original o a la interrupción de la estratificación por parte de organismos excavadores en el sedimento antes de producirse la litificación.
+La lutolita parece arcilla endurecida y, dependiendo de las circunstancias en las que se formó, puede mostrar grietas o fisuras, como un depósito de arcilla secada por el sol.
+Cuando se ha determinado la composición mineral de las lutitas usando técnicas como el microscopio electrónico de barrido, el microanálisis con sonda electrónica o la cristalografía de rayos X, se ha encontrado que están compuestas principalmente de minerales de la arcilla, cuarzo y feldespato, con proporciones menores de diversos otros minerales.
+En el sistema de clasificación de Dunham para rocas calizas (Dunham, 1962), una "lutolita" se define como un roca carbonática con matriz de fango que contiene menos del 10% de granos.
+Más recientemente, esta definición se ha aclarado como "una roca dominada por carbonatos sobre una matriz compuesta por más del 90% de partículas de tipo fangoso (<63 μm) carbonatadas''.
+Un estudio de Lokier y Al Junaibi (2016) ha destacado que los problemas más comunes que se encuentran al describir una lutolita es estimar incorrectamente el volumen de "granos" en la muestra; es decir, identificarla erróneamente como una arenisca de matriz arcillosa (o al revés).
+La clasificación original de Dunham (1962) definía la matriz como un sedimento de arcilla y limo fino de tamaño <20 μm de diámetro.
+Esta definición fue reformulada por Embry & Klovan en 1971, fijando un tamaño de grano inferior o igual a 30 μm.
+Wright propuso en 1992 un aumento adicional del límite superior del tamaño de la matriz para alinearlo con el límite superior del limo (63 μm).
+El 13 de diciembre de 2016, la NASA publicó más pruebas que respaldan la habitabilidad del planeta Marte a medida que el Curiosity ascendía sobre la ladera del Aeolis Mons, estudiando estratos más recientes.
+También se informó de que se detectó por primera vez en Marte boro, un elemento muy soluble.
+En junio de 2018, la NASA informó de que el Curiosity había detectado querógenos y otros compuestos orgánicos complejos en rocas de lutolita de aproximadamente 3500 millones de años de antigüedad.

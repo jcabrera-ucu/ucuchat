@@ -1,0 +1,3 @@
+Se conoce como coordenadas independientes al número mínimo de coordenadas necesarias para definir la posición de un mecanismo dado.
+Si el sistema es holónomo, coincide con los grados de libertad.
+A diferencia de los grados de libertad, se identifica como un "movimiento a largo plazo" (posición), mientras que los grados de libertad se refieren a "movimiento a corto plazo".

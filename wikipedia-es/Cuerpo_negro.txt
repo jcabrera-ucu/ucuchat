@@ -1,0 +1,53 @@
+Un cuerpo negro es un cuerpo físico ideal que absorbe toda la energía radiante incidente, sin importar la frecuencia o el ángulo de incidencia.
+El nombre de "cuerpo negro" se le da debido a que absorbe todos los colores de la luz que incide en su superficie.
+Esta absorción da como resultado una agitación térmica que provoca la emisión de radiación térmica.
+Esa energía electromagnética emitida por un cuerpo negro recibe el nombre de radiación de cuerpo negro.
+La denominación de cuerpo negro fue introducida por Gustav Kirchhoff en 1860
+Todo cuerpo emite energía en forma de ondas electromagnéticas, incluso en el vacío.
+Sin embargo, la energía radiante emitida por un cuerpo a temperatura ambiente es escasa y corresponde a longitudes de onda más largas que las de la luz visible, (es decir, de menor frecuencia).
+Al elevar la temperatura no solo aumenta la energía emitida sino que lo hace a longitudes de onda más cortas; a esto se debe el cambio de color de un cuerpo cuando se calienta.
+Los cuerpos no emiten con igual intensidad a todas las frecuencias o longitudes de onda, sino que lo hacen siguiendo la ley de Planck.
+A igualdad de temperatura, la energía emitida depende también de la naturaleza de la superficie; así, una superficie mate o negra tiene un poder emisor mayor que una superficie brillante.
+Así, la energía emitida por un filamento de carbón incandescente es mayor que la de un filamento de platino a la misma temperatura.
+La ley de Kirchhoff establece que un cuerpo que es buen emisor de energía es también buen absorbente de dicha energía.
+Así, los cuerpos de color negro son buenos absorbentes.
+Los principios físicos de la mecánica clásica y la mecánica cuántica conducen a predicciones mutuamente excluyentes sobre los cuerpos negros o sistemas físicos que se les aproximan.
+Las evidencias de que el modelo clásico hacía predicciones de la emisión a pequeñas longitudes de onda en abierta contradicción con lo observado llevaron a Planck a desarrollar un modelo heurístico que fue el germen de la mecánica cuántica.
+La contradicción entre las predicciones clásicas y los resultados empíricos a bajas longitudes de onda, se conoce como catástrofe ultravioleta.
+donde es la cantidad de energía por unidad de área, unidad de tiempo y unidad de ángulo sólido;  es una constante que se conoce como constante de Planck;  es la velocidad de la luz; y  es la constante de Boltzmann.
+Se llama poder emisivo de un cuerpo a la cantidad de energía radiante emitida por la unidad de superficie y tiempo:
+La longitud de onda en la que se produce el máximo de emisión viene dada por la ley de desplazamiento de Wien; por lo tanto, a medida que la temperatura aumenta, el brillo de un cuerpo va sumando longitudes de onda, cada vez más pequeñas, y pasa del rojo al blanco según va sumando las radiaciones desde el amarillo hasta el violeta.
+La potencia emitida por unidad de área viene dada por la ley de Stefan-Boltzmann.
+Antes de Planck, la Ley de Rayleigh-Jeans modelizaba el comportamiento del cuerpo negro utilizando el modelo clásico.
+De esta forma, el modelo que define la radiación del cuerpo negro a una longitud de onda concreta:
+donde c es la velocidad de la luz, k es la constante de Boltzmann y T es la temperatura absoluta.
+Esta ley predice una producción de energía infinita a longitudes de onda muy pequeñas.
+Esta situación que no se corrobora experimentalmente es conocida como la catástrofe ultravioleta.
+El cuerpo negro es un objeto teórico o ideal, pero se puede aproximar de varias formas entre ellas una cavidad aislada y otros sistemas algo más complejos.
+Es posible estudiar objetos en el laboratorio con comportamiento muy cercano al del cuerpo negro.
+Para ello se estudia la radiación proveniente de un agujero pequeño en una cámara aislada.
+La cámara absorbe muy poca energía del exterior, ya que esta solo puede incidir por el reducido agujero.
+Sin embargo, la cavidad irradia energía como un cuerpo negro.
+La luz emitida depende de la temperatura del interior de la cavidad, produciendo el espectro de emisión de un cuerpo negro.
+El sistema funciona de la siguiente manera:
+La luz que entra por el orificio incide sobre la pared más alejada, donde parte de ella es absorbida y otra reflejada en un ángulo aleatorio y vuelve a incidir sobre otra parte de la pared.
+En ella, parte de la luz vuelve a ser absorbida y otra parte reflejada, y en cada reflexión una parte de la luz es absorbida por las paredes de la cavidad.
+Después de muchas reflexiones, toda la energía incidente ha sido absorbida.
+Según el Libro Guinness de los Récords, la sustancia que menos refleja la luz (en otras palabras, la sustancia más negra) es una aleación de fósforo y níquel, con fórmula química NiP.
+Esta sustancia fue producida, en principio, por investigadores indios y estadounidenses en 1980, pero perfeccionada (fabricada más oscura) por Anritsu (Japón) en 1990.
+Esta sustancia refleja tan solo el 0,16 % de la luz visible; es decir, 25 veces menos que la pintura negra convencional.
+En el año 2008 fue publicado en la revista científica Nanoletters un artículo con resultados experimentales acerca de un material creado con nanotubos de carbono que es el más absorbente creado por el hombre, con una reflectancia de 0,045 %, casi tres veces menos que la marca lograda por Anritsu.
+Los objetos reales nunca se comportan como cuerpos negros ideales.
+En su lugar, la radiación emitida a una frecuencia dada es una fracción de la emisión ideal.
+La emisividad de un material especifica cuál es la fracción de radiación de cuerpo negro que es capaz de emitir el cuerpo real.
+La emisividad depende de la longitud de onda de la radiación, la temperatura de la superficie, acabado de la superficie (pulida, oxidada, limpia, sucia, nueva, intemperizada, etc.) y ángulo de emisión.
+En algunos casos resulta conveniente suponer que existe un valor de emisividad constante para todas las longitudes de onda, siempre menor que 1 (que es la emisividad de un cuerpo negro).
+Esta aproximación se denomina aproximación de cuerpo gris.
+La Ley de Kirchhoff indica que en equilibrio termodinámico, la emisividad es igual a la absortividad, de manera que este objeto, que no es capaz de absorber toda la radiación incidente, también emite menos energía que un cuerpo negro ideal.
+En astronomía, la emisión de las estrellas se aproxima a la de un cuerpo negro.
+La temperatura asociada se conoce como Temperatura Efectiva, una propiedad fundamental para caracterizar la emisión estelar.
+La radiación cósmica de fondo de microondas proveniente del Big Bang se comporta casi como un cuerpo negro.
+Las pequeñas variaciones detectadas en esta emisión son llamadas anisotropias y son muy importantes para conocer las diferencias de masa que existía en el origen del universo.
+La radiación de Hawking es la radiación de cuerpo negro emitida por agujeros negros.
+La emisión de gas, polvo cósmico y discos protoplanetarios también se asocia con cuerpos negros, principalmente en la región infrarroja y milimétrica del espectro electromagnético.
+Son importantes herramientas para buscar sistemas planetarios.

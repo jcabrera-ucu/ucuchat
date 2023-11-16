@@ -1,0 +1,4 @@
+La Escala de Ramsay, es una especie de escala subjetiva utilizada para evaluar el grado de sedación en pacientes, con el fin de evitar la insuficiencia de la sedación (el paciente puede sentir dolor) o su exceso (poniéndolo en riesgo de muerte).
+Ha sido utilizada principalmente para evaluar los pacientes en unidad de cuidados intensivos.
+La escala de Ramsay fue descrita por primera vez por el médico Michael Ramsay como parte de un estudio sobre el efecto de un anestésico esteroide y publicado en 1974.
+Incluye valores que van de 1 a 6, que se atribuye la observación de las respuestas el paciente después de la estimulación y puede ser:

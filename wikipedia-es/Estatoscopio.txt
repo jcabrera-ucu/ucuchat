@@ -1,0 +1,3 @@
+Estatoscopio o estatóscopo es un tipo de barómetro extremadamente sensible que se aplica a los globos para saber si su movimiento es ascendente o descendente.
+Está formado por una caja llena de aire y que puede comunicar con el exterior por medio de un tubo de goma y una espita, una de cuyas paredes es elástica y, por lo tanto, sensible a los cambios de presión atmosférica.
+Al variar esta deformación que experimenta dicha pared, imprime un movimiento a una aguja que recorre un arco graduado.

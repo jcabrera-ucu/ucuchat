@@ -1,0 +1,5 @@
+La inestabilidad baroclínica es un mecanismo meteorológico que proporciona energía a las perturbaciones sinópticas de la atmósfera terrestre.
+Se trata del mecanismo principal en las latitudes medias terrestres.
+La fuente de esta energía es el flujo principal.
+Para las condiciones normales de estabilidad estática la longitud de onda de máxima inestabilidad baroclínica es de unos 4.000 km y el viento térmico necesario es de unos 4 m/s.
+Dado que estos números están dentro de lo habitual en los sistemas sinópticos medios se concluye que la inestabilidad baroclínica es el mecanismo principal que proporciona energía a estas perturbaciones.

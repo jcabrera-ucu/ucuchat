@@ -1,0 +1,10 @@
+El HD6309 es una versión cmos del microprocesador de 8 bits Motorola 6809 (NMOS) diseñada por Hitachi.
+Se fabricó en las versiones HD63B09, de 2 MHz, y HD63C09, de 3 MHz.
+Hitachi obtuvo la licencia de Motorola para la utilización del conjunto de instrucciones y códigos de operación del 6809 para hacer un microprocesador compatible.
+Pero, como el nuevo diseño cmos dejaba espacio libre en el silicio, Hitachi decidió mejorar su producto ofreciendo más instrucciones y otras ventajas, como nuevos registros.
+Pero como la licencia de Motorola no le concedía el derecho de modificar el juego de instrucciones, Hitachi se vio impedida para publicar las nuevas características.
+De hecho, el fabricante solo da las características "compatibles" con el 6809 en sus hojas de datos.
+Sin embargo, algunos usuarios empezaron a encontrar diferencias y comportamientos extraños en el 6309.
+Por ello, adquirió fama de producto sospechoso y no demasiado fiable.
+No fue hasta abril de 1988, que en una revista japonesa ("Oh!FM") apareció publicado el juego de instrucciones completo.
+En https://web.archive.org/web/20120330234331/http://www.concentric.net/~alxevans/6309/index.html (Inglés) Chet Simpson hace una descripción bastante completa del 6309 y sus diferencias con el 6809.

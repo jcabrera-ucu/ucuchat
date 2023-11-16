@@ -1,0 +1,12 @@
+En computación, una lista hash o lista de hash es una estructura de datos formada por la lista de los valores hash de una lista de cadenas de bloques de datos.
+Es una extensión del concepto de hash de un dato.
+Normalmente se usan funciones criptográficas de hash para protegerse contra cambios intencionados.
+Otras veces no hay que protegerse frente a cambios intencionados y se usan sumas de verificación.
+Son mejores que un simple valor hash de la cadena entera porque permiten detectar el bloque que ha sido dañado y así centrarse en recuperar la información válida de ese bloque.
+Se suelen usar para las siguiente aplicaciones:
+Frecuentemente se añade un valor hash adicional a la lista que es el valor hash de la lista de hash completa.
+A este valor se le llama hash raíz.
+Este valor permite comprobar de una sola vez la integridad de la lista completa.
+De esta forma por ejemplo podemos descargar el contenido de una fuente no confiable (por ejemplo un nodo de una red P2P) y luego verificar el hash raíz del contenido obtenido de una fuente confiable.
+Realmente la estructura formada con el hash raíz es un árbol hash de dos niveles.
+Los árboles de hash son estructuras de datos más flexibles que las listas hash que pueden proporcionar estructuras más adaptadas a las necesidades de un problema concreto.

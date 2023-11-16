@@ -1,0 +1,6 @@
+Un planteamiento del problema es una descripción concisa de un problema que debe abordarse o una condición que debe mejorarse.
+Identifica la brecha entre el estado actual (problema) y el estado deseado (objetivo) de un proceso o producto.
+Centrándose en los hechos, la declaración del problema debe diseñarse abordando las preguntas quién, qué, dónde, cuándo por qué.
+Kush, Max (June 2015).
+"The Statement Problem".
+Quality Progress.

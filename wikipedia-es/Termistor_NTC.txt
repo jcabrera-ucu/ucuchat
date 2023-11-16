@@ -1,0 +1,27 @@
+Un termistor NTC es un sensor de temperatura por resistencia, que varía su valor con la temperatura con un coeficiente negativo.
+La forma de la curva característica de esta resistencia puede verse en la figura 2 curva D. Se ve que el valor de esta varía de forma negativa con un aumento de temperatura.
+Los puntos rojos corresponden a los valores reales (medidos empíricamente) de un termistor NTC de valor nominal 150Ω a 25 °C.
+Se puede calcular la ecuación que rige la resistencia del termistor NTC siendo la siguiente:
+siendo:
+RT = el valor de la resistencia a la temperatura T (en kelvin. 0 °C = 273,15 K).
+A = una constante que depende del termistor NTC, y representa el valor de la resistencia del termistor NTC cuando la temperatura es supuestamente infinita.
+B = es la resistencia característica del material de que está hecho el termistor NTC.
+Su valor esta comprendido entre 2000 K y 4000 K.
+Los fabricantes no suelen dar los valores de A y B por lo que hay que calcularlos según los valores de la resistencia RT a diferentes temperaturas.
+Para ello se realiza la siguiente consideración:
+de donde igualando A para dos valores de R_0 y T_0 se obtiene:
+de donde despejando B:
+siendo R1 y R2 las resistencias del termistor NTC a las temperaturas T1 y T2 respectivamente.
+Una vez conocido B se puede calcular el valor de A sin más que sustituirlo en la ecuación (2) para una temperatura y resistencia de referencia (R 0 y T 0 a 25 °C, o 0 °C por ejemplo).
+La curva de la resistencia del termistor NTC no es lineal, pero se pueden utilizar unos circuitos sencillos que ayudan a linealizar su característica de forma apreciable.
+En la figura 1 se pueden ver algunos de estos circuitos, obteniéndose las curvas respectivas de la figura 2.
+Como puede verse en la misma se ha mejorado la variación de la respuesta a la temperatura.
+En el caso B se ha obtenido una variación positiva con la temperatura, lo que facilita su uso en algunos circuitos.
+Los márgenes de temperatura entre los que pueden trabajar estos termistores están normalmente entre -55 °C y 125 °C, con una tolerancia del valor nominal comprendida entre ±10% y ±5%.
+El valor nominal de la resistencia puede estar entre 15Ω y 470KΩ, y se denomina R25 siendo el valor de la resistencia a la temperatura de 25 °C.
+Las ecuaciones que rigen los circuitos de linealización de la figura 1 son las siguientes:
+Este circuito no es de linealización propiamente dicho, pero permite usar el termistor NTC para detección de una temperatura concreta de forma bastante precisa y ajustada para su posterior uso.
+Si se quiere utilizar un procesador que linealice el valor de V 0 (T) se puede utilizar la siguiente ecuación:
+Siendo IC un valor constante conocido, y V0 los valores de salida obtenidos para todo el rango de temperatura.
+Linealización de termistores NTC
+Termistores NTC con amplificadores operacionales Estudia la linealización con circuitos logarítmicos.

@@ -1,0 +1,64 @@
+El registro de dominios es el proceso por el cual personas, empresas, organizaciones sin ánimo de lucro o educativas, organismos internacionales o gobiernos, solicitan el registro de un nombre de dominio a cambio de pagar una cierta cantidad de dinero y cumplir determinado procedimiento administrativo ante un registrador.
+Si es concedido, el solicitante contará con el control de dicho nombre y será responsable de su buen uso en la red Internet.
+Estos registros tienen un período de validez que puede ser renovado indefinidamente por el registrador.
+Si no es renovado, dicho registro queda liberado para que cualquier registrador inicie el proceso de registro.
+Los registros realizados por gobiernos u organismos internacionales, están limitados a este tipo de instituciones y en algunos países también las organizaciones sin ánimo de lucro y educativas.
+El procedimiento es el siguiente:
+Cada registrador tiene unas normas específicas sobre lo que considera correcto y lo que en relación con cuestiones como la codificación de caracteres permitida.
+Véase el artículo anterior para más detalles.
+Un requisito imprescindible para registrar un dominio es dar datos veraces sobre el registrante: nombre, dirección (física y electrónica), y teléfono de contacto.
+Estos datos son importantes para contactar con el responsable de un dominio si hay algún problema, por ejemplo spam proveniente de esa dirección.
+Toda esta información se puede consultar con el programa whois (que está en la mayoría de sistemas operativos).
+Algunos registradores ofrecen «trucos» legales para quienes no quieren mostrar sus datos personales.
+Como ICANN prohíbe que sea el propio registrador quien ponga sus datos ahí, algunos contratan a una empresa proxy (intermediaria) usada solo para hacer de representante.
+Esto hace que sea muy complicado contactar con el propietario en caso de problemas técnicos (Aunque en realidad la mayoría de los usuarios comunes nunca suelen hacer whois, sino más bien usuarios expertos, por lo que finalmente se usa para evitar problemas legales, ya que es mucho más complejo obtener la información real si está oculta en el propio whois).
+El ICANN solo asume una responsabilidad ética con los arrendatarios de los dominios registrados.
+Existen miles de registradores que registran dominios en internet pero muy pocos de ellos están realmente autorizados, dichos registradores no acreditados realizan meras funciones de intermediarios, muchos de ellos pese a no tener una autorización directa actúan de manera legal y eficaz, no obstante se ha de tener presente de cara a posibles reclamaciones que no todos ellos actúan dentro de esta moralidad empresarial al no estar sujetos a ningún contrato por escrito con el ICANN.
+Los datos necesarios para registrar un dominio son:
+Los dominios se registran de acuerdo con su disponibilidad sin comprobar si se tiene relación con el nombre que está arrendando o puede originarse un conflicto legal de derechos de marca.
+Esto ha hecho que muchas empresas se dediquen a arrendar nombres con potencial valor para luego subarrendarlos.
+Algunos ejemplos de «negocios» que se hacen con dominios son:
+Una nueva empresa que está en período de crecimiento probablemente no tenga dominio propio pero es posible que en el futuro lo quiera tener.
+Hay gente que se adelanta y arrienda ese dominio cuando la empresa aún es poco famosa para intentar subastarlo luego más caro.
+Lo mismo puede pasar con una empresa ya famosa: como hay tantos tipos de dominios de primer nivel (véase Anexo:Dominios de Internet), es poco probable que tenga su nombre arrendado en todos.
+Alguien puede arrendar uno de los que no tengan y hacer uso de ellos o intentar subarrendarlos.
+Esto puede pasar también con nombres de personas famosas y por eso hay gente que registra su nombre «sólo por si acaso» lo necesitan en el futuro, participando así en el negocio de los dominios.
+ICANN ya tiene un proceso de resolución de disputas para estos casos, llamado UDRP.
+Ésta es una política propia hecha para evitar tener que recurrir al procedimiento legal, mucho más lento y costoso.
+Mucha gente se equivoca al teclear un dominio en la barra de direcciones de su navegador, y reciben un error de No se puede encontrar el servidor.
+Hay empresas que registran estos dominios para llevar a su página a quienes se equivoquen al escribir, que pueden ser muchos si la página original es famosa.
+Los contenidos que puede tener la nueva página pueden ser «simplemente» publicidad pero también productos de la competencia.
+Muchas otras veces solo se registra el dominio para impedir que otros lo hagan antes, pero no para poner una página web, de forma que sale en whois pero no tienen servidor web.
+Un ejemplo: a fecha de enero de 2006, las siguientes variaciones de microsoft.com están registradas (fuente: whois):
+Y esto es solo en el .com.
+De estos dominios, unos pocos los tienen registrados los propietarios del original:
+Al tener que registrar una gran cantidad de dominios se aumenta el coste anual de estar presente en Internet, algo que solo las empresas más grandes se pueden permitir.
+Es famoso el buscador Google (google.com) porque su nombre es escrito de muchas maneras distintas que en inglés se pronuncian igual.
+En consecuencia suele ser muy frecuente que se escriba mal.
+Google no es propietario de todos los nombres parecidos en cada dominio (.com, .ru, .de,...), pero en alguna ocasión ha sido el registrador de dominios quien decidió que cierto nombre era demasiado parecido a google.
+Algunos famosos con nombres difíciles, como Arnold Schwarzenegger, tienen registrados varios dominios para que los visitantes puedan entrar a su página aun cuando escriban mal su apellido.
+Ha habido muchos casos famosos de ciberokupación (que es como le llaman a esto en los medios de comunicación); por ejemplo, John Zuccarini registró miles de dominios con errores tipográficos que redirigían al público (principalmente infantil) a sitios pornográficos, que le daban beneficios.
+Cuando una persona registra un dominio, lo hace por un período determinado (medido en años).
+Cuando este período está a punto de acabar, es tarea del propietario preocuparse de renovar el dominio, o activar alguna opción de auto-renovación, si está disponible en su registrador.
+Ha habido casos en los que empresas importantes se han olvidado de renovar el dominio, y entonces otra persona ha aprovechado para registrar el mismo dominio recién liberado.
+Cuanto más importante es el dominio, más personas habrá intentando «secuestrarlo», y eso ha motivado que se creen mecanismos automáticos como listas de espera para registrar el dominio en cuanto esté libre (pre-registro).
+Hay empresas de registro que se dedican solo a esto.
+Este es un mecanismo nada fiable, ya que varios registradores pueden tener su propia lista (no hay ninguna oficial), y solo uno de los solicitantes conseguirá el dominio.
+Se considera una estafa.
+También se hacen negocios curiosos que tienen como eje central un nombre de dominio.
+Por ejemplo, alguien se inventa un nombre atractivo y «comercial» (corto, que suene bien, fácil de recordar, etc.), registra ese dominio, y empieza a inventar un contexto e historia ficticias sobre esta nueva empresa: características, prioridades, objetivos, diseño, etc. Después, pone el dominio a subasta (por ejemplo, en eBay).
+A veces se crean rumores externos sobre el posible crecimiento de esta nueva empresa para subir su valor (véase Especulación (economía)).
+Pero también hay algún proyecto de creadores rápidos de empresas sin ánimo de estafar.
+Hay que destacar que todos los fraudes o negocios que rozan la ilegalidad siempre son rentables para unas empresas: los registradores.
+En todos los casos anteriores salen ganando.
+Por ejemplo:
+Además, cuando un nuevo dominio pasa a estar disponible (por ejemplo, para un nuevo país), todas las empresas que quieran estar presentes en esa nueva terminación competirán para registrar los dominios «valiosos» antes que la competencia, dando así más registros de dominios.
+La ICANN intenta evitar esto restringiendo el acceso a algunos dominios; por ejemplo, el .cat (aprobado en septiembre de 2005) se reserva exclusivamente para sitios que hablen de la cultura catalana.
+Las estafas en el tema del registro de dominios son muy comunes.
+Al igual que los dominios de primer nivel .com .net .org .info son los que tienen menor «control» sobre su contenido, originariamente la idea era .com para sitios comerciales, .net para sitios que ofrecieran servicios de valor agregado o relacionados con la internet o informática, .org para organizaciones sin ánimo de lucro y .info para aquellos sitios web que su principal función fuera informar.
+Esta administración ya se perdió ya que no hay control sobre el contenido.
+En el registro de dominios sobre sexo, pishing, piratería, drogas y material ilícito esta responsabilidad no recae en los registradores sino en la que le dé cada uno.
+La ICANN es quien toma estas medidas de seguridad, si previamente se demuestra que se está cometiendo un abuso.
+También está creando nuevos TLD para controlar el contenido de las páginas con contenido de forma más restrictiva; por ejemplo, el nuevo dominio aún en espera de aprobación es el .xxx para contenido para adultos; todavía en proceso, con los .xxx se pretende controlar mejor este contenido que genera grandes cantidades de dinero, por ejemplo, en el 2005 por veintiocho mil millones de dólares.
+<!-- === Dominios registrados por país/territorio ===
+-->

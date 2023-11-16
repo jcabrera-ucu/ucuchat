@@ -1,0 +1,39 @@
+Se llama sensación térmica a la reacción del cuerpo humano ante el conjunto de condiciones que determinan el ambiente habitado desde el punto de vista térmico.
+Es costumbre decir que hace calor o frío, en función de lo que dice un termómetro corriente, pero no solo la temperatura que da el termómetro determina la sensación que siente el cuerpo humano, sino que, a una misma temperatura del termómetro, hay otros parámetros que influyen, pudiendo mejorar o empeorar la sensación.
+Se han hecho estudios para reflejar esas sensaciones en forma de índices que tienen en cuenta dos o más de los parámetros que inciden en la sensación.
+Estos parámetros pueden ser, bien del ambiente en el que está el cuerpo humano considerado, y son:
+Bien de las condiciones que afectan a la persona:
+El cuerpo humano utiliza energía que obtiene de los alimentos.
+La emplea en el crecimiento, en el movimiento y en el propio funcionamiento.
+Como residuo, produce calor, que en primer lugar emplea en mantener el cuerpo a temperatura adecuada para el funcionamiento y luego disipa en el ambiente.
+La cantidad de calor producida se evalúa por el Índice metabólico.
+Si se disipa más calor del que se produce, se tiene sensación de frío; si se disipa menos, se tendrá sensación de calor.
+La sensación de comodidad se obtiene cuando el calor disipado es aproximadamente igual al calor producido.
+Todo mecanismo que altere las pérdidas de calor del cuerpo, influirá en la sensación térmica.
+El cuerpo desnudo tiene posibilidades de regular la emisión del calor para temperaturas ambientales comprendidas (aproximadamente) entre 15 y 30 °C.
+Por encima y por debajo tiene que hacer algo.
+undefined
+En este sentido, la sensación térmica viene condicionada por las condiciones del ambiente que facilitan o impiden la adecuada disipación del calor sobrante.
+El cuerpo humano intercambia calor con el ambiente de cuatro modos:
+La suma de las cantidades de calor intercambiadas por cada uno de estos fenómenos es igual al calor perdido por el cuerpo humano y, para la comodidad, ha de ser igual al producido.
+Hay que tener en cuenta que en los tres primeros procesos, el intercambio de calor depende de la diferencia de temperaturas entre la piel y el ambiente, el salto térmico.
+A mayor salto térmico, mayor intercambio.
+Para temperaturas del ambiente inferiores a las del cuerpo, el balance es negativo (el cuerpo pierde calor) que es lo que necesita hacer, pero también el balance puede ser positivo, es decir, si la temperatura ambiental es mayor que la del cuerpo humano, el cuerpo ganará calor, cuando tiene necesidad de perderlo, siempre.
+El cuarto sistema, la evapotraspiración, siempre supone una pérdida de calor para el cuerpo, de modo que si la temperatura ambiente supera la del cuerpo (temperatura superior a 36,5 °C ) el único medio de disipar calor al ambiente es mediante la sudoración.
+Hay una serie de correcciones a este esquema.
+En primer lugar, los procesos se dan principalmente en las partes de la piel desnudas o muy poco protegidas; por otro lado, la temperatura de la piel no es igual a la del interior cuerpo, sino, normalmente, inferior.
+Además, el cuerpo varía esta temperatura superficial en función de las necesidades; así, en tiempo frío, reduce el riego sanguíneo superficial, bajando la temperatura de la piel, para hacer más pequeño el salto térmico y disminuir las pérdidas.
+La reducción del riego sanguíneo puede ser importante, hasta el punto de que la piel superficial puede necrosarse (sabañones) por falta de riego y las extremidades pueden llegar a congelarse en casos extremos.
+Por el contrario, en caso de calores importantes el riego superficial aumenta para aumentar el salto y la disipación de calor, aunque nunca puede subir por encima de la temperatura corporal; en cualquier caso, cuando la temperatura ambiente es superior a la del cuerpo, al aumentar la temperatura superficial se reduce el salto térmico, y disminuye la absorción de calor.
+Según las temperaturas del ambiente, se puede actuar:
+En la sensación de calor o de frío hay una serie de parámetros que influyen y entre ellos pueden contarse:
+Para definir la sensación térmica, teniendo en cuenta los parámetros anteriores, se utiliza una serie de índices, la mayoría de los cuales toma el nombre de temperatura, y se tiene como unidad el grado Celsius, para asimilarla a un parámetro que todos conocen, un valor que normalmente se asocia con la sensación térmica.
+Para explicarlo: el índice reflejaría que la sensación de un sujeto en el ambiente estudiado sería la misma que tendría en un espacio cerrado, en el que el aire y los paramentos (muros, suelo y techo) estuvieran a una temperatura igual al índice, con el aire en reposo y la humedad relativa igual al 100%.
+De esta definición de índice, se deduce que en un ambiente como el descrito, el intercambio por convección, conducción y radiación se hace a la temperatura del índice, mientras que el aire en reposo y la humedad relativa del 100% impiden completamente el intercambio por evapotranspiración o sudoración.
+Cuando estos índices tienen un valor entre 18 y 27, se puede hablar de comodidad térmica para una persona en reposo y con una indumentaria normal (índice de indumento entre 0,7...1 clo).
+Ni que decir tiene que se considera que estos valores servirían para un porcentaje importante de los posibles usuarios, pero que siempre hay algunos cuyos requisitos para el ambiente están fuera de esta gama.
+Estos índices se emplean normalmente para espacios cerrados, aunque también se pueden usar para describir un ambiente al aire libre.
+Por la definición dada más arriba, los índices se expresan en celsius, aunque en sus fórmulas figuren unidades distintas.
+Es un modo de expresión que todo el mundo puede entender, comparando con la temperatura seca.
+Hay un índice que no se expresa en grados, la opinión media estimada u opinión media predecible, que tiene en cuenta que no todas las personas reaccionan del mismo modo ante unas determinadas características del ambiente térmico; siempre ha habido personas más frioleras y otras menos frioleras, de modo que para tener en cuenta esta cuestión, se define:
+Hay otros índices parciales para casos extremos de calor o de frío, generalmente al aire libre, especialmente en el segundo caso:

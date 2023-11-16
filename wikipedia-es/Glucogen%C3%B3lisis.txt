@@ -1,0 +1,23 @@
+La glucogenólisis es un proceso catabólico y hace referencia a la degradación de glucógeno a glucosa o glucosa-6-fosfato.
+Se da cuando el organismo requiere un aumento de glucosa y, a través de este proceso, puede liberarse a la sangre y mantener su nivel (glucemia).
+Tiene lugar en casi todos los tejidos, aunque de manera especial en el músculo y en el hígado debido a la mayor importancia del glucógeno como combustible de reserva en estos tejidos.
+Se lleva a cabo en el citosol y consiste en la eliminación de un monómero de glucosa de una molécula de glucógeno mediante desfosforilación para producir glucosa 1 fosfato, que después se convertirá en glucosa 6-fosfato, intermediario de la glucólisis.
+Es antagónica la glucogenogénesis.
+Estimulada por el glucagón en el hígado, la epinefrina (adrenalina) en el músculo e inhibida por la insulina.
+No es simplemente el proceso inverso de la glucogenogénesis.
+Como en esta última vía existen etapas irreversibles, la degradación del glucógeno debe realizarse utilizando, en esos pasos, enzimas distintas a las de la vía anabólica.
+Las etapas de glucogenólisis son las siguientes:
+1. Fosforólisis de glucógeno.
+La acción de fosforilasa cataliza la ruptura de uniones glucosídicas α(1→4) por inserción de fosfato en el carbono 1.
+El ortofosfato utilizado en esta reacción proviene del medio(Fósforo inorgánico); no es necesario gasto de ATP.
+La fosforilasa actúa a partir del extremo no reductor de las ramificaciones y libera glucosa-1-fosfato.
+La acción enzimática se detiene a cuatro restos antes de la próxima unión α(1→6), pues el enlace glucosídico α-1,6 detiene su acción.
+Aquí interviene otra enzima, oligo-α(1,4)→α(1,4)-glucantransferasa.
+2. Hidrólisis de uniones glucosídicas α(1→6).
+La ruptura de este enlace se realiza por hidrólisis, catalizada por α-1,6-glucosidasa o enzima desramificante, que deja glucosa en libertad por cada nueve glucosas-1-P.
+3. Formación de glucosa-6-P.
+La glucosa-1-P es convertida en glucosa-6-P por la fosfoglucomutasa.
+Es la misma reacción de la glucogenogénesis, en sentido inverso.
+4. Formación de glucosa libre.
+La última etapa es la hidrólisis de glucosa-6-fosfato a glucosa y fosfato inorgánico, catalizada por glucosa-6-fosfatasa.
+Para llevar a cabo la glucogenólisis son necesarias tres enzimas citosólicas:

@@ -1,0 +1,22 @@
+En física de la materia condensada, un hilo cuántico es un alambre conductor eléctrico en el que los efectos cuánticos afectan las propiedades del transporte.
+Debido al confinamiento de electrones de conducción en la dirección transversal del alambre, su energía transversal es cuantizada en una serie de valores discretos E_0 (energía de "estado fundamental", con valor bajo), E_1,... (ver partícula en una caja, oscilador armónico cuántico).
+Una consecuencia de esta cuantización es que la fórmula clásica para calcular la resistencia eléctrica de un alambre:
+(donde R es la resistencia, \rho es la resistividad, l es la longitud, y A es el área de sección transversal del alambre), no es válida para los hilos cuánticos.
+En lugar de ello, para calcular la resistencia de un alambre tiene que ser realizado un cálculo exacto de las energías transversales de los electrones confinados.
+Siguiendo desde la cuantización de la energía del electrón, la resistencia también se encuentra que debe ser cuantizada.
+Para un material dado, la importancia de la cuantización es inversamente proporcional al diámetro del nanohilo.
+De un material a otro, es dependiente de las propiedades electrónicas, especialmente en la masa efectiva de los electrones.
+En palabras simples esto significa que, dentro de un material dado, dependerá de cómo interactúan los electrones de conducción con los átomos.
+En la práctica, los semiconductores muestran claramente la cuantización de la conductancia en grandes dimensiones transversales de alambre (100 nm), porque debido al confinamiento, los modos electrónicos están espacialmente extendidos.
+Como resultado, sus longitudes de onda de fermi son grandes y por lo tanto tienen bajas separaciones de energía.
+Esto significa que solo pueden ser resueltas a temperatura criogénica (pocos kelvins) donde la energía de excitación térmica es más baja que la separación de energía inter-modo.
+Para los metales, la cuantización correspondiente a los estados más bajos de energía solo se observa en alambres atómicos.
+Por lo tanto, su longitud de onda correspondiente es extremadamente pequeña, teniendo una separación de energía muy grande que hace una resistencia de cuantización perfectamente observable a temperatura ambiente.
+Es posible hacer hilos cuánticos de nanotubos de carbono metálicos, por lo menos en cantidades limitadas.
+Las ventajas de hacer los alambres de nanotubos de carbono incluyen su alta conductividad eléctrica (debido a una alta movilidad), peso ligero, diámetro pequeño, baja reactividad química, y alta fuerza de tensión.
+La desventaja principal (al 2005) es el costo.
+Se ha afirmado que es posible crear hilos cuánticos macroscópicos.
+Con una cuerda de nanotubos de carbono, no es necesario que ninguna fibra individual recorra la longitud completa de la cuerda, puesto que el efecto túnel cuántico permitirá que los electrones salten de un filamento a otro.
+Esto hace a los alambres cuánticos interesantes para las aplicaciones comerciales.
+En abril de 2005, la NASA invirtió $11 millones con la Universidad de Rice, por un lapso de cuatro años, para desarrollar hilo cuántico con una conductividad 10 veces mejor que el cobre con un sexto del peso.
+Sería hecho con nanotubos de carbono y ayudaría a reducir el peso de la siguiente generación de transbordadores espaciales, pero también puede tener un rango amplio de aplicaciones.

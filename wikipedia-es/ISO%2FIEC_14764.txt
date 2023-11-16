@@ -1,0 +1,74 @@
+ISO/IEC 14764:2006 es un estándar que amplía la "gestión del proceso de mantenimiento descrito en la norma ISO/IEC 12207".
+Este estándar establece definiciones para los diversos tipos de mantenimiento software, dentro de este proceso proporciona orientación que se aplica a la planificación, ejecución y control, revisión y evaluación, y cierre del proceso de este mantenimiento.
+En su alcance, incluimos múltiples productos de software con los mismos recursos de mantenimiento.
+Este estándar proporciona el marco de desarrollo dentro del cual los planes de mantenimiento de software genéricos o específicos van a poder ejecutarse, evaluarse y adaptarse al alcance o magnitud del mantenimiento en determinados proyectos software.
+Gracias a este marco, se va a poder usar herramientas, técnicas y métodos idóneos para un correcto mantenimiento software.
+ISO/IEC 12207 está escrito principalmente para encargados del mantenimiento software, y por los responsables del desarrollo y el aseguramiento de la calidad de dicho software, aunque también puede ser utilizado por los usuarios de los sistemas que contiene software que proporciona ayuda al plan de mantenimiento.
+El estado de este estándar es publicado el 23 de agosto de 2006 y el 14 de febrero de 2020 se encuentra en proceso de revisión.
+Según su origen o creación lo catalogamos como un estándar de JURE.
+Este tipo de estándares son producidos por una institución del gobierno o, como ocurre en este caso, por una organización internacional reconocida como es ISO (International Organization for Standarization).
+Para la creación del estándar, el grupo encargado de la estandarización (en este caso la organización ISO) debe seguir un proceso abierto que permite a todos participar para llegar al consenso.
+Este estándar se desarrolla con respecto a las normas internacionales que se redactan de acuerdo con las reglas establecidas en las Directivas ISO/IEC.
+La principal tarea del comité técnico conjunto es preparar normas internacionales.
+Los proyectos de normas internacionales adoptadas por el comité son enviados a los organismos nacionales para su votación.
+La posterior publicación como norma internacional, como es este caso, requiere la aprobación de al menos un 75% de los organismos nacionales con derecho a voto.
+Podemos considerar este estándar como abierto debido a que, según su definición, un estándar abierto es aquel cuya base es la cooperación y el consenso entre un grupo de personas, permitiendo que las personas compartan los datos libremente.
+Para la aprobación de su última versión (2006) fue necesario una aprobación de un 75% de los organismos nacionales.
+Por otro lado, un estándar abierto no debe limitar su uso a una única empresa, cosa la cual no aplica este estándar, ya que está disponible, o bien en varias implementaciones completas por compañías en competencia, o bien como una implementación completa para todas las partes, estando de esta forma libre de cláusulas legales o técnicas que limiten su uso en cualquier modelo de negocio.
+Dado que su principal objetivo se enfoca en el mantenimiento y gestión del software, la materia por tanto la cual estandariza este estándar se trata de cualquier tipo de proyecto que contenga software.
+Se trata de una norma internacional, protegido por copyright por la ISO y la IEEE.
+A excepción de lo permitido por las leyes aplicables de país del usuario, ni esta norma ISO/IEEE ni cualquier extracto de la misma puede ser reproducida, almacenada en un sistema de recuperación o transmitida en cualquier forma o a través de cualquier medio: electrónico, fotocopia, grabación o cualquier otra manera, sin el permiso previo y por escrito de ser asegurado.
+Las solicitudes de autorización para reproducir deberán dirigirse a las normas ISO o la IEEE.
+Dentro del catálogo de ISO, este estándar lo encontramos en:
+La primera edición de la norma ISO / IEC 14764 fue preparada por ISO IEC JTC / 1 / SC 7.
+La edición actual es el resultado de la fusión de la edición original con IEEE Std 1219-1998.
+ISO / IEC JTC 1 / SC 7 y la IEEE Computer Society colaboraron en este proyecto para fusionar las dos normas.
+Esta segunda edición anula y sustituye a la primera edición (1999).
+ISO/IEC 14764:1999
+6 de enero de 1995 se registró el proyecto en el TC/SC
+11 de noviembre de 1999 se publicó la norma internacional
+9 de junio de 2003 pasó a revisión
+23 de agosto de 2006 se retiró la norma internacional y fue sustituida por la versión de 2006
+ISO/IEC 14764:2006
+5 de enero de 2004 se aprobó un nuevo proyecto derivado del proceso de revisión del estándar ISO/IEC 14764:1999
+23 de agosto de 2006 se publicó la norma internacional
+14 de febrero de 2020 pasó a revisión
+Los conceptos que se definen en el estándar y ayudan a su comprensión son los siguientes
+El proceso de mantenimiento propuesto en esta norma internacional comprende las actividades y tareas necesarias para modificar un producto software que ya existe.
+La persona encargada del mantenimiento debe asegurarse haber definido el proceso de mantenimiento de software antes de su desarrollo.
+ISO/IEC 14764:2006 proporciona los pasos a seguir con el objetivo de llevar a cabo las tareas de mantenimiento.
+La persona encargada del mantenimiento deberá desarrollar, documentar y llevar a cabo los planes y procedimientos para la realización de las actividades y tareas del proceso de mantenimiento.
+El plan de mantenimiento debe documentar la estrategia que se utiliza para mantener el sistema, mientras que los procesos de mantenimiento deben proporcionar un enfoque más detallado sobre como llevar a cabo el mantenimiento en la realidad.
+Las entradas o inputs para la actividad de implementación deben incluir:
+Con el fin de desarrollar planes el mantenimiento, el responsable debe realizar las siguientes tareas:
+Una vez realizadas estas tareas, las principales salidas o productos esperados son:
+Esta y las sucesivas actividades se activan después de la transición software y se llaman iterativamente cuando la necesidad de modificación surge.
+El responsable de mantenimiento deberá analizar el informe de problemas o solicitud de modificación por su impacto en la organización, el sistema existente y los sistemas de interfaz para el tipo, el alcance y la criticidad.
+Las entradas esta sección deben ser:
+Con el fin de asegurar que la solicitud de modificación es factible, el responsable debe realizar las siguientes tareas:
+Después de realizar todas estas tareas, las salidas esperadas deberán ser:
+Las salidas o outputs de esta actividad deben incluir:
+Durante la actividad de modificación, el responsable desarrolla y pone a prueba la modificación del producto software.
+El responsable deberá establecer una conducta de análisis y determinar qué documentación, unidades de software, y versiones de los mismos necesitarán ser modificados.
+Todo este proceso deberá ser documentado.
+La ejecución de este proceso de mantenimiento incluye las siguientes tareas:
+En esta parte del proceso se asegura que se ha seguido la metodología adecuada para la modificación del sistema y que efectivamente dichas modificaciones han sido satisfactorias.
+En el ciclo de vida de cualquier software puede ser necesario trasladar el entorno actual a uno nuevo.
+Para poder realizar este traslado de una forma apropiada, el equipo de mantenimiento debe determinar las acciones competentes para el mismo y luego desarrollar y documentar cada uno de los pasos a seguir para llevar la migración a buen puerto.
+Cuando el software ha alcanzado el final de su ciclo de vida debe ser retirado del mercado.
+Con el objetivo de ejecutar una buena retirada, un análisis (normalmente basado en el coste/impacto económico) debe realizarse, incluyendo en el mismo el plan de retirada.
+Las tarea principal consiste en el desarrollo de un plan de retirada que notifique a los usuarios, ofreciendo alternativas, avisando conforme se acerca el momento del retiro final y notificando cuando finalmente la retirada se haya llevado a cabo.
+En dicho plan debe incorporarse también la exportación de los datos recogidos por el software a lo largo de su ciclo de vida.
+Entre otras, las tareas que deben ser desarrolladas por el equipo de mantenimiento son las que siguen:
+El proceso de ciclo de vida del mantenimiento del Software, comienza con la implementación de procesos dónde se realiza una previa planificación, posteriormente se modifica el código y se documenta si nos surge un problema o una necesidad de mejora, para posteriormente retirar el producto Software.
+Siendo su objetivo principal el mantenimiento del producto software ya existente, preservando ante todo su integridad.
+Este proceso de mantenimiento es necesario debido a que dentro del entorno operativo, podemos detectar errores, y surge la necesidad de corregirlos.
+Tenemos que tener en cuenta que si el producto Software se desarrolla utilizando Computer-Aided-Software-Engineering (CASE), todavía se necesita mantenimiento.
+También en el caso si no se desarrolla código de aplicación, es decir, el producto software se compone exclusivamente de productos off-the-shelf por el adquiriente o el proveedor, suele implicar la modificación de las interfaces, tanto de datos y de funcionamiento con el producto.
+No obstante, se deben considerar los requisitos implícitos y las limitaciones impuestas al desarrollador original, si las circunstancias han cambiado, algunos de los requisitos originales pueden no ser aplicables.
+En el caso de que se detecten problemas durante la ejecución del desarrollo, operaciones y procesos de mantenimiento de la norma ISO/IEC 12207, estos se registran y son supervisados por el proceso de resolución de problemas en la norma ISO/IEC 12207.
+Estas solicitudes de modificación son conocidas como MRS o informes de problemas RP.
+Dentro de los Sistemas de Ingeniería ISO/IEC 15288, gracias al mantenimiento se asegura que el producto software continúa para satisfacer las necesidades de los usuarios.
+El mantenimiento de software va a ser aplicable usando cualquier modelo de ciclo de vida de desarrollo (incrementales, cascada, evolutivo).
+Para controlar el mantenimiento en sistemas que están disponibles las 24h del día, y los 7 días de la semana, se debe planear con cuidado a fin de no degradar el acuerdo sobre el nivel de servicio.
+No se han encontrado Organismos que Certifiquen en España el cumplimiento de esta Norma Internacional.

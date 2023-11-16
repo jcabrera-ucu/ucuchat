@@ -1,0 +1,24 @@
+FCEUX es un emulador de Nintendo Entertainment System y Family Computer Disk System de código abierto.
+Es una fusión de varias bifurcaciones de FCE Ultra.
+La versión Win32 2.3.0 de FCEUX no admite la funcionalidad de reproducción en red TCP/IP.
+La versión más reciente de win32 que admite esta función fue FCE Ultra 0.98.9.
+A la versión 2.3.0 el soporte TCP/IP está funcionando en el puerto SDL de FCEUX.
+En la versión 2.1.3 se agregó una GUI GTK2 integrada al puerto SDL de FCEUX.
+Esta GUI GTK desaprobó la interfaz de Python anterior, gfceux.
+Ha sido portado a DOS, Linux (con SVGAlib o X), Mac OS X (su puerto SDL también debería funcionar en otras plataformas Unix-like como FreeBSD, Solaris e IRIX), Windows, GP2X, PlayStation Portable, Nintendo GameCube, Wii, PlayStation 2 y Pepper Pad.
+FCE Ultra fue una bifurcación de FCE (Family Computer Emulator).
+Su última versión completa fue la versión 0.98.12 de agosto de 2004, mientras que una versión preliminar 0.98.13-pre se lanzó en septiembre de 2004 solo como código fuente.
+Después de eso, el desarrollo pareció detenerse y la página de inicio y los foros del emulador fueron eliminados.
+Ya que estaba suspendido el desarrollo oficial, se crearon muchas bifurcaciones de FCE Ultra.
+Los más notables son FCEU-MM, que admite muchos mapeadores nuevos e inusuales, FCEU Rerecording, que incorpora muchas funciones útiles para speedruns asistidas por herramientas, y FCEUXD SP, que agrega una serie de utilidades de depuración.
+En marzo de 2006 el proyecto fue reactivado y poco después se inició un proyecto para combinar todas las bifurcaciones en una nueva aplicación llamada FCEUX, que atrajo la colaboración de muchos autores de las distintas bifurcaciones de FCE Ultra.
+FCEUX se lanzó al público por primera vez el 2 de agosto de 2008.
+Desde entonces, esta bifurcación del emulador ha continuado su desarrollo constante, lo que ha permitido que las otras bifurcaciones queden obsoletas, y ahora tiene características que el FCE Ultra original no tiene, como la compatibilidad con grabación de películas nativa y la capacidad de ampliar, mejorar o alterar el juego con scripts de Lua.
+Por lo tanto, se ha vuelto mucho más avanzado que sus predecesores.
+FCE fue escrito por Bero.
+FCE Ultra fue escrito por Xodnizel.
+Fue reactivado por Anthony Giorgio y Mark Doliner.
+El proyecto FCEUX fue iniciado por Zeromus y Sebastian Porst.
+Otros autores se unieron al grupo antes de su primer lanzamiento, incluidos mz, Andrés Delikat, nitsujrehtona, maximus, CaH4e3, qFox y Lukas Sabota (punkrockguy318).
+Otros colaboradores han incluido a Aaron O'Neal, Joe Nahmias, Paul Kuliniewicz, Quietust, Parasyte, bbitmaster, blip, nitsuja, Luke Gustafson, UncombedCoconut, Jay Lanagan, Acmlm, DWEdit, Soules, radsaq, qeed, Shinydoofy, ugetab y Ugly Joe.
+Brandon Widdler de Digital Trends considera que FCEUX es el emulador de referencia para NES debido a sus múltiples funciones avanzadas, que incluyen depuración, pirateo de ROM y grabación de video.

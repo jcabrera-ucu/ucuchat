@@ -1,0 +1,5 @@
+La fórmula de Hazen-Williams, también denominada ecuación de Hazen-Williams, se utiliza particularmente para determinar la velocidad del agua en tuberías circulares llenas, o conductos cerrados es decir, que trabajan a presión.
+Su formulación en función del radio hidráulico es:
+Qué es aproximadamente igual a:
+Esta ecuación se limita por usarse solamente para agua como fluido de estudio, mientras que encuentra ventaja por solo asociar su coeficiente a la rugosidad relativa de la tubería que lo conduce, o lo que es lo mismo al material de la misma y el tiempo que este lleva de uso.
+Los valores típicos de C usados en diseño pueden variar, ya que por la edad las tuberías tienden a ser más rugosas, por lo tanto su coeficiente disminuye:

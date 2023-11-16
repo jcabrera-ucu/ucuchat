@@ -1,0 +1,19 @@
+El Vuelo 8509 de Korean Air Cargo era un Boeing 747-2B5F, registrado como HL7451 con destino al Aeropuerto de Milán-Malpensa, que se estrelló debido a un error del piloto, el 22 de diciembre de 1999, poco después de despegar del Aeropuerto de Londres-Stansted.
+El avión se estrelló en Hatfield Forest, cerca del pueblo de Great Hallingbury, cerca de algunas casas.
+Las 4 personas de la tripulación murieron a bordo.
+El avión en cuestión era un Boeing 747-2B5F carguero de 19 años y 8 meses registrado como HL7451.
+Construido el 4 de abril de 1980, la aeronave había completado 15.451 vuelos con un tiempo total de vuelo de 83.011 horas antes de su vuelo fatal el 22 de diciembre de 1999.
+Tras la salida del avión desde su escala en el Aeropuerto Internacional de Taskent en el segmento de vuelo anterior, uno de las unidades del sistema de navegación inercial (INS) había fallado parcialmente, proporcionando datos erróneos al indicador de actitud (ADI u horizonte artificial) del capitán.
+El ADI del primer oficial y la copia de ADI de seguridad eran correctas, una alarma comparativa llamó la atención sobre la discrepancia, y la luz de la indicación errónea fue fácilmente identificada.
+La ADI selector de entrada se cambia a la otra INS y devolvió las indicaciones correctas.
+En el Aeropuerto de Londres-Stansted, los ingenieros que trataron de reparar el IDA no tenían el Manual de Aislamiento de Fallos Correcto ni el repuesto para la sustitución de la INS.
+Uno de ellos identificó y reparó una conexión de enchufe dañado en la IDA. Cuando la IDA respondió correctamente a su botón "Test", creían que se había corregido, aunque en este botón sólo se comprueba la IDA y no la INS.
+El selector de ADI de entrada se deja en la posición normal.
+La tripulación constaba del capitán Park Duk-kyu de 57 años (Hangul : 박득규, Hanja :朴得圭, RR: Bak Deuk-gyu, M-R: Pak Tŭkkyu), el primer oficial Yoon Ki-sik de 33 años (Hangul: 윤기식, Hanja: 尹基植, RR: Yun Gi-sik, M-R: Yun Kishik), el ingeniero de vuelo Park Hoon-kyu de 38 años (Hangul: 박훈규, Hanja: 朴薰圭, RR: Bak Hun-gyu, M-R: Pak Hun'gyu) y el mecánico de mantenimiento Kim Il-suk de 45 años (Hangul: 김일석, Hanja: 金日奭, RR: Gim Il-seok, M-R: Kim Ilsŏk).
+
+Estaba oscuro cuando el avión despegó de Aeropuerto de Londres-Stansted, con el capitán de vuelo.
+Cuando el capitán intentó girar el avión a la izquierda, el ADI no mostró el ángulo de bancada y la alarma comparativa sonó repetidamente.
+El primer oficial, cuyo instrumento habría mostrado el ángulo real del banco, no dijo nada, aunque el ingeniero de vuelo gritó "banco".
+El capitán no respondió y continuó bancando más y más a la izquierda.
+A las 18:38, 55 segundos después del despegue, el vuelo 8509 se estrelló en el suelo a una velocidad de entre 250 y 300 nudos, en un 40° inclinación hacia abajo y 90° hacia la izquierda.
+Un episodio de marzo de 2012 de Mayday: catástrofes aéreas (Temporada 11 Episodio 7) titulado "Bad Attitude" investigó este accidente.

@@ -1,0 +1,6 @@
+Los micrófonos de cerámica no
+existen pero dicen que son micros micrófono electrostático de similar funcionamiento a los de cristal, aunque el diafragma, en lugar de estar formado por dos placas de cristal de cuarzo, está formado por dos piezas cerámicas (titanato de bario).
+De igual modo, cuando la onda sonora incide sobre el diafragma, las placas se doblan y generan tensión eléctrica
+El diagrama polar del micrófono cerámico es omnidireccional.
+Aunque el micro de cerámica tiene menos sensibilidad que el micrófono de cristal, soporta mejor la humedad y las bajas temperaturas.
+En la actualidad son muy utilizados en intercomunicadores, aparatos auditivos para sordos y en otros muchos servicios donde se precisa un micrófono que ocupe poco volumen y en donde no se exija una reproducción de elevada calidad.

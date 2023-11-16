@@ -1,0 +1,7 @@
+OPDS son las siglas en inglés de sistema de distribución para publicaciones abiertas (Open Publication Distribution System), una especificación técnica para generar catálogos electrónicos para la redifusión web de publicaciones digitales.
+Se basa en el formato de redifusión Atom para la sindicación de contenido digital y permite la agregación, distribución, descubrimiento y adquisición de publicaciones electrónicas.
+El formato fue impulsado por Internet Archive, O'Reilly Media, Feedbooks, OLPC.
+Iniciando su desarrollo en 2010, teniendo como última versión la 1.2 publicada en 2018.
+Algunas aplicaciones que pueden entender OPDS son:
+Algunos servicios que ofrecen catálogo OPDS son:
+Un ejemplo de catálogo OPDS:

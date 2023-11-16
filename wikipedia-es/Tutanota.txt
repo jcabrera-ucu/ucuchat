@@ -1,0 +1,44 @@
+Tutanota es un software de correo electrónico de código abierto y libre que ofrece correo web encriptado, ha sido desarrollado y proporcionado por una empresa alemana, Tutanota GmbH, desde 2011.
+El nombre Tutanota deriva de las palabras latinas tuta nota que significan "mensaje seguro".
+Tutanota GmbH es uno de los pocos proveedores de correo electrónico cifrado.
+La empresa se fundó en 2011 en Hannover, Alemania, donde se encuentra su domicilio social.
+Los fundadores Arne Möhle y Matthias Pfau afirman haber desarrollado Tutanota para defender la privacidad en línea.
+Cuando Edward Snowden reveló los programas de vigilancia masiva de la NSA como XKeyscore en 2013, su opinión se generalizó aún más.
+Tutanota emplea actualmente a catorce personas.
+En 2014, el software pasó a ser de código abierto y puede ser controlado por personas externas.
+Hasta el momento se han realizado 123 publicaciones y doce personas han contribuido al proyecto.
+La aplicación web y la aplicación móvil son ambas de código abierto.
+Cualquiera puede verificar su seguridad en GitHub.
+En marzo de 2017, Tutanota tenía más de 2 millones de usuarios registrados.
+Desde un principio, el modelo de negocio de Tutanota ha descartado ganar dinero a través de la publicidad.
+La financiación de la empresa se basa en donaciones y suscripciones denominadas Premium y Teams.
+Tutanota ofrece cifrado de extremo a extremo de los mensajes de correo electrónico enviados desde una cuenta de Tutanota a otra.
+Tutanota también cifra todos los contactos.
+Inicialmente, el programa estaba conectado a Outlook y se podía cifrar un mensaje de correo electrónico con solo presionar un botón.
+Si el destinatario no tenía el software adecuado, recibía una contraseña y un enlace por SMS para descifrarlo.
+Hoy en día, para los destinatarios externos que no utilizan Tutanota, se envía un hipervínculo a una cuenta temporal de Tutanota.
+Después de ingresar una contraseña previamente intercambiada, el destinatario puede leer el mensaje y responder de manera encriptada.
+Si se olvidan o se pierden las contraseñas de acceso al buzón y en caso de invalidez por error humano o técnico, se puede restaurar ambas con un código de recuperación personal para anotar al crear una nueva cuenta y para no perder el acceso.
+Al restablecer la cuenta, los mensajes de correo electrónico existentes almacenados en la bandeja de entrada (tanto enviados como recibidos y con los adjuntos correspondientes) vuelven a ser legibles al iniciar sesión en las siguientes ocasiones.
+Tutanota elimina las cuentas gratuitas que no han iniciado sesión durante 6 meses.
+Tutanota ofrece cuentas gratuitas y de pago.
+Los usuarios con una cuenta gratuita tienen 1 GB de espacio para su correo electrónico, mientras que unos usuarios con una cuenta de pago pueden, por ejemplo, utilizar sus dominios de Internet con Tutanota.
+Lista no exhaustiva.
+Desde 2015, Tutanota ha desarrollado una aplicación móvil para Android e iOS que encripta automáticamente todo el correo electrónico.
+Es compatible con U2F (segundo factor con un token de hardware, para el que es necesario comprar por separado cualquier llave que soporte el estándar, como una Nitrokey o YubiKey) y TOTP (segundo factor con una aplicación de autenticación como Google Authenticator o Authy), mientras que no admite el segundo factor por mensaje corto.
+Es un sistema de calendario de software colaborativo cifrado de extremo a extremo diseñado por Tutanota y una parte integral del cliente de correo electrónico (servicio gratuito).
+Cuando un usuario solicita esta función, puede habilitar el inicio de sesión en su dominio, cambiar la apariencia para que se adapte a sus necesidades y crear formularios de contacto seguros para los clientes (uso business).
+Tutanota está disponible en unos 30 idiomas, incluido el español.
+Se traduce a través de un proyecto de código abierto y utilizando Phraseapp, una herramienta diseñada para la traducción de software desde una startup en Hamburgo.
+Otros idiomas disponibles son: alemán, árabe, búlgaro, catalán, checo, chino, coreano, danés, eslovaco, estonio, finés, francés, gallego, japonés, hebreo, holandés, húngaro, indonesio, inglés, italiano, polaco, portugués de Brasil, portugués de Portugal, rumano, ruso, sueco, tailandés, turco, ucraniano y vietnamita.
+Tutanota nunca pide que se haga clic en un enlace para confirmar o actualizar las credenciales de inicio de sesión y proporciona una dirección de correo electrónico dedicada a la que se pueden reenviar los posibles mensajes de phishing recibidos en la bandeja de entrada.
+Tutanota utiliza la compresión de correo electrónico y ofrece paquetes de archivo a partir de 10 gigabytes.
+Actualmente, Tutanota es compatible con los siguientes navegadores, aunque algunos de ellos puedan ahora resultar obsoletos:
+Los servidores están ubicados en un centro de procesamiento de datos alemán.
+Todos los datos guardados están sujetos a las leyes de protección de la privacidad de manera compatible con el procesamiento de datos de acuerdo con el reglamento europeo RGPD.
+Los días 27 de agosto y 6, 7, 10 y 13 de septiembre de 2020, Tutanota sufrió ataques DDoS que hicieron que el servicio no estuviera disponible para los usuarios, ya que el bloqueo excesivo de IP para combatir ataques provocó que cientos de usuarios no pudieran acceder a él.
+Desde entonces, una página de estado les dice a los usuarios si el servicio está temporalmente inactivo o activo.
+Los usuarios de Internet de Comcast no pudieron acceder a sus bandejas de correo electrónico a principios de marzo de 2018 debido a que Comcast bloqueó el acceso a Tutanota durante unas 18 horas.
+Tutanota ha sido bloqueado en Egipto desde octubre de 2019 y bloqueado en Rusia desde febrero de 2020 por razones desconocidas (aunque se cree que están vinculadas a acciones recientes contra servicios que operan fuera del país, particularmente aquellos que involucran comunicaciones encriptadas).
+En 2020, algunos clientes del operador estadounidense de red celular AT&T informaron de problemas para acceder al servicio de correo electrónico que duraron unas dos semanas.
+Microsoft ha bloqueado las direcciones de correo electrónico de Tutanota para registrar una cuenta de Microsoft Teams en el 2022; la solicitud de resolución, inicialmente ignorada, ha sido retomada posteriormente.

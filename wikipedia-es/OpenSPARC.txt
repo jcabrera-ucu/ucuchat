@@ -1,0 +1,4 @@
+OpenSPARC es un proyecto de hardware libre SPARC iniciado en diciembre de 2005 que goza de una licencia GPLv2.
+La contribución inicial al proyecto fue el código Verilog de nivel de transferencia de registro (RTL) para un microprocesador completo de 64 bits y 32 hilos de ejecución (threads), este era el RTL para el procesador UltraSPARC T1, de la empresa Sun Microsystems.
+El 21 de marzo de 2006, Sun lanzó el código fuente para el núcleo T1 IP bajo la licencia pública general GPL.
+El 7 de agosto de 2007, Sun anunció que el RTL para el procesador UltraSPARC T2 también estaría disponible a través del proyecto OpenSPARC.

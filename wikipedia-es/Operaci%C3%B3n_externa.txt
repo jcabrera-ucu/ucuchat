@@ -1,0 +1,24 @@
+Se dice que esta Operación matemática es una operación externa en una operación binaria si la aplicación entre los conjuntos es de la forma:
+siendo \star la operación binaria, que representamos:
+por oposición a la forma de la aplicación:
+Donde a cada par ordenado (a,b) le corresponde un c, siendo a, b y c elementos de A.
+Que se denomina Operación interna o ley de composición interna.
+Dada una Operación binaria de la forma:
+donde a cada par ordenado:
+se le asocia un elemento
+En este caso se denomina ley de composición externa a la izquierda; los elementos de B, son para los elementos de A,''operadores o multiplicadores a la izquierda.
+Tomando el conjunto R de números reales, y el conjunto V3 de los vectores de tres dimensiones, y la operación del producto de un escalar por un vector:
+donde un vector:
+multiplicado por un escalar k de R:
+Dada una operación binaria de la forma:
+donde a cada par ordenado:
+le corresponde un elemento:
+también es una operación externa.
+Dado el conjunto V3 de vectores en el espacio y el conjunto R de números reales, y la aplicación Producto escalar de vectores:
+Cuya operación representamos:
+dados los vectores:
+el producto escalar de los dos vectores es:
+que es un valor real.
+La diferencia de números naturales es una operación externa, dado que los operandos naturales el resultado siempre será un entero.
+En la forma de la operación:
+Para todo par ordenado (a,b) de números naturales, a su diferencia le corresponde un número c, entero, siendo c = a-b, es una aplicación matemática.

@@ -1,0 +1,11 @@
+Common Log Format, también conocido como NCSA Common log format (anteriormente conocido como NCSA HTTPd) es un formato de archivo de texto estandarizado usado por los servidores web para generar logs.
+Ya que el formato está estandarizado, los archivos pueden ser leídos y analizados por una gran cantidad de programas de análisis, como por ejemplo, Webalizer, Analog o awstats.
+Cada línea guardada en un archivo Common Log Format posee la siguiente sintaxis:
+host ident authuser date request status bytes
+127.0.0.1 jimbowales jimbo [17/Abr/2017:20:10:36 -0600] "GET /wiki.png HTTP/1.1" 200 51200
+Un "-" indica la ausencia de ese dato.
+Los archivos de log son una utilidad estándar para los desarrolladores de sistemas de cómputo y administradores.
+Ellos graban «qué ha pasado, cuándo y por quién» sobre el sistema.
+Esta información puede registrar fallas y ayudar a los diagnósticos.
+Esto puede identificar agujeros de seguridad y otros problemas.
+También son usados para auditar sistemas.

@@ -1,0 +1,58 @@
+Diablo III: Reaper of Souls (Diablo III: Segador de almas en español) es la primera expansión del RPG Diablo III.
+Fue revelado al público en la feria de videojuegos Gamescom 2013.
+Fue lanzado para PC y Mac el 25 de marzo de 2014.
+Blizzard ha declarado que la expansión tendrá versiones para consolas.
+El contenido del paquete de extensión se lanzará como parte de Diablo III: Ultimate Evil Edition, versión para PlayStation 4 que se programa para lanzarse en 2014.
+Esa edición del juego también se está desarrollando para la Xbox One, pero todavía no se programa su salida al mercado
+Después de que Diablo fuera derrotado en los Cielos Superiores por el Nephalem (personaje del juego), Tyrael recupera la Piedra Alma Negra (Black Soulstone) que contiene la esencia de los siete Grandes Demonios (Mefisto Señor del Odio, Baal Señor de la Destrucción, Diablo Señor del Terror, Belial Señor de las Mentiras, Azmodán Señor del Pecado, Andariel Señora de la Angustia y Duriel Señor del Dolor).
+Sabe que es demasiado peligroso dejarla en las manos de mortales o ángeles, así que él y seis Horadrim devuelven la Piedra Esencial Negra a Santuario y tratan de sellarlo en un lugar lejano, donde nunca se puede encontrar: en lo más profundo de la tumba de Rakkis, el primer Rey de Westmarch, el reino establecido al oeste de Khanduras.
+Sin embargo, el grupo es emboscado por Malthael, el ex-Arcángel de la Sabiduría y exmiembro del Consejo Angiris, que había desaparecido después de la destrucción de la Piedra del Mundo hace veinte años, después de que fuera corrompida por Baal el Señor de la Destrucción (al final de Diablo II: Señor de la Destrucción).
+Malthael, autodenominándose El Ángel de la Muerte mata a todos excepto uno de los Horadrim e incapacita a Tyrael, y toma la Piedra Esencial Negra.
+Reaper of Souls añade varias características nuevas al juego principal de Diablo III.
+Estas incluyen una nueva clase de personaje, el Cruzado (España) o Guerrero Divino (Hispanoamérica) quien recuerda al Paladín del juego Diablo II, que se especializa en juego defensivo, armas grandes (incluso tipos recién introducidos como manguales o rompecabezas), escudos específicos para el personaje y magia sagrada.
+Se añade un quinto acto, que sigue la búsqueda del Nephalem a través de los restos de Westmarch y la Fortaleza del Pandemónium para detener a Malthael y sus aliados.
+Además de la campaña, la expansión añade un Modo Aventura, donde los jugadores son libres de vagar por el mundo entero y conseguir bonos aleatorios y calabozos (llamado Grietas de Nephalem) en su oportunidad Un nuevo artesano, el Místico, puede realzar las propiedades y el aspecto del equipo del jugador.
+La expansión también aumenta el tope de nivel al 70 (desde el 60), y añade nuevas habilidades, runas y capacidades pasivas de todos los personajes, y añade una cuarta ranura para habilidades pasivas que se activa cuando el jugador alcanza el nivel 70.
+El Modo Aventura permite a los jugadores explorar cada región que esté disponible en el juego, sin necesidad de iniciar uno nuevo.
+A ello se suman nuevos objetivos y Personajes no jugables (NPJ o NPC en inglés) tales como bonos, Grietas del Nephalem, la Mística y otras características que estarán disponibles sólo en este modo de juego.
+Tan pronto como los jugadores completen la campaña (incluido el Acto V recientemente añadido) y derrotan al jefe final Malthael, el modo de aventura se abrirá y quedará disponible para todos los personajes en las cuentas de los jugadores.
+<!--
+Players are able to complete five random Bounties for each act when playing in Adventure Mode.
+Bounties are random missions that may require players to hunt down a specific enemy, clear a specific area, slain a certain number of enemies or complete a certain event (i.e. cleanse a cursed chest or cursed shrine).
+Upon completion of Bounties, players will be rewarded with certain amount of gold, loots as well as crystalline blood shards, which can be traded for powerful items.
+In addition to these rewards, players will also receive a certain amount of Rift Keystone Fragments if they have completed at least two Bounties within a single act.
+Rift Keystone Fragments are required when activating Nephalem Rifts.
+Once players complete all five Bounties designated to one act, they will be rewarded with a Horadric Cache, which contains random loots and rewards such as gems, crafting materials, equipment and two Rift Keystone Fragments.
+Nephalem Rifts are dungeons consist of random regions and encounters in Adventure Mode.
+Players fight random enemies and explore random areas drawn from all acts.
+To activate a Nephalem Rift players need five Rift Keystone Fragments obtained through the completion of Bounties or opening Horadric Caches.
+Players will also find random pylons that grant players powerful abilities during their journeys.
+The Mystic is a new NPC featured in Diablo III: Reaper of Souls.
+The mystic serves two basic functions: Item Enchanting and Transmogrification.
+Item Enchanting allows players to “re-roll the dice”; players are free to re-roll one property on an item.
+The selected property can be re-rolled to a higher value or to another property.
+Transmogrification allows players to change their character’s appearance for purely aesthetic purposes.
+A pre-expansion patch deployed on 25 February 2014, one month before the release.
+The patch, version 2.0.1, is available to all owners of the base game, and does not require ownership of the expansion.
+The most prominent changes of the patch include a major revamping of the Paragon level system, which removes the paragon level cap and adds up all existing Paragon experience to create account-wide Paragon levels for regular and Hardcore modes (replacing the previous system of separate, character-specific paragon levels and paragon experience pools).
+The patch also makes changes to the game's item drop system; named "Loot 2.0", items will drop in decreased quantity but increased quality, with a greater proportion of high bonuses and more useful properties, and will sometimes "smart-drop", with all random properties selected from a narrower, class-specific list instead of the broader general list.
+Most legendary items now have build changing properties (I.E "Strafe no longer costs hatred," "When an enemy is killed a hydra is summoned," "when a shrine is touched a guardian is summoned," etc).
+A change was also made to what items drop unidentified.
+Set pieces and legendary items now drop as the only unidentified items (rare items no longer need to be identified).
+With this change in drop rate and increased quality, Blizzard made set pieces and legendary bind-to-account once dropped.
+There is one exception to this bind-to-account in that of those who are present in game when the item is identified can be traded the item (within a two hour time frame).
+The patch additionally refined crafting materials so that low level materials now drop as "common debris."
+Common debris can be gathered by breaking down common white items or by finding them as loot.
+The patch also added new materials that may drop to craft a legendary specific item.
+Another notable change took place in the refinement of potions into one type for less confusion.
+The patch added cursed chest and cursed shrine events, timed events which challenge players to fight off several sequential waves of attacking monsters.
+Completing the event by defeating all of the waves rewards the players with experience and gold, as well as allowing players to open the treasure chest or use the shrine, while completing the bonus objective by defeating enough monsters within a time limit rewards the players with an additional bonus chest.
+The patch also introduced pools of reflection, a new type of shrine intended to reward survival and incentivize more defensive playstyles.
+The pools provide a stackable experience point buff which is lost on death, but otherwise lasts until the player earns a certain amount of experience.
+The difficulty tiering and monster power systems was also changed radically in 2.0.1, which removed the tiered Normal, Nightmare, Hell and Inferno modes in favor of a more streamlined approach: enemies now scale with the player's level, and the new difficulty settings simply affect how much tougher they are beyond that.
+The highest difficulties can also yield exclusive rewards, such as higher-quality dropped gems, special legendary items, and additional gold and experience rewards for clearing bounties.
+The primary composer for Reaper of Souls is Derek Duke.
+Additional music was composed by Neal Acree, Joseph Lawrence, Russel Brower, Glenn Stafford, and Jason Hayes.
+The soundtrack was released on March 25, 2014 (the same day as the expansion was released) in two formats: a physical CD included in the Collector's Edition of Reaper of Souls, and as a digital release on iTunes.
+Reaper of Souls sold 2.7 million copies in its first week on sale.
+-->

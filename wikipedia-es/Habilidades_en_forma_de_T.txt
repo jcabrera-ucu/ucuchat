@@ -1,0 +1,10 @@
+El concepto de T-shaped skills, T-shaped, o habilidades en forma de T de las personas es una metáfora  utilizada en reclutamiento de personal para describir las capacidades de las personas.
+La barra vertical en la letra T representa la profundidad de las habilidades y pericia en un campo particular, mientras que la barra horizontal es la capacidad de colaborar a través de disciplinas con expertos en otras áreas y para aplicar conocimiento en áreas de pericia diferentes al propio.
+La referencia popular más temprana es de David Guest en 1991.
+Tim Brown, CEO de la consultoría de diseño IDEO, promocionó esta aproximación a la valoración del curriculum de una persona como método para construir equipos de trabajo interdisciplinario para procesos creativos.
+En la década de los 80 "T-shaped man" (referido tanto para hombres como para mujeres) estuvo utilizado internamente por McKinsey & Compañía para recruiting y socios y asesores en desarrollo.
+El término T-shaped skills es también común en el mundo de desarrollo de software ágil y refiere a la necesidad para tener desarrolladores especializados y testers en un equipo ágil, p. ej.
+un scrum equipo.
+Otras formas también han sido propuestas:
+Γ- Y Μ-shaped @individual (Γ|gamma y Μ|mu, respectivamente) ha sido descrito por Brittany Fiore en su trabajo etnográfico de comunidades de búsqueda de ciencia de datos para indicar personas con fuerzas #de apoyo en computacionalmente- y software-campos intensivos.
+De modo parecido, π-shaped habilidades (después de la letra griega Π|pi) refiere a "una maestría ancha de habilidades de administración general atop unas cuantas espigas de profundos funcionales o pericia de ámbito".

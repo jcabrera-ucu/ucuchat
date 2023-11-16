@@ -1,0 +1,8 @@
+IRIX es un sistema operativo compatible con Unix, creado por Silicon Graphics para su plataforma MIPS de 64 bits.
+IRIX tiene un particular soporte para gráficos 3D, video y transferencia de datos de gran ancho de banda.
+Fue una de las primeras versiones de Unix en tener una interfaz gráfica de usuario (GUI) para el escritorio principal y fue ampliamente utilizado, debido a su extremadamente alta calidad en gráficos 3D, en la industria de la animación por computadora y para visualización científica, aunque debido a los cambios tecnológicos y al abandono de su desarrollo por parte de SGI, ha perdido dicha popularidad.
+Existen dos ramas o subversiones: maintenance y feature, que corresponden más o menos a las versiones "estable" y "desarrollo" de otros programas.
+La maintenance contiene mejoras de funcionamiento y correcciones de errores y la feature contiene nuevos subsistemas.
+Desde la 6.5.22 existe esa división en "maintenance" y "feature".
+A partir de la 6.5.23 es necesario un contrato de mantenimiento para poder acceder a las nuevas actualizaciones.
+El 6 de septiembre de 2006, SGI anunció el fin de la línea de productos IRIX/MIPS

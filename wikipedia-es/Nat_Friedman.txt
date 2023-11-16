@@ -1,0 +1,7 @@
+Nathaniel Dourif Friedman (6 de agosto de 1977), conocido como Nat, es un programador que fundó en 1999 la compañía Ximian junto a Miguel de Icaza, la compañía fue adquirida por Novell en el año 2003.
+Friedman fue el Director ejectuvivo de Ximian desde 1999 hasta el año 2001 cuando David Patrick se hizo el Director ejecutivo externo de Ximian después de que la compañía aumentáse su capital riesgo en 15 millones de dólares.
+Antes de fundar Ximian, Friedman trabajó en el proyecto ROPE de GNU, y también para Silicon Graphics y Microsoft.
+En 1999 recibió Licenciatura en Ciencias computacionales y matemáticas del Instituto Tecnológico de Massachusetts.
+Nat fue el vicepresidente de la sección Linux Desktop de Novell, actualmente es Director ejecutivo de Xamarin después de que Novell, tras su absorción, despidiera a varios empleados.
+Es sobrino de Brad Dourif y actualmente vive en San Francisco.
+Actualmente CEO en Github.

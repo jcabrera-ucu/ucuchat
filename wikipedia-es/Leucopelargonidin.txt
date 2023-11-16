@@ -1,0 +1,5 @@
+Leucopelargonidin es un compuesto químico incoloro relacionado con las leucoantocianinas.
+Se puede encontrar en Albizia lebbeck, en el fruto de Anacardium occidentale (anacardo), en el fruto de Areca catechu (nuez de areca), en el fruto de Hydnocarpus wightiana, en el rizoma de Rumex hymenosepalus, en Zea mays (maíz) y en Ziziphus jujuba.
+(+)-Leucopelargonidin puede ser sintetizada a partir de (+)-aromadendrina por reducción de borohidruro de sodio.
+Dihydrokaempferol 4-reductase utiliza cis-3,4-leucopelargonidin y NADP+ para producir (+)-aromadendrina, NADPH, y H+.
+Leucoanthocyanidin reductasa transforma cis-3,4-leucopelargonidin en afzelequina.

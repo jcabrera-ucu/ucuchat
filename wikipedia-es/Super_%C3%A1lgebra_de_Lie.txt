@@ -1,0 +1,10 @@
+En matemática, una super álgebra de Lie es la  generalización de un álgebra de Lie.
+Las super álgebras de Lie son importantes en física teórica en donde se utilizan para describir la matemática de la supersimetría.
+En estas teorías, los elementos pares de la super álgebra corresponden a los bosones y los elementos impares a los fermiones.
+Una super álgebra de Lie es un álgebra sobre un cuerpo de característica 0 Z2-graduada cuyo producto [ ·,  · ],  llamado el  super corchete de Lie  o el super conmutador, satisface
+donde x, y, y z son puros en la Z2-graduación.
+Aquí |x| denota el grado de x (0 o 1).
+Las super álgebras de Lie son una generalización natural de las álgebras de Lie normales para incluir una Z2-graduación.
+De hecho, las condiciones antedichas en el super corchete son exactamente aquellas en el corchete normal de Lie con las modificaciones hechas para la graduación.
+La última condición a veces se llama la super identidad de Jacobi.
+El subalgebra par de una super álgebra de Lie forma un álgebra de Lie (normal) puesto que todos los signos desaparecen, y el super corchete se reduce a un corchete normal de Lie.

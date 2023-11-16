@@ -1,0 +1,18 @@
+MSWLogo es un software libre cuya utilidad es programar, con LOGO, una controladora para circuitos o bien, simplemente, programar la "tortuga" y darle instrucciones para que las ejecute.
+El programa trabaja con tres ventanas:
+En esta la ventana el usuario escribe órdenes directas que solamente se guardan en el historial, por lo que no se pueden enlazar órdenes que ejecuten acciones "simultáneas".
+En esta ventana se localizan unos botones muy útiles y prácticos que facilitan al usuario la rápida ejecución de determinadas órdenes, acciones o instrucciones.
+Detiene el procedimiento en ejecución.
+Pausa el procedimiento momentáneamente para poder introducir las instrucciones que desee.
+Muestra en una ventana, paso a paso, las instrucciones que se ejecutan en un procedimiento.
+Muestra el estado de la tortuga (su posición, su rumbo, el color del instrumento de pintura y el color de relleno).
+Borra la pantalla y la deja en su estado inicial (blanca), pero no detiene el procedimiento en curso.
+ejecutar es editar una oración
+Abre el editor mostrando todos los procedimientos declarados en el programa.
+Esta ventana sirve única y exclusivamente para que el programador pueda visionar las órdenes dirigidas a la tortuga.
+Es quizás la ventana más utilizada del programa.
+No se muestra al inicio, pero se acciona pulsando en el botón Editar, en la ventana de trabajo.
+Aquí se escriben las órdenes en una lista, con un nombre del procedimiento, para posteriormente ser ejecutadas en la ventana trabajo y visionadas en el display.
+Las instrucciones básicas de MSWLogo son:
+al transcurrir el tiempo indicado (en milésimas de segundo).
+Hay que indicar el número del contador activado en la instrucción.

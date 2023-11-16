@@ -1,0 +1,14 @@
+El Campeonato Nacional de Fútbol de la Primera División de 1970 fue el torneo disputado en la 38ª temporada de la máxima categoría del fútbol profesional chileno, con la participación de 18 equipos.
+El torneo se dividió en dos zonas basadas en un criterio geográfico:
+Los 5 primeros de cada zona clasifican con puntos extras para el Torneo Nacional.
+El campeón fue Colo-Colo que logró su décimo campeonato, luego de 7 años de sequía.
+PJ=Partidos jugados; PG=Partidos ganados; PE=Partidos empatados; PP=Partidos perdidos; GF=Goles a favor; GC=Goles en contra; Dif=Diferencia de gol; Pts=Puntos
+PJ=Partidos jugados; PG=Partidos ganados; PE=Partidos empatados; PP=Partidos perdidos; GF=Goles a favor; GC=Goles en contra; Dif=Diferencia de gol; Pts=Puntos
+Se enfrentan en dos zonas sorteadas entre equipos de Santiago y Provincias.
+Los 5 primeros del torneo metropolitano y provincial clasifican con puntos de bonificación.
+Los 4 primeros de cada zona clasifican a la liguilla final por el campeonato.
+Los últimos de cada zona, juegan un repechaje para definir al equipo descendido de la temporada.
+PJ=Partidos jugados; PG=Partidos ganados; PE=Partidos empatados; PP=Partidos perdidos; GF=Goles a favor; GC=Goles en contra; Dif=Diferencia de gol; Pts=Puntos
+PJ=Partidos jugados; PG=Partidos ganados; PE=Partidos empatados; PP=Partidos perdidos; GF=Goles a favor; GC=Goles en contra; Dif=Diferencia de gol; Pts=Puntos
+PJ=Partidos jugados; PG=Partidos ganados; PE=Partidos empatados; PP=Partidos perdidos; GF=Goles a favor; GC=Goles en contra; Dif=Diferencia de gol; Pts=Puntos
+PJ=Partidos jugados; PG=Partidos ganados; PE=Partidos empatados; PP=Partidos perdidos; GF=Goles a favor; GC=Goles en contra; Dif=Diferencia de gol; Pts=Puntos

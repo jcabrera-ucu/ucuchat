@@ -1,0 +1,38 @@
+Una nube molecular es una región extensa en el interior de una galaxia en la que la densidad de materia es suficientemente alta, y la temperatura suficientemente baja, para que exista dihidrógeno (H2).
+Por su carencia de dipolo eléctrico, el H2 frío no es observable directamente, pero otras moléculas que existen en las nubes moleculares sí lo son.
+La más abundante después del H2 es el monóxido de carbono (CO), que es fácilmente observable en ondas milimétricas.
+Cientos de otras moléculas han sido observadas en nubes moleculares.
+Las nubes moleculares son especialmente importantes en formación estelar.
+El nacimiento de las estrellas ocurre cuando regiones de una nube molecular sufren una inestabilidad gravitacional que les lleva a contraerse.
+Generalmente las nubes moleculares son tan extensas y masivas que se fragmentan hasta formar un elevado número de protoestrellas.
+Actualmente son las estructuras galácticas conocidas de mayor tamaño, con masas de hasta 1 millón de veces la del Sol.
+Dentro de nuestra propia galaxia, la cantidad de gas molecular es de menos del uno por ciento del volumen del medio interestelar (ISM), pero también es la parte más densa del medio que abarca aproximadamente la mitad de la masa de gas total del interior de la órbita galáctica del Sol.
+La mayor parte del gas molecular se encuentra en un anillo de entre 3,5 a 7,5 kiloparsecs del centro de la galaxia (el Sol esta a unos 8,5 kiloparsecs del centro).
+Los mapas a gran escala de monóxido de carbono de la galaxia muestran que la posición de este gas se correlaciona con los brazos espirales de la galaxia.
+Que el gas molecular se encuentre predominantemente en los brazos espirales sugiere que las nubes moleculares deben formarse y disolverse en una escala de tiempo no superior a 10 millones de años, el tiempo que tarda la materia en pasar a través de la región del brazo.
+Verticalmente al plano de la galaxia, el gas molecular habita en el plano medio estrecho del disco galáctico con una altura de escala característica, Z, de aproximadamente 50 a 75 parsec, mucho más delgado que la tibia atómico (Z = 130 a 400 pc) y caliente ionizado (Z = 1000 pc ) los componentes gaseosos de la IGS.
+La excepción a la distribución de gas ionizado son las regiones HII que están en las burbujas de gas caliente ionizado creado en nubes moleculares por la intensa radiación emitida por estrellas masivas jóvenes y, como tales, tienen aproximadamente la misma distribución vertical que el gas molecular.
+Esta distribución del gas molecular es bastante regular si se tienen en cuenta distancias grandes, sin embargo la distribución a pequeña escala es altamente irregular con la mayor parte concentrada en las nubes discretas y complejos de nubes.
+Los conjuntos de gas molecular con masas de 104 a 106 veces la masa del sol son llamados nubes moleculares gigantes (GMC).
+Las nubes pueden llegar a medir decenas de parsecs de diámetro y tienen una densidad media de 102 a 103 partículas por centímetro cúbico (la densidad media en la vecindad solar es una partícula por centímetro cúbico).
+La subestructura yaciente dentro de estas nubes está formada por un patrón complejo de filamentos, hojas, burbujas y grupos irregulares.
+A las partes más densas de los filamentos y grupos se les llama "núcleos moleculares", los núcleos moleculares más densos son llamados "núcleos moleculares densos" y tienen densidades de 104 a 106 partículas por centímetro cúbico.
+Observacionalmente los núcleos moleculares se trazan con monóxido de carbono y los núcleos densos con amoniaco.
+La concentración de polvo en los núcleos moleculares es normalmente suficientemente grande como para bloquear la luz de las estrellas en cuya trayectoria se interponen de tal forma que ofrecen el aspecto de siluetas de nebulosas oscuras.
+Las GMC son tan grandes que las "locales" pueden llegar a cubrir una parte importante de una constelación de tal manera que son referidas a menudo por el nombre de esa constelación, por ejemplo, la Nube Molecular de Orión (OMC) o la nube molecular Tauro (TMC).
+Estos GMC locales están dispuestos en un anillo cercano al sol que coincide con el Cinturón de Gould [7] El grupo más masivo de nubes moleculares en la galaxia forma un anillo asimétrico alrededor del centro galáctico en un radio de 120 parsecs, el componente más grande de este anillo es el complejo de Sagitario B2.
+La región de Sagitario es químicamente rica y es utilizado a menudo como muestrario por los astrónomos en busca de nuevas moléculas en el espacio interestelar.
+Aisladas y unidas gravitacionalmente, a las pequeñas nubes moleculares con masas inferiores a unos cuantos cientos de veces la masa del Sol se les llama glóbulos de Bok.
+Las partes más densas de las pequeñas nubes moleculares son equivalentes a los núcleos moleculares que se encuentran en las GMC y se incluyen a menudo en los mismos estudios.
+En 1984 el IRAS (Satélite Astronómico Infrarrojo) identificó un nuevo tipo de nube molecular difusa.
+[9] Se trata de nubes difusas filamentosas que son visibles a altas latitudes galácticas (alejadas verticalmente del plano horizontal que forma el disco galáctico).
+Estas nubes tienen una densidad típica de 30 partículas por centímetro cúbico.
+La formación de estrellas se produce exclusivamente dentro de las nubes moleculares.
+Esto es una consecuencia natural de sus bajas temperaturas y altas densidades, ya que la fuerza gravitatoria que hace que la nube colapse debe superar las presiones internas que actúan «hacia fuera», tratando de evitar un colapso.
+También hay pruebas de que las grandes nubes donde se produce la formación de estrellas se mantienen unidas, en gran medida, por su propia gravedad (como ocurre con las estrellas, planetas y galaxias) más que por la presión externa (como sucede con las nubes en el cielo).
+La evidencia proviene del hecho de que las velocidades «turbulentas» que se infieren del ancho de la línea de CO varían de la misma forma que la velocidad orbital (una relación virial).
+La física de las nubes moleculares es poco conocida y muy debatida.
+Sus movimientos internos se rigen por las turbulencias en un frío, de gas magnetizado, para que los movimientos turbulentos son altamente supersónicos, pero comparables a las velocidades de las perturbaciones magnéticas.
+Este estado se cree que pierde energía rápidamente, lo que requiere ya sea un colapso general o una re-inyección constante de energía.
+Al mismo tiempo, se sabe que las nubes son interrumpidas por algún proceso, lo más probable es que se trate de los efectos de las estrellas masivas antes de que una fracción significativa de su masa sea convertido en estrellas.
+Las nubes moleculares, y especialmente las nubes moleculares "gigantes" (GMC), a menudo son el hogar de máser astronómica.

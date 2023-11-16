@@ -1,0 +1,17 @@
+El k-anonimato (k-anonymity, también traducido literalmente como k-anonimidad) es una propiedad característica de los datos anonimizados.
+Este concepto fue formulado por primera vez por Latanya Sweeney en un trabajo publicado en 2002 con el objeto de resolver el problema: "Dados unos datos estructurados con campos específicos personales, como poder asegurar con garantía científica, que en una nueva versión modificada de estos datos no se puedan reidentificar los individuos a los que se refieren, a la vez que los datos sigan siendo útiles en la práctica."
+Se dice que un conjunto de datos publicados tiene la propiedad de k-anonimato (o es k-anónimo) si la información de todas y cada una de las personas contenidas en ese conjunto es idéntica al menos con otras k-1 personas que también aparecen en dicho conjunto.
+Existen varios procedimientos para generar datos anonimizados con k-anonimato que han sido patentados en los Estados Unidos (Patente 7,269,578).
+En el contexto de la k-anonimización, una base de datos es una tabla con n filas y m columnas.
+Cada fila de la tabla representa un registro relacionando con un miembro concreto de una población.
+Los valores en las columnas corresponden a los atributos que se asocian con los miembros de la población.
+La tabla siguiente es una base de datos no anonimizada que incluye los registros de pacientes de un hospital ficticio en Cochin.
+Hay 6 atributos y 10 registros en estos datos.
+Hay dos métodos comunes para obtener k-anonimato para un cierto valor deseado de k. La siguiente tabla muestra la base de datos anonimizada.
+Estos datos son 2-anónimos respecto a los atributos 'Edad', 'Género' y 'Estado de residencia', ya que para cualquier combinación de estos atributos encontrados en cualquier fila de la tabla existen al menos 2 filas con idénticos atributos.
+Los atributos disponibles para un adversario se denominan cuasiidentificadores.
+Cada tupla cuasiidentificadora se presenta en al menos k registros para un conjunto de datos con k-anonimato.
+Meyerson y Williams (2004) demostraron que el k-anonimato es un problema NP-completo; no obstante con métodos heurísticos como el de k-optimización propuesto por Bayardo y Agrawal (2005) a menudo se obtienen resultados eficaces.
+Ya que la k-anonimización no incluye aleatorización, los atacantes pueden realizar inferencias sobre los datos que podrían perjudicar a un individuo.
+Por ejemplo, si sabemos que John de 19 años de Kerala está en la base de datos anterior, podemos inferir que o padece cáncer, o enfermedad cardiológica o una infección viral.
+La k-anonimización no es un buen método para anonimizar un conjunto de datos de muchas dimensiones.

@@ -1,0 +1,18 @@
+Kesteven 79, abreviado como Kes 79 y llamado también SNR G033.6+00.1, G33.6+0.1, 4C 00.70 y AJG 90, es un resto de supernova situado en la constelación de Aquila.
+Fue descubierto en 1975 a partir de análisis de radiofuentes del cielo.
+La morfología de Kesteven 79, en banda de radio, es una cáscara de 10 minutos de arco de diámetro con el borde oeste redondo y el borde este deformado; además, se caracteriza por tener múltiples capas concéntricas o filamentos.
+En rayos X, las primeras observaciones llevadas a cabo con el satélite ROSAT mostraron que la mayor parte de la emisión difusa de rayos X proviene de una región interior brillante y que algo de emisión tenue de rayos X se extiende a la región externa.
+Posteriores observaciones con el satélite Chandra revelaron ricas estructuras —con muchos filamentos—, una protuberancia, y una temperatura constante —de unos 8 000 000 K— a lo largo de todo el resto de supernova.
+Por todo ello, Kesteven 79 está catalogado como un remanente de morfología mixta, es decir, en banda de radio aparece como una cáscara hueca mientras que en rayos X es un objeto lleno y centralizado.
+Los estructura de rayos X de Kesteven 79 es consistente con un modelo de dos temperaturas: un plasma en equilibrio de ionización por colisión y un plasma ionizado no en equilibrio cuya temperatura es más alta.
+Existe evidencia de que Kesteven 79 está asociado con una nube molecular densa, con la que está interaccionando.
+Se ha identificado gas molecular y atómico interactuando con Kesteven 79; dicho gas muestra una buena correspondencia espacial con la concha de radio y rayos X de este resto de supernova.
+Kesteven 79 alberga un objeto central compacto (CCO), denominado PSR J1852+0040.
+Catalogado como un púlsar de rayos X, tiene un período de 105 ms y posee un débil campo magnético.
+Su luminosidad, en la banda de rayos X de 0,3 – 8 keV, es de 7 × 1033 erg/s, cuatro veces mayor que la del CCO de Casiopea A.
+Por otra parte, al sur de Kesteven 79 se ha encontrado un magnetar, 3XMM J185246.6+003317, a una distancia similar a la de Kesteven 79.
+Se estima que el progenitor de Kesteven 79 tenía entre 15 y las 20 masas solares —de acuerdo a un estudio— o entre 30 y 40 masas solares —de acuerdo a otros—.
+Se ha especulado que su tipo espectral pudo ser O9.
+Kesteven 79 tiene una edad estimada de 8300 ± 500 años.
+No existe consenso en cuanto a la distancia que se encuentra Kesteven 79, con un rango de valores entre 3500 y 7100 pársecs; un trabajo más reciente sitúa este resto de supernova a 5500 pársecs aproximadamente.
+Su radio es de 8 pársecs.

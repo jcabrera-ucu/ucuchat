@@ -1,0 +1,6 @@
+En geometría, la girobicúpula pentagonal es uno de los sólidos de Johnson (J31).
+Al igual que la ortobicúpula pentagonal (J30), puede construirse uniendo dos cúpulas pentagonales (J5) por sus bases.
+La diferencia es que, en este sólido, una de las mitades está rotada 36 grados respecto de la otra.
+La girobicúpula pentagonal es la tercera girobicúpula de un conjunto infinito de ellas.
+La girobicúpula pentagonal es lo que se obtiene al tomar un rombicosidodecaedro, quitar el rombicosidodecaedro parabidisminuido (J80) central, y pegar de nuevo las dos cúpulas entre sí.
+Los 92 sólidos de Johnson fueron nombrados y descritos por Norman Johnson en 1966.

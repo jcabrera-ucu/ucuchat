@@ -1,0 +1,50 @@
+Un numeral es un nombre propio para un número, las lenguas naturales en tanto que lenguajes que permiten hacer afirmaciones sobre realidades físicas, disponen de subsistemas lingüístico-cognitivos capaces de nombrar números y contar.
+Los sistemas de numeración de las lenguas naturales se basan en la cuenta de dedos.
+Por eso la práctica totalidad de los sistemas de numeración de las lenguas de la tierra usa sistemas de numeración basados en la base 10 o la base 20.
+Las mayoría de las lenguas indoeuropeas utilizan un sistema de numeración decimal, lo que significa que los nombres de los números se agrupan en series de diez, y que existen raíces para los números del uno al nueve, el diez, el cien, el mil y los demás nombres son derivados de las raíces para los numerales citados.
+Otras familias de lenguas emplean también el sistema decimal y existen familias de lenguas donde se usan sistemas vigesimales (vasco, lenguas mayas, lenguas utoaztecas, etc.).
+Algunas lenguas tienen subsistemas de base cinco, dentro de un sistema decimal o vigesimal.
+Sin embargo, no se conocen sistemas de cuenta amplios no basados en la base 10 o la base 20.
+Esta restricción parece relacionada con que la idea original de contar estaba asociada a los dedos de las manos o el conjunto de dedos de manos y pies.
+Los sistemas no basados en base 10 o 20 son escasos aunque aparecen en lenguas australianas de forma generalizada y —de forma marginal— en algunas lenguas americanas, como el waimirí y el arará (dos lenguas caribes), el resiguaro (una lengua arahuaca), el harákmbet y el andoque (lenguas aisladas), que suelen usar sistemas cuasi-binarios.
+Son palabras que expresan orden o cantidad de forma precisa.
+Algunas austronesias y melanesias, entre ellas el māorí, algunas lenguas de Sulawesi y algunas de Papúa Nueva Guinea, usan para contar sistemas basados en el 'cuatro'.
+En estas lenguas el término asu o aso (derivado del javanés asu, 'perro'), se usa para 'cuatro' dado que los perros en estas culturas son el cuadrúpedo más abundante.
+Se ha propuesto que este sistema podría haber surgido en el contexto de granjeros que intercambiaban animales en un mercado, así cincuenta asu representaría un conjunto de 200 cosas, si a esa cantidad se le substraen 30 asu (120) se llegaría rápidamente a inferir que solo quedan 20 asu (80), y la generalización de la idea de contar las cosas como formando asu completos habría dado origen a este curioso sistema de contaje.
+Nótese que este sistema podría estar cognitivamente relacionado con el uso de docenas como sistema de contaje extendido debido a que la aritmética de la división es simple en docenas.
+Los sistemas quinarios que usan la base 5 también están testimoniados.
+Obviamente dichos sistemas al igual que los sistemas decimales y vigesimales derivan del contaje de dedos (una mano tiene cinco dedos).
+Un ejemplo de este tipo de sistema se encuentra en la lengua api, una lengua de Vanuatu, donde 'cinco' y 'mano' se dicen simplemente luna 'cinco, mano', 'diez' se dice lua-luna 'dos-cinco', 'quince' se deice tolu-luna 'tres-cinco', etc. El número 'once' se llama lua-luna tai 'dos-cinco uno' y 'diecisiete' tolu-luna lua 'tres-cinco dos'.
+Un sistema básicamente idéntico se encuentra en emberá-catio (familia chocó).
+Aunque los sistemas puramente quinarios no son frecuentes, si es muy frecuente el uso de la base cinco como "base auxiliar" o "sub-base" empleada para algunos números, así en muchas lenguas del mundo es frecuente que el 6 se llame 'cinco/mano y uno', 7 'cinco/mano y dos ', etc. Por ejemplo el náhuatl tiene una base vigesimal (base, 20) pero emplea 5 como sub-base: 6 chikwasē, 7 chikōme, 8 chikwēi y 9 chiknāwi.
+El kanum es un ejemplo exótico de lengua con un sistema de contaje en base 6.
+Las lenguas sko, sin embargo, usan una base 24, en donde se usa sub-base 6.
+El sistema octal usa el número 8 como base.
+Dicho sistema está testimoniado en el Idioma yuki de California y en las lenguas pame de México central.
+Esto se debe a que ambos grupos humanos usan los huecos entre los dedos de las manos para contar más que los dedos mismos.
+Las lenguas sko usan un sistema de cuenta en base 24, donde el 6 es empleado como sub-base.
+El ngiti usa base 32.
+El ekari usa una base 60 para contar.
+En Sumeria parece haberse empleado la base 60 para ciertos usos, aunque siempre con 10 como sub-base, quizá un sistema mixto entre sistemas decimales y duodecimal.
+El empleo de este curioso sistema en Sumeria está detrás del uso moderno de los grados sexagesimales de la medida de los ángulos en grados, minutos y segundos.
+Uso del que deriva también la medida del tiempo en minutos y segundos, así como la división de la circunferencia en 360°.
+Se ha publicado que el idioma supyire tiene un sistema de cuenta en base 80, en esta lengua se cuenta en veintenas (usando 5 y 10 como sub-bases) hasta 80 y entonces en ochentenas hasta 400, y a partir de ahí de 400 en 400.
+799 [i.e. 400 + (4 x 80) + (3 x 20) + {10 + (5 + 4)}]’
+Muchas lenguas de Melanesia usan (o usaban) sistemas de cuenta basados en las partes del cuerpo en lugar de sobre una base numérica.
+Este sistema no tiene palabras exclusivas para números, sino que más bien los nombres de ciertas partes del cuerpo se emplean para contar.
+Por ejemplo entre 1 y 4 se emplean los dedos, 5 se llama 'pulgar', 6 'muñeca [de la mano]', 7 'codo', 8 'hombro', etc. Así a través del cuerpo y luego bajando por el otro brazo, así el meñique opuesto representa el 17 (Islas Torres) o 23 (lenguas eleman).
+Para números más allá de estos valores, se usa el torso, las piernas y los dedos de los pies, o uno puede contar hacia atrás hasta el otro brazo y de nuevo al primero.
+También es un tema bien estudiado, qué principios aritméticos usan los sistemas de numeración de las lenguas del mundo.
+Por ejemplo, la suma es universal en todas las lenguas (dieciocho = diez y ocho = 10 + 8), para expresar un número que puede expresarse mediante un cierto número de veces la base más un número inferior a la base.
+La multiplicación es también muy frecuente para expresar ciertos números superiores a la base (doscientos = 2 x 100).
+En algunas lenguas aparece implícitamente la substracción para formar números (latín duōdēvigintī '18' = 2 antes de 20 = 20 - 2).
+En cambio, la división es totalmente marginal en la formación de numerales y generalmente se restringe a fracciones como 1/2.
+En muchas lenguas además de los numerales cardinales o numerales comunes usados para contar existen otros tipos adicionales de numerales: ordinales, partitivos, distributivos, multiplicativo, etc. El latín es un ejemplo de lenguas con todos estos tipos de numerales:
+En lenguas flexivas estos numerales ordinales son formas derivadas de los lexemas que se usan para formar los numerales comunes.
+Los numerales reconstruidos para la protolengua madre de diversas familias lingüísticas.
+Entre las lenguas de Eurasia se tienen:
+Para las lenguas de África se tiene:
+Para las lenguas de América se tiene:
+Y para las lenguas de Oceanía:
+Un indicador ordinal es un símbolo para indicar un número ordinal.
+En español se utilizan dos tipos: "º" y "ª" según el género gramatical, o bien " ᵒˢ ", " ᵃˢ " y " ᵉʳ ").

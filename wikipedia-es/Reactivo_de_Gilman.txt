@@ -1,0 +1,11 @@
+Un reactivo de Gilman, o diorganocuprato de litio, es un compuesto organocúprico de fórmula R2CuLi, donde R puede ser un alquilo, un vinilo o un arilo.
+Recibe su nombre por el químico estadounidense Henry Gilman.
+Se preparan, dada su inestabilidad, por transmetalación a partir de un reactivo organolítico y una sal cuprosa (cobre(I)):
+donde X = I− o Br−.
+Tienen aplicaciones en síntesis orgánica.
+No son básicos y toleran la presencia de los grupos hidroxilo y carboxilo, además de no reaccionar tampoco ni con cetonas ni ésteres, aunque sí lo hacen con el grupo carbonilo de aldehídos no conjugados.
+Su reactividad consiste en:
+donde R' puede ser un alquilo, un vinilo o un arilo.
+A menudo sólo reacciona un grupo orgánico R por cada molécula de diorganocuprato de litio.
+En estos casos, si el reactivo de partida es valioso, se recurre a cupratos mixtos RTRRCuLi, de tal forma que sólo se transfiere el grupo RT que nos interesa, sin desaprovechar reactivo de partida, mientras que el grupo RR queda retenido de forma selectiva, ya que interacciona fuertemente con el átomo de cobre.
+El grupo RR puede ser, por ejemplo, CN−, Ph-S−, R-C≡C−, tBuO−, etc. No todos presentan la misma selectividad, y reactividad, ante distintos sustratos, siendo según el caso unos más adecuados que otros.

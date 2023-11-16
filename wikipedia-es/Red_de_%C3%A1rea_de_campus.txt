@@ -1,0 +1,4 @@
+Una red de área de campus (CAN; acortado «red de campus») es una red informática formada por una interconexión de redes de área local (LAN) dentro de un área geográfica limitada.
+Los tipos de equipos de red (conmutadores, enrutadores) y los medios de transmisión (fibra óptica, cableado CAT 5, etc.) son casi en su totalidad propiedad del arrendatario/propietario del campus: una empresa, universidad, gobierno, etc. Una red de área de campus es más grande que una red de área local pero más pequeña que una red de área metropolitana (MAN) o una red de área amplia (WAN).
+Una CAN es una colección de LANs dispersadas geográficamente dentro de un campus (universitario, oficinas de gobierno, maquilas o industrias) pertenecientes a una misma entidad en una área delimitada en kilómetros.
+Una CAN utiliza comúnmente tecnologías tales como FDDI y Gigabit Ethernet para conectividad a través de medios de comunicación tales como fibra óptica y espectro disperso.

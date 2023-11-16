@@ -1,0 +1,42 @@
+Las tengwar (teŋgʷar) o tîw (que se traduce como letras en quenya) es un sistema de escritura basado en las lenguas que inventó J. R. R. Tolkien que aparecen en sus libros mejor conocidos como El Señor de los Anillos.
+En sus obras, numerosas lenguas de la Tierra Media, como el quenya y sindarin, emplean la escritura tengwar, inventada por Fëanor.
+Realmente no se trata de la forma de escritura más antigua, ya que el sarat y las cirth o runas son miles de años más antiguas.
+Los elfos fueron quienes usaron más habitualmente este sistema de escritura, ya que permite muchas formas de caligrafía y una escritura estilizada y fina con la pluma.
+"Tengwar" es una palabra quenya en plural, cuyo significado es "letras"; el singular sería "tengwa".
+Es incorrecto decir 'el tengwar' porque es como decir 'el libros'
+Las tengwar son un sistema de escritura alfabética, y pueden ser utilizadas para escribir cualquier idioma.
+A cada forma de escribir una lengua con las tengwar se le llama modo.
+El alfabeto tengwar se representa en la disposición que aparece en la sección siguiente.
+Había veinticuatro letras primarias, todas con valor consonántico, ordenadas en cuatro columnas o series, (témar) y en seis filas o grados (tyeller).
+También estaban once letras adicionales, casi todas modificaciones de las primarias.
+Por último, había una serie de signos, tehtar, con usos variados, aunque el más importante es su función vocálica (los cuales no aparecen en la sección Modo español para las tengwar).
+Nota: las palabras en negrita están en quenya
+La escritura del quenya no se realiza con caracteres latinos.
+Por el contrario, tiene una escritura propia, basada en fonética.
+Las consonantes se denominan "Tengwar", y, como si de tildes se tratara, se sitúan sobre (o bajo) ellas, las "Tehtar", que representan las vocales y la "y" vocálica.
+Cada Tengwa consiste en un tallo y uno o dos arcos.
+También en ocasiones dispone de base.
+Cuando el tallo se desvía hacia abajo, es una consonante oclusiva; si se desvía arriba, ésta es fricativa, y si el tallo tiene la misma altura que el/los arco/s, es una nasal.
+El número de arcos indica la sonoridad.
+Un arco es una consonante sorda, dos arcos, sonora.
+A mayores, se agrupan en 4 series, según tengan el arco a la derecha o a la izquierda del tallo, y según tengan o no base.
+Así, una Tengwa con tallo largo hacia abajo, un arco a la izquierda y sin cerrar, corresponde con el fonema /ʧ/ (la Ch en Español), mientras que un tallo corto con dos arcos a la derecha y con una base que los cierra se corresponden con el fonema /m/.
+Hay también ciertas Tengwar especiales o "irregulares", correspondientes a las letras latinas "L", "LD", "S", "SS", "R"*, "RD", "H" y para la "-i" y la "-u" diptongadas.
+Las Tehtar se colocan sobre (la "Y" bajo) la Tengwa que le precede.
+Una vocal larga se transcribe o bien colocando dos veces la Tehta en la Tengwa, o bien colocando un "portador largo" (como una "j" sin punto) y colocando sobre él, la Tehta una sola vez.
+Si la Tehta no tiene Tengwa precedente, entonces se colocará sobre un "portador corto" que viene a semejarse a una "i" sin punto.
+Las Tehtar son:
+Hay caracteres especiales, a mayores.
+Cuando una consonante se alarga, como yavaNNa (Valie de la naturaleza viva) se coloca bajo ella una línea.
+Cuando a una consonante le sigue inmediatamente una "S", como en oTSo (Siete), a la Tengwa se le añade un apéndice al final, encorvado hacia abajo.
+El orden de lectura en un carácter completo, es:
+1. Tengwa
+2. ¿es doble?
+3. ¿sigue "S"?
+4. "Y" vocálica
+5. Tehta
+La siguiente tabla muestra una adaptación de los tengwar que puede usarse en español.
+En cada casilla aparece la letra, su valor asignado escrito en el Alfabeto Fonético Internacional y su nombre en quenya (con las vocales largas escritas geminadas en vez de usar tilde).
+Las letras en casilla gris no se utilizan en el modo español porque tienen asignado un fonema que no forma parte del inventario estándar de la lengua.
+Modo español para el Tengwar
+Una tabla de las equivalencias de las letras tengwar para el modo español:

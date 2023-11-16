@@ -1,0 +1,15 @@
+En la ciencia archivística, un fondo es la agregación de documentos que se originan en la misma fuente.
+Más específicamente, un fondo se distingue de una colección por su naturaleza orgánica, como documentos de archivo que han sido acumulados (realizados o recibidos) de forma natural por un individuo, empresa, institución, etc. como un subproducto de actividades comerciales o cotidianas.
+El término fond se originó en la práctica archivística francesa en 1841, como parte del principio de archivo fundacional de respect des fonds.
+Este concepto se distinguió de los sistemas de clasificación de archivos anteriores al decir que los archiveros deberían mantener el orden original en el que se produjo una serie de registros.
+Anteriormente, los registros se ordenaban de acuerdo con el sistema de clasificación personal del archivista, que podía basarse en cualquier criterio que el archivista querido.
+Esta nueva teoría resultó especialmente útil a raíz de la Revolución Francesa, ya que los registros prerrevolucionarios fueron confiscados de múltiples instituciones y recombinados en nuevas colecciones.
+En la práctica archivística moderna, principalmente en Europa, Gran Bretaña y América del Norte, fondo es generalmente el nivel más alto de disposición, y generalmente se utiliza para describir el conjunto de los archivos de una organización o los documentos de un individuo.
+Se puede dividir en subfondos, generalmente los registros de diferentes ramas de una organización o temas principales dentro de los documentos de un individuo.
+Estos a su vez se subdividen en series (que en un archivo más pequeño pueden aparecer directamente debajo de un fondo sin la presencia de un subfondo), generalmente utilizados para agrupaciones de tipos de documentos individuales (minutos, archivos de correspondencia, escrituras, etc.), sub-series, archivos y elementos.
+Un elemento es la unidad de archivo más pequeña, y generalmente es físicamente indivisible (un solo volumen o letra, por ejemplo).
+Es técnicamente posible agregar cualquier cantidad de subs a los fondos, series o archivos, pero en la práctica es raro que se use más de uno.
+La teoría archivística australiana reconoce el principio de respeto de los fondos, pero se centra en las series como el nivel descriptivo principal.
+No se debe confundir con el término colección, que se usa para las agregaciones de documentos ensambladas, pero no creadas por un recopilador.
+En los Estados Unidos, los archiveros todavía usan a menudo los términos "colección" y "grupo de registro" para niveles comparables de materiales de archivo.
+También se puede comparar con el término procedencia o "historia de custodia".

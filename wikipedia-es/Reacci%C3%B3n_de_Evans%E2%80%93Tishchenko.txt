@@ -1,0 +1,10 @@
+La reacción de Evans-Tishchenko es la reducción diastereoselectiva de β-hidroxicetonas a los correspondientes monoésteres 1,3-anti-diol.
+La reacción emplea un ácido de Lewis, a menudo yoduro de samario, y un aldehído.
+Fue descrito por primera vez en 1990 por David A. Evans y Amir Hoveyda, como un desarrollo de la conocida reacción de Tishchenko descubierta en 1906.
+La condensación aldólica de Tishchenko proporciona otra ruta potencial para los productos de monoéster de 1,3-diol.
+El mecanismo de reacción implica el ataque del aldehído del grupo alcohol libre.
+A continuación, el ácido de Lewis puede quelar entre los dos átomos de oxígeno para formar un estado de transición cíclico de 6 miembros.
+El hidruro, anteriormente el hidrógeno de formilo en el aldehído, se administra por vía intramolecular, lo que explica la anti-diastereoselectividad observada: el resultado es un monoéster de 1,3-anti-diol.
+El mecanismo propuesto está respaldado además por el marcaje isotópico, que demuestra que el hidrógeno de formilo es el que migra.
+El poder de esta reacción en comparación con otros métodos de generación de syn y anti-dioles, como la reducción de Narasaka-Prasad o la reducción de Evans-Saksena, es la capacidad de diferenciar entre los dos grupos hidroxilo resultantes, protegiendo de forma selectiva uno de ellos.
+Por este motivo, esta reducción ha sido ampliamente utilizada en la literatura, especialmente en la síntesis total de productos naturales.

@@ -1,0 +1,5 @@
+Un formulario es un documento, físico o digital, elaborado para que un usuario introduzca datos estructurados (nombres, apellidos, dirección, fecha, etc.) en las zonas correspondientes, para ser almacenados y procesados posteriormente.
+Esto ayuda a que diferentes instancias registren datos personales de quien los llena para posteriormente ser acreedor al servicio solicitado, siempre y cuando, los datos sean llenados correctamente.
+En Internet y sistemas informáticos, los formularios pueden ser llenados en línea, con validación de datos, y son muy útiles para registrar usuarios, realizar encuestas, acceder a sistemas restringidos, etc. Los formularios por Internet se llaman formularios web, y generalmente se construyen mediante etiquetas HTML, aunque también pueden emplearse otras tecnologías como Flash, Java, etc.
+En matemáticas, también se conoce como formulario, a un compendio de fórmulas matemáticas o algebraicas, pertenecientes a una o varias categorías, que sirve de guía o recordatorio para el momento de aplicarlas.
+Por ejemplo, para cálculos trigonométricos, conversiones entre cifras expresadas en diferentes unidades de medida.

@@ -1,0 +1,31 @@
+El término demodulación engloba el conjunto de técnicas utilizadas para recuperar la información transportada por una onda portadora, que en el extremo transmisor fue modulada con dicha información.
+En telecomunicaciones, este término es el opuesto a modulación.
+Así, en cualquier telecomunicación normalmente existirá al menos una pareja modulador-demodulador (módem), uno en cada extremo de la comunicación.
+El diseño del demodulador dependerá del tipo de modulación empleado en el extremo transmisor.
+El proceso de extracción de la información se denomina «desmodulación» o «demodulación».
+Sin embargo, la acción de extraer la información se denomina «demodular», sin ese.
+Por último, el dispositivo electrónico que permite demodular una señal se denomina «demodulador» o «detector»: modulador-demodulador (módem), detector de envolvente, etcétera.
+En los inicios de la radio, cuando todas las transmisiones eran en Código Morse, los demoduladores eran llamados detectores, ya que solamente tenían que detectar la presencia o ausencia de una onda de radio utilizando dispositivos como el cohesor, sin la necesidad de hacerla audible.
+Hay varias maneras de desmodulación dependiendo de cómo se transmiten los parámetros de la banda base de la señal, en la señal portadora, como amplitud, frecuencia o fase.
+Por ejemplo, para una señal modulada con una modulación lineal, como Amplitud Modulada (AM), se puede utilizar un detector sincrónico.
+Por otra parte, para una señal modulada con una modulación angular, como Frecuencia Modulada (FM), se puede utilizar un detector con lazo de seguimiento de fase (Phase-Locked Loop, PLL).
+Muchas técnicas, como: recuperación de portador, recuperación de reloj, deslizamiento de la broca, sincronización de marco, receptor rake, compresión de pulso, indicador de fuerza de señal de recepción, detección y corrección de errores, etcétera; son solo realizadas por demoduladores, aunque cualquier demodulador específico puede realizar solo algunas o ninguna de estas técnicas.
+Una señal AM codifica la información en la onda portadora variando su amplitud a la vez que la señal analógica para ser enviada.
+Hay dos métodos utilizados para demodular las señales de AM:
+El detector de envolvente es un método muy sencillo de desmodulación.
+Muchas sustancias naturales exhiben este comportamiento de rectificación, razón por la cual fue la primera técnica de modulación y desmodulación utilizada en la radio.
+Consta de un rectificador (cualquier cosa que pueda pasar en una sola dirección) y un filtro pasa bajo.
+El rectificador puede ser de un solo diodo, o puede ser más complejo.
+El filtro es generalmente de tipo RC pasa bajo, pero la función de filtro puede lograrse a veces apoyándose en la respuesta de frecuencia limitada del rectificador de los circuitos.
+La radio de galena explota la simplicidad de la modulación AM para producir un receptor con muy pocas piezas, con el cristal como el rectificador y la respuesta de frecuencia limitada de los auriculares como el filtro.
+El “detector de producto” multiplica la señal entrante por la señal de un oscilador local con la misma frecuencia y fase que la señal entrante del portador.
+Después de filtrar, se producirá la señal de audio original.
+Este método descifra tanto AM como SSB, pero si la fase no se puede determinar se requerirá una configuración más compleja.
+Una señal AM puede rectificarse sin necesidad de un demodulador bv coherente.
+Por ejemplo, la señal puede pasar por un detector de envolvente (un rectificador de diodo y un filtro de pasa bajo).
+La señal de salida seguirá la misma curva que la señal de entrada.
+Hay señales AM en las que la portadora se reduce o suprime totalmente.
+Estas requieren la desmodulación coherente.
+La modulación de frecuencia (FM) tiene numerosas ventajas sobre la modulación AM, como mejor fidelidad e inmunidad de ruido.
+Sin embargo, es mucho más complejo modular y demodular una onda portadora con FM.
+Hay varios tipos comunes de demodulador de FM:

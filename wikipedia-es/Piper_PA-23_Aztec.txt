@@ -1,0 +1,46 @@
+El Piper PA-23, conocido como Apache y posteriormente Aztec, fue un avión bimotor monoplano.
+Fue la primera aeronave de dos motores construida por la compañía estadounidense Piper Aircraft.
+Originalmente, el diseño fue llamado “Twin-Stinson” y fue diseñado como un monoplano con la estructura totalmente metálica, ala baja y cuatro asientos con una deriva doble.
+El primer vuelo del prototipo fue el 2 de marzo de 1952.
+El prototipo fue llamado PA-21, acomodándose a la nomenclatura numérica de Piper.
+Fue rediseñado con un único estabilizador vertical y el fuselaje trasero totalmente metálico, y fue renombrado cuando entró en producción como Apache 150 en 1954; se construyeron 1231 unidades.
+En 1958 comenzó la producción del Apache 160, aumentando de potencia de los motores a 119 kW (160 hp).
+Fueron construidos 816 ejemplares, siendo sustituidos después por el Apache 235, que tenía motores de 235 hp.
+El descenso en las ventas del PA-23 Apache propició un rediseño copiado, el PA-23-250 Aztec, con motores de 186 kW (250 hp) de la compañía Lycoming.
+Los primeros modelos fueron entregados con motores carburados O-540 de Lycoming.
+Estos primeros modelos llevaban una configuración de cinco asientos, disponible a partir de 1959.
+Los modelos posteriores del Aztec fueron equipados con motores de inyección de gasolina IO-540 y con capacidad para seis asientos, manteniéndose en producción hasta 1981.
+También hubo versiones turbo propulsadas en modelos posteriores, que permitían volar a grandes altitudes.
+Entre otros aviones ligeros con dos motores de su generación, el Aztec fue conocido por su buena carga de tracción, su gran durabilidad, su fácil manejo, rendimiento respetable de los motores, alto consumo de combustible y un fuselaje con un alto índice de resistencia.
+Parte de esta resistencia era debida al uso del diseño alar básico (aunque con dimensiones y construcción sustancialmente diferentes) como en la serie de aeronaves Piper Cub.
+El perfil alar del Piper Cub dio al Aztec mejores características de operación en campos cortos, a cambio de bajo rendimiento a velocidades de crucero.
+La Armada de los Estados Unidos, compró 20 Aztec, designados como UO-1, cambiado a U-11A cuando se unificaron las designaciones en 1962.
+El fuselaje se compone de dos secciones básicas.
+La sección anterior, que se extiende desde el punto delantero del morro a un punto situado exactamente detrás del lado más atrasado de las ventana; la estructura del fuselaje es tubular o del tipo de celosía con mamparos, perfiles en “u” y larguerillos.
+La sección posterior del fuselaje es de construcción del tipo semimonocasco.
+Cada plano alar es completamente metálico, en voladizo, de construcción tipo multilarguero, con costillas, recubierto con revestimiento resistente.
+Instalados en cada ala, exactamente detrás del larguero principal central, se encuentran dos depósitos de combustible del tipo vejiga.
+Sujetos a cada ala se encuentran el motor, alerón, flap y tren de aterrizaje.
+El empenaje consta de un estabilizador horizontal de dos piezas (móvil y fija).
+El estabilizador vertical, timón de dirección y estabilizador (móvil y fijo) incorporan dos largueros principales unidos al conjunto del mamparo posterior del fuselaje.
+Los mandos de vuelo fundamentales de los aviones de las series PA-23 son del tipo convencional, accionados por medio de pedales de dirección y volantes de mandos dobles.
+Un sistema de cables, poleas, varillas de mando y palancas acodadas, traslada el movimiento de la rueda de mando, palanca de mando y pedales de dirección a los alerones, estabilizador y timón de dirección.
+El sistema del tren de aterrizaje triciclo es de amortiguadores del tipo oleoneumático, aire-aceite, que funciona hidráulicamente y es completamente retráctil, plegándose el tren del morro hacia atrás en el interior de la sección de morro, y el tren principal hacia adelante en el interior de las góndolas del motor.
+En los modelos PA-23-235 y PA-23-250 (seis plazas), las compuertas se accionan mediante un mecanismo articulado, pero no ocultan totalmente el tren de aterrizaje cuando está plegado; en modelos superiores las compuertas son accionadas hidráulicamente y ocultan completamente el tren cuando está plegado.
+La rueda de morro puede orientarse a lo largo de un arco de 30° mediante la utilización de los pedales del timón de dirección.
+Los frenos se accionan hidráulicamente mediante cilindros principales, montados a la izquierda (opcional a la derecha) del conjunto de pedales de dirección.
+Los aviones PA-23 están dotados con dos motores Lycoming O-540 o IO-540 de seis cilindros horizontalmente opuestos, sin reductor (accionamiento directo), refrigerados por aire y proyectados para funcionar con combustible de aviación de grado de octanaje de 91/96 (mínimo).
+Las carenas encierran completamente a los motores.
+La carena, construida en voladizo, va unida al mamparo cortafuegos.
+Las persianas del capó constituyen una parte integral del capó inferior y son accionadas a través de un varillaje mecánico.
+Las hélices son Hartzell de puesta en bandera total, velocidad constante, cada una de las cuales está controlada por un regulador montado sobre el motor y alimentado por aceite a través del eje de la hélice, a varias presiones.
+El sistema de combustible está contenido en dos unidades independientes que permiten a cada motor tener su propio suministro de combustible.
+Los sistemas esta conectados únicamente por una alimentación cruzada que permitirá al combustible pasar de uno de los juegos de depósito de combustible que alimente un motor al del motor del lado opuesto, en el caso de emergencia.
+Los depósitos de combustible son del tipo flexible instalados en cavidades situadas en el interior de las alas, con una capacidad de 36 galones U.S. en los depósitos interiores (principales).
+Los depósitos exteriores (auxiliares) tienen también una capacidad de 36 galones U.S. cada uno.
+La energía eléctrica esta suministrada mediante un sistema eléctrico de masa negativa, cable eléctrico unipolar, corriente continua y tensión de 12 o 24 voltios.
+Uno o dos baterías de 12 voltios están incorporadas en el sistema para suministrar energía eléctrica durante el arranque, y como fuente de reserva, en el caso de que el generador o el alternador fallasen.
+El sistema consta de dos generadores de entre 50 y 70 amperios arrastrados por el motor.
+Una toma de corriente exterior se puede proporcionar como equipo opcional en el morro del avión, para el uso de energía eléctrica exterior durante el funcionamiento en tiempo frío.
+El flujo de aire para la calefacción y descongelación se toma a través de una entrada situada en la sección de morro del avión y es dirigida hacia el calentador Janitrol o South Winder, situado en el lado izquierdo de la sección del morro.
+Desde el calentador, el aire para la descongelación se dirige a través de salidas situadas en la cubierta del tablero de instrumentos, mientras el aire para la calefacción de cabina se suministrara a través de salidas situadas en el mamparo delantero de la cabina y rejillas situadas en el piso.

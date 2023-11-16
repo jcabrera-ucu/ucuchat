@@ -1,0 +1,7 @@
+Ricardo Adolfo Galli Granada (n. 19 de octubre de 1965), también conocido por su apodo Gallir, es profesor en la Universidad de las Islas Baleares y activista del software libre.
+Es doctor en informática por la Universidad de las Islas Baleares (UIB).
+Tras llevar a cabo un proyecto universitario para controlar el aparcamiento de las aeronaves en el aeropuerto de Palma de Mallorca en Palma de Mallorca, se afincó en la isla.
+Es miembro de la Free Software Foundation (FSF) y fue presidente del grupo de usuarios de software libre BULMA.
+En diciembre de 2005, junto a Benjamí Villoslada, crea Menéame, un sistema de promoción de noticias copia del conocido Digg, aunque con algunas diferencias.
+Menéame sirve fundamentalmente para promocionar noticias publicadas en blogs o en medios digitales, para lo que se nutre de los usuarios como único filtro, sujeto a criterios de valoración personal.
+Ricardo Galli también es autor de herramientas como cpudyn, y wp-cache.

@@ -1,0 +1,17 @@
+El 1,3,5-pentanotricarbonitrilo, conocido también como 4-cianoheptanodinitrilo o 1,3,5-tricianopentano,  es un compuesto orgánico de fórmula molecular C8H9N3.
+Es un trinitrilo en donde tres grupos funcionales C≡N se hallan unidos a los carbonos 1, 3 y 5 del pentano.
+A temperatura ambiente, el 1,3,5-pentanotricarbonitrilo se encuentra en estado sólido.
+Su punto de ebullición es 442 °C mientras que su punto de fusión —que puede llegar a los 83 °C— es un valor estimado, no experimental.
+Posee una densidad ligeramente mayor que la del agua (1,042 g/cm³), siendo relativamente soluble en esta, en proporción aproximada de 65 g/L.
+El valor del logaritmo de su coeficiente de reparto, logP = 1,73 (también cifra estimada), sugiere una menor solubilidad en disolventes polares como el agua que en octanol.
+Su tensión superficial, 48,7 ± 3,0 dina/cm, es significativamente más alta que la de otros nitrilos tales como heptanonitrilo o heptanodinitrilo, pero inferior a la del agua.
+El 1,3,5-pentanotricarbonitrilo puede ser sintetizado a partir del 2-metilenglutaronitrilo.
+Su posterior tratamiento con ácido mineral acuoso o bromuro de hidrógeno en un disolvente orgánico resulta en la ciclación de la molécula.
+Este nitrilo ha sido empleado en la adición tiol-eno en síntesis de tioles a partir de precursores de  vinilo.
+Asimismo, se ha propuesto su utilización en la fabricación del material activo del electrodo positivo en baterías secundarias de electrólitos no acuosos.
+Así, el 1,3,5-pentanotricarbonitrilo forma una película sobre la superficie del electrodo positivo durante la operación de carga-descarga inicial; usado en combinación con el material activo del electrodo positivo, evita la descomposición del electrolito sobre la superficie del electrodo positivo.
+En este sentido, se puede emplear como aditivo para baterías de litio, utilizadas como fuentes de alimentación en dispositivos electrónicos tales como videocámaras, teléfonos móviles u ordenadores portátiles.
+El 1,3,5-pentanotricarbonitrilo es un compuesto combustible que tiene un elevado punto de inflamabilidad (235 °C, siendo éste un valor estimado y no experimental).
+Es un producto tóxico si de ingiere o se inhala.
+En contacto con la piel provoca irritación, siendo esta severa si entra en contacto con los ojos.
+Los compuestos siguientes son también trinitrilos:

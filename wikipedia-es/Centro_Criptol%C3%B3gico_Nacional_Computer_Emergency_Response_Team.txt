@@ -1,0 +1,3 @@
+El Centro Criptológico Nacional Computer Emergency Response Team, también conocido por su sigla CCN–CERT, es el organismo español, creado en 2006, encargado de contribuir a la ciberseguridad de la administración pública, los organismos públicos y empresas estratégicas del país.
+CCN-CERT depende directamente del Centro Criptológico Nacional, del que toma parte de su nombre.
+El CCN-CERT presta los siguientes servicios a las administraciones públicas y empresas estratégicas españolas, si bien parte de ellos están disponibles de forma abierta en la web de la entidad:

@@ -1,0 +1,16 @@
+The Qt Company (conocida anteriormente como Qt Development Frameworks, Qt Software, Trolltech y Quasar Technologies) es una compañía de software fundada en el año 1994 en Oslo, Noruega.
+Su principal actividad es proveer herramientas y bibliotecas de desarrollo de software, así como servicio experto de consulta.
+Su producto más popular es Qt (Quasar Toolkit), una biblioteca multiplataforma para la creación de entornos gráficos.
+El escritorio KDE fue parcialmente construido con Qt.
+Qt Software fue fundada por Eirik Eng y Haavard Nord el 4 de marzo de 1994.
+Su principal equipo de diseñadores comenzó a desarrollar Qt en 1991 y desde entonces Qt ha ido expandiéndose y mejorando progresivamente.
+El 28 de enero de 2008, Nokia anunció el acuerdo a que se había llegado para adquirir Trolltech mediante una OPA amistosa.
+El coste total para Nokia ha sido de aproximadamente 104 millones de euros.
+En el ínterin, Trolltech ha aceptado esta oferta.
+El 5 de junio de 2008, se aprobó la oferta de Nokia sobre todas las acciones de Trolltech.
+El 17 de junio del mismo año, Nokia anunció que había finalizado la adquisición de Trolltech.
+El 30 de septiembre siguiente, se cambió el nombre de Trolltech por Qt Software y Qtopia pasó a llamarse Qt Extended.
+Trolltech lanzó una versión preliminar de un IDE para Qt, denominado Qt Creator, estando el lanzamiento de su versión final previsto par 2009, después del lanzamiento de Qt 4.5.
+Nokia vendió la licencia comercial de Qt a Digia en marzo de 2011.
+En septiembre de 2012, todo el remanente negocio de Qt fue transferido a Digia.
+En septiembre de 2014, Digia formó The Qt Company, una subsidiaria dedicada al gobierno y desarrollo de la plataforma Qt. En mayo de 2016, la compañía tuvo su OPV en el NASDAQ de Helsinki bajo las siglas QTCOM.

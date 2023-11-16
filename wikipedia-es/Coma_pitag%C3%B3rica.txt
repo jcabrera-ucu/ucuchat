@@ -1,0 +1,5 @@
+La coma pitagórica es un intervalo musical que resulta de la diferencia entre doce quintas perfectas y siete octavas.
+Su expresión numérica es y su magnitud es de 23,46 cents, esto es, algo menos de la cuarta parte de un semitono temperado.
+En el sistema de afinación pitagórica, que construye la escala utilizando exclusivamente quintas perfectas, el círculo de quintas no se cierra porque las doce quintas del círculo (con su correspondiente reducción de las octavas necesarias) no equivalen al unísono ni a la octava.
+Dicho de otro modo: el encadenamiento sucesivo de factores de frecuencia iguales a 3:2 (la quinta) nunca produce un valor que se pueda reducir a la relación 2:1 (la octava); ningún número es al mismo tiempo potencia de 3 y de 2, salvo la unidad, que representa el unísono.
+La quinta que se usa artificialmente para completar el círculo es una coma pitagórica menor que la quinta justa, y se conoce como quinta del lobo.

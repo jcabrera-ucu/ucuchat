@@ -1,0 +1,32 @@
+Una nota de blues o de blus (del inglés, blue note) es una nota musical utilizada para aportar la expresividad característica del blues.
+Este recurso nace de los cantos vocales tradicionales de buena parte de los estadounidenses negros de origen esclavo y en su manera de entonar, basada en una forma de atacar la nota fuera de tono (off-key),
+según el sistema temperado occidental.
+El origen de estas notas surge de la relación entre melodía y armonía en los blues.
+Sabiendo que este estilo tuvo una historia muy rica y compleja, podemos decir que, mientras la estructura armónica deriva de la tradición europea, la parte melódica tiene una fuerte raíz africana.
+Si bien, al comienzo, el acompañamiento y la estructura formal eran más bien libres o al menos no tan definidas como ahora, se han vuelto estándares con el tiempo, y la armonía de blues se basa tradicionalmente en el uso de acordes mayores en una forma de 12 compases.
+El canto ha empleado al menos desde que se tiene constancia escrita, ciertas notas que «chocan» con la armonía o el contrapunto.
+Estas notas, en el blues son la tercera menor, la quinta disminuida o cuarta aumentada (según ascienda o descienda) y la séptima menor.
+Es por esta razón que las escalas pentatónicas (antiguas, primitivas y comunes a muchas músicas) se adaptan a este estilo.
+La particularidad radica en que para esta «armonía mayor» de los blues, se emplea una escala pentatónica menor.
+De esa manera, añadiendo una cuarta aumentada, se obtiene una pentatónica menor de blues.
+Lo que es importante observar es que lo que define la «sonoridad» del blues, son estas tres notas, las blues notes, que son las que contrastan con la armonía mayor tonal.
+Hay que tener en cuenta que estas notas eran entonadas habitualmente efectuando una especie de arrastre (glissando) y que muchas veces la altura conseguida al cantar no era temperada, como ocurre en otras músicas de origen popular como el flamenco o la música árabe, pudiéndose hablar así de intervalos naturales.
+Por otro lado, el rebajar alguna nota puede dar origen a un semitono completo, como en el caso de los instrumentos de teclado, o a un deslizamiento, ya sea hacia arriba o hacia abajo, como en los instrumentos de cuerda.
+Esto puede dar como resultado un intervalo microtonal, o incluso pueden ser ambas notas.
+El empleo de los típicos acordes de séptima (según la terminología del periodo de la práctica común) no siempre fue tan claro.
+Desde el origen, en los cantos populares afroestadounidenses hay un continuo uso de configuraciones mayor/menor.
+Esta ambigüedad sugiere que al comienzo de los blues, ni siquiera había una verdadera armonía mayor.
+Con el paso del tiempo, y ya en los tiempos donde se empieza a grabar (1920) oímos mayoritariamente el empleo de acordes mayores en su acompañamiento.
+Con la influencia del jazz y por ende, de la armonía europea, comienzan a usarse acordes con séptima, y más adelante novenas, etc.
+Es justamente esa séptima (b7, VII grado alterado) la que hace ideal a este tipo de estructuras (acordes de séptima de tónica en este caso) para su acompañamiento.
+Esto provoca una suerte de modalidad en los blues como sucede en otras músicas populares o étnicas, ya que todos sus acordes pueden ser de esta especie.
+La cuestión de la escala de blues es bastante más compleja.
+Hay muchas teorías al respecto, pero se debe tener en cuenta que una escala ―en particular dentro de este estilo― surge de la relación entre palabra y melodía.
+Otro factor a tener en cuenta es que muchos de los idiomas africanos de los que se derivan los primeros cantos son lenguas tonales.
+Cuando se empezaron a emplear instrumentos para interpretar melodías de blues, las escalas que mejor se adaptaban eran las pentatónicas.
+Pero no solo la pentatónica menor (T, b3 -III grado alterado-, 4, 5, b7): existe una relación muy fuerte entre cierto tipo de blues con la pentatónica mayor (T, 2, 3, 5, 6), con otro carácter, y que se suelen encontrar en estilos como el soul o el góspel.
+Si bien las notas de blues se pueden aplicar individualmente a cada acorde, es muy habitual ―dado el carácter vocal de este estilo― usar las de la tonalidad principal (I) en toda la forma.
+Esta es la relación de las tres notas de blues (b3, b5, b7) sobre cada grado de un blues en do mayor:
+El uso de estas notas de blues, así como de las escalas que originan, no sólo se da en este estilo.
+Desde su origen, el jazz se ha servido de las notas de blues y sus escalas y, por supuesto, de otros estilos contemporáneos y posteriores como el soul, el funk, el reggae, el rock y todos sus derivados (heavy metal, hard rock, etc.).
+Es evidente que la vaguedad de ciertas notas dentro del contexto tonal, como las terceras, son también rasgos característicos de otras músicas populares y antiguas, como ocurre en la música popular europea, la música medieval, la renacentista y la música folk inglesa y en la irlandesa, donde reciben el nombre de long notes (‘notas largas’).

@@ -1,0 +1,6 @@
+La proteína S es una glucoproteina plasmática dependiente de vitamina K sintetizada en el hígado.
+En la circulación, la proteína S se encuentra en dos formas: una forma libre y una forma unida al complemento C4b.
+La deficiencia en proteína S, generalmente asociada con mutaciones en un alelo del gen PROS1, aumenta el riesgo de sufrir trombos venosos.
+Es la única proteína (glucoproteina) dependiente de la vitamina K que no es una enzima, sino que únicamente actúa como un cofactor para que la proteína C activada actúe sobre los factores V y VIII.
+Se sintetiza en las células del endotelio vascular, células de Leydig del testículo y megacariocitos.
+Su función es formar parte de los mecanismos reguladores de la coagulación, actúa como un cofactor necesario para la proteína C activada en la inactivación proteolítica de los factores pro-coagulantes Va y VIIIa.

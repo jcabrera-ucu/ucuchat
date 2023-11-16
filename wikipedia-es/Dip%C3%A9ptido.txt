@@ -1,0 +1,16 @@
+Un dipéptido es un compuesto orgánico derivado de dos aminoácidos.
+Los aminoácidos pueden ser iguales o diferentes.
+Cuando son diferentes, dos isómeros del dipéptido son posibles, dependiendo de la secuencia.
+Se aplican descripciones similares a los tripéptidos (tres residuos de aminoácidos, dos enlaces peptídicos), tetrapéptidos, etc. las cadenas más largas se llaman oligopéptido, polipéptido, proteína.
+Los dipéptidos se producen mediante el acoplamiento de aminoácidos.
+El grupo amino en un aminoácido se convierte en no nucleófilo (P en eq) y el grupo ácido carboxílico en el segundo aminoácido se desactiva como su éster metílico.
+Los dos aminoácidos modificados se combinan luego en presencia de un agente de acoplamiento, lo que facilita la formación del enlace amida:
+Después de esta reacción de acoplamiento, el grupo protector de amina P y el éster se convierten en la amina libre y el ácido carboxílico, respectivamente.
+Para muchos aminoácidos, los grupos funcionales auxiliares están protegidos.
+La condensación de la amina y el ácido carboxílico para formar el enlace peptídico generalmente emplea agentes de acoplamiento para activar el ácido carboxílico.
+La síntesis del péptido azlactona de Bergmann es una síntesis orgánica clásica para la preparación de dipéptidos.
+Los dipéptidos se producen a partir de polipéptidos por la acción de la enzima hidrolasa dipeptidil peptidasa.
+Las proteínas dietéticas se digieren a dipéptidos y aminoácidos, y los dipéptidos se absorben más rápidamente que los aminoácidos, debido a que su captación implica un mecanismo separado.
+Los dipéptidos activan las células G que se encuentran en el estómago para secretar gastrina.
+En este uso, X dipéptido se toma literalmente: un aminoácido X está equipado con dos enlaces peptídicos mínimos: el extremo terminal  se convierte en, el extremo  terminal  se convierte en.
+Por ejemplo, dipéptido alanina es.

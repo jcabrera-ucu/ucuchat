@@ -1,0 +1,70 @@
+Conformado de tráfico (en inglés traffic shaping o packet shaping), es un mecanismo de control del tráfico inyectado a la red.
+Su objetivo es evitar una posible sobrecarga en redes mal dimensionadas, con altas ráfagas de tráfico inyectado.
+Usualmente también se suele aplicar en casos en el que el operador de la red quiera aplicar una política de ancho de banda de tendencia conservadora, con el fin de maximizar los usuarios y el beneficio a plazos máximos, con una mínima inversión en planificación y desarrollo.
+En redes IP con calidad de servicio (quality of service, QoS), es necesario especificar el perfil de tráfico en una conexión para decidir cómo asignar los distintos recursos de la red.
+El conformado del tráfico asegura que el tráfico entrante en un extremo o en un nodo central se adhiere al citado perfil.
+Típicamente este mecanismo se usa para reducir las grandes ráfagas de tráfico entrantes.
+Esto implica la toma de decisión entre el beneficio que puede dar el conformado y el retardo que forma.
+El conformado de tráfico puede ser empleado en ATM, por ejemplo, para reducir la velocidad pico o para limitar la longitud de la ráfaga por medio del espaciado adecuado de las celdas en el tiempo.
+El uso y ubicación de esta función es específica de la red.
+De este modo se alcanza una mejor eficiencia en la red mientras se mantienen los objetivos de QoS o se asegura que el flujo de celdas sea conforme con los parámetros de tráfico de acuerdo con la configuración del algoritmo leaky bucket del contrato de tráfico.
+Los objetivos de este mecanismo surgen a raíz del control de admisión (CAC), el cual determina si una petición de conexión puede ser llevada a cabo por la red o no es posible.
+Las principales consideraciones tras esta decisión son la carga del tráfico actual, la QoS que se puede lograr, el perfil de tráfico pedido, la QoS solicitada, el precio y otras consideraciones de política.
+Para QoS sobre IP, esta técnica podría aplicarse en la escena de intercambio de flujos en RSVP o en los caminos de MPLS.
+Se trata pues de la aplicación de una política de calidad de servicio que requiere una inyección de tráfico lo más constante y eficiente posible.
+Se buscará, mediante el conformado de tráfico, optimizar o garantizar el rendimiento de la red, mejorar la latencia (lo que afectará al retardo), asignar el ancho de banda y los retardos basados en la diferenciación de paquetes en función de ciertos criterios a establecer.
+El conformado de tráfico se suele aplicar en los bordes de red para controlar el tráfico de toda la red, pero también puede aplicarse en la fuente que genera dicho tráfico (por ejemplo, en la tarjeta de red).
+Al aplicarse en la fuente del tráfico vertido permite además asegurar que cumple con los filtros de control de la red.
+Este mecanismo también gestionará, en cierto modo, la entrada de tráfico al buffer (tanto de salida como de entrada a la red) pues será quien le entregue los paquetes.
+El uso de diferentes asignaciones de ancho banda en función de determinada diferenciación de paquetes está relacionado con la gestión de buffer para que este no alcance determinado nivel de contención (desbordamiento del buffer), imponiendo retardos adicionales a ciertos paquetes.
+Aunque existen diferentes técnicas, la más empleada es la aplicación de retardos a determinados paquetes.
+El conformado de tráfico trata de controlar el tráfico vertido a la red en un periodo específico, a la tasa máxima que puede ser enviado o mediante algoritmos más complejos como GCRA.
+Es habitual el uso de conformado de tráfico en ingeniería de tráfico y aparece en redes domésticas de los ISP.
+El mecanismo de conformado de tráfico funciona retrasando el tráfico medido de tal manera que cada paquete cumpla con la configuración de tráfico asignada.
+Esta medición puede ser implementada con algoritmos como leaky bucket o token bucket, como se expone más adelante.
+Medidos los paquetes, serán almacenados en la cola FIFO por separado hasta que se resuelva el filtrado de control y puedan asegurarse los requisitos que tal paquete requiere.
+Esto puede suceder inmediatamente, transcurrido cierto tiempo (retardo) o nunca (descarte), este último caso tiene que ver con el hecho de trabajar con buffers de capacidad limitada y su desbordamiento.
+Existen varias opciones para la gestión en los casos de desbordamiento de buffer, desde los más simples como Tail Drop, el cual al llenarse el buffer desecha todos los paquetes entrantes hasta disponer del espacio suficiente a medida que se vacía.
+Tail Drop se hace incompatible con servicios diferenciados o algoritmos aleatorios como RED( Random Early Discard).
+En cuanto a conformado de tráfico se expone el algoritmo de conformado genérico (Generic traffic Shaping o GTS) propuesto por Cisco y la aplicación del conformado del tráfico en IP ATM y Frame Relay.
+GTS es un mecanismo de control del flujo del tráfico en una interfaz determinada.
+Reduce la circulación de salida para evitar la congestión obligando a determinado tráfico a una tasa de bit particular mientras se encolan las ráfagas del tal tráfico.
+GTS se aplica sobre cada base de la interfaz pudiendo usar las listas de acceso para seleccionar el tráfico para formar y trabajar con una variedad de tecnologías de capa 2, entre las que se incluyen Frame Relay, ATM, SMDS y Ethernet.
+Frame Relay Traffic Shaping (FRTS) proporciona parámetros útiles para la gestión de la congestión.
+Las características de FRTS sobre Frame Relay hacen que éste soporte capacidades adicionales que mejoren la escalabilidad y actuación de estas redes, aumentando el número de circuitos virtuales y mejorando el tiempo de respuesta.
+Permite configurar los valores de la tasa de tráfico, el CIR u otro valor, así como la prioridad y el encolamiento, dando un mayor control sobre el flujo de tráfico en cada circuito virtual individual.
+FRTS puede eliminar los cuellos de botella en las redes frame relay con conexiones de gran velocidad en los puntos centrales y conexiones de baja velocidad en los extremos.
+El administrador podría configurar la tasa de tráfico entre los distintos puntos de la red.
+Token bucket es un algoritmo usado para controlar la cantidad de datos inyectados a la red, permitiendo el envío de ráfagas de estos.
+Aunque tiene varios usos, se entiende mejor en el contexto de conformado de tráfico.
+Se suele asociar con el término leaky bucket pese a que son utilizados para propósitos diferentes.
+Estos difieren principalmente en que el leaky bucket impone una dura limitación en la tasa de transmisión mientras que token bucket permite una cierta cantidad de explosividad a la vez que establece un límite en la velocidad en la transmisión.
+Token bucket es un mecanismo de control que dicta cuando se puede transmitir el tráfico basándose en la presencia de tokens en una cubeta (un contenedor abstracto que mantiene agregado tráfico de red listo para ser transmitido).
+La cubeta contiene tokens, los cuales representan una unidad de bytes o un solo paquete de un tamaño determinado.
+Los tokens en la cubeta se retiran permitiendo enviar un paquete.
+El ingeniero de tráfico de la red especifica cuantos tokens son necesarios para el envío de un número determinado de bytes.
+Cuando los tokens están disponibles, se permite al flujo la transmisión de tráfico.
+Si no hay tokens en la cubeta, el flujo no puede transmitir esos paquetes.
+Por lo tanto, un flujo puede transmitir tráfico a su velocidad de pico si se encuentran el número adecuado de tokens en la cubeta y se configura adecuadamente el límite para las ráfagas.
+Se puede entender conceptualmente el algoritmo de la siguiente manera:
+Los implementadores de este algoritmo en plataformas que carecen de la resolución de reloj necesaria para añadir un bucket cada 1/r segundos pueden considerar una formulación alternativa.
+Teniendo la habilidad de actualizar la cubeta de tokens cada S milisegundos, el número de tokens a añadir cada este tiempo es de (r*S)/1000.
+Los paquetes no conformes se pueden tratar de diferentes maneras:
+La salida de los paquetes conformes está limitada por la tasa de tokens r.
+Permitiendo M como la velocidad máxima de transmisión en bytes/segundo, el tiempo máximo de ráfaga, donde se utiliza la velocidad M, es:
+El tamaño máximo de ráfaga, por lo tanto, es:
+Leaky bucket es un algoritmo usado en redes conmutadas de paquetes y en redes de telecomunicaciones para comprobar que la transmisión de datos está conforme con lo definido en los límites de ancho de banda o en la explosividad (una medida de la desigualdad o las variaciones en el flujo de tráfico).
+El algoritmo leaky bucket se basa en la analogía de una cubeta con un agujero en la parte inferior a través del cual el agua que contiene gotea a una tasa constante a menos que esté vacío.
+El agua se puede añadir intermitentemente, es decir, en ráfagas, pero si se añade mucha agua de una vez o a una tasa demasiado elevada, el agua excede la capacidad de la cubeta produciendo un desborde de la misma.
+Actualmente hay dos métodos diferentes de aplicar esta analogía.
+Estos dan lo que parecen ser dos algoritmos diferentes, conocidos ambos como leaky bucket.
+Se ha producido confusión acerca del concepto del algoritmo y cuáles son sus propiedades.
+En una versión, la analogía de la cubeta se corresponde con un contador o variable, separado del flujo de tráfico, y que se usa solo para comprobar que el tráfico está conforme a los límites establecidos.
+Por lo tanto, siguiendo la analogía, el agua es traída a la cubeta por el tráfico y añadida de tal manera que esté conforme a los límites de velocidad y explosividad.
+Esta versión se conoce como leaky bucket como metro.
+Esta versión es equivalente al algoritmo de token bucket y tiene en cuenta los mismos parámetros para ver si el tráfico es conforme o no-conforme.
+En la segunda versión, el tráfico pasa a través de una cola, la cual es la análoga de la cubeta, y por lo tanto, el tráfico es el análogo del agua pasando a través de la cubeta.
+Esta versión se conoce como leaky bucket como cola y se trata de un caso especial del algoritmo de leaky bucket como metro.
+Para satisfacer los requisitos de QoS (calidad de servicio) los nodos necesitan aplicar mecanismos de prioridad (asignando cierto retardo en función del tipo de tráfico como vimos anteriormente) y gestión(como son los mecanismos GPS, WRR WFQ o CBQ).
+Los operadores de red distinguen entre diferentes tipos de tráfico, denominados clases.
+Las clases definidas son:

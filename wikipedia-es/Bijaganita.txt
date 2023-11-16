@@ -1,0 +1,8 @@
+El Bijaganita (IAST: Bījagaṇita) es un tratado de álgebra escrito por el matemático indio Bhaskara II.
+Es el segundo volumen de su obra principal, Siddhānta Shiromani, que en sánscrito significa "Corona de tratados", junto con el Lilāvati, el Grahaganita y el Golādhyāya.
+El libro está dividido en seis partes, principalmente ecuaciones indeterminadas, ecuaciones cuadráticas, ecuaciones simples, y surds (problemas sobre raíces o sumas de raíces).
+Los contenidos son:
+En el Bijaganita, Bhāskara II refinó la forma de generalización de Jayadeva del enfoque de Brahmagupta para resolver ecuaciones cuadráticas indeterminadas, incluida la ecuación de Pell que se conoce como método chakravala o método cíclico.
+El Bijaganita es el primer texto que reconoce que un número positivo tiene dos raíces cuadradas
+Las traducciones o ediciones del Bijaganita al inglés incluyen:
+Dos notables eruditos de Varanasi, Sudhakar Dvivedi y Bapudeva Sastri estudiaron el Bijaganita en el siglo XIX.

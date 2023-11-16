@@ -1,0 +1,12 @@
+La resonancia Schumann es un conjunto de picos en la banda de ELF (extremely low frequencies: ‘frecuencia extremadamente baja’) del espectro electromagnético de la Tierra.
+Este fenómeno sucede porque el espacio entre la superficie terrestre y la ionosfera (que existe entre los 90 y los 500 km de altura) actúa como una guía de onda.
+Las limitadas dimensiones terrestres provocan que esta guía de onda actúe como cavidad resonante para las ondas electromagnéticas en la banda ELF.
+La cavidad es excitada de manera natural por los relámpagos, y también, dado que su séptimo sobretono (armónico) se ubica aproximadamente en 60 Hz, también influyen las redes de transmisión eléctrica en los territorios en donde se emplea corriente alterna en esa frecuencia.
+La frecuencia más baja, y al mismo tiempo la intensidad más alta, de la resonancia de Schumann se sitúa en aproximadamente 7,83 Hz. Los sobretonos detectables se extienden hasta el rango de los kHz (kilohercios).
+Este fenómeno se llama así en honor de Winfried Otto Schumann (1888-1974), que predijo matemáticamente su existencia en 1952, a pesar de ser observada por primera vez por Nikola Tesla y formar la base de su esquema para transmisión de energía y comunicaciones inalámbricas.
+La primera representación espectral de este fenómeno fue preparado por Balser y Wagner en 1960.
+En algunos sitios de internet y libros,  realizan afirmaciones no científicas, asociando dichas ondas con las ondas alfa, y adjudicándoles un papel en los procesos biológicos.
+Entre los errores de estas publicaciones se encuentran los siguientes:
+En 2008, el científico y escritor estadounidense Gregg Braden afirmó que desde 1980 las resonancias Schumann habían aumentado desde 7,8 Hz a 12,0 Hz. El creador del bulo afirmó también ―mediante una regla de tres inversa (si 8 Hz correspondían a una rotación de la Tierra de 24 horas, entonces 12 Hz correspondían a una rotación de la Tierra de 16 horas)― que el planeta Tierra estaba girando más rápido:
+En noviembre de 2013, varios periódicos de papel y sitios de Internet difundieron el mismo bulo traducido al español.
+La resonancia de Schumann juega una parte significativa como explicación de la telecomunicación en el anime Serial Experiments Lain, así como en la armonía entre el campo magnético terrestre y el campo magnético humano en la serie Earth Girl Arjuna.

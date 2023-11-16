@@ -1,0 +1,165 @@
+La filosofía de la física se refiere al conjunto de reflexiones filosóficas sobre la interpretación, epistemología y principios rectores de las teorías físicas y la naturaleza de la realidad.
+Aunque raramente la exposición estándar de las teorías físicas discute los aspectos filosóficos, lo cierto es que las concepciones filosóficas de los científicos han tenido un papel destacado en el desarrollo de dichas teorías.
+Esto fue notorio a partir de Newton y Kant, llegando a ser muy importante en el, cuando la teoría de la relatividad dio lugar a un análisis minucioso de asuntos tradicionalmente objeto de estudio de la filosofía, como la naturaleza del tiempo y el espacio.
+La filosofía de la física contribuye a través de la crítica de los productos de la física, retroalimentándola.
+En muchos aspectos, la física proviene de la filosofía griega.
+Desde el primer intento de Tales de caracterizar la materia, hasta la deducción de Demócrito de que la materia debería reducirse a un estado invariable, la astronomía ptolemaica de un firmamento cristalino, y el libro de Aristóteles Física (un libro temprano de física, que intentaba analizar y definir el movimiento desde un punto de vista filosófico), varios filósofos griegos avanzaron sus propias teorías de la naturaleza.
+La física se conoció como filosofía natural hasta finales del.
+Para el, la física se realizó como una disciplina distinta de la filosofía y de las demás ciencias.
+La física, al igual que el resto de la ciencia, se apoya en la filosofía de la ciencia y en su «método científico» para avanzar en el conocimiento del mundo físico.
+El método científico emplea el razonamiento a priori así como el razonamiento a posteriori y el uso de la Inferencia bayesiana para medir la validez de una teoría determinada.
+El desarrollo de la física ha respondido a muchas preguntas de los primeros filósofos, pero también ha planteado nuevas preguntas.
+El estudio de las cuestiones filosóficas que rodean a la física, la filosofía de la física, implica cuestiones como la naturaleza del espacio y del tiempo, el determinismo y las perspectivas metafísicas como el empirismo, el naturalismo y el realismo.
+Muchos físicos han escrito sobre las implicaciones filosóficas de su trabajo, por ejemplo Laplace, que defendió el determinismo causal, y Schrödinger, que escribió sobre la mecánica cuántica.
+El físico matemático Roger Penrose había sido llamado platonista por Stephen Hawking,, una opinión que Penrose discute en su libro, El camino a la realidad.
+Hawking se refirió a sí mismo como un «reduccionista desvergonzado» y discrepó de las opiniones de Penrose.
+En el intento humano de comprender la realidad han existido tres enfoques de aproximación para tratar de entender el desarrollo de los acontecimientos físicos:
+Los dos últimos enfoques asumen que existen relaciones recurrentes, intemporales y universales en la forma en que acontecen los hechos físicos, que son formulables en forma de proposiciones lógicas, llamadas leyes universales o leyes físicas (a diferencia de las interpretaciones místico-religiosas, donde existe arbitrariedad en la relación de unos hechos y otros).
+La física y la ciencia, en general, son intentos de descubrir las leyes que gobiernan el universo, basándose en acontecimientos conocidos, para entender el pasado y pronosticar el comportamiento futuro de la naturaleza.
+Los filósofos de la ciencia están interesados en cuestiones tales como la naturaleza de las teorías científicas y su relación con el mundo físico, la manera en que las teorías explican los fenómenos del mundo, la base evidencial e inferencial de estas teorías y la forma en que esa evidencia puede ser utilizada para respaldar justificadamente o desalentar la creencia en una hipótesis.
+El edificio de la ciencia se basa en el conocimiento adquirido vía observación y experimentación, para pronosticar con la ayuda del razonamiento deductivo, el comportamiento futuro de la naturaleza.
+La manera en que los científicos investigan y desarrollan sus teorías se asientan en ciertos supuestos filosóficos comúnmente asumidos:
+Entre las cuestiones de las que se ha ocupado la filosofía de la física están:
+Los filósofos de la naturaleza de la antigua Grecia no pretendían dar una explicación detallada de los mecanismos que rigen el comportamiento de la Naturaleza, y mucho menos aspiraban a lograr predicciones cuantitativas de resultados experimentales.
+Por el contrario, buscaban analogías de los fenómenos naturales en términos más familiares, para lo que usaban frecuentemente el cuerpo del hombre, las relaciones humanas, los conflictos sociales, etc. Así, el magnetismo se podía describir como similar a la atracción que determinadas personas son capaces de ejercer sobre otras en virtud de una simpatía innata y que no todos poseen.
+Los conceptos de atracción y repulsión eran centrales en la ciencia pre-aristotélica, al ser tomados como agentes fundamentales de cambios en la Naturaleza.
+La distinción entre materia, sujeto paciente de los cambios, y fuerzas, agentes de los mismos, ya es un hecho en la antigua ciencia griega hacia el a. C.
+Se establecían cuatro tipos de causas de cambios, de las cuales, la causa eficiente se tomaba como fuente primaria de todo cambio, y representaba lo más parecido a lo que hoy llamamos acción o fuerza en un movimiento.
+La Física de Aristóteles (384-322 a. C.) está dedicada fundamentalmente al estudio de las causas eficientes y su relación con el movimiento.
+Se desarrolla sobre la base de cuatro principios:
+El filósofo francés Descartes (1596-1650), comienza con una intrepidez sin límites, al crear todo un sistema del mundo en el que la materia se identificaba con el espacio, y no había lugar para el vacío.
+Así por el ejemplo el movimiento planetario alrededor del Sol se suponía que se debía a vórtices de partículas que giraban alrededor del Sol, aunque el sistema cartesiano no trataba de explicar los detalles.
+La ley fundamental del sistema de Descartes es la conservación del movimiento.
+Dios infundió al Universo cierta cantidad de movimiento, que continúa inalterado.
+Para Descartes "movimiento" es momento (mv), prescindiendo del carácter direccional de la velocidad.
+Puede haber transferencia de movimiento entre partículas que chocan, pero nunca puede ser creado ni destruido.
+Esto es un claro antecedente de la primera ley de Newton, aunque existían diferencias de detalle importantes.
+La causalidad física se reduce a un principio puramente mecánico: todo cambio es movimiento y toda alteración del movimiento se debe al contacto entre los cuerpos.
+Para Descartes la cuestión clave de la física, que nunca se había planteado hasta entonces, estribaba en las leyes de los choques entre los cuerpos, que él mismo formuló.
+La física newtoniana tomaba como punto de partida un universo constituido por corpúsculos extensos y por espacio vacío.
+Cada uno de estos corpúsculos tenía la posibilidad de interactuar por contacto y también a distancia, ejerciendo fuerzas gravitatorias proporcionales a su masa e instantáneamente sobre los demás.
+Con este esquema básico, Newton desarrolló sus conocidas teorías sobre el movimiento y sobre la gravitación publicadas en 1686.
+En los Principia mathematica de I. Newton (1642-1727) se describe cómo las fuerzas producen movimiento:
+La visión newtoniana del universo se completaba con la ley de la gravitación universal que describe la naturaleza de las fuerzas gravitatorias asociadas con los corpúsculos materiales.
+En esa teoría dichas fuerzas son siempre fuerzas atractivas y centrales, es decir, actúan según la recta que determinan sus respectivos centros.
+Newton estableció la variación cuantitativa de esta fuerza: resultaba ser directamente proporcional al producto de sus masas, e inversamente proporcional al cuadrado de la distancia que separa los centros de masa de los cuerpos.
+Newton verificó que aplicando esta ley, podía calcular el movimiento de los planetas con gran aproximación y también, deducir correctamente las leyes descubiertas por Kepler (1571-1630) y Galileo (1564-1642).
+La teoría de Newton era sorprendentemente superior, en la predicción de nuevos resultados, a cualquier teoría precedente en la historia del pensamiento humano.
+La ley del inverso del cuadrado de la distancia está en perfecta consonancia con la metafísica de Newton porque tiene interpretación geométrica y parece seguirse del carácter mismo del espacio.
+Imaginemos una fuente luminosa de intensidad constante, o una fuente de la que brota agua en todas las direcciones, o una fuente de calor en un sólido uniforme.
+Imagínense dos esferas, una mayor que otra, concéntricas con la fuente.
+La luz, el agua y el calor se difundirán como se sigue de la geometría de las esferas, con una intensidad decreciente según la ley del inverso del cuadrado de la distancia.
+La teoría newtoniana de la acción a distancia no involucra al medio y supone la existencia de corpúsculos, espacio vacío, fuerzas centrales actuando a distancia e interacción instantánea.
+Aunque, dentro del esquema newtoniano la ley de gravitación resultaba absolutamente coherente, hay que resaltar que para el propio Newton era ya patente la dificultad de su adaptación a otro tipo de interacción.
+No predecía nada sobre otros muchos modos de acción de un cuerpo sobre otro.
+No explicaba explícitamente, por ejemplo, la cohesión, fuerza que mantiene unidos a los cuerpos, ni tampoco las fuerzas eléctricas, magnéticas, ni multitud de procesos físico-químicos.
+Se confiaba que este modelo sirviera de base para el estudio de otros fenómenos, como la electricidad.
+Gottfried Leibniz (1646-1716) se replanteó el modelo de Descartes para los choques de partículas en varios aspectos fundamentales, por ejemplo, para explicar la impenetrabilidad de los cuerpos.
+Si los cuerpos son objetos meramente geométricos, ¿por qué no se atraviesan, como podemos imaginar que sucede con los objetos geométricos?
+La pregunta no tenía solución dentro del sistema de Descartes.
+Para contestarla era necesario considerar junto con la extensión, la fuerza como otra propiedad esencial de la materia.
+La fuerza debería ser repulsiva para resistir la penetración.
+Leibniz arguye además que hay que asignar fuerzas a todos los puntos de la materia, y no solo a partículas de tamaño finito.
+Esta nueva concepción del espacio como un continuo de puntos materiales con fuerza asociada, encontró fuerte oposición por parte de los partidarios de la física newtoniana basada como ya se ha indicado en corpúsculos, vacío y acción a distancia.
+En el, la filosofía del espacio y el tiempo se convirtió en una cuestión central de la metafísica y la epistemología.
+La discusión alcanzó un punto culminante en el importante debate entre G. Leibniz, el gran filósofo y matemático alemán, y Newton, el gran físico y matemático inglés.
+En su debate se perfilaron dos teorías contrarias acerca del lugar del espacio y el tiempo en el mundo, y muchas de las cuestiones fundamentales que en los años posteriores ocuparon a los filósofos interesados en el espacio y el tiempo recibieron su formulación más clara.
+La idea sencilla de Leibniz es que el tiempo es justamente la colección de todas las relaciones temporales de esa índole entre los sucesos.
+Si no hubiera sucesos, no habría relaciones, de manera que el tiempo en el sentido indicado carece de una existencia independiente de los sucesos en él.
+Pero las relaciones entre los sucesos son una componente real en el mundo, así, sería erróneo decir que no hay en absoluto una tal cosa llamada el tiempo.
+El oponente de Leibniz, el gran físico Newton, fue un antirrelacionista.
+Newton considera al espacio y al tiempo como más que meras relaciones espaciales y temporales entre los objetos y los sucesos materiales.
+Qué era exactamente este algo más, no podía decirlo con seguridad.
+Considera que es algo similar a la sustancia, pero en ocasiones prefiere pensar que es un atributo o propiedad, de hecho una propiedad de Dios.
+Aunque aporta algunos argumentos puramente filosóficos en contra del relacionismo leibniziano, Newton es famoso principalmente por sostener que los resultados de la observación y del experimento pueden refutar de manera concluyente la doctrina relacionista.
+Tanto Boscovich (1711-1787) como Kant (1724-1804) intentaron sintetizar las suposiciones básicas de Newton y Leibniz, para unir la contundente ciencia de Newton con la persuasiva metafísica de Leibniz.
+Ambos abandonaron la idea de que el mundo está lleno, que es un campo de materia o de fuerzas.
+Sin embargo, fue a través de su influencia como Faraday (1791-1867) llegó a establecer su teoría de los campos de fuerzas.
+El espacio está constituido por una parte vacía y fuerzas de diferente índole.
+Las fuerzas repulsivas ocupan regiones del espacio, donde actúan sobre puntos contiguos; en cambio, no actúan a distancia.
+Las fuerzas atractivas, por el contrario, se ejercen a distancia y no ocupan el espacio a través del cual actúan.
+Un cuerpo material es una región continua del espacio con fuerzas repulsivas en cada punto y bordeado por el vacío, con lo que el cuerpo tiende a expandirse.
+Pero los mismos puntos llevan asociados fuerzas atractivas que actúan a distancia.
+La estabilidad observada, y la misma densidad, se explicaban como resultado del balance: repulsión por contacto, atracción a distancia y era propio de cada objeto.
+En tiempos recientes, se ha revalorizado el papel de la filosofía de la física, debido al más minucioso análisis que los fundamentos de la física.
+La filosofía de la física se ha ocupado en concreto de la naturaleza del tiempo y el espacio, contribuyendo a través de la crítica racional de los productos de la física.
+La filosofía de la física pretende interpretar al universo desde el punto de vista del espacio, el tiempo, la materia, el movimiento y las fuerzas.
+A través de la historia, hemos visto que el concepto de universo, ha pasado de una interpretación mítica o mágica, a una de forma racional.
+Durante su desarrollo histórico, la física se ha movido entre dos actitudes contrapuestas:
+La primera interpretación del universo racional, la hicieron los griegos en el con la propuesta de la geometría euclídea.
+Y desarrollaron alrededor de esta, una serie de teorías especulativas de gran valor.
+Algunos filósofos griegos sugirieron que la materia está compuesta de minúsculos elementos básicos indivisibles, llamados "átomos", que la tierra es esférica, y que gira junto con el resto de los planetas alrededor del sol.
+Muchos de estos postulados, fueron comprobados ingeniosamente por los científicos de la época.
+Aunque el pensamiento científico griego se encaminaba hacia la experimentación y el análisis.
+En Occidente, tras la caída del Imperio Romano, y el dominio absoluto del cristianismo durante siglos, la crítica intelectual estuvo restringida y sujeta a la supervisión de la autoridad religiosa.
+Durante este tiempo la superstición basada en el cierre de numerosas escuelas de pensamiento consideradas paganas, y el fanatismo religioso existente, se movió hacia el extremo de la auto seguridad en sus propios postulados.
+No había necesidad de alterar nada.
+La verdad revelada por los textos sagrados, era la única verdad ampliamente aceptada.
+En Oriente Medio y el norte de África, al no existir una autoridad religiosa centralizada, existió especialmente a partir del una actitud más favorable a las ideas de los filósofos griegos, y existieron desarrollos intelectuales originales tanto en las matemáticas, la astronomía y en menor grado la física.
+En occidente, a partir del, algunos intelectuales europeos retoman con mayor interés ideas de pensadores griegos (en parte por la reelaboración que hicieron los árabes de algunas de estas ideas).
+Y así un conjunto de intelectuales europeos y sus ideas científicas acabarían alterando la cultura universal, de manera trascendente:
+Todas estas ideas serían mayoritariamente aceptadas a finales del y constituirían el núcleo filosófico de que lo que se conoce como "teoría clásica de la física".
+Al final del, el mundo científico estaba sumamente complacido consigo mismo.
+Todo parecía estar descubierto.
+Las leyes de la naturaleza encuadraban perfectamente con el pronóstico de las teorías de la física.
+Era un tiempo de completa seguridad en el quehacer científico.
+Este enfoque resultó muy atractivo, porque por primera vez se ofrecía una conceptualización científica de las cosas, y del Universo, que podía ser comprendida en términos intuitivos y que permitía hacer deducciones lógicamente consistentes.
+Lo mismo sucede con los demás parámetros relativos a las fuerzas, velocidad, aceleración y la gravedad.
+Desde el punto de vista filosófico, esta concepción clásica, es una visión mecanicista.
+Las fuerzas y trayectorias de los cuerpos son medibles y predecibles.
+Si conocemos el estado actual de todas las partículas de materia, su posición y su velocidad, así como el de las fuerzas que las interactúan, entonces podremos predecir el comportamiento futuro del universo.
+Los supuestos básicos de esta teoría clásica, son los siguientes:
+A pesar de que como se mencionó anteriormente, la propuesta euclídeo-newtoniana de universo es sencilla, elegante y no requiere matemáticas complicadas para interpretarla, al final del, comienzan a aparecer algunos aspectos filosóficos sobre las mismas, que inquietan a los pensadores de la época:
+Pero si el concepto del espacio intranquilizaba a los pensadores, el concepto de tiempo era aún más enigmático.
+¿Qué pasaría con el tiempo si las fuerzas y los movimientos se congelaran por un instante?
+Tengamos en cuenta que sin movimiento no tenemos noción del paso del tiempo.
+Recordemos también que en el, la filosofía del espacio y del tiempo, fue un asunto primordial para la metafísica y epistemología de la época.
+Las discusiones llegaron a un punto álgido, en el debate entre G.W. Von Leibniz e Isaac Newton ahí se perfilaron dos teorías contrarias acerca del lugar del espacio y del tiempo en el mundo y muchas de las cuestiones fundamentales que en los años posteriores ocuparon a los filósofos interesados en el espacio y el tiempo.
+Leibniz ofreció una descripción del espacio y del tiempo que por fin presentaba un claro entendimiento de cómo la teoría podía, al estilo aristotélico, negar al espacio y al tiempo un tipo de ser independiente sobre y por encima del ser de las cosas materiales ordinarias y de los acontecimientos materiales.
+En la filosofía de Leibniz, su verdadera metafísica, se niega la existencia de la materia, así como la del espacio y el tiempo, el tiempo es la secuencia de la relación entre los eventos.
+Cuando no hay eventos, no existe esa relación y tampoco existe el tiempo.
+El tiempo no tiene existencia propia independiente de los eventos.
+Por otra parte, si observamos los objetos en un momento determinado, veremos que existen distancias entre ellos, y la colección de estas distancias en el universo forman el espacio.
+El espacio entonces, según Leibniz, no contiene a los objetos, sino que éstos con su existencia, crean el espacio.
+Por otra parte, el gran físico Isaac Newton considera al espacio y al tiempo como algo más que meras relaciones espaciales y temporales entre los objetos y sucesos materiales; sostenía que el espacio tenía características substanciales (Éter), y que el movimiento de los cuerpos está definido por su velocidad.
+Y esta es un parámetro absoluto, que depende de la posición con el resto de los cuerpos.
+La aceleración de un cuerpo es relativa a un punto de referencia, y no al mismo cuerpo en movimiento.
+Los primeros cuestionamientos serios a la noción clásica de espacio y tiempo proceden del electromagnetismo.
+De las ecuaciones de Maxwell (1831-1879) se deduce que una onda electromagnética o rayo de luz se propaga a una velocidad constante.
+Sin embargo, clásicamente uno esperaría que la velocidad de la luz dependiera de la velocidad del observador.
+Inicialmente se conjeturó que la velocidad constante que aparecía en las ecuaciones se referiría a un sistema inercial privilegiado solidario con el éter un fluido sutil e inmóvil que llenaría todo el universo.
+Sin embargo, el experimento de Michelson-Morley que trataría de demostrar el movimiento de la tierra respecto al éter fracasó.
+Esto abrió un debate importante en el seno de la mecánica clásica y numerosos autores buscaron esquemas y teorías alternativas que en ciertos aspectos anticipaban la teoría de la relatividad especial.
+En 1881, dos físicos norteamericanos, Michelson (1852-1931) y Morley (1838-1923), realizaron un experimento trascendental en la ciudad de Cleveland (Ohio).
+Midieron la velocidad de un rayo de luz, en la dirección del movimiento de la tierra alrededor del sol, y en el sentido contrario.
+También lo hicieron en diferentes direcciones.
+El resultado de las mediciones arrojó un resultado inesperado.
+La velocidad del rayo de luz era siempre la misma (298.085 km/s), independientemente de que la fuente y el observador se moviesen, en una u otra dirección.
+Esto demostraba que: O era la tierra el centro del universo, o que las teorías clásicas eran falsas.
+Sin saberlo, con ese experimento Michelson y Morley, sacaban un naipe del castillo de barajas que los científicos habían construido por más de 2.000 años.
+Y todo se venía abajo.
+Las tesis clásicas del movimiento no coincidían con la realidad.
+Se optó por la teoría corpuscular de la luz, para justificar el empuje que daba la fuente en movimiento, a los rayos de luz.
+También se propuso que la tierra al moverse arrastraba tras de sí al éter, que la rodeaba, de manera que parecería que el experimento se realizaba en un estado de inamovilidad.
+Todas esas explicaciones resultaron falsas.
+No quedaba alternativa, la realidad discrepaba con la teoría fundamental del movimiento de los cuerpos, tal y como se concebía en la física clásica.
+Fue en 1905, cuando la brillante propuesta de Albert Einstein (1879-1955), resolvió el enigma: La luz se mueve a velocidad constante, independientemente de la velocidad del observador.
+Si un observador viaja a partir de un punto A, en la dirección de un rayo de luz, a una velocidad de 100,000 km/s, y mide la velocidad del rayo, esta medición arrojará una velocidad de 298,085 km/s y no 198,085 km/s, como habría de esperarse.
+Esto implicaba matemáticamente que la variable tiempo no es la misma para ambos observadores.
+Esto trae como consecuencia, que el concepto de simultaneidad sea relativo al observador.
+Esto chocaba frontalmente con las concepciones clásicas del espacio tiempo.
+Desde luego, que una aseveración de esa naturaleza, nos saca de balance.
+En la vida diaria, vemos que un objeto que cae al suelo a nuestra izquierda, al mismo tiempo que otro que cae a nuestra derecha, están sincronizados en el tiempo.
+Y que a un observador que se mueve en un coche, a 40 km/h le parecerá lo mismo.
+Pero la distorsión del parámetro tiempo sólo es apreciable a muy altas velocidades, y no forma la experiencia de nuestra vida cotidiana.
+Los supuestos básicos de esta interpretación relativística del Universo, son los siguientes:
+Si nos encontramos en el espacio, donde no hay atracción, dentro de un cohete que se mueve con una aceleración de 9,8 m/s², sentiremos una presión en nuestro cuerpo de G, igual de lo que sentiríamos en la Tierra.
+Si en el cohete en movimiento, lanzamos un rayo de luz perpendicular a la dirección del movimiento, la luz recorrerá una línea curva, con respecto al observador dentro del cohete.
+La forma de todas las trayectorias de la luz posibles en ese caso, da la curvatura del espacio.
+Para que los efectos de la gravedad sean similares a los efectos de la aceleración, es necesario que los cuerpos masivos distorsionen el espacio que los rodea, de manera que dupliquen el efecto de la fuerza de gravedad.
+Si la teoría de la relatividad supuso un desafío a los conceptos newtonianos de espacio y tiempo, y por tanto requirió la reelaboración filosófica de esos conceptos, algunos otros pilares como el determinismo y el Natura non facit saltus de la física, quedaron inalterados hasta el advenimiento de la mecánica cuántica.
+Sin embargo, la mecánica cuántica en la interpretación de Copenhague introduce el azar de manera intrínseca (esto se contrapone al confiado determinismo que había postulado Laplace).
+Entre los postulados de la mecánica cuántica que axiomatizan los hechos conocidos, el postulado III afirma explícitamente que cuando se realiza una medida sobre un sistema cuántico este queda alterado, efectúa un salto cuántico (cuyo nombre se debe a que contradice el principio de Natura non facit saltus) de manera azarosa hacia un estado compatible con el inicial pero impredictible a priori, fijando las teorías sólo las probabilidades de transición para cierto conjunto de estados.
+Junto con ese postulado el postulado V sostiene que si no se realiza una medida sobre el sistema, su estado físico evolucionará de manera completamente determinista, según una ecuación diferencial precisa, la ecuación de Schrödinger (1887-1961).
+Algunos autores como Albert Einstein o David Bohm (1917-1992) se sintieron decepcionados con esa aleatoriedad y trataron de formular teorías de variables ocultas que pudieran reducir el azar aparente a una evolución determinista de variables presentes pero no observables.
+Diversos resultados y experimentos posteriores pusieron en dificultades a ciertas teorías simplistas de variables ocultas, por lo que actualmente se reconoce que las teorías de variables ocultas compatibles con los resultados experimentales resultan bastante más extrañas y curiosas de lo que sus proponentes iniciales hubieran deseado filosóficamente.

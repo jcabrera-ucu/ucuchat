@@ -1,0 +1,11 @@
+Jr. Pac-Man es un juego arcade creado por Bally Midway lanzado en 1983 en Estados Unidos.
+No obstante, el juego no forma parte oficialmente de la saga de Pac-Man.
+Este fue uno de los juegos que provocaron que se creara una licencia entre Namco y Midway.
+El juego es parecido al original, sin embargo, posee ciertas diferencias: El protagonista es Jr. Pac-Man, hijo de Pac-Man y Ms. Pac-Man; el laberinto es el doble de ancho que la pantalla y no posee túneles de salida.
+Los bonus ya no son frutas, sino que consisten en diversos objetos infantiles como triciclos, regalos, juguetes, e incluso gatos.
+Los fantasmas son los mismos, pero Clyde ahora pasa a llamarse Tim.
+El juego gira en torno a la situación entre Jr. Pac y Yum-Yum, la hija de Blinky, ya que están enamorados.
+Entre los niveles 1-2, 3-4, 5-6, y luego cada 2 niveles, hay videos cortos donde Jr. Pac-Man y Yum-Yum se juntan, en el video final se reúnen y se casan.
+Jr. Pac-Man tiene 145 niveles jugables, debido a que igual que sus predecesores Pac-Man y Ms. Pac-Man, posee un nivel injugable o Kill screen.
+A partir del nivel 146, el laberinto se hace invisible, y además, ya no hay Pac-Dots para comer.
+El juego original se encuentra en arcades y también en consolas como el Commodore 64 y la Atari 2600.

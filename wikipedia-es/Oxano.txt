@@ -1,0 +1,6 @@
+El tetrahidropirano u oxano es el compuesto orgánico que consta de un anillo saturado de seis miembros, conteniendo cinco átomos de carbono y un átomo de oxígeno.
+El sistema del anillo de tetrahidropirano es el núcleo de los azúcares de piranosa.
+Un procedimiento clásico para la síntesis orgánica del tetrahidropirano es por hidrogenación con níquel Raney del dihidropirano.
+En síntesis orgánica, el grupo 2-tetrahidropiranilo es usado como un grupo protector para los alcoholes.
+La reacción del alcohol con el dihidropirano forma un éter de tetrahidropiranilo, protegiendo al alcohol de una diversidad de reacciones.
+Posteriormente, el alcohol puede ser fácilmente regenerado por hidrólisis ácida con formación de 5-hidroxipentanal.

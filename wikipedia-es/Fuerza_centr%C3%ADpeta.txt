@@ -1,0 +1,75 @@
+Se conoce como fuerza centrípeta a la fuerza o al componente de la fuerza que actúa sobre un objeto en movimiento que pasa por una trayectoria curvilínea y que está dirigida hacia el centro de curvatura de la trayectoria.
+El término «centrípeta» proviene de las palabras latinas centrum, «centro» y petere, «dirigirse hacia», y puede ser obtenida a partir de las Leyes de Newton.
+En el caso de un objeto que se mueve en trayectoria circular con velocidad cambiante, la fuerza neta sobre el cuerpo puede ser descompuesta en un componente perpendicular que cambia la dirección del movimiento y uno tangencial, paralelo a la velocidad, que modifica el módulo de la velocidad.
+La fuerza centrípeta no debe ser confundida con la fuerza centrífuga, tal como se explica en la sección Malentendidos comunes.
+Un ejemplo común en el que interviene la fuerza centrípeta es el caso en el que un cuerpo se mueve con velocidad uniforme a lo largo de una trayectoria circular.
+La fuerza centrípeta se dirige perpendicularmente al movimiento y también a lo largo del radio hacia el centro de la trayectoria circular.
+La descripción matemática fue derivada en 1659 por el físico holandés Christiaan Huygens.
+De la cinemática del movimiento curvo se sabe que un objeto que se mueve a velocidad tangencial v a lo largo de una trayectoria con radio de curvatura r acelera hacia el centro de curvatura a una velocidad
+Aquí, a_c es la aceleración centrípeta y es el diferencia entre los vectores velocidad en t+\Delta{t} y t.
+Por segunda ley de Newton, la causa de la aceleración es una fuerza neta que actúa sobre el objeto y que es proporcional a su masa m y a su aceleración.
+La fuerza, normalmente denominada fuerza centrípeta, tiene una magnitud
+y se dirige, como la aceleración centrípeta, hacia el centro de curvatura de la trayectoria del objeto.
+La aceleración centrípeta puede deducirse del diagrama de los vectores de velocidad en dos instancias.
+En el caso de movimiento circular uniforme, las velocidades tienen magnitud constante.
+Como cada una de ellas es perpendicular a su respectivo vector de posición, la simple sustracción de vectores implica dos triángulos isósceles semejantes con ángulos congruentes -uno que comprende una base de y una altura de longitud v y la otra una base de  (vector de posición diferencia) y una longitud de lado de r:
+Por lo tanto, puede sustituirse por :
+La dirección de la fuerza es hacia el centro del círculo en el que se mueve el objeto, o el círculo osculante (el círculo que mejor se ajusta a la trayectoria local del objeto, si la trayectoria no es circular).
+La velocidad en la fórmula se eleva al cuadrado, por lo que el doble de velocidad necesita cuatro veces la fuerza, en un radio dado.
+Esta fuerza también se escribe a veces en términos de la velocidad angular ω del objeto alrededor del centro del círculo, relacionada con la velocidad tangencial mediante la fórmula
+de modo que
+Expresado mediante el período orbital T para una revolución del círculo,
+la ecuación se convierte en
+En los aceleradores de partículas, la velocidad puede ser muy alta (cercana a la velocidad de la luz en el vacío) por lo que la misma masa en reposo ejerce ahora una mayor inercia (masa relativista) requiriendo así una mayor fuerza para la misma aceleración centrípeta, por lo que la ecuación se convierte en:
+donde
+es el factor de Lorentz.
+Así, la fuerza centrípeta viene dada por:
+que es la tasa de cambio del momento relativista \gamma m v.
+En el caso de un objeto que se balancea en el extremo de una cuerda en un plano horizontal, la fuerza centrípeta sobre el objeto es suministrada por la tensión de la cuerda.
+El ejemplo de la cuerda es un ejemplo de fuerza de tracción.
+La fuerza centrípeta también puede ser suministrada como una fuerza de "empuje", como en el caso en que la reacción normal de una pared suministra la fuerza centrípeta para una pared de la muerte o un rotor-rider.
+La idea de fuerza centrípeta de Newton corresponde a lo que hoy se denomina fuerza central.
+Cuando un satélite está en órbita alrededor de un planeta, se considera que la gravedad es una fuerza centrípeta aunque en el caso de las órbitas excéntricas, la fuerza gravitatoria se dirige hacia el foco, y no hacia el centro instantáneo de curvatura.
+Otro ejemplo de fuerza centrípeta surge en la hélice que se traza cuando una partícula cargada se mueve en un campo magnético uniforme en ausencia de otras fuerzas externas.
+En este caso, la fuerza magnética es la fuerza centrípeta que actúa hacia el eje de la hélice.
+Los objetos con movimiento rectilíneo uniforme tienen una velocidad constante; pero un objeto que se mueva sobre una trayectoria circular con rapidez constante experimenta continuamente un cambio en la dirección de su movimiento, esto es, en la dirección de la velocidad.
+Puesto que la velocidad cambia, existe una aceleración.
+La magnitud de este cambio de dirección de la velocidad por unidad de tiempo es la aceleración centrípeta, representada por un vector dirigido hacia el centro de la circunferencia dado por:
+Según la segunda ley de Newton, para que se produzca una aceleración debe actuar una fuerza en la dirección de esa aceleración.
+Así, si consideramos una partícula de masa m\, en movimiento circular uniforme, estará sometida a una fuerza centrípeta dada por:
+Supongamos que atamos una pelota con una cuerda y la hacemos girar en círculo a velocidad angular constante.
+La pelota se mueve en una trayectoria circular porque la cuerda ejerce sobre ella una fuerza centrípeta.
+Por tanto, esta fuerza siempre va actuar hacia el centro de la trayectoria.
+En algunos textos académicos introductorios es frecuente encontrar cierta confusión entre los términos "fuerza centrípeta" y "fuerza centrífuga".
+La fuerza centrífuga es una fuerza ficticia que "aparece" para un observador que usa un marco de referencia en rotación para describir el movimiento.
+En cambio, un observador en un marco de referencia inercial no percibe ninguna fuerza centrífuga, mientras que sí ve una fuerza real llamada fuerza centrípeta que es la que obliga a un móvil a curvar su trayectoria en la dirección de dicha fuerza.
+El problema reside en que en un sistema de referencia en rotación, la fuerza centrífuga (ficticia) intuida por un observador en reposo en dicho referencial coincide en magnitud –pero en sentido contrario– con la fuerza centrípeta (real) necesaria para mantener un cuerpo en reposo en tal sistema de referencia en rotación.
+Tampoco la fuerza centrípeta debe confundirse con la denominada fuerza central.
+La fuerza central es una fuerza real que actúa sobre un cuerpo y que cumple con dos condiciones:
+Ejemplos de fuerzas centrales son la fuerza gravitatoria y la fuerza electrostática.
+Frecuentemente, la fuerza centrípeta es una fuerza central.
+Una excepción ocurre cuando el centro de masas no coincide con el centro geométrico del objeto sobre el cual actúan las fuerzas, con lo que hay que poner especial énfasis sobre la dirección de la fuerza centrípeta y los puntos donde actúa.
+Un ejemplo claro de este fenómeno ocurre con la dinámica de un cilindro inhomogéneo que rueda sobre un plano inclinado hasta despegarse del mismo.
+Puesto que la velocidad es siempre tangente a la trayectoria, el vector \mathbf{v} siempre es perpendicular al vector de posición.
+Como el extremo del vector \mathbf{R} se mueve describiendo una circunferencia de radio R\,, el extremo del vector \mathbf{v} lo hace de modo análogo.
+La circunferencia a la derecha muestra la forma en que cambia la velocidad con el tiempo.
+Dicha circunferencia representa la hodógrafa del movimiento.
+El cambio de la trayectoria (un aumento de esta) a una velocidad "x" en el mismo tiempo es la aceleración, y dado que la velocidad cambia de manera similar a como lo hace el vector de posición, la aceleración en cada instante también es perpendicular a la velocidad en ese instante, por lo que podemos dibujarlas como vectores \mathbf{a} tangentes a la circunferencia.
+Ya que los vectores de posición y velocidad giran conjuntamente, el período T (tiempo empleado en una vuelta completa) será el mismo en ambos casos.
+Para el periodo de la partícula en la trayectoria circular tenemos
+y, por analogía, con la hodógrafa de la derecha tenemos
+Igualando ambas ecuaciones, y despejando a obtenemos.
+Comparando la trayectoria (izquierda) con su hodógrafa (derecha), se deduce que la aceleración apunta hacia el centro de la circunferencia, en forma opuesta al vector.
+Esto lo podemos hacer regresando cada uno de los vectores \mathbf v a su posición original en el círculo de la izquierda.
+Si junto con ellos nos llevamos los vectores \mathbf a, se podrá notar el hecho de que estos últimos efectivamente apuntan hacia el centro.
+Otro método para deducir la ecuación de la aceleración centrípeta consiste en expresar la ecuación de la trayectoria circular en ecuaciones paramétricas:
+donde
+y derivar dos veces sucesivas con respecto del tiempo
+de modo que
+que pone de manifiesto que la aceleración está dirigida hacia el centro de la trayectoria circular y que su módulo viene dado por:
+En mecánica relativista el cociente entre la fuerza centrípeta y la aceleración centrípeta, es diferente del cociente entre la fuerza tangencial y la aceleración tangencial.
+Esto introduce una diferencia fundamental con el caso newtoniano: la aceleración y la fuerza relativistas no son vectores necesariamente paralelos:
+De la relación anterior, se deduce que la fuerza y la aceleración sólo son paralelas en dos casos:
+El primer caso se da cuando la aceleración y la velocidad son perpendiculares, cosa que sucede por ejemplo el movimiento circular uniforme.
+El segundo caso se da en un movimiento rectilíneo.
+En cualquier otro tipo de movimiento en general la fuerza y la aceleración no serán permanentemente paralelas.

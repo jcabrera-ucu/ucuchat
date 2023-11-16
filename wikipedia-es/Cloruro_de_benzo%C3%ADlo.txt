@@ -1,0 +1,16 @@
+El cloruro de benzoílo o cloruro de benzoilo es un compuesto orgánico de fórmula molecular C7H5OCl.
+A temperatura y presión normales es un líquido incoloro, volátil e irritante.
+Es utilizado en la producción de tintes, perfumes, resinas y fármacos.
+Debido a su alta reactividad puede reaccionar formando numerosos compuestos.
+El ácido benzoico reacciona con PCl5 o con SOCl2 formando cloruro de benzoílo.
+El cloruro de benzoílo reacciona con el benceno en presencia de una base de Lewis como el AlCl3 produciendo benzofenona.
+Al reaccionar Hidruro de litio aluminio se produce una fuerte reducción, obteniéndose como producto el alcohol bencílico.
+El cloruro de benzoílo puede ser reducido a benzaldehído utilizando hidruro de litio y terbutóxido de aluminio.
+En presencia de agua el cloruro de benzoílo se hidroliza formando ácido benzoico.
+Como también se genera ácido clorhídrico como producto de la reacción, comúnmente se utiliza un medio básico para neutralizar el pH y evitar posibles reacciones laterales.
+En presencia de alcoholes el cloruro de bencilo reacciona formando ésteres.
+El impedimento estérico del alcohol utilizado determina su reactividad; por ello, los alcoholes primarios son más reactivos que los secundarios y estos más reactivos que los terciarios.
+El amoníaco y las aminas primarias y secundarias reaccionan en forma rápida con el cloruro de benzoílo produciendo benzamida y derivados.
+La reacción se produce comúnmente en medio básico para neutralizar el ácido clorhídrico producido.
+Al producirse la reacción del cloruro de benzoílo con un reactivo de Gilman se obtiene una cetona.
+La reacción con reactivos de Grignard produce un alcohol terciario.

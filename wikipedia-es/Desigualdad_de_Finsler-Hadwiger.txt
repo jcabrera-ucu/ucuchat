@@ -1,0 +1,5 @@
+En matemáticas, la desigualdad de Finsler-Hadwiger es un teorema sobre triángulos en el plano euclidiano, nombrado en referencia a Hugo Hadwiger y Paul Finsler.
+Afirma que si un triángulo tiene lados con longitudes a, b y c y área T, then
+La desigualdad de Weitzenböck es un corolario de la desigualdad de Finsler-Hadwiger:
+Esta última desigualdad también puede demostrarse a partir de la fórmula de Herón, obteniendo la igualdad en (W) si y sólo si el triángulo es equilátero (y por tanto ).
+La desigualdad de Finsler-Hadwiger es un caso particular de la desigualdad de Pedoe.

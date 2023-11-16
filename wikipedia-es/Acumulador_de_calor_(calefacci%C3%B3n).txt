@@ -1,0 +1,32 @@
+Un acumulador de calor es un aparato del sistema de calefacción que almacena en un núcleo de bloques cerámicos aislando el calor producido por cualquier medio, generalmente por la electricidad, para su posterior uso.
+El principio básico del concepto de acumulador se basa en la alternancia de ciclos de carga y ciclos de descarga, correspondiéndose generalmente los ciclos de carga con la noche y los de descarga con el día, debido a las tarifas reducidas, así como a las mayores necesidades de uso diurno.
+Un interacumulador es la suma de un acumulador de calor y un intercambiador de calor.
+Las partes fundamentales que componen un acumulador de calor para calefacción son:
+Fundamentalmente hay dos tipos diferentes de acumuladores, los estáticos y los dinámicos.
+Existen tipos mixtos que persiguen realizar una descarga combinada.
+Este tipo de acumuladores son los más básicos.
+Los elementos de carga y el núcleo de acumulación son similares a los dinámicos pero el aislamiento del mismo es más sencillo.
+En este tipo de acumuladores la descarga se realiza por convección natural y por radiación.
+Para el control de la descarga se utilizan una serie de trampillas que impiden el paso del aire a través del núcleo de acumulación, estas trampillas están reguladas mediante un sistema bimetálico que es ajustable desde un mando exterior.
+Esta forma de regulación de descarga logra controlar un 20% de la misma, mientras que el otro 80% se realiza por radiación de la superficie del aparato, es decir por perdidas del aislamiento y por lo tanto es incontrolable.
+Los acumuladores estáticos están recomendados para ser usados en los lugares habitados permanentemente manteniendo una temperatura de confort permanente.
+Los acumuladores dinámicos tiene un aislamiento mucho más eficaz que los estáticos.
+En ellos la descarga se realiza mediante una pequeña turbina que impulsa aire a través del núcleo de acumulación.
+Sus pérdidas son de un 20%, que cede por radiación, mientas que el 80% restante es descargado mediante la turbina y puede ser regulado mediante termostatos, tanto externos como internos en el propio aparato.
+El control de la descarga permite la integración en sistemas domóticos y la gestión de la temperatura en áreas determinadas.
+Los problemas ligados a la producción de la energía eléctrica y su dificultad de acumulación hace que en las hora bajas o valles -aquellas en que el consumo es mínimo- haya que buscar alternativas para evitar que se apaguen las centrales térmicas responsables de proporcionar la base energética de cualquier sistema de electrogeneración, en particular las centrales térmicas de tecnología nuclear.
+Una de las formas para lograr el objetivo es incentivando el consumo en horas valle, por lo que las compañías eléctricas a instancia del gobierno establecen tarifas un 50% más baratas que en las otras de consumo alto.
+La calefacción por acumulación aprovecha esta circunstancia para calentar las viviendas y locales.
+Para lograr este objetivo se debe acumular durante las horas que dura el período valle, toda la energía necesaria para el mantenimiento de la temperatura durante el resto del día.
+Al disponer de una cantidad limitada de acumulación es muy importante el cálculo correcto de las necesidades de aporte energético para calentar un espacio determinado.
+Las características de los espacios a calentar son muy importantes.
+El sistema de aislamiento, así como los tiempos de temperatura de confort, deben ser estudiados con mucho detenimiento.
+Para el mantenimiento de una determinada temperatura en un espacio determinado se debe de aportar la energía que se pierde por la diferencia de temperaturas entre el exterior y el interior del mismo, y de la conductividad térmica (las pérdidas) que el recinto posee.
+Una vez realizado el cálculo, hay que dimensionar el acumulador de tal forma que logre realizar en las ocho horas de periodo valle, y por lo tanto barato, la carga completa de la energía precisa.
+Uno de los mayores inconvenientes, es que la carga se debe de realizar con antelación a las necesidades de calefacción.
+Esto obliga a que se deba realizar una programación de esa necesidades, es decir, una predicción de las condiciones meteorológicas que habrá al día siguiente.
+Otro problema es el de las pérdidas que tienen, al ceder la energía acumulada por radiación y haber ciertos períodos del día donde la aportación no es necesaria, esto ocurre muy comúnmente en primavera y otoño, estaciones que tienen unos comienzos y finales de los días fríos mientras que en la mitad del mismo, el sol suele calentar suficientemente, haya una sobre calefacción que puede resultar molesto.
+Las calificaciones por acumulación suelen combinar los dos tipos de acumuladores normalmente por cuestiones económicas.
+Los estáticos son mucho más baratos que los dinámicos, pero lo ideal es realizarlas con acumuladores dinámicos fácilmente controlables.
+Hay sistemas de control de carga que prevén las necesidades energéticas dependiendo de la temperatura exterior y de la previsión meteorológica.
+La calefacción eléctrica por acumulación tienen un muy bajo mantenimiento, no es necesario más que la limpieza anual de los acumuladores y la reposición de las pilas de los cronotermostatos.

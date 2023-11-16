@@ -1,0 +1,2 @@
+IEE 1667 ("Standard Protocol for Authentication in Host Attachments of Transient Storage Devices"o "Protocolo estándar para la autenticación en anexos servidores de dispositivos de almacenamiento transitorio") es un estándar publicado y mantenido por el IEEE, que describe varios métodos para la autenticación de los dispositivos de almacenamiento transitorios, tales como unidades de memoria USB, cuando se introducen en un ordenador.
+Dado que el protocolo es universal, que significa que es independiente de la plataforma del sistema operativo.

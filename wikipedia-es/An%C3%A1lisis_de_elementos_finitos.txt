@@ -1,0 +1,89 @@
+El análisis por elementos finitos (FEA, siglas en inglés de Finite Element Analysis) es una técnica de simulación por computador usada en ingeniería.
+Usa una técnica numérica llamada método de los elementos finitos (FEM).
+Existen muchos paquetes de software, tanto libres como no libres.
+El desarrollo de elementos finitos en estructuras, suele basarse en análisis energéticos como el principio de los trabajos virtuales.
+El análisis de elementos finitos desde su enfoque matemático fue desarrollado en 1943 por Richard Courant, quien usó el Método de Ritz del análisis numérico y el cálculo variacional para obtener soluciones aproximadas para sistemas oscilatorios.
+Desde un punto de vista ingenieril, el análisis de elementos finitos se origina como el método de análisis estructural de matrices de desplazamiento, el cual surge luego de varias décadas de investigación, principalmente en la industria aeroespacial británica, como una variante apropiada para computadores.
+Para finales de los años de la década de 1950, los conceptos claves de matriz de rigidez y ensamble de elementos existe en las formas como se conocen hoy en día., la demanda de la NASA repercutió en el desarrollo del software de elementos finitos NASTRAN en 1965.
+En estas aplicaciones, el objeto o sistema se representa por un modelo geométricamente similar que consta de múltiples regiones discretas simplificadas y conectadas — véase: Método de los elementos finitos.
+Ecuaciones de equilibrio, junto con consideraciones físicas aplicables así como relaciones constitutivas, se aplican a cada elemento, y se construye un sistema de varias ecuaciones.
+El sistema de ecuaciones se resuelve para los valores desconocidos usando técnicas de  álgebra lineal o esquemas no lineales, dependiendo del problema.
+Siendo un método aproximado, la precisión de los métodos FEA puede ser mejorada refinando la discretización en el modelo, usando más elementos y nodos.
+Comúnmente se usa FEA en determinar los esfuerzos y desplazamientos en sistemas mecánicos.
+Es además usado de manera rutinaria en el análisis de muchos otros tipos de problemas, entre ellos Transferencia de calor, dinámica de fluidos, y electromagnetismo.
+Con FEA se pueden manejar sistemas complejos cuyas soluciones analíticas son difícilmente calculables.
+La Ingeniería asistida por computadora (CAE, del inglés: Computer aided engineering) es la aplicación de programas computacionales de ingeniería para evaluar componentes o ensambles.
+Contiene simulación, validación y optimización de productos y herramientas de manufactura.
+La aplicación principal de CAE, usada en ingeniería civil, mecánica, aeroespacial, y electrónica, se trata de FEA al lado del Diseño Asistido por Computador (CAD).
+En general, hay tres fases en cualquier tarea asistida por computador:
+El primer paso en FEA, pre-procesamiento, es construir un modelo de elementos finitos de la estructura a ser analizada.
+En muchos paquetes de FEA se requiere de la entrada de una descripción topológica de las características geométricas de la estructura.
+Ésta puede ser 1D, 2D, o 3D.
+El objetivo principal del modelo es replicar de manera realista los parámetros importantes y características del modelo real.
+La manera más sencilla para conseguir similitud en el análisis es utilizar planos preexistentes, modelos CAD, o datos importados de un ambiente FEA.
+Una vez se ha creado la geometría, se utiliza un procedimiento para definir y dividir el modelo en "pequeños" elementos.
+En general, un modelo de elementos finitos está definido por una malla, la cual está conformada por elementos y nodos.
+Los nodos representan puntos en los cuales se calcula el desplazamiento (análisis estructural).
+Los paquetes de FEA enumeran los nodos como una herramienta de identificación.
+Los elementos están determinados por conjuntos de nodos, y definen propiedades localizadas de masa y rigidez.
+Los elementos también están definidos por la numeración de la malla, la cual permite referenciar la correspondiente deflexión o esfuerzo (en análisis estructural) para una localización específica.
+En la siguiente etapa en el proceso de análisis de elementos finitos se lleva a cabo una serie de procesos computacionales que involucran fuerzas aplicadas, y las propiedades de los elementos de donde producir un modelo de solución.
+Tal análisis estructural permite la determinación de efectos como lo son las deformaciones, estiramiento o estrés que son causados por fuerzas estructurales aplicadas como lo son la fuerza, la presión y la gravedad.
+Estos resultados entonces pueden ser estudiados utilizando herramientas visuales dentro del ambiente de FEA para ver y para identificar completamente las implicaciones del análisis.
+Herramientas numéricas y gráficas permiten la localización precisa de información como esfuerzos y deformaciones a ser identificadas.
+Una variedad de especializaciones bajo el ámbito de la ingeniería mecánica tal como lo es la aeronáutica, biomecánica, y las industrias automotrices, todas comúnmente usan el análisis de elementos finitos integrado en el diseño y desarrollo de sus productos.
+Varios paquetes modernos de FEA incluyen componentes específicos como el térmico (termal), electromagnético, fluido y ambientes de trabajo estructural.
+En una simulación estructural el análisis de elementos finitos ayuda a producir visualizaciones de rigidez y fuerza y además ayuda a minimizar peso, materiales y costos.
+El análisis de elementos finitos permite una detallada visualización de en donde las estructuras se doblan o tuercen, e indica la distribución del esfuerzo y los desplazamientos.
+Los programas computacionales de análisis de elementos finitos proveen un amplio rango de opciones de simulación para controlar la complejidad de ambos, el modelado y el análisis de un sistema.
+De forma similar, el nivel deseado de precisión y los requerimientos de tiempo computacional asociados pueden ser manejados simultáneamente para atender a la mayoría de las aplicaciones de ingeniería.
+El análisis de elementos finitos, permite la construcción de diseños enteros, su refinación y la optimización de éstos antes de que el diseño sea manufacturado.
+Esta poderosa herramienta de diseño ha mejorado en gran forma, ambos, el estándar de diseños en ingeniería y la metrología del proceso del diseño en muchas aplicaciones industriales.
+La introducción del análisis de elementos finitos ha reducido el tiempo que se toma para llevar productos desde el concepto hasta la línea de producción.
+A través de la mejora de diseños de prototipos iniciales usando el análisis de elementos finitos se han acelerado, principalmente, las pruebas y el desarrollo.
+En resumen, los beneficios del análisis de elementos finitos son: una alta precisión, diseño mejorado, y una mejor percepción de los parámetros críticos de diseño, prototipos virtuales, menos prototipos de hardware, y ciclo de diseño más rápido y económico, alza en la productividad y en las ganancias.
+La habilidad de modelar un sistema estructural en 3D puede proveer un poderoso y preciso análisis de casi cualquier estructura.
+Los modelos tridimensionales, en general, pueden ser producidos usando un rango de paquetes comunes de diseño asistido por computadora.
+Los modelos tienden a entrar en un rango amplio variando en complejidad y en formato de archivo, dependiendo del programa computacional (software) de creación del modelo en 3D y en la complejidad de la geometría del modelo.
+El análisis de elementos finitos es una industria creciente en el análisis de diseño de productos y desarrollos en ingeniería.
+El uso de FEA como una herramienta de ingeniería de manera habitual está creciendo rápidamente.
+Los avances en el poder de procesamiento de las computadoras, del FEA y del software de modelado ha permitido la continua integración de FEA en los campos de ingeniería en diseño de productos y desarrollo.
+Ha habido muchas cosas que han restringido el desempeño y finalmente la aceptación y utilización de FEA en conjunción con el CAD en las etapas de diseño del producto y su desarrollo.
+Las separaciones en compatibilidad entre los formatos de archivos de programas de CAD y FEA limitaban el grado en que las compañías podían diseñar fácilmente y probar sus productos usando la combinación de CAD y FEA respectivamente.
+Típicamente, los ingenieros usan software CAD especializado en el modelado en el diseño del producto, y después se exporta ese diseño a un paquete de FEA para ser el análisis.
+Pero, esos ingenieros que dependen del intercambio de información a través de traductores o estándares de intercambio tales como IGES o STEP citan problemas ocasionales en la fiabilidad los cuales causan intercambios poco exitosos de geometría.
+Así es que la creación de muchos modelos externos al ambiente de FEA se consideran como problemáticos en el éxito de análisis de elementos finitos.
+La tendencia actual en el software de FEA y la industria en ingeniería ha sido la creciente demanda por la integración entre el modelado sólido y el análisis de elementos finitos.
+Durante el diseño y desarrollo de productos, los ingenieros requieren actualizaciones automáticas entre sus últimos modelos en los ambientes de CAD y FEA.
+Todavía hay una necesidad de mejorar la relación entre CAD y FEA, haciéndolo técnicamente más cercanos y unidos.
+Aunque la demanda de una integración CAD-FEA unida con las mejoras en los desarrollos de ordenadores y software ha introducido una tendencia más colaborativa y robusta donde los problemas de compatibilidad empiezan a ser eliminados.
+Los diseñadores están ahora introduciendo simulaciones en computadora capaces de usar archivos preexistentes de CAD sin la necesidad de modificar y recrear los modelos para acoplarse a los ambientes de FEA.
+Uno de estos programas con análisis de elementos finitos integrado es SolidWorks de la compañía SolidWorks Corporation, que es una herramienta de diseño de medio rango que ofrece un nivel introductorio al programa de FEA llamado CosmoExpress.
+Entre los módulos más avanzados para SolidWorks está COSMOSMotion que simula las colisiones cinemáticas de diversos cuerpos y maneja más avanzadas simulaciones lineales estáticas.
+Véase también: Pro/Engineer (ProE).
+Hay una creciente demanda por modelado dinámico en FEA en la industria de vehículos pesados.
+Muchas compañías de vehículos pesados se están alejando del tradicional análisis estático y están haciendo uso de software de simulación dinámica.
+La simulación dinámica incluye la aplicación de FEA en un sentido más realista para tener en cuenta los efectos complicados de analizar varios componentes y ensambles con características reales.
+La simulación dinámica, usada en conjunción con el modelado de ensambles, introduce la necesidad de unir componentes de distintos materiales y geometrías.
+Así que, las herramientas para la ingeniería asistida por computador deben tener capacidades comprensivas para utilizar fácilmente fiables conectores en los modelos, los cuales pueden incluir uniones que permiten movimiento relativo entre los componentes, remaches, y soldaduras.
+Modelos típicos de MSS están compuestos de cuerpos rígidos (ruedas, ejes, cuadros, motores, cabina, y remolque) conectados por uniones ideales y elementos de fuerza.
+Las uniones y los eslabones pueden ser modelados como eslabones rígidos, resortes o amortiguadores para así simular las características dinámicas de los componentes de un camión real.
+La transferencia de fuerza a través de los componentes de un ensamble por conducto de conectores, los hace susceptibles a esfuerzos altos.
+Es más sencillo y fácil el idealizar conectores como uniones rígidas en estos sistemas.
+Esta idealización provee un estudio básico del comportamiento del ensamble en términos de entender las características del sistema; los ingenieros deben modelar uniendo parámetros como lo son las piezas de enlace en forma precisa para cuando se realice el análisis de esfuerzos puedan determinarse posibles fallas.
+"El representar conectores como uniones rígidas asume que los conectores transfieren las cargas a través de los componentes sin deformarse ni sin ellos pasar por estrés. Esta idealización no realista lleva a predicciones incorrectas de estrés en las regiones locales a los conectores, exactamente las cuales son los lugares donde más posiblemente la falla se iniciará."
+Comprensiblemente, la inclusión detallada de cada punto de connexión y/o mecanismo en un ensamble es impráctico para ser modelado, Así es que representaciones mejoradas de conectores que son simples de usar y fiables deben ser investigados para su uso caso por caso.
+Ingenieros en varias compañías automotrices actualmente moldean sus vehículos usando especializado software dinámico de FEA.
+Cada modelo contiene un cuerpo y chasis flexible, resortes, barras de rodaje, ejes cabina y suspensión del motor, el mecanismo de dirección y viraje y cualquier componente dependiente en la frecuencia como lo son las montas hechas de hule.
+Detalles adicionales como los frenos y fuerzas de un motor fuera de balance pueden ser incluidas en una forma dependiendo a "como se requiera".
+La simulación dinámica de FEA permite que una variedad de maniobras sea probada con precisión.
+Pruebas como lo son cortando la esquina, volcado, cambio de línea en tránsito, vueltas en J, análisis de vibración, colisiones y frenado en línea pueden ser llevados a cabo en forma precisa utilizando la simulación dinámica en el análisis de elementos finitos.
+Cargas con variables tiempo y no lineales permiten a los ingenieros hacer avanzados y realistas análisis de los elementos finitos, así permitiéndoles localizar las condiciones críticas y determinar características en el desempeño.
+Como un resultado de las capacidades de prueba dinámica mejoradas, los ingenieros pueden determinar las características óptimas e ideales (ultimate performance) de desempeño del diseño del vehículo sin la necesidad de tomar riesgos físicos.
+Como un resultado de FEA dinámico, la necesidad de costosas pruebas destructivas se ha minorizado en gran forma.
+La industria de camiones se ha hecho más como las otras industrias tales como la industria automotriz con respecto a la participación del análisis de elementos finitos en el proceso de diseño.
+Pero, por la necesidad de los manufacturadores de camiones de proveer una variedad de configuraciones de cuerpos de camión, es poco factible que los camiones se inclinen hacia un proceso de FEA unificado y estilizado, como el que se presencia en la industria automotriz.
+El proceso de diseño no ha alcanzado el nivel requerido de maduración para que sea dirigido por la simulación.
+Más aún, la tradicional filosofía de diseño de intento y prueba en las técnicas de diseño de camiones tomando precedencia todavía están muy arraigadas en la industria de camiones.
+Aunque la industria se mantiene lejos de adoptar un proceso de diseño integrado de principio a fin, el análisis de elementos finitos está creciendo rápidamente en los papeles de diseño y desarrollo del producto en la industria camionera.
+Otro aspecto que se ha hecho importante en la industria es el del área de actualización del modelo de elementos finitos que es un proceso que hace reflejar al elemento finito en una mejor forma la información medida.

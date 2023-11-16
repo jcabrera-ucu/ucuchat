@@ -1,0 +1,16 @@
+El Memory Impairment Screen (MIS) es un breve test que se utiliza para evaluar la memoria.
+En general, se suele utilizar como una prueba preliminar para determinar la cognición de una persona que puede presentar deterioro en su capacidad de recordar y pensar.
+La persona que recibe el MIS realizará una serie de tareas.
+Se muestra a la persona cuatro palabras con letra grande que deberá leer en voz alta. Por ejemplo, mesa, fútbol, profesor y oro.
+Se proporciona al individuo una categoría que corresponde con una de las cuatro palabras anteriormente entregadas.
+Deberá poder identificar qué palabra se ajusta con esa categoría.
+Por ejemplo, se le proporciona la categoría "deporte", deberá relacionarla con la palabra fútbol.
+Esta asociación, la deberá realizar con las cuatro palabras.
+Una vez realizada esta tarea, se retira el papel con las palabras y se le explica que tendrá que recordarlas en unos minutos.
+El individuo realizará una tarea con motivo de distracción.
+Por ejemplo, se puede realizar otras pruebas breves como el Test del Reloj.
+El individuo deberá recordar las cuatro palabras con un límite de tiempo de 5 segundos, esta sección se conoce como recuperación libre.
+Si se excede más de 10 segundos sin éxito, se le proporcionarán las categorías de las palabras para facilitar su recuerdo, esta sección se llama recuperación facilitada.
+EL individuo obtendrá 2 puntos por cada palabra recordada por recuerdo libre, 1 punto si ha sido mediante el recuerdo facilitado y 0 puntos si no consigue recordar las palabras.
+Si obtiene un puntaje de 5 a 8 puntos, no existe deterioro cognitivo.
+En cambio, si su puntaje es 4 o menor presenta posiblemente deterioro cognitivo.

@@ -1,0 +1,4 @@
+La síntesis de indoles de Larock es un método de síntesis orgánica heterocíclica para obtener indoles a partir de o-yodo-anilinas y un alquino disustituído.
+Los rendimientos óptimos se logran añadiendo un exceso estequiométrico del alquino y utilizando carbonato de paladio y cloruro de litio en medio básico como catalizador.
+La reacción procede con anilinas y alquinos sustituidos.
+En cuanto a la regioselectividad en el caso de partir de un alquino interno, el grupo R con más impedimento estérico favorece la reacción en el otro carbono.

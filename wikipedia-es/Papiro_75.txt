@@ -1,0 +1,25 @@
+El Papiro 75 (75, Papiro Bodmer XIV-XV) es un papiro del Nuevo Testamento en griego antiguo.
+Originalmente «contenía cerca de 144 páginas... de las cuales 102 han sobrevivido, ya sea en su totalidad o en parte».
+Contiene cerca de la mitad del texto de dos Evangelios: el de Lucas (Papiro Bodmer XIV) y el de Juan (Papiro Bodmer XV) en griego.
+Está fechado en Nestle-Aland (27a. edición, NA27) como un manuscrito a principios del siglo III.
+Este es uno de los manuscritos más antiguos (junto con el 4) del Evangelio de Lucas.
+'El fragmento sobreviviente contiene Lucas 3:18-24:53...' Una característica inusual de este códice es que cuando el Evangelio de Lucas termina, el Evangelio de Juan comienza en la misma página.
+Este carece del texto de agonía de Cristo en Getsemaní (Lucas 22: 43–44).
+El texto griego de este códice es una representación del tipo textual alejandrino.
+Kurt Aland lo ubicó en la Categoría I. El texto está más cerca del Códice Vaticano que del Códice Sinaítico.
+La coincidencia entre 75 y el Códice B es de 92% en Juan, y 94% en Lucas.
+Este coincide con el 111.
+Según Kurt Aland, el 75 es la llave para entender la historia textual primitiva del Nuevo Testamento.
+En Lucas 8:21 se lee αυτον en lugar de αυτους; la lectura coincide con minúscula 705 y el Códice Veronense.
+En Lucas 11:4, la frase (mas líbranos del mal) es omitida.
+La omisión de esta frase también coincide con los siguientes manuscritos: Sinaítico, Vaticano, Códice Regio, f1, 700, vg, sirs, copsa, bo, arm, geo.
+En el manuscrito Lucas 16:19 se lee Ανθρωπος δε τις ην πλουσιος, ονοματι Ν[ιν]ευης, και ενεδιδυσκετο "Había un hombre rico, con el nombre N[in]eue, que se vistió", Esta Lectura coincide desde la versión Sahidic y los dos manuscritos griegos en minúsculas 36 y 37, además tiene un escolio de fecha incierta ευρον δε τινες και του πλουσιου εν τισιν αντιγραφοις τουνομα Νινευης λεγομενον.
+Lucas 22:43-44 es omitido, como en los códices א *, A, B, T, 1071.
+En Lucas 23:34, el 75 tiene omitidas las palabras: "Y Jesus dijo: Padre, perdónalos, ellos no saben lo que hacen."
+Esta omisión coincide con los manuscritos Sinaíticoa, B, D*, W, Θ, 0124, 1241, ita, d, sirs, copsa, copbo.
+Lucas 24:26
+Al manuscrito también le falta la perícopa de la Adúltera, usualmente ubicada en las traducciones en Juan 7:53-8:11.
+Esta omisión coincide con los manuscritos Códice Sinaítico, Códice Vaticano y el 66.
+El Manuscrito está actualmente en la Biblioteca Vaticana (P. Bodmer XIV-XV) en Roma.
+El descubrimiento del 75 ha tenido un profundo efecto en la crítica textual del Nuevo Testamento, debido a su gran acuerdo con el Códice Vaticano.
+En Lucas 8:21 se lee αυτον en lugar de αυτους; la lectura coincide con Minúscula 705 y el Códice Veronense.

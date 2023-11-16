@@ -1,0 +1,7 @@
+El tamaño es la magnitud o dimensión de un elemento.
+El tamaño puede medirse en longitud, ancho, altura, diámetro, perímetro, área, volumen o masa.
+La forma más frecuente de percepción del tamaño para los humanos es a través de la vista.
+La forma más común de percibir una medida es comparar la de un elemento observado por primera vez con la medida de un objeto que te resulte familiar.
+La visión binocular es la capacidad de los humanos para percibir la profundidad, ella permite saber qué elemento están más cerca y cuáles más lejos.
+La percepción del tamaño puede manipularse, jugando con distintos puntos de vista y perspectivas.
+<references group="" responsive="">

@@ -1,0 +1,100 @@
+Dragon Ball FighterZ es un videojuego de lucha en 2D desarrollado por Arc System Works y distribuido por Bandai Namco Entertainment, basado en la franquicia Dragon Ball.
+Su lanzamiento a nivel internacional se produjo el 26 de enero de 2018, mientras que en Japón fue lanzado el 1 de febrero del mismo año, para las plataformas PlayStation 4, Xbox One y Microsoft Windows.
+El juego se lanzó en la consola Nintendo Switch el 27 de septiembre de 2018 en Japón y un día más tarde en el resto del mundo.
+Dragon Ball FighterZ recibió muy buenas críticas por parte de la prensa de videojuegos, siendo considerado por muchos analistas como el mejor videojuego de lucha de Dragon Ball de la historia.
+Además, resultó un éxito en ventas, logrando vender 2 millones de copias en todas las plataformas, tan solo una semana después de su lanzamiento.
+Dragon Ball FighterZ fue premiado como el mejor videojuego de lucha en The Game Awards 2018.
+El juego tiene un sistema de combate en equipos de tres contra tres.
+El jugador debe elegir a tres personajes para formar un equipo, a quienes controlará de a uno por vez, pudiendo intercambiarlos durante cualquier momento de la batalla.
+Además de la barra de salud, hay otra de energía, que puede cargarse y utilizar para realizar ataques especiales que causan mayor daño al oponente.
+Para ganar una partida se debe vencer a todos los luchadores del rival.
+Los controles son 4 botones de ataque: Débil, Medio, Fuerte, y Special, este último activa habilidades especiales únicas de cada personaje.
+Se pueden realizar Dash Aéreo, Doble Salto, Super Salto, Chain Combo, y Air Recovery.
+También pueden ejecutarse diferentes tipos de movimientos: "Dragon Rush" un agarre convencional al rival, "Super Dash" una arremetida que envía al personaje hacia el oponente y "Vanish" que permite teletransportarse detrás del enemigo.
+Pueden realizarse ataques combinados llamados "Assist", en donde un aliado es invocado momentáneamente para atacar al oponente.
+Existe, además, una habilidad llamada "Sparking Blast", que solo puede usarse por una única vez en la batalla y cuando se activa regenera progresivamente la barra de salud y aumenta el porcentaje de hacer daño.
+Existe una mecánica que involucra a las Dragon Balls durante el combate.
+Para conseguirlas se deben realizar combos de una determinada cantidad de golpes, de tal modo que un combo de diez golpes desbloqueará la esfera de una estrella, uno de veinte golpes la de dos estrellas, uno de treinta la de tres estrellas y así sucesivamente hasta la de siete estrellas, que requiere de un combo de setenta golpes.
+Estas esferas se consiguen entre ambos jugadores, lo que significa que a medida que se desbloquean estarán disponibles para los dos.
+Una vez conseguidas todas, el dragón Shenlong será invocado por el primer jugador que realice un combo de al menos siete golpes y le cumplirá un deseo.
+Los deseos disponibles a elegir son: recuperar la salud del personaje en uso por completo, revivir a un aliado, recibir un Sparking Blast adicional o regenerar la porción azul de las barras de vida de todo nuestro equipo.
+Cada uno de los personajes realiza los movimientos y ataques especiales que se han visto a lo largo de la historia de Dragon Ball.
+Ciertos luchadores vienen acompañados de un asistente con el cual se pueden realizar ataques combinados; estos son: la Androide 18 (con el Androide 17), Ten Shin Han (con Chaoz), el Capitán Ginyu (con las fuerzas especiales Ginyu), Nappa (con un Saibaman) y Goku Black (con Zamas).
+Además, Goku Súper Saiyajin y Freezer pueden transformarse temporalmente en sus versiones Súper Saiyajin 3 y Golden, respectivamente, para realizar un ataque especial.
+El juego incluye escenas dramáticas las cuales son cinemáticas donde se reproducen momentos importantes ocurridos en el manga y anime, siempre que se cumplan ciertos requisitos, como los personajes involucrados y el escenario de la pelea.
+Por ejemplo, si se enfrentan Goku y Freezer en el planeta Namek, antes del combate se verá la escena donde Freezer asesina a Krilin y Goku se convierte en Súper Saiyajin.
+Luego, si Freezer resulta perdedor, se podrá ver el momento en el que ataca a Goku por la espalda mientras éste abandona el planeta.
+Otras secuencias que pueden aparecer, cumpliéndose con los requisitos especiales, son: la transformación de Gohan en Súper Saiyajin 2 y su victoria contra Cell, la muerte de Yamcha a manos de un Saibaman, la Genkidama con la que Goku vence a Kid Buu, Trunks cortando en dos a Freezer con su espada y matándolo, o Beerus derrotando a Goku luego de una batalla en el espacio.
+El menú principal de Dragon Ball FighterZ está compuesto por un lobby o vestíbulo, donde el jugador controla el avatar de un personaje en formato chibi.
+Desde allí se puede acceder a las distintas modalidades que posee el juego.
+Modo historia: está formado por tres arcos argumentales.
+El primero trata sobre la misteriosa aparición de un ejército de clones y la Androide 21 (un personaje original del juego), mientras los Guerreros Z misteriosamente caen inconscientes.
+El segundo tiene como principal protagonista al villano Freezer y el tercero gira en torno a los Androides, específicamente en los recuerdos de la Androide 18 y la relación que guarda con la Androide 21.
+Cada arco está dividido en capítulos, compuestos por un mapa con distintos caminos y enemigos para enfrentar.
+Cada combate recompensa al jugador con el desbloqueo de nuevos personajes o habilidades para su equipo.
+Se pueden equipar tres habilidades, que brindan diferentes mejoras.
+También se obtiene Zeni (dinero) y experiencia con la que se aumenta el nivel de los personajes.
+Modo arcade: es una sucesión de peleas similar a un torneo, donde se lucha contra distintos rivales controlados por la máquina, hasta llegar a un combate final.
+Está dividido en tres rutas: el Camino de la Serpiente, la Nave de Gravedad y la Sala del Tiempo, cada una compuesta por tres, cinco y siete combates, respectivamente.
+Cada ruta dispone de un mapa con diversos caminos y oponentes disponibles para enfrentar, en donde se avanzará dependiendo de la puntuación obtenida en el combate previo.
+Al finalizar una ruta se desbloqueará el modo difícil de esta.
+Cada camino terminado ofrece una recompensa distinta.
+Combate local: modo para librar combates simples contra la inteligencia artificial u otro jugador de manera local.
+Se pueden configurar diferentes parámetros como los rivales a enfrentar, la dificultad, la cantidad de rondas necesarios para ganar y el uso o no del límite de tiempo.
+También hay un modo torneo para hasta 16 jugadores de forma local, ya sea jugando contra amigos o contra la IA, o una mezcla de ambos.
+Entre las opciones para configurar las reglas del torneo se encuentran: si el equipo que escojamos inicialmente será con el que tengamos que jugar todo el torneo o si podemos seleccionar nuevos personajes en cada ronda, seleccionar si la posición inicial del combate (izquierda o derecha) es siempre la misma o varía en cada ronda, la cantidad de luchadores controlados por jugadores y por la IA, la cantidad de rondas (1, 2 o 3) y el uso o no del límite de tiempo.
+Multijugador en línea: en el multijugador en línea se pueden disputar combates casuales y ranqueados.
+En las peleas ranqueadas se obtienen Battle Points y, dependiendo de los resultados obtenidos, se asciende o desciende de posición en el ranking general.
+También hay un canal con repeticiones, donde se pueden observar combates grabados de otros jugadores.
+Party Match: es una modalidad del multijugador en línea, en la cual seis jugadores se enfrentan en un combate 3 vs 3, cada uno controlando a un único personaje.
+En este modo de juego no hay limitaciones a la hora de seleccionar luchadores en un mismo equipo, permitiendo que un jugador pueda elegir a cualquier personaje aunque ya haya sido seleccionado por un compañero.
+Entrenamiento: sección para practicar los ataques y movimientos de los personajes.
+Dispone de tres modos: el entrenamiento libre, mediante el cual se puede luchar contra un personaje inmóvil para practicar combos y aprender las posibilidades de cada personaje; un tutorial, para aprender las mecánicas básicas del juego y el "Combo Challenge", que permite practicar los combos predefinidos de todos los luchadores.
+Tienda: es el lugar donde el jugador puede gastar los Zenis obtenidos en el juego, comprando cápsulas que incluyen recompensas aleatorias, tales como variantes de color para los personajes, nuevos avatares e iconos para el lobby, además de títulos y diseños para la tarjeta de jugador del modo en línea.
+En el caso de recibir objetos repetidos se obtienen a cambio monedas Premium, con las cuales se pueden comprar cápsulas que aseguran obtener ítems no repetidos.
+El juego base incluye 24 personajes elegibles, de los cuales tres son desbloqueables.
+Además, es posible obtener luchadores adicionales como contenido descargable (DLC), ya sea de forma individual o con la compra de pases de temporada.
+En la actualidad el número total de personajes asciende a 43.
+Los combates se llevan a cabo en escenarios característicos del manga y anime de Dragon Ball.
+La lista es la siguiente:
+En un comunicado de prensa japonés, emitido el 11 de junio de 2017, dos imágenes del juego fueron filtradas antes del E3 2017.
+Una imagen mostraba a Goku Súper Saiyajin combatiendo contra Freezer, mientras que en la otra se podía ver a Vegeta, Cell, y Majin Boo.
+El comunicado fue posteriormente eliminado del sitio web de Bandai Namco.
+El 11 de junio de 2017, el juego fue revelado en la conferencia de Microsoft en el E3, con el título Dragon Ball FighterZ.
+El 22 de agosto de 2017, Bandai Namco anunció que estaba abierta la inscripción para participar de una beta cerrada del juego, que se llevaría a cabo los días 16 y 17 de septiembre, para las consolas PlayStation 4 y Xbox One.
+En esa misma jornada también se hizo el anuncio de una edición coleccionista llamada "CollectorZ Edition", que contendrá una copia del juego, una caja metálica, tres imágenes exclusivas de colección y una figura de Goku de 18 centímetros.
+El 17 de septiembre de 2017, Bandai Namco Europa publicó en su cuenta de Twitter, que se realizaría una beta abierta, aunque sin especificar la fecha de la misma.
+Posteriormente, se confirmaría su fecha de realización para los días 14 y 15 de enero de 2018.
+Detallando que quienes reserven el juego dispondrían de un día más, el 13 de enero.
+El 23 de octubre de 2017, se comunicó que el juego contaría con un pase de temporada llamado "Fighterz Pass", que contendría ocho personajes adicionales con sus respectivas variantes de color y avatares para el lobby.
+También se anunció una "Ultimate Edition" que, además de los ocho personajes extra, incluiría once canciones del anime y un pack con voces de comentarista.
+Además, se aclaró que todos aquellos que reserven alguna de estas ediciones obtendrían un acceso anticipado a la beta abierta, el desbloqueo anticipado de Goku y Vegeta Super Saiyajin Blue, y dos avatares exclusivos para el lobby.
+Ese mismo día, la cuenta de Twitter de Bandai Namco Latinoamérica mencionó que el juego vendría doblado al japonés e inglés, y que contendría subtítulos en español y portugués.
+Dragon Ball FighterZ fue lanzado el 26 de enero de 2018 de manera internacional y el 1 de febrero del mismo año en Japón, en las plataformas PlayStation 4, Xbox One y Windows.
+El juego contó con varias ediciones físicas y digitales, incluida una edición coleccionista llamada "CollectorZ Edition", que contenía una copia del juego, una caja metálica, tres imágenes exclusivas de colección y una figura de Goku de 18 centímetros.
+El 12 de junio de 2018, durante la videoconferencia de Nintendo en la E3, se anunció que Dragon Ball FighterZ llegaría a la consola Nintendo Switch.
+La reserva del juego garantizaba el acceso anticipado de Goku y Vegeta Súper Saiyajin Blue, y una copia digital del videojuego Dragon Ball Z: Super Butōden, originalmente lanzado en la consola Super Nintendo.
+La versión para Switch incluyó como novedad la posibilidad de disputar combates de 1 vs 1 y 2 vs 2, como también la opción de que hasta 6 jugadores jueguen de manera local en el modo "Party Match".
+Su lanzamiento en América y Europa se produjo el 28 de septiembre de 2018.
+Tras el lanzamiento del juego se pusieron a la venta dos contenidos descargables llamados Anime Music Pack con canciones pertenecientes al anime y las películas de Dragon Ball.
+El primero fue lanzado el 28 de febrero de 2018 y el segundo el 29 de noviembre del mismo año.
+Dragon Ball FigherZ ha recibido muy buenas críticas por parte de la prensa, siendo principalmente elogiado por su sistema de combate, la variedad de modos de juego y un apartado audiovisual que recrea de gran manera la franquicia Dragon Ball.
+Sin embargo, el modo historia ha sido el aspecto que más críticas negativas se ha llevado, en base a su mecánica de juego que resulta por muchos momentos aburrida y tediosa.
+El periodista Toni Piedrabuena de 3D Juegos, opina que se trata de un juego "con bases sólidas en lo jugable, apto tanto para jugadores novatos y avanzados en el género y un acabado técnico digno de los momentos mejor animados de la obra".
+Además, agrega que "aunque no ha cumplido en la campaña o en su historia, eso no empaña el excelso trabajo jugable de Arc System Works en el que promete ser, sin duda, uno de los juegos de lucha de 2018".
+Por su parte Daniel Quesada de Hobby Consolas, lo considera un "juego de lucha fresco, rápido y muy, muy espectacular".
+Agrega que "la labor de artesanía que hay detrás de cada movimiento, cada pequeño guiño, cada esfuerzo por dar vida a Goku y sus amigos calan en nuestro cerebelo para que no podamos parar de jugar".
+También valora "el constante impacto audiovisual que nos regala y cómo refresca la fórmula de los videojuegos de Dragon Ball".
+Como punto negativo, destaca que el modo historia está alargado innecesariamente y puede hacerse tedioso a veces.
+Peter Brown del sitio GameSpot, destaca que las numerosas mecánicas, a pesar de ser simples, brindan al juego de una gran profundidad y accesibilidad.
+Expresa además, que "las magníficas animaciones coinciden casi perfectamente con el aspecto del anime".
+También resalta que las secuencias dramáticas son un toque sorprendente y creativo que acentúa la atmósfera épica del juego.
+Aunque también critica de forma negativa el modo historia, al decir que "las piezas se sienten relativamente sin refinar en comparación con el resto del juego".
+El 1 de febrero de 2018, Bandai Namco anunció que Dragon Ball FighterZ había logrado vender más de dos millones de copias entre todas las plataformas, convirtiéndose así en el juego que más rápido se ha vendido de Dragon Ball.
+Estas cifras correspondieron solo a las ventas obtenidas en occidente, ya que en los países asiáticos el juego se puso a la venta el mismo día en el que se realizaba el anuncio.
+Posteriormente, a finales de octubre de 2018, la distribuidora informó que las ventas superaron las 3.5 millones de unidades.
+En mayo de 2020, se comunicó que se habían vendido más de 5 millones de copias del juego.
+La cifra total de ventas aumentó a 6 millones en diciembre de 2020.
+El videojuego tiene un manga spin-off llamado DeSpo FighterZ, que comenzó a publicarse el 3 de agosto de 2018 en la revista japonesa Saikyo Jump.
+El mangaka que se encuentra a cargo del mismo es Hiroshi Otoki, quien anteriormente fue el responsable del manga promocional Dragon Ball Fusions, editado en la misma revista.
+La historia del manga DeSpo FighterZ ahonda en la temática de los e-sports, centrándose especialmente en el juego Dragon Ball FighterZ.

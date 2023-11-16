@@ -1,0 +1,21 @@
+El programa espacial de Uruguay cumplió su etapa inicial el 31 de enero de 1997 al lanzarse el satélite Nahuel 1A (conocido como NahuelSat), operado por ARSAT (Empresa Argentina de Soluciones Satelitales Sociedad Anónima) y compartido por diferentes empresas, entre las cuales se encontraba la estatal uruguaya Antel, para sus servicios de telecomunicaciones.
+NahuelSat fue lanzado desde el puerto espacial de Kourou, Guayana Francesa, con el cohete europeo Ariane.
+El 19 de junio de 2014 a las 16:11 UYT, el programa espacial de Uruguay dio un gran paso, dado que se lanzó AntelSat, el primer satélite diseñado y fabricado íntegramente en Uruguay.
+Lo único adquirido fuera de Uruguay fue el marco de aluminio (que tiene parámetros de construcción muy estrictos) así como los paneles solares.
+El proyecto AntelSat consistió en el diseño y fabricación de los módulos y componentes del satélite (estructura, sistema de energía, sistema de comunicaciones, controles, carga científica, lanzamiento y operación) y la instalación de la Estación Terrena.
+El proyecto surge en Facultad de Ingeniería de la Universidad de la República con el proyecto Laí que se inició en diciembre de 2006 en el Instituto de Ingeniería Eléctrica logrando liberar 4 globos de gran altura (33 km) con electrónica diseñada por estudiantes para dar paso luego al convenio entre UdelaR y ANTEL.
+Antel aportó al convenio US$ 695.000.
+Por ello tiene un enfoque científico y académico, orientado al desarrollo de nuevas capacidades tecnológicas en beneficio de la industria local y de la sociedad.
+El lanzamiento del satélite se realizó desde un cohete (misil) DNEPR, el cual fue libertado por UNISAT-6 el viernes 20 de junio de 2014.
+El equipo de trabajo para la realización del satélite estuvo compuesto por docentes, ingenieros y estudiantes de la Facultad de Ingeniería de Udelar, docentes y estudiantes de la Escuela de Diseño EUCD, ingenieros y técnicos de Antel.
+Gestión del proyecto:
+Equipo de Desarrollo:
+Tutorías:
+Se basa en estándar CubeSat de la Universidad Politécnica de California y estará en órbita entre 25 y 30 años.
+El satélite se ubicó a 700 km de altura, donde se activó el mecanismo que permite el despliegue de sus antenas.
+Se realiza intercambio de información entre AntelSat y las estaciones terrenas, ubicadas en la estación Manga de Antel y en la Facultad de Ingeniería.
+Tiene dos cámaras: una de fotos en color y otra infrarroja.
+Además de dos transmisores en banda S desarrollados por el equipo de Antel.
+Esto es llamado Payload o Carga Útil.
+La aviónica fue diseñada y construida por Facultad de Ingeniería.
+La aviónica cuenta con dos sistemas de comunicación, un control principal, un gestor de energía y un control de actitud.

@@ -1,0 +1,6 @@
+id Tech 2, conocido inicialmente como Quake II Engine; es un motor de videojuego desarrollado por id Software para ser usado en sus videojuegos, principalmente en Quake II.
+Desde su lanzamiento, id Tech 2 ha sido licenciado para ser usado en otros videojuegos.
+Una de las características más llamativas de id Tech 2 es el soporte directo de aceleración mediante tarjeta gráfica, específicamente OpenGL, aparte del clásico renderizado por software.
+Otra característica interesante es la subdivisión de alguno de sus componentes en varias bibliotecas de enlace dinámico.
+Esto ofrecía varias ventajas como permitir diferentes renderizadores, mayor optimización al poder compilarlas directamente para la plataforma en la que se ejecutaba o permitir a id liberar el código fuente dejando otras partes propietarias sin liberar.
+El código fuente del motor fue liberado el 22 de diciembre de 2001 bajo la licencia GNU General Public License.

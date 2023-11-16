@@ -1,0 +1,11 @@
+Mariluz Congosto Martínez (Henarejos,1956) es una informática, investigadora y docente española especialista en análisis de redes sociales y visualización de datos.
+Licenciada en Informática en la Universidad Politécnica de Madrid (1974-1979), empezó a trabajar como ingeniera en la compañía japonesa Fujitsu (1980-1995) y, desde 2000, ha trabajado en investigación y desarrollo con proyectos de innovación en el entorno de las telecomunicacione s para Telefónica (TESYS, MORE, EOC).
+Del 2000 al 2008, también realizó labores de divulgación tecnológica y colaboró con Fundación Telefónica creando plataformas de publicaciones digitales.
+El 2016 se doctoró en Ingeniería Telemática por la Universidad Carlos III de Madrid.
+Unos años antes comenzó su trabajo como investigadora y docente de datos sociales, en particular en Twitter donde se centró en la propagación y caracterización de usuarios en Twitter dentro del entorno de los datos socio-políticos.
+A través del análisis de redes y visualización de datos desarrolla el objetivo de descubrir patrones de comportamiento, propagación de mensajes y caracterización de usuarios.
+Su principal interés de investigación se centra en patrones en las redes sociales, como la caracterización de usuarios, cómo se difunden los mensajes y el análisis de eventos.
+Destacan sus trabajos en el análisis cuantitativo de la dinámica de las redes sociales.
+Como docente, está especializada en la visualización de datos, una disciplina aplicada en ingeniería, economía o periodismo.
+"'La visualización ayuda -explica- a poder analizar y a descubrir patrones de comportamiento en grandes volúmenes de datos, representar información compleja como las relaciones o generar animaciones que permitan ver la evolución en el tiempo. Por otra parte facilita la divulgación de los resultados de una investigación a personas que no tienen que ser expertas en la materia.'"Congosto ha desarrollado la plataforma t-hoarder usada para capturar y visualizar datos sociales de Twitter y la plataforma metroaverias para medir la calidad del Metro de Madrid percibida por los usuarios de las diferentes líneas del Metro.
+En la actualidad es Profesora Honorífica del Departamento de Ingeniería Telemática de la Universidad Carlos III.

@@ -1,0 +1,12 @@
+La Dicotomía de Ousterhout (denominada por algunos la "Falsa dicotomía de Ousterhout" o la "Falacia de Ousterhout") es una división de los lenguajes de programación, propuesta por John Ousterhout, que plantea dos categorías fundamentales: la de los llamados lenguajes de programación de sistemas y la de los lenguajes de scripting.
+Los lenguajes de programación de sistemas (o lenguajes de aplicación) son lenguajes con tipificación estática de datos, que permiten el uso de estructuras de datos arbitrariamente complejas y que son compilados.
+Los mismos están pensados para operar de manera independiente de otros programas.
+Algunos ejemplos típicos de estos lenguajes son el C y el Modula-2.
+Por el contrario, los lenguajes de "scripting" son lenguajes con tipificación dinámica de datos, que permiten poco o ningún uso de estructuras de datos complejas y son interpretados.
+Los programas especificados mediante estos, requieren interactuar con otros programas o con un conjunto de funciones provistas por un intérprete, tal y como las funciones del sistema de ficheros del intérprete de comandos de Unix y las funciones de la GUI de Tcl.
+Algunos lenguajes de programación típicamente de "scripting" son AppleScript, C Shell, archivos de procesamiento en lote de DOS y Tcl.
+Muchos creen que ésta es una dicotomía bastante arbitraria, y se refieren a ésta como la "Falsa dicotomía de Ousterhout" o la "Falacia de Ousterhout".
+Mientras la tipificación de datos estática versus dinámica, la complejidad de las estructuras de datos y la independencia versus autonomía de los programas, pueden ser consideradas como características no relacionadas; la crítica usual a la dicotomía de Ousterhout, radica en la distinción del uso de la compilación versus la interpretación.
+Además, argumentan que ni la semántica ni la sintaxis dependen de cuándo el código es compilado a un lenguaje de máquina, es interpretado, separado en lexemas, compilado y luego ejecutado, o una mezcla de estas técnicas.
+Muchos lenguajes han sido implementados haciendo uso de intérpretes y compiladores, incluyendo a Lisp, Forth, Pascal, Perl y Java.
+Esto hace que, según los detractores de la dicotomía de Ousterhout, la compilación versus la interpretación conformen un dudoso parámetro dentro de una taxonomía de los lenguajes de programación.

@@ -1,0 +1,12 @@
+El tiempo de efemérides es una forma constante y uniforme de tiempo utilizada en astronomía al hacer cálculos del movimiento orbital de objetos del sistema solar.
+Se basaba en el movimiento orbital de la Tierra alrededor del Sol y no en la rotación de la Tierra sobre su eje.
+Los astrónomos en 1960 instituyeron el Tiempo de Efemérides (TE).
+Este sistema de tiempo corre perfectamente estable sin importar la rotación de la Tierra, más aún, sin importar que la Tierra exista.
+Se usa para muchos cálculos celestes y predicciones de almanaques (efemérides), especialmente para aquellos que tienen que ver con los movimientos de la Luna, los planetas y otros cuerpos del sistema solar en el espacio.
+El tiempo de efemérides se iguala el Tiempo Universal alrededor de 1902.
+Desde entonces, el UTC se ha ido corriendo de tal forma que en 1996, el UTC tiene una diferencia de 62 segundos.
+En 1984 se le cambió el nombre por el de Tiempo Dinámico Terrestre TDT; también se creó el Tiempo Dinámico Baricéntrico (TDB), que está referido al centro de masa del sistema solar.
+Para el propósito de los aficionados, pueden considerarse idénticos ya que su diferencia es de milisegundos.
+Si encuentra usted un tiempo dado en TE o Tiempo Dinámico y si importa un minuto de precisión, es necesario que usted sepa la diferencia con el UTC.
+Los almanaques la indican y se le conoce como Delta T.
+Use la fórmula UTC = Tiempo Dinámico - Delta T. Es imposible predecir Delta T de una manera precisa ya que las diminutas variaciones en la velocidad de rotación terrestre son altamente impredecibles.

@@ -1,0 +1,11 @@
+La declinación solar es el ángulo que forma la línea Sol-Tierra y el plano del ecuador celeste (proyección del ecuador terrestre).
+El valor de la declinación solar varía continuamente a lo largo del año, desde un máximo de +ε en el solsticio de verano boreal (de invierno austral) hasta un mínimo de -ε en el solsticio de invierno boreal (de verano austral), siendo ε la oblicuidad de la eclíptica.
+La declinación solar es igual a cero en los equinoccios de primavera y de otoño.
+La declinación solar es una de las dos coordenadas con las que se especifica la posición del Sol sobre la esfera celeste en el sistema ecuatorial, siendo la otra coordenada la ascensión recta solar.
+Ambas coordenadas están relacionadas tal y como se muestra en la figura de al lado, la cual cubre el periodo de un año trópico.
+Desde el punto Aries donde vale cero, la declinación solar aumenta hasta el solsticio de verano boreal donde vale +ε.
+A continuación, la declinación solar disminuye hasta el solsticio de invierno boreal donde vale -ε pasando previamente por el punto Libra donde vale nuevamente cero.
+A partir del solsticio de invierno boreal la declinación solar aumenta de nuevo regresando al punto Aries para empezar un nuevo año trópico.
+Únicamente en la zona intertropical el valor de la declinación solar puede coincidir con el de la latitud en algún momento durante el año.
+En concreto, este hecho sucede únicamente un día al año sobre los mismos trópicos de Cáncer y Capricornio o dos días al año para cualquier otra latitud intermedia.
+Durante esos días el Sol se encuentra al mediodía justo en el cenit y la radiación solar incide perpendicularmente a la superficie terrestre presentando el Índice UV su valor máximo, particularmente si se presentan condiciones de cielo despejado o parcialmente nublado.

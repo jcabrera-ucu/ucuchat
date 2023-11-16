@@ -1,0 +1,3 @@
+Neoaves es un clado que contiene a todas las aves modernas (Neornithes) con la excepción de Paleognathae y Galloanserae.
+La temprana diversificación de los linajes de Neoaves ocurrió muy rápidamente, por lo que tratar de resolver las relaciones filogenéticas ha sido difícil, aunque se han logrado ciertos consensos en determinados linajes pero con varias controversias.
+Cladograma de las relaciones filogenéticas de las aves modernas basado en Braun & Kimball (2021).

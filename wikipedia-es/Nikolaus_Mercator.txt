@@ -1,0 +1,15 @@
+Nikolaus Kauffman, en latín Nicholas Mercator, (c.1620 Eutin-1687 Versalles), fue un matemático del, con contribuciones en matemáticas, astronomía y teoría musical.
+Mercator vivió en los Países Bajos (1642-1648); se doctoró en la Universidad de Copenhague (1648-1654); vivió en París (1655-1657); fue profesor de matemáticas de Joscelyne Percy, hijo del décimo Conde de Northumberland, en Petworth, Sussex (1657).
+Enseñó matemáticas en Londres (1658-1682); ingresó como miembro de la Royal Society en 1666; diseñó un cronómetro marino para Carlos II de Inglaterra; diseñó y construyó las fuentes del Palacio de Versalles entre 1682 y 1687).
+Matemáticamente, es conocido por su tratado Logarithmo-technica sobre logaritmos, publicado en 1668.
+En éste, describió la siguiente serie, descubierta también de forma independiente por Gregory Saint-Vincent:
+También es en este tratado donde aparece por primera vez el término "logaritmo natural", en su forma latina log naturalis; su uso de este término es sorprendente pues precede el desarrollo del cálculo, en el cual aparecen las propiedades más naturales de este logaritmo.
+Nikolaus Mercator es conocido por su contribución en musicología, la coma de Mercator, también denominada noveno de tono o micro-intervalo de coma.
+La coma es un recurso para la afinación de instrumentos no temperados, como las cuerdas, y da precisión acústica a la escala diatónica y a sus 2 intervalos de base, el tono entero natural, que Mercator divide entre 9 comas, y el semitono natural, que divide en 4 comas.
+La escisión entre la afinación de tonos y semitonos permite distinguir los semitonos formados con la escala diatónica -Mi-Fa- o mediante su reproducción -Fa-Solb-, ambos con 4 comas, del semitono cromático -Fa-Fa#, Sib-Si-, con 5 comas.
+El recurso cromático desvela auditivamente el fenómeno enarmónico que se produce en la contigüidad de semitonos naturales y sonidos alterados, donde el tono sostenido es una coma más agudo que el tono natural –Mi#-Fa.
+El caso es similar al que se produce entre 2 alteraciones contiguas, una ascendente (#), 1 coma más aguda que otra, descendente (b) -Fa#Solb.
+A partir de la coma de Mercator se obtiene la división microtonal de la escala diatónica: Do a Mi: 2 tonos = 18 comas; Fa a Si: 3 tonos = 27 comas; Mi-Fa, Si-Do: 2 semitonos = 8 comas.
+Lo anterior produce una macro escala micro-tonal (sin Do final): 5 tonos (45) + 2 semitonos (8): 53 comas.
+Nikolaus Mercator es un precursor de los micro-intervalos y de la micro-tonalidad.
+La medición de la coma conduce a la frontera del continuo, límite difuso para los procesos auditivo, perceptivo, mnemónico o de cálculo, que dificulta la discriminación auditiva entre dos puntos continguos.

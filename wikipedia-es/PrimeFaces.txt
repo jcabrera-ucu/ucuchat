@@ -1,0 +1,5 @@
+PrimeFaces es una biblioteca de componentes para JavaServer Faces (JSF) de código abierto que cuenta con un conjunto de componentes enriquecidos que facilitan la creación de las aplicaciones web.
+Primefaces está bajo la licencia de Apache License V2.
+Una de las ventajas de utilizar Primefaces, es que permite la integración con otros componentes como por ejemplo RichFaces.
+En cuanto a la experiencia de los usuarios finales los componentes de Primefaces son amigables al usuario además que cuentan con un diseño innovador.
+Pero en lo que respecta al programador, es que sus desarrolladores no respetan un principio básico del desarrollo de componentes: la compatibilidad hacia atrás, es decir, un componente de una nueva versión de Primefaces por lo general no es compatible al 100% con una aplicación desarrollada con la versión previa a la misma

@@ -1,0 +1,49 @@
+La Netnografía es un método de investigación en línea inspirado en la etnografía para comprender la interacción social en contextos contemporáneos de comunicación digital.
+Se trata de un conjunto específico de prácticas de investigación relacionadas con la recopilación de datos, el análisis, la ética de la investigación y la representación, enraizadas en la observación participante.
+En netnografía, una cantidad significativa de los datos se origina de las huellas digitales de las conversaciones públicas que se producen y quedan registradas en plataformas de comunicaciones contemporáneas, utilizando estas conversaciones como datos.
+Es un método de investigación interpretativa que adapta las técnicas tradicionales de observación antropológica en persona al estudio de las interacciones y experiencias que se manifiestan a través de las comunicaciones digitales.
+El término netnografía es un acrónimo que combina "Internet" o "red" con "etnografía".
+El concepto fue desarrollado originalmente en 1995 por Robert Kozinets, como una herramienta para analizar las discusiones en línea de los fanáticos sobre la franquicia de Star Trek.
+El uso del método se extendió desde la investigación de mercado y la investigación del consumidor a una gama de otras disciplinas, que incluyen educación, biblioteconomía y ciencias de la información, turismo, informática, psicología, sociología, antropología, geografía, estudios urbanos, estudios de ocio y juegos, investigación sobre sexualidad humana y adicciones.
+La netnografía combina muestras de comunicación e interacciones que fluyen a través de Internet: textuales, gráficas, de audio, fotográficas y audiovisuales.
+Luego, los datos se analizan mediante análisis de contenido, análisis visual semiótico, entrevistas (en línea y en persona), análisis de redes sociales y mediante el uso de herramientas y técnicas analíticas de big data.
+Estas técnicas se emplean para encontrar la historia emocional detrás de un tema.
+Esto es lo que diferencia a la netnografía del análisis de big data, que a menudo depende de la máquina (análisis de sentimientos, nube de palabras) y también de la etnografía digital o la antropología digital.
+Estos términos a menudo se usan indistintamente, pero son diferentes.
+La diferencia entre netnografía y etnografía digital se puede ver de varias maneras, pero la más obvia es la motivación y la metodología de investigación determinadas por el propósito.
+La netnografía entiende a los usuarios de Internet como una comunidad en línea que se destaca de la vida cotidiana sustancial, mientras que la etnografía digital solo trata el mundo digital como un lugar para extender su recopilación de datos fuera de línea para complementar la investigación etnográfica.
+El marco metodológico entre ellos no suele ser diferente, ya que la Netnografía utiliza principalmente técnicas cualitativas en línea y ocasionalmente utiliza la investigación cuantitativa en línea como complemento, mientras que la etnografía digital combina tanto cuantitativa (por ejemplo, análisis de redes y co-palabras) como cualitativa (por ejemplo, análisis de sentimientos y contenido).
+La netnografía recopila datos de datos de Internet, de entrevistas y notas de campo.
+Al igual que con la teoría fundamentada, la recopilación de datos debe continuar mientras se generen nuevos conocimientos.
+Para fines de precisión, algunos netnógrafos siguen de cerca la cantidad de texto recopilado y leído, y el número de participantes distintos.
+Las soluciones de software CAQDAS pueden acelerar la codificación, el análisis de contenido, la vinculación de datos, la visualización de datos y las funciones de desarrollo de teorías.
+Varias empresas desarrollan constantemente nuevas formas de análisis de datos cualitativos, aunque los resultados se parecen más a análisis de contenido que a representaciones etnográficas.
+La netnografía y el análisis de contenido difieren en la adopción de métodos computacionales para recopilar datos semiautomatizados, analizar datos, reconocer palabras y visualizar datos.
+Sin embargo, algunos académicos discuten la distancia de la netnografía al análisis de contenido, prefiriendo afirmar que también es una técnica analítica de contenido.
+A diferencia de la minería de datos y el análisis de contenido, la netnografía como método enfatiza la contextualización cultural de los datos en línea.
+Esto a menudo demuestra ser un desafío en el contextos en línea de señales sociales empobrecidas.
+Debido a que la netnografía se basa principalmente en la observación del discurso textual, garantizar interpretaciones confiables requiere un enfoque diferente al equilibrio del discurso y el comportamiento observado que ocurre durante la etnografía en persona.
+Aunque el panorama en línea media la representación social y hace problemático el tema de la identidad del informante, la netnografía parece perfectamente adecuada para tratar el comportamiento o el acto social como la última unidad de análisis, en lugar de la persona individual.
+La ética de la investigación puede ser una de las diferencias más importantes entre la etnografía tradicional y la netnografía.
+Las inquietudes éticas sobre la netnografía se convierten en inquietudes iniciales sobre si los foros en línea deben considerarse un sitio privado o público, y sobre lo que constituye el consentimiento informado en el ciberespacio.
+En una desviación importante de los métodos tradicionales, la netnografía utiliza información cultural que no se proporciona específicamente y de manera confidencial al investigador.
+Los usuarios que originalmente crearon los datos no necesariamente tienen la intención o avalan su uso en investigación.
+Por lo tanto, la netnografía ofrece pautas específicas sobre cuándo citar posteos y autores en línea, cómo citarlos, qué considerar en una representación netnográfica ética, cuándo pedir permiso y cuándo no es necesario.
+En comparación con encuestas, experimentos, grupos focales y entrevistas personales, la netnografía puede ser menos intrusiva.
+Se lleva a cabo utilizando observaciones en un contexto que no es fabricado por el investigador.
+La netnografía también es menos costosa y más oportuna que los grupos focales y las entrevistas personales.
+Las limitaciones de la netnografía se basan en la habilidad interpretativa del investigador y la falta de informantes presentes en el contexto en línea, que puede conducir a dificultades para generalizar los resultados a grupos fuera de la muestra.
+Sin embargo, estas limitaciones pueden mejorarse de alguna manera mediante el uso cuidadoso de métodos de recopilación de datos convergentes que unen la investigación fuera de línea y en línea de manera sistemática, así como mediante un muestreo cuidadoso y enfoques interpretativos.
+Los investigadores que deseen generalizar los resultados de una netnografía, de un grupo en línea en particular a otros grupos, deben considerar el uso de múltiples métodos de triangulación.
+La netnografía es un método relativamente nuevo.
+Espera un mayor desarrollo y refinamiento, a manos de una nueva generación de investigadores expertos en Internet.
+Sin embargo, varios investigadores están desarrollando las técnicas en sitios de redes sociales, mundos virtuales, comunidades móviles y otros nuevos dominios sociales mediados por computadora.
+Aunque la netnografía se desarrolla a partir de la etnografía y se aplica en entornos en línea, es más que la aplicación de técnicas etnográficas tradicionales en un contexto en línea.
+Hay varias características que diferencian la netnografía de la etnografía:
+La netnografía también es similar a la etnografía de estas maneras:
+La Netnografía es una disciplina aún en construcción y heredera de disciplinas clásicas como la antropología social y cultural, la sociología e incluso de la psicología con el objetivo de entender la realidad social que se está produciendo en el contexto en línea donde millones de personas conviven, se expresan e interactúan a diario.
+En España, Del Fresno propuso una aproximación no sólo orientada al marketing sino transversal a las Ciencias Sociales y la investigación social, como por ejemplo la investigación netnográfica de los climas de opinión alrededor de los medicamentos y su aceptabilidad social.
+Asimismo, Paiva ha investigado comunidades y culturas de internet desde la perspectiva de los usuarios.
+La netnografía analiza el diálogo entre consumidores en comunidades en línea a través de la observación empática permitiendo la evaluación cualitativa de las necesidades, deseos, experiencias, motivaciones, actitudes y percepciones de los consumidores para la creación de productos, servicios y marcas.
+En Chile, se ha publicado en 2013 una investigación netnográfica editada por el sociólogo Pablo Martínez Fernández, que desarrolla la locura en entornos virtuales.
+En México, la Universidad Nacional Autónoma de México publicó en 2014 la primera tesis de licenciatura que utiliza el método netnográfico en una investigación sobre la interacción de los usuarios en videoclips musicales de YouTube.

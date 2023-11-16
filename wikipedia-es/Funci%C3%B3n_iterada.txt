@@ -1,0 +1,32 @@
+En matemáticas, función iterada es una función que es compuesta consigo misma, en forma repetida, en un proceso llamado iteración.
+Las funciones iteradas son objeto de profundos estudios en el campo de los fractales y sistemas dinámicos.
+La definición formal de una función iterada en un conjunto X es:
+Sea X un conjunto y una función.
+Se define el iterado n-ésimo
+f^n de f mediante
+donde es la función identidad en X, y.
+En la expresión previa, f \circ g indica una composición de función; que tiene el valor,.
+La sucesión de funciones f^n es llamada una sucesión de Picard, en honor a Charles Émile Picard.
+Dado un x en X, la sucesión de valores f^n(x) es denominada la órbita de x.
+Si para algún entero m, entonces la órbita se denomina órbita periódica.
+El número más pequeño de m para un dado x es llamado el período de la órbita.
+El punto x es llamado un punto periódico.
+Si m=1, o sea, si f(x) = x para algún x en X, entonces x es denominado un punto fijo de la sucesión iterada.
+El conjunto de los puntos fijos es por lo general indicado como Fijo(f).
+Existe un número de teoremas de punto fijo que garantizan la existencia de los puntos fijos en varias situaciones, incluyendo el teorema del punto fijo de Banach y el teorema del punto fijo de Brouwer.
+Existen varias técnicas para aceleración de la convergencia de las sucesiones producto de la iteración de punto fijo.
+Por ejemplo, el método de Aitken aplicado a un punto fijo iterado es conocido como método de Steffensen, y da origen a una convergencia cuadrática.
+A través de la iteración, se observa que existen conjuntos que se reducen y convergen hacia un punto único.
+En este caso, el punto al que se converge se denomina punto fijo atractivo.
+Por el contrario, en otros casos la iteración puede mostrar puntos que divergen de un punto único; y entonces se dice que éste es un punto fijo inestable.
+Cuando los puntos de la órbita convergen a uno o más límites, se denomina conjunto límite o el conjunto límite ω al conjunto de los puntos de acumulación de la órbita.
+En forma similar se pueden generalizar las ideas de atracción y repulsión; se puede categorizar a los iterados en conjuntos estables y conjuntos inestables, de acuerdo al comportamiento que tengan en un entorno durante una iteración.
+Existen otros comportamientos limitantes; por ejemplo los wandering points son puntos que se alejan del sitio en que comenzaron, para nunca retornar ni siquiera a sus cercanías.
+La idea de iteración puede ser generalizada de manera tal que el contador de iteración n se convierte en un parámetro continuo; en este caso, el sistema es llamado un flujo.
+Si f y g son dos funciones iteradas, y existe un homeomorfismo h tal que, entonces se dice que f y g son conjugados topológicamente.
+Claramente, la conjugación topológica se preserva durante la iteración, dado que, por lo que si es posible resolver un sistema de función iterada, se poseen las soluciones para todos los sistemas conjugados topológicamente.
+Por ejemplo, el tent map es conjugado topológicamente del logistic map.
+Si la función puede ser descrita por una matriz estocástica, o sea, una matriz en la que las suma de sus filas o columnas es igual a uno, entonces el sistema iterado se llama cadena de Márkov.
+Funciones iteradas famosas incluyen el Conjunto de Mandelbrot y los sistemas de funciones iteradas.
+Si f es la acción de un elemento de un grupo en un conjunto, entonces la función iterada corresponde a un grupo libre.
+Las funciones iteradas pueden ser estudiadas mediante el uso de la función zeta de Artin-Mazur y con los operadores de transferencia.

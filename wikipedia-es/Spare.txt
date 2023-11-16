@@ -1,0 +1,7 @@
+Un spare (también llamado semipleno) es un término utilizando en bowling para indiciar que todos (10) los bolos (pinos) han sido derribados después del segundo lanzamiento en el par de tiros que ocurre en cada jugada.
+En una hoja de puntuación, un spare es simbolizado por una barra inclinada hacia adelante (/).
+Un "spare" ocurre cuando no hay ningún bolo después del segundo lanzamiento de un bolo en una jugada (un jugador que utiliza los dos lanzamiento para derribar todos los bolos).
+Un jugador que logra un spare recibe 10 puntos más unos puntuación adicional de lo que logre en el siguiente lanzamiento (solamente la primera bola del siguiente lanzamiento)
+Un jugador que logra un spare en la tirada (la última tirada) se le permite tirar un bolo más para permitir la puntuación adicional.
+Antes, calculando correctamente estos puntos era dificultoso, sobre todo cuando se combinaban strikes y spares consecutivos.
+Actualmente de las puntuaciones se encarga un ordenador.

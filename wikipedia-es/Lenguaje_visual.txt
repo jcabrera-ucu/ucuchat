@@ -1,0 +1,45 @@
+El lenguaje visual es el lenguaje que desarrollamos en el cerebro relacionado con la manera de como interpretamos lo que percibimos a través de los ojos ("visualmente").
+Es el que utiliza imágenes y signos gráficos.
+Tiene como objetivo la transmisión de mensajes a través de la imagen.
+El lenguaje visual es el sistema de comunicación que se emplea en la creación de mensajes visuales.
+La forma es la propiedad de la imagen o de un objeto que define su aspecto.
+En otras definiciones, como la de Adolf von Hildebrand, es el movimiento que la cosa ha obtenido en su lucha por ocupar un lugar en el espacio.
+La forma de un objeto suele reconocerse por estar delimitada por su borde proyectado desde un punto de vista que normalmente corresponde con el punto de vista del observador.
+En el lenguaje visual, la forma más en términos gestálticos, la constituye el contorno o borde exterior general de una entidad visual o figura, donde identificamos también características como su color, textura, tamaño, luminosidad.
+La forma puede ser abstraída obteniendo sus datos y representada en forma de un dibujo en el plano.
+Igual que en el mundo de las artes.
+El color es uno de los elementos esenciales de la configuración de una forma como la interpretamos o la apreciamos en el espacio.
+La ciencia en su objetiva observación ha podido especular sobre diferentes maneras de percibirlo.
+El color suele organizarse cromáticamente en un círculo, en el que se suelen diferenciar los colores primarios o generativos, los colores secundarios, producto de la mezcla de dos primarios, y los terciarios, resultantes de la mezcla de tres colores primarios, en algunos casos colores "de menor saturación" o "intensidad" por la presencia de la complementariedad en la gama cromática.
+La textura hace referencia normalmente a los rasgos visuales representados en la superficie de un objeto que da carácter e identidad al mismo en la representación.
+Suelen ser pequeños rasgos visuales que definen la relación de “veracidad” entre el objeto real y el objeto representado.
+Así la textura de una imagen o un fragmento de imagen, suele dar identidad diferenciando al objeto representado.
+Las texturas suelen integrarse en el conjunto de la imagen, aportando una sensación ambiental y pasando muchas veces desapercibidas en la imagen o en los objetos representados.
+Existen dos categorías de textura:
+-Textura visual: Es producto del comportamiento de la luz sobre las superficies de los objetos; y la percepción que tenemos de ella es solo de carácter visual.
+- Textura táctil: Cuando interviene el tacto y la vista.
+La textura se puede describir como la cualidad de una superficie que posee elementos texturantes.
+De estos elementos texturantes se puede definir: tamaño, separación y dirección.
+La iluminación es un aspecto más de la configuración de las imágenes, ya que de ella depende que sean percibidas las formas, los colores, y el resto de los elementos visuales en el plano de la representación.
+La luz existe implícitamente en la representación, pero también es sugerida a través de la relación de contraste, de sombras proyectadas y demás recursos visuales que sean representados.
+Las tres formas básicas están asociados a los colores primarios según el pintor Kandinsky.
+A lo largo de la historia de la producción visual, se han establecido diversas teorías en la búsqueda de una gramática visual esencial que intenta recoger cómo interactúan los diversos elementos que intervienen en las imágenes.
+Algunas de éstas teorías, aceptan que existe una serie de formas básicas, como son el cuadrado, el triángulo y el círculo – de las cuales es posible derivar formas y estructuras visuales más complejas.
+Independientemente a las formas básicas, existen un conjunto de entidades gráficas que podríamos considerar esenciales, muy relacionadas con el dibujo científico o sistema diédrico como son el punto, la línea y el plano.
+El punto es considerado la unidad mínima de expresión visual por algunos teóricos de la imagen.
+La línea es un elemento esencial y básico en la representación visual.
+Suele usarse para delimitar espacios básicos o definir elementos en la representación.
+La línea es un recurso esencial en dibujo y básicamente delimita el espacio.
+El plano hace referencia a una superficie delimitada visualmente.
+El plano es el elemento visual básico de representación del volumen.
+A través del plano se configura el espacio tridimensional.
+La psicología de la Gestalt es una teoría de la percepción surgida en Alemania a principios del que alude a los modos de percepción de la forma de aquello que vemos.
+Nuestro cerebro decodifica la información que recibimos a través de diversas asociaciones que se producen en el momento de la percepción.
+Los principios de la Psicología de la Gestalt son:
+Todas estas leyes responden al modo de percibir del ojo humano, a través del cual el cerebro decodifica la información visual.
+Constituye el modo en que percibimos constantemente.
+Actúa sobre nosotros, y nosotros actuamos en relación también a ello.
+En cuanto al manejo de los códigos visuales, tanto para su estudio como para su empleo en la creación de mensajes comunicacionales, es importante tener en cuenta las relaciones entre el campo y la figura donde, además de las características formales, la ubicación de los elementos también es generadora de sensaciones e interpretada por nuestro cerebro.
+De este modo, si delimitamos una imagen a través de un encuadre, ubicando uno de sus elementos en la parte central del campo, éste dará sensación de quietud y atraerá al espectador.
+Sin embargo, si el mismo objeto es ubicado en la parte superior central del campo, la sensación generada será de tensión.
+Algunos de los elementos sintácticos de la imagen o principios del diseño visual son los siguientes:

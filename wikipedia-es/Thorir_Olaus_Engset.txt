@@ -1,0 +1,8 @@
+Thorir Olaus Engset (Stranda; 8 de mayo de 1865 – Oslo; octubre de 1943) fue un matemático e ingeniero noruego que hizo un trabajo pionero en el campo de la teoría de colas de tráfico telefónico.
+Engset consiguió un máster en física y matemática (1894) en la Universidad de Oslo, después de lo cual trabajó en Televerket como oficinista, analista de tráfico y más tarde director general (1921-22, 1930-35).
+Desarrolló la Fórmula Engset (1915) antes de los avances de A. K. Erlang (1917).
+Su manuscrito de 1915 Om beregningen av vælgere I et automatisk telefonsystem (1915), sin embargo, no fue publicado hasta 1918.
+La obra fue traducida al alemán como Die Wahrscheinlichkeitsrechnung zur Bestimmung der Wählerzahl en automatischen Fernsprechämtern, en Elektrotechnische Zeitschrift, 31 Heft, 1918.
+Una traducción al inglés apareció en Arne Myskja, On the Calculation of Switches in an Automatic Telephone System en Telektronikk, 94 (2): 99-142, 1998.
+También publicó un trabajo sobre la física nuclear (1927): ''Die pone und die Lichtstrahlung der Wasserstoffelektronen.
+Unzeitgemässe de Ergänzende über Bahnformen und Strahlungsfrequenzen (3 partes) en Annalen der Physik'', 82 (1927) 1017; 83 (1927) 903; 84 (1927) 880.

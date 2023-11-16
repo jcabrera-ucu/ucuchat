@@ -1,0 +1,18 @@
+MIX es una conferencia ofrecida anualmente por Microsoft enfocada a desarrolladores web y diseñadores sobre el uso de tecnologías nuevas de Microsoft y tendencias en el desarrollo de aplicaciones.
+La conferencia es ofrecida cada primavera en el Hotel Venetian en Las Vegas.
+además de conferencias técnicas sobre tecnologías Microsoft, MIX apoya fuertemente a los desarrolladores invitando a populares conferencistas de otras populares conferencias sobre diseño web, como la SXSW, y patrocina un concurso de diseño CSS cada año para promover la conferencia.
+Microsoft ha utilizado este evento para promocionar sus productos y herramientas de diseño web como Silverlight y Microsoft Expression Studio.
+MIX 06 se celebró del 20 de marzo al 22 de marzo de 2006.
+Se centró en el nuevo Internet Explorer 7 y WP (una parte llamada WPF / E más tarde conocida como Silverlight).
+Que incluyó una conferencia magistral por Bill Gates en la que dijo: "We need microformats" - "necesitamos microformatos".
+MIX 07 was held from April 30 to May 7 2007.
+The primary focus of the MIX 2007 was promoting Silverlight.
+The majority of the session content was focused on demonstrating Silverlight applications and the development tools used to build them.
+The main keynote, given by Scott Guthrie was also promoting Silverlight.
+Microsoft Expression Studio was also released to manufacturing thereafter.
+Along with the main conference in Las Vegas, several reMIX events were held throughout 2007 in other cities.
+The reMIX conferences represented the sessions from MIX with different keynote speakers.
+MIX 08 Fue celebrado desde el 5 hasta el 7 de marzo de 2008.
+el primer beta de Microsoft Windows Internet Explorer 8 fue demostrado y contenía nuevas catacteristicas, incluyendo WebSlices y Activities.
+MIX 09 se celebró del 18 al 20 de marzo de 2009.
+La disponibilidad de la versión final de Internet Explorer 8 fue anunciada, así como la demostración de Silverlight 3 y los betas de Expression Blend 3.0.

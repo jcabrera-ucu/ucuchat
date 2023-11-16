@@ -1,0 +1,22 @@
+MPEG 4 es un método para la compresión digital de audio y vídeo.
+Fue introducido a finales de 1998 y designado como un estándar para un grupo de formatos de codificación de audio, video y las tecnologías relacionadas acordadas por la Organización
+MPEG-4 absorbe muchas de las características de MPEG-1 y MPEG-2 y otros estándares relacionados, añadiendo nuevas características, tales como VRML(extendido) soporte para 3D, archivos compuestos orientados a objetos (incluyendo audio, vídeo y objetos VRML), soporte para Gestión de derechos digitales especificado externamente y diversos tipos de interactividad.
+AAC se ha normalizado como un complemento a MPEG-2 (como parte 7) antes de que MPEG-4 fuera emitida.
+MPEG-4 es todavía un estándar en desarrollo y se divide en un número de piezas.
+Las empresas que promueven la compatibilidad MPEG-4 no siempre manifiestan claramente a que "parte" de nivel de compatibilidad se están refiriendo.
+Las piezas clave para tener en cuenta son MPEG-4 parte 2 (incluyendo el perfil simple avanzado, utilizado por códecs como DivX, Xvid, Nero Digital y 3ivx y Quicktime 6) y MPEG-4 parte 10 (MPEG-4 AVC/H.264 o Codificación de vídeo avanzada, utilizados por el codificador x264, por Nero Digital AVC, con QuickTime 7, y vídeo de alta definición en los medios como el Blu-ray).
+La mayoría de las características incluidas en MPEG-4 se dejan a la voluntad del desarrollador decidir si implementarlas o no. Esto significa que probablemente no hay implementaciones completas de todo el conjunto de normas MPEG-4.
+Para hacer frente a esto, la norma incluye el concepto de "perfiles" y "niveles", lo que permite un conjunto específico de capacidades para definir de una manera apropiada un subconjunto de las aplicaciones.
+Inicialmente, MPEG-4 se dirige principalmente para comunicación de vídeo con baja tasa de bits; sin embargo, su alcance se amplió más tarde a un estándar de codificación multimedia.
+MPEG-4 es eficiente a través de una variedad de tasas de bits que van desde unos pocos kilobits por segundo a decenas de megabits por segundo.
+MPEG-4 ofrece las siguientes funciones:
+MPEG-4 ofrece una serie de tecnologías para los desarrolladores, para proveedores de servicios y para los usuarios finales:
+El formato MPEG-4 puede realizar diversas funciones, entre las cuales se podrían nombrar las siguientes:
+MPEG-4 ofrece un conjunto amplio de herramientas para la codificación.
+Subconjuntos de herramientas MPEG-4 se han proporcionado para su uso en aplicaciones específicas.
+Estos subconjuntos, llamados 'Perfiles', limitan el tamaño de la herramienta que un decodificador está obligado a implementar.
+con el fin de limitar la complejidad computacional, uno o varios "niveles" se establecen para cada Perfil.
+Un perfil y una combinación de nivel permite:
+MPEG-4 se compone de varios estándares denominados 'partes', incluyendo los siguientes (cada parte cubre un determinado aspecto de la especificación completa):
+Los perfiles se definen también en "partes", por lo que una implementación de una parte no suele ser una implementación de una parte completa.
+MPEG-1, MPEG-2, MPEG-7 y MPEG-21 son otro conjunto de estándares MPEG.

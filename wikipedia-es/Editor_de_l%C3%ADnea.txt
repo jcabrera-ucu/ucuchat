@@ -1,0 +1,12 @@
+Un editor de línea es un programa de editor de texto en el cual cada comando de edición se aplica a una o más líneas completas del texto designado por el usuario.
+Los editores de línea preceden a los editores de texto de pantalla y se originaron en una era en la cual un operador de ordenador típicamente interactuaba con un teleprinter (básicamente una impresora con un teclado), sin exhibición de vídeo, y ninguna capacidad de mover un cursor interactivamente en un documento.
+Los editores de línea eran también una característica de muchos ordenadores hogareños, evitando la necesidad de un edit de pantalla completa de memoria intensiva.
+Los editores de línea están limitados al método de entrada y salida de los teclados de tipo máquina de escribir.
+La mayoría edita de a una línea por vez.
+Escribir, editar, y mostrar un documento no ocurren simultáneamente.
+Generalmente, escribir no introduce texto directamente al documento sino que los usuarios modifican el texto del documento al introducir comandos específicos sobre una terminal de solo texto.
+Tanto los comandos como el texto, y la correspondiente salida del editor, se desplazarán hacia arriba desde el fondo de la pantalla, en el orden que están introducidos o impresos por pantalla.
+A pesar de que los comandos indican la(s) línea(s) que modifican, para mostrar el texto editado dentro de su contexto (es decir, dentro de partes más grandes del documento), se requiere una orden separada.
+Los editores de línea tienen una referencia a la 'línea actual' a la cual se aplican los comandos ingresados.
+En contraste, los editores de pantalla modernos el permiten al usuario navegar, seleccionar, y modificar porciones del documento de manera interactiva y directa.
+Generalmente se usan los números de línea o un contexto basado en la búsqueda (especialmente cuándo estamos haciendo cambios dentro de las líneas) para especificar qué parte del documento será editado o mostrado.

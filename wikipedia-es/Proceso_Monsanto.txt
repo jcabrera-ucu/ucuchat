@@ -1,0 +1,18 @@
+El proceso de Monsanto es un importante método para la fabricación de ácido acético por carbonilación catalítica de metanol.
+Este proceso se desarrolla a un presión de 30 a 60 atm y una temperatura de 150-200 °C y ofrece una selectividad mayor del 99%.
+Fue desarrollado por la compañía alemana BASF en 1960 y mejorado por Monsanto en 1966, que introdujo un nuevo sistema catalizador.
+El proceso Monsanto ha sido ampliamente sustituido por el proceso Cativa, un proceso similar con base en el iridio, desarrollado por BP Chemicals Ltd, que es más económico y respetuoso con el medio ambiente.
+La especie activa catalíticamente es el anión cis-[Rh(CO)2I2]− (1).
+Se ha demostrado que el ciclo catalítico se divide en seis pasos, dos de los cuales no tienen que ver con el rodio: la conversión de metanol en yoduro de metilo y la hidrólisis de la yoduro de acetilo para dar ácido acético.
+La primera etapa organometálica es la adición oxidativa del yoduro de metilo al cis-[Rh(CO)2I2]− para formar la especie hexacoordinada [(CH3)Rh(CO)2I3]− (2).
+Este anión rápidamente se transforma, a través de la migración de un grupo metilo al ligando carbonilo, produciendo el complejo acetilo pentacoordinado [(CH3CO)Rh(CO)I3]− (3).
+Este complejo de índice de coordinación cinco reacciona con monóxido de carbono para formar el complejo dicarbonilo de coordinación seis (4) que se descompone por eliminación reductiva para formar yoduro de acetilo (CH3COI) y regenera la forma activa del catalizador.
+El yoduro de acetilo se hidroliza luego para dar ácido acético.
+Se ha demostrado que la reacción es de primer orden en relación con el yoduro de metilo y el catalizador (1).
+De ahí que se haya propuesto que el paso determinante de la velocidad del ciclo catalítico sea la adición oxidativa del yoduro de metilo al catalizador (1).
+Se cree que esto ocurre a través de un ataque nucleófilo del centro de rodio sobre el carbono del yoduro de metilo.
+El anhídrido acético se produce por carbonilación del acetato de metilo en un proceso que se inspiró en la síntesis Monsanto del ácido acético.
+En este proceso, el yoduro de litio convierte el acetato de metilo en acetato de litio y yoduro de metilo, que a su vez produce yoduro de acetilo a través de una carbonilación.
+El yoduro de acetilo reacciona con las sales de acetato o con ácido acético para dar el producto.
+Los yoduros rodio y las sales de litio se emplean como catalizadores.
+Debido a que el anhídrido acético no es estable en agua, la conversión se lleva a cabo en condiciones anhidras, en contraste con la síntesis Monsanto del ácido acético.

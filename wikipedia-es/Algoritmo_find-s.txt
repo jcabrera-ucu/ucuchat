@@ -1,0 +1,35 @@
+El algoritmo find-s es utilizado dentro del ámbito de la inteligencia artificial.
+Su uso se engloba en la búsqueda de hipótesis o conceptos en él dado un conjunto de ejemplos.
+El conjunto de ejemplos deberá estar conformado por una serie de tuplas de valores, cada uno de ellos denominados atributos.
+Adicionalmente uno de los atributos ha de ser de tipo binario ( sí/no, cierto/falso, válido/inválido ), el cual es el atributo objetivo a clasificar que diferencia el concepto.
+De esta forma el algoritmo trata de obtener una hipótesis que sea la más específica a los atributos en común de todos los ejemplos del conjunto de entrenamiento que se le ha suministrado.
+Una vez obtenida la hipótesis se puede determinar si una nueva instancia la cumple.
+FIND-s realiza esta labor tomando una tupla de valores con el mismo número de atributos, menos el del atributo objetivo, que los de entrenamiento.
+Pero de forma adicional define un nuevo tipo de valores que puede adoptar un atributo.
+Find-S (Ejemplos)
+Sea inicialmente la hipótesis más específica
+Por cada ejemplo positivo de Ejemplos
+Si la hipótesis concuerda con el ejemplo no hacer nada
+sino cambiar la hipótesis por la menor generalización de sí misma
+La hipótesis más específica es aquella conformada por toda la tupla a Ø
+La menor generalización consiste en realizar los siguientes cambios
+<ul>
+<li> Si el atributo de la hipótesis es Ø y el del ejemplo contiene un valor entonces se cambia por el del valor del ejemplo
+<li> Si en cambio la hipótesis contiene un valor distinto a Ø y el del ejemplo otro valor distinto entonces se modifica por una ?
+</ul>
+Sea el siguiente conjunto de entrenamiento:
+la hipótesis inicial es:
+<Ø,Ø,Ø,Ø,Ø,Ø>
+Ante el primer ejemplo
+<Soleado, Templada, Normal, Fuerte, Templada, Igual>
+Ante el segundo ejemplo
+<Soleado, Templada,?,Fuerte, Templada, Igual>
+Como el tercer ejemplo tiene su atributo objetivo a falso no se hace nada
+Y Ante el último ejemplo
+<Soleado, Templada,?,Fuerte,?,?>
+Él cual construye la hipótesis final.
+Que puede leerse como que para hacer deporte debe cumplirse que el cielo este soleado, la temperatura templada y el viento fuerte.
+Todos los demás atributos no se tienen en cuenta.
+<ul>
+<li>
+</ul>

@@ -1,0 +1,29 @@
+En medicina, la hemofiltración es una terapia de reemplazo renal similar a la hemodiálisis que es usada casi exclusivamente en las instalaciones de cuidado intensivo.
+Así que casi siempre se usa para la falla renal aguda.
+Es una terapia lenta y continua en la cual las sesiones duran usualmente entre 12 a 24 horas y son realizadas por lo general diariamente.
+Durante la hemofiltración, la sangre de un paciente es pasada a través de un conjunto de tuberías (un circuito de filtración), vía una máquina, a una membrana semipermeable (el filtro) donde son eliminados los residuos y el agua.
+Se agrega líquido de reemplazo y la sangre es devuelta al paciente.
+En una manera similar a la de la diálisis renal, la hemofiltración implica el movimiento de solutos a través de una membrana semipermeable.
+Sin embargo, la membrana usada en la hemofiltración es mucho más porosa que la usada en hemodiálisis, y no es usado el dialisato.
+En lugar de ello una presión hidrostática positiva lleva el agua y los solutos a través de la membrana del filtro donde son drenados como filtrado.
+Un líquido de reemplazo isotónico es añadido a la sangre filtrada resultante para reemplazar el volumen líquido y los valiosos electrolitos.
+Entonces, esto es retornado al paciente.
+Comparado con a la hemodiálisis, el proceso es más lento y el retiro del líquido es gradual, y menos propenso a resultar en un compromiso hemodinámico (hipotensión).
+Esto lo hace conveniente para los pacientes de cuidado crítico que a menudo tienen hipotensión y usualmente están en cama y con frecuencia están inconscientes.
+Un panorama común en la cual la hemofiltración es usada es en la falla renal aguda precipitada por choque séptico.
+Como en la hemodiálisis, un acceso vascular es requerido para procesar grandes volúmenes de sangre del paciente.
+Esto siempre es alcanzado con un catéter venoso central colocado en una de las venas centrales grandes.
+Dado que el proceso de hemofiltración es lento, un catéter central debe ser usado, incluso si el paciente tiene acceso vascular alternativo (FAVI), debido a que los flujos lentos y los tiempos de filtración largos no son viables en fístulas o injertos arteriovenosos.
+Históricamente, algunos antiguos hemofiltros usaron un catéter arterial como acceso primario y usaron la presión arterial para conducir sangre a través del circuito.
+Estos tipos de filtración han sido en gran parte reemplazados debido a las complicaciones y a la naturaleza precaria de la presión arterial en pacientes de cuidado crítico.
+Los modernos hemofiltros son usualmente Hemofiltros Continuos Veno-Venosos (CVVHF), lo que significa que la sangre removida proviene de una vena, la presión se generan vía una bomba en la máquina y la sangre es retornada a una vena.
+El líquido del hemofiltración de reemplazo usualmente utiliza lactato como amortiguador de la sangre.
+Esto de vez en cuando puede ser problemático en pacientes con acidosis láctica severa.
+Esto se puede evitar por el uso de bicarbonato como amortiguador alternativo.
+Esto es conocido como Hemofiltración de Bicarbonato.
+Hemofiltración a veces es usada conjuntamente con hemodiálisis, llamándose este proceso como hemodiafiltración, es un tratamiento crónico en algunos centros.
+Usando grandes cantidades fluidos de sustitución (60 a 90 litros por tratamiento), las toxinas y los solutos pueden ser removidos del paciente, como por ejemplo la microglobulina beta 2, que es removida mucho más eficientemente con la hemofiltración que con la hemodiálisis.
+La hemodiálisis es muy eficiente en remover las toxinas de bajo peso molecular y la hemofiltración es más eficiente en la remoción de toxinas de más alto peso molecular.
+La hemodiafiltración describe la combinación de un hemofiltro y un hemodializador en el mismo circuito.
+Esto ha sido hecho por la adición de una membrana de diálisis a un circuito estándar de hemofiltración en la instalación de la Unidad de Cuidados Intensivos, y también por la adición de un hemofiltro a una máquina de hemodiálisis modificada, donde el líquido de reemplazo es generado por la máquina durante la sesión de diálisis (hemodiafiltración en línea).
+Una remoción más eficiente de las toxinas de mediano peso por la hemofiltración adicional puede ser esperada para traducirse en mejores resultados para los pacientes de diálisis recibiendo este tratamiento, no obstante a pesar de los ensayos en curso, no se ha demostrado ninguna evidencia de tal ventaja.

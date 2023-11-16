@@ -1,0 +1,37 @@
+El efecto acelerador se refiere en macroeconomía al efecto positivo que tiene el crecimiento de la economía sobre la formación bruta de capital o inversión fija privada.
+Un incremento en el PIB implica que los negocios en general ven incrementar sus ganancias, ventas y flujo de caja, y aumenta el uso de la capacidad instalada.
+Esto usualmente implica que las expectativas de ganancias y la confianza de los inversionistas aumenta, lo cual motiva a las empresas a construir más fábricas e instalar más maquinaria, es decir, más inversión fija.
+Esto puede llevar a un mayor crecimiento de la economía a través del estímulo sobre los ingresos y gastos de los consumidores, por ejemplo vía el efecto multiplicador.
+El efecto acelerador también va en vía contraria: cuando el PIB cae, es decir se presenta una recesión, las ganancias, ventas, flujo de caja, el uso de la capacidad instalada y las expectativas también lo hacen.
+Esto a su vez desalienta la inversión en activos fijos, reforzando la recesión.
+El efecto acelerador tiene un mayor impacto cuando la economía se está alejando de su nivel de pleno empleo o cuando ya esta por debajo de este nivel de producción.
+Esto es así debido a que los altos niveles de demanda agregada chocan con los límites impuestos por los niveles de fuerza laboral, el stock existente de bienes de capital, la disponibilidad de recursos naturales y la habilidad tecnológica para convertir estos insumos en bienes.
+Hay que anotar que este principio, como muchos otros en economía, solo funciona ceteris paribus o "con todo lo demás constante.".
+Esto quiere decir que el efecto acelerador puede ser cancelado por otras fuerzas económicas.
+El efecto acelerador es el fenómeno en el cual una variable se mueve hacia su valor deseado cada vez más rápido a medida que avanza el tiempo.
+Normalmente, esta variable toma la forma del stock de capital.
+En los modelos keynesianos, no se asume que el capital sea fijo, por lo que el coeficiente acelerador se convierte en la inversa del multiplicador fiscal y la decisión de capital se transforma en una decisión de inversión.
+En la teoría general, donde la decisión de capital determinada el nivel deseado de stock de capital (incluyendo capital fijo y capital de trabajo), y la decisión de inversión determina el cambio del stock de capital en una secuencia de períodos de tiempo, el efecto acelerador aparece porque solo el gap del período actual afecta a la inversión actual, y por lo tanto a los gaps previos.
+El acelerador v Aftalion-Clark tiene la siguiente forma, mientras que el multiplicador keynesiano tiene la forma , donde c es la propensión a consumir.
+De lo anterior se deduce claramente que el cambio en la inversión tiene un efecto multiplicador sobre el ingreso, pero el punto en el que el aumento del ingreso acelera la acumulación del capital (el efecto acelerador matemáticamente aumenta en el tiempo) solo puede mostrarse numéricamente.
+Dictando el efecto acelerador que el incremento del producto acelera la acumulación de capital, y la disminución del producto acelera la disminución de capital (en un modelo simple), esto podría provocar que el sistema fuera inestable o cíclico, funcionando de este modo multitud de modelos de ciclos económicos (los llamadados modelos de ciclo multiplicador-acelerador).
+El efecto acelerador se presenta en este modelo simple.
+Este modelo asume que el stock de bienes de capital (K) es proporcional al nivel de producción (Y):
+Esto implica que si k (la razón capital-producto) es constante, un incremento en Y requiere un incremento K.
+De esta forma, la inversión neta, In es igual a:
+Suponiendo que k = 2.
+Esta ecuación implica que si Y aumenta en 10, entonces la inversión neta será igual a 10/2 = 5, como es sugerido por el efecto acelerador.
+Si Y solo aumenta en 5, la ecuación implica que el nivel de inversión será de 5/2 = 2.5.
+Esto significa que el modelo del acelerador simple implica que el nivel de inversión fija caerá si el crecimiento de la producción se desacelera.
+Una caída en la producción no es necesaria para que caiga la inversión. Sin embargo, tal caída en la producción solo ocurrirá si la desaceleración en el crecimiento de la producción genera una caída en la inversión, ya que reduce la demanda agregada.
+Así el modelo del acelerador simple da una explicación endógena a los ciclos de negocios, la transición a la recesión.
+Los economistas modernos han descrito el efecto acelerador en términos de un modelo más sofisticado: el modelo del acelerador flexible de la inversión.
+Las empresas efectúan una inversión neta en bienes de capital fijo con el fin de cerrar la brecha entre el stock deseado de bienes de capital (Kd) y el stock de bienes de capital existente en la actualidad (K-1):
+donde x es un coeficiente que representa la velocidad del ajuste (1 ≥ x ≥ 0).
+El stock deseado de bienes de capital está determinado por variables tales como la tasa de ganancias esperadas, el nivel de producción esperado, la tasa de interés y la tecnología.
+Debido a que el nivel esperado de producción desempeña un papel importante en este modelo, este exhibe el comportamiento descrito por el efecto acelerador pero de una forma menos extrema que en el modelo simple.
+Debido a que el stock de capital existente crece a lo largo del tiempo debido a las inversiones pasadas, una desaceleración del crecimiento del PIB puede causar que la brecha entre el deseado K y el existente K se acorte, cierre, o incluso se vuelva negativa, causando que la inversión neta caiga.
+Obviamente, ceteris paribus, una caída actual en el PIB deprime el stock deseado de bienes de capital y por consiguiente la inversión neta.
+De igual forma, un incremento en el PIB generara un incremento en la inversión.
+Finalmente, si el stock deseado de bienes de capital es menor que stock actual, entonces la inversión neta se deprimirá por un largo periodo.
+En el Modelo Neoclásico del Acelerador de Dale Jorgenson, el stock deseado de capital se deriva de la función de producción agregada asumiendo la maximización de ganancias y la competencia perfecta.
