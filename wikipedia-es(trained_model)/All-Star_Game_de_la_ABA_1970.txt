@@ -1,0 +1,20 @@
+El tercer  All-Star Game de la ABA de la historia se disputó el día 24 de enero de 1970 en el Fairgrounds Coliseum de la ciudad de Indianápolis, Indiana.
+El equipo de la Conferencia Este estuvo dirigido por Slick Leonard, entrenador de Indiana Pacers y el de la Conferencia Oeste por Babe McCarthy, de New Orleans Buccaneers.
+La victoria correspondió al equipo del Oeste, por 128-98, siendo elegido MVP del All-Star Game de la ABA el ala-pívot de los Denver Rockets Spencer Haywood, que consiguió 23 puntos y 19 rebotes.
+El partido fue seguido en directo por 11.932 espectadores.
+MIN: Minutos.
+TCA: Tiros de campo anotados.
+TCI: Tiros de campo intentados.
+TLA: Tiros libres anotados.
+TLI: Tiros libres intentados.
+REB: Rebotes.
+AST: Asistencias.
+PTS: Puntos
+MIN: Minutos.
+TCA: Tiros de campo anotados.
+TCI: Tiros de campo intentados.
+TLA: Tiros libres anotados.
+TLI: Tiros libres intentados.
+REB: Rebotes.
+AST: Asistencias.
+PTS: Puntos

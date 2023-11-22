@@ -1,0 +1,51 @@
+Por diversas razones, las sustancias infecciosas deben ser transportadas dentro y fuera de los países.
+Es responsabilidad de los expedidores asegurarse de que las condiciones de embalaje/envasado y envío cumplen la reglamentación vigente, a fin de preservar la integridad de los materiales y facilitar la entrega a tiempo en su destino.
+Las muestras de personas y animales se recogen y envían por diversas razones, como investigación de enfermedades, estudios clínicos, estudios de vigilancia, análisis antidopaje, análisis sistemáticos, etc. Todos los días hay expedidores que consignan el transporte, ya sea de forma habitual u ocasional, de sustancias infecciosas.
+Son ejemplos de expedidores la industria farmacéutica, los centros de atención de salud, los laboratorios de diagnóstico e investigación, los médicos, y pacientes particulares.
+Con independencia del estado de infección que se presuma del paciente, las muestras de origen humano y animal deben embalarse/envasarse y transportarse de forma tal que quienes intervienen en el transporte queden protegidos del riesgo de infección, o al menos reducir este riesgo al mínimo.
+La Guía de la OMS sobre la reglamentación relativa al transporte de sustancias infecciosas proporciona información para la identificación, clasificación, marcado, etiquetado, embalaje, documentación y refrigeración para el transporte de sustancias infecciosas y asegurar su envío.
+Las sustancias infecciosas se dividen en las categorías siguientes:
+Todas aquellas sustancias que, al exponerse a ellas, son capaces de causar una incapacidad permanente, poner en peligro la vida o constituir una enfermedad mortal para seres humanos o animales previamente sanos.
+Todas aquellas sustancias infecciosas que no cumplen con los criterios para su inclusión en la categoría A. Se asignarán al n.º UN 3373 “BIOLOGICAL SUBSTANCE; CATEGORY B (SUSTANCIA BIOLÓGICA, CATEGORÍA B)”
+No están sujetas a la reglamentación sobre transporte de mercancías peligrosas, a menos que cumplan los criterios para su inclusión en otra clase, aquellas sustancias que:
+Dado que los peligros que presentan las sustancias infecciosas de categoría A (UN 2814 y UN 2900) y las sustancias infecciosas de categoría B (UN 3373) son diferentes, también lo son los requisitos relativos al embalaje/envasado, etiquetado y documentación correspondientes a una y otra categoría.
+Los expedidores de sustancias infecciosas habrán de asegurarse de que los embalajes/envases se preparan de modo tal que llegan a su destino en buen estado y no presentan peligro alguno para las personas o los animales durante su transporte.
+Este sistema de embalaje/envasado, que deberá utilizarse para todas las sustancias infecciosas, comprende las tres capas siguientes:
+Las sustancias infecciosas de la categoría A solamente pueden ser transportadas en embalajes/envases que cumplan las especificaciones correspondientes ala clase 6.2 de Naciones Unidas y la Instrucción de Embalaje P620.
+El recipiente primario o el embalaje/envase secundario deberán ser capaces de resistir una diferencia de presión no inferior a 95 kPa.
+La marca de embalaje tipificada de las Naciones Unidas en sí misma no indica que el embalaje/envase haya sido sometido a pruebas, y los usuarios del mismo deberían consultar a sus proveedores si el embalaje/envase preparado para su expedición cumple este requisito.
+Elaborados y firmados por el expedidor:
+Documentos que debe cumplimentar el expedidor o su agente:
+También se aplica el sistema de embalaje/envasado triple, incluso para el transporte local por superficie.
+No obstante, no es necesario aportar documentos relativos a los análisis.
+Pueden obtenerse embalajes localmente, en lugar de recurrir a un proveedor autorizado, siempre que el fabricante del embalaje y el expedidor puedan cumplir plenamente los requisitos de la Instrucción de Embalaje P650.
+Para garantizar la correcta disposición para el transporte, los fabricantes de embalajes/envases y los distribuidores de estos productos deberán proporcionar al consignador o a la persona que prepara el embalaje/envase (por ejemplo, un paciente) instrucciones claras acerca del modo correcto de llenarlo y cerrarlo.
+Si se cumplen todos los requisitos establecidos en la Instrucción de embalaje/envasado P650, no se establecen requisitos de transporte adicionales.
+La Instrucción P 650 comprende todos los requisitos necesarios para el envío de sustancias infecciosas de categoría B.
+Para los envíos de sustancias infecciosas de categoría B se utiliza la marca que se muestra en la figura
+Documentos que debe cumplimentar y firmar el expedidor (remitente, consignador):
+Documentos que debe cumplimentar el expedidor o su agente:
+Es responsabilidad del expedidor garantizar la correcta clasificación, embalaje/envasado, etiquetado y documentación de todas las sustancias infecciosas destinadas a ser transportadas.
+Los envíos no deberían despacharse hasta que:
+Ambas instrucciones de embalaje se basan en el triple embalaje y le asignan a cada elemento diferentes propiedades:
+Pruebas:
+Los embalajes/envases utilizados para el transporte pueden reutilizarse.
+Si los expedidores tienen previsto reutilizar un embalaje/envase, este debe ser debidamente desinfectado.
+Antes de reutilizar un embalaje/envase, el expedidor debe asegurarse de que todas las marcas y etiquetas son las oportunas para las sustancias que efectivamente se transportan.
+Si el expedidor tiene intención de enviar un embalaje/envase vacío, todas las marcas y etiquetas no pertinentes deben retirarse o taparse.
+Antes de devolver un embalaje/envase vacío al expedidor, o de enviarlo a otro lugar, debe ser debidamente desinfectado o esterilizado para anular todo peligro.
+Toda etiqueta o marca que indique que contuvo una sustancia infecciosa debe retirarse o taparse.
+Los diversos reglamentos internacionales de transporte establecen el requisito de notificar los incidentes a las autoridades competentes en asuntos de transporte además de a las autoridades de salud pertinentes.
+La notificación debe realizarse cuando el incidente afecta a cualquiera de las dos categorías de sustancias infecciosas, pero sobre todo si afecta a las de categoría A.
+La respuesta adecuada en caso de exposición a cualquier sustancia infecciosa es lavar o desinfectar la zona afectada lo antes posible, con independencia de cuál sea el agente infeccioso.
+Incluso si una sustancia infecciosa entra en contacto con piel dañada, si la zona afectada se lava con agua y jabón o con una solución antiséptica puede reducirse el riesgo de infección.
+Debe consultarse a un médico siempre que se sospeche la exposición a sustancias infecciosas por un paquete dañado.
+El siguiente procedimiento de limpieza puede utilizarse para derrames de todo tipo de sustancias infecciosas, incluida la sangre.
+Puede obtenerse información detallada sobre desinfectantes y su uso recomendado en el Manual de bioseguridad en el laboratorio, tercera edición, Ginebra, Organización Mundial de la Salud, 2005.
+El Reglamento relativo al Transporte Internacional de Mercancías Peligrosas por Ferrocarril (RID), de aplicación en Oriente Medio, Norte de África y en el transporte interior en la Unión Europea según la Directiva 96/49/CEE del Consejo.
+El Acuerdo Europeo sobre Transporte Internacional de Mercancías Peligrosas por Vía Terrestre (ADR), de aplicación en 40 países, además de la aplicación de versiones modificadas en países de América del Sur y Asia Sudoriental.
+De aplicación en el transporte interno en la Unión Europea según la Directiva 94/55/CE del Consejo.
+El Código Internacional Marítimo de Mercancías Peligrosas publicado por la Organización Marítima Internacional (OMI), de obligado cumplimiento para los 155 firmantes del Convenio Internacional para la Seguridad de la vida humana en el mar (SOLAS)
+El manual del correo postal (Letter post manual) publicado por la Unión Postal Universal (UPU) refleja las recomendaciones de las Naciones Unidas utilizando las disposiciones de la OACI como base para los envíos.
+El ADR regula el embalaje, documentación y demás aspectos del transporte por carretera de las mercancías peligrosas, incluyendo la carga, descarga y almacenamiento de las mismas, sea el transporte internacional o no. Un aspecto importante es la determinación de las obligaciones y responsabilidades de cada uno de los intervinientes en las operaciones para procurar evitar daños a las personas y cosas, así como proteger al medio ambiente (Capítulo 1.4).
+Junto al Acuerdo, la legislación nacional está muy influida por la europea (de hecho, varias normas son fruto de la transposición de directivas europeas) y básicamente se resume en cuatro normas.

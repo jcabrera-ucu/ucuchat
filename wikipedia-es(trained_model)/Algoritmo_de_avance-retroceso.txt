@@ -1,0 +1,32 @@
+Uno de los problemas básicos de los Modelos Ocultos de Márkov es el cálculo de la probabilidad de una secuencia de observables dado un modelo.
+El objetivo es por tanto calcular eficientemente P(O|\mu).
+Probabilidad de una secuencia S de estados
+Supongamos una secuencia de estados.
+La probabilidad de esta secuencia es:
+Probabilidad de una secuencia de observables O dada una secuencia de estados S
+La probabilidad de observar cuando se da precisamente esta secuencia de estados S es:
+Cada corresponde con el valor de
+Probabilidad de una secuencia de observables O dado un modelo \mu
+Por tanto, para obtener la probabilidad de una secuencia O de observables dado un modelo \mu, deberíamos calcular la probabilidad de O para cada una de las secuencias posibles S.
+El cálculo de P(O|\mu) tal y como se muestra es impracticable; sólo para 10 estados y 10 observaciones sería necesario realizar del orden de 10^{11} operaciones.
+Para reducir esta complejidad se emplean estrategias de programación dinámica como los algoritmos forward y backward.
+Se recomienda revisar la formalización habitual de un Modelo Oculto de Márkov para comprender cada uno de los elementos en la formulación de estos dos procedimientos.
+Consideramos la variable como:
+Dado el modelo \mu, es la probabilidad de observar  y estar en el instante de tiempo t en el estado i.
+Cálculo hacia adelante de la probabilidad de una secuencia de observaciones.
+Inicialización
+Recurrencia
+,
+Terminación
+El esquema muestra los estados y probabilidades necesarias para el cálculo de \alpha_4(3):
+Consideramos la variable.
+Dado el modelo \mu, es la probabilidad de la secuencia de observación desde el instante de tiempo t+1 hasta el final, cuando el estado en el instante de tiempo t es i.
+ Inicialización 
+,
+ Recurrencia 
+,
+,
+ Terminación 
+El esquema muestra los estados y probabilidades necesarios para el cálculo de \beta_2(3) para un modelo de 5 estados y una secuencia de observaciones de longitud 5.
+Tanto el procedimiento hacia adelante como el algoritmo backward, requieren del orden de N^{2}T operaciones; muy inferior a 2TN^{T}-1 operaciones (N es el número de estados y T es la longitud de la secuencia de observaciones) que son necesarias si se calcula P(O,S|\mu) para todas las posibles secuencias S del modelo.
+El cálculo de los servirán - junto a los  - para contestar las otras dos preguntas fundamentales de los Modelos Ocultos de Márkov:

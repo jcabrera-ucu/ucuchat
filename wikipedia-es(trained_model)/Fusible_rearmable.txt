@@ -1,0 +1,36 @@
+Un fusible rearmable (a veces traducido literalmente del término inglés resetteable fuse como fusible reseteable o fusible reiniciable ) es un componente electrónico pasivo utilizado para proteger los circuitos electrónicos contra excesos de intensidad de corriente ocasionados por fallos.
+Cuando un exceso de corriente pasa por ese componente se calienta aumentando su resistencia y protegiendo así a otros componentes de la sobreintensidad.
+Cuando cesa la corriente el componente se enfría y vuelve a su estado inicial de baja resistencia, es decir, se rearma.
+El comportamiento de este componente se aproxima al de un termistor con coeficiente de temperatura positivo, ya que su resistencia aumenta con la temperatura.
+Sin embargo, los fusibles rearmables funcionan mediante cambios mecánicos en el polímero que los compone, mientras que los termistores se basan en los efectos de los portadores de carga en los semiconductores.
+Por esta razón, los fusibles rearmables también se designan con las siglas PPTC (del inglés polymeric positive temperature coefficient).
+Para estos componentes se especifica al menos una intensidad y una tensión de funcionamiento.
+Estos dispositivos fueron descubiertos y descritos por primera vez por Gerald Pearson en los Laboratorios Bell en 1939 y están descritos en la patente de EE.
+UU.
+# 2,258,958.
+A principios de la década de 1980 la Corporación Raychem (ahora TE Connectivity) introdujo en el mercado este componente bajo la marca PolySwitch, el cual fue un pionero en su categoría.
+Este dispositivo emplea para su funcionamiento un polímero con coeficiente de temperatura positivo, el cual se compone de una matriz de polímero orgánico semicristalino no conductor cargada con partículas de negro de carbón para hacerlo conductor.
+Cuando está frío, el polímero está en un estado cristalino, en este estado, el carbono entra en contacto formando caminos conductores de la electricidad.
+Este estado de conducción eléctrica se corresponde con la "resistencia inicial" del fusible, la cual tiene valores típicos menores de 1 ohmio.
+Si pasa demasiada corriente a través del componente, este comenzará a calentarse.
+A medida que el componente se calienta, el polímero se expande, pasando de un estado cristalino a uno amorfo.
+La expansión separa las partículas de carbono y rompe los caminos conductores, haciendo que el dispositivo se caliente más rápido y se expanda más, elevando aún más la resistencia.
+En este estado de alta resistencia una pequeña corriente (de fuga) sigue fluyendo a través del componente, la cual es suficiente para mantener la temperatura a un nivel que prolongue el estado de alta resistencia.
+La corriente de fuga puede variar desde menos de cien miliamperios (a tensión nominal) hasta unos pocos cientos de miliamperios (a tensiones más bajas).
+Se puede decir que el componente es biestable (estado de baja resistencia y estado de alta resistencia).
+La corriente de mantenimiento (en inglés hold current) es la intensidad máxima de corriente mínima a la cual se garantiza que la resistencia del componente no se dispara.
+Y la corriente de enganche (en inglés trip current) es la intensidad de corriente a la que se garantiza el disparo de la resistencia del componente.
+Cuando el circuito interrumpe el paso de corriente, el calentamiento debido a la corriente de fuga se detiene y el componente empieza a enfriarse.
+Conforme el componente se enfría, el polímero recupera su estructura cristalina original y regresa a un estado de baja resistencia.
+En este estado el componente puede mantener de nuevo la corriente de mantenimiento especificada para su modelo.
+Este enfriamiento generalmente tarda unos segundos, aunque un dispositivo que ha entrado en alta resistencia normalmente retendrá una resistencia ligeramente mayor durante horas, acercándose lentamente al valor de "resistencia inicial".
+Se debe tener en cuenta que el restablecimiento del componente a su "resistencia inicial" podría no llegar a producirse ni siquiera después de eliminar el fallo del circuito si el circuito sigue alimentado.
+Ya que la corriente de funcionamiento que el circuito hace fluir normalmente por el componente podría ser superior a la corriente de mantenimiento del componente.
+De esta forma, la resistencia del componente podría quedar estabilizada en un valor significativamente mayor (por ejemplo 4 veces el valor inicial).
+Estos componentes electrónicos a menudo se integran en fuentes de alimentación de computadora, en parte debido a la especificación PC 97 (que recomienda que una computadora personal sea un dispositivo sellado que el usuario no tenga que abrir).
+También se emplean a veces en placas base para limitar la intensidad máxima de corriente eléctrica que un periférico puede consumir, o en las entradas de alimentación de dispositivos para limitar la corriente máxima que el dispositivo puede consumir y así evitar averías por sobreintensidad.
+Se pueden emplear también en aplicaciones aeroespaciales / nucleares donde el reemplazo de fusibles tradicionales sea difícil.
+Otra aplicación para estos componentes está en la protección de los altavoces de sonido, particularmente los tweeters, contra daños causados al suministrarles un exceso de potencia: para conseguir esta protección el fusible rearmable se coloca en serie con el altavoz, de forma que al suminstrar un exceso de potencia el fusible corta el paso de corriente al altavoz.
+Opcionalmente en este circuito se puede colocar una resistencia fija en paralelo con el fusible, de forma que cuando la resistencia del fusible se dispara por exceso de corriente aún sigue pasando una menor corriente por la resistencia fija, la cual permite que el altavoz siga funcionando en condiciones de seguridad.
+Esta resistencia fija puede ser substituida por una bombilla, la cual aporta dos ventajas adicionales: la resistencia de la bombilla tiene un coeficiente de temperatura positivo, de forma que al aumentar la potencia suministrada también aumenta la temperatura del filamento y su resistencia, amortiguando el incremento excesivo de potencia; además la bombilla se iluminará para avisar de un exceso de potencia suministrada.
+Los fusibles rearmables son vendidos por diferentes compañías, las cuales se refieren a ellos mediante distintas marcas o designaciones.

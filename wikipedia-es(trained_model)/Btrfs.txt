@@ -1,0 +1,20 @@
+BTRFS (B-tree FS) es un sistema de archivos copy-on-write (COW) anunciado por Oracle Corporation para GNU/Linux.
+Su objetivo es sustituir al actual sistema de archivos ext4, eliminando el mayor número de sus limitaciones, en especial con el tamaño máximo de los ficheros; además de la adopción de nuevas tecnologías no soportadas por ext3.
+Se afirma también que se "centrará en la tolerancia a fallos, reparación y fácil administración".
+Ya que este puede realizar instantáneas del sistema para revertir cambios en caso de fallos.
+En febrero de 2009, Btrfs fue desarrollado intensivamente y solo estuvo disponible para ser evaluado.
+Btrfs v0.19 fue publicado en junio de 2009, como software libre bajo licencia GPL.
+Inicialmente, estaba previsto publicar Btrfs v1.0 (con el formato de disco finalizado) hacia finales de 2008 pero, tras sobrepasarse esa fecha, no se ha vuelto a dar una fecha para la versión definitiva.
+Theodore Ts'o, desarrollador de los sistemas ext3 y ext4, dice que Btrfs "tiene algunas de las ideas de diseño de Reiser4" y que "el sistema de archivos tiene soporte para algunas características avanzadas que están diseñadas para incorporarse en ZFS".
+En la versión 2.6.29 del núcleo Linux se añadió soporte experimental para este sistema de archivos.
+Synology lo ha incluido en su DSM 6.
+En estos momentos Btrfs se considera estable, y no se espera que esto cambie a menos que existan fuertes razones para hacerlo.
+De todos modos, de haber un cambio en el formato, los sistemas de archivos formateados antes de este continuarán siendo montables y usables con nuevas versiones del kernel.
+El código fuente de Btrfs está bajo constante desarrollo.
+Se han hecho todos los esfuerzos por mantenerlo estable y rápido.
+Debido a la velocidad de desarrollo, el estado del sistema de archivos mejora considerablemente con cada nueva versión de Linux, así que es recomendado correr el kernel más moderno que sea posible.
+Para pruebas de rendimiento se recomienda también: hacerlo bajo la versión estable de Linux más reciente, de ser posible sobre la última versión en desarrollo y con diferentes opciones de configuración.
+Por ejemplo: distintas opciones de compresión.
+Btrfs está siendo desarrollado intensivamente y muchas de las características finales, como por ejemplo detectar si un volumen está lleno, no han sido incorporadas a la versión de pruebas.
+Las características finales presentadas son:
+En la versión 3.14 del kernel Linux, se añade:

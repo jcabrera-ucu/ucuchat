@@ -1,0 +1,5 @@
+El algoritmo de Chudnovsky es un método rápido para calcular los dígitos de π.
+Fue usado por los hermanos Chudnovsky para calcular más de mil millones de dígitos.
+Fue usado en el cálculo, récord del mundo de 2.7 billones de dígitos de π en diciembre de 2009, 5 billones de dígitos de π en agosto de 2010, y 10 billones de dígitos de π en octubre de 2011.
+El algoritmo está basado en la siguiente rápida serie hipergeométrica generalizada convergente:
+Esta identidad es similar a algunas de las fórmulas de Ramanujan que están relacionadas con π.

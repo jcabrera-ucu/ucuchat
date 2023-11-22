@@ -1,0 +1,23 @@
+Se llama escariado o alesado a un proceso de arranque de viruta o una operación de mecanizado que se realiza para conseguir un buen acabado superficial con ciertas tolerancias dimensionales, o bien simplemente para agrandar agujeros que han sido previamente taladrados con una broca a un diámetro un poco inferior.
+El escariado se realiza con una herramienta denominada escariador (calisuar en algunos países), al que se le comunican dos movimientos, uno de giro sobre su eje, y otro de desplazamiento rectilíneo a lo largo de dicho eje.
+Antes de escariar un agujero, se debe haber taladrado, dejando cierto espesor, el cual depende del diámetro que tenga el agujero y del material de la pieza.
+Este proceso se puede realizar a mano o bien automáticamente con una máquina-herramienta que permita esos movimientos, como pueden ser un torno, una fresadora o una taladradora.
+En el escariado automático la pieza se encuentra sujeta a la máquina por medio de un tornillo de banco, mandril o algo similar.
+Para un resultado óptimo, en el proceso de escariado es esencial preparar la perforación dejando el material justo dentro del agujero, ya que si hay insuficiente material, la herramienta rozará con el material antes de lograr el objetivo, desgastándose y perdiendo diámetro; pero, por el contrario, tampoco es adecuado que dentro de la perforación haya material en abundancia.
+Este proceso se realiza a velocidades bastante inferiores respecto al proceso de taladrado, eliminando una muy pequeña cantidad de material.
+Para llevar a cabo un buen proceso de escariado, se ha de seleccionar el tipo óptimo de escariador adecuado para las velocidades y avances a los que se va a trabajar, sin olvidar que previamente se ha de asegurar que los agujeros taladrados sean del diámetro adecuado.
+El material o pieza a escariar debe estar bien sujeta y el husillo de la máquina ha de poseer el menor juego posible, o más bien nulo, al igual que el que hay entre el mango del escariador y el manguito o casquillo; en caso contrario, se topará con una mala alineación, y esto provocará que el escariador corte más viruta de la debida.
+No se ha de olvidar que para un buen proceso de escariado, y un mejor mantenimiento de la herramienta, se han de emplear los lubricantes recomendados, y así se evitará un deterioro prematuro de la herramienta.
+Un escariador es una herramienta cilíndrica de corte empleada para conseguir agujeros con una precisión elevada, normalmente de tolerancia H7.
+Llevan talladas unas ranuras y dientes a lo largo de toda su longitud, que suelen ser rectos o helicoidales.
+Esta herramienta puede tener la espiral a izquierdas, para agujeros pasantes, o a derechas, para agujeros ciegos.
+Las principales partes de un escariador son:
+Si se mira detalladamente esta herramienta, se pueden apreciar diferentes zonas en los escariadores:
+Ahora bien, los escariadores se pueden clasificar en:
+- Sólidos: entre los que se encuentran los de mango cilíndrico, empleados para calibrar, y los de mango cónico, empleados en el mecanizado de agujeros.
+- Huecos: los que se montan en un portaherramientas.
+- De expansión: llevan varias ranuras longitudinales que, por medio de un tornillo, permiten el desplazamiento, y con ello el aumento o la disminución del diámetro.
+La cantidad de material a eliminar en el escariado depende de la aplicación y el acabado de la superficie del orificio pretaladrado.
+Durante el proceso de escariado se pueden encontrar varias incidencias problemáticas, entre las destacan:
+Como ya se ha nombrado anteriormente, la principal aplicación de este proceso es la mejora dimensional y superficial de los agujeros realizados por un proceso de taladrado, pero, en ocasiones, este proceso se emplea con otros fines, como es el caso de los aficionados a la confección de coches teledirigidos.
+Estos emplean estas herramientas para el ensanchamiento de los orificios en el montaje de los cuerpos.

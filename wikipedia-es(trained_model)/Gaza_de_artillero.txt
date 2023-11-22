@@ -1,0 +1,15 @@
+La Gaza de artillero es un tipo de nudo que se encuentra dentro del grupo de los nudos denominados Gazas, lazadas o vueltas, es decir, los nudos que crean un bucle cerrado en el que se pueden sujetar piezas fijas o móviles.
+Este nudo se puede realizar en un cuerda de la que no contamos con los extremos para su anudado.
+La cuerda no debe estar en tensión, aunque posteriormente el nudo,  queda en línea con la cuerda y permite tensiones muy altas permitiendo incluso su desanudación posterior.
+Si el nudo no está suficientemente bien apretado, la lazada podría achicarse atrapando el objeto que tenga dentro.
+Pasos para la elaboración del nudo:
+<ol>
+<li>Partimos de una cuerda recta.</li>
+<li>Hacemos un bucle dejando uno de los extremos en su parte de atrás.</li>
+<li>Doblamos el extremo inferior del bucle y lo hacemos pasar por el espacio que hay entre bucle y firme</li>
+<li>Cerramos el nudo tensando las cuerdas hasta alcanzar la forma necesaria.</li>
+</ol>
+Nota: Este nudo queda en línea con la cuerda sobre la que trabaja.
+El tensado y la colocación de este nudo es de una dificultad superior a la de otros nudos de función similar.
+Los nudos marineros, no se cierran tirando de los extremos de la cuerda, ya que las cuerdas pueden retorcerse y desbaratar el nudo.
+Para que un nudo esté bien realizado, se deben colocar las cuerdas en la posición en la que van a trabajar, e ir cerrando el nudo hasta su posición definitiva.

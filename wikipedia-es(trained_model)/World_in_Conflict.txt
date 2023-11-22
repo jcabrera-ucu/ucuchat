@@ -1,0 +1,16 @@
+World in Conflict es un videojuego de estrategia en tiempo real desarrollado por la empresa sueca Massive Entertainment y publicado en 2007 por Sierra Entertainment para PC.
+El juego se ambienta en 1989, donde la Unión Soviética en vez de caer decide iniciar una Tercera Guerra Mundial.
+Su primer movimiento es invadir Europa, pero las fuerzas de la OTAN consiguen frenar el avance aunque con muchas dificultades.
+Pero el panorama da un cambio drástico cuando Rusia decide invadir Estados Unidos, lo que haría perder a Europa su principal aliado y la guerra acabaría decantándose por la victoria soviética.
+La invasión comienza en la ciudad de Seattle, donde el ejército soviético, oculto en falsos barcos cargueros, doblega la ciudad en un solo día.
+Las fuerzas norteamericanas se ven obligadas a retroceder ante la inferioridad en fuerzas, pues el grueso del ejército se encuentra en Europa.
+Desde este primer ataque se desarrollará toda la campaña con referencias y raccontos a los acontecimientos pasados anteriormente en Europa y Estados Unidos.
+El jugador puede controlar en el modo campaña a los ejércitos de Estados Unidos y a un conglomerado de naciones europeas miembros de la OTAN (Reino Unido, Italia, Francia, Alemania Occidental).
+En el modo multijugador también se podrá controlar al ejército soviético.
+Su característica principal es el extraordinario motor gráfico que hasta con ordenadores de gama baja consigue unos efectos de explosión y detalles nunca vistos en el mundo de la estrategia.
+Además de innovar enormemente en el modo multijugador, donde los jugadores ya no controlan ejércitos enteros, sino un batallón (artillería, caballería, infantería y aire) de un ejército común que es el que componen los batallones de los demás jugadores del mismo bando.
+La versión de PC salió a la venta en septiembre de 2007.
+Posteriormente, en 2008, fue lanzada la expansión, Soviet Assault, que agrega seis nuevas misiones al juego e introduce personajes del bando soviético, con el cual se jugarán estas misiones.
+En conjunto, el juego original y la expansión, el jugador obtiene una experiencia intensamente cinemática que permite seguir la historia de todos los personajes como si fuera una película.
+Soviet Assault posee prácticamente los mismos gráficos que el original, pudiendo aprovechar nuevas unidades aunque con un funcionamiento casi igual.
+Sigue siendo muy impresionante el desarrollo de las explosiones y los demás efectos, que incluso con una placa NVidia G-Force 6100 son soportados más que satisfactoriamente.

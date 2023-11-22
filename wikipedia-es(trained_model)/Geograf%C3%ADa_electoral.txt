@@ -1,0 +1,109 @@
+La geografía electoral es el análisis de los métodos, el comportamiento y los resultados de las elecciones en el contexto del espacio geográfico y el uso de técnicas geográficas.
+Específicamente, es un examen de la interacción dual en la que los rasgos geográficos de un territorio afectan las decisiones políticas, y la estructura geográfica del sistema electoral afecta los resultados electorales.
+El objetivo del análisis es identificar y comprender los factores impulsores y las características electorales de los territorios de una manera amplia e integradora.
+Las elecciones sirven como la expresión política central y el ejercicio del poder dentro de los estados democráticos, y la realización de elecciones en las democracias requiere la traducción de las decisiones políticas del público votante distribuido a la representación de "escaño" resultante de los diversos distritos electorales, excepto en los casos de Israel y los Países Bajos, cada uno de los cuales tiene una sola circunscripción.
+Se acepta filosóficamente que en una democracia, cada voto sea igualmente válido entre todos los demás votos y, por lo tanto, cada votante elegible emitirá solo un voto igualmente valioso.
+Sin embargo, la desproporcionalidad y el sesgo hacia grupos de votación específicos surgen en la construcción de límites de circunscripción artificial en que los partidos políticos y las políticas están representados de manera desigual e inexacta en los resultados agregados entre las regiones electorales en comparación con el voto popular.
+La unidad territorial con distinciones de límites en las elecciones representativas se denomina comúnmente circunscripción, distrito o distrito electoral, y sirve tanto como región para la tabulación y el estudio del resultado electoral.
+Estos límites se definen en varios métodos, que son exclusivos de cada estado, y pueden causar alteraciones o sesgos en los resultados agregados del voto y, por extensión, la verdadera decisión del electorado.
+Los geógrafos electorales requieren el conocimiento de las leyes y procedimientos locales y estatales para la realización de elecciones, aunque se ha alegado que no está dentro de su alcance tratar de corregir los defectos observados.
+Los detalles de la votación o los parámetros de la elección en varios estados o en distritos electorales dentro del estado son factores críticos que afectan los niveles de participación y pueden caracterizar el resultado.
+Los mecanismos de una elección se describen completamente mediante la identificación del patrón de distritos electorales, las calificaciones y los cambios de la franquicia, y el método de la elección.
+El diseño de las circunscripciones se relaciona con la orientación espacial y el trazado de los límites, tal como se detalló anteriormente.
+Las calificaciones del sufragio definen el bloque de electores elegible, el electorado, y así determinan el rango de cuestiones críticas relevantes, que se aplican a quienes votan en una elección, y las alteraciones en el derecho al voto pueden alterar en gran medida la naturaleza del electorado y el resultado del elección.
+Los métodos de elección son fundamentales para analizar los resultados, ya que es imposible evaluar adecuadamente la proporcionalidad de la representación o la validez de un resultado electoral sin comprender cómo se emiten y se cuentan los votos.
+Por ejemplo, un solo voto, el ganador puede tomar todos los sistemas, puede privar en gran medida a los votantes de las minorías, ya que su selección es finalmente irrelevante en un sistema de dos partes dominante.
+Sin embargo, en los sistemas que emplean técnicas de votación proporcional o de votación clasificada, las minorías extremas reciben mayores oportunidades de representación.
+Independientemente de los medios por los cuales se trazan los límites, incluso por asociaciones gubernamentales no partidistas o independientes, siempre se puede observar un sesgo en las regiones electorales.
+El Reino Unido sirve de ejemplo ya que los distritos electorales son establecidos por una comisión no partidista y, sin embargo, se ha observado un sesgo hacia el laborismo en las elecciones generales desde 1979.
+La falsificación de elecciones son como un esquema selectivo de los límites de la circunscripción electoral para alterar los resultados de una elección.
+Los resultados electorales populares o numéricos dentro de un precinto o distrito electoral pueden distorsionarse por el acto de falseo.
+Las alteraciones comunes a los resultados electorales causadas por el falseo son:
+La mala distribución es un sistema electoral de representación desigual y desproporcionado con múltiples electores.
+Es una violación del principio democrático de "una persona, un voto" en que los límites de la circunscripción incluyen poblaciones de diversos tamaños, lo que significa que los votos de las personas en las regiones de menor población tienen una mayor representación por voto que aquellos en las regiones con mayor población.
+El efecto de la mala distribución se observa cuando porcentajes equivalentes del total de votos resultan en diferentes números de escaños para cada partido debido a que una de las partes tiene un mayor control en circunscripciones más pequeñas y otra en distritos electorales más grandes.
+La distribución espacial y la variación de la población votante junto con las características demográficas y la delineación de las regiones de votación proporcionan un contexto geográfico para el análisis de las elecciones.
+Junto con las características puramente físicas, la distribución de los recursos económicos, las líneas de comunicación, las plataformas gubernamentales y de partidos, y los grupos de género, étnicos o de clase crea un entramado de personas y opiniones, que se contabiliza en el análisis electoral.
+Una población se instala por varias razones sociales, económicas y culturales que crean un contorno definido tanto de la densidad de población como de la opinión política relacionada.
+Sin embargo, este contorno no es una condición estática y los cambios en los resultados electorales deben considerarse con respecto al cambio en el tipo de personas y no solo al cambio en la política elegida.
+La distribución de la política se ha atribuido a varios factores, uno de los cuales se describe como una convergencia de estímulos externos.
+Estos estímulos pueden venir en forma de información suministrada por el estado, normas culturales locales, afiliaciones religiosas, oportunidad económica y presentación de problemas por parte de los medios.
+El grado de efecto para cada estímulo particular es entonces el resultado de la susceptibilidad de una geografía particular.
+Por ejemplo, las políticas que tratan con el tratamiento gubernamental de una población urbana tendrían mayor importancia para aquellas en un territorio con densidades urbanas y una importancia mucho menor en una región más escasa.
+Un estado o sus organizaciones políticas tienen cierto poder para afectar estos estímulos y, por lo tanto, se consideran como un factor que contribuye a los cambios en los resultados electorales.
+La geografía electoral considera la forma en que las características físicas de un territorio afectan directamente a la población y, por lo tanto, la decisión electoral de estas personas.
+La ubicación geográfica y los factores naturales asociados están directamente relacionados con el potencial en una región específica para el desarrollo político y tienen una relación adicional con los procesos electorales y las decisiones políticas de la región.
+El estudio de los resultados electorales ha demostrado identificar las regiones de política específica y la cohesión relativa entre estas regiones similares.
+Las regiones que comparten un gran número de características físicas o demográficas, o ambas, ya que estos dos factores están relacionados, demostrarán similitudes significativas en la participación del voto y los patrones de resultado.
+El desarrollo económico dentro de una región determinada también está relacionado con el desarrollo de su política y los problemas que son importantes para el electorado.
+Un estado con un desarrollo económico desproporcionado necesariamente estará bajo la presión de los grupos más pobres para tomar medidas para redistribuir la riqueza y nivelar la prosperidad económica, que será observable en los resultados electorales.
+El alcance y la disponibilidad de la comunicación y la concientización sobre el tema pueden afectar la percepción de los problemas y sesgar la toma de decisiones racionales.
+Si una población generalmente desconoce las implicaciones de las decisiones de política, son menos capaces de tomar decisiones informadas y son más fácilmente manipuladas por los discursos de los  candidatos o partidos y técnicas de publicidad, lo que puede dificultar el análisis ya que no existe una lógica predecible para los resultados de votación.
+La información de antecedentes que detalla los partidos políticos establecidos, las cuestiones que se impugnan en una elección, y los mecanismos del proceso electoral también ayudan a contextualizar y comprender los factores contribuyentes en cada elección individual.
+Con el tiempo, estos factores pueden modificarse a medida que los partidos se forman o se disuelven y las cuestiones de política se someten a votación o quedan obsoletas, lo que puede explicar la apariencia cambiante del resultado electoral a lo largo de un período de tiempo.
+Las plataformas gubernamentales y de partidos sirven como categorías en las que los votantes se ven obligados a clasificarse a sí mismos, aunque es probable que ninguna plataforma de un partido capte con precisión la totalidad de las opiniones de un votante.
+Esto hace que la consideración de la plataforma del partido o de las actividades recientes del partido sea fundamental para comprender los cambios o la estabilidad de los resultados electorales en el espacio y el tiempo.
+La disparidad de género, etnia y clase puede provocar un voto relacionado con las cualidades y la experiencia compartidas, en oposición a las opiniones políticas.
+Esto significa que los candidatos de un área en particular o una etnia común pueden recibir votos de los ciudadanos de esa área, independientemente de su afiliación política o nacional, debido a su experiencia compartida y conocimiento mutuo.
+Esto se conoce como el "efecto de amigos y vecinos".
+Existe una distinción entre los geógrafos entre considerar que el efecto de la geografía es completamente determinista y que solo tiene un efecto parcial, entre otros efectos.
+La geografía electoral determinista daría lugar a resultados predecibles independientemente del candidato o de la política propuesta, ya que la suma de los rasgos geográficos y/o físicos controlaría por completo las decisiones de votación.
+Esta interpretación ha sido ampliamente rechazada por los geógrafos.
+En cambio, se acepta más plenamente que la geografía desempeña algún papel en conjunción con otros efectos culturales e interpersonales.
+El "efecto vecindad" es una alteración observada de los resultados electorales debido a la tendencia de las personas que están espacialmente cercanas a votar de manera similar debido a las interacciones diarias.
+Los argumentos contra el determinismo también se basan en las anomalías observadas en los resultados de la votación.
+Un ejemplo surge al comparar los resultados de las elecciones presidenciales en los Estados Unidos con la expectativa de favorecer a candidatos demócratas o republicanos en localidades urbanas o rurales respectivamente o las expectativas de preferencia en la escala de condado basadas en la composición racial con grupos minoritarios que favorecen al partido demócrata.
+Los resultados indican que las anomalías ocurren en distintas áreas de votación donde el candidato republicano o demócrata ganó condados, que tenían características opuestas de sus condados tradicionalmente llevados.
+Estas anomalías se atribuyen a las geografías históricas, económicas y culturales que sirven para anular los rasgos del territorio que se utilizaron para predecir los resultados electorales.
+De esta forma, los votantes están motivados por factores fuera de su geografía para votar de una manera inesperada y, a menudo, incluso contraria a sus intereses individuales.
+Las variaciones espaciales de apoyo para políticas particulares se mapean rutinariamente para representar gráficamente la geografía electoral de un territorio, lo que puede permitir el reconocimiento de patrones de ubicación.
+Ron Johnston considera todo el proceso y el resultado de la elección a través del objetivo examinador de los mapas de territorio.Afirma que los resultados electorales son el resultado de la superposición del mapa de características culturales, económicas, religiosas y demográficas con el mapa determinado de los distritos electorales y la aplicación de los temas en las urnas.
+La selección de paradigmas de mapeo utilizando colores, patrones, brillo u oscuridad se emplea para detallar visualmente aspectos y características de interés en las elecciones, como la participación de los votantes, la intensidad del apoyo, la densidad de población y los límites de los distritos electorales.
+al considerar palabras y números.
+Un ejemplo de un paradigma de mapeo se observa en las elecciones de los Estados Unidos en la historia reciente, donde los resultados a favor de los candidatos demócratas están marcados por el color azul de la circunscripción y el uso del rojo para los resultados a favor de los candidatos republicanos.
+Esto se ha utilizado en gran medida y, por lo tanto, es fácilmente reconocido por los ciudadanos estadounidenses en los medios de comunicación y en la exhibición académica de resultados electorales.
+Sin embargo, las variaciones en los resultados electorales sobre un territorio o lugar no se pueden equiparar directamente a las áreas de tierra representadas por mapeo ya que la población votante es el sujeto de interés y estudio en la geografía electoral y no el territorio particular en el que viven durante una elección dada.
+El movimiento humano es un progreso continuo, que consistentemente redefine las distribuciones de preferencia de política y, por lo tanto, las decisiones electorales asociadas.
+Por lo tanto, el paso del tiempo debe incorporarse en el análisis electoral a través de la dualidad de la geografía electoral que también se ocupa de las alteraciones de los resultados electorales en un lugar determinado durante un intervalo de tiempo prolongado que abarca muchas elecciones.
+Este efecto se puede mapear usando varias técnicas que ayudan a mostrar opiniones cambiantes y poblaciones cambiantes en los distritos electorales del estado durante un intervalo de tiempo.
+La geografía electoral se basa en técnicas de mapeo detalladas y precisas con la contextualización adecuada y el conocimiento previo para visualizar y analizar con éxito los resultados de una elección.
+La geografía electoral canadiense se caracteriza por un alto grado de regionalismo político, con la mayoría de las disputas interpretadas como conflictos entre provincias o regiones.
+En particular, la conciencia de clase es bastante baja en Canadá en comparación con la antigua madre patria, Gran Bretaña.
+Debido a la disparidad en el tamaño de la población de las distintas provincias, su importancia en la geografía electoral varía sustancialmente.
+Además, algunas provincias son lo suficientemente pequeñas y lo suficientemente similares a sus vecinos que votan de manera similar, mientras que otras son lo suficientemente grandes como para tener divisiones internas considerables.
+Las provincias atlánticas más pequeñas podrían considerarse como unidades, pero Ontario podría subdividirse entre las regiones urbanas, suburbanas, rurales y remotas, o entre el norte, sur, este y oeste, o en regiones más específicas, como la región de la Herradura Dorada o el Área Metropolitana de Toronto.
+En la política federal, una coalición ganadora debe estar compuesta de varias subregiones, identificadas no solo por lugar sino por ideología.
+Una coalición ganadora podría incluir conservadores sociales occidentales, moderados de Ontario suburbanos y nacionalistas blandos de Quebec (Brian Mulroney, 1984, 1988), o moderados de Ontario, federalistas de Quebec y la mayor parte del Atlántico canadiense (Jean Chretien, 1993, 1997, 2000), o la mayor parte de Canadá occidental y atlántico, además de Ontario rural y suburbano (Stephen Harper, 2011).
+Cuando no se considera que los principales partidos sirven al interés de una región en particular, a menudo surgen partidos o movimientos de protesta.
+Esto ha incluido varios partidos nacionalistas de Quebec, partidos que surgen del fenómeno llamado alienación occidental y el Movimiento por los Derechos Marítimos.
+En parte por esta razón, Canadá ha tenido un sistema multipartidista durante gran parte de su historia en lugar del sistema bipartidista que es típico de las elecciones posteriores.
+Esto a su vez ha llevado a varios gobiernos minoritarios en Canadá.
+El regionalismo en Canadá es tal que también es notable dentro de las provincias en el escenario de las elecciones provinciales.
+Hay una distinción considerable entre la política de Montreal y las del Saguenay o Gaspesia, y también entre Lower Mainland y la Columbia Británica Interior.
+En el actual Reino Unido, la geografía electoral se estudia extensamente y se ha comparado con el método en los Estados Unidos de elecciones y regionalización, empleando métodos del Reino Unido de división de clases, donde el Partido Conservador tiende a ser favorecido por la clase de cuello blanco y el Partido Laborista por la clase obrera del Reino Unido.
+La comparación de los métodos de seccionalismo en el Reino Unido y los Estados Unidos pone énfasis en la ubicación; en lugar de basar el apoyo para una fiesta por clase, EE.
+UU.
+lo hace por ubicación.
+En el Reino Unido, algunas áreas están más pobladas que otras, dando diferencias en la población en relación con la geografía de cada distrito de votación individual.
+En el Reino Unido, para extinguir la identidad regional, Inglaterra se dividió en nueve regiones.
+Se pensaba que las personas que se congregan parecen votar igual, en lugar de votar en las propias opiniones.
+Esto es lo que se conoce como el "efecto de vecindad".
+Incluso con nueve regiones distintas, los patrones de votación están aparentemente desproporcionadamente divididos entre los dos partidos dominantes.
+Esto obliga a los investigadores a preguntarse qué causa las diferencias regionales en los resultados de votación.
+El método de votación en el Reino Unido difiere del de los Estados Unidos.
+Para producir un resultado, "toda votación tiene lugar en el contexto de un sistema electoral particular. Tiene que haber una forma acordada de agregar votos para producir un resultado. Los votos indican las preferencias de los individuos y en las elecciones públicas deben traducirse en asientos por alguna fórmula".
+Este enfoque de fórmula termina en un resultado que da una cantidad traducida de escaños para cada partido en el Parlamento.
+Inglaterra no está sola en la selección de su sistema electoral.
+"... Un estudio transnacional encontró setenta sistemas diferentes en veintisiete democracias”.  Al elegir qué sistema usará un gobierno, se debe tener gran consideración. Una pregunta seria surge durante este proceso; ¿Para qué debería diseñarse esta elección? Las respuestas generales han sido:
+La conciencia del votante en términos del razonamiento, la motivación y los métodos de una elección son fundamentales para reforzar el apoyo público a la legitimidad de las elecciones y los funcionarios electos.
+La geografía electoral de Rusia está marcada por las divisiones territoriales obvias entre el norte y el sur, los territorios urbanos y rurales, etc. Un fenómeno de divisiones territoriales en las preferencias electorales en Rusia se conoce como el cinturón rojo (regiones compactas ubicadas con alto apoyo para el partido Comunista).
+En las primeras elecciones democráticas en la historia de la Rusia contemporánea se observó que los políticos liberales tenían un apoyo mucho mayor en las regiones del norte, mientras que el sur de Rusia parecía más conservador.
+Ambas capitales en Rusia, Moscú y San Petersburgo, la llamada capital del norte, difieren significativamente de los resultados electorales del resto del país.
+Solo en estas ciudades hay un fuerte apoyo electoral de los políticos liberales.
+El apoyo a Rusia Unida es menor que en otras regiones.
+La geografía electoral de los Estados Unidos es una descripción de las diferencias políticas regionales, que en los últimos años se ha popularizado por el paradigma rojo y azul para representar pictóricamente los resultados de la elección republicana y demócrata.
+La presencia de un sistema de partidos con dos dominantes crea un gran potencial para la privación del derecho al voto de los votantes minoritarios y sus opiniones.
+Las cualidades de "noreste"o "norteño", "oeste" y "sureño", que constituyen las expectativas de resultados de votación republicanos, republicanos y volátiles, se han utilizado para comprender y definir el panorama político.
+Sin embargo, se han observado anomalías culturales en esta expectativa general.
+El debate ha sido común en las elecciones recientes con respecto a la elección del presidente de los Estados Unidos a través del colegio electoral.
+El debate se deriva del hecho de que el colegio electoral es un cuerpo con una mala distribución, y por lo tanto establece un escenario por el cual un candidato puede ganar las elecciones a través del colegio electoral sin tener que llevar una pluralidad del voto popular.

@@ -1,0 +1,39 @@
+Touhou Koumakyou ~ the Embodiment of Scarlet Devil.
+(東方紅魔郷　～ the Embodiment of Scarlet Devil.) es un videojuego danmaku de desplazamiento vertical y el sexto juego oficial de la serie Touhou Project.
+Es el primero en ser lanzado específicamente para Microsoft Windows y el primer juego desarrollado por Team Shanghai Alice.
+Todos los juegos anteriores a Embodiment of Scarlet Devil fueron hechos para la serie de ordenadores PC-98 siendo lanzados por Amusement Makers.
+Embodiment of Scarlet Devil, también abreviado como EoSD y simplificado como Touhou 06 o Th06, es un videojuego danmaku de desplazamiento vertical que cuenta con dos personajes jugables a elegir, cada una con dos tipos de ataque diferentes.
+Reimu Hakurei cubre una amplia área de la pantalla con ataques más débiles, mientras que Marisa Kirisame se basa en su gran velocidad y mayor poder para compensar su rango de ataque más fino.
+Las bombas («Spell Cards») también muestran diferentes comportamientos y daños dependiendo del tipo elegido.
+Algunas características importantes que Embodiment of Scarlet Devil introduce sobre su predecesor Mystic Square es una función de recolección automática de elementos que permite al jugador recoger todos los ítems de puntos o poder moviéndose a la parte superior de la pantalla; y un sistema de contra-bomba, que permite al jugador negar una bomba de una enemiga presionando el botón de la bomba inmediatamente después del contacto con los proyectiles enemigos.
+Además, este juego es el primero dentro de la serie de Touhou en caracterizar las Spell Cards (cartas de hechizos).
+Cada Spell Card es un patrón de balas particular con un nombre específico.
+Si se derrota a una enemiga sin utilizar una spell card ni perder una vida, se puede obtener un bono de puntos.
+En el verano de la temporada 118, ocurrió un incidente llamado «el incidente de la niebla escarlata» (紅霧異変).
+Gensokyo se encontró completamente cubierto por una densa capa de niebla escarlata, y como el sol estaba obstruido, el verano se tornó frío y sombrío.
+Reimu Hakurei, una miko del santuario Hakurei, sentía que era su deber como miko encontrar la causa de este clima antinatural.
+Marisa Kirisame, una maga vestida de negro, esperaba que la persona responsable de la niebla tuviera algunos artículos interesantes para recolectar.
+Las heroínas encuentran que el origen de la niebla proviene de la Mansión del Diablo Escarlata (紅魔館) en medio del Lago de la Niebla (霧の湖), donde sus residentes intentan impedir que las intrusas lleguen frente a la señora de la mansión.
+La fuente de la niebla es revelada en el encuentro con la jefa final Remilia Scarlet, una vampiro.
+Remilia revela que la niebla escarlata fue creada para bloquear el sol y así sentirse cómoda durante el día (porque los vampiros son débiles contra la luz del sol).
+Después de una batalla feroz, Remilia es derrotada y las cosas vuelven a una relativa normalidad en Gensokyo.
+En el nivel extra, las protagonistas regresan a la Mansión del Diablo Escarlata durante la ausencia de Remilia, encontrando el sitio entero en un caos.
+La hermana menor de Remilia, Flandre Scarlet, estaba a solas, mientras que la hechicera de la biblioteca, Patchouli Knowledge, trataba de impedir que ella escapara.
+Al encontrarse con las protagonistas después de 495 años de estar encerrada en el sótano, Flandre les pide que jueguen con ella, dando comienzo a una batalla infernal.
+La Mansión del Diablo Escarlata, que aparece desde el nivel 3 en adelante, así como en el nivel extra, es una mansión occidental ubicada en la parte inferior de la Montaña Yōkai en una calzada del Lago de la Niebla.
+Es completamente de color escarlata, y el camino que conduce a la misma es también totalmente escarlata.
+Tiene una torre con un reloj que suena solo a las 12 en punto de la medianoche.
+La dueña de esta mansión es la jefa final Remilia Scarlet, pero desde que ella era una niña, la jefa de la limpieza y jefa del nivel 5, Sakuya Izayoi, se encuentra a cargo del lugar.
+Hong Meiling es la portera y jefe del nivel 3, quien intercepta a las hadas que vienen del lago.
+La jefa extra Flandre Scarlet también se encuentra dentro de la mansión, así como un gran número de hadas que se comportan como enemigos regulares en cada nivel.
+Sakuya manipula el espacio interior y hace que aparente ser más grande.
+Personajes jugadores:
+Jefes:
+En los cuatro años transcurridos desde Mystic Square, la anterior entrega de Touhou, ZUN se apartó de Amusement Makers y estableció su propio círculo dōjin llamado «Team Shanghai Alice», con él mismo como único miembro declarado.
+Como EoSD sería el primer lanzamiento de Team Shanghai Alice y el primer juego hecho para un público bajo la plataforma Windows, ZUN sentía que el juego tendría que dejar una impresión.
+Es por eso que EoSD tiene un tema occidental, a diferencia de los anteriores juegos de Touhou Project cuyo tema es totalmente oriental.
+El sistema de Spell Cards, que aparece en todos los juegos Touhou a partir de EoSD, fue creado por ZUN en 1999 mientras trabajaba en Seihou Project, y tenía la intención de ser un medio para identificar patrones de bala con nombres, así como añadir más profundidad a sus personajes.
+ZUN dijo además que EoSD mismo fue creado con el propósito de introducir este sistema.
+Con EoSD es también la primera vez que ZUN debió programar una aplicación para Windows desde cero.
+Como estaba más instruido en APIs y DirectX, pero estaba relativamente poco familiarizado con el nivel de aplicación, se dedicó mucho tiempo a crear bibliotecas y herramientas para EoSD.
+Como resultado, quedó poco tiempo para mejorar la presentación del juego, y ZUN resolvió que debía mejorar el siguiente juego en ese sentido.

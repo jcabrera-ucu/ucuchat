@@ -1,0 +1,11 @@
+Una central termoeléctrica solar o central termosolar es una instalación industrial en la que, a partir del calentamiento de un fluido mediante radiación solar y su uso en un ciclo termodinámico convencional, se produce la potencia necesaria para mover un alternador para generación de energía eléctrica como en una central termoeléctrica clásica.
+Consiste en el aprovechamiento térmico de la energía solar para transferirla y almacenarla en un medio portador de calor, generalmente agua.
+Esta es una de las ventajas de la tecnología CSP, el almacenamiento térmico.
+La tecnología más comúnmente utilizada para almacenar esta energía son las sales fundidas (nitratos) de almacenamiento térmico.
+La composición de estas sales es variable, siendo la más utilizada la mezcla de nitrato de potasio, nitrato de sodio y últimamente se ha incorporado el nitrato de calcio.
+Instructivamente, es necesario concentrar la radiación solar para que se puedan alcanzar temperaturas elevadas, de 300 °C hasta 1000 °C, y obtener así un rendimiento aceptable en el ciclo termodinámico, que no se podría obtener con temperaturas más bajas.
+La captación y concentración de los rayos solares se hacen por medio de espejos con orientación automática que apuntan a una torre central donde se calienta el fluido, o con mecanismos más pequeños de geometría parabólica.
+El conjunto de la superficie reflectante y su dispositivo de orientación se denomina heliostato.
+Los fluidos y ciclos termodinámicos escogidos en las configuraciones experimentales que se han ensayado, así como los motores que implican, son variados, y van desde el ciclo Rankine (centrales nucleares, térmicas de carbón) hasta el ciclo Brayton (centrales de gas natural) pasando por muchas otras variedades como el motor Stirling, siendo las más utilizadas las que combinan la energía termosolar con el gas natural.Aunque generalmente se emplea agua como fluido en el ciclo termodinámico, actualmente hay en desarrollo mezclas de dióxido de carbono supercríticas que podrían proporcionar un mayor rendimiento.
+En la tabla a continuación se muestra el detalle de la potencia instalada por países a finales de 2021.
+España es actualmente líder mundial en esta tecnología:

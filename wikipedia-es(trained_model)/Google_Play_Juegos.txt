@@ -1,0 +1,10 @@
+Google Play Juegos es un servicio de juegos en línea y un kit de desarrollo de software operado por Google, parte de su línea de productos Google Play, para el sistema operativo Android.
+Cuenta con perfiles de jugador, guardados en la nube, logros y tablas de clasificación públicas y sociales.
+El servicio Play Juegos permite a los desarrolladores incorporar las funciones anteriores en sus juegos sin tener que desarrollar esas funciones desde cero.
+El servicio se lanzó en Microsoft Windows en 2022.
+El servicio Google Play Juegos se presentó en la Google I/O 2013 Developer Conference, y la aplicación móvil independiente Google Play Juegos se lanzó para Android el 24 de julio de 2013.
+Andrew Webster de The Verge comparó Google Play Juegos a Game Center, una red de juegos similar para usuarios del propio sistema operativo iOS de Apple Inc.
+Google Play Juegos ha recibido actualizaciones a lo largo de los años desde su lanzamiento, incluida una función de grabación de pantalla, ID de jugador personalizados, juegos integrados, y una sala de juegos para descubrir juegos.
+Los servicios multijugador en tiempo real y por turnos quedaron obsoletos desde el 16 de septiembre de 2019.
+El soporte para estas funciones de API finalizó el 31 de marzo de 2020.
+En 2021, Google anunció que el servicio estaría disponible en Microsoft Windows, presentando un nuevo logotipo al mismo tiempo.

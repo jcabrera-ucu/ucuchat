@@ -1,0 +1,3 @@
+En estadística, un error típico se refiere a las variaciones que son a menudo inevitables.
+El error típico puede definirse también como la variación producida por factores distorsionantes tanto conocidos como desconocidos.
+Se pueden definir los siguientes tipos de error:

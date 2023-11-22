@@ -1,0 +1,21 @@
+{{Ficha de clase de barco
+}}
+La clase Kongō (こんごう型護衛艦 Kongō-gata Goeikan?) es una serie de cuatro destructores lanzamisiles guiados que actúan como buque principal de escolta de flotillas para la Fuerza Marítima de Autodefensa de Japón, (JMSDF).
+Se trata de una versión modificada de la clase Arleigh Burke de la Armada de los Estados Unidos.
+La clase Kongō emplea el sistema de control de fuego altamente avanzado Aegis y está armado con el misil tierra-aire RIM-66 SM-2MR Bloque II, asimismo cuenta con misiles antisubmarinos de lanzamiento vertical RUM-139, misiles antibuque RGM-84 Harpoon, dos montajes Mark 15 de calibre 20 mm, dos montajes de tres tubos lanzatorpedos, y un cañón Oto Melara de 127 mm/54.
+Su Sistema de lanzamiento vertical Mark 41 puede contener 90 misiles.
+Sin embargo, en consonancia con la misión de carácter defensivo de la JMSDF y el rol pasivo de las Fuerzas de Autodefensa de Japón, en general; la clase Kongō carece de los misiles Tomahawk.
+Como en otros buques que emplean el sistema Aegis, la superestructura está dominada por el radar SPY-1, lo que elimina la necesidad de una antena giratoria tradicional.
+El diseño de la superestructura también incorpora ciertas características furtivas, diseñadas para reducir la sección transversal de radar de la nave.
+Como consecuencia, el barco es considerablemente más pesado en la parte superior que un destructor típico y requiere un calado mucho más profundo, y es por ello que las capacidades para desarrollar operaciones en un entorno costero (operaciones en litoral) son limitadas.
+En general, los destructores de la clase Kongō son mucho más grandes que los destructores tradicionales y con 9485 t de desplazamiento se acercan más a los cruceros en tamaño.
+Debido a que están diseñados para diferentes necesidades operativas, diferentes a las de la clase Arleigh Burke, como son la de transportar equipo adicional para el comando de escuadras navales, la disposición interna de los barcos de la clase Kongō es bastante diferente al diseño original en el que se basan.
+Algunas de sus características externas reconocibles son el mástil vertical y las caras lisas del puente de mando.
+Los buques de la clase Kongo están siendo modificados para servir en un rol de defensa de misiles, con el propósito principal de contrarrestar los misiles balísticos de Corea del Norte.
+Este propósito y una crisis financiera hicieron la variante Flight II de la clase Arleigh Burke la elección de la clase posterior al Tachikaze y a la Asakaze.
+El nuevo destructor fue nombrado Atago en 2005.
+Los destructores de la clase Kongo son propulsados por cuatro turbinas de gas Ishikawajima-Harima LM2500.
+En diciembre de 2007, Japón llevó a cabo una exitosa prueba contra un misil balístico a bordo del por medio del uso de un misil SM-3 bloque IA. Esta fue la primera vez que un barco japonés fue elegido para lanzar un misil interceptor durante una prueba del Sistema de Defensa de Misiles Balísticos Aegis.
+En las pruebas anteriores que proporcionaron el seguimiento y las comunicaciones.
+Después, Japón también ha emprendido con éxito otras dos pruebas de defensa de misiles balísticos a bordo del en octubre de 2009 y a bordo del  en octubre de 2010.
+Sin embargo, una prueba a bordo del falló en noviembre de 2008 en interceptar su objetivo.

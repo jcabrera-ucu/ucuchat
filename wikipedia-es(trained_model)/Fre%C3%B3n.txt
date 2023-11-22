@@ -1,0 +1,10 @@
+El freón es un gas refrigerante desarrollado por la empresa DuPont compuesto por clorofluorocarburo (CFC), producto dañino para la capa de ozono.
+El nombre "Freon" es además un nombre de marca comercial utilizado para referirse a este tipo de productos.
+El freón-12, primero en desarrollarse y el más conocido, es estable, ininflamable, y de baja toxicidad.
+La historia de su uso industrial comprende desde 1874 hasta enero de 1987, con el Protocolo de Montreal donde se prohibió el uso de los CFC en refrigeradores y productos en aerosol.
+Los distintos refrigerantes, entre ellos los freones, se designan con un código elaborado por la ASHRAE, y conocido como «número R».
+La primera parte del número R es la letra R, o bien una palabra que describa el tipo de refrigerante (en el caso de los freones, la palabra «Freón»).
+Una nomenclatura alternativa utiliza en su lugar la combinación de letras iniciales de los elementos hidrógeno (H), bromo (B), cloro (Cl), flúor (F) y carbono (C) que estén presentes en el compuesto, en este orden.
+Nótese que no se emplea el símbolo químico de los elementos (que sería Br para el bromo o Cl para el cloro), sino la letra inicial.
+El sufijo está formado por un mínimo de dos cifras, pero puede ser modificado con números y letras adicionales:
+Es común referirse a los siguientes refrigerantes como freón:

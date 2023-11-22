@@ -1,0 +1,23 @@
+El filtrado de rutas es, en el contexto de enrutamiento de red, el proceso por el cual ciertas rutas no son considerados para su inclusión en la base de datos de rutas locales, o no se anuncia a los vecinos.
+El filtrado de ruta es particularmente importante para BGP en la Internet global, donde se utiliza para una variedad de razones.
+Una forma de hacerlo ruta filtrado con-los recursos externos en la práctica es utilizando Routing Policy Specification Language en combinación con bases de datos de Internet Routing Registry.
+Hay dos momentos en los que un filtro se puede aplicar de forma natural: al aprender rutas de un vecino, y al anunciar rutas a un vecino.
+En el filtrado de entrada, se aplica un filtro a las rutas al ser aprendidas de un vecino.
+Una ruta que se filtra se descarta de inmediato, y por lo tanto no se considera para su inclusión en la base de datos de enrutamiento local.
+En el filtrado de salida, se aplica un filtro a las rutas antes de que se anuncian a un vecino.
+Una ruta que se filtra nunca será aprendida por un vecino, y por lo tanto no se considera para su inclusión en la base de datos de rutas remotas.
+Cuando un sitio está conectado a más de un proveedor, anunciar rutas no locales a un vecino diferente del cual fueron obtenidas, anuncia la voluntad de servir para tránsito de tráfico, lo cual es indeseable a menos que se cuente con acuerdos apropiados.
+La aplicación de filtrado de salida en estas rutas evita este problema.
+Un ISP normalmente realizará filtrado de entrada en las rutas aprendidas de un cliente para restringir a las direcciones realmente asignadas a ese cliente.
+Al hacer esto, dificulta el secuestro de direcciones IP.
+Del mismo modo, un ISP realizará filtrado de entrada en las rutas aprendidas de otros proveedores de Internet para proteger a sus clientes del secuestro de direcciones.
+En algunos casos, los routers tienen cantidades insuficientes de memoria principal para mantener la tabla global completa BGP.
+Una forma simple de superar esto es realizar el filtrado de entrada, limitando así la base de datos de ruta local a un subconjunto de la tabla global.
+Esto se puede hacer mediante el filtrado en longitud de prefijo (eliminando todas las rutas para los prefijos de más de un valor dado), por conteo de AS, o en alguna combinación de los dos; la seguridad es el punto más importante para esto.
+Sin embargo, no se recomienda esta práctica, ya que puede causar enrutamiento subóptimo o incluso fallos de comunicación con pequeñas redes undefined, y frustrar los esfuerzos de ingeniería de tráfico de los operadores vecinos.
+Es necesario que las redes con direccionamiento privado (RFC 1918) sean filtradas y no lleguen directamente a Internet.
+El filtrado de rutas permite impedir que este tráfico llegue ahí.
+En el pasado existían también direcciones sin asignar por IANA, por lo cual si aparecía tráfico desde esos orígenes, era tráfico falso y malicioso.
+Se les llama "bogons", pero a 2015 ya han disminuido muchísimo, quedando solo unos últimos bloques de direcciones IPv4 sin asignar.
+En el caso de utilizar BGP, es posible filtrar rutas a través de diversas técnicas, tales como por atributos BGP, por atributos de comunidades, por listas de prefijos, por listas de distribución y otras.
+Está descrito en RFC 5291.

@@ -1,0 +1,24 @@
+En aeronáutica, un escudo térmico es la capa protectora de una nave espacial o misil balístico, diseñado para protegerlos de las altas temperaturas producidas por el rozamiento con las capas altas de la atmósfera durante su reentrada desde el espacio, un proceso denominado calentamiento aerodinámico.
+Además de cumplir esto, deben proporcionar al vehículo una superficie aerodinámica que permita su desplazamiento a altas velocidades.
+En 1952, H. Julian Allen del National Advisory Committee for Aeronautics (Comité Nacional Asesor de Aeronáutica) descubrió que la "forma de plato" hacía más efectivo el escudo térmico.
+Esta forma incrementa la resistencia y crea una onda expansiva delante de la nave espacial causada por choque con la atmósfera, desviando el calor fuera de la nave, pero el aire contenido entre el escudo térmico y la onda expansiva está sometido a presiones tan altas, que convierten el gas en plasma muy caliente.
+El material de que esté hecho el escudo térmico deberá disipar el calor que genera el plasma.
+Es el tipo de escudo térmico más simple y barato, disipa el calor producido por el plasma permitiendo la vaporización de sus capas externas.
+Así, estos escudos se desgastaban con la reentrada en la atmósfera, quedando inutilizables para posteriores usos.
+Todas las naves espaciales primitivas a excepción de las primeras cápsulas del Proyecto Mercury (que era suborbital) usaban tecnologías desechables para ayudar con la transición de las altas velocidades orbitales a los regímenes aeronáuticos donde las naves pueden volar, como hacen los actuales transbordadores espaciales o desplegar paracaídas para aterrizar, como se hacía con las cápsulas espaciales de los programas Mercurio o Apollo.
+Así, los escudos térmicos, son usados virtualmente por todas las naves espaciales y en muchos de los misiles balísticos, en los que no importa si el escudo térmico puede aguantar una segunda reentrada.
+Cuando fue diseñado el sistema de Transbordador espacial, se decidió que el uso de escudos térmicos desechables no era eficiente.
+En su lugar los transbordadores espaciales están cubiertos en su parte inferior por miles de baldosas cerámicas (HRSI High-temperature Reusable Surface Insulation, que quiere decir, aislamiento reutilizable de superficies de altas temperaturas) diseñadas para aguantar múltiples reentradas únicamente con pequeñas reparaciones entre misiones.
+Sin embargo, se probó que el diseño original era algo menos robusto de lo que se pensaba; el transbordador sufría frecuentes pérdidas y daños de estas baldosas.
+El 16 de enero de 2003, el accidente que llevó a la destrucción del Transbordador Columbia se atribuyó al desprendimiento de un trozo de espuma aislante del tanque externo, que impactó en la parte inferior del ala izquierda provocando daños en las losetas de protección térmica cerca del tren de aterrizaje.
+En algunos misiles balísticos y en la cápsula espacial Mercurio se usaron disipadores de calor para aliviar el calentamiento producido por el plasma.
+Sin embargo la técnica requería una considerable cantidad de metal, añadiendo por tanto mucho peso al aparato.
+A consecuencia de esto su uso es poco común.
+Algunos aviones de alta velocidad, como el SR-71 Blackbird y el Concorde, abordan el problema del calentamiento de forma similar a como lo sufren las naves espaciales pero con menor intensidad.
+La onda expansiva afecta al morro del avión y lo calienta por la compresión que sufre el aire en torno suyo al aproximarse a la barrera del sonido.
+Generalmente el calor es conducido a través superficies de aleaciones de aluminio o titanio, u ocasionalmente de acero inoxidable.
+En el caso del Concorde el morro puede alcanzar una temperatura de operación máxima de 127 °C, 180 °C más caliente que el aire externo.
+En varios avances sobre naves espaciales reutilizables y diseños de aviones hipersónicos se ha propuesto el uso de escudos térmicos hechos de aleaciones resistentes al calor, algunos de estos incluyen sistemas en los que el agua o combustible criogénico circulan sobre o a través de ellos para enfriarlos.
+La temperatura a la que llega normalmente la nave al penetrar en la atmósfera es de unos 1500 °C.
+Las temperaturas alcanzadas en las reentradas más violentas (14 000 °C) sufridas por una nave espacial fueron soportadas por la sonda atmosférica que portaba la nave Galileo, que penetró en la atmósfera de Júpiter a 106 000 millas/h (47,4 km/s).
+El escudo térmico, estaba hecho de carbono-fenólico y constituía alrededor del 50 % de la masa de la sonda antes de la reentrada.

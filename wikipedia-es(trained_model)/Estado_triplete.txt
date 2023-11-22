@@ -1,0 +1,19 @@
+En física cuántica se denomina triplete a un sistema con tres posibles valores de espín.
+Puede consistir en un bosón W o Z con espín de valor 1, dos fermiones idénticos con espín 1/2, o más de dos partículas en un estado con espín total 1 (tales como los electrones en una molécula de oxígeno triplete).
+Un triplete de espín es un conjunto de tres estados cuánticos de un sistema, cada uno con spin total S = 1 (en unidades de \hbar).
+En física, el espín es el momento angular intrínseco para un cuerpo, a diferencia del momento angular orbital, que es el movimiento de su centro de masa con respecto a un punto externo.
+En la mecánica cuántica, el espín es particularmente importante para los sistemas a escala atómica, tales como átomos individuales, protones o electrones.
+Tales partículas, además de otros sistemas mecánico-cuánticos poseen varias características poco comunes o no clásicas, y para tales sistemas, el momento angular de espín no se pueden asociar con la rotación, sino que en su lugar, se refiere sólo a la presencia de un momento angular.
+Casi todas las moléculas que se encuentran en la vida diaria existen en un estado singlete, pero el oxígeno molecular es una excepción.
+A temperatura ambiente, el O2 existe en un estado triplete, lo que requeriría la transición prohibida a un estado singlete antes de que una reacción química pudiese comenzar, lo que hace que sea cinéticamente no reactivo a pesar de ser termodinámicamente un oxidante fuerte.
+La activación fotoquímica o térmica puede ponerlo en estado singlete, que es fuertemente oxidantes también cinéticamente.
+En un sistema con dos partículas de spin-1/2 –por ejemplo, el protón y el electrón en el estado fundamental del hidrógeno, medido sobre un eje dado–, cada partícula pueden o bien girar hacia arriba o hacia abajo, por lo que el sistema tiene cuatro estados básicos en total:
+Usamos los espines de cada partícula para etiquetar los estados básicos, donde la primera y segunda flecha en cada combinación indican la dirección de giro de la primera y la segunda partícula respectivamente.
+Más rigurosamente:
+y puesto que para partículas de espín 1/2, los estados básicos abarcan un espacio de dimensión 2, los estados básicos  abarcan un espacio de dimensión 4.
+Ahora el giro total y su proyección sobre el eje definido previamente se pueden calcular utilizando las reglas para sumar momento angular en mecánica cuántica utilizando los coeficientes de Clebsch-Gordan.
+En general:
+Sustituyendo en los cuatro estados básicos:
+Se obtienen los valores posibles de spin total dados junto con su representación en la base.
+Hay tres estados con spin total del momento angular igual a 1:
+Y un cuarto con el momento angular de espín total de 0.

@@ -1,0 +1,6 @@
+El capital Tier 1 es la medida central de la fortaleza financiera de un banco desde el punto de vista del regulador.
+Se compone de un capital básico, que consiste principalmente en las acciones ordinarias y de las reservas declarada (o utilidades retenidas),  pero también puede incluir las acciones preferenciales no-acumultivas no-redimibles.
+El capital en este sentido se relaciona con, pero es diferente de, el concepto contable de capital social.
+Tanto el capital Tier 1 y Tier 2 se definieron por primera vez en el Acuerdo de Capital Basilea I, siendo sustancialmente las mismas en su sustituto el Acuerdo Basilea II.
+El capital Tier 2 mayor que Tier 1, pero subordinado a los depósitos y a las afirmaciones del asegurador de depósitos.
+Esto incluye acciones preferentes con vencimiento fijo y deuda a largo plazo con un mínimo de vencimiento de más de cinco años.

@@ -1,0 +1,54 @@
+Tumblepop es un videojuego de plataformas arcade desarrollado por Data East y lanzado en 1991.
+Se considera una obra clásica de culto, pero parece pedir prestados algunos elementos del Snow Bros lanzado el año anterior.
+También tiene pequeñas características del Pang.
+El juego implica a uno o dos cazadores de fantasmas que pueden aspirar monstruos hacia a dentro de sus bolsas de aire y escupirlos en una bola, eso se puede utilizar como arma cuando golpea a otros enemigos y acaba recorrido dando recompensas (monedas, diamantes, rubíes).
+El diagrama del juego fue inspirado posiblemente por la película de Los cazafantasmas.
+Los controladores dependen de dos botones y la palanca de mando.
+El botón principal sirve para activar la aspiradora, al mantener el botón principal presionado logramos aspirar a las criaturas y se introduce en nuestra bolsa de aire, una vez que soltamos el botón expulsamos a la o las criaturas que tengamos en nuestro bolsa de aire, también tenemos un tiempo determinado para mantenerlas dentro, si las mantenemos dentro de nuestra bolsa de aire mucho tiempo, puede que explote costándonos una vida.
+El botón secundario sirve para saltar, podemos saltar de un piso a otro (hacia arriba o hacia abajo), y también de un lado a otro, una función que se destaca es que al mantener la palanca hacia abajo (agachado) y presionando el botón de salto, logramos lanzarnos del piso (hacia abajo) en el que estamos hacia eludiendo obstáculos o disparos.
+Existen dos tipos de personajes, gráficamente son iguales, la única diferencia es que poseen diferentes colores en sus vestimentas.
+El jugador 1 tiene un traje y un pañuelo en la cabeza de color verde, sus guantes y bolsa de aire son rojos, y aparece en el lado izquierdo de la pantalla.
+El jugador 2 posee el mismo equipo y gráficamente es igual, solo que cambian los colores, lo que es color verde en el jugador 1, en este jugador es amarillo (es decir el traje y el pañuelo), y los colores rojos son azules (los guantes y la bolsa de aire), este aparece en el lado derecho de la pantalla, ambos poseen botas y un chaleco negro.
+Al ganar un mapa o al completar la palabra TUMBLEPOP, el o los jugadores dicen: «Takuga!» y al ganar un nivel dicen «Bugi!»
+Los siguientes objetos aparecen en los pisos mediante el lanzamiento de una bola formada por algunas criaturas:
+Las criaturas son nuestras enemigas en los niveles, nuestra misión es eliminarlas para pasar al siguiente nivel.
+Dichas criaturas pueden eliminarse de dos maneras: la primera es aspirándola y lanzándola para obtener una recompensa o aspirando más de una para lanzarlas y obtener una recompensa mayor, y la segunda es aspirar una o más criaturas y lanzársela a otra para eliminarla.
+Existen gran variedad de criaturas, ellas están determinadas por categorías.
+Las criaturas se califican de la siguiente manera:
+Categoría 1: Son las más sencillas ya que se caracterizan por ser pequeñas y fáciles de aspirar, lo único que hacen es andar de un lado para el otro de piso desde donde están y desde el cual comienza ya que no se mueven desde allí.
+Estas son las únicas que apenas hacen contacto con la onda de la aspiradora entran sin problema.
+No poseen mucha participación en los mapas, pero si aparecen en los primeros escenarios como para demostrar cierta facilidad al jugador.
+Cantidad estimada por región: 1 - 6
+Categoría 2: Son bastantes simples, no representa una amenaza en su calidad sino su cantidad.
+Su función consta de ir por todo el escenario, saltando de un lado a otro, corriendo y trasladándose de un piso a otro con aviso previo (mira antes de saltar para arriba o de dejarse caer hacia otro piso).
+Tienen mucha participación en los escenarios.
+Cantidad estimada por región: 4 – 12
+Categoría 3: Muy parecidas en las categoría 2, solo que estas tiene otras características para el jugador tanto buenas como malas, las buenas son que estas criaturas no saltan de un lado a otro, pero las características malas son que pueden trasladarse de una manera especial (ya sea en forma de remolino o haciéndose invisible) lo que imposibilita el golpe de la bola de criaturas y hasta puede detenerla, como por ejemplo el remolino que la detiene.
+Cantidad estimada por región: 4 – 12
+Categoría 4: Estas criaturas se caracterizan por efectuar ataques a distancia, además de hacer algunas de las cosas que hacen las otras, como por ejemplo saltar de un lado a otro y trasladarse de piso en piso.
+Cantidad estimada por región: 1 – 6
+Categoría 5: Son unos frascos que aparecen inmóviles en el escenarios, su única función es, además de bloquear ciertas partes del escenarios, de producir criaturas tanto de lvl 2 como de lvl 3, en los primeras regiones se los puede destruir lanzándoles dos criaturas y en las siguientes regiones, bastarán tres criaturas para destruirlo.
+Jefe de mapa: es la criatura más grande que aparece al finalizar una región, la única forma de matarla es lanzarle las criaturas que aparecen en su escenario, los puntos de vida del boss y el nivel puede variar según posición de la región, por ejemplo, el primer boss tiene 6 de vida y aparece en el sexto escenario (1 - 6), el segundo tiene 8 puntos de vida y aparece en el séptimo escenario.
+Algunas regiones más adelante los bosses van a aparecer en los escenarios de nueve (X - 9) y con más puntos de vida hasta un cierto punto.
+Incluso la última región los niveles están compuestos por los bosses que matamos con anterioridad.
+Diablo del tiempo: esta criatura aparece volando, en el costado superior izquierdo de la pantalla y únicamente cuando tardamos mucho en limpiar el escenario, no se puede atacar y no desaparecerá hasta que limpiemos a la última criatura o hasta que nos quite una vida, al cumplir estos objetivos desaparece.
+Al comienzo del juego, más precisamente apenas introducimos la moneda o ficha, apretamos el botón del jugador o los jugadores e inmediatamente se nos aparece un mapa con unos puntos rojos, esos puntos dictaminan nuestras regiones, esto significa que podemos elegir en que región comenzar a jugar.
+Al avanzar en el mapa, el globo aerostato gira en dirección contraria a las agujas del reloj.
+Además, en la primera pantalla seleccionada, sólo hay seis niveles antes del enemigo final, pero conforme vayamos pasando de región, la cantidad de niveles antes del jefe final aumentan, uno más por cada región.
+Por ello, hasta que no se ha comenzado el juego desde las ocho regiones elegibles, no habremos visto todos los niveles de cada zona.
+Leyenda: (aquí vamos a mostra las regiones en el siguiente orden)
+País
+Fondo
+(Estos mapas están acomodados aleatoriamente y siguiendo la escala de niveles)
+La región nos ubica en la parte frontal de la catedral de San Basilio en Moscú, en esta región nos encontramos con:
+La región nos ubica en las pirámides de Guiza, en esta región nos encontramos con:
+La región nos ubica en la avenida Champs-élyseés, y como imagen principal el Arco del triunfo, en esta región nos encontramos con:
+La región nos ubica en la ciudad de New York, más precisamente en Manhattan, frente a la estatua de la libertad y las torres gemelas, en esta región nos encontramos con:
+La región nos sitúa en Río de Janeiro, frente a la estatua del Cristo redentor, en esta región nos encontramos con:
+La región nos sitúa en algún lugar de la Antártica, en esta región nos encontramos con:
+La región nos sitúa frente a la roca de Ayers, en esta región nos encontramos con:
+La región nos sitúa frente al monte Fuji, en esta región nos encontramos con:
+Esta región no se puede escoger, y nos la encontramos al terminar el resto de regiones de la tierra.
+En esta región nos encontramos con:
+El fondo es la tierra, la única diferencia con el resto de los mapas es que acá no aparecen criaturas comunes, sino que, en los niveles, aparecen los bosses anteriores, y también el jefe final, es un científico loco cyborg montado en un robot, el cual lanzaba sus manos mecánicas y las criaturas sirvientas (los robots de Francia) para atacarlo.
+Una vez destruido, quedaba el científico loco flotando en una máquina la cual podía seguir atacándonos pero con bolas de fuego en direcciones de cruz, primero cruz + y después cruz X, y así sucesivamente, el golpe final se lo damos aspirando y lanzándolo, al final se rinde.

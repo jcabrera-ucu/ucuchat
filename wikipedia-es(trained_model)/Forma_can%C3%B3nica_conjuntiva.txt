@@ -1,0 +1,5 @@
+Se entiende por forma canónica conjuntiva la expresión algebraica normalizada de una función lógica obtenida como el producto de todos los Maxterms para los que la expresión algebraica ha de valer 0.
+También se denomina expresión en producto de sumas o expresión en Maxterms.
+Para n variables booleanas (ej: bits),
+Por ejemplo, para la siguiente función lógica dada como tabla de verdad:
+FCC=M1.M2.M4.M6=(A+B+C).(A+B+C).(A+B+C).(A+B+C)

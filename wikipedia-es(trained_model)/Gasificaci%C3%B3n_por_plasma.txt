@@ -1,0 +1,34 @@
+Gasificación por plasma es un proceso que convierte materia orgánica en gas sintético, electricidad, y escoria (metalurgia) mediante el uso de plasma.
+Un soplete de plasma alimentado con un arco eléctrico es utilizado para ionizar gas y catalizar la materia orgánica en gas sintético y residuos sólidos.
+Comercialmente es utilizado como una forma de tratamiento de residuos y ha sido probado con hidrocarburos.
+Un soplete de plasma utiliza un gas inerte.
+Los electrodos varían desde cobre o tungsteno a hafnio o circonio, junto con otras aleaciones.
+Una poderosa corriente eléctrica de alto voltaje circula entre los dos electrodos en forma de arco eléctrico.
+El gas inerte presurizado es ionizado cuando circula a través del plasma creado por el arco eléctrico.
+La temperatura del soplete varía desde 2200 °C a 14000 °C.
+En estas condiciones, la disociación molecular puede ocurrir mediante la ruptura de los enlaces moleculares.
+Los elementos resultantes están en estado gaseoso.
+Las moléculas complejas son separadas en átomos individuales.
+La disociación molecular por plasma es conocida como pirólisis por plasma."
+La materia prima para el tratamiento de residuos con plasma es generalmente residuos sólidos, desechos orgánicos, o ambos.
+También puede utilizarse desechos biomédicos y materiales peligrosos.
+El contenido y la consistencia del residuo impacta directamente en el rendimiento de la planta de gasificación por plasma.
+El separado y reciclaje antes de la gasificación mejora la consistencia.
+Una mayor cantidad de materia inorgánica como metales incrementa la cantidad de escoria metálica, y por consiguiente reduce la producción de gas sintético.
+De todas formas, el beneficio es que la escoria metálica en sí, es químicamente inerte y segura de manejar.
+La trituración del residuo previa al ingreso a la cámara de gasificación, incrementa la producción de gas sintético.
+Esto crea una transferencia de energía eficiente que asegura que más material sea descompuesto.
+El gas sintético puro altamente calorífico consiste de CO, H2, CH, etc..
+Los materiales inorgánicos no-inflamables no son descompuestos.
+Esto incluye varios metales.
+Un cambio de estado de sólido a líquido incrementa el volumen de la escoria metálica.
+El procesamiento por plasma es ecológicamente limpio.
+La falta de oxígeno previene la formación de varias toxinas.
+Las altas temperaturas en el reactor también previenen la formación de furanos, dioxinas, óxidos de nitrógeno o dióxido de azufre.
+La producción de gas ecólogicamente limpio es el objetivo estándar.
+El gas producto no contiene fenoles ni hidrocarburos complejos.
+El agua remueve toxinas y sustancias peligrosas que deben ser limpiadas.
+Los metales resultantes de la pirólisis por plasma pueden ser recuperados de la escoria metálica.
+Los reactores de gasificación operan con presión negativa y recuperan tanto residuos sólidos como gaseosos.
+Las principales ventajas del tratamiento de residuos por plasma son:
+Las principales desventajas son:

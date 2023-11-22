@@ -1,0 +1,23 @@
+Fast Five the Movie: Official Game es un videojuego de carreras desarrollado y publicado por Gameloft para Android, iOS, J2ME y MacOS.
+El juego está basado en la quinta película de la franquicia Fast & Furious.
+Fue lanzado en dos versiones la 3D para Android, iOS y macOS, y 2D para Android y J2ME.
+El juego es similar a los juegos móviles de Fast & Furious anteriores, así como a la serie Asphalt.
+Los controles de inclinación y una vista en tercera persona se usan de forma predeterminada, pero se pueden cambiar a una vista frontal y controles táctiles.
+La aceleración es automática y es posible usar potenciadores de nitro para ganar velocidad extra.
+También hay una función de rebobinado que permite al jugador retroceder en el tiempo para evitar accidentes.
+Los conjuntos de piezas que crean peligros en el camino ocasionalmente ocurren durante las carreras.
+El modo principal del juego es el modo carrera que sigue la historia de la película.
+Se compone de diez capítulos que contienen cada uno una nueva pista, así como varios eventos.
+Cada capítulo comienza con una carrera de historia y una vez que se completan los eventos de carrera adicionales están disponibles.
+Hay algunos modos de carrera diferentes: carreras normales y ataques de tiempo, eliminaciones en las que el jugador tiene que empujar a los oponentes fuera de la carretera, carreras de arrastre que tienen que ver con desplazamientos y carreras de derrape donde el jugador tiene que derrapar tanto como sea posible.
+Para avanzar al siguiente capítulo, se deben ganar puntos de fama al desempeñarse bien en los eventos.
+También hay un modo multijugador que permite carreras con hasta diez jugadores.
+Se puede jugar en línea, así como a través de wi-fi o bluetooth.
+La versión para iOS de Fast Five recibió críticas generalmente favorables y obtuvo una puntuación de 81 de 100 de acuerdo con el sitio web Metacritic.
+Slide to Play escribió: "Fast Five es tanto un increíble juego de películas con licencia como uno de los mejores juegos de acción y carreras en la App Store".
+AppGamer escribió: "Lejos de ser otra licencia descartable, Fast Five toma lo mejor de la película y lo mejor de otros juegos de carreras y crea algo único y divertido. Aparte de algunos problemas de presentación, este resulta ser el mejor juego de carreras de Gameloft todavía".
+Bryan Lufkin de Gamezebo escribió: "Dejando a un lado las pequeñas peculiaridades, Fast Five será un verdadero placer para aquellos a quienes les gusten los corredores de iOS. La lista bastante extensa de desbloqueables y títulos para lograr, así como el modo multijugador en línea, garantizan que los aspirantes a Vin Diesel abrirán su apetito. para carreras de arrastre llamativas y juegos de alta velocidad".
+Víctor Moyano de Vandal escribió: "En última instancia, un juego de carreras digno de mención, que los fanáticos del género disfrutarán. Incluso para aquellos que no son fanáticos de las películas, este es un juego de carreras divertido".
+Blake Grundman de 148Apps escribió: "Aunque se supone que Fast Five the Movie: Official Game es un cumplido para la película, honestamente se siente como otro intento de explotar la base de clientes existente de Gameloft".
+Tom Orry de VideoGamer escribió: "Si buscas un juego de carreras basado en inclinación que imite los grandes títulos de las consolas domésticas, Need for Speed: Hot Pursuit es un título para iOS más completo y logrado".
+Tommaso Pugliese de Multiplayer.it escribió: "Fast Five the Movie: Official Game es un buen juego de carreras con muy buenos gráficos, un rico modo carrera y un modo multijugador en línea para hasta diez jugadores. Qué pena que los controles no funcionen como deberían: los de inclinación son bastante inexactos, los táctiles son definitivamente mejores, pero siempre tienes que luchar para realizar un deslizamiento de poder".

@@ -1,0 +1,36 @@
+La función suma de cuadrados es una función aritmética que dado un número entero positivo
+n
+, proporciona el número de representaciones de este como suma de
+k
+cuadrados, donde las representaciones que únicamente se diferencian en el orden de sumandos o los signos de las raíces cuadradas se cuentan como diferentes, y se denota por
+rk(n)
+.
+La función se define como
+donde |.| denota la cardinalidad del conjunto.
+En otras palabras,
+rk(n)
+es el número de veces que
+n
+puede escribirse como suma de
+k
+cuadrados.
+El número de veces que puede escribirse un número natural como suma de dos cuadrados está dado por
+r2(n)
+. Puede ser proporcionado explícitamente como
+donde
+d1(n)
+es el número de divisores de
+n
+que son congruentes con 1 módulo 4 y
+d3(n)
+es el número de divisores de
+n
+que son congruentes con 3 módulo 4.
+Usando sumas, la expresión se puede escribir como:
+El número de veces que se puede representar
+n
+como la suma de cuatro cuadrados fue dado por Carl Gustav Jakob Jacobi y es ocho veces la suma de todos sus divisores que no son divisibles por 4, i.e.
+Jacobi también encontró una fórmula explícita para el caso
+k=8
+La función generadora que proporciona los coeficientes de la forma general está basada en términos de la función theta de Jacobi:
+donde

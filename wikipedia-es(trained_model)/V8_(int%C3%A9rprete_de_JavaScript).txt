@@ -1,0 +1,7 @@
+V8 es un motor de código abierto para JavaScript y WebAssembly, creado por Google, siendo su programador jefe Lars Bak.
+La primera versión del motor V8 fue lanzada el 2 de septiembre de 2008 al mismo tiempo que la primera versión del navegador Google Chrome.
+Cabe destacar también que este motor no solo ha sido usado del lado del cliente, sino también del lado del servidor en Couchbase, MongoDB y Node.js.
+Está escrito en C++ y es usado en Chromium, Microsoft Edge desde 2020, Brave y Opera.
+También está integrado en el navegador de internet del sistema operativo Android 2.2 “Froyo”.
+Implementa ECMAScript como especifica ECMA-262 5.ª edición y corre en Windows XP, Vista, Mac OS X 10.5 (Leopard) y Linux en procesadores IA-32 y ARM.
+Chrome V8 puede funcionar de manera individual (standalone) o incorporada a cualquier aplicación C++.

@@ -1,0 +1,20 @@
+Las calicatas o catas son una de las técnicas de prospección empleadas para facilitar el reconocimiento geotécnico, estudios edafológicos o pedológicos de un terreno.
+Son excavaciones de profundidad pequeña a media, realizadas normalmente con pala retroexcavadora.
+Las calicatas permiten la inspección directa del suelo que se desea estudiar y, por lo tanto, es el método de exploración que normalmente entrega la información más confiable y completa.
+En suelos con grava, la calicata es el único medio de exploración que puede entregar información confiable, y es un medio muy efectivo para exploración y muestreo de suelos de fundación y materiales de construcción a un costo relativamente bajo.
+Es necesario registrar la ubicación y elevación de cada pozo, los que son numerados según la ubicación.
+Si un pozo programado no se ejecuta, es preferible mantener el número del pozo en el registro como "no realizado" en vez de volver a usar el número en otro lugar, para eliminar confusiones.
+La profundidad está determinada por las exigencias de la investigación pero es dada, generalmente, por el nivel freático.
+La sección mínima recomendada es de 0.80 m por 1.00 m, a fin de permitir una adecuada inspección de las paredes.
+El material excavado deberá depositarse en la superficie en forma ordenada separado de acuerdo a la profundidad y horizonte correspondiente.
+Debe desecharse todo el material contaminado con suelos de estratos diferentes.
+Se dejarán plataformas o escalones de 0.30 a 0.40 metros al cambio de estrato, reduciéndose la excavación.
+Esto permite una superficie para efectuar la determinación de la densidad del terreno.
+Se deberá dejar al menos una de las paredes lo menos remoldeada y contaminada posible, de modo que representen fielmente el perfil estratigráfico del pozo.
+En cada calicata se deberá realizar una descripción visual o registro de estratigrafía comprometida.
+Las calicatas permiten:
+La profundidad de este tipo de reconocimiento no suele pasar de los 5 metros, aunque en casos extremos puede alcanzar los 10 metros de profundidad.
+La dimensión mínima en planta, indicada por la norma N.T.E., es de 75 milímetros.
+En determinados tipos de terreno, cuando haya personal en su interior realizando la maniobra de toma de muestras, la calicata deberá ser entibada.
+Casos, situaciones, o tipos de terrenos, en los que se pueden realizar calicatas:
+La palabra calicata proviene de la conjunción de calar (del lat. chalāre), significando "penetrar", "atravesar"; y cata (del gr. κατα), cuyo significado originariamente es "hacia abajo".

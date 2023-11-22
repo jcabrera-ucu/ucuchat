@@ -1,0 +1,9 @@
+CD80 y CD86 son cúmulos de diferenciación (en Inglés: cluster of differentation; CD).
+También se les conoce como proteínas B7.1 y B7.2 respectivamente.
+Son glucoproteínas de estructura francamente similar de la familia de las inmunoglobulinas que actúan como receptores presentes sobre la membrana de células presentadoras de antígeno.
+Su acción consiste en la mediación en la adhesión de las células T con las células presentadoras de antígenos foráneos.
+Esta y otras moléculas son co-estimuladoras y su interacción con sus receptores o ligandos determinará si el linfocito T responderá frente a los antígenos presentados por las células presentadoras del antígeno.
+Su receptor sobre las células T se denomina CD28.
+La proteína CD80 tiene una masa de 33.05 kDa y una longitud de 288 aminoácidos.
+Las moléculas CD80 y CD86 son expresadas por múltiples tipos de células, incluyendo células B, macrófagos, CD y células T.
+La interacción de la célula presentadora de antígeno con la Célula T unida al MHC respectivo, la unión del CD28 con sus ligandos CD80 y CD86 estimula a la APC a producir interleucinas, en especial interleucina-2 (IL-2) e interleucina-6 (IL-6).

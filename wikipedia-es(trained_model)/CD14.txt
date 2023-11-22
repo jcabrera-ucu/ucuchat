@@ -1,0 +1,4 @@
+En inmunología se denomina CD14 (del inglés cluster of differentiation) a un tipo de antígeno CD propio del sistema inmune de mamíferos.
+Se caracteriza por poseer un peso molecular de 53-55 kDa y su naturaleza bioquímica es la de un receptor de membrana.
+Su función biológica en la célula es: recepción del complejo de lipopolisacárido y de la proteína de unión al lipopolisacárido o LBP.
+Se expresa específicamente en fagocitos mononucleares (monocitos, macrófagos y células dendríticas).

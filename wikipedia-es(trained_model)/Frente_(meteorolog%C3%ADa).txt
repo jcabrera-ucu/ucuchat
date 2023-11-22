@@ -1,0 +1,79 @@
+[[Archivo:Weather fronts.svg|thumb|Símbolos en mapa de tiempo:
+1. Frente frío
+2. Frente cálido
+3. Frente ocluido
+4. Frente estacionario.]]
+En meteorología, un frente es una franja de separación o zona de interacción entre dos vientos o masas de aire con características diferentes de temperatura o humedad.
+Se clasifican como fríos, cálidos, estacionarios y ocluidos según sus características.
+La palabra «frente» está tomada del lenguaje militar, dado que el choque entre las dos masas produce una actividad muy dinámica similar a una batalla, con tormentas eléctricas, ráfagas de viento y aguaceros.
+Los frentes meteorológicos se asocian a menudo con sistemas de presión atmosféricos.
+Son generalmente guiados por corrientes de aire.
+Los frentes pueden verse afectados por formaciones geográficas como montañas y grandes volúmenes de agua.
+Los frentes fríos se mueven generalmente de oeste a este, mientras que los cálidos lo hacen hacia adelante, aunque es posible cualquier dirección.
+Los frentes ocluidos son una fusión híbrida de ambos, y los frentes estacionarios se estancan en su movimiento.
+Los frentes fríos y las oclusiones frías se mueven más rápido que los frentes cálidos y las oclusiones cálidas porque el aire denso que hay detrás de ellos puede elevar además de empujar al aire más cálido.
+Las montañas y las masas de agua pueden afectar al movimiento y a las propiedades de los frentes, aparte de las condiciones atmosféricas.
+Cuando el contraste de densidad ha disminuido entre las masas de aire, por ejemplo después de fluir sobre un océano uniformemente cálido, el frente puede degenerar en una mera línea que separa regiones de diferente velocidades del viento conocida como cizalladura.
+Esto es más común sobre el océano abierto.
+La clasificación de Bergeron es la forma más ampliamente aceptada de clasificación de las masas de aire.
+Las clasificaciones de las masas de aire se indican con tres letras: Los frentes separan masas de aire de diferentes tipos u orígenes, y se sitúan a lo largo de vaguadas de menor presión.
+Un análisis meteorológico de superficie es un tipo especial de mapa meteorológico que proporciona una vista superior de los elementos meteorológicos en un área geográfica en un momento específico en función de la información de las estaciones meteorológicas terrestres.
+Los mapas meteorológicos se crean detectando, trazando y rastreando los valores de cantidades relevantes como presión a nivel del mar, temperatura y cobertura de nubes en un mapa geográfico para ayudar a encontrar características de escala sinóptica, como frentes meteorológicos.
+Los análisis meteorológicos de superficie tienen símbolos especiales que muestran sistemas frontales, nubosidad, precipitación u otra información importante.
+Por ejemplo, una A puede representar una zona de altas presiones, lo que implica tiempo despejado.
+Una B, por otro lado, puede representar baja presión, que frecuentemente acompaña a precipitaciones y tormentas.
+Las bajas presiones también crean vientos superficiales derivados de zonas de altas presiones y viceversa.
+Se utilizan varios símbolos no sólo para las zonas frontales y otros límites de superficie en los mapas meteorológicos, sino también para representar el tiempo actual en varios lugares del mapa meteorológico.
+Además, las zonas de precipitación ayudan a determinar el tipo de frente y su ubicación.
+Existen dos significados diferentes utilizados dentro de la meteorología para describir el tiempo alrededor de una zona frontal.
+El término "anafront" describe los límites que muestran inestabilidad, lo que significa que el aire se eleva rápidamente a lo largo y sobre el límite para causar cambios significativos en el tiempo y fuertes precipitaciones.
+Un "katafront" es más débil y provoca cambios menores de temperatura y humedad, así como precipitaciones limitadas.
+El frente frío es una franja de inestabilidad que ocurre cuando una masa de aire frío se acerca a una masa de aire caliente.
+El aire frío, siendo más denso, genera una "cuña" y se mete por debajo del aire cálido y menos denso.
+Los frentes fríos se mueven rápidamente.
+Son fuertes y pueden causar perturbaciones atmosféricas tales como tormentas de truenos, chubascos, tornados, vientos fuertes y cortas tempestades de nieve antes del paso del frente frío, acompañadas de condiciones secas a medida que el frente avanza.
+Dependiendo de la época del año y de su localización geográfica, los frentes fríos pueden venir en una sucesión de 5 a 7 días.
+En mapas de tiempo, los frentes fríos están marcados con el símbolo de una línea azul de triángulos que señalan la dirección de su movimiento.
+La velocidad de desplazamiento del frente es tal que el efecto de descenso brusco de temperatura se observa en pocas horas e incluso pocos minutos en el caso de un simple cumulonimbo.
+Se llama frente cálido a la parte frontal de una masa de aire tibio que avanza para reemplazar a una masa de aire frío.
+Generalmente, con el paso del frente cálido la temperatura y la humedad aumentan, la presión baja y aunque el viento cambia no es tan pronunciado como cuando pasa un frente frío.
+La precipitación en forma de lluvia, nieve o llovizna se encuentra generalmente al inicio de un frente superficial, así como las tormentas convectivas y las lluvias que podrían generar tornados al igual que el frente frío.
+La neblina es común en el aire frío que antecede a este tipo de frente.
+A pesar de que casi siempre aclara una vez pasado el frente, algunas veces puede originarse neblina en el aire cálido.
+Un frente ocluido se forma donde un frente caliente móvil más lento es seguido por un frente frío con desplazamiento más rápido.
+El frente frío, con forma de cuña, alcanza al frente caliente y lo empuja hacia arriba.
+Los dos frentes continúan moviéndose uno detrás del otro y la línea entre ellos es la que forma el frente ocluido.
+Así como con los frentes inmóviles, se puede dar una gran variedad de condiciones atmosféricas a lo largo de este tipo de frente, pero por lo general, son asociados con los estratos de nubes y la precipitación ligera.
+Los frentes ocluidos se forman, generalmente, alrededor de áreas de baja presión y cuando estas están debilitándose.
+Los frentes ocluidos están marcados en los mapas meteorológicos con una línea punteada violeta entre las marcas del frente frío y el frente caliente que señalan la dirección de su desplazamiento.
+Un frente estacionario es un límite entre dos masas de aire, de las cuales ninguna es lo suficientemente fuerte para sustituir a la otra.
+Se puede encontrar una gran variedad de condiciones atmosféricas a lo largo de este tipo de frente, pero, generalmente, las nubes y la precipitación prolongada son las más frecuentes.
+Después de varios días, los frentes estacionarios se disipan o se convierten en un frente frío o cálido.
+Estos frentes son más numerosos en los meses de verano.
+La precipitación prolongada asociada a ellos, es, a menudo, responsable de inundaciones durante los meses de verano.
+En los mapas meteorológicos están marcados con una línea de círculos rojos y triángulos azules que se alternan, dibujados en sentidos opuestos, representando la naturaleza dual del frente.
+El sector cálido es una masa de aire cercana a la superficie que se encuentra entre el frente cálido y el frente frío, normalmente en el lado ecuatorial de un ciclón extratropical.
+Con sus características cálidas y húmedas, este aire es susceptible a la inestabilidad convectiva y puede sostener tormentas eléctricas, especialmente si es levantado por el frente frío que avanza.
+Un fenómeno similar a un frente meteorológico es la línea seca, que es el límite entre masas de aire con diferencias significativas de humedad en lugar de temperatura.
+Cuando los vientos del oeste aumentan en el lado norte de los máximos en superficie, se formarán zonas de presión baja a sotavento de las cadenas montañosas orientadas de norte a sur, dando lugar a la formación de una vaguada de sotavento.
+Cerca de la superficie durante las horas diurnas, el aire cálido y húmedo es más denso que el aire seco de mayor temperatura, por lo que el aire cálido y húmedo se cuña bajo el aire más seco como un frente frío.
+A mayor altitud, el aire húmedo cálido es menos denso que el aire seco más frío y la pendiente límite se invierte.
+En las proximidades de la inversión en altura, es posible que se produzca tiempo severo, especialmente cuando se forma una oclusión o un punto triple con un frente frío.
+Una forma más débil de la línea seca que se ve con más frecuencia es la vaguada de sotavento, que muestra diferencias más débiles en humedad.
+Cuando la humedad se acumula a lo largo del límite durante la estación cálida, puede ser el foco de tormentas eléctricas diurnas.
+La línea seca puede darse en cualquier lugar de la Tierra, en regiones intermedias entre las zonas desérticas y los mares cálidos.
+Las llanuras meridionales al oeste del río Misisipi en Estados Unidos son un lugar especialmente favorecido.
+La línea seca se desplaza normalmente hacia el este durante el día y hacia el oeste por la noche.
+Una línea seca se representa en los análisis de superficie del [[Servicio Meteorológico Nacional (Estados Unidos)
+Un fenómeno similar a un frente meteorológico es la línea de punto de rocío, que es el límite entre masas de aire con diferencias significativas de humedad en lugar de temperatura.
+Cuando los vientos del oeste aumentan en el lado norte de los máximos en superficie, se forman zonas de presión baja a sotavento de las cadenas montañosas orientadas de norte a sur, dando lugar a la formación de una vaguada de sotavento.
+Cerca de la superficie durante las horas diurnas, el aire cálido y húmedo es más denso que el aire seco de mayor temperatura, por lo que el aire cálido y húmedo se cuña bajo el aire más seco como un frente frío.
+A mayor altitud, el aire húmedo cálido es menos denso que el aire seco más frío y la pendiente límite se invierte.
+En las proximidades de la inversión en altura, es posible que se produzca tiempo severo, especialmente cuando se forma una oclusión o un punto triple con un frente frío.
+Una forma más débil de la línea seca que se observa con más frecuencia es la vaguada de sotavento, que muestra diferencias más débiles en humedad.
+Cuando la humedad se acumula a lo largo del límite durante la estación cálida, puede ser el foco de tormentas eléctricas diurnas.
+La línea de punto de rocío puede darse en cualquier lugar de la Tierra, en regiones intermedias entre las zonas desérticas y los mares cálidos.
+Las llanuras meridionales al oeste del río Misisipi en Estados Unidos son un lugar especialmente favorecido.
+La línea de punto de rocío se desplaza normalmente hacia el este durante el día y hacia el oeste por la noche.
+Una línea de punto de rocío se representa en los análisis de superficie del Servicio Meteorológico Nacional de Estados Unidos como una línea naranja con festones orientados hacia el sector húmedo.
+Las líneas de punto de rocío son uno de los pocos frentes de superficie en los que los puntos indicados no reflejan necesariamente la dirección del movimiento.

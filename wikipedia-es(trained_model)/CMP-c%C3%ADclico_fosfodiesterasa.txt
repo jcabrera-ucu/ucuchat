@@ -1,0 +1,18 @@
+La cCMP fosfodiesterasa es una enzima hidrolasa que cataliza la reacción:
+Pertenece a la familia de las nucleótido cíclico fosfodiesterasas.
+El nombre aceptado de esta enzima por el Comité de Nomenclatura de la Unión Internacional de Bioquímica y Biología Molecular es 2',3'-nucleótido cíclico 3'-fosfodiesterasa (CNP).
+La enzima del cerebro actúa sobre el 2',3'-cAMP más rápido que sobre los derivados del CMP o UMP.
+La enzima del hígado actúa sobre el 2',3'-cCMP más rápido que sobre los derivados de purina y también hidroliza los correspondientes fosfatos 3',5'-cíclicos más lentamente.
+Su localización celular es el melanosoma.
+La CNP es una enzima asociada a la mielina que suma el 4% del total la proteína mielina del sistema nervioso central.
+Se piensa que provoca cambios asociados con la edad significativos.
+Tiene habilidad para catalizar la hidrólisis de enlaces fosfodiéster de los nucleótidos 2'-3'-cíclicos a 2'-nucleótidos, aunque las funciones fisiológicas específicas de la enzimas son aun ambiguas.
+Estudios estructurales han revelado que las cuatro clases de CNPs pertenecen a una superfamilia de proteínas.
+El núcleo catalítico de la CNP consiste en tres hélices alfa y nueve láminas beta.
+El mecanismo catalítico propuesto para la CNP es similar a la segunda etapa del mecanismo de reacción de la ribonucleasa A.
+La CNP se expresa exclusivamente por los oligodendrocitos en el sistema nerviosos central, y la aparición de la CNP parece ser uno de los primeros eventos en la diferenciación de los oligodendrocitos.
+Se cree que la CNP juega un papel crítico en los eventos que conducen a la mielización.
+La CNP también se asocia con los microtúbulos del tejido cerebral y con las células tiroideas FRTL-5.
+Se ha reportado que tiene una actividad similar a la MAP2, siendo capaz de catalizar la formación de microtúbulos.
+El borrado de la zona C-terminal o la fosforilación elimina la actividad catalítica de formación de los microtúbulos.
+La CNP se puede unir a las membranas celulares y podría participar en la regulación de la distribución citoplasmática de los microtúbulos.

@@ -1,0 +1,4 @@
+A & A es un virus informático que infecta archivos COM.
+Cambia la fecha y la hora de un programa infectado con la fecha y hora de la infección.
+Cuando se activa, el virus borra y reimprime bloques de la pantalla.
+El código de infección contiene la cadena A & {A}.

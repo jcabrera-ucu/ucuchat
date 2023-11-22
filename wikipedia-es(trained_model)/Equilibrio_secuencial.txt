@@ -1,0 +1,15 @@
+Un Equilibrio secuencial es un refinamiento del equilibrio de Nash para juegos en forma extensiva por David M. Kreps y Wilson B. Robert.
+Un equilibrio secuencial no sólo especifica una estrategia para cada uno de los jugadores, sino también una creencia para cada uno de los jugadores.
+Una creencia dada para cada conjunto de información del juego que pertenece al jugador, una distribución de probabilidad sobre los nodos en el conjunto de información.
+Un perfil de estrategias y creencias se llama una evaluación para el juego.
+Informalmente hablando, una evaluación es un equilibrio secuencial si sus estrategias son sensibles debido a sus creencias y sus creencias son razonables dadas sus estrategias.
+La definición formal de una estrategia dada una creencia es sencilla, la estrategia debería simplemente maximizar pago esperado en cada conjunto de información.
+También es fácil de definir lo que una creencia sensata debería ser, de esos conjuntos de información que se alcanzan con probabilidad positiva dadas las estrategias; las creencias debe ser la distribución de probabilidad condicional en los nodos del conjunto de información, dado que se alcanza.
+Esto implica la aplicación de la regla de Bayes.
+Está lejos de ser sencillo definir lo que es una creencia razonable debe ser para los conjuntos de información que se alcanzan con probabilidad cero, teniendo en cuenta las estrategias.
+De hecho, esta es la principal contribución conceptual de Kreps y Wilson.
+Su requisito de coherencia es la siguiente: La evaluación debe ser un punto de límite de una sucesión de perfiles de estrategia totalmente mezclados y creencias asociadas sensibles, en el sentido directo.
+El equilibrio secuencial es un refinamiento del equilibrio perfecto en subjuegos y del equilibrio bayesiano perfecto.
+El misma es una forma refinada del Equilibrio perfecto de mano temblorosa y del equilibrio propio.
+David M. Kreps and Robert Wilson.
+"Sequential Equilibria", Econometrica 50:863-894, 1982.

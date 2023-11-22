@@ -1,0 +1,4 @@
+Un videojuego de texto (también llamado videojuego ASCII) es un videojuego en el que se utilizan caracteres en la pantalla en lugar de gráficos más elaborados que empleen píxeles.
+Los videojuegos de texto necesitan menos recursos que un videojuego gráfico.
+Ya apenas se programan videojuegos de este tipo.
+La mayor parte de los videojuegos de texto son de tipo videojuego de mazmorras o de tipo aventura conversacional.

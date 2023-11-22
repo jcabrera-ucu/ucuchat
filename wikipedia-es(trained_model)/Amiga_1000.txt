@@ -1,0 +1,13 @@
+El A1000, o Commodore Amiga 1000, fue el primer modelo de computador personal multimedia de Commodore.
+Se lanza el 23 de julio de 1985 a un precio inicial de 1.295$ sin monitor, con disponibilidad de un monitor analógico RGB por unos 300$.
+Antes de lanzarse modelos posteriores como el Commodore Amiga 500 y el Commodore Amiga 2000 en 1987 el A1000 era conocido únicamente como 'Amiga'.
+La caja del A1000 tiene unas características que le distinguen de modelos posteriores: fue el único que incluyó el logotipo Amiga "checkmark", estaba ligeramente elevada para permitir guardar el teclado (un "garaje del teclado") y en su interior llevaba en relieve las firmas de los diseñadores del Amiga, incluido Jay Miner y la pisada de su perro Mitchy.
+Muchos usuarios del A1000 continuaron unidos a sus máquinas mucho después de que modelos más recientes lo dejaran obsoleto y atrajo un mercado numeroso de actualizaciones.
+Muchas actualizaciones del procesador que eran insertables en el zócalo del Motorola 68000 funcionaban en el A1000.
+Adicionalmente, una línea de productos llamada Rejuvinator permitió el uso de nuevos chipsets en el A1000; y una placa madre para el A1000 diseñada en Australia, llamada The Phoenix, utilizó el mismo chipset que el A3000 y añadió una ranura de vídeo compatible con los A2000 además de soporte SCSI.
+Debido a que el AmigaOS tenía bastantes problemas en el momento del lanzamiento del A1000, el sistema operativo no se incluyó en una ROM.
+En su lugar, el A1000 incluía una placa hija con 256KB de RAM, llamada "Writable Control Store" (WCS), en la que el sistema operativo era arrancado desde un disquete (el disco contenía la imagen de 256KB, conocida como "kickstart").
+El WCS estaba protegido de escrituras después de la carga, y el reinicio del sistema no requería una recarga del WCS.
+Hubo dos versiones del Amiga 1000.
+La primera se vendió únicamente en Canadá y Estados Unidos; tenía una pantalla NTSC y carecía del modo de vídeo EHB, el cual tenían los demás modelos de Amiga, incluso revisiones posteriores de este modelo.
+La segunda versión incluía una pantalla PAL y el modo de vídeo EHB y fue construida en Alemania.

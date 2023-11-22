@@ -1,0 +1,26 @@
+La calorimetría indirecta calcula el calor que producen los organismos vivos midiendo su producción de dióxido de carbono y desechos de nitrógeno (con frecuencia amoníaco en organismos acuáticos, o urea en los terrestres), o de su consumo de oxígeno.
+La calorimetría indirecta es el método mediante el cual el tipo y la tasa de utilización del sustrato y el metabolismo energético se estiman in vivo a partir de las mediciones de intercambio de gases (producción de dióxido de carbono y consumo de oxígeno durante el descanso y el ejercicio en estado estacionario).
+Esta técnica proporciona información única, no es invasiva y se puede combinar ventajosamente con otros métodos experimentales para investigar numerosos aspectos de la asimilación de nutrientes, la termogénesis, la energía del ejercicio físico y la patogénesis de las enfermedades metabólicas.
+La calorimetría indirecta mide el consumo de O2 y la producción de CO2.
+Suponiendo que todo el oxígeno se usa para oxidar los combustibles degradables y que todo el CO2, con esta medida es posible calcular la cantidad total de energía producida.
+Debe quedar claro que "producción de energía" significa la conversión de la energía química libre de nutrientes en la energía química del ATP más la pérdida de algo de energía durante el proceso de oxidación.
+La calorimetría indirecta respiratoria, o calorimetría indirecta (IC) como la conocen la mayoría de los autores, es un método no invasivo y altamente preciso de tasa metabólica que tiene una tasa de error inferior al 1%.
+Tiene una alta reproducibilidad y se ha considerado un método estándar de oro.
+Este método permite estimar BEE y REE, y también permite la identificación de sustratos de energía que el cuerpo metaboliza predominantemente en un momento específico.
+Se basa en la medida indirecta del calor producido por la oxidación de los macronutrientes, que se estima mediante el monitoreo del consumo de oxígeno (O2) y la producción de dióxido de carbono (CO2) durante un cierto período de tiempo.
+El calorímetro tiene un colector de gas que se adapta al sujeto y un sistema que mide el volumen y las concentraciones de O2 y CO2 minuto a minuto.
+A través de una válvula unidireccional, el calorímetro recoge y cuantifica el volumen y la concentración de O2 inspirado y CO2 expirado por el sujeto.
+Después de alcanzar un volumen, el gasto de energía en reposo se calcula mediante la fórmula de Weir y los resultados se muestran en el software adjunto al sistema.
+Otra fórmula utilizada es:
+donde RQ es el cociente respiratorio (relación entre el volumen de CO 2 producido y el volumen de O2 consumido), e_c es 21.13 kilojoules (5.05 kcal), el calor liberado por litro de oxígeno por la oxidación de carbohidratos, y e_f es 19.62 kilojoules (4.69 kcal), el valor de la grasa.
+Esto da el mismo resultado que la fórmula de Weir en RQ = 1 (quemando solo carbohidratos), y casi el mismo valor en RQ = 0.7 (quemar solo grasa).
+⊅∑ ′
+Antoine Lavoisier señaló en 1780 que la producción de calor se puede predecir a partir del consumo de oxígeno, mediante regresión múltiple.
+La teoría del balance dinámico de energía explica por qué este procedimiento es correcto.
+La calorimetría indirecta, tal como la conocemos, se desarrolló a principios de siglo como una aplicación de la termodinámica a la vida animal.
+Aunque el desarrollo de la calorimetría indirecta se remonta a más de 200 años, su mayor uso ha sido en las últimas dos décadas con el desarrollo de nutrición parenteral total, equipos de apoyo de nutrición interdisciplinarios y la producción de calorímetros portátiles, confiables y relativamente económicos.
+Se pueden usar cuatro técnicas diferentes de recolección y medición de gas para realizar esta prueba:
+La calorimetría indirecta proporciona al menos dos piezas de información: una medida del gasto de energía o requerimientos calóricos de 24 horas como se refleja en el gasto de energía en reposo (REE) y una medida de la utilización del sustrato como se refleja en el cociente respiratorio (RQ).
+El conocimiento de los muchos factores que afectan estos valores ha llevado a una gama mucho más amplia de aplicaciones.
+Los estudios de calorimetría indirecta en los últimos 20 años han llevado a la caracterización de la respuesta de estrés hipermetabólico a la lesión y al diseño de regímenes nutricionales cuyos sustratos se asimilan de manera más eficiente en diferentes procesos de enfermedades y estados de insuficiencia orgánica.
+La calorimetría indirecta ha influido en las prácticas cotidianas de atención médica y quirúrgica, como el calentamiento de la unidad de quemados y las salas quirúrgicas y el destete de los pacientes de los ventiladores.

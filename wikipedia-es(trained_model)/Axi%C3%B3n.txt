@@ -1,0 +1,10 @@
+El axión es una partícula subatómica peculiar.
+Su existencia (todavía no demostrada) fue postulada por la teoría de Peccei-Quinn en 1977 para resolver el problema CP fuerte y así explicar la conservación de la simetría CP en el marco de la cromodinámica cuántica (QCD), suponiendo que sería una partícula de masa muy pequeña y sin carga eléctrica.
+El nombre fue introducido por Frank Wilczek, coescritor del primer artículo que predijo el axión.
+Wilczek buscaba un nombre para la partícula, y mientras lavaba la ropa, se fijó en el nombre del detergente que estaba usando, "Axion", y decidió ponerle ese nombre a la partícula, ya que esperaba que "limpiara" el problema de la QCD con la simetría CP.
+En cosmología, el axión se considera un buen candidato para resolver el problema de la materia oscura.
+También se especula con la posibilidad de que, bajo determinadas circunstancias, los fotones puedan convertirse temporalmente en axiones, lo que explicaría por qué los fotones de alta energía pueden atravesar largas distancias por el universo sin ser absorbidos por la radiación de fondo.
+A finales de 2006, Piyare Jain y Gurmukh Singh publicaron el descubrimiento de una partícula de masa inesperadamente grande (6-20 MeV) y muy reducida vida (del orden de 10-13 segundos) que podría ser el tan buscado axión.
+Estudios recientes han teorizado que, de existir los axiones, estos tendrían una masa particularmente ligera, inferior a 10-7 eV.
+Esta característica reduciría drásticamente sus posibilidades de formar parte de la materia oscura, pues se espera que sea más pesada.
+Sin embargo un estudio en 2014 indica que los axiones podrían ser partes de la materia oscura.

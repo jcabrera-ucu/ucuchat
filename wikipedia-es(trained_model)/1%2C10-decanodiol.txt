@@ -1,0 +1,20 @@
+El 1,10-decanodiol es un diol de fórmula molecular C10H22O2.
+Los dos grupos hidroxilo están en los extremos de una cadena lineal de diez átomos de carbono.
+El 1,10-decanodiol es un sólido blanco —en escamas o polvo— con punto de fusión a 72 °C y punto de ebullición a 297 °C.
+Posee una densidad superior a la del agua, 1,08 g/cm³.
+El logaritmo de su coeficiente de reparto, logP ≃ 2,5 (valor estimado), indica una solubilidad considerablemente mayor en disolventes apolares que en agua.
+Es una sustancia combustible, siendo su punto de inflamabilidad 152 °C.
+La síntesis de 1,10-decanodiol puede llevarse a cabo partiendo de un éster.
+La reducción del sebacato de dimetilo con borohidruro de sodio en etanol, utilizando tricloruro de cerio como catalizador, permite obtener 1,10-decanodiol con un rendimiento del 93; la reacción tiene lugar durante 24 horas a temperatura ambiente.
+También la reducción con borohidruro de tetrabutilamonio del S,S'-dietil éster del ácido 1,10-ditio-decanedioico da como resultado este diol.
+La reducción electroquímica en amoníaco líquido de dietil sebacato es muy efectiva, llegándose a alcanzar un rendimiento del 95%.
+Esta tiene lugar en un único compartimento con una pila y un ánodo soluble.
+En vez del éster, puede ser el ácido sebaico el precursor del 1,10-decanodiol: la reacción se lleva a cabo con tetrahidroborato de diisopropoxititanio(III) generado en diclorometano a partir de dicloruro de diisopropoxititanio y borohidruro de benciltrietilammonio.
+A su vez, el 1-10-decanonitrilo sirve para obtener sebaconitrilo empleando iodo molecular en amoníaco acuoso.
+El rendimiento con este procedimiento alcanza el 99%.
+Por otra parte, el 1,10-decanodiol interviene en la elaboración de fibras ultrafinas electrohiladas por reacción con 3,9-dimetilen-2,4,8,10-tetraoxaspiro [5.5] undecano y posterior copolimerización con DL-lactida.
+Dichas fibras son posibles portadoras de fármacos implantables o pueden formar recubrimientos funcionales de dispositivos médicos.
+Asimismo, este diol, reticulado con poli(metil vinil éter-co-anhídrido maleico), se ha usado como material de soporte para geles tópicos acuosos que contienen hidrocloruro de piridoxina (vitamina B6); se ha encontrado que este procedimiento mejora la permeación de vitaminas a través de la piel.
+Otro posible uso de este diol —así como de sus isómeros 1,9-decanodiol y 1,2-decanodiol— es como inhibidor de la nitrificación en suelos, reduciendo de esta forma la pérdida de nitrógeno y evitando problemas ambientales causados por la nitrificación de tierras de cultivo.
+Estos dioles muestran una alta eficiencia inhibidora para los microbios de nitrosación, incluso en bajas dosis.
+Los siguientes compuestos son isómeros del 1,10-decanodiol:

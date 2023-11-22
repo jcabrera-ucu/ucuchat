@@ -1,0 +1,11 @@
+Broadcast flag es un sistema desarrollado por la Federal Communication Commission (FCC) con un grupo de empresas conocidas como 5C (Intel, Toshiba, Hitachi, Sony y Panasonic) con el objetivo de mantener un control sobre la información televisiva.
+Una de las principales razones de su creación es que la televisión digital ofrece unas posibilidades ilimitadas para grabar todo tipo de material, desde descargarlo en el ordenador o eliminar los anuncios a almacenarlo en digital.
+De esta manera, series de todo tipo y películas podrían ser intercambiadas con facilidad mediante redes P2P.
+Este mecanismo de control social consiste en una etiqueta de datos enviados junto a la señal de televisión digital que indican a un equipo receptor si la señal recibida puede ser grabada o manipulada.
+Los datos enviados no están cifrados, sino que es el propio equipo receptor el que se encarga de ello una vez que le llegan.
+Así, todos los apartados destinados a recibir señales de televisión deben integrar un sistema que cifre la señal.
+La señal sin codificar no debe ser accesible para el usuario en ningún momento durante la transmisión, y ni siquiera una vez que haya llegado al receptor, donde se codificará si así se lo indica el broadcast flag.
+De esta manera se evita tener que cambiar todos los equipos actuales de recepción; sin embargo, a partir de su implantación todos los equipos comercializados deben ser capaces de procesar este tipo de señales.
+Se pretende que sean los propios difusores de información y los propietarios del Derecho de autor los que controlen a qué público llegan sus contenidos.
+Todo contenido bajo copyright será controlado por los titulares del derecho de autor a través de la tecnología.
+Para el acceso a determinada información se requiere un descodificador compatible con broadcast flag que le garantice o no el acceso al contenido.

@@ -1,0 +1,57 @@
+El BM Oplot, es un carro de combate principal ucraniano desarrollado por la Oficina de Diseño Morozov de Járkov.
+El diseñador jefe del tanque es Mijail Borysiuk.
+El tanque de batalla principal de BM Oplot es un vehículo de combate de orugas que tiene una gran potencia de fuego, protección confiable y alta movilidad.
+El tanque está diseñado para disparar todo tipo de terreno (superficie) y volar bajo a bajas velocidades de objetivos aéreos en términos de contraataque enemigo.
+La solución de una amplia gama de tareas de combate es posible en diferentes condiciones climáticas, meteorológicas y de carretera en el rango de temperatura ambiente de menos 40 °C a más 55 °C, humedad relativa de hasta 98% a temperatura más 25 °C, altitud de hasta 3000 m sobre el nivel del mar y polvo del aire encontrado en la operación real.
+El armamento principal del tanque es la pistola KAZ de calibre liso de 125 mm, que tiene una longitud de boca de 48 calibres y está equipada con un tipo de transportador de carga de ametralladora.
+La pistola está equipada con un eyector de gases en polvo, una cubierta y está estabilizada en dos planos.
+El cañón de la pistola es extraíble y se puede reemplazar en el campo sin desmontar la torreta del tanque.
+El actuador de la torreta es eléctrico e hidráulico.
+La torreta gira 180 grados en menos de 5 segundos (velocidad de rotación de la torre de hasta 40 grados / seg).
+En caso de emergencia, se proporcionan actuadores mecánicos redundantes para apuntar la pistola y la torreta.
+La munición del arma es de 46 rondas de carga de cartuchos separados, 28 de las cuales se colocan en la ametralladora.
+BM "Oplot" es capaz de disparar proyectiles perforantes, subcalibre, acumulativos, altamente explosivos y "Combatir" PTR con un sistema de control de rayo láser semiactivo.
+Puede disparar hasta 8 veces por minuto (7-12.5 segundos por carga por disparo), que se logra mediante la máquina automática y el envío en tándem (carga de proyectil) en un ciclo.
+La extracción de la paleta de tiro se lleva a cabo mediante su captura automática y su colocación en una bandeja vacía sin despresurización del compartimento de batalla.
+El tiempo de carga del transportador de la máquina automática de carga de disparos es de 15-20 minutos.
+También se proporcionan accionamientos duplicados del transportador de la máquina de carga y mecanismo de carga manual.
+El BM Oplot tiene un sistema de defensa combinado que incluye armadura pasiva, protección dinámica incorporada anti-tándem y una serie de otros sistemas que mejoran la supervivencia del tanque en el campo de batalla.
+En la estructura del tanque BM "Oplot", un porcentaje mucho menor de zonas debilitadas en comparación con las estructuras de los tanques anteriores T-84, T-80, T-72, T-64, etc.
+Proporciona una reducción en las características de los proyectiles de plomada que perforan la armadura y el daño acumulado, dependiendo del tipo, hasta el 90% del estándar.
+También proporciona protección contra daños de tipo choque.
+El cuerpo y la torre del tanque BM "Oplot" están hechos de acero blindado antitanque de alta resistencia.
+Las altas propiedades mecánicas y la resistencia de blindaje se logran mediante la aleación de acero con una cierta cantidad de elementos químicos como cromo, molibdeno, níquel, manganeso, silicio, vanadio, etc., así como cierto tratamiento térmico y endurecimiento del metal como resultado de láminas blindadas laminadas.
+El aumento de las propiedades anti-capa y anti-acumulativas de los aceros blindados también reduce el contenido de azufre y fósforo en el metal y la eliminación adicional de impurezas dañinas mediante la fusión por electroescoria (ESF).
+Se usaron aceros blindados ucranianos de grados 21 Sh, 22 Sh y 24 Sh en la construcción del tanque BM "Oplot".
+El diseño del casco y la torre, así como el tanque en su conjunto, se calculó sobre el grado necesario de atenuación de la radiación penetrante.
+De acuerdo con la clasificación establecida de la armadura antitanque de los tanques, se utilizó una armadura blindada, uno-dos-obstruida en la construcción del tanque BM "Oplot" para la optimización de las propiedades de protección.
+Para reducir el peso del tanque, BM "Oplot" aplicó una protección de armadura diferenciada, que incluye varios materiales compuestos como vidrio-textolita, bloques porosos rellenos con fluido cuasi-elástico, etc.
+Para evitar la perforación del casco y la torre de municiones con unidades de ojivas en tándem, una nueva generación de protección dinámica anti tándem incorporada (PTSD), equipada con dispositivos de protección acumulativa (PKZ) de producción ucraniana de tipos de HCC KV de diversas modificaciones.
+La estanqueidad del cuerpo y la torreta del tanque se garantiza mediante el uso de soldaduras apretadas para las uniones permanentes del cuerpo y los componentes de la torre, y la instalación de sellos debajo de las piezas de armadura extraíbles.
+Esto elimina la inundación del tanque en el agua y es necesario para proteger a la tripulación y al equipo interior de pequeños fragmentos, salpicaduras de plomo de balas, líquidos inflamables, ondas de choque, combate de sustancias venenosas, bacteriológicas y radiactivas.
+El tanque Oplot está equipado con un motor diésel 6TD-2 diésel de 1200 hp.
+El motor está diseñado de tal manera que es capaz de operar eficientemente en todas las condiciones climáticas, incluso a altas temperaturas ambientales.
+Aunque el 6TD-2 es un motor diésel, también puede funcionar con otros tipos de combustible, incluyendo gasolina, queroseno, combustibles diésel o mezclas de los mismos en cualquier proporción.
+Posteriormente, se planea instalar un motor 6TD de hasta 1500 hp en el tanque.
+poder.
+El motor 6TD-2 está equipado con un dispositivo de precalentamiento utilizado cuando se opera el tanque en climas fríos.
+El motor también es capaz de funcionar eficazmente en condiciones desérticas a temperaturas ambiente de hasta 55 °C, lo que se logró mediante la introducción de modificaciones especiales en el diseño del motor para garantizar su funcionamiento normal en condiciones de calor.
+Debido a su planta de energía, el tanque tiene una potencia específica de 26 hp / t, lo que le proporciona una alta aceptación y buena maniobrabilidad cuando se mueve de una posición de disparo a otra.
+La capacidad de los depósitos de combustible internos es de 700 litros.
+Otros 440 litros de combustible están en los tanques de combustible ubicados en los estantes súper voladizos.
+La reserva de combustible es de 400 km.
+La entrada del motor proporciona aire al motor desde el punto menos polvoriento del tanque.
+Además, el dispositivo de entrada permite al tanque superar obstáculos de agua de hasta 1,8 m de profundidad sin preparación.
+El sistema de purificación de aire consta de dos componentes principales: filtros centrífugos pre-centrífugos y cartuchos purificadores de aire.
+El sistema le permite operar el tanque en condiciones de calor y polvo en la cantidad de 1000 km sin la necesidad de cambiar los filtros, así como en condiciones de contaminación radiactiva.
+La caja de cambios automática planetaria tiene 7 marchas adelante y 4 marcha atrás.
+La velocidad máxima es de 70 km / h adelante y 35 km / h en reversa.
+El nuevo sistema integrado de control de movimiento del tanque garantiza una rotación suave durante el movimiento y en el suelo, y mejora las características dinámicas de overclocking del tanque al proporcionar cambios de marcha en modo óptimo.
+Tal sistema de control de tanque permite giros suaves con la ayuda de un volante en lugar de palancas, lo que simplifica enormemente el proceso de control, reduce el nivel de fatiga del conductor, aumenta la maniobrabilidad y permite duplicar el control.
+Este sistema tiene una alta eficiencia y fue desarrollado por HCBM.
+Un sistema de control similar en el ITO de Járkov con motor 6TD-2 se exporta al extranjero para su instalación en tanques pakistaníes Al Khalid y chinos MBT 2000.
+El chasis de BM "Oplot" en cada placa consta de seis rodillos de soporte de goma doble con un diámetro de 670 mm, cinco rodillos de soporte con un diámetro de 225 mm, perezosos y ubicados en la popa de la rueda motriz.
+Rodamientos de rodillos de suspensión: individual, de torsión, con seis amortiguadores telescópicos hidráulicos (en la primera, segunda y sexta unidades de suspensión).
+Las unidades de suspensión se retiran del alojamiento de la armadura para liberar espacio en este último y facilitar el mantenimiento de la suspensión.
+El tanque puede equiparse con orugas de dos tipos: pavimento de asfalto de 580 mm de ancho, que proporciona una alta velocidad del tanque en la carretera con pavimento de asfalto, y 600 mm de ancho con elementos de acoplamiento de suelo agrandados para movimiento en hielo y suelo suelto.
+En la parte inferior, hay faldones de goma en la nariz de la carcasa, diseñados para reducir el polvo al conducir.

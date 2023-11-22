@@ -1,0 +1,10 @@
+Un filtro elíptico o filtro de Cauer es un tipo de filtro eléctrico.
+Su nombre se debe al matemático alemán Wilhelm Cauer, una de las personas que más ha contribuido al desarrollo de la teoría de redes y diseño de filtros.
+El diseño fue publicado en 1958, 13 años después de su muerte.
+Están diseñados de manera que consiguen estrechar la zona de transición entre bandas y, además, acotando el rizado en esas bandas.
+La diferencia con el filtro de Chevyshev es que este sólo lo hace en una de las bandas.
+Estos filtros suelen ser más eficientes debido a que al minimizar la zona de transición, ante unas mismas restricciones consiguen un menor orden.
+Por el contrario son los que presentan una fase menos lineal.
+La respuesta en frecuencia de un filtro pasa bajo elíptico es:
+, para
+donde N es el orden del filtro, Ωc es la frecuencia de corte, Ω es la frecuencia analógica compleja (Ω=j w) y RN (x) es la función jacobiana elíptica de orden N, normalmente de primera clase:

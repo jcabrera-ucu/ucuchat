@@ -1,0 +1,16 @@
+Weather Star XL es la quinta generación de los sistemas WeatherStar utilizados por el canal estadounidense de televisión por cable y satélite The Weather Channel (TWC), que se utilizan para insertar pronósticos locales e información meteorológica actual (como los segmentos "Local en los 8s" dentro de su programa) en la programación de TWC.
+En su lanzamiento en 1998, se produjo meses después de una importante actualización de la presentación al aire del canal.
+El Star XL fue un salto importante sobre el sistema Weather Star 4000, mucho más antiguo, con capacidades avanzadas como transiciones, íconos en movimiento, fondos de pantalla en la nube y lectura del contenido del pronóstico local.
+El WeatherStar XL apareció por primera vez en un lanzamiento beta en sistemas de cable seleccionados en noviembre de 1998 y apareció brevemente en The Weather Channel Latin America hasta la desaparición de ese canal.
+El 26 de junio de 2014, The Weather Channel dejó de transmitir su transmisión satelital analógica, retirando oficialmente todas las unidades Weather Star antes del IntelliStar, incluido el XL.
+Para abordar la necesidad de un reemplazo de bajo costo, The Weather Channel desarrolló en 2013 la plataforma IntelliStar 2 Jr., que es capaz de operar de manera nativa en sistemas de cable analógico y digital.
+Weather Star XL es una computadora de renderizado montada en bastidor, fabricada por Silicon Graphics, Inc., que contiene una computadora SGI O2 modificada.
+El O2 es una estación de trabajo Unix de nivel de entrada introducida en 1996 por SGI para reemplazar su serie anterior Indy.
+Al igual que Indy, el O2 utilizaba un único microprocesador MIPS y estaba destinado a ser utilizado principalmente con fines multimedia; el O2 fue el último intento de SGI en una estación de trabajo de gama baja.
+Weather Star XL utiliza el sistema operativo SGI IRIX con un software escrito personalizado para The Weather Channel.
+Debido al hardware y software patentado SGI, el Weather Star XL sigue siendo el sistema STAR más caro, con un costo de fabricación de US$6.500.
+Como resultado del alto precio del XL, muchas cabeceras de cable más pequeñas retuvieron sus unidades Weather Star 4000 o Weather Star Jr. hasta que se lanzó el IntelliStar, omitiendo el XL por completo.
+Weather Star XL recibe datos de vídeo sin procesar de The Weather Channel y declaraciones meteorológicas del Servicio Meteorológico Nacional, así como pronósticos de una conexión a Internet.
+Envía datos de monitoreo a The Weather Channel.
+Se puede acceder a su controlador de rastreo (que administra el texto para publicidad local) a través de un módem y un emulador de terminal.
+En América Latina, TWC solo usó satélite para entregar el servicio.

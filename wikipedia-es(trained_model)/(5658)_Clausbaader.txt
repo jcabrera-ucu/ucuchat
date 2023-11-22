@@ -1,0 +1,10 @@
+(5658) Clausbaader es un asteroide perteneciente al cinturón de asteroides descubierto el 17 de febrero de 1950 por Karl Wilhelm Reinmuth desde el Observatorio de Heidelberg-Königstuhl, Alemania.
+Designado provisionalmente como 1950 DO.
+Fue nombrado Clausbaader en honor a Claus Baader, fabricante alemán de planetarias, cúpulas y telescopios, y conocido mentor de astrónomos aficionados en los países de habla alemana.
+Ingeniero de diseño de profesión y autodidacta en astronomía, construyó un nuevo tipo de pequeño planetario de escritorio que se usa en las escuelas de muchos países del mundo.
+En sus últimos años, junto con su hijo y sucesor Thomas, se preocupó profundamente por la construcción y el desarrollo de cúpulas de observación, telescopios astronómicos y su instrumentación auxiliar para astrónomos aficionados y profesionales.
+Clausbaader está situado a una distancia media del Sol de 2,754 ua, pudiendo alejarse hasta 2,909 ua y acercarse hasta 2,598 ua.
+Su excentricidad es 0,056 y la inclinación orbital 2,804 grados.
+Emplea 1669,37 días en completar una órbita alrededor del Sol.
+La magnitud absoluta de Clausbaader es 13,1.
+Tiene 12,424 km de diámetro y su albedo se estima en 0,071.

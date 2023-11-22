@@ -1,0 +1,10 @@
+Trinux es una minidistribución de GNU/Linux en RAM-disk, que puede ser almacenado en disquetes, de uno a tres, los cuales incluyen un disco de arranque y dos de soporte.
+Otros add-ons pueden agregarse a través del disco rígido, FTP y HTTP.
+Trinux es comúnmente usado en computadoras como un sistema de emergencia, especialmente para analizar problemas de red.
+Una ventaja de Trinux es que sus requerimientos del sistema son muy bajos (4 MB RAM y IDE-HDD).
+Trinux arranca ("boot") desde disquete, USB flash drive y CD.
+Trinux no tiene interfaz gráfica y está diseñado para ser usado por un administrador desde la línea de comandos.
+Las herramientas más importantes de Linux (desde la línea de comandos) están disponibles, como así también varios programas relacionados con la seguridad nmap, puertos de scannrs, herramientas de red, y software de respaldo.
+Trinux es software libre y está disponible bajo licencia GPL.
+Trinux fue desarrollado entre 1998 y 2003.
+El sucesor de Trinux es el Ubuntutrinux.

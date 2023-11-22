@@ -1,0 +1,3 @@
+En matemáticas, las espirales de Poinsot son dos curvas representadas por las ecuaciones en coordenadas polares
+donde csch es la función cosecante hiperbólica y sech es la función secante hiperbólica.
+Deben su nombre al matemático francés Louis Poinsot (1777-1859).

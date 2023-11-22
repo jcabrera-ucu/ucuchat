@@ -1,0 +1,3 @@
+WebWM del inglés Web Window Manager, consiste en un conjunto de clases en PHP, que se valen de las ventajas de JavaScript, para así simular un entorno de ventanas dentro de un navegador, y de esta forma evitar el uso de ventanas emergentes (popups), ofreciendo así continuidad en la navegación.
+En otras palabras es un API desarrollado para facilitar el manejo y creación de ventanas dentro de una página WEB.
+Licencia BSD

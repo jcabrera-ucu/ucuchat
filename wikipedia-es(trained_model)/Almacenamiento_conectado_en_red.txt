@@ -1,0 +1,27 @@
+El almacenamiento conectado en red, Network Attached Storage (NAS), es el nombre dado a una tecnología de almacenamiento dedicada a compartir la capacidad de almacenamiento de un computador/ordenador (servidor) con computadoras personales o servidores clientes a través de una red (normalmente TCP/IP), haciendo uso de un sistema operativo optimizado para dar acceso con los protocolos CIFS, NFS, FTP o TFTP.
+También se podría considerar un sistema NAS a un servidor (Microsoft Windows, Linux, etcétera) que comparte sus unidades por red, pero la definición suele aplicarse a sistemas específicos.
+Los protocolos de comunicaciones NAS están basados en archivos por lo que el cliente solicita el archivo completo al servidor y lo maneja localmente, por lo que están orientados a manipular una gran cantidad de pequeños archivos.
+Los protocolos usados son protocolos de compartición de archivos como Network File System (NFS) o Microsoft Common Internet File System (CIFS).
+Muchos sistemas NAS cuentan con uno o más dispositivos de almacenamiento para incrementar su capacidad total.
+Frecuentemente, estos dispositivos están dispuestos en RAID (Redundant Arrays of Independent Disks) o contenedores de almacenamiento redundante.
+Un dispositivo de hardware simple, llamado NAS box o NAS head, actúa como interfaz entre el NAS y los clientes.
+Los clientes siempre se conectan al NAS head (más que a los dispositivos individuales de almacenamiento) a través de una conexión Ethernet.
+NAS aparece en la LAN como un simple nodo que es la dirección IP del dispositivo NAS head.
+Estos dispositivos NAS no requieren pantalla, ratón o teclado, sino que poseen interfaz web.
+El opuesto a NAS es la conexión Direct Attached Storage (DAS) mediante conexiones Small Computer System Interface (SCSI) o la conexión Storage Area Network (SAN) por fibra óptica, en ambos casos con tarjetas de conexión específicas de conexión al almacenamiento.
+Estas conexiones directas (DAS) son por lo habitual dedicadas.
+En la tecnología NAS, las aplicaciones y programas de usuario hacen las peticiones de datos a los sistemas de archivos de manera remota mediante protocolos como CIFS y NFS, y el almacenamiento es local al sistema de archivos.
+Sin embargo, DAS y SAN realizan las peticiones de datos directamente al sistema de archivos.
+Las ventajas del NAS sobre la conexión directa (DAS) son la capacidad de compartir las unidades, un menor costo, la utilización de la misma infraestructura de red y una gestión más sencilla.
+Por el contrario, NAS tiene un menor rendimiento y confiabilidad por el uso compartido de las comunicaciones.
+A pesar de las diferencias, NAS y SAN no son excluyentes y pueden combinarse en una misma solución: Híbrido SAN-NAS.
+NAS es muy útil para proporcionar el almacenamiento centralizado a computadoras clientes en entornos con grandes cantidades de datos.
+NAS puede habilitar sistemas fácilmente y con bajo costo con balance de carga, tolerancia a fallos y servidor web para proveer servicios de almacenamiento.
+El crecimiento del mercado potencial para NAS es el mercado de consumo donde existen grandes cantidades de datos multimedia.
+El precio de las aplicaciones NAS ha bajado, ofreciendo redes de almacenamiento flexibles para el consumidor doméstico con costos menores de lo normal, con discos externos USB o FireWire.
+Algunas de estas soluciones para el mercado doméstico son desarrolladas para procesadores ARM, PowerPC o MIPS, corriendo sistemas operativos Linux embebido.
+Ejemplos de estos son Melco Buffalo's TeraStation y Linksys NSLU2.
+Están disponibles distribuciones software libre orientadas a servicios NAS, Linux y FreeBSD, incluyendo TrueNAS, XigmaNAS, NASLite y Openfiler.
+Son configurables mediante interfaz web y pueden ejecutarse en computadoras con recursos limitados.
+Existen distribuciones en LiveCD, en memorias USB o desde uno de los discos duros montados en el sistema.
+Ejecutan Samba, el dominio Network File System y dominios de File Transfer Protocol (FTP) que están disponibles para dichos sistemas operativos.

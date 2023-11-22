@@ -1,0 +1,22 @@
+El abatimiento es, en navegación marítima, el desvío de una nave respecto al rumbo inicial motivado por la acción del viento sobre la estructura u obra muerta de la embarcación.
+En navegación aérea no se aplica el término abatimiento porque el avión está inmerso dentro del medio de sustentación que es el aire como tampoco tendría abatimiento un submarino por la misma razón.
+Con un viento de través o cruzado, el avión experimenta una deriva que debe ser compensada mediante una corrección del rumbo.
+En navegación marítima, el abatimiento provoca un desvío del rumbo del buque debido al viento, mientras que la deriva es el desplazamiento lateral de la nave debido al efecto de la corriente sobre la obra VIVA del barco.
+Se puede expresar el abatimiento como diferencia angular entre el rumbo verdadero (Rv) y el rumbo resultante llamado rumbo de superficie (Rs).
+Esta diferencia angular es denominada con la abreviatura (Ab) y tendrá signo positivo si es a estribor y signo negativo si es a babor.
+Los signos del valor de Ab se tendrán en cuenta a la hora de introducirlos en los cálculos.
+Con ello podremos efectuar la corrección al rumbo para compensar el efecto del viento.
+Se mide con respecto a la dirección de la línea de crujía en sentido semicircular es decir a estribor o babor.
+Observamos en el gráfico adjunto, que la "corriente de aire" (se debe decir "el viento") provoca un abatimiento a estribor pero para que el velero pueda seguir el rumbo que le llevará al destino, ahora denominado Rs (el cual coincide con el rumbo sobre fondo en ausencia de corrientes marinas), recorerrá la trayectoria en azul, pero con su proa orientada al Rv (en rojo), es decir, se desplazará de lado.
+Rs = Rumbo de Superficie
+Rv = Rumbo Verdadero
+Ab = Abatimiento con su signo dentro del paréntesis.
+Esto nos da un rumbo Rs distinto del Rv pero para llegar a nuestro destino inicial, habrá que compensar o enmendar el rumbo con el mismo valor del abatimiento hacia barlovento.
+Algebraicamente se resuelve restando al rumbo el valor del Ab (con su signo).
+Supóngase que se intenta seguir un Rv de 020º y se estima que, por efectos del viento proveniente de nuestro costado de babor, se observa un abatimiento a estribor de 4º (Ab es positivo por la definición antes descrita).
+Entonces nuestro rumbo pasaría a ser de 024º con lo que no llegaremos a nuestro destino inicial.
+Para corregir la situación tendremos que restar a 020º los 4º del abatimiento, con lo que tendremos que gobernar a un Rv de 016º.
+A efectos de ejercicios de carta, en los ejercicios de Patrón de Embarcaciones de Recreo o Patrón de Yate, no deberemos tener en cuenta la corriente, pues su cálculo es distinto del abatimiento.
+Cuando un problema combina deriva (efecto de la corriente) y abatimiento (viento), deberemos realizar previamente el triángulo de corrientes que nos dará el Rumbo Efectivo (Ref) y el Rumbo de Superficie (Rs), conociendo el Rumbo de la Corriente (Rc), su Intensidad Horaria (Ihc) y al menos la Velocidad del Buque (Vb) o la Velocidad Efectiva (Ve) o en su defecto la HRB (Hora Reloj de Bitácora) de salida y llegada.
+En geometría descriptiva, se llama abatimiento al proceso mediante el cual, dados dos planos que se intersecan, se hace girar uno de ellos alrededor de la recta de intersección de ambos, hasta conseguir que ambos planos coincidan.
+De esta forma, se consigue que las proyecciones realizadas sobre estos planos sean coplanarias, pudiéndose aplicar a continuación sobre ellas construcciones de geometría plana.

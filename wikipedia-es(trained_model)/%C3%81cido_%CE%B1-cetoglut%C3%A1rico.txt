@@ -1,0 +1,24 @@
+El ácido α-cetoglutárico (ácido alfa-cetoglutárico) es uno de los dos derivados cetona del ácido glutárico.
+El término ácido cetoglutárico, cuando no se acompaña de explicaciones adicionales, casi siempre se refiere a la variante alfa.
+El ácido β-cetoglutárico se diferencia solo en la posición del grupo funcional cetona y, es mucho menos común en la naturaleza.
+El anión del ácido α-cetoglutárico, se denomina α-cetoglutarato (llamado también a veces oxoglutarato o 2-oxoglutarato), es un importantísimo compuesto biológico.
+Este cetoácido se produce por la desaminación del glutamato y, es un intermediario en el ciclo de Krebs.
+El α-cetoglutarato es un intermediario clave en el ciclo de Krebs, donde aparece después del isocitrato y antes del succinil CoA.
+Diferentes reacciones anapleróticas pueden repoblar el ciclo en este punto sintetizando α-cetoglutarato a partir de la transaminación de glutamato, o por medio de la acción de la glutamato deshidrogenasa sobre el glutamato.
+La glutamina se sintetiza a partir del glutamato por medio de la glutamina sintetasa, la cual utiliza ATP para formar glutamil fosfato; este intermediario sufre un ataque nucleofílico por parte del amoníaco para producir glutamina y fosfato inorgánico.
+Otra función es combinarse con el nitrógeno liberado por la célula, previniendo la sobrecarga de nitrógeno.
+el α-cetoglutarato es uno de los más importantes transportadores de nitrógeno en las diferentes vías metabólicas.
+Los grupos amino de los aminoácidos, al ser retirados del aminoácido se unen al α-cetoglutarato por transaminación, y transportados de esta forma al hígado donde tiene lugar el ciclo de la urea.
+El α-cetoglutarato se transamina, junto con la glutamina, para formar el neurotransmisor excitatorio glutamato.
+El glutamato puede luego ser descarboxilado por un proceso que requiere vitamina, para formar el neurotransmisor inhibitorio GABA.
+Se ha reportado que pueden producirse altos niveles de amoníaco en sangre luego de una ingesta alta en proteínas, exposición excesiva al aluminio, en el síndrome de Reye, cirrosis, y trastornos del ciclo de la urea.
+En estos casos se compromete el mayor mecanismo detoxificador del amoníaco que es el ciclo de la urea, y empiezan a cobrar mucha importancia los mecanismos detoxificadores basados en la transaminación del oxoglutarato.
+En estos casos desempeña un papel importante en la detoxificación del amoníaco en el cerebro.
+Actuando como cosustrato, desempeña un importante papel en las reacciones de oxidación que involucran al oxígeno molecular.
+Muchos organismos utilizan al oxígeno molecular por medio de diferentes oxigenasas para producir productos útiles tales como antibióticos, etc. Muchas oxigenasas utilizan al α-cetoglutarato como codonante de electrones, en reacciones donde se oxida simultáneamente con el sustrato principal.
+De hecho, una de las oxigenasas dependientes de oxígeno, es un sensor de ; que le informa al organismo sobre los niveles de oxígeno molecular en el ambiente.
+En combinación con oxígeno molecular, el α-cetoglutarato es uno de los requerimientos para la hidroxilación de la prolina para producir la hidroxiprolina que forma parte del colágeno tipo I.
+El α-cetoglutarato disminuye los niveles de peróxido de hidrógeno en diferentes cultivos celulares, en estos casos desaparece al ser convertido en succinato.
+Un estudio publicado en mayo de 2014 vincula al α-cetoglutarato con un aumento significativo en la esperanza de vida de gusanos nemátodos.
+El α-cetoglutarato puede ser producido por:
+A su vez el α-cetoglutarato puede ser utilizado para producir:

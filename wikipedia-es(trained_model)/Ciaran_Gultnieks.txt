@@ -1,0 +1,6 @@
+Ciaran Gultnieks (nacido en 1970) es un programador de juegos de ordenador británico, cuyos proyectos incluyen Star Wars (1988, para los ordenadores personales), Pelea de perros (1993), 5000 Slipstream (1995) y Hardwar (1998) para el PC.
+También fundó F-Droid, un repositorio de software para el software libre de Android, y contribuye a la plataforma de microblogueo StatusNet.
+Gultnieks fue el primer empleado de Vektor Grafix, después de pasar a trabajar por Microprose y Spectrum Holobyte.
+En 1993, él co-fundó la casa de desarrollo de la Refinería de Software, que cerró sus puertas en 2002.
+En los últimos años ha contribuido a varios proyectos de software de código abierto, lo más significativo la plataforma microblogging de StatusNet.
+Se le atribuye en los créditos de los siguientes juegos:

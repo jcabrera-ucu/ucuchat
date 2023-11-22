@@ -1,0 +1,5 @@
+Clinicogenómica, también conocida como genómica clínica, es el estudio de resultados clínicos con datos genómicos.
+Los factores genómicos tienen un efecto causativos en datos clínicos.
+La clinicogenómica utiliza el genoma entero de un paciente para diagnosticar enfermedades o adaptar medicaciones exclusivamente para ese paciente.
+Testaje de genoma entero puede detectar más mutaciones y anomalías estructurales que testaje de gen dirigido.
+Además, testaje de gen dirigido sólo funciona para las enfermedades que el doctor analiza, mientras que el testaje de genoma completo analiza todas las  enfermedades con marcadores conocidos a la vez.

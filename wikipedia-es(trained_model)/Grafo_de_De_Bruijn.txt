@@ -1,0 +1,19 @@
+Un grafo de De Bruijn es un grafo dirigido que permite representar los solapamientos de longitud n-1 entre todas las palabras (cadenas de caracteres) de longitud n con un alfabeto dado.
+El nombre de los grafos deriva del matemático Nicolaas Govert de Bruijn quien los describió en 1946.
+Sin embargo, dichos grafos ya habían sido descritos por Camille Flye Santa-Casa en 1894 y por Irving J. Good en 1946.
+El grafo de De Bruijn B(k,n) de orden n con un alfabeto A de k letras está construido como se explica a continuación.
+Los nodos (o vértices) de B(k,n) están en biyección con (están etiquetados por) las k^n palabras de longitud n sobre A. Si u y v son dos nodos, hay un arco de u a v cuando la palabra obtenida al suprimir la primera letra de u es la misma que la palabra obtenida al suprimir la última letra de v; dicho de otra manera, cuando existen dos letras a y b, y una palabra o cadena x, tales que u=ax y v=xb.
+La presencia de un arco significa entonces que existe una superposición entre dos palabras de la misma longitud.
+Es común etiquetar ese arco con la cadena axb.
+El grafo B(2,3) de la figura a la derecha está construido mediante un alfabeto binario A=\{0, 1\} con cadenas de longitud n=3.
+Las 2^3=8 cadenas de longitud 3 con el alfabeto binario son:
+Hay, por ejemplo, un arco que sale del nodo 000 que va al nodo 001 porque el sufijo de longitud 2 de 000 es igual al prefijo de longitud 2 de 001.
+Ese arco queda marcado con la cadena 0001.
+Asimismo, hay un arco que va del nodo 100 al nodo 000 porque el sufijo de longitud 2 de 100 es igual al prefijo de longitud 2 de 000.
+Ese arco queda marcado con la cadena 1000.
+El grafo B(n,1) está formado por n nodos, uno por cada letra.
+De cada nodo parten n arcos, hay entonces n^2 arcos.
+Se puede hacer un grafo de De Bruijn binario de modo que parezca un objeto de teoría de sistemas dinámicos, como el atractor de Lorenz.
+Esta analogía se explica porque el grafo de De Bruijn B(k,n) es un modelo de aplicación de Bernoulli.
+La aplicación de Bernoulli (también llamada la función 2x mod 1 o función diádica para k=2) es un sistema dinámico ergódico que puede ser visto como un operador de desplazamiento sobre un número k-ádico.
+Las trayectorias de este sistema dinámico corresponden a los caminos en el grafo de De Bruijn, con la correspondencia que asocia a cada real x del intervalo semi-abierto [0,1) la suma del grafo que corresponde a las n primeras cifras en la representación de x en base k. De manera equivalente, los caminos en el grafo de De Bruijn corresponden a las trayectorias de un sistema dinámico de tipo acabado.

@@ -1,0 +1,13 @@
+La activación del enlace carbono-hidrógeno o activación del enlace C-H es una reacción que escinde (rompe) un enlace entre los átomos de carbono e hidrógeno.
+La funcionalización selectiva de compuestos orgánicos, es decir, la creación de nuevos compuestos a través de enlaces carbono-carbono (C-C) y/o carbono-heteroátomo en posiciones prefijadas de los sustratos a modificar, es probablemente una de las áreas de la química orgánica y organometálica que más expansión ha experimentado en los últimos años, ya sea mediante la activación C-H a través de una metalación previa, mediante una adición oxidante, o mediante reacciones de acoplamiento.
+Por un lado, la utilización de metales de transición, como el rodio, rutenio, paladio, iridio u oro, que pueden activar (y romper) enlaces C-H con facilidad, transformando la unidad inerte C-H en la unidad reactiva C-M.
+Por otro lado, la utilización de grupos directores que "orientan" el ataque del metal a una posición prefijada, y sólo a una, lo que elimina la posibilidad de formar isómeros hace que el proceso sea altamente regioselectivo.
+La primera reacción de activación C-H es a menudo atribuida a Otto Dimroth quien, en 1902, descubrió que el benceno reacciona con acetato de mercurio (II) (véase: organomercurio), pero algunos expertos no consideran que esta reacción sea una verdadera activación del enlace C-H.
+Se trata realmente de una reacción de mercuriación, y suele ser más efectiva con arenos más ricos en densidad electrónica.
+La primera reacción de activación del enlace C-H de verdad fue descrita por Joseph Chatt en 1965, con la inserción de un átomo de rutenio, complejado por DMPE (1,2-bis(dimetilfosfino)etano), en uno de los enlaces C-H del naftaleno.
+En el otro lado del espectro, la adición oxidante.
+M. L. H. Green en 1970 informó sobre la inserción fotoquímica de tungsteno (como un complejo Cp2WH2) en un enlace C-H de benceno y George M. Whitesides en 1979 fue el primero en llevar a cabo una activación intramolecular de un enlace C-H alifático.
+El siguiente avance fue en 1982 con la primera activación C-H fotoquímica de hidrocarburos completamente saturados (ciclohexano y neopentano) formando el complejo hidruroalquilmetálico Cp*Ir(PMe3)H(C6H5) donde Cp* es un ligando pentametilciclopentadienilo:
+1. Adición oxidante: un centro metálico de valencia baja se inserta en un enlace carbono-hidrógeno, que escinde el enlace y oxida el metal.
+2. Sustitución electrófila aromática: activación electrofílica en la cual un metal electrófilo ataca al hidrocarburo, desplazando un protón.
+3. Metátesis de enlace sigma, que avanza a través de un estado de transición "cuatro centrado" en el que los enlaces se rompen y forman en un solo paso:

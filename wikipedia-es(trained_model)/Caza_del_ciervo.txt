@@ -1,0 +1,39 @@
+En teoría de juegos, la caza del ciervo es un juego que describe un conflicto entre seguridad y cooperación social.
+Otros nombres para este juego o sus variantes son "juego de la seguridad", "juego de coordinación" y "dilema de la credibilidad".
+Jean-Jacques Rousseau describió una situación en la que dos individuos van a cazar.
+Cada uno elige cazar un ciervo o una liebre.
+Cada jugador debe elegir una acción sin conocer la del otro.
+Si un individuo caza un ciervo, debe cooperar con su compañero para tener éxito.
+Un jugador individual puede cazar una liebre por sí mismo, pero una liebre vale menos que un ciervo.
+Esta situación se considera una analogía importante con la cooperación social.
+Un ejemplo de la matriz de recompensas para la caza del ciervo sería:
+Formalmente, una caza del ciervo es un juego con dos estrategias puras de equilibrio de Nash - una es riesgo dominante y la otra es recompensa dominante.
+La matriz de recompensas mostrada a la derecha ilustra una caza del ciervo, donde a>b\ge d>c.
+A menudo, los juegos con una estructura similar, pero sin un equilibrio de Nash de riesgo dominante reciben también el nombre de caza del ciervo.
+Por ejemplo si a=2, b=1, c=0, y d=1.
+Mientras que (Liebre, Liebre) es un equilibrio de Nash, no es de riesgo dominante.
+Sin embargo muchos llamarían a este juego caza del ciervo.
+Además de un equilibrio de Nash de estrategia pura, existe un equilibrio de Nash de estrategia mezclada.
+Este equilibrio depende de las recompensas, pero la condición de riesgo dominante pone un límite al equilibrio de Nash de estrategia mezclada.
+Ninguna recompensa puede generar un equilibrio de estrategia mezclada en el que se juegue Ciervo con probabilidad más alta que un medio.
+Aquí se muestran las correspondencias de mejor respuesta.
+Aunque muchos autores destacan el Dilema del prisionero como el juego que mejor representa el problema de la cooperación social, algunos creen que la caza del ciervo representa un contexto tan (o más) interesante en el que estudiar la cooperación y sus problemas (para más información véase Skyrms 2003).
+Hay una relación sustancial entre la caza del ciervo y el dilema del prisionero.
+En biología muchas circunstancias que se han asociado con el dilema del prisionero también se pueden interpretar como caza del ciervo, dependiendo de la manera como sea premiada la adaptación al medio.
+Es también el caso de algunas interacciones humanas que parecen ser dilemas del prisionero pero podrían ser de hecho cazas del ciervo.
+Por ejemplo, supóngase que tenemos un dilema del prisionero como el mostrado.
+Pero en ocasiones los jugadores que traicionan a los que cooperan son castigados por su traición.
+Por ejemplo, suponga que el castigo esperado es -2, entonces la imposición de este castigo convierte el dilema del prisionero en una caza del ciervo.
+Además del ejemplo sugerido por Rousseau, David Hume proporciona un conjunto de ejemplos que son cazas del ciervo.
+Uno de ellos consiste en dos individuos que deben remar en un bote.
+Si los dos eligen remar entonces pueden mover el bote.
+Sin embargo, si uno de ellos no rema, el otro gasta sus energías.
+En el segundo ejemplo de Hume dos vecinos quieren drenar un prado.
+Si los dos trabajan en el drenaje tienen éxito, pero si uno no hace su parte el prado no se drena.
+Hay muchas conductas animales que representan cazas del ciervo.
+Por ejemplo, la coordinación del moho del cieno.
+En momentos de tensión, estas bacterias se agregarán para formar un cuerpo mayor.
+Si todas actúan juntas se podrán reproducir, sin embargo, el éxito depende de la cooperación de muchas bacterias.
+Además, las prácticas de caza de la orca son un ejemplo de caza del ciervo.
+Las orcas cooperan acorralando grandes bancos de peces hasta la superficie y les aturden golpeándoles con sus colas.
+Dado que esta estrategia requiere que los peces no tengan forma de escapar, hace falta la cooperación de muchas orcas.

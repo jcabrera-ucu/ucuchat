@@ -1,0 +1,4 @@
+Geartronic es el nombre dado por la empresa sueca Volvo a su transmisión automática manumática, similar al sistema Tiptronic de Porsche.
+Disponible en modelos de 4, 5, 6 y 8 velocidades, está controlada por un microprocesador, que cambia automáticamente a la siguiente marcha si en modo manual se supera el límite de revoluciones del motor.
+El modo manual permite al conductor seleccionar las marchas con la palanca de cambios, que también se puede utilizar como en cualquier otra caja de cambios automática, en la que la transmisión se gestiona sin la intervención del conductor.
+El sistema Geartronic, fabricado en Japón por Aisin Seiki, se ofrece en vehículos Volvo con cilindrada de 2,0 litros o más.

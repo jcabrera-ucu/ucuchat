@@ -1,0 +1,58 @@
+GNU Hurd es un proyecto dentro del Proyecto GNU para reemplazar al núcleo de un sistema operativo tipo Unix totalmente libre, GNU.
+Se ha estado desarrollando desde 1990 y distribuyendo bajo la licencia GPL.
+Hurd intenta superar a los Unix en cuanto a funcionalidad, seguridad y estabilidad, aún manteniéndose compatible con ellos.
+Esto se logra gracias a que Hurd implementa la especificación POSIX ─entre otras─, pero elimina las restricciones arbitrarias a los usuarios.
+Aunque el Proyecto GNU se suele considerar a Hurd como núcleo, en sentido estricto esto no sería correcto, dado que parte importante de Hurd reside en un espacio de usuario que interactúa con un micronúcleo, GNU Mach.
+De hecho, Hurd sería un sistema operativo, tal como se considera al núcleo Linux, y la extensa colección de programas GNU corriendo sobre Hurd se denomina GNU/Hurd, tal como se llama GNU/Linux a la misma corriendo sobre Linux.
+El desarrollo de Hurd empezó en el año 1990.
+Aunque Richard Stallman, fundador del proyecto GNU, había anunciado que esperaba el lanzamiento oficial del sistema operativo GNU (también conocido como GNU/Hurd) antes de finales de 2002, esto no fue conseguido, en parte porque se comenzó a utilizar el núcleo Linux.
+La palabra Hurd es un acrónimo recursivo.
+Hurd es el acrónimo de «Hird of Unix-Replacing Daemons» (en español: «Hird» de demonios que reemplazan a Unix).
+A su vez el término «Hird» significa «Hurd of Interfaces Representing Depth» («Hurd» de interfaces que representan profundidad).
+Tanto «Hurd» como «Hird» en inglés estadounidense se pronuncian como /hɜːrd/ «herd» (en español: manada), por lo que GNU Hurd se podría traducir como «manada de ñúes», referente a su arquitectura de un conjunto de servidores corriendo.
+A diferencia de la mayoría de núcleos tipo Unix, Hurd se erige encima de un micronúcleo (actualmente solo está soportado Mach, aunque existió un proyecto ahora abandonado para poder ejecutar Hurd en el micronúcleo de segunda generación L4), responsable de facilitarle los servicios de un núcleo más básicos: coordinar el acceso al hardware (a la CPU —mediante multiproceso—, a la memoria RAM —mediante gestión de memoria—, y a otros dispositivos de sonido, gráficos, almacenamiento, etc.).
+Hay otros sistemas tipo Unix que se ejecutan encima del micronúcleo Mach, como OSF/1, NEXTSTEP, Mac OS X, Lites y MkLinux.
+Todos ellos están implementados como un único servidor.
+Por lo tanto, sustituyen el núcleo monolítico de los sistemas Unix tradicionales con dos elementos, el micronúcleo y el servidor Unix.
+En cambio, Hurd consiste en múltiples servidores ejecutándose simultáneamente.
+En lugar de un solo programa enorme que controle desde el reloj hasta el manejo de la red, en Hurd cada una de estas tareas es gestionada por un servidor independiente.
+Esto hace que (teóricamente, al menos) el desarrollo de Hurd sea mucho más fácil, ya que es menos probable que el hacer cambios en un servidor tenga efectos indeseados en otros servidores.
+En el diseño original de Mach una de las principales metas fue este tipo de «conjunto de servidores», pero parece que Hurd es el primero en implementar este diseño sobre un micronúcleo Mach (aunque QNX es similar, pero basado en su propio micronúcleo).
+No está claro por qué no hubo ninguna implementación de múltiples servidores anteriormente, aunque parece que los grupos que trabajaban en Mach estaban demasiado ocupados en este para dedicarse al sistema operativo en su totalidad.
+Hurd intenta, además, ser portable entre micronúcleos.
+En Hurd un buen número de conceptos tradicionales de Unix cambian o se potencian:
+Bajo Unix, cada programa que se ejecuta tiene asociada una identidad de usuario, que normalmente se corresponde con el usuario que inició el proceso.
+Esta identidad determina en gran medida qué acciones se le permite realizar al programa.
+Ningún proceso externo puede cambiar la identidad de un programa que se esté ejecutando.
+Un proceso de Hurd, por otra parte, se ejecuta asociado a un conjunto de identidades de usuario, que puede contener múltiples identidades, una, o ninguna.
+Un proceso con los suficientes privilegios puede añadir o eliminar identidades de otro proceso.
+Por ejemplo, existe un servidor de contraseñas que otorga identidades en respuesta a una contraseña de usuario correcta.
+En lo que respecta al sistema de archivos, se puede establecer un programa adecuado como traductor para un solo archivo o una jerarquía de directorios entera.
+Cada acceso al archivo traducido, o a los archivos en la jerarquía en el segundo caso, son de hecho manejados por este programa.
+Por ejemplo, un traductor de archivos puede simplemente redirigir las operaciones de lectura y escritura hacia otro archivo, no como un enlace simbólico de Unix.
+El montaje de Unix, en Hurd se consigue configurando un traductor de sistema de archivos (usando el mandato ).
+Los traductores también se pueden usar para proporcionar servicios al usuario.
+Por ejemplo, el traductor ftpfs permite a un usuario encapsular un sitio FTP remoto en un directorio.
+Con esto, se pueden usar programas estándar como,   o   para manipular archivos en el sitio remoto.
+Hay traductores incluso más potentes, como UnionFS, que permite a un usuario unificar varios directorios en uno solo, de tal manera que al listar este directorio se muestra el contenido de todos los directorios unificados (una característica ausente en la mayoría de Unices, aunque presente en FreeBSD).
+Quizás la característica más potente de Hurd es la posibilidad de que cualquier usuario ejecute sus propios servicios de sistema.
+Un usuario puede asignar cualquier traductor al sistema de archivos para su uso personal.
+Incluso puede reemplazar servidores del sistema, como el servidor de autenticación, con otros servidores de su elección.
+Todo esto se puede hacer sin afectar a los otros usuarios, gracias a que los ámbitos de efecto están bien definidos.
+De hecho, incluso es posible para un usuario ejecutar Hurd dentro de sí mismo, lo que se conoce como sub-Hurd.
+Según la documentación de Debian son los siguientes:
+También incluye varios sistemas de ficheros:
+Entre todos ellos implementan la interfaz de programación de aplicaciones o API Single Unix Specification que es un superset de POSIX.
+En realidad, es la biblioteca  la que implementa la API POSIX, igual que en Linux, y Hurd da una interfaz cercana pero de más bajo nivel.
+La forma en que los programas llaman a Hurd es a través del sistema de archivos.
+Funcionan como un sistema de archivos especial, parecido al  de linux.
+Por ejemplo, si queremos hablar con el servidor auth miraremos en el directorio donde esté montado y haremos llamadas   sobre él.
+De alguna forma, por tanto, el servidor del sistema de archivos es el que hace de interfaz del API y también sabe a cuál de los otros servidores de bajo nivel mandar las llamadas.
+A bajo nivel, cuando se hace un open de uno de estos archivos, el programa recibe los distintos dispositivos de hardware que vayan compilados dentro del micronúcleo.
+Por tanto Hurd no necesita llevar él mismo la gestión de bajo nivel de las interrupciones; en cambio sí necesita traducir las señales hardware a señales del sistema operativo.
+Necesita un gestor de arranque que siga el protocolo multiboot como GRUB.
+La configuración se realiza mediante los siguientes pasos (o se configura el gestor de arranque para que lo haga automáticamente):
+Con esto, el micronúcleo cargará los servidores del hurd y les pasará el control.
+Actualmente, hay al menos cinco distribuciones de GNU/Hurd en preparación (Debian GNU/Hurd, Gentoo, Arch Hurd, Bee y A.T.L.D. GNU/Hurd), aunque ninguna ha publicado versiones oficiales.
+Se está intentando crear una nueva versión del Hurd llamada NgHurd, este proyecto comenzó con un intento de portar el micronúcleo L4 a Hurd lo cual lo hubiera dotado de una mayor velocidad entre otras características.
+Dicho proyecto fue abandonado, por lo cual se están discutiendo las características para esta nueva versión desde cero, incluyendo el micronúcleo a utilizar.

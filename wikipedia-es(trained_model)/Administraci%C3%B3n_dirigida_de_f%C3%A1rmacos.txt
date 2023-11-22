@@ -1,0 +1,62 @@
+Administración dirigida de fármacos, a veces llamada administración de fármacos inteligente, es un método de entrega de medicación a un paciente de una manera que aumenta la concentración del medicamento.
+El objetivo de la administración dirigida de fármacos es prolongar, localizar, y tener una interacción fármaco con el tejido enfermo.
+El sistema de administración de fármacos convencional es la absorción del fármaco a través de una membrana biológica, mientras que el sistema de liberación dirigida libera el fármaco en una forma de dosificación.
+Las ventajas para el sistema de liberación dirigida es la reducción en la frecuencia de las dosis tomadas por el paciente.
+Esto tiene un efecto más uniforme del fármaco, se reduce los efectos secundarios de la droga, y disminuye la fluctuación en los niveles circulantes de las drogas.
+La desventaja del sistema es alto costo, esto disminuye la productividad y también hace más difícil ajustar las dosis de estas drogas.
+Sistemas de administración dirigida de fármacos se han desarrollado para optimizar las técnicas regenerativas.
+El sistema se basa en un método que proporciona una cierta cantidad de un agente terapéutico durante un período prolongado de tiempo a un área enferma especifica dentro del cuerpo.
+Esto ayuda a mantener los niveles de medicamentos requeridos de plasma y tejido en el cuerpo, evitando así cualquier daño al tejido sano a través de la droga.
+El sistema de administración de fármacos es altamente integrado y requiere varias disciplinas, tales como químicos, biólogos e ingenieros, para optimizar este sistema.
+En los sistemas de administración de fármacos tradicionales, como la ingestión oral o inyección intravascular, el medicamento se distribuye por todo el cuerpo a través de la circulación sanguínea.
+Para la mayoría de agentes terapéuticos, sólo una pequeña porción de la medicación alcanza el órgano afectado.
+Administración dirigida de fármacos busca concentrar el medicamento en los tejidos de interés, mientras que la reducción de la concentración relativa del medicamento en los tejidos restantes.
+Por ejemplo, al esquivar los mecanismos de defensa del huésped y la inhibición de la distribución no específica en el hígado y el bazo, un sistema puede alcanzar el sitio de acción deseado en concentraciones más altas.
+Se cree que la administración dirigida puede mejorar la eficacia reduciendo al mismo tiempo los efectos secundarios.
+Cuando se implementa un sistema de liberación dirigida, se tienen que tener en cuenta ciertos criterios de diseño se: las propiedades de drogas, los efectos secundarios de los medicamentos, la ruta seguida para la entrega de la droga, el sitio específico, y la enfermedad.
+El aumento de los desarrollos de nuevos tratamientos requiere un microambiente controlado que se logra sólo a través de la aplicación de agentes terapéuticos cuyos efectos secundarios se pueden evitar con la administración de fármacos dirigida.
+Los avances en el campo de la administración de fármacos dirigidos al tejido cardíaco serán un componente integral para regenerar el tejido cardíaco.
+Hay dos tipos de administración dirigida de medicamentos: administración dirigida de fármacos activo, tal como algunos medicamentos de anticuerpos, y la entrega dirigida de fármacos pasiva, tales como la permeabilidad enriquecida y efecto de retención (efecto EPR).
+Hay diferentes tipos de vehículos de administración de fármacos, tales como micelas poliméricas, liposomas, vehículos de fármacos a base de lipoproteínas, portadores de fármacos nanopartículas, dendrímeros, etc. un vehículo ideal de administración de fármaco debe ser no tóxico, biocompatible, no inmunógeno, biodegradable, y no debe ser reconocido por los mecanismos de defensa del huésped [3].
+Los liposomas son estructuras compuestas hechas de fosfolípidos y pueden contener pequeñas cantidades de otras moléculas.
+Aunque los liposomas pueden variar en tamaño, liposomas unilamelares, como en la imagen, son típicamente pequeños, con diversos ligandos unidos a su superficie, lo que permite la fijación y la acumulación en áreas patológicas para el tratamiento de las enfermedades.
+El vehículo más común que se utiliza actualmente para la administración dirigida de fármacos es el liposoma.
+] Los liposomas no son tóxicos, no son hemolíticos, y no son inmunogénicos incluso hasta cuando son inyectados repetidamente.
+También son biocompatibles y biodegradables y se pueden ser diceñados para evitar los mecanismos de la célula los elimine come el sistema reticuloendotelial (RES), el aclaramiento renal, inactivación química o enzimática, etc.)  Nanovehículos que son ligando recubiertos basados en lípidos pueden almacenar su carga en la cáscara hidrófobo o el interior hidrófilo.  Esto depende de la función del fármaco / agente de contraste que se lleva.
+El único problema con el uso de liposomas in vivo es su absorción inmediata y eliminación por el sistema RES.
+También su relativamente baja estabilidad in vitro. Para combatir esto, polietilenglicol (PEG) puede ser añadido a la superficie de los liposomas.
+El aumento del por ciento en moles de PEG en la superficie de los liposomas por 4-10%, aumenta significativamente el tiempo de circulación in vivo de unos 200 a unos 1000 minutos.
+Otro tipo de vehículo de administración de fármacos utilizada son las micelas poliméricas.
+Estos se preparan a partir de ciertos copolímeros anfifílicos que consisten en dos unidades monoméricas hidrófilas e hidrófobas.
+Se pueden utilizar para transportar fármacos que no son muy solubles.
+Este método no ofrece mucho en términos de control del tamaño o maleabilidad.
+Las técnicas que utilizan polímeros reactivos junto con un aditivo hidrófobo para producir una micela más grande y ayudan a que se puedan crear una gama de tamaños.
+Los dendrímeros son también vehículos de reparto basados en polímeros.
+Tienen un núcleo que se ramifica en intervalos regulares para formar una nanotransportador pequeña, esférica, y muy denso.
+Partículas biodegradables tienen la capacidad de dirigirse a tejido enfermo, así como entregar su carga como una terapia de liberación controlada.
+Se han encontrado partículas biodegradables que llevan ligandos a P-selectina, selectina endotelial (E-selectina) y ICAM-1 para adherir al endotelio inflamado.
+Por lo tanto, el uso de partículas biodegradables también se pueden usar para el tejido cardíaco.
+El éxito de la nanotecnología de ADN en la construcción de nanoestructuras artificiales de ácidos nucleicos como los de ADN, combinado con la demostración de los sistemas para la computación de ADN, ha llevado a especular que los nanodispositivos de ácidos nucleicos artificiales que pueden ser utilizados para la administración de fármacos cuando estos detectan que están el ambiente ideal.
+Estos métodos hacen uso de ADN exclusivamente como material estructural y química, y no hacen uso de su función biológica como el portador de la información genética.
+Circuitos lógicos de ácido nucleico han demostrado que potencialmente podrían ser utilizados como el núcleo de un sistema que libera un fármaco sólo cuando hay una respuesta a un estímulo, tal como un ARNm específico.
+] Además, una "caja" de ADN con una tapa controlable han sido sintetizados utilizando el método de origami de ADN.
+Esta estructura podría encapsular un medicamento en su estado cerrado, y se abren para liberar sólo en respuesta a un estímulo deseado.
+Administración dirigida de fármacos puede ser utilizado para el tratamiento de muchas enfermedades, como las enfermedades cardiovasculares y la diabetes.
+Sin embargo, la aplicación más importante de la administración dirigida de fármacos es para tratar los tumores cancerosos.
+La Associacion Americana del Corazón clasifica enfermedad cardiovascular como la primera causa de muerte en los Estados Unidos.
+Cada año hay 1.5 millones de infartos miocárdicos (MI), también conocidos como ataques al corazón, en los Estados Unidos, y 500,000 son causas de muertes.
+Los costos relacionados con los ataques del corazón exceden $ 60 mil millones de dólares por año.
+Por lo tanto, existe la necesidad de llegar a un sistema de recuperación óptima.
+La clave para resolver este problema radica en la utilización eficaz de fármacos que pueden ir directamente al tejido enfermo.
+Esta técnica puede ayudar a desarrollar muchas técnicas regenerativas para curar diversas enfermedades.
+En los últimos años se han desarrollado estrategias regenerativas para curar enfermedades del corazón.
+Esto representa un cambio de paradigma de los enfoques convencionales que tienen en como objetivo manejar las enfermedades del corazón.
+Terapia con células madre se puede usar para ayudar a regenerar el tejido miocardio y devolver la función contráctil del corazón mediante la creación / apoyo a un microambiente antes de la MI. Los avances en la administración de fármacos dirigida a los tumores han proporcionado las bases para el floreciente campo de la administración de fármacos dirigidos al tejido cardiaco.
+Los acontecimientos recientes han demostrado que hay diferentes superficies endoteliales en los tumores, lo que ha llevado al concepto de la adhesión endotelial de la molécula que esta suministrado mediada por fármaco dirigido a tumores.
+Los liposomas pueden utilizarse como la administración de fármacos para el tratamiento de la tuberculosis(TB).
+El tratamiento tradicional para la TB es similar a la quimioterapia, pero no es demasiado eficaz, puede ser debido a que la quimioterapia no tiene una concentración lo suficientemente alta en el sitio de la infección.
+El sistema de suministro de liposomas permite una mejor penetración macrófaga y mejor construye una concentración en el sitio de la infección.
+El suministro de los medicamentos son por vía intravenosa y por inhalación.
+La ingestión oral no se recomienda debido a que los liposomas se descomponen en el sistema gastrointestinal.
+3D printing is also used by doctors to investigate how to target cancerous tumors in a more efficient way.
+By printing a plastic 3D shape of the tumor and filling it with the drugs used in the treatment the flow of the liquid can be observed allowing the modification of the doses and targeting location of the drugs.

@@ -1,0 +1,7 @@
+La escala MID (del acrónimo inglés MELD, "Model for End-stage Liver Disease") es un sistema de puntuación para medir la severidad de la enfermedad hepática crónica.
+Fue inicialmente desarrollado para predecir la muerte dentro de 3 meses de cirugía en pacientes que habían sido sometidos a TIPS (transyugular intrahepatic portosystemic shunt) y fue subsecuentemente hallado útil para determinar el pronóstico y para priorizar los pacientes en espera de trasplante.
+El sistema de puntuación MELD utiliza los valores séricos de bilirrubina, creatinina y el International normalized ratio (INR) para predecir la supervivencia de los pacientes.
+Se calcula con la siguiente fórmula:
+La UNOS (united network of organ sharing) ha hecho las siguientes modificaciones en la puntuación:
+La interpretación del puntaje MELD en pacientes hospitalizados indica:
+Calculadora de puntaje MELD online

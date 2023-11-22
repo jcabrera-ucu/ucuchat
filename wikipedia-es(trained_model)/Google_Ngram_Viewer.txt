@@ -1,0 +1,32 @@
+El Google Ngram Viewer, o Google Books Ngram Viewer es un buscador en línea que muestra un gráfico de la frecuencia de cualquier grupo de búsquedas con formato de texto delimitado por comas, utilizando el conteo anual de n-grams encontrado en recursos impresos entre el año 1500 y el 2019    en el corpora de texto de Google en inglés, chino (simplificado), francés, alemán, hebreo, italiano, ruso o español.
+También hay algunos corpora especializados en inglés, tales como inglés americano, inglés británico, inglés de ficción e “inglés un millón”; además la versión 2009 de la mayor parte de los corpora está también disponible.
+El programa es capaz de ejecutar búsquedas por palabra o por frase, incluyendo texto con errores ortográficos o texto sin sentido.
+Los n-grams son comparados con el texto en el corpus seleccionado, con la opción de ortografía case-sensitive (que compara el uso exacto de las mayúsculas y minúsculas), y, si se encuentran en 40 libros o más, se ilustran en un gráfico.
+El visualisador Google Ngram Viewer,, es compatible con búsquedas de Partes de la oración y comodines.
+El programa fue desarrollado por Jon Orwant y Will Brockman y publicado a mediados de diciembre del 2010.
+Fue inspirado por un prototipo (llamado “Bookworm”, o comelibros) creado por Jean-Baptiste Michel y Erez Aiden del Observatorio Cultural de Harvard, Yuan Shen del MIT y Steven Pinker.
+El visualizador Ngram Viewer se basó inicialmente en la edición del 2009 del corpus Ngram de Google Books.
+, el programa puede ejecutar búsquedas dentro del corpus de un idioma individual dentro de la edición del 2009 o la del 2012.
+Los términos de búsqueda provistos por el usuario son delimitados por comas que indican cada palabra o frase que se va a buscar.
+El Ngram Viewer presenta un gráfico lineal segundos después de que el usuario presione la Tecla Enter o el botón de “Buscar” en la pantalla.
+Para tomar el cuenta el hecho de que una mayor cantidad de libros se han publicado en ciertos años, la data es normalizada, como nivel relative, por el número de libros publicados en cada año.
+Google llenó la base de datos en base a más de 5 millones de libros publicados hasta el 2008.
+Por tanto,, ningún dato será comparado con publicaciones posteriors al año 2008, sin importar si el corpus fue generado en el 2009 o el 2012.
+Debido a limitaciones sobre el tamaño de la base de datos Ngram, solo resultados que se correspondan con al menos 40 libros están indexados en la base de datos; sin esta restricción, la base de datos no podría archivar todas las posibles combinaciones.
+En general, los términos de búsqueda no pueden terminar con ningún signo de puntuación, aunque un punto final separado sí se puede buscar.
+En adición, una entrada que termine en un signo de interrogación (por ejemplo, “qué?”) resultará en una búsqueda separada del signo de interrogación.
+Omitir puntos en las abreviaturas permite una forma de correspondencia, por ejemplo utilizar "R M S" para buscar el término "R.M.S."
+en vez de "RMS".
+El corpora utilizados por el buscador están compuestos por total_counts, 1-grams, 2-grams, 3-grams, 4-grams, and 5-grams archivos para cada idioma.
+El formato de cada archivo es tab-separated data.
+Cada línea tiene el siguiente formato
+El Google Ngram Viewer usa match_count para producir el gráfico.
+Por ejemplo, la palabra "Wikipedia" del archivo versión 2 del 1-grams en inglés esta archivada como:
+El gráfico de Google Ngram Viewer basado en los datos presentados arriba se encuentra aquí.
+Los datos han sido criticados por su dependencia en la técnica de reconocimiento óptico de caracteres, o en inglés, OCR, por una abundancia desproporcional de literatura científica y por incluir un gran número de textos incorrectamente datados o categorizado.
+Por estos errores, y porque no está controlada contra la parcialidad (por ejemplo el incremento en literatura científica que hace que la popularidad de otros términos baje), es arriesgado utilizar este corpus para estudios lingüísticos o para evaluar teorías.
+Dado que este recurso no incluye metadata, es posible que no refleje el cambio cultural o lingüístico general, aspecto sobre el cual sólo puede dar pistas.
+Otro problema es que el corpus es en sí una biblioteca que contiene una copia de cada libro.
+Un solo autor prolífico puede entonces insertar una cantidad notable de nuevas frases en el vocabulario de Google Books, sean sus textos ampliamente leídos o no.
+El reconocimiento óptico de caracteres (o en inglés, Optical character recognition, OCR), no siempre funciona de forma fiable, y algunos caracteres pueden ser idendificados incorrectamente.
+En particular, errores sistemáticos como la confusión de la letra “s” y la “f” en textos previos al siglo XIX (dado el uso de la s larga) que tenía apariencia muy similar a la “f”) puede causar tendencias erróneas. Aunque el Ngram Viewer dice que los resultados son confiables para textos a partir del 1800, los problemas con el OCR y la insuficiencia de datos significan que para algunos idiomas, como el chino, las frecuencias son confiables sólo a partir del 1970, visto que las secciones previas del corpus no muestran ningún resultado aún para términos de búsqueda communes, y que los datos correspondientes a algunos años contienen más de 50% de ruido.

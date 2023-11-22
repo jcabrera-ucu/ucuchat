@@ -1,0 +1,43 @@
+Los enterocitos son células epiteliales del intestino encargadas de realizar la absorción de diversos nutrientes esenciales, el transporte de agua y electrolitos al interior del organismo y la secreción de proteína en la luz intestinal.
+Poseen abundante número de microvellosidades en su polo apical, que incrementan el área tanto para la digestión como para el transporte intestinal.
+Los enterocitos cumplen con la función fundamental de formar la barrera intestinal, que presenta características biomecánicas, bioquímicas e inmunológicas.
+Se originan en las criptas de Lieberkühn y migran hacia las vellosidades intestinales, de cuyo extremo se desprenden, luego de cinco a siete días, cuando terminan su ciclo vital.
+Los enterocitos son las células absortivas del intestino, tienen dimensiones de 20-25 µm de altura y 7-8 µm de ancho y se caracterizan por su chapa estriada apical.
+Los enterocitos tienen una polarización celular muy marcada; se distingue un polo apical absortivo y digestivo, orientado hacia la luz (lumen) en contacto con el contenido intestinal y un polo basal secretorio, que está en contacto con el tejido conjuntivo, los vasos linfáticos y los capilares de la capa mucosa de cada vellosidad.
+Microscopía Óptica El enterocito es una célula de forma prismática, alargada con su eje mayor apical-basal.
+Su borde apical presenta una estructura continua refringente llamada ribete o borde en cepillo.
+El núcleo es grande y ovalado, está localizado en los dos tercios inferiores y ocupa casi todo el diámetro de la célula.
+El aspecto de la cromatina es claro y posee uno o dos nucléolos muy visibles.
+Tinciones químicas
+Los colorantes son necesarios para resaltar las estructuras, ya que reaccionan en diferentes sectores de las células y revelan áreas específicas que pueden ser observadas con microscopios de luz.
+Con la tinción HyE el enterocito se ve en dos colores: el núcleo azul oscuro (basófilo), y el citoplasma se ve rosado (débilmente acidófilo).
+El ribete en cepillo es visible en forma de banda delgada refringente en los cortes tratados con hematoxilina y eosina.
+Con la tinción con PAS el borde en cepillo se ve rojo debido a la presencia de mucopolisacáridos y mucus en el glucocálix.
+Microscopia Electrónica La ultraestructura del enterocito muestra orgánulos densamente empacados: numerosas mitocondrias, un retículo endoplasmático extenso, un aparato de Golgi grande y abundantes vacuolas y vesículas.
+El borde en cepillo del polo apical está formado por microvellosidades, que son claramente visibles solo con grandes aumentos.
+Las microvellosidades son especializaciones de la membrana apical del enterocito.
+Con el microscopio electrónico las microvellosidades se observan como cilindros paralelos de 1 a 2 micrómetros (µm) de altura y 0,1µm de ancho;
+Por su eje central pasa un haz de filamentos que forman su esqueleto.
+Las microvellosidades proyectan desde la superficie de su membrana celular, una estructura molecular filamentosa, llamada glucocáliz, que desempeña varias funciones.
+Esta estructura extracelular muestra una gran actividad enzimática, de hidrolasas específicas destinadas a la digestión terminal de nutrientes.
+El citoplasma bajo la superficie luminal del enterocito, contiene un velo filamentoso terminal, llamado red terminal o trama terminal en donde se insertan los filamentos del esqueleto microvellositario.
+El citoplasma apical contiene numerosas cisternas del retículo endoplásmico liso (REL), el cual es necesario para la síntesis de triglicéridos.
+El retículo endoplásmico rugoso (RER) es extenso y se sitúa a mayor profundidad dentro de la célula.
+El complejo de Golgi es grande, muestra una posición supranuclear en estrecha relación con el RER.
+Las vesículas de pinocitosis y las vacuolas son muy abundantes debajo de la membrana apical y de la membrana basolateral.
+Los enterocitos son el tipo de célula principal y más numerosa del epitelio intestinal y tapizan toda la superficie interna del intestino.
+Cumplen funciones de barrera biomecánica, bioquímica e inmunológica en simbiosis con la microbiota normal que los limitan por su polo apical, situado en la luz intestinal.
+Estas células forman una barrera física que unida a las secreciones mucosas, forman la primera defensa del organismo frente a la invasión de agentes que podrían ser patógenos.
+Los enterocitos forman una barrera semipermeable que permite el paso selectivo a ciertas sustancias, mientras que evita el acceso de otras.
+Los enterocitos son fábricas bioquímicas, que incretan y secretan gran número de sustancias.
+Los enterocitos impiden el paso de antígenos microbianos, mantienen el sistema inmunitario y facilitan la adquisición de tolerancia a los antígenos de los alimentos y a la microbiota intestinal.
+Las células epiteliales manifiestan una polaridad, que puede relacionarse con dominios morfológicos, bioquímicos y funcionales definidos también en el enterocito.
+Como consecuencia de su diferenciación celular, se describen dos regiones o dominios en el enterocito.
+Está limitado anatómicamente al extremo del enterocito en contacto con el contenido de la luz intestinal.
+Comprende las microvellosidades y el glucocalix, el velo apical estructural citoplasmático y las uniones oclusivas intercelulares.
+Posee límites anatómicamente más amplios y difusos en la mitad inferior del enterocito.
+Este dominio está en contacto con la membrana basal, y a través de esta con los miofibroblastos, los fibroblastos con su matriz extracelular y los capilares sanguíneos.
+Los enterocitos que forman la monocapa del epitelio son muy especializados y por tanto incapaces de reproducirse.
+Tienen una vida corta, ya que mueren luego de tres a cinco días de vida y se desprenden del extremo de la vellosidad hacia la luz del intestino.
+La renovación fisiológica completa del epitelio intestinal se produce en aproximadamente una semana y es impulsada por un grupo de Células Madre Intestinales (IESC en inglés) en la base de cada cripta intestinal.
+Esta impresionante tasa de renovación está estrechamente controlada en la homeostasis.

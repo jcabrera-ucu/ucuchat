@@ -1,0 +1,17 @@
+El Fāngqí o juego del cuadrado (traducido al inglés como Square game,, también ; y ) es un Juego de tablero abstracto de estrategia jugado tradicionalmente en las regiones noroeste de China, especialmente Ningxia, Gansu, Shaanxi, Qinghai, Xinjiang, y otras áreas con una alta concentración de chinos musulmanes.
+El juego también es jugado por dungans, quienes han llevado el juego a países de Asia Central como Kirguistán y Kazajistán.
+Se puede jugar en cualquier tablero de 7×8 usando piezas blancas y negras de Go, o incluso en las intersecciones de un tablero de ajedrez.
+El juego es popular en las comunidades agricultoras en el noroeste de China, y a menudo es jugado en un tablero trazado en el suelo.
+En Ningxia, se lo juega en un tablero con una rejilla de 7×8, con las piezas siendo colocadas en las intersecciones, como en el Go.
+El juego tiene un concepto similar al del juego del molino: Los jugadores alternan puntos colocando piezas hasta que el tablero esté lleno, intentando formar cuadrados de 2×2 con sus piezas.
+Luego de llenar el tablero, los jugadores remueven una de las piezas de su oponente.
+Cada jugador cuenta entonces los cuadrados que ha formado y quita un número igual de piezas del oponente, siempre que esas piezas no sean parte de un cuadrado.
+Luego de remover las piezas, los jugadores alternan turnos moviendo piezas; estas pueden moverse cualquier distancia a lo largo de la rejilla vertical u horizontalmente.
+Cada vez que un jugador forma un cuadrado, el este puede remover una de las piezas de su oponente (de nuevo, siempre que no sea parte de un cuadrado).
+El jugador que le quita todas las piezas a su oponente gana el juego.
+El Fāngqí de Xinjiang se juega en un tabero de 7×7.
+Debido a que esto lleva a usar un tablero con un número impar de puntos jugables (49) el primer jugador tiene una ventaja.
+En consecuencia, el segundo jugador tiene permitido remover una pieza más de su oponente durante la eliminación inicial de piezas.
+Otras variantes del juego permiten rodear piezas, como en el go.
+Por otra parte, algunas variantes no permiten ciertos movimientos, por ejemplo, formar un cuadrado en la misma vía repetidamente (similar a la regla del kō en go).
+Debido a la popularidad del juego entre pueblos en áreas rurales, hay grandes cantidades de variantes del juego, cada una autóctona de cierta área.

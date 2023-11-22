@@ -1,0 +1,20 @@
+Extreme Light Infrastructure (ELI) es una institución científica europea encargada de crear una infraestructura en el campo de los láseres útil a la investigación y aplicación de la interacción láser materia a muy alta intensidad (varios órdenes de magnitud más alta que la intensidad de los láseres más intensos de la actualidad).
+ELI tiene entre sus objetivos construir el láser más intenso jamás creado.
+ELI pretende ser la entrada a nuevos regímenes en física.
+Al mismo tiempo promoverá nuevas tecnologías como microelectrónica relativista con el desarrollo de aceleradores láser compactos que produzcan partículas con extrema gran energía.
+Además quiere tener un gran beneficio para la sociedad desarrollando en medicina nuevos tipos de radioterapia y terapias de hadrones.
+También contribuirá en la ciencia de materiales al desentrañar nuevas vías para el tratamiento de los residuos nucleares.
+La organización comprende la colaboración de 13 países europeos: Alemania, Bulgaria, España, Francia, Grecia, Hungría, Italia, Lituania, Polonia, Portugal, Reino Unido, República Checa, y Rumanía.
+La intensidad de los láseres se ha incrementado en seis órdenes de magnitud en los últimos años alcanzando la frontera donde la óptica se aproxima a la física de partículas.
+Este nuevo campo de la óptica se denomina óptica relativista.
+Y es con láseres de algunos terawatios de potencia pico y con un buen frente de onda se pueden acelerar electrones a velocidades relativistas.
+Entre la importancia de este campo cabe destacar la generación de partículas, rayos X y rayos gamma.Todo esto justifica ir un paso más allá para adentrarnos en el régimen ultrarelativista.
+Un importante aspecto del ELI es la posibilidad de producir pulsos ultracortos de mucha energía de distintas partículas como protones, neutrones, muones y neutrinos en el régimen de attosegundos y con la posibilidad de alcanzar los zeptosegundos 10-21 s. Los estudios en el dominio del tiempo desentrañaran la dinámica electrónica en física atómica molecular y plasma.
+El coordinador del proyecto ELI es Gérard Mourou, quien presentó en 1985 una nueva tecnología desarrollada en el Laboratory for laser Energetics de la Universidad de Rochester conocida por CPA (Chirped Pulse Amplification).
+Esta tecnología en constante perfeccionamiento desde entonces es la que ha permitido alcanzar estas potencias láser tan extremas.
+El consorcio del proyecto recibe financiación a través de los fondos estructurales europeos.
+Aunque la fase preparatoria se financia a través de la Unión Europea, la financiación para su construcción y operación procede de un acuerdo por el que diversos países pagan un porcentaje de los costes.
+La participación de cada país es voluntaria y depende de multitud de factores económicos, estratégicos, científico tecnológicos, de proyección del país, de retorno, etc. El año 2010 será un año clave para la definición de la sede, o sedes, donde se emplazara el ELI y de la aportación de cada país.
+Su construcción está valorada en 500 millones de euros más 50 millones anuales para su mantenimiento y operación.
+La participación española en ELI está coordinada por el Ministerio de Ciencia e Innovación, quien vela porque la implicación española sea lo más relevante posible tanto en la fase de construcción como de operación y porque la comunidad científica española pueda beneficiarse de la mejor manera de esta instalación científica.
+Los centros que organizan técnicamente esta participación en la fase preparatoria del ELI son:

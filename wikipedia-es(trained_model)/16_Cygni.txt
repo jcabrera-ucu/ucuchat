@@ -1,0 +1,18 @@
+16 Cygni (abreviado como 16 Cyg) es un sistema estelar triple localizado aproximadamente a 70 años luz de la Tierra en la constelación de Cygnus.
+Este consiste en dos enanas amarillas, parecidas al sol, y una enana roja.
+En 1996 un planeta extrasolar fue descubierto en una órbita excéntrica alrededor de la estrella 16 Cygni B.
+El paralaje de las dos estrellas más brillantes fue calculado dentro de la misión de astrometría Hipparcos.
+Está entregó un paralaje de 46.25 msa para 16 Cygni A y 46.70 msa para 16 Cygni B.
+Dado que los dos componentes están asociados, es razonable asumir que se encuentran a la misma distancia promedio de la tierra, así que los distintos paralajes deben ser el resultado de un error experimental (de hecho, la diferencia es menos al error experimental de las mediciones).
+Usando el parajale del componente A, la distancia es de 21.6 parsecs.
+El paralaje del componente B corresponde a la distancia de 21.4 parsecs.
+16 Cygni es un triple sistema jerárquico.
+Estrellas A y C forman una estrella binaria cercana, con una separación estimada de 73 UA.
+Los elementos orbitales de la binaria A-C son actualmente desconocidos.
+A una distancia de 860 UA de A, está un tercer componente designado como 16 Cygni B.
+La órbita de B relativa al par A-C no está bien determinada; órbitas plausibles tienen periodos que van desde 18 mil doscientos hasta 1.3 millones de años, con un semieje mayor entre 877 y 15.180 UA.
+Ambas 16 Cygni A y 16 Cygni B son estrellas enanas amarillas, igual que nuestro Sol, y de acuerdo a la información entregada por la investigación de los observatorios de Geneva-Copenhagen, tienen ambas una masa similar al Sol.
+La edad estimada para ambas estrellas varía mínimamente, alrededor de 7000 millones de años de antigüedad, más antiguo que nuestro Sistema Solar(que se calcula tiene una edad de 4600 millones de años).
+16 Cygni C es bastante menos brillante que sus compañeras, pudiendo ser una enana roja
+En 1996 se anunció la existencia de un planeta extrasolar en una órbita excéntrica alrededor de 16 Cygni B. La órbita del planeta dura 798.5 días en completarse, con un semieje mayor de 1.68 UA.
+Al igual que la mayoría de los planetas extrasolares conocidos, 16 Cygni Bb fue detectado midiendo la velocidad radial de su estrella padre, que solo entrega un límite inferior para su masa, cercano a 1.68 veces la de Júpiter.

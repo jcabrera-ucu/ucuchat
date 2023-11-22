@@ -1,0 +1,41 @@
+Se llama amplificador diferencial a un dispositivo que amplifica la diferencia entre dos voltajes de entrada, pero que suprime cualquier voltaje común a dichas entradas.
+Es un circuito analógico con dos entradas denominadas entrada inversora y entrada no inversora  y una sola salida (V_{\rm out}) la cual es idealmente proporcional a la diferencia entre los dos voltajes, según la siguiente ecuación:
+donde el factor de proporcionalidad A_{\rm d} es la ganancia diferencial del amplificador.
+La salida de un amplificador diferencial está dada por:
+donde y  son los voltajes de entrada y A_\text{d} es la ganancia diferencial.
+Sin embargo, en la práctica, la ganancia no es absolutamente igual para las dos entradas.
+Esto significa que si las entradas son iguales, la salida no será cero, como sería en el caso ideal.
+Una expresión más realista para la salida de un amplificador diferencial incluye así un segundo término:
+donde A_\text{c} es la ganancia en modo común, es decir la ganancia del dispositivo cuando las entradas reciben el mismo voltaje.
+Como los amplificadores diferenciales se utilizan a menudo para anular el ruido o los voltajes de polarización que aparecen en ambas entradas, por lo general se desea una baja ganancia en modo común.
+La relación de rechazo en modo común (CMRR, sigla de Common-mode reject ratio), se define como la relación entre la ganancia en modo diferencial y la ganancia en modo común e indica la capacidad del amplificador para cancelar con precisión voltajes que son comunes a ambas entradas.
+La relación de rechazo de modo común se define como:
+En un amplificador diferencial perfectamente simétrico, A_ \text{c} es cero y el CMRR es infinito.
+Debe observarse que un amplificador diferencial es una forma más general que un amplificador con una única entrada.
+Como la ganancia diferencial excede a la ganancia en modo común, la CMRR será un número positivo, y cuanto más alto, mejor.
+La CMRR es una especificación muy importante, ya que indica cuánto de la señal en modo común aparecerá en su medición.
+El valor de la CMRR depende a menudo de la frecuencia de la señal, y se debe especificar como una función de la misma.
+Los amplificadores diferenciales se implementan, por lo general, con un circuito básico de dos transistores llamado par diferencial o par de cola larga.
+Este circuito se implementó originalmente usando un par de tubos de vacío.
+El circuito funciona de la misma manera para todos los dispositivos de tres terminales con ganancia de corriente.
+Los puntos de polarización del circuito de resistencia de cola larga se determinan en gran parte por la ley de Ohm y en menor medida, por las características de los componentes activos.
+El par de cola larga se desarrolló a partir del conocimiento anterior de las técnicas del circuito push-pull y de los puentes de medición.
+Un circuito temprano, que se asemejaba mucho a un par de cola larga fue publicado por el neurólogo británico Bryan Matthews en 1934, y parece probable que esto estaba destinado a ser un verdadero par de cola larga, pero fue publicado con un error de dibujo.
+El circuito par de cola larga definido más temprano apareció en una patente presentada por el inventor británico Alan Blumlein en 1936.
+A finales de la década de 1930, la topología fue bien establecida y ha sido descrita por varios autores como Franklin Offner (1937), Otto Schmitt (1937) y Jan Friedrich Toennies (1938) y se utilizó en particular para la detección y medición de los impulsos fisiológicos.
+El par de cola larga se utilizó con gran éxito en los comienzos de la informática británica, más notablemente en el computador Pilot ACE y posteriores, el EDSAC de Maurice Wilkes, y probablemente otros diseñados por personas que trabajaron con Blumlein o sus compañeros.
+El par de cola larga tiene muchos atributos como un interruptor: es, en gran medida, inmune a las variaciones de los tubos usados (y de los transistores, en la actualidad), de alta ganancia, con estabilidad de ganancia, impedancia de entrada alta, impedancia de salida media/baja, buen recortador de señal, no inversor y grandes excursiones de la tensión de salida.
+Una desventaja que tuvo, en su versión de tubos de vacío, es que la excursión de voltaje de salida (típicamente ± 10 a 20 V) fue superpuesta a una tensión continua de 200 V o algo menos, requiriendo atención en el acoplamiento de señal, por lo general alguna forma de acoplamiento de corriente continua en banda ancha.
+En muchos equipos de este tiempo se trató de evitar este problema mediante el uso de la lógica de impulsos solamente mediante acoplamiento en corriente alterna, que les hizo muy grandes y demasiado complejos (en el caso de la computadora ENIAC, fueron usados 18.000 tubos de vacío para una calculadora de 20 dígitos) o no fiables.
+Los circuitos de acoplado en corriente continua se convirtieron en la norma después de la primera generación de computadoras de tubos de vacío.
+El amplificador diferencial o el par diferencial suele construirse con dos transistores que comparten la misma conexión de emisor, por la que se inyecta una corriente de polarización.
+Las bases de los transistores son las entradas (I+ e I-), mientras que los colectores son las salidas.
+Si se terminan en resistencias, se tiene una salida también diferencial.
+Se puede duplicar la ganancia del par con un espejo de corriente entre los dos colectores.
+Aunque esta descripción se basa en transistores de unión bipolar, lo mismo se puede hacer en tecnología MOS o CMOS
+El par diferencial es una base fundamental para la electrónica analógica.
+Los amplificadores operacionales y comparadores de tensión se basan en él.
+Así mismo, los multiplicadores analógicos, empleados en calculadoras analógicas y en mezcladores, están basados en pares diferenciales.
+Los amplificadores de transconductancia también, básicamente, son pares diferenciales.
+En Electrónica digital, la tecnología ECL se basa en un par diferencial.
+Muchos circuitos de interfaz y cambiadores de nivel se basan en pares diferenciales.

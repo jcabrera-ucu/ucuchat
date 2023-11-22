@@ -1,0 +1,10 @@
+La aproximación paraxial se utiliza para el cálculo de sistemas ópticos, suponiendo que las trayectorias de los rayos de luz forman ángulos pequeños con el eje óptico.
+En la aproximación paraxial de primer orden, el seno y la tangente de un ángulo se aproximan por el ángulo mismo (en radianes), y el coseno por 1.
+y
+En la aproximación paraxial de segundo orden, el seno y la tangente tienen la misma aproximación, mientras que
+Para calcular la imagen de un objeto en un sistema óptico centrado bajo aproximación paraxial, se siguen las siguientes reglas:
+De ahí que "Centro óptico es el punto de un sistema óptico centrado, tal que todo rayo que pasa por él no sufre desviación alguna."
+Para calcular la imagen de un objeto, se toman dos puntos sobre el mismo y se trazan los rayos a través de las lentes.
+Uno de los puntos se sitúa sobre el eje óptico, con lo que uno de los rayos es el propio eje que, como pasa por el centro óptico de las lentes no se desvía.
+Del otro punto se eligen dos rayos cuya trayectoria conocemos: uno que pasa por el centro óptico de la lente y no se refracta y otro paralelo al eje óptico, que se refracta en la lente y pasa por el foco.
+El punto donde se corten estos dos rayos es donde se forma la imagen, y su tamaño es desde ese punto al eje óptico.

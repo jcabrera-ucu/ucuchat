@@ -1,0 +1,33 @@
+La centuriación (en latín centuriatio o, más generalmente, limitatio ), también conocida como cuadrícula romana, era un método de división de la tierra en partes iguales, equivalente a una cuadrícula sobre un plano.
+La centuriación combinó y desarrolló características de la topografía territorial ya presente en el Antiguo Egipto, Etruria, y en las ciudades y el campo griego.
+La centuriación se caracteriza por el diseño regular de un plan hipodámico trazado con instrumentos de agrimensura.
+Puede aparecer en forma de calzadas, canales y parcelas agrícolas.
+En algunos casos, estas parcelas, cuando se formaron, se asignaron a veteranos del ejército romano o a ciudadanos de Italia sin tierra en una nueva colonia, pero también podrían devolverse a sus antiguos habitantes, como sucedió en Orange (Francia).
+El estudio de la centuriación se ha revelado muy importante para reconstruir la historia del paisaje en antiguas áreas del Imperio romano.
+Así en la explotación y ocupación del suelo, es típico identificar las villas romanas por la división geométrica de los campos, que suelen encontrarse cerca de las fronteras.
+Este sistema de división del territorio fue típico típico del proceso de culturización que la civilización romana aplicó en las regiones bajo su dominio.
+Se comenzó a utilizar para la fundación, en el siglo IV a. C., de nuevas colonias en el ager Sabinus, al noreste de Roma.
+El desarrollo de las características geométricas y operativas que se convertirían en estándar llegó con la fundación de las colonias romanas en el valle del Po, comenzando con Ariminum (Rimini) en el 268 a. C.
+La ley agraria introducida por Tiberio Graco en el 133 a. C., que incluía la privatización del ager publicus, dio un gran impulso a la división de la tierra a través de la centuriación.
+La centuriación se utilizó más tarde para la recuperación de tierras y la fundación de nuevas colonias, así como para la asignación de tierras a los veteranos de las muchas guerras civiles de finales de la República y principios del Imperio, incluyendo la batalla de Filipos en el 42 a. C. como es mencionado por Virgilio, en sus Églogas, cuando se queja explícitamente sobre la asignación de sus tierras cerca de Mantua a los soldados que habían participado en esa batalla.
+La centuriación fue ampliamente utilizada en toda Italia y también en algunas provincias.
+Por ejemplo, un análisis cuidadoso ha identificado, en el área entre Roma y Salerno, 80 diferentes sistemas de centuriación creados en diferentes momentos.
+Se usaron varios sistemas de división de las tierras, pero el más común fue el conocido como sistema de ager centuriatus.
+El agrimensor, de manera similar a los asentamientos, identificaba primero un punto de vista central, el umbilicus agri o umbilicus soli y desde allí, mirando hacia el oeste, definía el territorio con los siguientes nombres:
+Luego, por medio de un groma trazaba dos ejes perpendiculares entre sí, uno, tomando como referencia la salida del sol para conocer la dirección oeste, en dirección este-oeste llamado 'decumano máximo' (decumanus maximus) y otro en dirección norte-sur, llamado 'cardo máximo' (cardo maximus).
+Sin embargo, por razones prácticas, la orientación de los ejes no siempre coinciden con los cuatro puntos cardinales: a menudo por la adaptación a la conformación orográfico de cada lugar o por acomodar la pendiente del terreno y facilitar el flujo de salida del agua de lluvia a lo largo de los conductos de drenaje que eran trazados (como en la centuriación de Florentia).
+Otras veces se basan en la orientación de las calzadas existentes (como las centuriaciones a lo largo de la vía Emilia) y otras características geomorfológicas.
+Aunque la centuriación es típica de tierras planas, también han sido documentadas centuriaciones montañosas.
+Algunas veces, el umbilicus agri estaba ubicado en una ciudad o en un castrum.
+Este punto central también es generalmente conocido como groma, del nombre del instrumento utilizado por los gromáticos (gromatici), y en muchos casos, se tomaba como punto de partida un arco.
+Entonces, se trazaba la cuadrícula extendiendo el cardo maximus urbano y el decumanus maximus a través de las puertas de la ciudad hacia las tierras agrícolas circundantes.
+A continuación, se trazaban calzadas secundarias paralelas (limites quintarii) en su mayoría paralelas a grandes zanjas de drenaje, en ambos lados de los ejes iniciales a intervalos de 100 actus (aproximadamente 3.5 km).
+El territorio se dividía así en áreas cuadradas.
+La densidad de la red de calzadas se incrementaba posteriormente con otras vías paralelas a las ya trazadas a una distancia entre sí de 20 actus (710.4m).
+A cada una de las áreas cuadradas —20×20 actus— resultante de esta división adicional se la llamaba centuria.
+Esta dimensión de la centuria se hizo prevalente en el período en que se delimitaron las grandes áreas del Valle del Po, mientras que centurias más pequeñss de 10×10 actus, como sugiere su nombre, habían sido utilizadas anteriormente.
+El territorio se dividía después de la finalización de las calzadas.
+Cada centuria se dividía en 10 bandas zonales paralelas al cardo y al decumano, con una distancia entre ellas de 2 actus (71.04m), formando así 100 cuadrados (heredia) de aproximadamente 0.5 hectáreas cada uno: centum heredia = 100 heredia = 1 centuria.
+Cada heredium se dividía por la mitad en el eje norte-sur creando dos jugera (un iugerum o jugerum, de jugum (yugo), "yugada" mide 2523m²), que se correspondía con la tierra que podía ser arada en un día por un par de bueyes).
+Incluso hoy, en algunas partes de Italia, el paisaje de la llanura está determinado por el resultado de la centuriación romana, con la persistencia de elementos rectos (carreteras, canales de drenaje, divisiones de propiedad) que han sobrevivido al desarrollo territorial y son a menudo elementos básicos de urbanización, al menos hasta el sigloXX, cuando la presión humana del crecimiento urbano y las infraestructuras destruyeron muchas de las huellas diseminadas por el campo agrícola.
+Pero estos indicios, que se remontan a los tiempos de la República no solo se han encontrado en Italia sino que han ido apareciendo a lo largo de todo el Imperio, desde Britannia e Hispania hasta la Gallia o Mesia.

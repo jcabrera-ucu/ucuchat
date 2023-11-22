@@ -1,0 +1,22 @@
+Un tubo Nixie consiste en una válvula utilizada para representar visualmente una serie de símbolos, normalmente las cifras 0 a 9, punto (o coma), signos más y menos, etc. Algunas unidades también representan símbolos especiales, como dólar, Ω, mA, V, etc.
+El tubo Nixie está formado por un ánodo, que es una rejilla delante de una serie de cátodos.
+Estos tienen la forma del símbolo que se quiere representar y se sitúan apilados tras el ánodo, pero sin contacto galvánico entre ellos.
+El conjunto va encerrado en una ampolla de vidrio llena de gas a baja presión, normalmente neón.
+Se iluminan con luz anaranjada, al ionizarse el gas en las proximidades de los cátodos.
+En algunos modelos la ampolla incorpora un filtro rojo para mejorar la visualización al aumentar el contraste.
+Dos son las disposiciones más comunes:
+El tubo Nixie se comporta como la lámpara de neón que es.
+Tienen una tensión de encendido que suele ser unos 170 V y una tensión de mantenimiento, bastante más baja.
+Debe utilizarse una resistencia para limitar la corriente que atraviesa el display.
+Como el halo luminoso se produce en los cátodos, el tubo debe manejarse con corriente continua.
+Con la aparición de los visualizadores fluorescentes, de LED y, posteriormente, de cristal líquido, los tubos Nixie han caído en desuso.
+Los primeros visualizadores de tubos Nixie fueron hechos por un pequeño fabricante de tubos de vacío llamado Haydu Brothers Laboratories, y se introdujeron en 1955 por la Burroughs Corporation, que adquirió Haydu.
+El nombre Nixie deriva de «NIX I» de Burroughs, una abreviatura de «Indicador Numérico eXperimental n.º 1» (Numeric Indicator eXperimental No. 1) aunque puede haber sido un retroacrónimo diseñado para evocar a la criatura mitologíca germana (Nixi o Nixe)*.
+Cientos de variaciones de este diseño fueron fabricados por muchas empresas, desde la década de 1950 hasta la década de 1990.
+Citando una insatisfacción con la estética de los visualizadores digitales modernos y la atracción nostálgica por el estilo de la tecnología obsoleta, un buen número de entusiastas de la electrónica ha mostrado en años recientes interés en resucitar los tubos Nixie.
+Los tubos sin vender que han estado almacenados en depósitos durante décadas están siendo sacados y usados, siendo la principal aplicación en relojes digitales de elaboración casera.
+Esto es en cierto modo irónico, pues durante su auge, los Nixies generalmente eran considerados demasiado costosos para ser usados en bienes de consumo masivo como los relojes de pared.
+Este aumento repentino en la demanda ha causado que los precios se eleven significativamente, particularmente para los tubos voluminosos.
+El tubo Nixie más voluminoso que se conoce se halla en manos de coleccionistas.
+El RODAN CR47/GR414 (22,1 cm de alto) ha sido vendido a cientos de dólares la unidad, pero dichos tubos son extremadamente raros y solamente fueron hallados en unos pocos lugares del mundo por buscadores perseverantes y afortunados.
+Los precios de otros Nixies voluminosos que exhiben dígitos más altos de 2,5 cm han subido el doble, triple o más entre 1998 y 2005.

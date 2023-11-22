@@ -1,0 +1,62 @@
+Euglenoidea, Euglenida, Euglenophyta o euglenoideos es uno de los más conocidos grupos de protistas flagelados, comúnmente presentes en agua dulce, en especial cuando ésta es rica en materia orgánica.
+Sólo unos pocos miembros habitan aguas marinas o son endosimbiontes.
+Muchos euglenoideos poseen cloroplastos y producen energía mediante fotosíntesis, mientras que otros se alimentan por fagocitosis o por pinocitosis.
+Se los ubica dentro del filo Euglenozoa y su estructura celular es típica de dicho grupo.
+Los euglenoideos son organismos flagelados unicelulares, aunque algunas especies presentan estadios palmeloides o coloniales sésiles.
+La mayoría son de agua dulce, aunque existen algunas formas de aguas salobres o marinas y son más abundantes cuando hay materia orgánica en descomposición.
+Dependiendo del modo de nutrición, existen tanto especies heterótrofas (fagotrofia u osmotrofia) como otras con cloroplastos.
+Aproximadamente un tercio son fotosintéticos, sin embargo, la mayoría son heterótrofos obligados.
+Algunos viven endozoicamente en invertebrados, rotíferos, nematodos, platelmintos, oligoquetos y copépodos, incluso en el intestino de renacuajos.
+La célula presenta un bolsillo o invaginación apical o subapical que consiste de un canal angosto y un reservorio esférico o piriforme.
+Estos no intervienen en la ingestión de alimentos, pero las formas heterótrofas presentan un citostoma, un aparato destinado a la ingestión de partículas, próximo e independiente de la invaginación anterior.
+La mayoría los euglenoideos poseen dos flagelos, usualmente uno orientado adelante y el otro atrás, que se insertan en el bolsillo apical o subapical.
+En muchas especies uno de los flagelos es tan corto que no llega a emerger de la invaginación, mientras que otras presentan cuatro flagelos.
+Con raras excepciones, el flagelo emergente es mastigonemado, con una o dos hileras de pelos largos y una capa de pelos más cortos.
+Pueden presentar una mancha ocular sensible a la luz en la base del flagelo emergente y una o más vacuolas contráctiles que descargan en el reservorio.
+Los euglenoideos carecen de una pared celular de celulosa.
+En su lugar, la cubierta celular está formada por una película interna formada por bandas espiraladas de proteína y una capa de mucílago externa.
+Los euglenoideos se distinguen principalmente por la presencia de esta película, compuesta por bandas proteicas, que se ubica por debajo de la membrana celular y es sostenida por microtúbulos dorsales y ventrales.
+Esta varía desde rígida a flexible, y da la forma a la célula, a menudo ocasionándole estriaciones distintivas.
+En muchos euglenoideos las estrías pueden deslizarse unas sobre otras, provocando un movimiento característico.
+También pueden movilizarse utilizando los flagelos.
+Las células suelen estar desnudas, pero en algunos casos están cubiertas por una lorica.
+Los cloroplastos se presume que se originaron por endosimbiosis secundaria a partir de la ingesta de un alga verde.
+Poseen como pigmentos clorofilas a y b, que les otorgan un color verde brillante y están unidos por tres membranas.
+Con frecuencia están asociados a granos de paramilo, un carbohidrato de reserva que es exclusivo de este grupo.
+Los pigmentos accesorios son β-caroteno, neoxantina, diadinoxantina y otros.
+Los tilacoides están dispuestos generalmente en grupos de tres, sin lamela periférica.
+La mayoría de los euglenoideos pigmentados poseen también un estigma o mancha ocular, que es una pequeña mancha de pigmento rojo en un lado del bolsillo flagelar o reservorio.
+Este oculta una colección de cristales sensibles a la luz cerca de la base del flagelo orientado adelante, de forma tal que ambos actúan juntos como una especie de ojo direccional.
+El citostoma es vestigial, aunque los nutrientes pueden aún ser obtenidos mediante absorción.
+La reproducción se realiza asexualmente por mitosis seguida de bipartición.
+No se ha observado reproducción sexual.
+En condiciones desfavorables pueden formar quistes no móviles.
+El modo primitivo de nutrición de los euglenoideos es la fagocitosis.
+Presas tales como bacterias y pequeños flagelados son ingeridas a través de un citostoma, sostenido por microtúbulos.
+Estos son a menudo compactados para formar dos o más varillas, que intervienen en la ingestión, y en Entosiphon forman un sifón extensible.
+La mayoría de los euglenoideos fagotrofos poseen dos flagelos, uno orientado adelante, y otro atrás.
+Este último es utilizado para deslizarse a lo largo del sustrato.
+En algunos, tales como Peranema, el flagelo orientado adelante es rígido y bate sólo en la punta.
+Entre los euglenoideos pigmentados, unas pocas formas poseen dos flagelos similares, tales como Eutreptia, mientras que otras poseen cuatro.
+En la mayoría, sin embargo, el flagelo orientado hacia atrás está acortado de forma tal que no emerge del bolsillo flagelar.
+El flagelo emergente típicamente se mueve formando círculos, generando un movimiento que traslada al euglenoideo por una trayectoria levemente helicoidal.
+Estos incluyen los géneros Euglena, Phacus y Trachelomonas, que produce una lorica orgánica que encapsula la célula.
+Existe también un género, Colacium, en el cual las células maduras no poseen motilidad y forman colonias ramificadas sostenidas por tallos mucosos.
+En muchos casos, la exposición a ciertos agentes químicos o la prolongada ausencia de luz pueden causar la pérdida de los cloroplastos sin provocar un daño mayor en el organismo.
+Existen numerosas especies que han perdido los cloroplastos, clasificadas en géneros separados, tales como Astasia (que se asemeja a una Euglena incolora) y Hyalophacus (semejante a un Phacus incoloro).
+Dado que carecen de un citostoma desarrollado, estas formas se alimentan exclusivamente por absorción.
+Algunos euglenoideos incoloros primitivos, tales como Rhabdomonas y Distigma, también se alimentan estrictamente por absorción.
+En árboles moleculares forman un grupo monofilético, así como lo hacen los euglenoideos fotosintéticos junto con sus derivados incoloros.
+Sobre la base del sistema de alimentación se distinguen tres grupos:
+El siguiente cladograma muestras las relaciones entre los distintos grupos.
+Rhabdomonadida incluye osmotrofos, Euglenophyceae incluye fotoautotrofos aunque algunas especies son secundariamente osmotrofas, mientras que el resto de los grupos son fagotrofos.
+Leyendas: [A] Célula rígida, principalmente bacterívoros.
+[B] Barras robustas en el aparato de alimentación.
+[C] Célula que puede cambiar de forma, eucarívoros.
+[D] Más de 20-40 tiras peliculares.
+[E] Fotoautotrofos o secundariamente osmotrofos.
+[F] Primariamente osmotrofos.
+Los euglenoideos fueron originalmente definidos por Otto Bütschli en 1884 como el orden flagelado Euglenida.
+Fueron tratados por botánicos como la división algal Euglenophyta, una doble ubicación que retuvieron hasta que los flagelados fueron separados.
+Ambos nombres aún se emplean para referirse al grupo, si bien el taxón formal Euglenida pueda quedar restringido a Euglena y sus parientes cercanos.
+La clasificación es aún variable, a medida que los grupos van siendo revisados para que se correspondan con la filogenia molecular.

@@ -1,0 +1,3 @@
+4Sight es el gestor de ventanas predeterminado IRIX, un sistema operativo unix de Silicon Graphics, en las versiones 3.0 hasta la 3.3.2.
+4Sight se ejecuta bajo un sistema híbrido conocido como XNeWS, una combinación del sistema X11 del MIT y el sistema NeWS de Sun Microsystems.
+Ni 4Sight o XNeWS se incluyeron en IRIX después de 3.3.2; ambos fueron reemplazados en 1991 por 4Dwm y X11 en IRIX 4.

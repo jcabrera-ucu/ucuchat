@@ -1,0 +1,254 @@
+El apagón del noreste de Estados Unidos de 2003 fue un apagón generalizado en partes del noreste y medio oeste de los Estados Unidos y la provincia canadiense de Ontario el 14 al 16 de agosto de 2003, que comenzó a las 4:10 p.m. EDT.
+Aunque parte del suministro fue restaurado hacia las 11 p.m., la mayoría de zonas afectadas no recuperó la conexión eléctrica hasta dos días o incluso una o dos semanas después.
+En ese momento, se convirtió en el segundo apagón más extendido del mundo en la historia, después del sufrido en el sur de Brasil en 1999.
+La interrupción del servicio, que fue mucho más generalizada que el apagón del noreste de 1965, afectó a unos 10 millones de personas en Ontario y a 45 millones de personas en ocho estados de EUA.
+La causa principal del apagón fue un error de software en el sistema de alarma de la sala de control de FirstEnergy, una compañía con sede en Akron, Ohio, que hizo que los operadores no tuvieran conocimiento de la sobrecarga del sistema eléctrico después de que varias líneas de transmisión cayesen sobre árboles.
+Lo que debería haber sido un apagón local manejable derivó en el colapso de toda la red eléctrica.
+De acuerdo con el Operador Independiente del Sistema eléctrico de Nueva York (NYISO), responsable de la gestión de la red eléctrica del estado de Nueva York, una subida de potencia de 3.500megavatios hacia Ontario afectó a la red de transporte a las 4:10:39 p.m. hora local.
+Durante los siguientes 30 minutos, hasta las 4:40 p.m., se reportaron cortes de suministro en ciudades de varios estados como Baltimore (Maryland), Detroit (Míchigan) y Newark (Nueva Jersey), con mayor incidencia en Ohio (Akron, Cleveland y Toledo) y el estado de Nueva York (en partes de Albany, Binghamton, partes de Manhattan, Syracuse y Rochester, y los condados de Westchester, Rockland y Orange), así como en las canadienses London y Windsor (Ontario), cercanas a Detroit.
+A esto le siguieron cortes en otras áreas que inicialmente no se vieron afectadas, incluida toda la ciudad de Nueva York, partes del sur del estado de Nueva York, Nueva Jersey, Vermont, Connecticut y Toronto, así como la mayor parte de la provincia de Ontario.
+Finalmente, un gran área, algo triangular, delimitada por Lansing (Míchigan), Sault Ste. Marie (Ontario), la costa de la bahía James, Ottawa, Nueva York y Toledo se quedaron sin energía.
+Según el análisis oficial del apagón elaborado por los gobiernos de EUA y Canadá, más de 508 unidades generadoras en 265 centrales eléctricas dejaron de funcionar durante el apagón.
+Si en los minutos previos al suceso el sistema de energía administrado por NYISO llevaba una carga de 28.700MW, en el peor momento del apagón la carga se había reducido a 5.716MW: una pérdida del 80%.
+Los servicios esenciales siguieron funcionando en algunas de estas áreas, pero no en todos, ya que también fallaron las centrales de reserva.
+Las redes telefónicas fijas en general permanecieron operativas, pero la mayor demanda provocada por el apagón dejó muchos circuitos sobrecargados, como le ocurrió a las redes de móviles.
+Las redes de abastecimiento de agua potable en varias ciudades perdieron presión, lo que obligó a las autoridades a pedir a la población que se hirviera el agua en los hogares.
+Las estaciones de radio y televisión permanecieron en el aire, con la ayuda de generadores de respaldo, aunque algunas estaciones se desconectaron durante períodos que fueron desde varias horas hasta la duración de todo el apagón.
+En algunas áreas que permanecieron sin luz después del anochecer, la Vía Láctea y los satélites artificiales en órbita se hicieron visibles a simple vista en áreas metropolitanas donde normalmente no se los puede ver debido a los efectos del aire particulado y la contaminación lumínica.
+La mayor parte del servicio ferroviario del Corredor Noreste de Estados Unidos se interrumpió ya que utiliza locomotoras eléctricas, mientras Via Rail en Canadá pudo continuar la mayor parte de su servicio.
+Los efectos del apagón en el transporte aéreo y en los mercados financieros fueron notables.
+Dentro del área afectada, cerca de 200000 personas continuaron teniendo energía en la península de Niágara de Ontario y la zona fronteriza entre el este de Ontario y Búfalo (Nueva York) —excluyendo el sur del condado de Erie—, a lo largo de la orilla del lago Hurón por medio de una línea de alimentación desde la central nuclear de Bruce: tres de las cuatro unidades de Bruce-B pudieron reducir su producción sin un apagado completo, y luego volver a conectarse a la red al cabo de cinco horas.
+Además, en parte de Albany y otras áreas del noreste de Nueva York, algunas zonas de Nueva Jersey, el centro-oeste de Míchigan y la península superior de Míchigan no se vieron tan afectadas al estar protegidas por dispositivos de circuito de transmisión en las estaciones de generación hidroeléctricas Sir Adam Beck en las cataratas del Niágara (casualmente, el punto de partida del gran apagón del noreste en 1965) en una estación de conmutación de la central hidroeléctrica en Conrwall, así como en el centro del estado de Nueva York.
+Filadelfia y las áreas circundantes del Atlántico medio tampoco se vieron afectadas porque el regulador eléctrico PJM las desconectó.
+La central eléctrica de Saint Clair en East China (Míchigan), permaneció en servicio durante aproximadamente 36 horas, y solo finalmente tuvo que cerrar para facilitar el reinicio de todo el sistema.
+La carga en cualquier red eléctrica debe coincidir inmediatamente con su fuente y su capacidad para transmitir esa potencia.
+Cualquier sobrecarga de una línea eléctrica o generador puede causar daños costosos, por lo que el dispositivo afectado se desconecta de la red si se detecta una sobrecarga.
+La resistencia eléctrica de una línea eléctrica hace que produzca más calor a medida que aumenta la corriente que transporta.
+Si este calor no se disipa lo suficiente, el conductor metálico de la línea se expandirá y alargará, de modo que se hunda entre las estructuras de soporte.
+Si la línea cae demasiado baja, puede ocurrir un destello a objetos cercanos (como árboles), lo que provoca un aumento transitorio de la corriente.
+Los relés de protección automáticos detectan la corriente excesivamente alta y desconectan rápidamente la línea, con la carga previamente transportada por la línea transferida a otras líneas.
+Si las otras líneas no tienen suficiente capacidad de reserva para acomodar la corriente adicional, su protección contra sobrecargas también reaccionará, causando un fallo en cascada.
+En el caso del apagón de 2003, era un día caluroso (se superaron los 30°C u 86°F en gran parte de la región afectada), lo que había hecho aumentar la demanda de energía con ventiladores y aire acondicionado.
+Esto provocó que las líneas eléctricas se combaran a medida que las corrientes más altas calentaban las líneas.
+Los operadores del sistema son responsables de garantizar que la fuente de alimentación y las cargas se mantengan equilibradas, y de mantener el sistema dentro de límites operativos seguros, de modo que ningún fallo pueda hacer que el sistema falle.
+Después de un fallo que afecta a su sistema, los operadores deben obtener más energía de los generadores u otras regiones o "deshacerse de la carga" (lo que significa cortar la energía intencionalmente o reducir el voltaje a un área determinada) hasta que puedan estar seguros de que se produce el peor fallo posible en cualquier parte del sistema no causará un colapso del sistema.
+En caso de emergencia, se espera que eliminen la carga inmediatamente según sea necesario para equilibrar el sistema.
+Los gobiernos de Canadá y EUA Formaron un grupo de trabajo federal conjunto para supervisar la investigación e informar directamente a Ottawa y Washington.
+El grupo de trabajo fue dirigido por el entonces ministro de Recursos Naturales de Canadá, Herb Dhaliwal, y el secretario de Energía de los Estados Unidos, Spencer Abraham.
+Además de determinar la causa inicial del fallo en cascada, la investigación también encargó un examen las salvaguardas diseñadas para prevenir que se repitiera el apagón del noreste de 1965, que fue realizado por la Corporación Norteamericana de Fiabilidad Eléctrica (North American Electric Reliability Corporation, NERC).
+Durante la investigación, el 19 de noviembre de 2003, Spencer Abraham declaró que su departamento no buscaría castigar a FirstEnergy por su papel en el apagón afirmando que las leyes federales de los Estados Unidos no exigían a las distribuidoras cumplir estándares sobre la fiabilidad del sistema.
+En febrero de 2004, medio año después del apagón, el grupo de trabajo de EUA y Canadá publicó su informe final, que clasificó las causas del apagón en cuatro grupos:
+El informe señaló que una planta generadora en Eastlake (Ohio), cerca de Cleveland, se desconectó hacia la 1:30 p.m. en medio de una alta demanda eléctrica, lo que provocó una tensión en las líneas de alta tensión de Walton Hills (Ohio), ubicadas en un entorno rural distante.
+Estas posteriormente quedaron fuera de servicio al entrar en contacto con "árboles demasiado crecidos" y provocaron que la sobrecarga se transfiriera a otras líneas de transmisión, que no pudieron soportarla, disparando sus interruptores.
+Una vez que ocurrieron estas múltiples desconexiones, muchos generadores repentinamente perdieron parte de sus cargas, por lo que aceleraron fuera de fase con la red a diferentes velocidades y se apagaron para evitar daños.
+El efecto en cascada que resultó en última instancia forzó el cierre de más de 100 centrales eléctricas.
+Un error de software conocido como condición de carrera, existía en el sistema de gestión de energía XA/21, basado en Unix, de General Electric Energy.
+Una vez activado, el error detuvo el sistema de alarma de la sala de control de FirstEnergy durante más de una hora.
+Los operadores del sistema desconocían el mal funcionamiento.
+El fallo los privó de alertas tanto de audio como visuales por cambios importantes en el estado del sistema.
+Los eventos no procesados se pusieron en cola después del fallo del sistema de alarma y el servidor primario se averió a los 30 minutos.
+Luego, todas las aplicaciones (incluido el sistema de alarma bloqueado) se transfirieron automáticamente al servidor de respaldo, que a su vez falló a las 2:54 p.m. Los fallos del servidor redujeron la frecuencia de actualización de la pantalla de las consolas de los operadores de los operadores de 1 a 3 segundos a 59 segundos por pantalla.
+La falta de alarmas llevó a los operadores a descartar una llamada de American Electric Power sobre la desconexión y cierre de una línea compartida de 345kV en el noreste de Ohio.
+Pero a las 3:42 p.m., después de que la propia sala de control se quedara sin luz, los operadores de la sala de control informaron al soporte técnico (que ya estaba solucionando el problema) del problema del sistema de alarma.
+La siguiente es la secuencia de eventos del apagón el 14 de agosto de 2003 (hora local, EDT):
+Con las fluctuaciones de energía en la red, las centrales eléctricas pasaron automáticamente al "modo seguro" para evitar daños en el caso de una sobrecarga.
+Esto puso a gran parte de la energía nuclear fuera de la red hasta que esas plantas pudieran ser sacadas lentamente del "modo seguro".
+Mientras tanto, todas las plantas hidroeléctricas disponibles (así como muchas térmicas de carbón y petróleo) se pusieron en funcionamiento, lo que permitió abastecer de energía eléctrica a las áreas que rodean las plantas para la mañana del 15 de agosto.
+Se solicitó a los hogares y negocios tanto en el área afectada como en las áreas cercanas que limitasen el uso de energía hasta que la red volviese a estar a pleno rendimiento.
+Algunas áreas perdieron presión de agua porque las bombas carecían de energía, lo que causó la contaminación potencial del suministro de agua.
+Cuatro millones de clientes del sistema de agua de Detroit en ocho condados se encontraban bajo una alerta sanitaria para hervir el agua del grifo hasta el 18 de agosto, cuatro días después de la interrupción del servicio.
+Lo mismo ocurrió en Cleveland.
+Un condado de Míchigan, Macomb, ordenó el cierre de todos sus 2300 restaurantes hasta que fueron descontaminados después de que se levantara el aviso en tandeo.
+Veinte personas que vivían en el río St. Clair afirmaron haberse enfermado después de bañarse durante el apagón, lo que se acusó al lanzamiento accidental de 140kg de cloruro de vinilo de una planta química de Sarnia (Ontario) que no se reveló hasta cinco días después.
+Cleveland y Nueva York tuvieron derrames de aguas residuales en las vías fluviales, lo que requirió el cierre de playas.
+Las ciudades de Newark (Nueva Jersey) y el norte del estado tuvieron grandes derrames de aguas residuales en los ríos Passaic y Hackensack, que fluyen directamente hacia el Océano Atlántico.
+Kingston (Ontario) perdió la energía de las bombas de aguas residuales, causando que los desechos crudos se vertieran en el río Cataraqui, conectado con el Canal Rideau.
+El servicio de ferrocarril del Corredor Noreste se detuvo al norte de Filadelfia, y todos los trenes que entraban y salían de la ciudad de Nueva York se cerraron, incluyendo inicialmente el ferrocarril de Long Island y el ferrocarril Metro-North; ambos pudieron establecer un servicio básico con locomotoras diésel a la mañana siguiente.
+Via Rail, en Canadá, tuvo algunos retrasos en los servicios de Toronto y de Montreal antes de volver a la normalidad a la mañana siguiente.
+Cesaron los controles de pasajeros en los aeropuertos afectados y los aeropuertos regionales se cerraron.
+En Nueva York, se cancelaron vuelos incluso después de que se hubiera devuelto el suministro eléctrico a los aeropuertos debido a dificultades para acceder a la información del "boleto electrónico".
+Los vuelos de Air Canada permanecieron en tierra la mañana del 15 de agosto debido a que la energía no se había restaurado de forma totalmente confiable en su centro de control de Mississauga.
+Este problema afectó a todos los servicios de Air Canada y canceló los vuelos más transitados a Halifax y Vancouver.
+En el Aeropuerto Internacional Midway de Chicago, los empleados de Southwest Airlines pasaron 48 horas lidiando con el trastorno causado por la repentina incidencia del apagón.
+Muchas estaciones de servicio no pudieron bombear combustible debido a la falta de electricidad.
+En North Bay (Ontario), por ejemplo, se formó una larga fila de camiones, incapaces de ir más al oeste, hacia Manitoba, sin repostar.
+En algunas ciudades, los problemas de tráfico se vieron agravados por los automovilistas que siguieron conduciendo hasta que sus autos se quedaron sin gasolina en la carretera.
+Se informó de que las estaciones de servicio que operaban en zonas de Burlington (Ontario), que tenían electricidad, cobraban unos precios de hasta 3,78$ por galón estadounidense (99,9centavos por litro) cuando la tasa antes del apagón era inferior a 2,65$/gal (70¢/L).
+Los clientes siguieron haciendo cola durante horas para pagar unos precios que muchas personas consideraban que habían crecido injustificadamente para un bien básico en una situación de emergencia.
+Los operadores de la estación afirmaron que tenían un suministro limitado de gasolina y no sabían cuándo se volverían a llenar sus tanques, lo que provocó los drásticos aumentos de precios.
+Muchas refinerías de petróleo en la costa este de los Estados Unidos cerraron debido a un apagón y tardaron en reanudar la producción de gasolina.
+Como resultado, se esperaba que a medio plazo los precios de la gasolina aumentaran aproximadamente 10 centavos por galón (3¢/L) en los Estados Unidos.
+En Canadá, las autoridades consideraron el racionamiento de la gasolina para evitar abusos a los consumidores.
+Los dispositivos de comunicación celular fueron interrumpidos.
+Esto se debió principalmente a la pérdida de energía de respaldo en los sitios celulares donde los generadores se quedaron sin combustible.
+Donde quedaban los sitios de celulares, algunos teléfonos celulares aún estaban fuera de servicio ya que sus baterías se agotaron sin una fuente de energía para recargar.
+Las líneas telefónicas alámbricas continuaron funcionando, aunque algunos sistemas estaban abrumados por el volumen de tráfico, y millones de usuarios domésticos solo tenían teléfonos inalámbricos según la corriente de la casa.
+La mayoría de las estaciones de radio de Nueva York y muchas de Ontario fueron momentáneamente apagadas antes de regresar con energía de respaldo.
+Los sistemas de televisión por cable quedaron deshabilitados, y en las áreas donde se había restablecido la alimentación eléctrica (y que tenían alimentación para sus televisores), los suscriptores de cable no podían recibir información hasta que se restableciera la alimentación eléctrica al proveedor de cable.
+Los usuarios de internet se desconectaron de manera similar durante el apagón, con la excepción del acceso telefónico desde computadoras portátiles, que solo funcionaron hasta que las baterías se agotaron.
+La información, por tanto, solo estaba disponible a través de radio y televisión por aire o satélite para los hogares equipados.
+El apagón afectó las comunicaciones también fuera del área inmediata de corte de energía.
+Las operaciones de internet de Advance Publications, con sede en Nueva Jersey, se encontraban entre las bloqueadas por el apagón.
+Como resultado, las ediciones web de periódicos tan alejados como The Birmingham News (Birmingham, Alabama), The Times-Picayune (Nueva Orleans, Luisiana) y The Oregonian (Oregón) estuvieron desconectadas durante días.
+Los radioaficionados pasaron las comunicaciones de emergencia durante el apagón.
+Gran cantidad de fábricas se cerraron en el área afectada, y otras fuera del área se vieron obligadas a cerrar o a retrasar el trabajo debido a problemas de suministro y la necesidad de ahorrar energía mientras se estaba estabilizando la red.
+En un momento dado, se desarrolló una espera de 7 horas para los camiones que cruzaban el puente Ambassador entre Detroit y Windsor debido a la falta de sistemas electrónicos de control de fronteras.
+Algunas industrias (incluida la industria automotriz) no volvieron a la producción total hasta el 22 de agosto.
+Casi todo el estado de Nueva York perdió su energía.
+Las excepciones incluyeron Freeport y Rockville Centre en Long Island, que dependían de plantas de energía localizadas; el área metropolitana de Albany, donde la energía disminuyó por poco tiempo (algunas áreas, como partes de Latham, no perdieron la energía en absoluto); las áreas más meridionales del estado en el Southern Tier (cuya electricidad proviene de Pensilvania); la ciudad de Plattsburgh; o incluso barrios de Brooklyn como Starrett City, que tenía energía auxiliar; así como la mayor parte de la ciudad de Búfalo y su entorno, que se abastecían de la energía de la Universidad.
+También había algunos pequeños focos de energía en los alrededores de Rochester, ya que algunas compañías eléctricas más pequeñas que operaban en esas áreas podían seguir funcionando.
+El complejo de North Shore Towers (Queens) no se vio afectado por el apagón debido a su planta de energía autogenerada en el lugar.
+En Nueva York, todas las prisiones se desconectaron de la red y comenzaron a utilizar generadores propios.
+A causa del apagón hubo de interrumpirse momentáneamente el torneo de golf de la PGA, que se celebraba en las cercanías de Pittsford.
+Además, el partido de la Liga Nacional de Béisbol que iba a celebrarse esa noche entre los Mets de Nueva York y los Gigantes de San Francisco en el Shea Stadium (Queens) se pospuso.
+Los dos reactores nucleares de Indian Point en el río Hudson, cerca de Peekskill, los dos reactores de la planta nuclear de Nine Mile Point, el único reactor de la central nuclear de Ginna cerca de Rochester y el reactor de FitzPatrick cerca de Oswego, se apagaron.
+Con otras tres plantas nucleares cerradas en Ohio, Míchigan y Nueva Jersey, un total de nueve reactores se vieron afectados.
+El gobernador de Nueva York, George Pataki, declaró el estado de emergencia.
+Los generadores de emergencia de Verizon fallaron varias veces, dejando fuera de servicio el número de los servicios de emergencia (teléfono 911) durante varios períodos de aproximadamente un cuarto de hora cada uno.
+La línea directa de información de Nueva York, el teléfono 311, recibió más de 175000 llamadas de residentes preocupados a lo largo del fin de semana.
+Los radioaficionados del Amateur Radio Emergency Service (ARES) de Nueva York proporcionaron un enlace de comunicaciones de respaldo para refugios de emergencia y hospitales.
+Los repetidores de radio para aficionados recibieron energía de emergencia a través de generadores y baterías y se mantuvieron funcionales.
+Las cadenas principales de los EUA (CBS, NBC, ABC y Fox) y algunos canales de televisión por cable (HBO, MTV y Nickelodeon), con sede en la ciudad de Nueva York, no pudieron transmitir normalmente, por lo que se utilizaron las estaciones de respaldo y los transmisores principales de Dallas.
+ABC emitió sus noticiarios desde Washington D. C.
+Manhattan, incluida la bolsa de Wall Street y la sede de las Naciones Unidas, se cerró completamente al igual que todos los aeropuertos de la zona (con la excepción del Aeropuerto Internacional Stewart de Newburgh, que había sido una base aérea militar y tenía sus propios generadores), y todo el transporte ferroviario de Nueva York: así el metro como los servicios ferroviarios Trans-Hudson (PATH) entre Manhattan y Nueva Jersey, el servicio ferroviario de New Jersey Transit, el Metro-North y el ferrocarril de Long Island, que se pudieron reanudar a primera hora de la mañana del viernes mediante el uso de trenes diésel.
+Aun así, el PATH fue el primero en reanudar el servicio de metro en la Sexta Avenida 9:45 p.m. ese mismo jueves y el en todo su sistema a las 11 p.m.
+Cientos de personas quedaron atrapadas en ascensores; a última hora de la tarde, el Departamento de Bomberos había acudido a aproximadamente 800 edificios de oficinas y apartamentos de gran altura en Manhattan.
+Análogamente, más de 600 vagones de metro y de cercanías quedaron atrapados entre estaciones.
+Sin los semáforos, se produjo un importante atasco en el Lower y Midtown Manhattan cuando miles de personas abandonaron sus oficinas a pie.
+Durante horas, hasta la noche, calles, autopistas, puentes y túneles estuvieron atestados de automóviles y peatones que salían de la isla de Manhattan, aunque muchos civiles ayudaban a dirigir el tráfico.
+El viaje en autobús de Manhattan a Washington D. C., que normalmente toma cuatro horas, tomó más de ocho, lo que se acusó al tiempo para salir de Nueva York.
+Para evitar golpes de calor, el alcalde Michael Bloomberg aconsejó a los ciudadanos que abriesen sus ventanas, bebiesen muchos líquidos y procuraran el bienestar de sus mascotas.
+Las temperaturas fueron de 33°C (92°F) con alta humedad, ya que Nueva York acababa de experimentar un período de lluvia récord que comenzó a fines de julio.
+Con las redes de teléfonos celulares mayormente sobrecargas, los neoyorquinos se agolparon ante los teléfonos públicos, ya que el servicio telefónico convencional se vio también afectado en cierta medida.
+Mientras que algunos viajeros de trenes y aviones pudieron encontrar arreglos alternativos para pasar la noche, muchos se quedaron varados en Nueva York y durmieron en parques y en los escalones de edificios públicos.
+Si bien prácticamente todas las empresas y establecimientos minoristas cerraron sus puertas, muchos bares y pubs siguieron abiertos y muchos neoyorquinos aprovecharon la oportunidad para "disfrutar" del apagón.
+Las habitaciones de los hoteles estaban bloqueadas o sin luz y la mayoría de los restaurantes entregaban comida gratis a los huéspedes.
+Como la mayoría de los artículos perecederos se iban a echar a perder de todos modos, aún más los productos congelados, muchos restaurantes y ciudadanos simplemente prepararon lo que pudieron y se lo sirvieron a cualquiera que lo quisiera, lo que llevó a vastas fiestas de barrio en muchos vecindarios de la ciudad de Nueva York.
+Las Indigo Girls estaban programadas para actuar esa noche en el Central Park SummerStage, y la banda subió al escenario como estaba previsto para tocar en uno de los pocos shows en el área afectada, utilizando generadores que se habían llenado de combustible esa mañana.
+Su actuación no fue un concierto de larga duración, ya que tenían que terminar antes para permitir que todos los asistentes salieran de Central Park antes de que oscureciera.
+El lugar también tenía baños y vendedores que cocinaban comida en parrillas de propano.
+Cuarenta mil policías y todo el departamento de bomberos fueron movilizados para mantener el orden.
+Al menos dos muertes se relacionaron con el uso de fuego para proporcionar luz, y muchos incendios no fatales también resultaron del uso de velas.
+La Oficina de Gestión de Emergencias de la ciudad de Nueva York activó su Centro de Operaciones de Emergencia, desde el cual más de 70 organismos coordinaron los esfuerzos de respuesta, que incluyeron la entrega de torres de iluminación portátiles a las intersecciones apagadas, generadores y combustible diésel a los hospitales, y un generador de vapor portátil necesario para alimentar el aire acondicionado de la bolsa de Wall Street.
+Las áreas afectadas incluyeron la mayor parte de los condados de Hudson, Morris, Essex, Union, Passaic y Bergen, así como las principales ciudades de Paterson y Newark.
+Aun así, algunas zonas de Newark e East Orange, y pequeñas secciones de ciertas ciudades en los condados de Essex, Hudson y Union tenían energía.
+El suministro se devolvió primero a las áreas urbanas debido a preocupaciones de seguridad y los disturbios.
+Condados tan al sur como Cumberland se vieron afectados, donde la energía se restauró pasada una hora.
+Algunas ciudades en el condado de Bergen solo perdieron energía momentáneamente, y tuvieron oscilaciones bruscas en el voltaje de la línea eléctrica, que iban de aproximadamente 90V a 135V cada pocos minutos durante una hora.
+El día siguiente al apagón, el 15 de agosto, la autopista New Jersey Turnpike no cobró los peajes hasta las 9:00 a.m.
+En el área de Baltimore-Washington no se vio afectada más que la programación de transporte.
+Partes de los condados de New London, Hartford, New Haven, Litchfield y Fairfield, desde Greenwich a Danbury y Bridgeport, se vieron afectadas, aunque la mayor parte del estado tuvo energía durante toda la noche aparte de algunas interrupciones momentáneas.
+Los trenes del Metro-North se detuvieron y permanecieron en las vías durante horas, hasta que pudieron ser remolcados a la estación más cercana.
+En general, la mayor parte del estado al este de la autopista interestatal 91, y algunos lugares al oeste de esta, tuvieron energía durante el apagón, y algunos de los suburbios del este de New Haven fueron vistos como el extremo más oriental de los efectos del apagón.
+Una controversia local se produjo en los días posteriores al apagón, cuando el gobierno federal ordenó a las compañías eléctricas que energizaran el cable submarino de alta tensión Cross Sound entre New Haven y Long Island.
+Este cable se había instalado, pero no se activó debido a preocupaciones ambientales y pesqueras.
+El fiscal general de Connecticut (y futuro senador de los Estados Unidos), Richard Blumenthal, y el gobernador de Nueva York, George Pataki, intercambiaron insultos por dicho cable.
+Los políticos de Connecticut expresaron su indignación por el hecho de que el cable estaba encendido pero que no ayudaba a nadie en Connecticut, ya que el cable transportaría energía de Connecticut a Long Island.
+Solo una pequeña área del oeste de Massachusetts fue afectada.
+En Worcester y Springfield hubo cortes puntuales de electricidad.
+Algunas áreas fueron sometidas a un voltaje inferior al normal (tan bajo como 100voltios de corriente alterna) y reducciones de voltaje por períodos de hasta 24 horas.
+El área de Boston se salvó del apagón.
+Alrededor de 2,3 millones de hogares y negocios se vieron afectados en Míchigan, incluyendo casi toda el área metropolitana de Detroit, Lansing, Ann Arbor y las comunidades aledañas en el sureste del estado.
+El apagón afectó a tres empresas de servicios públicos de Míchigan: Detroit Edison (cuyo sistema completo se cayó), Lansing Board of Water & Light y una pequeña parte del sistema de Consumers Energy en la esquina sureste del estado.
+La noticia se extendió rápidamente a las áreas circundantes sin electricidad y muchos acudieron a las que aún tenían suministro, lo que resultó en tiendas llenas de gente, restaurantes llenos, hoteles reservados y largas colas para las estaciones de servicio en estas ciudades.
+Las ubicaciones más cercanas a las áreas afectadas del extrarradio al norte de Detroit que no perdieron la energía incluyeron las áreas de Oxford y Holly, las comunidades a lo largo de las carreteras M-24 y M-15, y en el área de Lapeer y Flint.
+Los límites de la ciudad de Brighton y Howell tampoco se vieron afectados, ya que recibieron electricidad de Consumers Energy a través de la línea Genoa-Latson 138kV que interconecta Detroit Edison y Consumers Energy.
+Las estaciones de radio y televisión se vieron interrumpidas temporalmente y los suministros de agua se interrumpieron en Detroit debido al fallo de las bombas eléctricas.
+Debido a la pérdida de presión del agua, toda el agua debió hervirse antes de usarse hasta el 18 de agosto.
+Varias escuelas que habían planeado comenzar el año escolar el 18 de agosto fueron cerradas hasta que haya agua potable disponible.
+Además, las comunidades del Downriver al sur de Detroit, cercanas a la desembocadura del río Detroit en el lago Erie, tuvieron que lidiar con los sótanos inundados de aguas residuales el fin de semana inmediatamente después del apagón, para gran molestia general de los residentes de las áreas.
+Los equipos de noticias de las áreas emitieron avisos durante sus coberturas de los apagones a los residentes de Downriver, explicando por qué las bombas se habían cortocircuitado, así como para limitar el uso de agua.
+("La mayoría de los lugares tienen presión de agua, algunos tienen presión baja... algunos no tienen presión y algunos incluso tienen presión negativa. Eso significa que en las próximas horas, la gente de las comunidades río abajo debe esperar sótanos inundados, así que mueva todos sus objetos de valor en lo alto y fuera de los sótanos ", como advirtió WDIV-TV).
+En el área de Detroit, los gerentes de cada estación de televisión dijeron a los helicópteros que "permanecieran sobre los faros de los autos" por la noche y que no se aventurasen en el Downtown de Detroit (debido al peligro de volar cerca de los rascacielos sin luz).
+Durante los días inmediatamente posteriores al apagón, muchas estaciones volvieron al aire, con recursos limitados.
+(En un caso, el presentador de noticias de WXYZ-TV llevaba una camiseta y pantalones cortos, a diferencia de su traje normal, y se disculpó con los espectadores por las "condiciones bastante cálidas" en la estación, ya que solo tenían un aire acondicionado y un par de ventiladores funcionando).
+Una refinería de Marathon Oil en Melvindale, cerca de Detroit, sufrió una pequeña explosión debido a la acumulación de gas, lo que requirió una evacuación dentro de una milla (1,6km) alrededor de la planta y el cierre de la Interestatal 75.
+Se temía la liberación de gases tóxicos.
+Las fuertes lluvias del 17 de agosto, junto con la falta de bombas de aguas residuales cerraron otras autopistas y provocaron advertencias de inundaciones urbanas.
+Las aguas residuales sin tratar fluyeron a los ríos en la capital del estado, Lansing, y el área metropolitana de Detroit cuando fallaron las soluciones de contingencia en algunas plantas depuradoras.
+En medio de una ola de calor, los michiguenses se vieron privados de aire acondicionado.
+Varias personas, en su mayoría de edad avanzada, tuvieron que ser tratadas por síntomas de golpe de calor.
+El oeste de Míchigan, incluidas las comunidades de Grand Rapids, Muskegon y Holland, en su mayoría no se vio afectado, aunque una gran parte estuvo a "segundos" de unirse al apagón, según el congresista local Fred Upton.
+De hecho, justo el otro lado de la frontera de Sault Ste. Marie (Míchigan), en el lado de Ontario (Canadá) sí se vio afectada, ya que las dos ciudades no están conectadas eléctricamente.
+Más de 540000 hogares y negocios quedaron sin electricidad en Ohio.
+En Cleveland, el servicio de agua se detuvo porque la ciudad es abastecida por bombas eléctricas y la electricidad de respaldo estaba disponible solo de manera muy limitada y el agua tuvo que ser hervida por varios días después.
+Las partes de las ciudades de Akron, Mansfield, Massillon, Marion y Ashland quedaron sin energía.
+Cleveland declaró el toque de queda a todas las personas menores de 18 años.
+En el parque de atracciones Cedar Point en Sandusky, los empleados del parque tuvieron que ayudar a los clientes a bajar los escalones de las atracciones que se habían detenido debido al apagón.
+En Toledo, el equipo de béisbol Mud Hens pospuso el partido programado para esa noche.
+Algunas partes de la ciudad no se vieron afectadas por el apagón, en particular la cercana Sylvania.
+Otras ciudades de los alrededores como Bowling Green solo sufrieron una breve interrupción del servicio.
+En Pensilvania, el apagón se limitó a la parte noroeste del estado.
+Según los funcionarios de emergencia de los condados de Erie, Crawford, Venango, Clarion, Bradford, Forest y Warren, los apagones duraron hasta la noche, pero no hubo daños o incidentes graves.
+El área afectada por el apagón incluyó todo el sur de Ontario, excepto Pelham, Niagara Falls y Fort Erie, desde Windsor hasta Ottawa y hasta la frontera de Quebec, excepto el área de Cornwall.
+También se vio afectado el norte de Ontario, tan al norte como la reserva india de Attawapiskat y Moosonee en bahía James y al oeste a Marathon en la costa del lago Superior.
+Las comunidades afectadas en el centro de Ontario incluyen Timmins, Cochrane, Sudbury, Kirkland Lake, North Bay, Wawa y Sault Ste. Marie.
+La mayor parte del noroeste de Ontario (incluida Thunder Bay) no se vio afectada.
+Los semáforos, que no tenían energía de respaldo, se apagaron.
+Todas las intersecciones debían considerarse una All-way stop.
+Junto con el inicio de la hora punta de la tarde, esto causó problemas de tráfico.
+En muchas intersecciones mayores y menores en ciudades grandes, como Ottawa y Toronto, los ciudadanos comunes comenzaron a dirigir el tráfico hasta que la policía u otras personas los relevaron.
+Como no había suficientes oficiales de policía para dirigir el tráfico en cada intersección durante la hora punta de la tarde, los oficiales de policía distribuyeron chaquetas fluorescentes a las personas que dirigían el tráfico.
+Los conductores y los peatones generalmente siguieron las instrucciones de ellos aunque no eran oficiales de policía.
+En Ottawa, el gobierno federal fue cerrado.
+El precinto parlamentario y la colina del parlamento fueron evacuados.
+En Toronto, se cerraron el metro de Toronto y RT y el sistema de tranvías.
+Muchos pasajeros tuvieron que ser evacuados de los trenes del metro caminando a través de los túneles.
+Los principales hospitales de Toronto informaron que habían cambiado a los generadores y que no habían tenido problemas.
+El sistema 9-1-1 estaba operativo.
+Los tranvías permanecieron suspendidos el 18 y 19 de agosto, reanudándose luego de las garantías de que estarían exentos de posibles apagones rotativos.
+Los funcionarios de Toronto les pidieron a los residentes que restringieran el uso innecesario de agua, ya que las bombas no funcionaban y solo había un suministro de 24 horas.
+Los eventos de entretenimiento fueron cancelados por varios días.
+La banda inglesa Radiohead reprogramó un concierto programado para el 16 de agosto en Toronto hasta el siguiente 15 de octubre debido al corte de energía.
+La apertura de la Exposición Nacional de Canadá, programada para el 15 de agosto, se aplazó hasta el 19 de agosto.
+El techo del Skydome en Toronto permaneció abierto en un esfuerzo por conservar la energía hasta el 21 de agosto, cuando se desató una tormenta eléctrica.
+Se informaron grandes interrupciones del tráfico de camiones en el noreste de Ontario debido a la falta de disponibilidad de combustible, incluida una acumulación cerca de North Bay.
+El túnel y el puente entre Windsor y Detroit también se cerraron, con los pilares del puente iluminados por proyectores de emergencia, para no representar un peligro para el transporte marítimo y el aéreo.
+Cerca de 140 mineros fueron abandonados bajo tierra en la mina Falconbridge en Sudbury cuando se cortó la electricidad. Los oficiales de la mina dijeron que estaban a salvo y podrían ser evacuados si era necesario, pero no lo estaban, debido a los riesgos de hacerlo sin energía. Fueron evacuados a salvo por la mañana. En Sarnia, un depurador de la refinería de acero perdió energía y liberó niveles de contaminación por encima de lo normal; se aconsejó a los residentes que cerraran sus ventanas.
+En la tarde del 14 de agosto, el primer ministro de Ontario, Ernie Eves, declaró el estado de emergencia, ordenó al personal no esencial que no fuera a trabajar al día siguiente y predijo que podrían producirse apagones por varias semanas.
+A los residentes se les pidió que no usaran televisores, lavadoras o aparatos de aire acondicionado si era posible, y se les advirtió que algunas fuentes de energía restauradas podrían volver a apagarse.
+Aunque el estado de emergencia completo se levantó al día siguiente, se advirtió a los residentes que la cantidad normal de energía no estaría disponible durante días, y aún se les pidió que redujeran el consumo de energía.
+Durante dos días de este período de recuperación, el desvío de agua del río Niágara para la generación hidroeléctrica se incrementó al nivel máximo —normalmente se usa solo por la noche y en invierno para mantener el aspecto escénico de las cataratas del Niágara—.
+La caída resultante en el nivel del río debajo de las cataratas implicó que los barcos turísticos de Maid of the Mist'' no pudieron atracar de manera segura, y su operación tuvo que suspenderse.
+La refinería de Petro Canada en Oakville tuvo que realizar una parada de emergencia debido a la falta de energía.
+El sistema de quemado en antorcha la planta produjo grandes llamas durante el cierre, lo que llevó a noticias erróneas en los medios de comunicación de que se había producido un incendio en la planta.
+La planta de lubricantes de Petro Canada en Mississauga experimentó un incendio una semana más tarde al reiniciar las operaciones normales.
+En Nueva York, se reportaron alrededor de 3000 llamadas de incendio, muchos de las cuales derivados del uso de velas.
+Los servicios de emergencia respondieron a 80000 llamadas de ayuda, más del doble del promedio normal.
+Desde las 4 p.m. del 14 de agosto hasta la medianoche del 15 de agosto, hubo 60 incendios de alarmas a manos grandes o más, causadas principalmente por velas.
+El FDNY atendió más de 7500 llamadas que resultaron en la transmisión de más de 4000 alarmas.
+El apagón contribuyó a casi 100 muertes.
+El apagón llevó al gobierno federal de los Estados Unidos a incluir disposiciones de confiabilidad a las compañías eléctricas en la Ley de Política Energética de 2005.
+Los estándares de North American Electric Reliability Corporation se convirtieron en obligatorios para los proveedores de electricidad de los Estados Unidos.
+En los Estados Unidos, la administración Bush había enfatizado la necesidad de introducir cambios en la política energética nacional, la protección de las infraestructuras críticas y la seguridad nacional.
+Durante el apagón, la mayoría de los sistemas que detectan cruces fronterizos no autorizados, aterrizajes en aeropuertos o que detectan accesos no autorizados a muchos sitios vulnerables fallaron.
+Había un temor considerable de que a futuro los apagones serían explotados por el terrorismo.
+Además, el fallo resaltó la facilidad con la que la red eléctrica podría ser eliminada.
+El gobierno de Ontario cayó en las elecciones anticipadas celebradas en octubre de 2003; algo debido en parte a que la energía había sido durante mucho tiempo un problema importante.
+El gobierno pudo haberse visto perjudicado por la circunstancia de que ni Quebec ni Manitoba, también fronterizas con EUA, se vieron afectados.
+La publicidad adicional que se dio a la necesidad de Ontario de importar electricidad desde los Estados Unidos, principalmente debido a una decisión del gobierno de no ampliar las capacidades de generación de energía de la provincia, también pudo haber afectado negativamente al gobierno conservador.
+El manejo de la crisis del primer ministro Ernie Eves también fue criticado; no se supo nada hasta mucho después de que en Nueva York el alcalde Michael Bloomberg y el gobernador George Pataki hubiesen acusado a Ontario ser el punto de origen del apagón.
+Debido a los anuncios regulares que realizó en los días posteriores al apagón, Eves disfrutó de un aumento moderado en las encuestas que su partido tomó como señal de la oportunidad de convocar una elección que podrían ganar, pero en cambio perdieron.
+Al atardecer del 14 de agosto, la energía había sido restaurado a:
+La compañía Consolidated Edison retiró su afirmación de que la ciudad de Nueva York tendría energía para la 1 a.m. Esa noche, algunas áreas de Manhattan recuperaron la energía aproximadamente a las 5 a.m. (15 de agosto), el distrito de Staten Island de la ciudad de Nueva York recuperó la energía alrededor de las 3 a.m. del 15 de agosto.
+Niagara Mohawk predijo que la ciudad de Niagara Falls tendría que esperar hasta las 8 a.m. En el distrito de Brooklyn (Nueva York), la energía no se restauró completamente hasta aproximadamente la puesta del sol el 15 de agosto.
+En la tarde del 15 de agosto, dos aeropuertos, el Cleveland Hopkins y el Pearson de Toronto, estaban nuevamente en servicio.
+La mitad de la parte afectada de Ontario tenía energía en la mañana del 15 de agosto, aunque en las áreas donde había vuelto a conectarse algunos servicios aún estaban interrumpidos o se estaban ejecutando en niveles más bajos.
+Las últimas áreas en recuperar energía tuvieron problemas en las subestaciones eléctricas locales que no estaban directamente relacionadas con el apagón en sí.
+Para el 16 de agosto, la energía fue completamente restaurada en Nueva York y Toronto.
+El metro y los tranvías de Toronto permanecieron fuera de servicio hasta el 18 de agosto para evitar la posibilidad de que los convoyes se atascasen en ubicaciones incómodas si se interrumpía nuevamente la alimentación.
+La energía se había restaurado principalmente en Ottawa, aunque las autoridades advirtieron sobre posibles interrupciones adicionales y aconsejaron la contención en el uso de la electricidad a medida que continuaba restaurándose en otras áreas.
+Se pidió a los habitantes de Ontario que redujeran su uso de electricidad en un 50% hasta que todas las estaciones generadoras pudieran volver a estar en línea.
+Cuatro quedaron fuera de servicio el 19.
+Las vallas publicitarias iluminadas estuvieron en gran medida inactivas durante la semana posterior al apagón, y muchas tiendas tenían solo una parte de sus luces encendidas.
+Los preparativos contra las posibles interrupciones amenazadas por el problema del año 2000, que trajeron la instalación de nuevos softwares y sistemas eléctricos, permitieron una restauración relativamente rápida de la energía en algunas áreas.
+En Estados Unidos y Canadá, el apagón regional dominó las transmisiones de noticias y los titulares de noticias a partir del 15 de agosto.
+Las redes de televisión de Estados Unidos y Canadá se adelantaron a la programación normal a favor de una cobertura a tiempo completo y sin publicidad de la historia en desarrollo.
+Una vez que el terrorismo se había descartado definitivamente como causa, muchas estaciones volvieron a la programación normal después de las 8:30 p.m., cuando acabó el discurso del presidente George W. Bush.
+Las estaciones de noticias nacionales, como la CBC y la CNN, continuaron cubriendo la historia invitando a políticos y expertos en electricidad a discutir la situación y sugerir formas de prevenir los apagones.
+A nivel internacional, la cobertura de la historia se centró en el desarrollo de la situación en el área metropolitana de la ciudad de Nueva York.
+Durante las dos primeras horas del evento, varios funcionarios ofrecieron explicaciones especulativas sobre su causa raíz:
+En Ontario, algunas ciudades participaron en los desafíos o eventos de conservación de energía para recordar a los ciudadanos el apagón, siendo el evento más conocido el Día del Apagón Voluntario organizado por la Autoridad de Energía de Ontario (Ontario Power Authority, OPA).
+Durante estos eventos, se alentó a los ciudadanos a maximizar sus actividades de conservación de energía.
+Ciudades más pequeñas como London, Guelph, Woodstock y Waterloo participaron en los desafíos cada año.
+El último Día de Apagón Voluntario se llevó a cabo el 14 de agosto de 2010 con la OPA moviéndose hacia más esfuerzos de conservación de energía durante todo el año.

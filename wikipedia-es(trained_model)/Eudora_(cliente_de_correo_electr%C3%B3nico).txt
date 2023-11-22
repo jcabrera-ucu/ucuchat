@@ -1,0 +1,27 @@
+Eudora es un cliente de correo electrónico para Apple Macintosh y Microsoft Windows, así como varias plataformas PDA en las que se incluye Newton y Palm OS.
+Steve Dorner comenzó el desarrollo de Eudora en el año 1988.
+Qualcomm adquirió Eudora en el año 1991.
+En el 2006 Qualcomm detuvo el desarrollo de la versión comercial y patrocinó la creación de una versión de código abierto basada en Mozilla Thunderbird cuyo nombre en clave fue Penelope.
+En un principio Eudora se distribuía de manera gratuita, posteriormente se comercializaron varias versiones: Eudora Light (freeware) y Eudora Pro (comercial).
+Entre los años 2003 y 2006, la versión Pro completa también estaba disponible de manera gratuita como software adware.
+En la versión 6.0.1 se añadió soporte para los filtros bayesianos de filtrado de spam con una característica llamada SpamWatch.
+Eudora (6.2) añadió utilidades para intentar prevenir el phishing señalando los enlaces sospechosos en los enlaces de los correos electrónicos.
+En la versión 7.0 se añadió Ultra-Fast Search, que permitía encontrar correos electrónicos usando uno o varios criterios de búsqueda en segundos.
+Eudora guarda los correos electrónicos en formato mbox, que usa texto plano, en lugar de una base de datos, como hace Microsoft Outlook.
+Esto permite al usuario salvaguardar partes de sus correos sin tener que copiar la base de datos completa.
+Eudora soporta los protocolos POP3, IMAP y SMTP.
+También soporta SSL y, en Windows, la autenticación S/MIME, lo que permite a los usuarios firmar o cifrar sus correos electrónicos para mayor seguridad.
+Este programa cuenta con un gran número de opciones para adaptar su comportamiento, muchas de las opciones no están disponibles directamente en la interfaz del usuario, pero se puede acceder a elles usando las diferentes URIs "x-eudora-setting".
+Durante un tiempo, Eudora también ofreció una versión webmail en eudoramail.com.
+El servicio se puso a cargo de Lycos como parte de Mailcity, (posteriormente renombrado como Lycos Mail).
+Desde el 2006 las cuentas de eudoramail redirigen hacia el servicio de Lycos Mail.
+El 11 de octubre de 2006, Qualcomm anunció que las futuras versiones de Eudora estarían basadas en la tecnología de Mozilla Thunderbird y que sería un cliente de código abierto.
+El nombre en clave para este proyecto es ‘’Penelope’’.
+Penelope fue desarrollado por la Mozilla Foundation, y liderado por el equipo de Qualcomm, incluyendo a su desarrollador original Steve Dorner.
+Penelope está disponible como una extensión (add-on) para Mozilla Thunderbird, actualmente compatible desde la versión 3.0.4 La versión de pago de Eudora no existe desde el 1 de mayo de 2007.
+La versión Light sigue disponible para su descarga.
+El 19 de julio de 2007, los desarrolladores anunciaron la primera beta oficial (Eudora 8.0.0b1), y publicaron una lista de progresos.
+A mediados de 2010 se publicó la última versión beta (Eudora 8.0b9) que cierra el ciclo de numeración clásica de Eudora.
+En septiembre de 2010 se lanza la versión final y se decide empezar una nueva numeración desde 1.0 con el nombre Eudora OSE (Open Source Edition) puesto que el programa ya no tiene fines comerciales.
+Esta versión 1.0 tiene el motor de Thunderbird 3.0.4.
+Desde entonces no se han vuelto a publicar más versiones (junio de 2016)

@@ -1,0 +1,7 @@
+Shihab al-Din abu 'l-Abbas Ahmad ben Ali ben Ahmad Abd Alá al-Qalqashandi (1355 o 1356 &#x2013; 1418) fue un escritor y matemático medieval egipcio.
+Nacido en un pueblo en el Delta del Nilo, al-Qalqashandi fue escribano del rollo (katib al-darj) en la cancillería mamluca de El Cairo.
+Fue el autor de Subh al-a esha, en catorce volúmenes en 1412, "uno de las expresiones finales de la literatura administrativa árabe".
+El Subh al-a esha incluía una sección en criptografía.
+Su contenido se atribuía a Ibn al-Durayhim (1312 a 1361), cuyas escrituras se han perdido.
+El texto describe cifrados de sustitución y transposición, y por primera vez, un cifrado de sustituciones múltiples para cada letra.
+También atribuye a Ibn al-Durayhim avances de criptoanálisis, como el uso de tablas de frecuencias de letras y conjuntos de letras que no pueden ocurrir juntos en una misma palabra.

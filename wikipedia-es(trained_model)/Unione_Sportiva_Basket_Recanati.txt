@@ -1,0 +1,15 @@
+El U.S.Basket Recanati fue un equipo de baloncesto italiano con sede en la ciudad de Recanati, Marcas.
+Competía en la Serie B, la tercera división del baloncesto en Italia hasta su desaparición en 2018.
+Disputaba sus partidos en el Palasport Cingolani, con capacidad para 1.000 espectadores.
+{| class="toccolours" style="font-size: 95%; width: 80%; "
+! colspan="2" style="background-color: yellow; color: #000033; text-align: center;" |  U.S.Basket Recanati 2015-2016
+! Jugadores !!
+Entrenadores
+{| class="sortable" style="background:transparent; margin:0px; width:100%;"
+! Pos.
+!! # !! Nac.
+!! Nombre !!
+Altura !!
+Peso !!
+Procedencia
+}

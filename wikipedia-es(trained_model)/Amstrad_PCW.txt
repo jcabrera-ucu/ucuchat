@@ -1,0 +1,35 @@
+La gama Amstrad PCW (Personal Computer Word processor) de ordenadores fue creada por la compañía británica Amstrad, que la lanzó en 1985
+Siguiendo la costumbre de Amstrad, se le adjudicó en desarrollo el nombre en clave Joyce (que hacía referencia a la secretaria de Alan Sugar, fundador de Amstrad).
+Este nombre fue usado comercialmente por Schneider en Alemania para designar a los dos modelos que fabricó bajo licencia (Schneider Joyce y Schneider Joyce Plus), y es empleado generalmente como segundo nombre de la gama.
+Su uso está muy generalizado en emuladores, páginas web y clubs de usuarios.
+La idea se le ocurrió a Sugar durante un viaje en avión de Japón a Hong Kong en julio de 1984, que envía un fax urgente con las líneas a su central.
+El proyecto inicial comprendía un monitor en formato DIN A4 y 80 columnas, sin color ni sonido, con la impresora integrada en el mismo al igual que las unidades de disco, y todo el soft en ROM, para que fuera enchufar y listo, siguiendo la filosofía de la casa.
+Se encargó su desarrollo al mismo equipo de empresas (MEJ y Locomotive Software) que se hizo cargo del de los Amstrad CPC.
+Estos comienzan por descartar la impresora integrada debido a los problemas de interferencias, eliminan la interfaz Centronics opcional (para economizar en el coste de una CPU + RAM en la impresora) y descartan el soft en ROM por los problemas adicionales de localización y actualización que hubiera creado.
+El monitor A4 se abandona pero en su lugar se usa uno capaz de 90x32 líneas de texto (720x256 pixeles) en fósforo verde.
+Se opta por un Zilog Z80 a 4 MHz porque es 10 veces más económico que un Intel 80286, es bien conocido, y al no estar sujeto a estándares se puede hacer un diseño compacto (la placa del Amstrad PCW 8256 tiene 17 chips, de los que 8 son de memoria, uno es el controlador de disquete NEC D765 y otro la CPU).
+Para economizar más en los gastos, se diseña un nuevo protocolo de control de impresora de bajo nivel, que permite situar en la placa madre la mayoría de circuitos junto con la fuente de alimentación de todo el sistema.
+Así en la impresora en sí solo se sitúan los componentes electromecánicos y las señales de control del motor y las agujas de la impresora se realizan por un pequeño microcontrolador en la placa del PCW (con lo que la impresora no puede ser usada por otro equipo).
+Para permitir su ampliación se ponen todas las señales en un bus de ampliación.
+Los 128 KB iniciales pueden ampliarse a 256 gracias a una bajada en el coste de la memoria (se han comenzado a fabricar masivamente los clónicos y el NEC 41256 es utilizado en todos ellos) y se provisionan 8 zócalos para una sencilla ampliación.
+Aunque el Z80 solo puede direccionar 64 KB, se utilizan técnicas de conmutación de bancos de memoria que dividen la memoria en bloques de 16 KB de los que 4 están siempre disponibles.
+Se elige por ello como sistema operativo el CP/M 3.1 (que soporta esta técnica) lo que le abre una vasta biblioteca de programas, sobre todo de gestión.
+Quizá por la amplia cantidad de soft ya disponible en disco de 3 pulgadas se opta por conservarlo en las dos primeras generaciones.
+Así en un solo disco se entrega por una cara el CP/M junto con el potente Mallard BASIC y la implementación de Digital Research del Lenguaje de programación Logo (creado por Seymour Papert), y por la otra el responsable en un 50% del éxito del PCW : el procesador de textos LocoScript.
+Este último tiene la particularidad de no necesitar sistema operativo.
+En el PCW original se ha eliminado la ROM.
+Al encenderse o provocarse un RESET, el Z80 le pasa el control al microcontrolador encargado de la impresora (que está conectado a su bus de datos) enviándole instrucciones que permitan que todo comience a funcionar.
+Este código tuvo que ser muy pequeño para caber en la ROM limitada del microcontrolador, y por ello no tiene ningún código de generación de caracteres; por eso los Amstrad PCW no exhiben texto para indicar la carga de soft desde el disquete, sino que muestran una pantalla brillante que se llena progresivamente de rayas negras mientras que se carga el código.
+Aunque la pantalla del PCW nunca se concibió para videojuegos, varios de ellos fueron portados, entre ellos Batman, Head Over Heels, y Bounder.
+La pantalla del PCW, con 720 x 256 en modo bitmap, ocupa 23 KB de RAM, lo que hace del scroll por software algo muy lento para una manipulación fluida del texto.
+Para mejorar la situación el PCW implementa roller RAM, con un área de 512 bytes de RAM para almacenar la dirección de cada línea de la pantalla, lo que permite un scroll muy rápido.
+También almacena los datos en un orden especial diseñado para que al dibujar un carácter de ocho scanlines de alto sean ocho direcciones contiguas.
+Esto permite utilizar instrucciones muy rápidas de copia de datos del Z80, como LDIR.
+Por desgracia, esto hace que dibujar líneas y otras capas sea algo muy complicado.
+Aparte de los cambios en la unidad de disquete, el color del monitor o el añadido de puerto paralelo (y su soporte por soft), no se producen cambios sustanciales en la gama hasta que aparece el PcW16, que no comparte nada del hard (ni del soft) con el resto de la gama y de hecho puede considerarse una máquina totalmente diferente.
+La gama PCW tiene un éxito extremo en adueñarse de un nicho de mercado.
+Estos ordenadores no se comercializaron como equipos de propósito general, sino como procesadores de texto.
+No eran rival para un PC o un Commodore Amiga; pero frente a una máquina de escribir, aunque fuera una moderna IBM Selectric o los caros equipos con pantalla dedicada de Olivetti ganaban por goleada.
+La pantalla del PCW mostraba 32 líneas de 90 caracteres cada (256 líneas de 720 pixeles), lo que superaba ampliamente los 80×25 habituales.
+Además su capacidad de imprimir un documento mientras se procesaba otro, todo ello sin tener que saber una coma de informática, hizo que una generación de escritores (particularmente secretarias) se iniciaran en el manejo de un ordenador (no olvidemos que era un sistema compatible CP/M capaz de manejar hojas de cálculo o llevar la contabilidad), al que nunca se hubieran sentido motivados de utilizar de otra forma.
+En España muchas empresas mantuvieron equipos PCW hasta que el efecto 2000 y la implantación del Euro forzaron la renovación del parque informático.

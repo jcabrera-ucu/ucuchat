@@ -1,0 +1,34 @@
+Variola virus es un virus que infecta exclusivamente al ser humano.
+Produce la enfermedad de la viruela.
+Después de la erradicación de la viruela en el año 1980, oficialmente se conservan dos cepas del virus: una en el Centro para el Control y Prevención de Enfermedades (CDC) de Atlanta, Estados Unidos, y otra en el Centro Estatal de Virología y Biotecnología VECTOR («Instituto VECTOR») de Novosibirsk en Rusia.
+Variola virus es un virus ADN bicatenario.
+La existencia de ADN en el virus fue determinada en 1940 y su estructura bicatenaria fue descubierta en 1962.
+La secuencia completa de su ADN se publicó al principio de la década de 1990.
+Variola virus contiene una molécula lineal, simple, de ADN bicatenario, de 130 a 375 kb que se replica en el citoplasma celular.
+Se conforman como ladrillos en las micrografías electrónicas y miden alrededor de 300x250x200 nm.
+Posee dos membranas virales: la membrana externa, de estructura tubular, presente solo en el virus fuera de la célula, proviene de la propia célula, mientras que la interna es propia del virus y tiene una simetría compleja.
+La cápside es forma de manillar, con los lados de los grupos de proteínas, llamados cuerpos laterales, cuya función se ignora.
+Dentro del límite había un ADN viral, compuesto de aproximadamente 186 000 pares de bases y aproximadamente diez enzimas involucradas en la transcripción del ADN.
+Está compuesto por una membrana de doble capa lipídica de 50 a 55 nm de espesor, con la superficie externa cubierta por elementos tubulares de 7 nm de ancho por 100 nm de largo que le dan al virus una textura particular.
+El virus de la viruela infecta solo a los humanos en la naturaleza, aunque los primates y otros animales se han infectado en un laboratorio.
+Los poxvirus Vaccinia, Cowpox y Monkeypox pueden infectar tanto a los humanos como a otros animales en la naturaleza.
+El ciclo de vida de los poxvirus se complica por tener múltiples formas infecciosas, con diferentes mecanismos de entrada de células.
+Los poxvirus son únicos entre los virus de ADN porque se replican en el citoplasma de la célula en lugar de en el núcleo.
+Para replicarse, los poxvirus producen una variedad de proteínas especializadas no producidas por otros virus de ADN, el más importante de los cuales es una ARN polimerasa dependiente del ADN asociado al virus.
+Tanto los viriones envueltos como los no envueltos son infecciosos.
+La envoltura viral está hecha de membranas de Golgi modificadas que contienen polipéptidos específicos de virus, incluida la hemaglutinina.
+A finales de los años sesenta, la viruela era aún endémica en África y Asia.
+Las campañas de vacunación, la vigilancia y las medidas de prevención emprendidas por la OMS para contener los focos epidémicos, así como la mejor información suministrada a las poblaciones afectadas, fueron las estrategias utilizadas para combatir la enfermedad.
+La viruela fue declarada oficialmente erradicada en 1980, y es la primera enfermedad humana combatida a escala mundial.
+Este éxito extraordinario se logró gracias a la colaboración de países de todo el mundo.
+Según un acuerdo firmado entre Estados Unidos y la Unión Soviética en 1990, la destrucción del virus debería haber ocurrido antes del fin del año 1993.
+Sin embargo un equipo de investigadores de seis países del CDC, reconoció que la destrucción de los virus depositados en Estados Unidos y Rusia no constituye una garantía total: «Siempre es posible que un virus de viruela haya estado deliberadamente conservado en algún lugar del mundo por gobiernos o grupos sociales con el fin de contar con esa arma biológica».
+En marzo de 2004, se encontraron costras de viruela dentro de un sobre en un libro sobre medicina de la Guerra Civil en Santa Fe, Nuevo México.
+El sobre fue etiquetado como que contenía costras de una vacuna y dio a los científicos de los Centros para el Control y Prevención de Enfermedades la oportunidad de estudiar la historia de la vacunación contra la viruela en los Estados Unidos.
+El 1 de julio de 2014, se descubrieron seis frascos de vidrio sellados de viruela con fecha de 1954, junto con muestras de otros agentes patógenos, en una cámara frigorífica en un laboratorio de la FDA en los Institutos Nacionales de la Salud en Bethesda, Maryland, estos se transfirieron posteriormente a la custodia de los CDC en Atlanta, donde el virus tomado de al menos dos viales resultó viable en el cultivo.
+Después de que se realizaron los estudios, los CDC destruyeron el virus bajo observación de la OMS el 24 de febrero de 2015.
+En 2012, en una fosa común de Siberia sepultada hace tres siglos, un grupo de arqueólogos desenterró cinco momias congeladas, inhumadas juntas alrededor del año 1714 en Churapcha, a pocos cientos de kilómetros del Círculo Polar Ártico.
+La autopsia de una de las momias reveló que murió por viruela, ya que en el tejido pulmonar de la momia se observaron fragmentos del ADN del virus, que resultaron ser inofensivos.
+En 2017, los científicos canadienses recrearon un extinto virus de la viruela del caballo para demostrar que el virus de la viruela puede ser recreado en un pequeño laboratorio a un costo de aproximadamente cien mil dólares por un equipo de científicos sin conocimiento especializado.
+Esto hace que la controversia sobre la retención sea discutible, ya que el virus se puede recrear fácilmente incluso si se destruyen todas las muestras.
+Aunque los científicos realizaron la investigación para ayudar al desarrollo de nuevas vacunas, así como a rastrear la historia de la viruela, la posibilidad de que las técnicas se usaran con propósitos infames se reconoció de inmediato, lo que condujo a nuevas preguntas reglamentarias.

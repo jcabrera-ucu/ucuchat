@@ -1,0 +1,72 @@
+Los excavados (Excavata) son uno de los grandes grupos de protistas unicelulares, incluyendo organismos de vida libre, simbiontes y algunos importantes parásitos de los humanos.
+Se conocen unas 2300 especies de excavados.
+La mayoría son heterótrofos, tienen dos, cuatro, o más flagelos y se caracterizan por un surco ventral de alimentación, utilizado para capturar e ingerir pequeñas partículas con la ayuda de las corrientes generadas por los flagelos.
+Este surco ventral excavado es el que da el nombre al grupo.
+Uno de los grupos incluye organismos fotosintéticos cuyos cloroplastos se supone los han obtenido por endosimbiosis secundaria de un alga verde.
+Entre los parásitos de este grupo destacan los tripanosomas, causantes de la enfermedad del sueño y de la enfermedad de Chagas.
+La morfología de los excavados es muy variada.
+Muchos se caracterizan por tener un surco ventral de alimentación, con una ultraestructura característica, soportado por microtúbulos.
+Este aparato digestivo ventral, que presentan muchos de sus miembros, aunque no todos, es utilizado para capturar e ingerir pequeñas partículas con la ayuda de las corrientes generadas por los flagelos.
+En cambio, los euglenozoos presentan un bolsillo o invaginación apical o subapical en vez de un surco ventral.
+Este puede consistir en un canal angosto y un reservorio, que no intervienen en la ingestión de alimentos, pero las formas heterótrofas presentan un citostoma, un aparato destinado a la ingestión de partículas, próximo e independiente de la invaginación anterior.
+Varios otros grupos carecen del surco de alimentación ventral, pero se clasifican con los excavados por tener un morfología similar o sobre la base de estudios filogenéticos.
+Los excavados generalmente son heterótrofos (fagotrofos u osmotrofos).
+Algunos son de vida libre, alimentándose de partículas, bacterias o de otros pequeños organismos.
+Otros son simbiontes en el tracto digestivo de los insectos, ayudándoles a digerir la celulosa, mientras que otros son comensales o parásitos.
+Se incluyen también algunas especies que causan graves enfermedades en los seres humanos, como los tripanosomas, Trichomonas y Naegleria.
+Algunos euglenozoos tienen cloroplastos, que están contenidos en tres membranas y pigmentados con clorofilas a y b, similarmente a los de las plantas, sugiriendo que fueron adquiridos a partir la incorporación de un alga verde.
+Estos suelen haber perdido el citostoma y usualmente presentan otras adaptaciones a una vida autotrófica, tales como manchas oculares sensibles a la luz.
+Otra característica distintiva del grupo es la organización del aparato flagelar, que suele incluir dos, cuatro, o más flagelos.
+Sin embargo, otros son ameboides y algunos grupos presentan formas ameboides, ameboflageladas y quistes, pudiendo alternar entre ellas a lo largo de su ciclo de vida.
+Existe también un grupo de seudohongos (Acrasida), con un ciclo de vida que comprende las etapas ameboide, seudoplasmodio y cuerpo fructífero.
+Muchos excavados presentan mitocondrias con crestas tubulares, discoidales o, en algunos casos, planas.
+Muchos otros son anaerobios, pues viven en ambientes pobres en oxígeno como sedimentos o el tracto digestivo de algunos animales, carecen de las mitocondrias "clásicas" y a menudo se les denomina amitocondriales, aunque la mayoría, a pesar de todo, retienen un orgánulo mitocondrial en una forma grandemente modificada (por ejemplo, un hidrogenosoma o mitosoma).
+La reproducción asexual en los excavados se realiza mediante fisión binaria, aunque Acrasida forma un cuerpo fructífero que produce esporas (de forma similar a los mixomicetos).
+La reproducción sexual se ha observado en algunos pocos casos, aunque no se han encontrado ejemplos en algunos grupos, como en los euglenozoos.
+No todos los grupos considerados como excavados comparten estas características, pero han sido incluidos en el grupo sobre la base de análisis moleculares.
+Los grupos que presentan el surco de alimentación ventral son: Jakobea, Percolozoa, Fornicata, Trimastix y Malawimonas, si bien la mayoría de las especies de Percolozoa presentan células vegetativas ameboides.
+En cambio, Parabasalia y Oxymonadida han sufrido transformaciones en la forma básica y han perdido la ranura de alimentación.
+Por su parte, los euglenozoos se alimentan mediante un aparato de ingestión tubular (bolsillo apical o subapical) en vez de un surco ventral.
+La clasificación de los excavados es difícil.
+De acuerdo con análisis filogenéticos recientes se han subdividido en siete grupos, que pueden ser considerados filos o clases.
+Un organismo adicional,  Malawimonas, podría ser incluido entre los excavados, aunque existen dudas.
+El supergrupo Discoba incluye a Jakobea + Tsukubea + Euglenozoa + Percolozoa, mientras que Metamonada incluye al resto.
+Jakobea es un pequeño grupo de formas de vida libre, flageladas y heterotrófas, con un rico genoma mitocondrial.
+Tienen dos flagelos, insertados cerca de un extremo de la célula y asociados al surco de alimentación.
+La acción de los flagelos genera una corriente que mueve las partículas en suspensión hacia el surco, donde son fagocitadas.
+Algunas veces presentan una testa (armadura).
+Incluye, entre otros, los géneros Jakoba y Reclinomonas.
+Tsukubea comprende el género Tsukubamonas, organismos biflagelados nadadores con un surco de alimentación utilizado para capturar presas.
+Euglenozoa es un gran grupo de protozoos flagelados que incluye varias formas de vida libre así como unas pocas parásitas, algunas de las cuales son importantes patógenos de los seres humanos.
+La mayoría de estos organismos se alimentan ingiriendo organismos más pequeños, típicamente bacterias, o por absorción.
+Algunos euglénidos como Euglena presentan cloroplastos.
+Estos suelen haber perdido el citostoma y usualmente presentan otras adaptaciones a una vida autotrófica, tales como manchas oculares sensibles a la luz.
+Otros como Trypanosoma producen serias enfermedades en los seres humanos.
+La mayoría poseen dos flagelos, usualmente uno orientado hacia adelante y el otro hacia atrás, que se insertan en un bolsillo apical o subapical.
+Percolozoa (=Heterolobosea) es un grupo de protistas sin cloroplastos, muchos de cuyos miembros pueden alternar entre etapas ameboides, flageladas y quistes.
+La mayoría vive en el suelo, agua dulce o en las heces.
+Hay algunas formas marinas y parásitas, incluyendo la especie Naegleria fowleri, que puede llegar a ser patógena para los seres humanos y a menudo fatal.
+Metamonada es un grupo de flagelados inusuales por carecer de mitocondrias.
+Son todos anaerobios y en su mayoría simbiontes de animales.
+Ciertas especies viven en el tracto digestivo de las termitas, desempeñando un papel importante en la degradación de la celulosa.
+Algunas formas son parásitas, incluyendo algunas que parasitan a los seres humanos.
+Los vestigios mitocondriales incluyen los hidrogenosomas, que producen el hidrógeno.
+Las células pueden tener uno o dos núcleos.
+Todos los subgrupos comparten el hecho de tener flagelos en grupos característicos de cuatro, que a menudo se asocian a los núcleos.
+Los restos fósiles más antiguos pertenecientes a un excavado tienen unos 450 millones de años y corresponden a Moyeria.
+Este fósil, encontrado en antiguos sedimentos dulceícolas, presenta una singular arquitectura corporal bihelical compuesta por bandas fusionadas con un tamaño de 40 por 20 μm.
+Por otra parte algunos fósiles de la biota francevillense de 2100 millones de años podrían pertenecer a Excavata, especialmente a los acrasidos ya que estos organismos fueron mohos mucilaginosos.
+Podían tener un estado de vida pluricelular y uno unicelular ya que se desarrollarían de agregados celulares capaces de formar cuerpos fructíferos plasmodiales.
+Esto indica que los mohos mucilaginosos surgieron muy tempranamente en la evolución.
+Sólo el parentesco entre Euglenozoa y Percolozoa se apoya sobre datos moleculares robustos; ambos grupos tienen además mitocondrias con crestas discoidales.
+La mayoría de los Jacobea tienen crestas tubulares, como la mayoría de los demás protistas, mientras que los Metamonada son inusuales por haber perdido las mitocondrias clásicas; en vez de ello tienen hidrogenosomas, mitosomas u orgánulos no caracterizados.
+Un taxón, Loukozoa, ha sido continuamente redefinido para incluir a una gran variedad de grupos (entre ellos Jacobea y Malawimonas).
+La monofilia de Excavata está sustentada por algunos estudios filogenéticos:
+Los excavados han sido considerados como los Eukarya más primitivos, principalmente porque varios de ellos no poseen mitocondrias y porque aparecen basales en los árboles filogenéticos.
+Esto sugeriría que los excavados son un taxón parafilético que incluye a los antepasados de los demás eucariontes.
+Sin embargo, se ha demostrado que la ausencia de mitocondrias en algunos de estos grupos es debida a una pérdida y que la posición basal de estos grupos podría ser debida al artefacto de atracción de ramas largas.
+Si bien las relaciones entre los distintos grupos de excavados son todavía inciertas, algunos estudios rechazan su monofilia y sugieren que Excavata sería un grupo parafilético basal eucariota:
+Los grupos de excavados se muestran en negrita:
+Otros estudios de proteínas bacterianas encontraron que algunos grupos de excavados están más relacionados con otros grupos de eucariotas que otros excavados, en este caso Discoba estaría relacionado con los corticados mientras que Ancyromonadida y Malawimonadea estarían más emparentados con los podiados:
+La posición de Excavata como grupo basal parafilético eucariota está respaldada por la mayoría de investigadores; sin embargo, la solución de la filogenia en excavados se ha mostrado muy desafiante.
+Por otro lado, se ha determinado que la inclusión del grupo Ancyromonadida en futuros estudios filogenéticos, es importante para resolver las relaciones entre todos estos grupos.

@@ -1,0 +1,117 @@
+La frecuencia de red es el valor nominal de las oscilaciones de corriente alterna (CA) en una red síncrona de área amplia transmitida desde una central eléctrica al usuario final.
+En gran parte del mundo es de 50 Hz, aunque en partes de América y partes de Asia suele ser de 60 Hz. El uso actual por país o región se proporciona en la lista de electricidad de red por país.
+Durante el desarrollo de los sistemas comerciales de energía eléctrica a fines del siglo XIX y principios del XX, se utilizaron muchas frecuencias (y voltajes) diferentes.
+La gran inversión en equipos en una frecuencia hizo que la estandarización fuera un proceso lento.
+Sin embargo, a principios del siglo XXI, los lugares que ahora usan la frecuencia de 50 Hz tienden a usar 220–240 V, y los que ahora usan 60 Hz tienden a usar 100–127 V. Ambas frecuencias coexisten hoy (Japón usa ambas) sin una gran razón técnica para preferir una y sin un deseo aparente de estandarización mundial completa.
+En la práctica, la frecuencia exacta de la red varía alrededor de la frecuencia nominal, reduciéndose cuando la red está muy cargada y acelerándose cuando la carga es ligera.
+Sin embargo, la mayoría de las empresas de servicios públicos ajustarán la frecuencia de la red a lo largo del día para garantizar que se produzca un número constante de ciclos.
+Esto es utilizado por algunos relojes para mantener con precisión su tiempo.
+Varios factores influyen en la elección de la frecuencia en un sistema de CA. La iluminación, los motores, los transformadores, los generadores y las líneas de transmisión tienen características que dependen de la frecuencia de la red.
+Todos estos factores interactúan y hacen que la selección de una frecuencia industrial sea un asunto de considerable importancia.
+La mejor frecuencia es un compromiso entre requisitos contradictorios.
+A fines del siglo XIX, los diseñadores elegían una frecuencia relativamente alta para los sistemas con transformadores y luces de arco, para economizar en los materiales del transformador y reducir el parpadeo visible de las lámparas, pero elegían una frecuencia más baja para los sistemas con líneas de transmisión largas o alimentando principalmente cargas de motores o convertidores rotativos para producir corriente continua.
+Cuando las grandes centrales generadoras se hicieron prácticas, la elección de la frecuencia se hizo en función de la naturaleza de la carga prevista.
+Eventualmente, las mejoras en el diseño de la máquina permitieron usar una sola frecuencia tanto para la iluminación como para las cargas del motor.
+Un sistema unificado mejoró la economía de la producción de electricidad, ya que la carga del sistema fue más uniforme durante el transcurso del día.
+Las primeras aplicaciones de la energía eléctrica comercial fueron la iluminación incandescente y los motores eléctricos de tipo conmutador.
+Ambos dispositivos funcionan bien con CC, pero el voltaje de CC no se podía cambiar fácilmente y, por lo general, solo se producía con el voltaje de utilización requerido.
+Si una lámpara incandescente funciona con una corriente de baja frecuencia, el filamento se enfría en cada medio ciclo de la corriente alterna, lo que provoca un cambio perceptible en el brillo y el parpadeo de las lámparas; el efecto es más pronunciado con las lámparas de arco y las lámparas de vapor de mercurio y las lámparas fluorescentes posteriores.
+Las lámparas de arco abierto producían un zumbido audible en la corriente alterna, lo que llevó a experimentos con alternadores de alta frecuencia para elevar el sonido por encima del rango del oído humano.
+Los motores de tipo conmutador no funcionan bien con CA de alta frecuencia, porque la inductancia del campo del motor se opone a los rápidos cambios de corriente.
+Aunque los motores universales de tipo conmutador son comunes en electrodomésticos y herramientas eléctricas de CA, son motores pequeños, de menos de 1 kW.
+Se descubrió que el motor de inducción funcionaba bien en frecuencias de alrededor de 50 a 60 Hz, pero con los materiales disponibles en la década de 1890 no funcionaría bien a una frecuencia de, digamos, 133 Hz. Existe una relación fija entre el número de polos magnéticos en el campo del motor de inducción, la frecuencia de la corriente alterna y la velocidad de rotación; entonces, una velocidad estándar dada limita la elección de la frecuencia (y viceversa).
+Una vez que los motores eléctricos de CA se volvieron comunes, fue importante estandarizar la frecuencia para que fuera compatible con el equipo del cliente.
+Los generadores que funcionan con motores alternativos de baja velocidad producirán frecuencias más bajas, para un número determinado de polos, que los que funcionan, por ejemplo, con una turbina de vapor de alta velocidad.
+Para velocidades muy lentas del motor primario, sería costoso construir un generador con suficientes polos para proporcionar una frecuencia de CA alta. Además, se descubrió que sincronizar dos generadores a la misma velocidad era más fácil a velocidades más bajas.
+Si bien las transmisiones por correa eran comunes como una forma de aumentar la velocidad de los motores lentos, en clasificaciones muy grandes (miles de kilovatios) eran costosas, ineficientes y poco confiables.
+Después de aproximadamente 1906, los generadores accionados directamente por turbinas de vapor favorecieron las frecuencias más altas.
+La velocidad de rotación más constante de las máquinas de alta velocidad permitió una operación satisfactoria de los conmutadores en los convertidores rotativos.
+La velocidad sincrónica N en RPM se calcula usando la fórmula,
+donde f es la frecuencia en hercios y P es el número de polos.
+La energía de corriente continua no fue completamente desplazada por la corriente alterna y fue útil en procesos ferroviarios y electroquímicos.
+Antes del desarrollo de los rectificadores de válvula de arco de mercurio, se usaban convertidores rotativos para producir energía de CC a partir de CA. Al igual que otras máquinas de tipo conmutador, estas funcionaban mejor con frecuencias más bajas.
+Con CA, los transformadores se pueden usar para reducir los altos voltajes de transmisión para reducir el voltaje de utilización del cliente.
+El transformador es efectivamente un dispositivo de conversión de voltaje sin partes móviles y que requiere poco mantenimiento.
+El uso de CA eliminó la necesidad de motores-generadores giratorios de conversión de voltaje de CC que requieren mantenimiento y monitoreo regulares.
+Dado que, para un nivel de potencia dado, las dimensiones de un transformador son aproximadamente inversamente proporcionales a la frecuencia, un sistema con muchos transformadores sería más económico a una frecuencia más alta.
+La transmisión de energía eléctrica a través de líneas largas favorece las frecuencias más bajas.
+Los efectos de la capacitancia e inductancia distribuidas de la línea son menores a baja frecuencia.
+Los generadores solo se pueden interconectar para operar en paralelo si tienen la misma frecuencia y forma de onda.
+Al estandarizar la frecuencia utilizada, los generadores en un área geográfica pueden interconectarse en una red, brindando confiabilidad y ahorro de costos.
+En el siglo XIX se utilizaron muchas frecuencias de potencia diferentes.
+Los esquemas de generación de CA aislados muy tempranos usaban frecuencias arbitrarias basadas en la conveniencia para el diseño de motores de vapor, turbinas de agua y generadores eléctricos.
+Se utilizaron frecuencias entre 16 2⁄3 Hz y 133 1⁄3 Hz en diferentes sistemas.
+Por ejemplo, la ciudad de Coventry, Inglaterra, en 1895 tenía un sistema de distribución monofásico único de 87 Hz que estuvo en uso hasta 1906.
+La proliferación de frecuencias surgió del rápido desarrollo de las máquinas eléctricas en el período de 1880 a 1900.
+En el período inicial de iluminación incandescente, la CA monofásica era común y los generadores típicos eran máquinas de 8 polos que funcionaban a 2000 RPM, lo que generaba una frecuencia de 133 hercios.
+Aunque existen muchas teorías y bastantes leyendas urbanas entretenidas, hay poca certeza en los detalles de la historia de 60 Hz frente a 50 Hz.
+La empresa alemana AEG (descendiente de una empresa fundada por Edison en Alemania) construyó la primera instalación generadora alemana que funcionaba a 50 Hz. En ese momento, AEG tenía un monopolio virtual y su estándar se extendió al resto de Europa.
+Después de observar el parpadeo de las lámparas operadas por la potencia de 40 Hz transmitida por el enlace Lauffen-Frankfurt en 1891, AEG elevó su frecuencia estándar a 50 Hz en 1891.
+Westinghouse Electric decidió estandarizar en una frecuencia más alta para permitir la operación de iluminación eléctrica y motores de inducción en el mismo sistema de generación.
+Aunque 50 Hz era adecuado para ambos, en 1890 Westinghouse consideró que el equipo de iluminación de arco existente funcionaba un poco mejor con 60 Hz, por lo que se eligió esa frecuencia.
+El funcionamiento del motor de inducción de Tesla, autorizado por Westinghouse en 1888, requería una frecuencia más baja que los 133 Hz comunes para los sistemas de iluminación en ese momento.
+[verifica la fuente] En 1893, General Electric Corporation, que estaba afiliada a AEG en Alemania, construyó un proyecto de generación en Mill Creek para llevar electricidad a Redlands, California usando 50 Hz, pero cambió a 60 Hz un año después para mantener la participación de mercado con el estándar de Westinghouse.
+Los primeros generadores del proyecto de las Cataratas del Niágara, construido por Westinghouse en 1895, eran de 25 Hz, porque la velocidad de la turbina ya se había fijado antes de seleccionar definitivamente la transmisión de corriente alterna.
+Westinghouse habría seleccionado una frecuencia baja de 30 Hz para impulsar las cargas del motor, pero las turbinas para el proyecto ya se habían especificado a 250 RPM.
+Las máquinas se podrían haber fabricado para proporcionar una potencia de 16 2⁄3 Hz adecuada para motores pesados de tipo conmutador, pero la empresa Westinghouse objetó que esto no sería deseable para la iluminación y sugirió 33 1⁄3 Hz. Finalmente, se eligió un compromiso de 25 Hz, con generadores de 250 RPM de 12 polos.
+Debido a que el proyecto Niagara fue tan influyente en el diseño de los sistemas de energía eléctrica, 25 Hz prevaleció como el estándar norteamericano para CA de baja frecuencia.
+Un estudio de General Electric concluyó que 40 Hz habría sido un buen compromiso entre las necesidades de iluminación, motor y transmisión, dados los materiales y equipos disponibles en el primer cuarto del siglo XX.
+Se construyeron varios sistemas de 40 Hz. La demostración de Lauffen-Frankfurt usó 40 Hz para transmitir energía a 175 km en 1891.
+Existía una gran red interconectada de 40 Hz en el noreste de Inglaterra (Newcastle-upon-Tyne Electric Supply Company, NESCO) hasta la llegada de National Grid (Reino Unido).
+) a fines de la década de 1920, y los proyectos en Italia utilizaron 42 Hz. La central hidroeléctrica comercial en funcionamiento continuo más antigua de los Estados Unidos, la planta hidroeléctrica de Mechanicville, todavía produce energía eléctrica a 40 Hz y suministra energía al sistema de transmisión local de 60 Hz a través de cambiadores de frecuencia. Las plantas industriales y las minas en América del Norte y Australia a veces se construyeron con sistemas eléctricos de 40 Hz que se mantuvieron hasta que resultaron demasiado antieconómicos para continuar. Aunque las frecuencias cercanas a 40 Hz encontraron mucho uso comercial, estas fueron pasadas por alto por frecuencias estandarizadas de 25, 50 y 60 Hz preferidas por los fabricantes de equipos de mayor volumen.
+La empresa Ganz de Hungría había estandarizado 5000 alternancias por minuto (412⁄3 Hz) para sus productos, por lo que los clientes de Ganz tenían sistemas de 412⁄3 Hz que, en algunos casos, funcionaron durante muchos años.
+En los primeros días de la electrificación, se usaban tantas frecuencias que no prevalecía ningún valor único (Londres en 1918 tenía diez frecuencias diferentes).
+A medida que avanzaba el siglo XX, se producía más energía a 60 Hz (Norteamérica) o 50 Hz (Europa y la mayor parte de Asia).
+La estandarización permitió el comercio internacional de equipos eléctricos.
+Mucho más tarde, el uso de frecuencias estándar permitió la interconexión de redes eléctricas.
+No fue sino hasta después de la Segunda Guerra Mundial, con la llegada de bienes de consumo eléctricos asequibles, que se promulgaron normas más uniformes.
+En el Reino Unido, se declaró una frecuencia estándar de 50 Hz ya en 1904, pero continuó un desarrollo significativo en otras frecuencias.
+La implementación de la Red Nacional a partir de 1926 obligó a la estandarización de frecuencias entre los muchos proveedores de servicios eléctricos interconectados.
+El estándar de 50 Hz se estableció por completo solo después de la Segunda Guerra Mundial.
+Alrededor de 1900, los fabricantes europeos se habían estandarizado en su mayoría en 50 Hz para las nuevas instalaciones.
+La Verband der Elektrotechnik alemana (VDE), en el primer estándar para máquinas eléctricas y transformadores en 1902, recomendó 25 Hz y 50 Hz como frecuencias estándar.
+VDE no vio mucha aplicación de 25 Hz y lo eliminó de la edición de 1914 del estándar.
+Las instalaciones remanentes en otras frecuencias persistieron hasta mucho después de la Segunda Guerra Mundial.
+Debido al costo de la conversión, algunas partes del sistema de distribución pueden continuar operando en las frecuencias originales incluso después de elegir una nueva frecuencia.
+Se utilizó energía de 25 Hz en Ontario, Quebec, el norte de los Estados Unidos y para la electrificación ferroviaria.
+En la década de 1950, muchos sistemas de 25 Hz, desde los generadores hasta los electrodomésticos, se convirtieron y estandarizaron.
+Hasta 2009, todavía existían algunos generadores de 25 Hz en Sir Adam Beck 1 (estos se adaptaron a 60 Hz) y las estaciones generadoras de Rankine (hasta su cierre en 2009) cerca de las Cataratas del Niágara para proporcionar energía a grandes clientes industriales que no querían para reemplazar el equipo existente; y existen algunos motores de 25 Hz y una central eléctrica de 25 Hz en Nueva Orleans para bombas de agua de inundación.
+Las redes ferroviarias de CA de 15 kV, utilizadas en Alemania, Austria, Suiza, Suecia y Noruega, todavía funcionan a 16 2⁄3 Hz o 16,7 Hz.
+En algunos casos, donde la mayor parte de la carga iba a ser ferroviaria o de motor, se consideró económico generar energía a 25 Hz e instalar convertidores rotativos para la distribución a 60 Hz. Los convertidores para la producción de CC a partir de corriente alterna estaban disponibles en tamaños más grandes y eran más eficientes a 25 Hz en comparación con 60 Hz. Los fragmentos remanentes de sistemas más antiguos se pueden vincular al sistema de frecuencia estándar a través de un convertidor rotatorio o un cambiador de frecuencia de inversor estático.
+Estos permiten que la energía se intercambie entre dos redes eléctricas a diferentes frecuencias, pero los sistemas son grandes, costosos y desperdician algo de energía en funcionamiento.
+Los cambiadores de frecuencia de máquina rotativa utilizados para convertir sistemas entre 25 Hz y 60 Hz eran difíciles de diseñar; una máquina de 60 Hz con 24 polos giraría a la misma velocidad que una máquina de 25 Hz con 10 polos, lo que haría que las máquinas fueran grandes, lentas y caras.
+Una relación de 60/30 habría simplificado estos diseños, pero la base instalada a 25 Hz era demasiado grande para oponerse económicamente.
+En los Estados Unidos, Southern California Edison se había estandarizado en 50 Hz. Gran parte del sur de California operaba con 50 Hz y no cambió por completo la frecuencia de sus generadores y equipos de clientes a 60 Hz hasta alrededor de 1948.
+Algunos proyectos de Au Sable Electric Company utilizaron 30 Hz con voltajes de transmisión de hasta 110 000 voltios en 1914.
+Inicialmente en Brasil, la maquinaria eléctrica se importaba de Europa y Estados Unidos, lo que implicaba que el país tenía estándares de 50 Hz y 60 Hz según cada región.
+En 1938, el gobierno federal promulgó una ley, el Decreto-Lei 852, con la intención de llevar a todo el país por debajo de los 50 Hz en un plazo de ocho años.
+La ley no funcionó y, a principios de la década de 1960, se decidió que Brasil se unificaría bajo el estándar de 60 Hz, porque la mayoría de las áreas desarrolladas e industrializadas usaban 60 Hz; y se declaró una nueva ley Lei 4.454 en 1964.
+Brasil se sometió a un programa de conversión de frecuencia a 60 Hz que no se completó hasta 1978.
+En México, las áreas que operan en la red de 50 Hz se convirtieron durante la década de 1970, uniendo al país bajo 60 Hz.
+En Japón, la parte occidental del país (Nagoya y el oeste) utiliza 60 Hz y la parte oriental (Tokio y el este) utiliza 50 Hz. Esto tiene su origen en las primeras compras de generadores a AEG en 1895, instalados para Tokio, y General Electric en 1896, instalados en Osaka.
+El límite entre las dos regiones contiene cuatro subestaciones HVDC adosadas que convierten la frecuencia; estos son Shin Shinano, Sakuma Dam, Minami-Fukumitsu y el convertidor de frecuencia Higashi-Shimizu.
+Todavía se utilizan otras frecuencias de potencia.
+Alemania, Austria, Suiza, Suecia y Noruega utilizan redes de energía de tracción para ferrocarriles, distribuyendo CA monofásica a 16 2⁄3 Hz o 16,7 Hz. Se utiliza una frecuencia de 25 Hz para el ferrocarril austriaco Mariazell, así como para los sistemas de energía de tracción de Amtrak y SEPTA en los Estados Unidos.
+Otros sistemas ferroviarios de CA se energizan a la frecuencia comercial local, 50 Hz o 60 Hz.
+La potencia de tracción puede derivarse de fuentes de alimentación comerciales mediante convertidores de frecuencia o, en algunos casos, puede ser producida por centrales eléctricas de tracción dedicadas.
+En el siglo XIX, se contemplaron frecuencias tan bajas como 8 Hz para el funcionamiento de los ferrocarriles eléctricos con motores conmutadores.
+Algunos enchufes en los trenes tienen el voltaje correcto, pero usan la frecuencia original de la red del tren, como 16 2⁄3 Hz o 16,7 Hz.
+Las frecuencias de energía de hasta 400 Hz se utilizan en aeronaves, naves espaciales, submarinos, salas de servidores para computadoras, equipos militares y máquinas herramienta portátiles.
+Estas altas frecuencias no pueden transmitirse económicamente a largas distancias; el aumento de la frecuencia aumenta considerablemente la impedancia en serie debido a la inductancia de las líneas de transmisión, lo que dificulta la transmisión de energía.
+En consecuencia, los sistemas de energía de 400 Hz generalmente se limitan a un edificio o vehículo.
+Los transformadores, por ejemplo, se pueden hacer más pequeños porque el núcleo magnético puede ser mucho más pequeño para el mismo nivel de potencia.
+Los motores de inducción giran a una velocidad proporcional a la frecuencia, por lo que una fuente de alimentación de alta frecuencia permite obtener más potencia para el mismo volumen y masa del motor.
+Los transformadores y motores para 400 Hz son mucho más pequeños y livianos que los de 50 o 60 Hz, lo que es una ventaja en aviones y barcos.
+Existe un estándar militar estadounidense MIL-STD-704 para el uso de aviones de 400 Hz de potencia.
+Los electrodomésticos alimentados por CA pueden emitir un zumbido característico, a menudo llamado "zumbido de red", en los múltiplos de las frecuencias de la alimentación de CA que utilizan (ver Magnetoestricción).
+Por lo general, es producido por laminaciones del núcleo del motor y del transformador que vibran al mismo tiempo que el campo magnético.
+Este zumbido también puede aparecer en sistemas de audio, donde el filtro de alimentación o el blindaje de señal de un amplificador no es el adecuado.
+La mayoría de los países eligieron que su tasa de sincronización vertical de televisión fuera la misma que la frecuencia de suministro de la red local.
+Esto ayudó a evitar que el zumbido de la línea eléctrica y la interferencia magnética causaran frecuencias de pulsación visibles en la imagen mostrada de los primeros receptores de televisión analógica, especialmente del transformador de red.
+Aunque había algo de distorsión en la imagen, pasó casi desapercibida porque estaba estacionaria.
+La eliminación de transformadores mediante el uso de receptores de CA/CC y otros cambios en el diseño del escenario ayudaron a minimizar el efecto y algunos países ahora usan una tasa vertical que es una aproximación a la frecuencia de suministro (sobre todo áreas de 60 Hz).
+Otro uso de este efecto secundario es como herramienta forense.
+Cuando se realiza una grabación que captura audio cerca de un aparato o enchufe de CA, el zumbido también se graba de forma incidental.
+Los picos del zumbido se repiten cada ciclo de CA (cada 20 ms para 50 Hz CA o cada 16,67 ms para 60 Hz CA).
+La frecuencia exacta del zumbido debe coincidir con la frecuencia de una grabación forense del zumbido en la fecha y hora exactas en que supuestamente se realizó la grabación.
+Las discontinuidades en la coincidencia de frecuencia o la falta de coincidencia traicionarán la autenticidad de la grabación.

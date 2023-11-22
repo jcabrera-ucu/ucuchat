@@ -1,0 +1,7 @@
+La 1.ª etapa del Tour de Francia 2022 tuvo lugar el 1 de julio de 2022 y consistió en una contrarreloj individual en la ciudad de Copenhague en Dinamarca sobre un recorrido de 13,2 km. El vencedor y primer líder de la prueba fue el belga Yves Lampaert del Quick-Step Alpha Vinyl.
+<mapframe align="left" width="300" height="420" zoom="13" latitude="55.69" longitude="12.575">
+{ "type": "ExternalData",
+"service": "page",
+"title": "2022 Tour de France, Stage 1.map"
+}
+Ninguno.

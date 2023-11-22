@@ -1,0 +1,21 @@
+En geometría algebraica real, una curva cuártica general tiene 28 rectas bitangentes, rectas que son tangentes a la curva en dos lugares.
+Estas líneas existen en el plano proyectivo complejo, pero es posible definir curvas para las que todas estas 28 rectas bitangentes cuyas coordenadas son números reales, y por lo tanto pertenecen un espacio bidimensional.
+Una cuártica explícita con veintiocho bitangentes reales fue hallada por primera vez por Como Plücker demostró, el número de bitangentes reales de cualquier cuártica debe ser 28, 16, o un número inferior a 9.
+Otra cuártica con 28 bitangentes reales puede ser formada por el locus de los centros de elipses con longitudes de eje fijas, tangentes a dos líneas no paralelas.
+dio una construcción diferente de una cuártica con veintiocho bitangentes, formado por la proyección de una superficie cúbica; veintisiete de las bitangentes de la curva de Shioda son reales, mientras que la vigésimo octava es la línea del infinito en el plano proyectivo.
+La curva de Trott, otra curva con 28 bitangentes reales, es el conjunto de puntos (x, y) que satisface la ecuación polinomial de cuarto grado:
+Estos puntos forman una curva cuártica no singular, que tiene genus tres y que posee veintiocho bitangentes reales.
+Como los ejemplos de Plücker y de Blum y Guinand, la curva de Trott tiene cuatro óvalos separados, el número máximo para una curva de grado cuatro, y por lo tanto es una curva-M.
+Los cuatro óvalos pueden agruparse en seis pares diferentes de óvalos; para cada par de óvalos existen cuatro bitangentes que tocan ambos óvalos en el par: dos que los separan, y otras dos que no lo hacen.
+Además, cada óvalo limita una región no convexa del plano y tiene una bitangente que abarca la porción no convexa de su límite.
+La curva dual de una curva cuártica tiene 28 puntos dobles ordinarios reales, duales a las 28 bitangentes de la curva primaria.
+Las 28 bitangentes de una cuártica también pueden colocarse en correspondencia con símbolos de la forma
+Donde a, b, c, d, e y f son todos cero o uno y donde
+Existen 64 opciones para a, b, c, d, e y f, pero solo 28 de estas opciones producen una suma impar.
+También se puede interpretar a, b y c como las coordenadas homogéneas de un punto del plano de Fano y d, e y f como las coordenadas de una línea en el mismo plano proyectivo finito; la condición de que la suma es impar, equivale a exigir que el punto y la línea no se toquen entre sí, y hay 28 pares diferentes formados por un punto y una línea que no se tocan.
+Los puntos y líneas del plano de Fano disjuntos de un par de puntos no incidentales forman un triángulo, y las bitangentes de una cuártica han sido considerados en correspondencia con los 28 triángulos del plano de Fano.
+El grafo de Levi del plano de Fano es el grafo de Heawood, en el que los triángulos del plano de Fano están representados por 6-ciclos.
+Los 28 6-ciclos del gráfico de Heawood a su vez corresponden a los 28 vértices del Grafo de Coxeter.
+Las 28 bitangentes de una cuártica también corresponden a pares de las 56 líneas de una superficie de del Pezzo de grado-2, y a las 28 características theta impares.
+Las 27 rectas de una cúbica y las 28 bitangentes en una cuártica, junto con los 120 planos tritangentes de una curva séxtica canónica de género 4, forman una "trinidad" en el sentido de Vladímir Arnold, específicamente una forma de correspondencia de McKay, y pueden ser relacionadas con muchos otros objetos matemáticos, incluyendo E7 y E8, como se discute en ''trinidades.
+''

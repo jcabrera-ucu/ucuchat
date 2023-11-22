@@ -1,0 +1,40 @@
+Antics3D era un software de animación 3D en tiempo real publicado por Antics Technologies.
+Es utilizado por aficionados y profesionales para crear visualizaciones animadas tridimensionales de eventos en una variedad de industrias.
+Los cineastas forman la base de usuarios más grande, que utilizan el software para la previsualización, el guion gráfico y la machinima.
+Sin embargo, el software también se utiliza en animación forense, educación, formación y muchas otras áreas que se benefician de las visualizaciones animadas.
+La interfaz de usuario en Antics3D, que es significativamente más fácil que en un software de animación tradicional, esto ha contribuido en gran parte a su aceptación en estos sectores que carecen de experiencia en animación.
+A diferencia del software de animación tradicional, las posibilidades para un usuario son limitadas: las escenas siempre utilizarán (como máximo) personajes, automóviles, habitaciones y otros objetos comunes.
+Sin embargo, esto permite una interacción del usuario mucho más intuitiva, donde los accesorios "inteligentes" responden de manera obvia sin que el usuario necesite definir la respuesta deseada.
+Por ejemplo, se puede ordenar a un personaje que camine por una habitación simplemente seleccionando el destino; el usuario no necesita animar directamente las piernas, los brazos y otras partes del personaje.
+El 28 de noviembre de 2008, el sitio web de la empresa,www.antics3d.com, informó que el software ya no estaba disponible y que no se planeaban versiones futuras.
+La razón dada fue que el costo de desarrollo y soporte del software había superado los ingresos.
+Ha surgido un foro de discusión de la comunidad en http://previz.yourbb.eu, y hay un blog de la comunidad en http://antics3d.blogspot.com.
+Los últimos archivos, que requieren un número de serie ahora inalcanzable para funcionar, se pueden descargar de http://antics3dprofessional.fileburst.com.
+La actualización reciente mostró que la página de inicio de antics3d y el enlace anterior ya no funcionaban.
+Después de mostrar una versión de beta de Antics en SIGGRAPH en 2004, Kelseus oficialmente publica Antics Pre-Viz en April de 2005 en NAB (Asociación Nacional de Radioemisors) en Las Vega, Nevada.
+La versión inicial del programa estuvo apuntada en usuarios no especialistas, como directores artísticos y editores quién deseó crear pre-visualizaciones o storyboards de escenas en un screenplay.
+Cuándo la compañía cambió su nombre a Antics Tecnologías más tarde que año, también cambiaron el nombre del programa a justo "Antics", cayendo el "Pre-Viz" al final.
+En SIGGRAPH 2005, Antics Technologies lanzó una actualización, Antics3D V2, que introdujo una línea de tiempo completamente integrada y un flujo de trabajo de animación mejorado, y la interfaz de usuario.
+En ese momento, la BBC comenzó a utilizar Antics V2 como parte de su programa de formación en producción cinematográfica.
+En diciembre de 2007, Antics liberó primero una versión libre de su software.
+Antics3D V3 tuvo una versión BasePack gratis y una versión ProPack de pago.
+Este cambio en marketing era un esfuerzo para expandir la base de usuarios del programa para incluir machinima, la re-creación de una escena de delito, marketing y la animación amateur filmmaker.
+Entre las mejoras en V3 era la capacidad a escala arriba o abajo en medida, un espectador de contenido nuevo, controles de cámara mejorado y capacidad de importación de animaciones BVH y FBX, y modelos 3D
+Con el lanzamiento de V3 en diciembre de 2007, Antics Technologies comenzó a distribuir dos versiones diferentes de su programa: la versión gratuita BasePack y la versión paga ProPack.
+La versión gratuita de Antics3D se conoce como BasePack.
+Incluye contenido básico básico para la creación de escenas junto con la capacidad de descargar contenido gratuito adicional desde Antics Content Warehouse en línea.
+Los paquetes de contenido premium, lanzados en intervalos bimensuales, también están disponibles para la compra por parte de los usuarios de BasePack.
+Los activos incluyen personajes en 3D, edificios, accesorios, decorados, terrenos, archivos de audio, animaciones y poses de personajes.
+El ProPack es la versión paga de Antics3D, actualmente con un precio de $595.
+Además de todas las funciones de BasePack, los usuarios de ProPack también reciben soporte completo al cliente y una licencia para activar Antics V3.1 en hasta dos computadoras.
+Los usuarios de ProPack de pago tienen acceso gratuito a todos los complementos de contenido, incluidos los paquetes de contenido premium hasta el 3 de diciembre de 2008.
+El ProPack también viene con un complemento exportador de 3ds Max que permite al usuario exportar a Antics3D: geometría, texturas, personajes, animaciones cinemáticas o de vértice, morph targets y sus animaciones, jerarquías de objetos, fotogramas clave como poses y geometría como pisos delimitados.
+.
+V3.1 fue lanzado en abril de 2008.
+Amplió la capacidad de importación para incluir modelos SKP de Google SketchUp y un navegador integrado para importar contenido desde Google 3D Warehouse.
+Antics3D V4 fue lanzado en agosto de 2008 y mejoró varias partes del programa, desde la interfaz de usuario hasta la suavidad de las animaciones.
+El mayor agregado a V4 fueron las sombras y la iluminación, las cuales ahora permite a los usuarios iluminar dinámicamente su escena de manera dramática.
+Antics3D V5 fue lanzado en octubre de 2008.
+Entre otras mejoras, presenta emociones y expresiones de los personajes.
+Cuando se lanzó V5, Antics Technologies dejó de ofrecer una versión gratuita de Antics3D.
+La V5.1 (que contiene algunas actualizaciones menores) se lanzó a los usuarios en marzo de 2009.

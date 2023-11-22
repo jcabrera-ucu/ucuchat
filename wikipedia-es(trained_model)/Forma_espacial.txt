@@ -1,0 +1,13 @@
+En matemáticas, una forma espacial es una variedad riemanniana completa M de curvatura seccional constante K. Los tres ejemplos obvios son el espacio euclídeo, la esfera n-dimensional y el espacio hiperbólico, si bien una forma espacial no tiene por qué ser simplemente conexa.
+El teorema de Killing-Hopf de geometría riemanniana afirma que el recubridor universal de una forma espacial M^nde dimensión n con curvatura K = -1 es isométrico a H^n, el espacio hiperbólico, con curvatura K = 0 es isométrico a R^n, el espacio euclídeo, y con K = +1 es isométrico a S^n, la n-esfera de puntos a distancia 1 del origen en R^{n+1}.
+Reescalando la métrica riemanniana en H^n, podemos crear un espacio M_K de curvatura constante K para cualquier K < 0.
+De forma similar, reescalando la métrica riemanniana en S^n, podemos crear un espacio M_K de curvatura constante K para cualquier K > 0.
+Así, el recubridor universal de una forma espacial M con curvatura constante K es isométrico a M_K.
+Esto reduce el problema de estudiar formas espaciales al de estudiar grupos discretos de isometrías \Gamma de M_K que actúan de forma propiamente discontinua.
+Nótese que el grupo fundamental de M, \pi_1(M), será isomorfo a \Gamma.
+Los grupos que actúan de esta forma en R^n se llaman grupos cristalográficos.
+Los que actúan de esta forma sobre H^2 y H^3 se llaman respectivamente grupos fuchsianos y grupos kleinianos.
+El problema de la forma espacial es una conjetura que afirma que dos variedades riemannianas compactas asféricas con grupos fundamentales isomorfos son homeomorfos.
+Las posibles extensiones son limitadas.
+Se puede buscar conjeturar que las variedades son isométricas, pero reescalar la métrica riemanniana en una variedad riemanniana compacta asférica preserva el grupo fundamental, por lo que no es cierto.
+Se puede también querer conjeturar que las variedades son difeomorfas, pero las esferas exóticas de John Milnor son todas homeomorfas y por tanto tienen grupo fundamental isomorfo, lo que prueba que es falso.

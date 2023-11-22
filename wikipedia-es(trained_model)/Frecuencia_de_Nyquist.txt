@@ -1,0 +1,30 @@
+La frecuencia de Nyquist, llamada así por el ingeniero informático Harry Nyquist, es la mitad de la tasa de muestreo de un sistema de procesamiento de una señal discreta.
+También se le conoce como la frecuencia plegable de un sistema de muestreo.
+En la imagen utilizada abajo, se ve un ejemplo de como se pliegan los muestreos, donde fs es la tasa de muestreo y 0.5 fs es la correspondiente frecuencia de Nyquist.
+fN = 1 / 2Δt
+ΩN = 2πfN = π /Δt
+ωN = ΩN Δt = π
+La frecuencia de Nyquist no debe ser confundida con la tasa de Nyquist, este último es la tasa de muestreo mínima que satisface el criterio de muestreo de Nyquist para una señal o familia de señales dadas.
+La tasa de Nyquist es el doble de la frecuencia de componente máximo de una función que está siendo muestreada.
+Por ejemplo, la tasa de Nyquist de la función sinusoidal en 0.6 fs es 1.2 fs, lo que significa que la tasa de fs, está siendo desmuestrada.
+De este modo, la tasa de Nyquist es una propiedad de una señal continua, mientras que la frecuencia de Nyquist es una propiedad de un sistema de tiempo discreto.
+Cuando la función dominio es el tiempo, las tasas de muestreo suelen ser expresadas en muestras por segundo, y la unidad de la frecuencia de Nyquist es ciclos por segundo (hertz).
+Cuando la función dominio es la distancia, como en la imagen utilizada de ejemplo, la tasa de muestreo puede mostrarse en puntos por pulgada y su correspondiente frecuencia de Nyquist sería en ciclos/pulgada.
+Solapamiento
+Refiriendonos otra vez a la imagen 1, el submuestreo de la sinusoide en o.6 fs es lo que permite que sea una solapa de baja frecuencia, que es una función diferente que produce el mismo set de muestreos.
+Esta condición se describe como solapamiento.
+El algoritmo matemático que se suele usar para recrear una función continua a partir de sus muestreos malinterpretará las contribuciones de los componentes de la frecuencia de submuestreo.
+Así, los muestreos de una sinusoide pura 0.6 fs producirían una sinusoide 0.4 fs.
+Si la verdadera frecuencia fuese 0.4 fs, seguiría habiendo solapas de 0.6, 1.4, 1.6, etc. [nota 2] pero la frecuencia reconstruida sería correcta.
+En una típica aplicación del muestreo, una primera elige la mayor frecuencia para ser preservada y reservada, basado en el contenido esperado (voz, música, etc.) y su fidelidad apropiada.
+Después otro inserta un filtro de anti-solapamiento en frente del muestreador.
+Finalmente, según las características del filtro, un último elige una tasa de muestreo (y su correspondiente frecuencia de Nyquist) que proveerá una pequeña pero aceptable cantidad de solapamiento.
+En aplicaciones donde la tasa de muestreo es predeterminada, el filtro se elige con base en la frecuencia de Nyquist, en vez de a la inversa.
+Por ejemplo, el audio de un CD tiene una tasa de muestreo de 44100 muestras/s.
+La frecuencia de Nyquist es por tanto 22050 Hz. El filtro de anti-solapamiento puede eliminar adecuadamente cualquier alta frecuencia, pero afecta al rango de frecuencias que un ser humano puede escuchar.
+Un filtro que se encuentre entre 0 y 20kHz es más que adecuado para ello.
+Los primeros usos de la frecuencia de Nyquist, como los citados arriba, son todos consistentes con la definición presentada en este artículo.
+Algunas publicaciones después, incluidas en varios libros respetables, llaman al doble de la señal de ancho de banda la frecuencia de Nyquist; es un uso minoritario, se suele referir comúnmente al doble de la señal de ancho de banda como la tasa de Nyquist.
+Notas
+1. En este contexto, el factor ½ esta expresado en ciclos por muestras.
+2. Como se menciona anteriormente, estas son las frecuencias de otras sinusoides que producirían 	   el mismo set de muestras que las que se estaban muestreando.

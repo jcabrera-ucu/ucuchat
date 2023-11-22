@@ -1,0 +1,5 @@
+XMI o XML Metadata Interchange (XML de Intercambio de Metadatos) es una especificación para el Intercambio de Diagramas.
+La especificación para el intercambio de diagramas fue escrita para proveer una manera de compartir modelos UML entre diferentes herramientas de modelado.
+En versiones anteriores de UML se utilizaba un Schema XML para capturar los elementos utilizados en el diagrama; pero este Schema no decía nada acerca de cómo debía representarse el modelo.
+Para solucionar este problema la nueva Especificación para el Intercambio de Diagramas fue desarrollada mediante un nuevo Schema XML que permite construir una representación SVG (Scalable Vector Graphics).
+Típicamente esta especificación es utilizada solamente por quienes desarrollan herramientas de modelado UML.

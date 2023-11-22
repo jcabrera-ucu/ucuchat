@@ -1,0 +1,176 @@
+El aprendizaje adaptativo es una estrategia metodológica de aprendizaje, que se da principalmente en entornos mixtos y en línea, y está basado en sistemas adaptativos, los cuales ofrecen al usuario acciones predefinidas de las que puede seleccionar aquellas que guíen su aprendizaje para brindar una experiencia más individualizada de acuerdo con sus necesidades, preferencias y habilidades.
+Estas últimas son identificadas mediante esquemas o patrones de seguimiento que utilizan algoritmos informáticos que permiten caracterizar y definir perfiles y ritmos de aprendizaje de cada usuario o alumno/a en un entorno de aprendizaje en educación en línea para organizar la interacción con el alumnado y ofrecer recursos personalizados y actividades de aprendizaje para abordar las necesidades específicas de cada alumno.
+En los sistemas adaptativos, las computadoras adaptan la presentación y acceso del material educativo de acuerdo a estas necesidades con base en sus respuestas a las preguntas, tareas y experiencias que realiza, es decir, los sistemas adaptativos buscan adaptarse a los usuarios y no al contrario, tal como sucede con los entornos tradicionales de enseñanza y aprendizaje.
+Los sistemas adaptativos se utilizan para adaptar dinámicamente las experiencias de aprendizaje del alumnado facilitando así un aprendizaje más profundo y efectivo.
+Se trata, en otras palabras, de acondicionar y mejorar posibles rutas de aprendizaje individuales y de autoaprendizaje en función de sus fortalezas, debilidades y ritmos de aprendizaje en tiempo real al analizar y evaluar los aciertos y errores de los usuarios que aprenden para identificar dónde se debe mejorar, y, al mismo tiempo, permitir al profesorado acceder a una gran cantidad de datos precisos y actualizados de cada uno de los usuarios.
+La calidad de la adaptación proporcionada por el sistema se basa en su mayor parte en la especificidad y la coherencia de los datos y la información almacenada en los perfiles de los alumnos.
+La información recolectada debe brindar un conocimiento profundo de los usuarios en tres dimensiones:
+El aprendizaje adaptativo se apoya en tres pilares: estrategia de adaptación, métodos de adaptación y parámetros de adaptación.
+Los métodos ayudan a definir lo que se va a adaptar y los parámetros el entorno o el medio en que se realizara.
+La estrategia de adaptación está basada en una serie de reglas que combinan los métodos y los parámetros de adaptación y que atiende a los objetivos de formación propuestos.
+La adaptación, en general, puede implicar adaptación (adaptivity) y/o adaptabilidad (adaptability), dependiendo de quién tiene el control o quién toma la iniciativa de la adaptación, el aprendiz o el sistema: la adaptación la realiza automáticamente el sistema, mientras que la adaptabilidad la realiza un agente humano, generalmente el tutor o el alumno.
+En resumen, la adaptación es la capacidad de modificar una lección o secuencia de aprendizaje en línea utilizando diferentes parámetros y un conjunto de reglas predefinidas, por el contrario, la adaptabilidad es la posibilidad de que sea el alumnado el que personalice esa secuencia por sí mismo, lo cual lleva de la centralidad en la máquina (adaptación) a la centralidad en el usuario (adaptabilidad), visiones complementarias en el aprendizaje adaptativo cuya interacción permite aprovechar de mejor manera sus potencialidades.
+Adaptación y adaptabilidad son inseparables en la lógica del aprendizaje personalizado, base del aprendizaje adaptativo.
+En este se sentido, tres aspectos son indispensables para lograr un adecuado equilibrio en el contexto de la implementación de un modelo de aprendizaje adaptativo: usuarios (estudiante, aprendiz), profesores (tutores, instructores) y un juego de reglas o normas predefinidas elaboradas por el diseñador (instruccional) de la experiencia de aprendizaje.
+La tecnología de aprendizaje adaptativo abarca aspectos derivados de diversos campos de estudio, incluyendo la informática, la educación, la psicología y la ciencia del cerebro.
+Ha sido parcialmente impulsado por el reconocimiento de que el aprendizaje hecho a la medida no se puede lograr a gran escala utilizando los enfoques tradicionales, basado en aproximaciones no adaptativas.
+Los sistemas de aprendizaje adaptativo tratan de transformar al aprendiz de receptor-pasivo de la información, a colaborador en el proceso educativo.
+La principal aplicación de los sistemas de aprendizaje adaptativo está en la educación, pero otro uso frecuente es en la formación empresarial.
+Han sido diseñados como aplicaciones para ordenadores, aplicaciones web, y ahora se están introduciendo en los programas en general.
+A la hora de implementar el aprendizaje adaptativo existen dos tendencias claramente diferenciadas aunque no excluyentes:
+El aprendizaje adaptativo no es un método reciente, sus orígenes se remontan y asocian a "la Teoría del Aprendizaje Programado", defendida por Burrhus Frederic Skinner hacia la década de 1950, en la cual en contraposición a la educación tradicional, el autor creó la llamada "máquina de enseñanza".
+Esta se basaba en las premisas de la "Teoría del Aprendizaje Programado", que el autor defendía.
+Esta teoría se basaba en:
+Sin embargo, otro antecedente se puede remontar a 1905, cuando el psicólogo Alfred Binet y su socio Théodore Simon publicaron una escala por niveles que abarcaba de los 3 a los 13 años en la cual, a través de la correcta realización de una serie de pruebas se iba pasando de nivel y así conseguían determinar la capacidad del niño.
+En 1960 surgió en la Universidad de Illinois el Programmed Logic Automated Teaching Operations (PLATO), es considerado como el pionero en realizar un proceso de enseñanza por computadora.
+Posteriormente el aprendizaje adaptativo, o tutoría inteligente, continuaría avanzando con la teoría del "Aprendizaje Artificial" y los adelantos de la inteligencia artificial y comenzó a ganar popularidad en la década de 1970.
+La teoría del "Aprendizaje Artificial" se originó a raíz de la necesidad de hacer uso de máquinas, con finalidad educativa, que funcionasen como simulación de comportamientos humanos y, a la vez, para atender a dos transformaciones que se estaban dando a nivel mundial: el avance de las tecnologías en la sociedad y, al mismo tiempo, el crecimiento de las dificultades de acceso de muchos/as estudiantes a ellas que les permitieran ponerlas en práctica en diferentes escenarios educativos.
+Por ello, la inteligencia artificial sería una oportunidad para derribar barreras de acceso, atender a diferentes necesidades y estilos educativos y optimizar el proceso de enseñanza y aprendizaje, proporcionando más facilidades al alumnado en este aspecto.
+Por ese entonces, ya se empezaba a contemplar la fusión de estilos y modelos de aprendizaje que estuviesen basados en aprendizajes significativos, con el alumnado como centro de atención y basado en técnicas motivacionales e individualizadas y, por otra parte, con las tecnologías como una herramienta fundamental para dar apoyo a un aprendizaje innovador, flexible y facilitador.
+A pesar de lo anterior, los dispositivos tecnológicos y los modelos de enseñanza en las aulas no estaban preparados para enfrentar los retos que suponía un aprendizaje adaptativo en la realidad de estos entornos.
+En ese momento, era comúnmente aceptado que los ordenadores, con el tiempo, alcanzarían la capacidad humana de la adaptabilidad.
+En el aprendizaje adaptativo, la premisa básica es que la herramienta o el sistema será capaz de adaptarse al método de aprendizaje del estudiante/usuario, lo que resulta una mejor y más eficaz experiencia de aprendizaje para el usuario.
+Ya en los años 70 la principal barrera fue el coste y el tamaño de los equipos, lo que hace impracticable la aplicación generalizada.
+Otro obstáculo en la adopción de sistemas inteligentes tempranos era que las interfaces de usuario no eran propicias para el proceso de aprendizaje.
+El inicio de los trabajos en los sistemas de aprendizaje adaptativo e inteligente por lo general se remonta al sistema escolar que ofrece el aprendizaje adaptativo para el tema de la geografía de América del Sur.
+Un número de otros sistemas innovadores apareció en los cinco años siguientes.
+Una buena cuenta de los primeros trabajos sobre el aprendizaje adaptativo y sistemas inteligentes de tutoría se puede encontrar en el clásico libro Sistemas de Tutoría Inteligente.
+Posteriormente, con el avance de las tecnologías de la información y la comunicación (TIC) en la vida diaria y, sobre todo, en la evolución de la sociedad y el desarrollo de herramientas y recursos tecnológicos, poco a poco esta estrategia fue ganando protagonismo en las aulas, utilizándose en escenarios educativos tanto presenciales como semi-presenciales y a distancia.
+Son diferentes los contextos y tendencias educativas que integran esta estrategia de aprendizaje, como es el caso de los MOOC o el Big Data.
+La capacidad para guardar y comparar información, las Tecnologías de la Información y la Comunidación admiten la creación de caminos en el aprendizaje para el alumnado, ajustando datos por el ejercicido del alumno con información estadística, generando patrones y respuestas desde el estudio del grado de validez y ritmo con la que el discente complementa las actividades.
+También, por su naturaleza en Internet, el aprendizaje adaptativo digital del actual siglo puede mejorar en la pedagogía programada.
+De esta manera, como se observa en el programa LearnSmart, que usa el libro digital del estudiante para organizar su trayecto educativo, o Knewton, que organiza el trayecto educativo a la vez que es usado en tiempo real por el alumno, los métodos de aprendizaje adaptativos estudian de los alumnos para personificar su educación.
+Gracias a la portabilidad de los dispositivos relacionados con las TIC, el aprendizaje adaptativo puede utilizarse tanto dentro como fuera de la clase mediante la propuesta Bring Your Own Device (BYOD), que consiste en emplear los dispositivos tecnológicos de los discentes como herramientas de aprendizaje en clase.
+Un ejemplo de ello es el aprendizaje electrónico móvil, que tiene la ventaja del acceso en cualquier momento y lugar, además de permitir añadir la realidad aumentada en el proceso de aprendizaje adaptativo.
+La llegada de las nuevas tecnologías de la información y las comunicaciones crea un panorama de continuo cambio, donde la adaptación e innovación son los pilares fundamentales.
+La utilización de estas herramientas contribuye a que el proceso de Enseñanza-aprendizaje sea más colaborativo, interactivo y flexible a partir de la aplicabilidad que se alcanza con la personalización de la enseñanza, (aprendizaje adaptativo).
+Las TIC aportan a la educación aspectos innovadores, lo que supone una mejora en la calidad de las formas de aprender y enseñar.
+Las TIC junto con el aprendizaje adaptativo nos ofrecen la oportunidad de transformar la enseñanza tradicional, pasiva y centrada en la transmisión de conocimientos, el profesor y la clase, en otro tipo de educación más personalizada, participativa, centrada en el objetivo de conseguir aprendizajes diversos y significantes para cada estudiante.
+El aprendizaje adaptativo hace frente a las desigualdades en el acceso, uso y conocimiento, en un sentido más amplio que el de las tecnologías de la comunicación digital y la llamada sociedad de la información.
+La inclusión social mediante el aprendizaje adaptativo y las TIC tiende a cerrar la brecha, muy abierta sobre todo en zonas de poblaciones más aisladas, conflictivas, o desfavorecidas; y en personas en situación de discapacidad.
+Un elemento fundamental para cerrar dicha brecha es “abrir” las vías de comunicación electrónica para acceder a la tecnología libre.
+El propósito es que todo el mundo acceda a las tecnologías y a Internet para poder servirse de esa formación.
+El aprendizaje adaptativo se refiere a un proceso caracterizado porque los alumnos diseñan su estructura de interacciones y mantienen el control sobre las diferentes decisiones que repercuten en su aprendizaje.
+De igual manera se adapta y cubre todas y cada una de nuestras necesidades (económicas, personales, territoriales).
+Según un estudio, los usuarios adaptan consciente o inconscientemente la tecnología a sus vidas, a los contextos en los que viven, a sus situaciones sociales, culturales y afectivas.
+De forma recíproca la tecnología es maleable a las situaciones citadas anteriormente.
+Los sistemas de aprendizaje adaptativo se han dividido tradicionalmente en componentes separados o modelos.
+Aunque se han presentado diferentes grupos de modelos, la mayoría de los sistemas incluyen algunos o todos los siguientes modelos (en ocasiones con diferentes nombres):
+El modelo experto almacena información sobre el material que se está enseñando.
+Esto puede ser tan simple como las soluciones para el conjunto de preguntas, pero también, puede incluir lecciones y tutoriales y, en sistemas más sofisticados, incluso metodologías de expertos para ilustrar enfoques a las preguntas.
+Los sistemas de aprendizaje adaptativo que no incluyen un modelo experto incorporarán normalmente estas funciones en el modelo de instrucción.
+El medio más simple de determinar el nivel de habilidad de un estudiante es el método utilizado en el CAT (prueba de adaptación computerizada o computerized adaptive testing).
+En el CAT, el sujeto se presenta con las preguntas que se seleccionan en función de su nivel de dificultad en relación con el presunto nivel de habilidad del sujeto.
+A medida que avanza la prueba, el ordenador ajusta la puntuación del sujeto en función de sus respuestas, de forma continua afinando la puntuación mediante la selección de las preguntas de un rango más estrecho de dificultad.
+Un algoritmo para una evaluación de estilo CAT es fácil de implementar.
+Un gran número de preguntas se reúnen y clasifican de acuerdo a la dificultad, a través de análisis de expertos, la experimentación o una combinación de los dos.
+El ordenador realiza entonces lo que es esencialmente una búsqueda binaria, dando siempre una cuestión que está a medio camino entre lo que el equipo ya ha determinado que son máximos y mínimos posibles niveles de habilidad.
+Estos niveles se ajustan posteriormente para el nivel de la dificultad de la pregunta, reasignando el mínimo si el sujeto responde correctamente, y el máximo si el sujeto responde incorrectamente.
+Obviamente, un cierto margen de error tiene que ser construido para permitir escenarios en los que la respuesta del sujeto no sea indicativo de su verdadero nivel de habilidad, sino simplemente una coincidencia.
+Haciendo múltiples preguntas de un nivel de dificultad se reduce en gran medida la probabilidad de una respuesta engañosa, y permitiendo que la gama de crecimiento más allá del nivel de habilidad asumido puede compensar posibles evaluaciones y/o valoraciones.
+Esta evaluación garantiza obtener una rentabilidad a lo largo del proceso.
+Una extensión adicional para identificar debilidades en términos de conceptos es programar el modelo de estudiante para analizar las respuestas incorrectas.
+Esto es especialmente aplicable a preguntas de elección múltiple.
+Consideremos el siguiente ejemplo :
+Q. Simplificar: 2X2+X3
+a) No se puede simplificar
+b) 3X5
+c) ...
+d) ...
+Es evidente que un estudiante que responde (b) está añadiendo los exponentes y no llega a comprender el concepto de términos semejantes.
+En este caso, la respuesta incorrecta proporciona información adicional más allá del simple hecho de que es incorrecta.
+El modelo instruccional generalmente se tiene en cuenta para incorporar las mejores herramientas educativas que ofrece la tecnología (como presentaciones multimedia) con el asesoramiento experto de un profesor sobre métodos de presentación.
+El nivel de sofisticación del modelo instruccional depende en gran medida del nivel de sofisticación del modelo de estudiante.
+En un modelo de estudiante de estilo CAT, el modelo instruccional simplemente clasifica lecciones en correspondencia con los rangos para el grupo de preguntas.
+Cuando el nivel del estudiante se ha determinado de manera satisfactoria, el modelo instruccional proporciona la lección apropiada.
+Los modelos de los estudiantes más avanzados, cuyas evaluaciones se basan en conceptos, necesitan un modelo de instrucción que organiza sus lecciones por concepto también.
+El modelo instruccional puede ser diseñado para analizar el conjunto de debilidades y diseñar un plan de lecciones en consecuencia.
+Cuando las respuestas incorrectas están siendo evaluadas por el modelo de estudiante, algunos sistemas parecen proporcionar información a las preguntas reales en forma de 'consejos'.
+A medida que el estudiante comete errores, aparecen sugerencias útiles como "prestar atención a la señal del número".
+Esto también puede caer en el dominio del modelo instruccional, con toques genéricos basados en conceptos que se ofrecen sobre la base de las debilidades conceptuales, o los consejos puede ser preguntas específicas en cuyo caso el estudiante, instruccional, y los modelos expertos se solapan.
+Existen diferentes modelos en el diseño instruccional.
+Establece un sistema basado en niveles diferentes de aprendizaje asociados a la instrucción más adecuada.
+Se describe nueve procesos de instrucción:
+Se caracteriza por ser interactivo, el cual permite que el  análisis de la evaluación formativa serán el referente para empezar una nueva fase:
+Su sigla es el resultado de las fases que lo componen.
+(análisis, establecimiento, selección, utilización, requiere, evaluación).
+Este modelo toma como referencia las instrucción de Gagné, permite crear espacios de aprendizaje donde los estudiantes son los protagonistas.
+Los pasos que establece este modelo son:
+El modelo presenta una estructura de nueve pasos y se caracteriza por su flexibilidad a la hora de iniciarse:
+La personalización hace hincapié a distintos factores del aprendizaje, lo que puede adaptar los procesos de aprendizaje a las características individuales de los discentes.
+Por ejemplo, son individualizadas:
+La implementación del aprendizaje adaptativo ayuda a determinar una evaluación más específica, consiguiendo así mayor confianza en el alumno/a e identificando lo que puede llegar a hacer.
+Para la implementación del aprendizaje debemos tener en cuenta:
+Por ello, a continuación, trataremos diferentes escenarios donde se ha llevado a cabo el aprendizaje adaptativo.
+Los sistemas de aprendizaje adaptativo pueden ser implementadas en Internet para su uso en la enseñanza a distancia y la colaboración en grupo.
+El campo de la educación a distancia está incorporando aspectos de aprendizaje adaptativo.
+Sistemas iniciales sin aprendizaje adaptativo fueron capaces de proporcionar información automatizada a los estudiantes a los que se hacen preguntas de un banco de preguntas preseleccionado.
+Sin embargo, esa estrategia carece de la orientación que los profesores pueden proporcionar en el aula.
+Las tendencias actuales en educación a distancia requieren del uso de aprendizaje adaptativo para implementar el comportamiento dinámico inteligente en el entorno de aprendizaje.
+Durante el tiempo que un estudiante pasa aprendiendo un nuevo concepto, se prueban sus capacidades y bases de datos de seguimiento de su progreso a través de uno de los modelos.
+La última generación de sistemas de enseñanza a distancia tiene en cuenta las respuestas de los estudiantes y se adaptan a las capacidades cognitivas del estudiante usando un concepto llamado andamiaje cognitivo.
+Andamiaje cognitivo es la capacidad de un sistema de aprendizaje automático para crear un camino cognitivo de evaluación de menor a mayor en función de las capacidades cognitivas demostradas.
+Una actual y exitosa aplicación de aprendizaje adaptativo en la educación a distancia basada en la Web, es el motor Maple de WebLearn, de la Universidad RMIT.
+WebLearn está lo suficientemente avanzada para proporcionar la evaluación de los problemas que plantea a los estudiantes, incluso si esas preguntas no tienen una respuesta única, como los que están en el campo de las matemáticas.
+El aprendizaje adaptativo puede ser incorporado para facilitar la colaboración en grupo dentro de los entornos de aprendizaje a distancia como los foros o los servicios de intercambio de recursos.
+Las plataformas LMS son un gran recurso para facilitar la cooperación en el aula virtual.
+Algunos ejemplos de cómo el aprendizaje adaptativo puede ayudar con la colaboración incluyen la agrupación automatizada de usuarios con los mismos intereses, y la personalización de enlaces a fuentes de información basado en los intereses declarados por el usuario o los hábitos de navegación del usuario.
+Las plataformas LMS son un gran recurso para facilitar la cooperación en el aula virtual.
+Según Brandon Hall, las herramientas síncronas, como son los chats, videoconferencias o la pizarra electrónica, permiten la interacción instantánea, que es lo más parecido a un aula presencial.
+Por su parte, las herramientas asíncronas, como son los foros de discusión, los blogs o el correo electrónico, establecen una interacción diferida, y por lo tanto, pueden utilizarse en cualquier momento.
+En 2014, un investigador educativo concluyó un estudio de varios años de aprendizaje adaptativo para el diseño de juegos educativos.
+La investigación se desarrolló y validó el modelo ALGAE (Adaptive Learning Game dEsign), un modelo integral de aprendizaje adaptativo basado en las teorías y prácticas de diseño de juegos, estrategias de enseñanza y modelos de adaptación.
+La investigación se extendió, previa investigación en el diseño del juego, estrategias de enseñanza y aprendizaje adaptativo, combinando estos tres componentes en un solo modelo complejo.
+El estudio dio como resultado el desarrollo de un modelo de diseño juego educativo adaptativo para servir como guía para los diseñadores de juegos, diseñadores instruccionales, y educadores con el objetivo de aumentar los resultados de aprendizaje.
+Los participantes en la encuesta validaron el valor del modelo ALGAE y proporcionaron una comprensión específica de la construcción, el uso, beneficios y retos del modelo.
+El modelo ALGAE actual se basa en estos conocimientos.
+El modelo sirve ahora como una guía para el diseño y desarrollo de juegos de ordenador educativos.
+La aplicabilidad del modelo se evalúa como intersectorial, incluyendo al gobierno y agencias/unidades militares, la industria del juego y el mundo académico.
+El valor real del modelo y el enfoque de implementación apropiada (enfocado o desenfocado) será plenamente efectivo cuando la adopción del modelo de ALGAE se hace más generalizada.
+Este tipo de aprendizaje en línea no restringe el trabajo del docente ni la relación hacia los discentes.
+Utilizar este tipo de herramientas adaptadas al alumnado, ayuda al desempeño del docente, guiando el aprendizaje.
+Le ofrece información útil sobre cómo aprende el alumnado.
+Esta información aportada por este tipo de aprendizaje permite al docente abordar de forma más eficaz y personalizada el cumplimiento de objetivos de aprendizaje, permitiéndole trabajar aquellos aspectos menos desarrollados durante la experiencia educativa y poder así plantear nuevos retos a sus alumnos para conseguir todos los objetivos planteados.
+El profesor puede elegir cómo trabajar la herramienta, centrándose en un solo alumno o en el conjunto.
+Finalmente, es el docente el que evalúa a los alumnos a partir de los resultados de las actividades realizadas por los alumnos y obtiene información esencial para abordar temas y proyectos futuros.
+La evaluación adaptativa es una prueba interactiva por computadora que administra las preguntas o problemas a resolver de manera eficiente con base en el nivel de desempeño del estudiante.
+El método de evaluación que más se adapta al aprendizaje adaptativo es la evaluación orientada al aprendizaje.
+Este tipo de evaluación, en lugar de centrarse en el resultado (conocimientos) se centra en el proceso de adquisición de los mismos (aprendizaje) para ofrecer a los alumnos una experiencia de aprendizaje totalmente personalizada y mejorar el mismo.
+Según Carless, este tipo de evaluación se basa en tres principios:
+La medición del progreso del estudiante es un elemento fundamental de la evaluación adaptativa.
+Los modelos de aprendizaje adaptativo impulsados por la evaluación se basan en sistemas adaptativos computarizados.
+Estos sistemas cuentan con mecanismos para extraer los ítems de evaluación de un banco de preguntas, y una vez que el estudiante responde, comparan la respuesta contra una escala de medición común y seleccionan nuevas preguntas.
+Además del proceso de evaluación de respuestas, cuentan con un proceso para finalizar la prueba y emitir un reporte con las puntuaciones obtenidas y las necesidades del estudiante.
+El proceso de evaluación adaptativa consta entonces de dos etapas básicas: la selección de preguntas con la que se determina cuáles son más acordes al desempeño del estudiante y la estimación de puntuación, que utiliza las respuestas previas para estimar el rendimiento del estudiante y con base en este seleccionar las preguntas posteriores más adecuadas.
+Permite a los docentes establecer una comunicación fluida e inmediata hacia los discentes que conforman los grupos.
+Este proceso de retroalimentación permite la contextualización del proceso de enseñanza y aprendizaje y mejor de forma inmediata aquellas dificultades y aspectos deficientes que van surgiendo.
+Se parte de tres premisas organizativas:
+Con la consolidación del aprendizaje adaptativo, la tutoría también sufre una transformación llevándose a cabo por medio de sistemas inteligentes.
+Estos sistemas son llamados sistemas de tutoría inteligente (STI).
+Todos los STI comparten la misma meta: ofrecer servicios de tutoría para dar soporte al aprendizaje.
+Sin embargo, varían mucho en cuanto a su arquitectura, las técnicas pedagógicas utilizadas, en otros aspectos.
+Los STI implementan estrategias de tutoría y aprendizaje a través de una combinación de las TIC y la IA, proporcionando un aprendizaje personalizado sin requerir la intervención constante de una persona experta.
+Tal y como John Self (1970) expresó: "Un sistema de tutoría por ordenador debe tener una representación de a quién se enseña, qué se enseña y cómo se enseña".
+Un STI podría utilizar cualquier estructura siempre que cumpla el objetivo de una tutoría inteligente y eficaz.
+Sin embargo, la estructura de un sistema de tutoría inteligente tiene en cuenta los 4 componentes esenciales del aprendizaje adaptativo.
+Con una estructura clara, a lo largo de los años han surgido arquitecturas de sistemas que consideran uno o más de los componentes.
+Las arquitecturas más conocidas son:
+Las analíticas de aprendizaje consisten en la recogida, medición, análisis y obtención de información a partir de datos recogidos de estudiantes y sus contextos.
+Su propósito es entender y optimizar tanto el aprendizaje como el entorno en el que se lleva a cabo.
+De esta forma, se pretende conocer el nivel de implicación y participación del alumno.
+A partir de estos datos, se puede actuar para ayudar al alumnado e intervenir de forma preventiva durante el proceso de aprendizaje.
+Asimismo, permiten desarrollar un aprendizaje más personalizado con experiencias educativas más prácticas y efectivas.
+La fuente principal de recogida de datos es el entorno virtual de aprendizaje donde el estudiante deja una huella digital cada vez que interactúa en foros, consulta calendarios o materiales educativos.
+También pueden recogerse datos de otras fuentes donde queda registro como los sistemas de información del estudiante, bibliotecas, tarjetas de acceso a diferentes espacios de un campus universitario o las conexiones a redes wifi institucionales.
+La estructuración de sistemas en línea permiten compilar la información por parte de los discentes en formado de estadística, respuestas predestinadas, patrones de aprendizaje ya formados y cálculos para ejecutar esta información e identificar puntos fuertes y débiles.
+Se tiene en cuenta tanto las respuestas como la manera de interactuar del alumno o el tiempo que dedica en realizar las actividades o expresar sus dificultades.
+La utilización de las analíticas de aprendizaje tiene un gran potencial en el desarrollo e introducción del aprendizaje adaptativo, entendido como un aprendizaje ofrecido a escala donde los estudiantes son dirigidos a materiales educativos en base a sus interacciones previas con tareas y contenidos relacionados.
+En relación con este tema, se observa además que a medida que los estudiantes son más conscientes de su cesión de datos educativos, demandan una mayor personalización de aprendizaje del mismo modo que se produce en otros sectores.
+Este aprendizaje adaptativo no solo se ajusta a las preferencias de aprendizaje o competencias individuales, sino que facilita la integración con el estilo de vida del estudiante, siendo la tecnología portátil un elemento clave.
+De esta manera, la plataforma crea un camino de aprendizaje específico para el estudiante.
+Además, al ser plataformas digitales, permiten comparar datos de los alumnos que ayudan a crear nuevas pautas, de manera que el sistema personaliza y concreta los resultados y permite restablecer sus características.
+En la actualidad existe un creciente interés mundial por el uso de análisis del aprendizaje y las tecnologías del aprendizaje adaptativo en la mejora del sistema educativo.
+El éxito de los sistemas de aprendizaje adaptativo dependen en gran parte de los datos recogidos acerca de las aptitudes y actuaciones de los estudiantes, así como de su analítica de clics.
+Estos datos son una gran ayuda para los educadores, porque permiten analizar cómo se utilizan sus materiales educativos y comprobar su efectividad.
+Además pueden ser agregados y combinados con otro tipo de datos educacionales, proveyendo de una información muy valiosa a instancias educativas más altas, desde directores de programas hasta autoridades y gobiernos.
+Este artículo incorpora material de Citizendium, el artículo Adaptive learning, que está disponible bajo la Licencia Creative Commons Attribution-ShareAlike 3.0 Unported License pero no bajo la GFDL.

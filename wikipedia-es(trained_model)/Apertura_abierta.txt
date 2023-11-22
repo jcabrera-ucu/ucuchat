@@ -1,0 +1,19 @@
+En ajedrez, una Apertura abierta es aquella que empieza moviendo el peón de rey dos casillas y el negro replicando con el mismo movimiento (en notación algebraica 1.e4 e5).
+En contraste, las Aperturas semiabiertas son aquellas en que el negro no responde con 1... e5, sino con un movimiento como 1... e6 (Defensa francesa) o 1... c5 (Defensa siciliana).
+Las aperturas abiertas son las más populares y tienen mucha fuerza: inmediatamente trabajan por controlar el centro y liberan dos piezas (la dama y el alfil de rey).
+De 1.e4 se derivan las aperturas más antiguas en ajedrez.
+Bobby Fischer calificó a 1.e4 como la "mejor en las pruebas".
+Por el contrario, 1.e4 ubica un peón en una casilla indefensa y debilita d4 y f4; el Maestro húngaro Gyula Breyer melodramáticalmente declaró que "Después de 1.e4 la partida del blanco está en sus últimos estertores".
+El segundo movimiento más popular para el blanco es 2.Cf3 atacando el peón de rey negro, preparando el enroque corto y anticipando el avance del peón de dama a d4.
+La respuesta más común del negro es 2...Cc6, que normalmente conduce a la Apertura española, la Giuoco piano, la Defensa de los dos caballos o la Apertura escocesa.
+Si el negro en vez de mantener la simetría y contraataca el centro blanco con 2...Cf6 entonces resulta la Defensa Petrov.
+Las alternativas más populares a 2.Cf3 son 2.Cc3 (la Apertura vienesa), 2.Ac4 (la Apertura de alfil) y 2.f4 (el Gambito de rey).
+Estas tres aperturas tienen algunas similitudes las unas con las otras, en particular la Apertura de Alfil frecuentemente transpone a variantes de la Apertura vienesa.
+El Gambito de rey fue extremadamente popular en el siglo XIX.
+El blanco sacrifica un peón para desarrollarse rápidamente y eliminar un peón central del negro.
+La apertura vienesa también realiza frecuentemente un ataque al centro negro mediante el avance de peón f2-f4.
+En la Apertura del centro (2.d4), el blanco abre el centro inmediatamente pero si el peón es recuperado después de 2...exd4, el blanco tiene que luchar con un desarrollo ligeramente prematuro de la dama después de 3.Dxd4.
+Una alternativa es sacrificar uno o dos peones, por ejemplo en el Gambito danés.
+Los desarrollos prematuros de la dama del Ataque Parham y la Apertura Napoleón parecen de aficionados y generalmente solo las juegan los novatos, aunque el Ataque Parham se ha jugado en unos cuantas partidas de torneos de grandes maestros.
+La Apertura portuguesa, la Apertura Alapín, la Apertura Konstantinopolsky y la Apertura húngara invertida son intentos raros y poco convencionales para el blanco.
+Entre las defensas, solo la Defensa Damiano es realmente mala, aunque el Gambito elefante y el Gambito letón son muy arriesgados para las negras.La Defensa Philidor no es popular en ajedrez moderno porque concede a las blancas una fácil ventaja de espacio, mientras el negro permanece sólido, pero restringido y pasivo.

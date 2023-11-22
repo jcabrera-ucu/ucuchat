@@ -1,0 +1,35 @@
+Friday Night Funkin' (abreviado FNF) es un videojuego de ritmo lanzado el 1 de noviembre de 2020, desarrollado por el programador canadiense Cameron Taylor también conocido como Ninjamuffin99.
+Fue lanzado en Newgrounds y en Itch.io.
+El juego tiene una mecánica de juego parecida a la de Rock Band, Guitar Hero, Dance Dance Revolution, StepMania y PaRappa the Rapper, y una estética similar a los juegos Flash populares a principios y mediados de la década de 2000.
+Es un juego de ritmo donde el jugador debe presionar las flechas en el tiempo exacto, ritmo y dirección correctas con la música para simular al protagonista del juego (Boyfriend), participando en varias formas de "batallas de rap y baile" y otros concursos musicales.
+Si el jugador pierde demasiadas flechas, falla la canción, una barra de vida que hay abajo de la pantalla que sale el color verde y el rojo, el verde se hace más pequeño.
+Si la barra de vida se acaba, el jugador pierde automáticamente.
+El personaje principal, Boyfriend, quiere salir con Girlfriend, pero su padre, Daddy Dearest, no va a permitir eso, por lo que tienen una batalla de rap
+(Las Semanas son como niveles en otros juegos, aquí una lista de las semanas del juego base)
+Los únicos personajes que se repiten constantemente dentro del juego son Boyfriend, un joven rapero de cabello azul que tiene una gorra al revés, y Girlfriend, una joven blanca con un vestido rojo a la que Boyfriend debe rapear para completar los niveles del juego, que se dividen entre diferentes "semanas".
+«Daddy Dearest» es el padre de la novia, que es una ex estrella de rock.
+Busca probar si el novio es lo suficientemente hábil como para ganarse su aprobación para cortejar a su hija.
+«Mommy Mearest» es la madre de la novia, y la esposa de Daddy Dearest.
+Ella es una cantante de pop que también pone a prueba al novio y actúa con un equipo de bailarines de respaldo.
+Skid y Pump son un par de niños disfrazados de Halloween.
+Son un cameo de unos personajes de la serie de animaciones web Spooky Month, del animador de YouTube Sr. Pelo.
+Pico, es un cameo del juego «Pico's School» de Tom Fulp, el creador de Newgrounds.
+Monster es una criatura misteriosa con un limón por cabeza que aparece de noche.
+Era un personaje no utilizado para aparecer en una canción llamada Monster.
+Más tarde, Monster debutó en la semana 5 en la canción «Winter Horrorland», donde atormenta a los dos personajes principales y quiere "comerse a tu novia".
+Él, junto con Girlfriend y Tankman, son los únicos personajes del juego que realmente hablan y cantan en el juego.
+Senpai, es un personaje que aparece en una parodia de un juego de citas llamado «Hating Simulator», que se juega en una consola que a su vez es una parodia de una PlayStation.
+En el transcurso de su batalla con Boyfriend, más tarde se manifiesta como un espíritu maligno, el cual fue encerrado en el videojuego por Daddy Dearest para atrapar y encerrar en el videojuego a los novios que tenga Girlfriend.
+Se transforma durante la canción Thorns.
+Tankman, la mascota de Newgrounds es el protagonista principal de la serie TANKMEN, una serie web animada creada por JohnnyUtah en 2006.
+Aparece en el logo principal de la página.
+el personaje, el nivel y el logo de la página están hechos en colaboración con el artista Jonny Utah.
+Taylor y tres de sus amigos de Newgrounds (artistas Phantom Arcade & evilsk8r, y compositor Kawai Sprite) inicialmente desarrollaron el juego como una sumisión al Ludum Dare (específicamente la Ludum Dare 47), publicando una demostración en línea el 5 de octubre del 2020, que recibió un éxito inesperado, lo que llevó a muchas solicitudes para un juego completo, que Taylor respondió publicando una demostración web en Newgrounds en octubre de 2020.
+El interés en el juego creció hasta convertirse en el juego de ritmo mejor calificado en los 20 años de historia de Newgrounds.
+El juego también ha recibido una atención significativa a través de tendencias en plataformas como TikTok y Twitch.
+El juego tiene una comunidad de modding activa debido a su lanzamiento de código abierto, lo que permite la implementación de contenido creado por fanáticos.
+Su banda sonora, cuyo compositor se conoce con el sobrenombre de Kawai Sprite, se ha puesto a disposición de forma gratuita en Bandcamp y Spotify.
+Taylor ha expresado sus planes de lanzar Friday Night Funkin' en Steam y Nintendo Switch.
+El juego completo tendría alrededor de 27 a 52 semanas de canciones con diferentes diseños de personajes.
+El juego es conocido por ser de código abierto, lo que significa que cualquiera puede modificar el juego fácilmente, siempre que tenga experiencia artística, de animación, música y codificación.
+Esto ha dado pie a que se realicen numerosas modificaciones del juego original.

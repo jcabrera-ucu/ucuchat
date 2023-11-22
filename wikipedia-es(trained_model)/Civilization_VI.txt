@@ -1,0 +1,68 @@
+Sid Meier's Civilization VI o Civilization VI es un videojuego de estrategia por turnos perteneciente a la serie Civilization.
+El juego fue desarrollado por Firaxis Games y distribuido por 2K Games y Take-Two Interactive.
+Su fecha de lanzamiento fue el 21 de octubre de 2016 para Windows de Microsoft, OS X y Linux.
+La versión para Nintendo Switch fue lanzada el 16 de noviembre de 2018, mientras que la versión para PS4 y Xbox One fue lanzada el 22 de noviembre del 2019.
+Civilization VI incluye algunas mejoras además de las mecánicas comunes de la franquicia.
+Se basa en el modo de juego general de Civilization V, incluyendo la continuación de la utilización de casillas hexagonales.
+Lo nuevo en Civilization VI es la idea del "desapilamiento de ciudades": algunas mejoras a las ciudades deben colocarse en los hexágonos dentro de los límites de la ciudad pero no dentro del espacio de la ciudad, mientras que en juegos anteriores, todas las mejoras se consideraron apiladas en el mismo mapa hexagonal o cuadrado en el que se encuentra la ciudad.
+El jugador debe asignar casillas específicas como "distritos" en la ciudad, que tienen ciertas limitaciones pero otorgan bonificaciones por mejoras ubicadas en ese distrito.
+Por ejemplo, el distrito de campamento especializa una ciudad para el entrenamiento de unidades militares, y permite la construcción de más edificios que otorguen bonos de producción y experiencia a dichas unidades.
+Tales campamentos no se pueden colocar al lado del centro principal de la ciudad.
+Otras mejoras obtienen bonificaciones por colocarse en el terreno apropiado: los campus se benefician enormemente al colocarse junto a casillas de montañas y de selvas, lo que refleja el avance científico del estudio de la diversidad de especies dentro de dichos biomas.
+Los jugadores pueden optar por atacar distritos específicos de una ciudad en lugar del centro de la ciudad, lo que puede afectar el funcionamiento de la ciudad.
+Estos distritos también pueden agregar nuevas estrategias a la defensa de la ciudad.
+Por ejemplo, con un campamento militar en su lugar, las fuerzas atacantes que se acercan a una ciudad no solo están sujetas a ataques a distancia desde el centro de la ciudad, sino también desde el campamento.
+Las fuerzas atacantes pueden necesitar tomar el campamento primero antes de que puedan atacar con éxito el centro de la ciudad.
+Para reducir la congestión en el mapa, los jugadores pueden realizar una cantidad limitada de apilamiento de unidades (un cambio de Civilization V), pero solo pueden apilar unidades o unidades simbióticas similares.
+Por ejemplo, una unidad guerrera se puede asignar a una unidad constructora para proteger a esa unidad de los bárbaros en el juego inicial.
+El árbol tecnológico del juego, ahora conocido como el sistema de investigación activo, también se ha modificado para ayudar a impulsar la investigación tecnológica si el jugador tiene acceso a mejoras o recursos apropiados.
+Por ejemplo, haber construido una cantera ayuda a impulsar la investigación en mampostería.
+Las tecnologías basadas en tener acceso al agua, como la navegación, serían limitadas si el jugador comenzase en el medio de un continente.
+Una nueva característica, momentos eureka, es capaz de aumentar el progreso del jugador hacia ciertas tecnologías después de completar una tarea específica en el juego: por ejemplo, descubrir una maravilla natural contribuiría a la mejora de la tecnología de astrología.
+Se encontró que las interacciones pasadas del juego son difíciles de ganar si se elige seguir una ruta de victoria cultural.
+Para ayudar a equilibrar el juego hacia victorias culturales, se ha introducido un nuevo árbol de principios cívicos.
+El árbol de principios trae las mejoras culturales que anteriormente formaban parte del árbol de tecnología en los juegos anteriores de Civilization, como el drama y la filosofía, en una mecánica separada.
+La cultura obtenida de las ciudades se usa para avanzar en el árbol de principios de la misma manera.
+La ciencia de las ciudades avanza el árbol tecnolólgico (incluyendo los eurekas, llamados inspiraciones en el árbol de principios).
+Completar ciertos principios cívicos desbloqueará las políticas hacia el gobierno de la civilización.
+En Civilization VI, el gobierno se define colocando políticas apropiadas y disponibles, representadas como tarjetas de política, en una serie de ranuras divididas entre categorías militares, económicas, diplomáticas y de comodines.
+Estos definen aumentos o limitaciones para la civilización, como bonos de ataque mejorados para unidades militares contra ciertos tipos de enemigos.
+Estos se pueden cambiar de forma gratuita al completar un principio cívico, o a un pequeño costo de oro en cualquier otro momento, lo que permite a un jugador en la ruta cultural adaptarse a una nueva situación según sea necesario, según el productor principal Dennis Shirk.
+Las tarjetas más avanzadas, que solo se pueden obtener a través de un avance significativo en el árbol de principios, pueden desbloquear mejoras que le dan al jugador ventajas para la victoria cultural sobre otros jugadores, como reducir el tiempo o el costo de producir nuevas unidades.
+Varias elecciones hechas por el jugador pueden causar infelicidad en su población como en juegos anteriores, pero en Civilization VI, muchas de estas se localizaron en la ciudad afectada por la elección en lugar de la población entera, ayudando más a los jugadores del estilo victoria cultural.
+El sistema de religión introducido en la expansión Gods & Kings de Civilization V se construye más adelante en VI, con más unidades y mejoras que pueden conducir a conflictos interreligiosos.
+Los oponentes de la IA, representados por líderes mundiales históricos famosos, tienen nuevas agendas que influyen en cómo el jugador interactúa con ellos.
+Algunos de estos son exclusivos de cada líder y utilizan aspectos históricos sobre cómo ese líder se comportó generalmente durante su gobierno.
+Por ejemplo, un jugador puede ganar el favor de Cleopatra mostrando poder militar contra bárbaros neutrales.
+Sin embargo, cada jugador IA tiene una segunda agenda oculta, lo que requiere que el jugador descubra esto por sí mismo.
+El espionaje ahora también trabaja para revelar estas agendas ocultas.
+Algunas civilizaciones en el juego pueden tener dos o más líderes de los que el jugador puede seleccionar, proporcionando un conjunto diferente de habilidades de líder únicas sobre las unidades únicas que tiene la civilización en sí.
+Existen 18 civilizaciones en la versión original de Civilization VI.
+A diferencia de su antecesor, regresa los líderes múltiples para algunas civilizaciones (siendo Grecia la única en la versión original); mientras que cada civilización tendrá una unidad especial (algunos dos gracias a la habilidad del líder), una infraestructura única (pudiendo ser edificio, mejora o distrito único), dos habilidades especiales, siendo una de ellas exclusivo de la civilización y otro del líder, y una agenda histórica para cada líder que delimitará su comportamiento con el resto de las civilizaciones.
+Hasta el momento hay un total de 50 civilizaciones y 54 líderes si se incluye todos los DLC y las expansiones.
+El juego tiene 13 DLC, de las cuales 12 de las 13 incluyen a las civilizaciones de Polonia, Australia, el doble pack de Persia y Macedonia, Nubia, el doble pack de Indonesia y Jémer, y del Pack New Frontier Pass, el doble pack de Mayas y Gran Colombia, Etiopía, el doble pack de Bizancio y Galia, Babilonia, el doble pack de Vietnam y Kublai Kan, y Portugal con sus respectivos líderes, 7 de los DLC incluyen escenarios.
+Hasta el momento el juego tiene 6 escenarios para jugar, todos provenientes de DLC.
+El 23 de septiembre de 2016, 2K Games confirmó los requisitos técnicos para Civilization VI.
+Requisitos mínimos
+Requisitos recomendados
+El compositor Christopher Tin, quien ya escribió para la saga "Baba Yetu", la canción de Civilization IV, compuso el tema principal del juego, "Sogno di Volare".
+La banda sonora fue escrita y orquestada principalmente por Geoff Knorr, quien fue asistido por Roland Rizzo, Griffin Cohen y Phill Boucher.
+Cada civilización cuenta con sus propios temas, los cuales van variando a través de las eras que van pasando en el juego.
+Civilization VI ha recibido críticas de elogio.
+Metacritic y GameRankings le dieron una puntuación de 90/100 y 90.67%, respectivamente.
+En su análisis, IGN España le dio una puntuación de 8.9/10 mencionando que "Civilization VI ha llegado para quitarnos el sueño a todos. Firaxis ha sabido reinventar la rueda y conseguir que esta funcione a la perfección."
+Destacó aspectos positivos en cuanto a sus modificaciones en la interfaz y la variedad en la campaña.
+A fines de 2017, Firaxis anunció la primera expansión del juego: Civilization VI: Rise and Fall.
+La cual salió el 8 de febrero de 2018.
+En esta expansión se agrega el concepto de auge y caída de las civilizaciones.
+Las ciudades ahora cuentan con un sistema de Lealtad el cual si es demasiado bajo, la ciudad se independiza convirtiéndose en una ciudad libre y posteriormente podría unirse a otra civilización.
+Una civilización puede entrar a una Edad de Oro si cumple con ciertos hitos que le permiten elegir bonificaciones especiales para dicha edad, pero si la civilización no puede seguir cumpliendo con los hitos podría entrar a una Edad Oscura que afectaría la lealtad en todas las ciudades.
+El jugador puede optar por implementar poderosas políticas de la Edad Oscura, pero tienen un costo.
+Si un jugador que está en la Edad Oscura logra completar hitos para subir la civilización a una Edad de Oro, en vez de pasar a una Edad de Oro, pasa a una Edad Heroica, con el derecho de elegir 3 bonificaciones.
+La expansión también agrega gobernadores que permiten incrementar la lealtad y ofrece bonificaciones en la ciudad donde se ubique el gobernador con la posibilidad de ascenderlos y permitir nuevas bonificaciones para la ciudad.
+En noviembre de 2018, Firaxis anunció la segunda expansión del juego: Civilization VI: Gathering Storm.
+El mismo salió el 14 de febrero de 2019.
+La expansión agrega el concepto de los desastres naturales, ahora las civilizaciones se enfrentan a inundaciones, incendios, erupciones volcánicas, sequías, huracanes entre otros desastres naturales que afectan la jugabilidad.
+Adicionalmente al juego se incorpora un sistema de cambio climático que aumenta las catástrofes conforme van evolucionando las fases.
+También se rebalancea las civilizaciones base para estar acordes a las nuevas expansiones.
+El juego se envió originalmente con el software de seguimiento de anuncios Red Shell, pero se eliminó después de las quejas de los jugadores, algunos de los cuales caracterizaron el software como spyware.

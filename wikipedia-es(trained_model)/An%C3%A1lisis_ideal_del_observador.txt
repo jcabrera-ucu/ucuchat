@@ -1,0 +1,23 @@
+El análisis ideal del observador es un método para investigar cómo se procesa la información en un sistema perceptivo.
+También es un principio básico que guía la investigación moderna en percepción.
+El observador ideal es un sistema teórico que realiza una tarea específica de manera óptima.
+Si hay incertidumbre en la tarea, entonces el rendimiento perfecto es imposible y el observador ideal cometerá errores.
+El rendimiento ideal es el límite superior teórico de rendimiento.
+Teóricamente es imposible que un sistema real funcione mejor que el ideal.
+Por lo general, los sistemas reales solo son capaces de un rendimiento sub ideal.
+Esta técnica es útil para analizar datos psicofísicos (ver psicofísica).
+Se han ofrecido muchas definiciones de este término.
+Geisler (2003) (ligeramente redactado): el concepto central en el análisis del observador ideal es el observador ideal, un dispositivo teórico que realiza una tarea determinada de manera óptima dada la información disponible y algunas restricciones específicas.
+Esto no quiere decir que los observadores ideales se desempeñen sin error, sino que se desempeñen al límite físico de lo que es posible en la situación.
+El papel fundamental de la incertidumbre y el ruido implica que los observadores ideales deben definirse en términos probabilísticos (estadísticos).
+El análisis del observador ideal implica determinar el desempeño del observador ideal en una tarea dada y luego comparar su desempeño con el de un sistema perceptivo real, que (dependiendo de la aplicación) podría ser el sistema en su conjunto, un subsistema o un componente elemental del sistema (por ejemplo, una neurona).
+En el análisis secuencial del observador ideal, el objetivo es medir el déficit de rendimiento de un sistema real (en relación con el ideal) en diferentes etapas de procesamiento.
+Tal enfoque es útil cuando se estudian sistemas que procesan información en etapas o módulos discretos (o semi-discretos).
+Para facilitar el diseño experimental en el laboratorio, se puede diseñar una tarea artificial para que se pueda estudiar el rendimiento del sistema en la tarea.
+Si la tarea es demasiado artificial, el sistema puede ser alejado de un modo natural de operación.
+Dependiendo de los objetivos del experimento, esto puede disminuir su validez externa.
+En tales casos, puede ser importante mantener el sistema funcionando de forma natural (o casi natural) diseñando una tarea pseudo-natural.
+Dichas tareas siguen siendo artificiales, pero intentan imitar las demandas naturales que se imponen a un sistema.
+Por ejemplo, la tarea podría emplear estímulos que se asemejan a escenas naturales y podría probar la capacidad del sistema para hacer juicios potencialmente útiles sobre estos estímulos.
+Las estadísticas de escenas naturales son la base para calcular el rendimiento ideal en tareas naturales y pseudonaturales.
+Este cálculo tiende a incorporar elementos de la teoría de detección de señal, teoría de la información o teoría de la estimación.

@@ -1,0 +1,17 @@
+ADAMTS13 (A disintegrin-like and metalloprotease with thrombospondin type 1 motif no. 13).
+Es una desintegrina (también conocida como proteasa de escisión del factor de von Willebrand) y metaloproteinasa (enzima con zinc), que escinde el enlace de Tyr1605-Met1606 del dominio A2 del factor de von Willebrand, una gran proteína involucrada en el proceso de coagulación.
+Es secretada a la sangre y se encarga de degradar los multímeros del factor vWF, disminuyendo su actividad.
+El gen encargado de codificar la proteína ADAMTS13 se encuentra en el brazo largo del cromosoma 9 (locus 9q34).
+Desde 1982 se sabe que la púrpura trombocitopénica trombótica (PTT), un tipo de anemia hemolítica microangiopática; estaba caracterizada en su forma familiar por la presencia en plasma de unos multímeros inusualmente grandes del factor de von Willebrand (ULVWF, por las siglas en inglés de unusually large von Willebrand factor multimers).
+En 1994 se demostró que el FvW era degradado por una metaloproteasa plasmática que catalizaba la ruptura de la proteína entre una tirosina ubicada en la posición 1605 y una metionina ubicada en la posición 1606 cuando era expuesta a altos niveles de tensión de corte.
+En 1996 dos grupos de investigación caracterizaron en forma independiente a esta enzima.
+En los siguientes dos años, los mismos dos grupos demostraron que la deficiencia congénita de esta proteasa capaz de actuar sobre el FvW, se encontraba asociada a la formación de microtrombos plaquetarios en los pequeños vasos.
+Adicionalmente reportaron que los anticuerpos IgG dirigidos contra esta proteasa eran los responsables de la mayor parte de los casos de PTT no familiares.
+Genómicamente, ADAMTS13 comparte muchas propiedades con la familia ADAMTS que posee 19 miembros, los cuales se caracterizan por poseer un dominio proteasa (la parte que desempeña la hidrólisis proteica), un dominio desintegrina adyacente y uno o más dominios trombospondina.
+ADAMTS13 de hecho posee ocho dominios trombospondina.
+No presenta ningún dominio transmembrana, y por lo tanto no se encuentra anclado a la membrana celular.
+La deficiencia de ADAMTS13 fue originalmente descubierta en el síndrome de Upshaw-Schülman, la forma familiar recurrente de PTT.
+Para ese momento ya se sospechaba la forma autoinmune de PTT estaba relacionada con esta proteína, en relación con la respuesta positiva a la plasmaféresis de esta forma autoinmune, y a la caracterización de los inhibidores de tipo IgG.
+Desde el descubrimiento de ADAMTS13, se ha demostrado que los anticuerpos inhibidores se encuentran dirigidos contra epítopos específicos en la superficie de esta proteína.
+Especialmente desde que se demostró la relación entre la estenosis de válvula aórtica y la angiodisplasia eran debidas a una alta tensión cortante (síndrome de Heyde), se acepta que un aumento en la exposición del FvW a la acción de la ADAMTS13, por varios motivos diferentes; puede predisponer a hemorragias por falta de FvW.
+Este fenómeno se caracteriza por una forma de enfermedad de von Willebrand (tipo 2a).

@@ -1,0 +1,11 @@
+Se denomina autoprotólisis al equilibrio químico que presentan las moléculas de agua con los iones hidronio e hidroxilo.
+En la "autoprotolisis" se transfiere un protón entre dos moléculas idénticas, una de las cuales actúa como un ácido de Brønsted, liberando un protón que es aceptado por la otra molécula actuando como un base de Brønsted].
+Por ejemplo, el agua se somete a autoprotolisis en la reacción autoionización del agua.
+El resultado de esta transferencia de protones es la formación de los iones H3O+ e iones OH-, como se ve acontinuacion:
+La concentración de estos iones en agua pura y a una temperatura de 25 °C, es muy baja, del orden de 10-7 mol/L.
+A pesar de la baja concentración de estas especies, una leve alteración en la concentración de cualquiera de ellas, puede tener implicaciones muy importantes desde el punto de vista de la reactividad de las sustancias presentes en disolución.
+La sola adición de unas gotas de ácido clorhídrico concentrado a un litro de agua pura puede variar el pH original en varias unidades.
+Cualquier solvente que contenga hidrógeno ácido y pares de electrones solitarios para aceptar H+ puede someterse a autoprotolisis.
+Por ejemplo, amoníaco en su forma más pura puede someterse a autoprotolisis:
+Otro ejemplo es ácido acético:
+2  +

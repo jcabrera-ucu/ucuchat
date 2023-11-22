@@ -1,0 +1,11 @@
+La exsecante, abreviadamente exsec, es una función trigonométrica que se puede definir en función de la secante sec(θ):
+En su tiempo fue importante en campos como la agrimensura, astronomía, y la trigonometría esférica, pero hoy en día se usa poco.
+Esto es debido principalmente a que la disponibilidad de calculadoras y ordenadores ha eliminado la necesidad de las tablas trigonométricas de funciones especializadas como esta.
+Una función relacionada es la excosecante (excsc), la exsecante del ángulo complementario:
+El motivo para definir una función especial para la exsecante es similar al motivo para definir el verseno: para ángulos pequeños θ, la sec(θ) es muy cercana a 1, por lo tanto, si se usa la fórmula para calcular la exsecante a partir de la secante, hay que restar dos cantidades casi iguales, esto exagera los errores.
+Así, si se tiene que usar una tabla de la función secante para calcular la exsecante hace falta que tenga una exactitud muy alta, por eso es útil tener una tabla especializada para el cálculo de la exsecante.
+Incluso con un ordenador, los errores de coma flotante pueden ser problemáticos para el cálculo de la exsecante de ángulos pequeños.
+Una fórmula más exacta en este límite es usar la identidad:
+Antes de la existencia de los ordenadores, esto requería multiplicaciones que llevaban bastante tiempo.
+El nombre de exsecante se puede entender a partir de la construcción gráfica que se puede ver en la circunferencia goniométrica de la imagen.
+La sec(θ) es la secante, y la exsecante es el pedazo de esta secante que queda en el exterior del círculo (ex del Latín fuera de).

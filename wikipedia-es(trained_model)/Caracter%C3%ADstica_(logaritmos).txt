@@ -1,0 +1,15 @@
+La característica es la parte entera de un logaritmo decimal o común, o el número entero inmediatamente inferior o igual al logaritmo; llamándose mantisa su complemento decimal.
+La característica indica la posición de la coma en el número asociado al logaritmo.
+Por coincidir la base de la numeración (10) con la base de los logaritmos comunes, la característica puede determinarse por simple apreciación: para números mayores que la unidad, es positiva y coincide con el número de cifras de la parte entera del número asociado menos uno.
+Así, la característica del logaritmo de un número mayor o igual a 1 y menor que 10 (una cifra) es cero.
+Es lógico, ya que el logaritmo decimal de uno es cero, y el de diez, uno.
+Del mismo modo, la de los números mayores o iguales a 10, pero menores que 100 (dos cifras), será 1; la de los mayores o iguales a 100, pero menores que 1000 (tres cifras), será 2... La característica del logaritmo de un número comprendido entre 0 y 1 es negativa, tanto más cuanto más se acerque el número a cero, concretamente igual al número de ceros entre la coma decimal y la primera cifra significativa del número, más uno.
+Así, la característica del logaritmo de un número menor que 1 pero mayor o igual que 0,1 es –1; la de un número menor que 0,1, pero mayor o igual que 0,01 es –2...
+Así pues, si se conoce el número, la característica se puede averiguar simplemente observando la ubicación de la coma decimal respecto a la primera cifra significativa; y, al contrario, si se conoce la característica, resulta directo ubicar correctamente la coma decimal en el número asociado.
+Las tablas de logaritmos suelen contener únicamente las mantisas, con mayor o menor precisión, pues las características, como se ha explicado, son fácilmente deducibles.
+La característica coincide siempre con el exponente del número asociado al logaritmo puesto en notación científica; pues ambas cifras representan, en realidad, lo mismo.
+Los logaritmos se suelen expresar simplemente como si fueran un número decimal, colocando la característica en la parte entera y la mantisa en la decimal.
+Sin embargo, si la característica del logaritmo es negativa no se escribe en la forma –característica,mantisa; pues eso parece indicar que tanto la característica como la mantisa son negativas.
+Hay varias formas de resolver este conflicto: la más habitual es colocar una barra superior sobre la característica, indicando que es negativa, pero que la mantisa es positiva, en la forma ; o bien subrayarla con idéntico significado, en la forma característica,mantisa.
+Otra manera es posponer la característica por detrás de la mantisa, en el modo cero,mantisa—característica, de forma que queda claro lo que se pretende expresar.
+Una variante de esta última es sumar una cierta cantidad a la característica para hacerla positiva y restársela por detrás de la mantisa, de forma que el resultado sea el mismo; por ejemplo:

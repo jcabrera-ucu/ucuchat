@@ -1,0 +1,23 @@
+El estero de la Cadena es un curso natural de agua que nace en la cordillera de los Andes en la Región de O'Higgins y desemboca en el río Cachapoal.
+Hans Niemeyer advierte que se llama "estero Las Cadenas o La Cadena", pero en el mapa de ubicación a la derecha, aparece con el nombre "E. Cadena".
+A la incertidumbre se suma que existen dos "Cadenas" más.
+El estero La Cadena (Tinguiririca) nace en la cordillera de la Costa y desemboca en el río Tinguiririca poco antes de su desembocadura en el Cachapoal, es decir en la misma cuenca del río Rapel.
+El otro es un subafluente del estero Nilahue, es decir en la cuenca con que la del Rapel limita al sur.
+El nombre mismo proviene, según Astaburuaga (ver más abajo), de una cadena que separaba dos propiedades.
+El informe diagnóstico de la Dirección General de Aguas describe el curso del estero en las siguientes palabras: "El estero La Cadena nace de la junta de los esteros Leonera y Machalí, al norte de la ciudad de Rancagua. Presenta un sentido de escurrimiento este-oeste hasta aproximadamente 15 km aguas abajo de su nacimiento. En la junta con el curso intermitente de aguas denominado quebrada La Alfalfa, y probablemente debido a un control estructural de la geología en el sector, presenta un cambio en la dirección de escurrimiento, transportando las aguas en sentido norte-sur hasta su confluencia con el río Cachapoal, aproximadamente 10 km aguas abajo de la junta con quebrada La Alfalfa."
+El estero Machalí nace entre los cerros Machalí (1536 m) y el Monte de León (1390) y es un típico estero de precordillera.
+La subcuenca media del Cachapoal, que comprende desde la junta del estero La Cadena hasta la junta con el río Claro de Rengo, incluyendo ambos afluentes, tiene un régimen nivo-pluvial, con una mayor influencia nival que pluvial.
+En años lluviosos, las crecidas se presentan entre junio y julio, y diciembre y enero, producto de lluvias invernales y deshielos cordilleranos, respectivamente.
+El período de estiaje ocurre en el trimestre abril-junio.
+El caudal del río (en un lugar fijo) varía en el tiempo, por lo que existen varias formas de representarlo.
+Una de ellas son las curvas de variación estacional que, tras largos periodos de mediciones, predicen estadísticamente el caudal mínimo que lleva el río con una probabilidad dada, llamada probabilidad de excedencia.
+La curva de color rojo ocre (con ) muestra los caudales mensuales con probabilidad de excedencia de un 50%.
+Esto quiere decir que ese mes se han medido igual cantidad de caudales mayores que caudales menores a esa cantidad.
+Eso es la mediana (estadística), que se denota Qe, de la serie de caudales de ese mes.
+La media (estadística) es el promedio matemático de los caudales de ese mes y se denota.
+Una vez calculados para cada mes, ambos valores son calculados para todo el año y pueden ser leídos en la columna vertical al lado derecho del diagrama.
+El significado de la probabilidad de excedencia del 5% es que, estadísticamente, el caudal es mayor solo una vez cada 20 años, el de 10% una vez cada 10 años, el de 20% una vez cada 5 años, el de 85% quince veces cada 16 años y la de 95% diecisiete veces cada 18 años.
+Dicho de otra forma, el 5% es el caudal de años extremadamente lluviosos, el 95% es el caudal de años extremadamente secos.
+De la estación de las crecidas puede deducirse si el caudal depende de las lluvias (mayo-julio) o del derretimiento de las nieves (septiembre-enero).
+Francisco Solano Asta-Buruaga y Cienfuegos escribió en 1899 en su obra póstuma Diccionario Geográfico de la República de Chile sobre el río:
+El informe diagnóstico de la DGA antes mencionado, advierte que "En términos de las presiones ambientales existentes en el estero La Cadena, se puede indicar que corresponde a un sistema hídrico con potenciales problemas de contaminación debido a las descargas de plantas de tratamiento de aguas servidas y aportes difusos de agroindustrias que directa o indirectamente descargan sus residuos al estero."

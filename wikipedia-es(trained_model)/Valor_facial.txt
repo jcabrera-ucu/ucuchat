@@ -1,0 +1,5 @@
+Valor facial de estampillas, monedas y billetes es el que le asignó la casa de impresión, mientras que el valor nominal se refiere generalmente al valor verdadero de la moneda, estampilla o acción (como con las monedas de circulación).
+Puede a veces ser en gran parte simbólico, por ejemplo un pliego de centavos de escudos de 1972.
+En el caso de los certificados comunes, el valor nominal es el valor nominal de la acción.
+En el caso de la acción ordinaria, el valor nominal es en gran parte simbólico.
+En el caso de la acción preferida, los dividendos se pueden expresar como porcentaje del valor nominal.

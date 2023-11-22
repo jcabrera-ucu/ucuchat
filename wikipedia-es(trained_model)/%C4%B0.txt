@@ -1,0 +1,11 @@
+La İ (i con punto) es una grafía del alfabeto turco usado también en el gagaúzo, azerí, y el tártaro, en contraposición con la ı (i sin punto).
+En todas estas lenguas representa el sonido de una i latina, cuyo símbolo fonético es [i].
+La confusión entre la i con y sin punto puede ocurrir durante el uso de aparatos digitales.
+A muchos de los teléfonos móviles usados en Turquía, anteriores a los smartphones, les faltaba una propia localización de idiomas por lo que sustituían ı por i en los mensajes SMS, lo que en ocasiones distorsionaba el sentido del texto.
+En una ocasión, fue debido a un problema de comunicación lo que llevó a la muerte a Emine y Ramazan Çalçoban en 2008.
+El uso de "i" resultó en un significado totalmente retorcido: en vez de la palabra "sıkışınca" parecía que la palabra que él había escrito era "sikişince".
+Ramazan quería escribir "cambias de tema cada vez que te quedas sin argumentos" pero lo que Emine leyó fue una expresión malsonante.
+Una sustitución muy común que evita esto es usa el número 1 para la ı sin punto.
+Esto también es habitual en Azerbaiyán, a pesar de que el significado de las palabras generalmente es fácil de entender.
+En Unicode hay un carácter especial para la i con punto mayúscula, que tiene el código U+0130.
+Puesto que el glifo de la I con punto minúscula, es el de una letra I latina normal, no hay un carácter especial para esta.

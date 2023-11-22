@@ -1,0 +1,18 @@
+Arianna Wright Rosenbluth (15 de septiembre de 1927-28 de diciembre de 2020) fue una física estadounidense que contribuyó al desarrollo del algoritmo Metropolis-Hastings.
+Escribió la primera implementación completa del método de Monte Carlo en cadena de Márkov.
+Rosenbluth nació el 15 de septiembre de 1927 en Houston, Texas.
+Cursó estudios superiores en el Instituto Rice, que pasó a llamarse más tarde Universidad Rice, donde recibió una licenciatura en ciencias en 1946.
+Durante su etapa universitaria, practicó esgrima de manera competitiva y ganó el campeonato femenino de Texas en florete y el campeonato masculino de Houston.
+Se clasificó para los Juegos Olímpicos, pero no pudo competir porque los Juegos de Verano de 1944 se cancelaron debido a la Segunda Guerra Mundial y no pudo permitirse el viaje a los Juegos de 1948 en Londres.
+En 1947 obtuvo una maestría en Artes de Radcliffe College antes de comenzar su doctorado en Física en la Universidad de Harvard bajo la supervisión del Premio Nobel John Hasbrouck Van Vleck.
+En esa época Van Vleck también supervisaba al futuro premio Nobel Philip Warren Anderson y al filósofo Thomas Kuhn.
+Completó su tesis, titulada Algunos aspectos de la relajación paramagnética, en 1949, a la edad de 22 años.
+Rosenbluth obtuvo una beca postdoctoral de la Comisión de Energía Atómica para la Universidad de Stanford y a continuación estuvo empleada en Laboratorio Nacional de Los Álamos.
+Durante su estancia en la Universidad de Stanford conoció a Marshall Rosenbluth con el que se casó el 26 de enero de 1951.
+Tras el nacimiento de su primer hijo, Rosenbluth dejó la investigación para dedicarse a su familia.
+La pareja tuvo cuatro hijos antes de divorciarse en 1978.
+Rosenbluth murió el 28 de diciembre de 2020 en el área metropolitana de Los Ángeles, por complicaciones de COVID-19 durante la pandemia de COVID-19 en California.
+En el Laboratorio Nacional de Los Álamos, su investigación se centró en el desarrollo de bombas atómicas y la mecánica estadística.
+Junto con su esposo Marshall Rosenbluth, verificó los cálculos analíticos para la prueba de la primera bomba de hidrógeno Ivy Mike utilizando el SEAC, una computadora construida en 1950 en la Oficina Nacional de Estándares.
+Una vez completada la computadora MANIAC I en Los Álamos, colaboró con Nicholas Metropolis, Marshall Rosenbluth, Augusta Teller y Edward Teller para desarrollar el primer algoritmo de Monte Carlo en cadena de Márkov, en particular el algoritmo prototípico Metropolis-Hastings, publicado en el artículo Cálculos de ecuación de estado por máquinas de computación rápida.
+Durante los años siguientes, Rosenbluth y su marido aplicaron el método a estudios novedosos de sistemas mecánicos estadísticos, incluidas esferas duras tridimensionales y moléculas Lennard-Jones bidimensionales y cadenas moleculares bidimensionales y tridimensionales.

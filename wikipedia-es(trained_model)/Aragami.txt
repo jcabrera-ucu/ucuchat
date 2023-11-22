@@ -1,0 +1,59 @@
+Aragami (En japonés 荒 神) es un videojuego español perteneciente al género de sigilo, y de acción y aventura desarrollado y publicado por Lince Works para Linux, Microsoft Windows, OS X, PlayStation 4, Xbox One y Nintendo Switch.
+El juego originalmente se tituló Almas gemelas: el camino de las sombras (Twin Souls: The Path of Shadows).
+Los jugadores asumen el papel de Aragami, un asesino con habilidades sobrenaturales.
+El jugador puede teletransportarse entre las sombras y enfrentarse a un ejército enemigo que se conoce con el nombre de 'Kaiho'.
+Este ejército contrario está formado por guerreros místicos con el poder de controlar la luz.
+El jugador controla al espíritu de las sombras, Aragami, quien intenta llegar al final de los trece capítulos del mundo abierto en orden.
+Para completar un capítulo, el jugador debe ir a ciertas áreas para recolectar elementos o destruir obstáculos y llegar a la salida del nivel.
+Aragami puede teletransportarse a cualquier parte del mapa en un cierto radio donde se proyecta una sombra, pero al hacerlo gasta "Esencia de sombra", que se muestra como un metro en su capa.
+La esencia de las sombras se repone al estar de pie en las sombras y se drena al estar cerca de fuentes de luz intensa, como linternas.
+Más adelante en el juego, el jugador gana un cuervo que le mostrará la ubicación de los objetivos a través de las paredes y un conjunto de campanas que pueden sonar para atraer a los enemigos a otros lugares.
+Cada capítulo está patrullado por muchos guardias.
+Los guardias básicos con espada son el enemigo más común y pueden lanzar proyectiles ligeros para matar al jugador.
+También hay arqueros que patrullan áreas elevadas y pueden detectar al jugador a una distancia más larga mientras apuntan, y espadachines rodeados por una antorcha que matan al jugador al contacto.
+Un guardia puede morir instantáneamente atacándolo dentro de un cierto rango, pero el único enemigo que debe ser eliminado para completar un capítulo es el jefe (si está presente).
+Observar la evidencia de la presencia del jugador (como el sonido de sus compañeros muriendo o detectar al jugador en la distancia) hará que los guardias sospechen, lo que hará que desenvainen sus espadas e investiguen.
+Si encuentran un cadáver o ven al jugador con claridad, tocarán un cuerno, lo que hará que todos los guardias busquen activamente a Aragami temporalmente.
+y hacer que se vuelvan más sospechosos si el jugador evade la detección.
+Cualquier golpe exitoso de un guardia matará a Aragami instantáneamente, devolviendo al jugador al último punto de control para volver a intentarlo.
+El jugador también puede morir al caer al agua.
+A medida que el jugador explora los niveles, puede encontrar varios pergaminos ocultos.
+Los pergaminos se pueden usar para desbloquear varias habilidades útiles, como la capacidad de volverse temporalmente invisible o hacer que los cadáveres desaparezcan.
+Las "habilidades" dependen de la esencia de las sombras de Aragami o tienen usos infinitos.
+Las "técnicas" son más poderosas, pero solo tienen dos usos, no pueden dañar a los jefes y solo se pueden equipar de una en una (aunque el jugador puede cambiar entre ellas en cualquier momento).
+Los santuarios colocados escasamente a lo largo del nivel rellenarán todas las técnicas equipadas del jugador.
+Aragami es convocado a la existencia una noche por una proyección astral de Yamiko, una chica que se identifica a sí misma como una cautiva de Kaiho, un ejército de adeptos de la luz.
+Ella los describe como opresores que conquistaron la tierra de la sombra de Nisshoku, liderada por la Emperatriz de las Sombras.
+Ella afirma que después de ganar la guerra, encarcelaron a la Emperatriz y sus sirvientes en el templo principal de Nisshoku, incluido Yamiko.
+Ella solicita la ayuda de Aragami para liberarlos, para lo cual necesita seis talismanes para desbloquear la prisión.
+Esto debe hacerse antes del final de la noche, porque Aragami se disolverá si la luz del sol lo toca.
+Cuando Aragami recupera los talismanes, estos le provocan extraños recuerdos.
+Él ve la vida anterior de Yamiko como una huérfana escondida en las montañas, y de su entrenamiento junto al líder del gremio Nisshoku y el consejero de la Emperatriz de las Sombras, Hyo.
+También es testigo de los recuerdos de otra persona que esgrimió la luz, concluyendo que son los recuerdos del general enemigo al que fue llamado a matar.
+Encuentran la espada de Hyo diseñada como una lápida, confirmando su muerte.
+Yamiko se enoja y jura venganza, y Aragami promete ayudarla a lograrlo.
+Se encuentra con Hikaru, el último capitán del Kaiho, los otros capitanes murieron en la guerra.
+Aragami lucha y derrota a Hikaru.
+Antes de morir, Hikaru hace un comentario que implica a Yamiko como la Emperatriz de las Sombras, antes de suicidarse en una explosión de luz en un intento de matar a Aragami.
+Aragami sobrevive, y Yamiko admite que ella es la Emperatriz de las Sombras, pero afirma que estaba avergonzada de decírselo debido a su impotencia.
+Después de encontrar el último talismán, Aragami viaja al templo donde se encuentra Yamiko.
+Sora, el general de Kaiho, le impide avanzar, pero él se abre camino hasta el templo y la hiere de muerte.
+Mientras agoniza, Sora lo reconoce por su comportamiento: es el espíritu de Ryo, el primer general del Kaiho, y los recuerdos del portador de la luz son los suyos.
+Él, Sora, Hikaru y los otros capitanes llevaron al Kaiho a purgar el malvado ejército de sombras de los Nisshoku de la tierra muchos años antes, pero Ryo se sacrificó para completar el hechizo que aprisionó a la Emperatriz de las Sombras.
+Mientras Aragami está angustiado por matar a sus compañeros, Sora agradece la oportunidad de volver a verlo.
+Después de que Sora expira, Yamiko se libera con los talismanes y revela su verdadera forma.
+Ella revela su intención de matar a Aragami para reclamar una parte de su alma que estaba unida a la de él durante el ritual de sellado de Kaiho, explicando cómo experimentó sus recuerdos.
+Mientras tanto, Aragami se burla de ella diciéndole que ella era un peón que Hyo usó para construir un imperio usando el miedo para gobernar la tierra.
+Aragami luego toma su espada original, llevada por Sora después de su primera muerte, y derrota a Yamiko cuando comienza a amanecer.
+Recordando las similitudes entre sus infancias, las describe como almas gemelas en un ciclo interminable de venganza, y afirma que desearía que hubiera otra forma de ponerle fin.
+Yamiko está de acuerdo en silencio, y mientras Aragami la mata, son envueltos por una explosión de luz.
+Durante los créditos, se muestra una imagen del trono de la Emperatriz de las Sombras.
+Antes, la espada de Ryo se ha incrustado en el suelo, con la muñeca de la infancia de Yamiko, el primero de los talismanes, a su lado.
+Aragami recibió críticas "mixtas o promedio" según la página de críticas y reseñas Metacritic, destacando especialmente la versión de PlayStation 4, la cual califico como la mejor versión del videojuego al eliminar completamente todos los defectos técnicos.
+La versión para Xbox de Aragami: Shadow Edition fue llamada un "videdojuego de sigilo perfecto" por Windows Central.
+El juego vendió más de 500.000 copias en marzo de 2020.
+En mayo de 2018, Lince Works anunció la fecha de lanzamiento de una precuela en forma de contenido descargable, llamada Aragami: Anochecer (En inglés Aragami: Nightfall), que seguía a los personajes de Nisshoku, Hyo y Shinobu, mientras intentaban romper el sello encarcelando a la Emperatriz de las Sombras, así como un paquete titulado Aragami: Shadow Edition o Aragami: Edición de Sombras que contiene el juego base y el Contenido Descargable.
+En agosto de 2018, Lince Works anunció una asociación con Merge Games para llevar Aragami: Shadow Edition a Nintendo Switch.
+Fue lanzado el 22 de febrero de 2019.
+En 2020, Lince Works anunció una secuela titulada Aragami 2 para las consolas PlayStation 4, PlayStation 5, Xbox One, Xbox Series X / S y PC.
+Fue lanzado el 17 de septiembre de 2021.

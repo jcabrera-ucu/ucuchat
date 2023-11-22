@@ -1,0 +1,9 @@
+En enzimología, una estearil-CoA 9-desaturasa (EC 1.14.19.1) es una enzima usada para generar el ácido graso ácido oleico monoinsaturado desde el ácido esteárico saturado.
+Cataliza la reacción química:
+Estearil-CoA + 2 ferrocitocromo b5 + O2 + 2 H+ → oleoil-CoA + 2 ferrocitoromo b5 + 2 H2O
+Los cuatro sustratos de esta enzima son estearil-CoA, ferrocitocromo b5, O2, y H+, mientras que los tres productos son oleoil-CoA, ferrocitocromo b5 y H2O.
+Esta enzima pertenece a la familia de las oxidorreductasas, específicamente esas que actúan en pares donadores, con O2 como oxidante y la incorporación o reducción de oxígeno.
+El oxígeno incorporado deriva a la reducción de O a dos moléculas de agua.
+El nombre sistemático de esta clase de enzimas es estearil-CoA,ferrocitocromo-b5:oxígeno oxidorreductasa (9,10-deshidrogenante).
+Otros nombres comunes son delta9-desaturasa, acil-CoA desaturasa, ácido graso desaturasa, y estearil-CoA, hidrógeno-donante:oxígeno oxidorreductasa. Esta enzima participa en la biosíntesis de ácidos grasos poliinsaturados y en la vía de señalización de PPAR.
+Usa hierro como cofactor.

@@ -1,0 +1,166 @@
+La cicatrización es un proceso biológico mediante el cual los tejidos vivos reparan sus heridas dejando para el caso de las heridas cutáneas, una cicatriz que puede ser estética o inestética.
+Cuando una persona sufre una herida, en el proceso de reparación se llevan a cabo una serie de complejas reacciones bioquímicas que suceden para reparar el daño.
+Estos fenómenos ocurren con cierto solapamiento temporal y pueden ser divididos para su estudio en las siguientes fases: inflamatoria, proliferativa, y de remodelación (algunos autores consideran que la cicatrización ocurre en cuatro o más etapas, si se subdividen las fases inflamatoria o de proliferación en pasos intermedios).
+En la fase inflamatoria, se fagocitan y eliminan las bacterias, la suciedad, y se liberan factores que producen la migración y división de las células que toman parte en la fase proliferativa.
+La fase proliferativa se caracteriza por la angiogénesis, el aumento de colágeno, la formación de tejido granular, la epitelización, y la contracción de la herida.
+En la angiogénesis, crecen nuevos vasos sanguíneos a partir de células endoteliales.
+En la fibroplasia y formación de tejido granular, los fibroblastos crecen y forman una nueva matriz extracelular provisoria (ECM, por las siglas en inglés: ExtraCellular Matrix) mediante la secreción de colágeno y fibronectina.
+En la epitelialización, las células epiteliales se desplazan sobre la herida cubriéndola.
+En la contracción, los miofibroblastos ayudan a reducir el tamaño la herida; ellos se adhieren de los bordes de la herida y se contraen utilizando un mecanismo similar al que tienen las células de los músculos lisos.
+Cuando las células han cumplido con su cometido, las células no utilizadas sufren una apoptosis.
+En la fase de maduración y remodelado, el colágeno es remodelado y realineado a lo largo de las líneas de tensión y las células que ya no se precisan son eliminadas mediante una apoptosis.
+Sin embargo, este proceso no solo es complejo sino que es frágil y es susceptible de ser interrumpido o fallar, lo que conduce a la formación de heridas crónicas con problemas de cicatrización.
+Algunos factores que pueden contribuir a este problema son la diabetes, enfermedades de las venas o arterias, edad avanzada, e infecciones.
+Durante la fase inflamatoria, ocurre un proceso de coagulación que detiene la pérdida de sangre (hemostasia), además se liberan varios factores para atraer células que fagociten; residuos, bacterias, tejido dañado y liberen factores que inicien la fase proliferativa de cicatrización de la herida.
+Cuando un tejido biológico es herido, la sangre toma contacto con el colágeno, lo que provoca que las plaquetas de la sangre comiencen a secretar factores inflamatorios.
+Las plaquetas también producen glicoproteínas en sus membranas celulares que les permiten adherirse unas a otras, formando una masa.
+La fibrina y la fibronectina se enlazan y forman una red o tapón que atrapa proteínas y partículas evitando de esta manera que continúe la pérdida de sangre Este tapón de fibrina-fibronectina se constituye también en el principal soporte estructural de la herida hasta tanto se deposite el colágeno.
+Las células migratorias utilizan este tapón como una matriz que les ayuda a desplazarse, las plaquetas se adhieren a la misma y secretan diversos factores.
+El coágulo es eventualmente degradado por lisinas y reemplazado por tejido granular y posteriormente por colágeno.
+Las plaquetas son fragmentos de células (megacariocitos) que intervienen en el proceso de coagulación, confluyen en mayor número al producirse una herida y liberan una serie de sustancias en la sangre, incluidas proteínas ECM, citoquinas, y factores de crecimiento.
+Los factores de crecimiento estimulan a las células para que aumenten su velocidad de división.
+Las plaquetas también liberan otros factores que favorecen la inflamación tales como son la serotonina, bradiquinina, prostaglandinas, prostaciclinas, tromboxano, e histamina; que aumentan la velocidad y migración de células hacia la zona, favorecen a los vasos sanguíneos en el proceso de dilatación y aumento de porosidad.
+Inmediatamente después de que resulte dañado un vaso sanguíneo, las membranas celulares dañadas liberan factores inflamatorios tales como tromboxanos y prostaglandinas, éstos hacen que el vaso se contraiga minimizando la pérdida de sangre y ayudando a que se aglutinen en el área las células inflamatorias y los factores inflamatorios.
+Esta vasoconstricción dura de cinco a diez minutos y es seguida por una etapa de vasodilatación, en la cual se expanden los vasos sanguíneos, fenómeno que alcanza su máximo unos veinte minutos después de haberse producido la herida.
+La vasodilatación es producida por varios factores liberados por las plaquetas y otras células.
+El principal factor que desencadena la vasodilatación es la histamina.
+La histamina también hace que los vasos sanguíneos se tornen porosos, lo que permite que el tejido se vuelva edematoso a causa de las proteínas que aporta el torrente sanguíneo al espacio extravascular, lo cual aumenta la carga osmolar y aporta agua a la zona.
+El incremento de la porosidad en los vasos sanguíneos también facilita la entrada de células inflamatorias, tales como leucocitos, en la zona de la herida desde el torrente sanguíneo.
+Al cabo de una hora de haberse producido la herida, los leucocitos polimorfonucleares o granulocitos llegan a esta y se convierten en las células más abundantes en la zona de la herida durante los próximos tres días.
+Es particularmente elevada su cantidad durante el segundo día.
+La fibronectina, los factores de crecimiento, y substancias tales como neuropéptidos y quininas son los que los atraen a la herida.
+Los granulocitos fagocitan los residuos y bacterias, aunque también matan a las bacterias mediante la liberación de radicales libres en un proceso denominado 'respiratory burst'.
+También limpian la herida mediante la secreción de proteasas que rompen el tejido dañado.
+Una vez que han completado su tarea los granulocitos sufren un proceso de apóptosis y son devorados, degradados por los macrófagos.
+Otros leucocitos que se encuentran en la zona son células T ayudantes, que secretan citoquinas para inducir la subdivisión de las células T, aumentar la inflamación, mejorar la vasodilatación y permeabilidad de los vasos.
+Las células T también aumentan la actividad de los macrófagos.
+Los macrófagos son células que tienen función fagocitaria, por lo tanto son esenciales para la cicatrización de una herida.
+Después de transcurridos dos días de producida la herida, los macrófagos son las células más abundantes en la zona de la herida.
+Los monocitos del torrente sanguíneo son atraídos a la zona de la herida por los factores de crecimiento liberados por las plaquetas y otras células, los monocitos penetran la zona de la herida atravesando las paredes de los vasos sanguíneos.
+La presencia de monocitos en la herida alcanza su máxima proporción después de 24 a 36 horas de haberse producido la herida.
+Una vez que se encuentran en la zona de la herida, los monocitos maduran y se transforman en macrófagos, que es la principal célula responsable de limpiar la zona de bacterias y residuos.
+El principal rol de los macrófagos es fagocitar bacterias y al tejido dañado, también el último mediante la liberación de proteasas.
+Los macrófagos secretan ciertos factores tales como factores de crecimientos y otras citoquinas, especialmente unos tres a cuatro días luego de producida la herida.
+Dichos factores atraen al área a células que participan en la etapa de proliferación de cicatrización de la herida.
+El bajo contenido de oxígeno en la zona estimula a los macrófagos, a producir factores que inducen e incrementan la velocidad de angiogénesis.
+y también estimulan a las células a producir la reepitelización de la herida, crear tejido granular, y formar una nueva matriz extracelular.
+La capacidad de los macrófagos para secretar estos factores, los convierte en elementos vitales para promover que el proceso de cicatrización de la herida evolucione a la fase siguiente.
+La inflamación es una parte necesaria del proceso de cicatrización, dado que cumple ciertos roles en el combate de la infección e inducción de la fase de proliferación.
+Sin embargo, si la inflamación se prolonga durante mucho tiempo puede producir daño a los tejidos.
+Por esta razón, la reducción de la inflamación es frecuentemente un objetivo de los cuidados terapéuticos.
+La inflamación continúa mientras existan residuos en la herida.
+Por ello la presencia de residuos u otros objetos puede extender más allá de lo conveniente la fase de inflamación, dando eventualmente origen a una herida crónica.
+Al ir desapareciendo la inflamación, se reduce la secreción de factores de inflamación, los factores existentes son eliminados y disminuye la presencia de neutrófilos y macrófagos en la zona de la herida.
+Estos cambios dan indicio de la finalización de la fase de inflamación y el comienzo de la fase proliferativa.
+Después de transcurridos dos a tres días desde la ocurrencia de la herida, comienza la afluencia de fibroblastos en la cicatriz, marcando el comienzo de la fase proliferativa aún antes que la fase inflamatoria haya concluido.
+Al igual que las otras fases de la cicatrización, los pasos en la fase proliferativa no tienen lugar de forma sucesiva sino que los mismos ocurren simultáneamente.
+El proceso de angiogénesis (también llamado neovascularización) tiene lugar simultáneamente con la proliferación de fibroblastos, cuando las células endoteliales migran hacia la zona de la herida.
+La angiogénesis es imprescindible para otras etapas del proceso de cicatrización, tales como la migración epidérmica y de fibroblastos, aportando el oxígeno que precisan los últimos y células epiteliales para desarrollar sus funciones.
+El tejido en que se desarrolla la angiogénesis posee un color rojo (es eritematoso) producto de la presencia de capilares sanguíneos.
+Para poder generar nuevos vasos sanguíneos y alimentar con oxígeno y nutrientes al tejido las células madres llamadas células endoteliales provenientes de vasos sanguíneos no dañados desarrollan pseudópodos y se desplazan a través del ECM hacia la zona de la herida.
+Al realizar esta actividad, ellas generan nuevos vasos sanguíneos.
+Para migrar, las células endoteliales necesitan colagenasas y activadores plasminogénicos para disolver el coágulo y parte del ECM metaloproteinasas basadas en zinc digieren la membrana basal y el ECM para permitir la proliferación de células y la angiogénesis.
+Las células endoteliales también son atraídas hacia la zona de la herida por la fibronectina que se encuentra en el scab de fibrina y por factores de crecimiento secretados por otras células.
+El crecimiento endotelial y la proliferación son también estimulados por la hipoxia y presencia de ácido láctico en la herida.
+En un medio ambiente con bajo contenido de oxígeno, los macrófagos y plaquetas producen factores angiogénicos que atraen la células endoteliales mediante quimiotaxis.
+Cuando el medio en que se encuentran los macrófagos y otros células productoras de factores de crecimiento deja de ser hipóxico y de estar saturado de ácido láctico, dejan de producir factores angiogénicos.
+Por lo tanto, cuando el tejido es perfundido en forma adecuada, se reduce la migración y proliferación de células endoteliales.
+Eventualmente aquellos vasos sanguíneos que ya no se precisan mueren mediante apoptosis.
+De forma simultánea con la angiogénesis comienza la acumulación de fibroblastos en la zona de la herida.
+Los fibroblastos comienzan a aparecer dos a cinco días después de producida la herida.
+Cuando la fase inflamatoria está finalizando su número alcanza un máximo entre una a dos semanas después de producida la herida.
+Hacia el final de la primera semana los fibroblastos son las células que se presentan con mayor abundancia en la citatriz.
+La fibroplasia finaliza después de unas dos a cuatro semanas de ocurrida esta.
+Durante los primeros dos a tres días después de producida la herida, los fibroblastos proliferan y migran, mientras que posteriormente ellos son las principales células responsables de generar la matriz de colágeno en la cicatriz.
+Los fibroblastos que se encuentran en el tejido normal migran hacia la zona de la herida desde sus márgenes.
+Inicialmente los fibroblastos utilizan el fibrina scab formado en la fase inflamatoria para migrar, adhiriéndose a la fibronectina.
+Los fibroblastos depositan inicialmente sustancia basal en la base de la herida y posteriormente colágeno, al cual se pueden adherir para migrar.
+El tejido granular es necesario para rellenar el agujero que ha dejado una herida que atraviesa la membrana basal.
+Comienza a hacer su aparición en la cicatriz durante la fase inflamatoria, unos dos a cinco días después de ocurrida la herida, y continúa creciendo hasta que se cubre la base de esta.
+El tejido granular se compone de nuevos vasos sanguíneos; fibroblastos, células inflamatorias, células endoteliales, miofibroblastos y los componentes de un nuevo ECM provisorio.
+La composición del ECM provisorio es diferente de la composición del ECM en el tejido normal e incluye fibronectina, colágeno, glicosaminoglicanos, y proteoglicanos.
+Sus principales componentes son fibronectina y hialuronano, los cuales crean una matriz altamente hidratada que facilita la migración de las células.
+Posteriormente esta matriz provisoria es reemplazada por un ECM que posee mayores similitudes que aquella que se encuentra en tejidos sin heridas.
+Los fibroblastos depositan moléculas ECM como ser glicoproteínas, glicosaminoglicanos (GAGs), proteoglicanos, elastina, y fibronectina, que después utilizan para migrar a través de la herida (Cohen, 2005).
+Los factores de crecimiento (PDGF, TGF-β) y la fibronectina promueven la proliferación y la migración hacia la base de la herida y la producción de moléculas ECM por los fibroblastos.
+Los fibroblastos también secretan factores de crecimiento que atraen células epiteliales hacia la cicatriz.
+La hipoxia también contribuye a la proliferación de los fibroblastos y la producción de factores de crecimiento, si bien una baja concentración de oxígeno inhibirá su crecimiento y la deposición de componentes ECM y puede producir una cicatriz excesivamente fibrosa.
+Una de las tareas más importantes de los fibroblastos es la producción de colágeno.
+Los fibroblastos comienzan a secretar una cantidad importante de este dos a tres días después de producida la herida, y su disposición alcanza su máximo de una a tres semanas después.
+La producción de colágeno continúa a buen ritmo durante dos a cuatro semanas, después de lo cual el ritmo de destrucción equipara el ritmo de producción y por lo tanto su abundancia alcanza una meseta.
+La disposición de colágeno es importante porque el mismo aumenta la resistencia de la herida.
+En ausencia de colágeno lo único que mantiene a la herida cerrada es el coágulo de fibrina-fibronectina, que no provee demasiada resistencia frente a heridas traumáticas.
+Además las células responsables de la inflamación, la angiogénesis y la construcción del tejido conectivo se adhieren, crecen y diferencian sobre la matriz de colágeno colocada por los fibroblastos.
+Aun cuando los fibroblastos producen nuevo colágeno, las colagenasas y otros factores lo degradan.
+Esta homeostasis marca el comienzo de la fase de maduración.
+Gradualmente termina la granulación y la cantidad de fibroblastos en la herida disminuye una vez que han cumplido con su misión.
+Al final de la fase granular los fibroblastos comienzan a sufrir apoptosis, con lo que el tejido granular se transforma de un medio que es rico en células a uno que se compone principalmente de colágeno.
+La creación de tejido granular en una herida abierta permite que se desarrolle la fase de reepitelialización, durante la cual las células epiteliales migran a través del nuevo tejido para crear una barrera entre la herida y el medio ambiente.
+Queratinocitos basales provenientes de los márgenes de la herida y apéndices dérmicos tales como folículos pilosos, glándulas sudoríparas y glándulas sebáceas son las principales células responsables de la fase de epitelialización de la cicatrización de la herida.
+Las mismas avanzan formando una cubierta sobre el sitio de la herida y se desplazan desde los bordes hacia el centro de la herida.
+Los queratinocitos migran primero para después proliferar.
+La migración puede comenzar unos pocas horas luego de producida la herida.
+Sin embargo, las células epiteliales necesitan de un tejido viable para poder migrar a través del mismo, por lo que si la herida es profunda primero debe ser rellenada con tejido granular.
+Por ello el tiempo para que comience la migración es variable y la migración puede recién comenzar un día después de producida la herida.
+Las células de los márgenes de la herida proliferan durante el segundo a tercer día de producida la herida; esta es una manera de aumentar las células disponibles para la migración.
+Si la membrana basal no ha sido dañada, las células epiteliales son renovadas al cabo de tres días mediante división y migración hacia la superficie de células desde la capa basal de forma similar a lo que sucede en zonas de la piel que no han sufrido daño.
+Sin embargo, si la membrana basal está dañada en la zona de la herida, la reepitelización solo se produce desde los márgenes de la herida y desde apéndices de la piel tales como folículos pilosos y glándulas sebáceas y sudoríparas que penetran la dermis y que poseen queratinocitos viables.
+Si la herida es demasiado profunda los apéndices de la piel pueden también estar dañados y la migración desde los laterales de la herida se ve impedida.
+La migración de queratinocitos sobre la zona de la herida es estimulada por la ausencia de inhibición de contacto y por eleméntos químicos tales como el óxido nítrico.
+Antes de comenzar a migrar las células deben disolver sus desmosomas y hemidesmosomas, los cuales normalmente anclan las células mediante filamentos intermedios de su citoesqueleto a otras células y al ECM.
+Las proteínas receptoras de transmembrana llamadas integrinas, que están basadas en glicoproteínas y normalmente anclan las células a la membrana basal mediante su citoesqueleto, son liberadas de los filamentos intermedios de las células y se reconfiguran en filamentos de actina que sirven como vínculos a la ECM mediante pseudópodos durante la migración.
+Por lo tanto los queratinocitos se desprenden de la membrana basal y pueden penetrar en la base de la herida.
+Antes de comenzar su migración los queratinocitos modifican su forma, tornándose más alargados y planos y extendiendo procesos celulares como los lamelipodia y otros procesos amplios que parecen ruffles.
+Los filamentos de actina y pseudópodos form.
+Durante la migración, las integrinas en el pseudópodo se toman de la ECM, y los filamentos de actina que se proyectan arrastran a la célula.
+La interacción con las moléculas en el ECM mediante las integrinas promueve la formación de los filamentos de actina, lamelipodia y filopodia.
+Las células epiteliales se montan unas sobre otras para migrar.
+Esta capa de células epiteliales que crece, a menudo es llamada la lengua epitelial.
+Las primeras células que se adhieren a la membrana basal forman la capa basal.
+Estas células basales continúan su migración a través de la herida, y otras células epiteliales se deslizan sobre ellas.
+Cuanto más rápido se produzca esta migración, tanto menor será la cicatriz que quede.
+La fibrina, el colágeno y la fibronectina que se encuentran en el ECM pueden inducir a las células a dividirse y a migrar.
+En la misma forma que los fibroblastos, los queratinocitos que migran utilizan la fibronectina entrelazada con fibrina que fue depositada en la inflamación como un sitio para sujetarse para poder reptar.
+En la medida que los queratinocitos migran se desplazan sobre el tejido granular, pero por debajo de la costra (si es que se formó una), separándola del tejido en su base.
+Las células epiteliales poseen la habilidad de fagocitar residuos tales como tejido muerto y material bacteriano que si no obstruirían su paso.
+Debido a que deben disolver toda costra que se forme, la migración de queratinocitos es promovida por un medio húmedo, dado que un medio seco induce la formación de una costra más grande y más dura.
+Para poder desplazarse a través del tejido, los queratinocitos deben disolver el coágulo, los residuos y partes del ECM para poder proseguir su viaje.
+Ellos secretan un activador plasminogénico, el cual activa la plasmina para poder disolver el scab.
+Las células solo pueden migrar sobre tejido vivo por lo que deben secretar colagenasas y proteasas tales como metaloproteinasas matriciales (MMPs) para disolver las zonas dañadas del ECM que se encuentran en su camino, particularmente en la zona del frente de la placa migratoria.
+Los queratinocitos también disuelven la membrana basal utilizano el nuevo ECM depositado por los fibroblastos para desplazarse.
+Mientras que los queratinocitos continúan migrando, se deben crear nuevas células epiteliales en los bordes de la herida para reemplazarlos y proveer más células a la capa que avanza.
+La proliferación por detrás de los queratinocitos en migración por lo general comienza unos pocos días después de producida la herida y tiene lugar a una velocidad que es 17 veces mayor en esta etapa de epitelialización que en tejidos normales.
+Hasta que toda la zona de la herida es recubierta las únicas células epiteliales que proliferan son las de los bordes de la herida.
+Los factores de crecimiento estimulados por las integrinas y los MMPs, hacen que las células proliferen en los bordes de la herida.
+Los propios queratinocitos también producen y secretan factores, incluidos factores de crecimiento y proteínas de la membrana basal que ayudan tanto en la epitelialización como en otras fases del curado.
+Los queratinocitos continúan migrando a través de la herida hasta que la placa de células que avanza desde cada borde de la herida se encuentran en el centro, momento en el cual la inhibición por contacto hace que cese su migración.
+Al terminar su migración, los queratinocitos secretan las proteínas que forman la nueva membrana basal.
+Las células revierten los cambios morfológicos que sufrieron para comenzar su migración; restablecen sus desmosomas y hemidesmosomas y se fijan nuevamente a la membrana basal.
+Las células basales comienzan a dividirse y diferenciarse de la misma manera en que lo hacen en la piel normal para restablecer la capa que normalmente se encuentra en la piel re-epitelializada.
+Aproximadamente una semana luego de producida la herida, los fibroblastos se han diferenciado en miofibroblastos y la herida comienza a contraerse En heridas profundas, la contracción alcanza su máximo de 5 a 15 días luego de producida la herida.
+La contracción puede durar varias semanas y continúa aún después que la herida se ha reepitelializado por completo.
+Si la contracción continúa por demasiado tiempo, puede producir desfiguración y pérdida de función.
+La finalidad de la contracción es disminuir el tamaño de la herida.
+Una herida grande puede reducir su tamaño entre un 40% a un 80% luego de la contracción.
+Las heridas pueden contraerse a una velocidad de 0.75 mm por día, dependiendo de cuán flojo se encuentre el tejido.
+La contracción por lo general no se produce de manera simétrica; la mayoría de las heridas poseen un 'eje de contracción' que posibilita una mejor organización y alineación de las células con el colágeno.
+Inicialmente, la contracción tiene lugar sin participación de los miofibroblastos.
+Posteriormente, los fibroblastos, que han sido estimulados por factores de crecimiento, se diferencian en miofibroblastos.
+Los miofibroblastos, que son similares a las células de los músculos lisos, son los que realizan la contracción.
+Los miofibroblastos contienen el mismo tipo de actina que existe en las células de los músculos lisos.
+Los miofibroblastos son atraídos por la fibronectina y factores de crecimiento y se desplazan mediante la fibronectina conectada a la fibrina en la ECM provisoria de manera de alcanzar los bordes de la herida.
+Ellos establecen conexiones al ECM en los bordes de la herida, y se conectan unos con otros y a los bordes de la herida mediante desmosomas.
+También, mediante un enganche llamado fibronexus, la actina en los miofibroblastos es interconectada a través de la membrana de las células a moléculas como la fibronectina y el colágeno en la matriz extracelular.
+Los miofibroblastos tienen numerosos enganches o adhesiones, que les permiten tirar de la ECM al contraerse, y reducir el tamaño de la herida.
+En esta etapa de la contracción, el cierre de la herida ocurre más rápidamente que en la primera que no era producida por los miofibroblastos.
+Al contraerse la actina en los miofibroblastos, los bordes de la herida son juntados.
+Los fibroblastos depositan colágeno para reforzar la herida al contraerse los miofibroblastos la etapa de contracción de la proliferación finaliza cuando los miofibroblastos detienen su contracción y se produce apoptosis.
+La ruptura de la matriz provisoria conduce a una disminución en la concentración del ácido hialurónico y un incremento del sulfato de condroitina, que gradualmente conduce a los fibroblastos a detener su migración y proliferación.
+Estos eventos marcan el comienzo de la etapa de maduración en la cicatrización de la herida.
+Cuando se igualan los niveles de producción y degradación de colágeno, se dice que ha comenzado la fase de reparación del tejido.
+La fase de maduración puede durar un año o más, dependiendo del tamaño de la herida y si inicialmente se la cerró o se la dejó abierta.
+Durante la maduración, se degrada el colágeno de tipo III, que era el que prevalecía durante la proliferación, y en su lugar se deposita el colágeno de tipo I que es más resistente.
+Las fibras de colágeno que inicialmente se encuentran desorganizadas son interconectadas, ordenadas y alineadas a lo largo de líneas de tensión.
+En la medida que la fase progresa, se incrementa la resistencia a la tracción de la herida, la resistencia alcanza un valor del 50% del de un tejido normal unos tres meses luego de ocurrida la herida y eventualmente alcanzando un 80% de la resistencia del tejido normal.
+Dado que se reduce la actividad en la zona de la herida, la cicatriz pierde su apariencia eritematosa ya que los vasos sanguíneos que dejan de ser necesarios son eliminados mediante apoptosis.
+Las fases de cicatrización de una herida progresan normalmente en una forma predecible en el tiempo; si así no lo hicieran, el proceso de cicatrización puede evolucionar en forma indebida a una herida crónica tales como una úlcera venosa o una cicatriz patológica como por ejemplo una lesión queloide.

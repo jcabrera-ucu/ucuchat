@@ -1,0 +1,45 @@
+El código binario reflejado o código Gray, nombrado así en honor del investigador Frank Gray, es un sistema de numeración binario en el que dos números consecutivos difieren solamente en uno de sus dígitos.
+El código Gray fue diseñado originalmente para prevenir señales ilegales (señales falsas o viciadas en la representación) de los switches electromecánicos, y actualmente es usado para facilitar la corrección de errores en los sistemas de comunicaciones, tales como algunos sistemas de televisión por cable y la televisión digital terrestre.
+El investigador de Laboratorios Bell, Frank Gray inventó el término código binario reflejado cuando lo patentó en 1947, remarcando que éste «no tenía nombre reconocido aún».
+Él creó el nombre basándose en el hecho de que el código «puede ser construido a partir del código binario convencional por una suerte de "proceso reflejante"».
+El código fue llamado posteriormente «Gray» por otros investigadores.
+Dos patentes en 1953 dieron como nombre alternativo «código de Gray» para el «código binario reflejado»; una de ellas también se refiere al código como "minimum error code" (código de error mínimo) y como "cyclic permutation code" (código de permutación cíclica).
+El código binario reflejado fue aplicado para acertijos matemáticos antes de ser usado para la ingeniería.
+El ingeniero francés Émile Baudot le dio una aplicación al código de Gray en 1878 en telegrafía, trabajo por el cual fue condecorado con la Legión de Honor.
+El código Gray es atribuido en algunas ocasiones, en forma incorrecta, a Elisha Gray (en Principles of Pulse Code Modulation, K. W. Cattermole, por ejemplo).
+Hasta la primera mitad de los años 1940 los circuitos lógicos digitales se realizaban con válvulas de vacío y dispositivos electromecánicos.
+Los contadores necesitaban potencias muy elevadas a la entrada y generaban picos de ruido cuando varios bits cambiaban simultáneamente.
+Tomando esto en cuenta, Frank Gray inventó un método para convertir señales analógicas a grupos de código binario reflejado utilizando un aparato diseñado con válvulas de vacío, con lo cual garantizó que en cualquier transición variaría tan sólo un bit.
+En la actualidad, el código Gray se emplea como parte del algoritmo de diseño de los mapas de Karnaugh, los cuales son, a su vez, utilizados como «herramienta de diseño» en la implementación de circuitos combinacionales y circuitos secuenciales.
+La vigencia del código Gray se debe a que un diseño digital eficiente requerirá transiciones más simples y rápidas entre estados lógicos (0 o 1), por ello es que se persiste en su uso, a pesar de que los problemas de ruido y potencia se hayan reducido con la tecnología de estado sólido de los circuitos integrados.
+Utilizando el código Gray es posible también resolver el problema de las Torres de Hanói.
+Se puede incluso formar un ciclo hamiltoniano o un hipercubo, en el que cada bit se puede ver como una dimensión.
+Debido a las propiedades de distancia de Hamming que posee el código Gray, es usado en ocasiones en algoritmos genéticos.
+Las computadoras antiguas indicaban posiciones abriendo y cerrando interruptores.
+Utilizando tres interruptores como entradas usando Base 2, estas dos posiciones estarían una después de la otra:
+010 011 100 101
+El problema con el código binario en base 2 es que con interruptores mecánicos, es realmente difícil que todos los interruptores cambien al mismo tiempo.
+En la transición de los dos estados mostrados arriba, tres interruptores cambian de sitio.
+En el lapso en el que los interruptores están cambiando, se pueden presentar salidas de información espurias.
+Si las salidas mencionadas alimentan un circuito secuencial, probablemente el sistema presentará un error en entrada de datos.
+El código gray resuelve este problema cambiando solamente un dígito a la vez, así que no existe este problema:
+Decimal Gray Binario
+0	 000	000   1	 001	001    2	 011	010    3	 010	011    4	 110	100    5	 111	101    6	 101	110    7	 100	111
+Hay que tener en cuenta que para convertir de binarios a Gray los valores que deben ser sumados en base 2 toman los siguientes valores 1+1=0, 0+0=0, 1+0=1 y 0+1=1; esta operación de forma vertical como se muestra en el siguiente ejemplo:
+1010 101 0  1111
+Nótese que desde el 7 podría pasar a 0 con un solo cambio de switch (el más significativo pasa a cero).
+Esta es la propiedad llamada "cíclica" del código de Gray.
+Para convertir un número binario (en Base 2) a código Gray, simplemente se le aplica una operación XOR con el mismo número desplazado un bit a la derecha, sin tener en cuenta el acarreo.
+Ejemplo: 1010 (Base 2) a gray
+1010 101 0  1111
+Otros ejemplos 0111(Base 2) a gray :
+0111 011 1  -- 0100
+110101010001 11010101000 1  101111111001
+Definimos un vector g conteniendo los dígitos en gray y otro vector b destinado a contener los dígitos en Base 2
+Luego resulta que:
+con la excepción de que b_0 = g_0, la cual se puede resumir como:
+Ejemplo
+Con el número g = 1001 en código Gray.
+Lo primero es decir que: b_0 = g_0, por lo que para este caso: b_0 = 1.
+Luego siguiendo con el algoritmo: resulta que:
+Esto da como resultado b = 1110

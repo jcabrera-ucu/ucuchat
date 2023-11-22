@@ -1,0 +1,68 @@
+La bronquiolitis es la inflamación de las vías aéreas pequeñas, fundamentalmente en niños menores de 2 años.
+La bronquiolitis se caracteriza por secreción nasal, tos y dificultad para respirar en lactantes con o sin fiebre, precedido por una infección respiratoria alta, tal como una coriza o una otitis media.
+La causa más frecuente es viral, principalmente por el virus respiratorio sincitial (VRS) y ocasionalmente por otros (coronavirus, Paramyxoviridae, ...).
+En adultos, la bronquiolitis es una lesión que se desarrolla en los pulmones de pacientes fumadores y aunque en general tiene buen pronóstico, tiende a evolucionar hacia la fibrosis pulmonar y ocasionar en el paciente franca limitación funcional y muerte.
+El tratamiento para los recién nacidos con bronquiolitis incluye la administración de oxígeno suplementario, succión nasal, toma de abundantes líquidos para prevenir la deshidratación y otras terapias apoyo.
+Los niños de alto riesgo que deben ser hospitalizados incluyen aquellos menores de tres meses de edad y aquellos obtenidos de un parto prematuro, o que tengan una enfermedad cardiopulmonar subyacente, inmunodeficiencia, dificultad respiratoria o insuficiente oxigenación.
+El uso de corticosteroides sigue siendo una medida controvertida.
+La bronquiolitis se considera endemia de las temporadas frías —principalmente en invierno y primavera— y afecta por igual a lactantes del género masculino que el femenino, aunque puede verse una leve tendencia a favorecer a los varones hasta una relación de 1,25-1.7:1 con las niñas.
+Aunque los datos son incompletos, la frecuencia de la bronquiolitis en países en vías de desarrollo parece ser muy similar a los indicados en los Estados Unidos y otros países desarrollados.
+La bronquiolitis aguda viral es una enfermedad común en la infancia que afecta a niños menores de 2 años en quienes representa la causa más frecuente de consulta hospitalaria durante las épocas de invierno.
+Es la infección respiratoria más frecuente en lactantes, afectando al 11 - 12%, de los cuales 2% llega a requerir hospitalización.
+El pico de incidencia de la enfermedad se encuentra en edades entre los 3 y 6 meses, con un 50% de los casos y el período de incubación es de 7 días con epidemias que suelen durar 5 meses.
+Los niños que nacieron prematuramente constituyen un grupo de riesgo más susceptible a la bronquiolitis por razón de su menor grado de maduración pulmonar.
+La bronquiolitis es causada generalmente por el virus sincitial respiratorio (VSR) en el 60 - 80% de los casos.
+Otros microorganismos que pueden causar esta enfermedad incluyen influenza, parainfluenza, coronavirus, virus de la parotiditis, rinovirus.
+La bacteria Mycoplasma pneumoniae puede ser causante del 5% de los casos de bronquiolitis.
+Los adenovirus suelen ser los causantes de los cuadros más graves y floridos de bronquiolitis.
+Ocasionalmente se ven casos de bronquiolitis causados por enterovirus o el virus del sarampión.Últimamente se han encontrado nuevos agentes virales causales de la bronquiolitis como son bocavirus en el 15% y metaneumovirus en el 5%.
+La fuente de infección suele ser un niño mayor con una infección respiratoria superior y que una semana antes le transmite la infección al entrar en contacto con el lactante.
+Se ha demostrado que la contaminación ambiental es capaz de desencadenar crisis bronquiales obstructivas en niños con síntomas respiratorios.
+Siguiendo los criterios de McConnochie se considera bronquiolitis como el primer episodio agudo de dificultad respiratoria con sibilancias, precedido por un cuadro catarral de vías altas (rinitis, tos con/sin fiebre), que afecta a niños menores de 2 años, aunque preferentemente se da en el primer año de vida.
+La bronquiolitis es un proceso inflamatorio infeccioso en los bronquiolos de las vías aéreas más distantes, causa que conlleva a la producción excesiva de moco, muerte de las células epiteliales, infiltrado de células linfocitarias y neutrofílicas y edema de la capa submucosa.
+Todo ello produce un estrechamiento de las vías respiratorias pequeñas, una disminución de la ventilación en las zonas afectadas causando un trastorno en la relación ventilación:perfusión y suministro inadecuado de oxígeno.
+En los casos más graves de bronquiolitis se produce necrosis del epitelio bronquiolar.
+Las células epiteliales liberan citocinas y quimiocinas, las cuales amplifican la respuesta de reclutamiento de células inmunes a las vías aéreas afectadas provocando una regulación anormal de linfocitos T, hiperproducción de inmunoglobulina IgE y liberación de mediadores inmunitarios adicionales.
+El interferón y las interleucinas 4, IL-8 e IL-9 se encuentran en elevadas concentraciones en las secreciones de las vías respiratorias de pacientes con bronquiolitis.
+En infecciones por el virus sincitial respiratorio, se pueden aislar IgE específica contra el virus, así como IgA secretora contra el virus en la mucosa nasal.
+Los niños con elevados niveles de IgE pudieran tener factores genéticos y ambientales que los predisponen a tener asma en los primeros años de vida.
+En un caso típico, la bronquiolitis se presenta en un niño menor de dos años quien presenta un cuadro agudo de obstrucción de las vías respiratorias inferiores, caracterizado por tos, silbidos en el pecho, crepitantes, subcrepitantes y respiración entrecortada y rápida de varios días de evolución, habitualmente precedido de sintomatología respiratoria de las vías altas (como un resfriado común).
+Otros síntomas incluyen piel azulada por falta de oxígeno, falta de respiración o dificultad respiratoria, fiebre, tiraje intercostal y aleteo nasal en bebés.
+Los datos radiológicos pueden mostrar atrapamiento aéreo y aplanamiento de los arcos costales.
+Los factores de riesgo para el desarrollo de la enfermedad son: edad menor de 6 meses, falta de lactancia materna, hacinamiento, asistencia a guarderías y convivientes fumadores.
+Los factores de riesgo para enfermedad severa son: edad menor de 3 meses, antecedente de nacimiento prematuro, y presencia de enfermedades asociadas (cardiopatías congénitas, enfermedad pulmonar o neuromuscular crónica, o inmunodeficiencias).
+El diagnóstico se determina fundamentalmente por el examen clínico, debiéndose cumplir los siguientes requisitos, siguiendo los criterios de McConnochie:
+Habitualmente no se necesitan exámenes complementarios para realizar el diagnóstico, puede ser necesario realizar radiografías de tórax para descartar una posible neumonía u otras complicaciones.
+No todos los pacientes con bronquiolitis necesitan una radiografía de tórax, solo aquellos niños en los que se considere que presentan una complicación o se esté estableciendo otros diagnósticos diferenciales.
+Es posible realizar la detección de antígeno de VSR por técnicas de inmunofluorescencia sobre secreciones de la nasofaringe.
+El hemograma puede mostrar un conteo de glóbulos blancos variable con cierta neutrofilia inicial.
+Después de un cuadro agudo, puede ocurrir que las vías respiratorias continúen muy sensibles durante varias semanas, contribuyendo a la aparición recurrente de tos y silbidos torácicos.
+Existe una relación con la aparición de asma a una edad más avanzada: posibles explicaciones son que la bronquiolitis causa asma debido a que produce una inflamación por un período largo de tiempo, o los niños que están destinados a ser asmáticos son más propensos a desarrollar bronquiolitis.
+El diagnóstico diferencial cuenta con otras causas de dificultad respiratoria, como una laringitis o un cuerpo extraño incrustado en las vías respiratorias altas, adenoides hipertróficas, intoxicación con aspirina y fibrosis quística, entre otras patologías.
+Muchos menores de dos años que persisten con el cuadro obstructivo deben tenerse en cuenta causas que se pueden presentar en el lactante cómo bronquiolitis pero que su recurrencia o evolución atípica obligan a replantear el diagnóstico.
+Tener en cuenta: Asma bronquial; aspiración de contenido gástrico; malformaciones intratorácicas (quiste broncógeno o anillo vascular); Insuficiencia cardíaca; Neumonía multifocal; displasia broncopulmonar; y las ya mencionadas fibrosis quística y cuerpo extraño.
+En la mayoría de los niños, la bronquiolitis es una enfermedad autolimitada y puede ser manejada en la casa del paciente.
+Sin embargo, para niños con factores de riesgo considerables o severos, incluyendo enfermedades concomitantes o preexistentes, bajo peso, prematuridad o desnutrición, entre otros, el manejo de la infección debe ser supervisado por un entorno médico.
+El tratamiento de la bronquiolitis se ha modificado poco a lo largo de los años, no existen tratamientos cuya efectividad se haya demostrado y, por lo tanto, en muchos casos, la efectividad de la estrategia terapéutica empleada carece de evidencias concluyentes.
+La terapia es principalmente de apoyo donde la oxigenación e hidratación constituye el pilar fundamental.
+En ocasiones se precisa la administración de terapia intravenosa, especialmente en niños muy pequeños en los que la dificultad respiratoria puede ser tan importante que dificulte la alimentación.
+También puede ser necesario suministrar oxígeno para mantener los niveles de oxígeno en la sangre, y en casos severos el niño puede necesitar ventilación mecánica.
+Se deben usar antipiréticos para el control de la fiebre.
+Diferentes publicaciones presentan opiniones contradictorias acerca de la validez de la fisioterapia respiratoria en pacientes con bronquiolitis.
+El efecto de la CPAP en los niños con bronquiolitis aguda para otros desenlaces es incierto debido a la evidencia limitada.
+No se ha demostrado si la nebulización o la humidificación templada sea beneficiosa, y tampoco existen pruebas de que la humidificación en sí misma tenga ningún efecto positivo en el tratamiento de la bronquiolitis.
+El uso de nebulizaciones con suero salino hipertónico parece mostrar resultados contradictorios a la hora de disminuir las hospitalizaciones o la duración de estas.
+La ribavirina es una droga antiviral que tiene cierto efecto en las infecciones por VSR, utilizado hace unos años pero que se encuentra en desuso en el momento actual porque su efectividad es controvertida.
+Generalmente no está admitido el uso de antibióticos salvo que se sospeche infección bacteriana.
+Las drogas brocodilatadoras pueden producir cierto efecto en algunos niños, así como el anticolinérgico bromuro de ipratropio.
+La adrenalina nebulizada parece producir mejoría en estos niños pero al terminar su período de acción puede producir un efecto de rebote, en que aumenta el cuadro obstructivo de las vías respiratorias, por lo cual su utilización sigue siendo controvertida.
+No está indicada la administración de corticoides de forma rutinaria, para ayudar a desinflamar los bronquiolos y aliviar el proceso obstructivo, pueden proporcionar algún beneficio pero estudios de metaanálisis han producido resultados inconsistentes.
+Hasta la fecha, no hay una vacuna disponible para prevenir la infección por el virus sincitial respiratorio.
+Sin embargo, la profilaxis en lactantes con palivizumab, un anticuerpo monoclonal para bebés que estén en alto riesgo de desarrollar enfermedad severa a partir del VSR, como los recién nacidos prematuros, ofrece una reducción del riesgo de hospitalización en un 45-55% de los casos.
+Por lo general se indica una vez al mes por inyección intramuscular en una dosis de 15 mg/kg, durante la época estacional de mayor riesgo.
+En noviembre de 2022 la Agencia Europea de Medicamentos (EMA) aprobó un nuevo anticuerpo monoclonal, el nirsevimab, indicado para prevenir la enfermedad pulmonar por el virus respiratorio sincitial en recién nacidos y lactantes.
+Otra opción para bebés con alto riesgo de infección por el virus sincitial respiratorio, es la inmunoglobulina anti RSV por vía intravenosa (RSV-di [RespiGam]).
+La Academia estadounidense de Pediatría (AAP) recomienda profilaxis con palivizumab o RSV-IG en lactantes y niños de alto riesgo.
+La rentabilidad de la profilaxis de la bronquiolitis es incierta.
+Un estudio sugiere que la profilaxis proporciona ahorros verdaderos, mientras que otros informes estiman costos mucho más altos al prevenir los casos.
+El uso de medidas de control de infecciones puede reducir la transmisión nosocomial de infecciones del virus sincitial respiratorio.

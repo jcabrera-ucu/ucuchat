@@ -1,0 +1,9 @@
+Un lector o recopilador de contenidos (también conocido como agregador, agregador de noticias o lector de RSS) es un tipo de software para suscribirse a fuentes de noticias en formatos RSS, Atom y otros derivados de XML como RDF/XML.
+El agregador reúne las noticias o historias publicadas en los sitios con redifusión web elegidos, y muestra las novedades o modificaciones que se han producido en esas fuentes web; es decir, avisa de qué webs han incorporado contenido nuevo desde nuestra última lectura y cuál es ese contenido.
+Esta información es la que se conoce como fuente web.
+Un agregador es muy similar en sus presentaciones a los anteriores lectores de noticias (client newsreaders/NNTP), pero la tecnología XML y el web semántico los ha hecho más populares.
+Hoy en día, una enorme cantidad de blogs y sitios web ofrecen sus actualizaciones, que pueden ser fácilmente reunidas y administradas en un solo punto, como es el caso del servicio My Yahoo!
+o el de Netvibes.
+Uno de los problemas con los agregadores de noticias es que el volumen de los artículos a veces puede ser abrumador, sobre todo cuando el usuario tiene muchas suscripciones Web.
+Como solución, muchos de los lectores de feeds permiten a los usuarios etiquetar cada fuente con una o más palabras clave que pueden utilizarse para ordenar y filtrar los artículos disponibles en categorías fácilmente navegables.
+Otra opción es la importación del perfil de atención del usuario (en lenguaje APML) para filtrar los elementos según su relevancia para los intereses del usuario.

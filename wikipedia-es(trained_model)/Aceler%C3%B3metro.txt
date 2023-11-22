@@ -1,0 +1,31 @@
+Se denomina acelerómetro a cualquier instrumento destinado a medir aceleraciones.
+Esto no es necesariamente la misma que la aceleración de coordenadas (cambio de la velocidad del dispositivo en el espacio), sino que es el tipo de aceleración asociada con el fenómeno de peso experimentado por una masa de prueba que se encuentra en el marco de referencia del dispositivo.
+Un ejemplo en el que este tipo de aceleraciones son diferentes es cuando un acelerómetro medirá un valor apoyado en el suelo, ya que las masas tienen un peso, a pesar de que no hay cambio de velocidad.
+Sin embargo, un acelerómetro en caída gravitacional libre hacia el centro de la Tierra medirá un valor de cero, ya que, a pesar de que su velocidad es cada vez mayor, está en un marco de referencia en el que no tiene peso.
+Es el acelerómetro más simple.
+Se construye uniendo una masa a un dinamómetro cuyo eje está en la misma dirección que la aceleración que se desea medir.
+De acuerdo con la Ley Fundamental de la Dinámica o Segunda Ley de Newton
+donde \mathbf F representa la fuerza resultante que actúa sobre la masa m, y \mathbf a es la aceleración.
+El dinamómetro permite medir el módulo de \mathbf F, de modo que se puede conocer el módulo de la aceleración \mathbf a
+El acelerómetro es uno de los transductores más versátiles, siendo el más común el piezoeléctrico por compresión.
+Este se basa en que, cuando se comprime un retículo cristalino piezoeléctrico, se produce una carga eléctrica proporcional a la fuerza aplicada.
+Los elementos piezoeléctricos están hechos normalmente de circonato de plomo.
+Los elementos piezoeléctricos se encuentran comprimidos por una masa, sujeta al otro lado por un muelle y todo el conjunto dentro de una caja metálica.
+Cuando el conjunto es sometido a vibración, el disco piezoeléctrico se ve sometido a una fuerza variable, proporcional a la aceleración de la masa.
+Debido al efecto piezoeléctrico se desarrolla un potencial variable que será proporcional a la aceleración.
+Dicho potencial variable se puede registrar sobre un osciloscopio o voltímetro.
+Este dispositivo junto con los circuitos eléctricos asociados se puede usar para la medida de velocidad y desplazamiento además de la determinación de formas de onda y frecuencia.
+Una de las ventajas principales de este tipo de transductor es que se puede hacer tan pequeño que su influencia sea despreciable sobre el dispositivo vibrador.
+El intervalo de frecuencia típica es de 2 Hz a 10 kHz.
+Su uso es común en mantenimiento predictivo, donde se emplea para detectar defectos en máquinas rotativas y alternativas, detectando por ejemplo, el mal estado de un rodamiento o cojinete en una etapa temprana antes de que se llegue a la avería.
+En bombas impulsoras de líquidos detectan los fenómenos de cavitación que pulsan a unas frecuencias características.
+Los acelerómetros electrónicos permiten medir la aceleración en una, dos o tres dimensiones, esto es, en tres direcciones del espacio ortonormales.
+Esta característica permite medir la inclinación de un cuerpo, puesto que es posible determinar con el acelerómetro la componente de la aceleración provocada por la gravedad que actúa sobre el cuerpo.
+Un acelerómetro también es usado para determinar la posición de un cuerpo, pues al conocerse su aceleración en todo momento, es posible calcular los desplazamientos que tuvo.
+Considerando que se conocen la posición y velocidad original del cuerpo bajo análisis, y sumando los desplazamientos medidos se determina la posición.
+Los acelerómetros pueden ser utilizados en diversos campos, por ejemplo:
+Ejemplo: teléfonos inteligentes, al cambiar de sentido la posición del aparato la disposición de la pantalla varía de vertical a horizontal, y viceversa.
+Actualmente es posible construir acelerómetros de tres ejes (X,Y,Z) en un solo chip de silicio, incluyendo en el mismo la parte electrónica que se encarga de procesar las señales.
+El principio de operación de los dispositivos, acelerómetros e inclinómetros de tecnología MEMS está basado en el traspaso térmico, por convección natural.
+Estos dispositivos miden cambios internos de la transferencia de calor causada por la aceleración, ofreciendo ventajas significativas sobre el empleo de una estructura tradicional sólida de masas de prueba.
+Ya que la masa de prueba en el diseño de los sensores MEMS son moléculas de gas, las estructuras móviles mecánicas son eliminadas dentro del acelerómetro.

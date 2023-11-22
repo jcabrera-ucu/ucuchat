@@ -1,0 +1,16 @@
+La extracción fenol-cloroformo es una técnica de extracción líquido-líquido utilizada en biología molecular para separar los ácidos nucleicos de las proteínas y los lípidos.
+Las muestras acuosas, las células lisadas o los tejidos homogeneizados se mezclan con volúmenes iguales de una mezcla de fenol y cloroformo.
+A continuación, esta mezcla se centrifuga.
+Como la mezcla de fenol y cloroformo es inmiscible con el agua, la centrifugación hará que se formen dos fases distintas: una fase acuosa superior y una fase orgánica inferior.
+La fase acuosa sube a la parte superior porque es menos densa que la fase orgánica que contiene el fenol y cloroformo.
+Esta diferencia de densidad es la razón por la que el fenol, que sólo tiene una densidad ligeramente superior a la del agua, debe mezclarse con el cloroformo para formar una mezcla con una densidad mucho mayor que la del agua.
+Los lípidos hidrofóbicos se repartirán en la fase orgánica inferior y las proteínas permanecerán en la interfase entre las dos fases, mientras que los ácidos nucleicos (así como otros contaminantes como sales, azúcares, etc.) permanecerán en la fase acuosa superior.
+La fase acuosa superior se puede retirar con una pipeta.
+Hay que tener cuidado para evitar pipetear cualquier parte de la fase orgánica o material en la interfase.
+Este procedimiento suele realizarse varias veces para aumentar la pureza del ADN.
+Con este procedimiento se obtiene un ADN de doble cadena de gran tamaño que puede utilizarse en la PCR o el RFLP.
+Si la mezcla es ácida, el ADN precipitará en la fase orgánica mientras que el ARN permanecerá en la fase acuosa.
+Esto se debe a que el ADN se neutraliza más fácilmente que el ARN.
+Esta técnica tiene algunas desventajas en el uso forense.
+Lleva mucho tiempo y utiliza reactivos peligrosos.
+Además, al tratarse de un proceso de dos pasos que implica la transferencia de reactivos entre tubos, tiene un mayor riesgo de contaminación.

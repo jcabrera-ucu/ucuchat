@@ -1,0 +1,11 @@
+El voto aprobatorio proporcional secuencial (SPAV en inglés) es un sistema electoral que extiende el concepto del voto aprobatorio (AV en inglés) a una elección de ganadores múltiples.
+Era propuesto por el estadístico danés Thorvald N. Thiele a comienzos del siglo 1900s, y estaba utilizado (con adaptaciones para listas de partido) en Suecia por un periodo escaso después del 1909.
+Este sistema convierte AV a una regla con múltiples etapas: selecciona un candidato en cada etapa y entonces reduce las aprobaciones para las rondas subsiguientes.
+El primer candidato elegido es el AV ganador (w1, el que tiene los más aprobaciones o votos).
+El valor (poder) de todas las papeletas que aprueba de w1 está reducido de 1 a 1/2 (100% poder a 50%) y las puntuaciones de aprobación son recalculadas.
+Luego, el candidato ya no elegido quién tiene la puntuación de aprobación más alta es elegido (w2).
+Entonces el valor de las papeletas que aprueban de ambos w1 y w2 está reducido a 1/3, y el valor de todas las papeletas que aprueba de cualquier w1 o w2 pero no ambos está reducidos a 1/2.
+Más generalmente, en cada etapa, el candidato no elegido con la puntuación de aprobación más alta es elegido.
+Entonces el valor de la papeleta de cada votante está puesta en 1/(1+m) dónde m es el número de candidatos aprobado en aquella papeleta quiénes eran ya elegidos, hasta que el número requerido de candidatos es elegido.
+Este sistema da menos representación a las minorías que comparten algunas preferencias con la mayoría, porque pueden perder poder en sus aprobaciones para ayudar a elegir a candidatos que no necesitan su ayuda; así que el mejor voto táctico es no aprobar los candidatos que muy probablemente van a estar elegido sin la ayuda del votante, similarmente a muchos otros sistemas proporcionales.
+SPAV es un algoritmo computacionalmente mucho más sencillo que el voto aprobatorio proporcional, así que los votos pueden ser contados o a mano o por computador, y no requiere un computador para determinar el resultado de todas las elecciones menos las más sencillas.

@@ -1,0 +1,15 @@
+CDex es un extractor de audio de CD libre para Microsoft Windows, distribuido bajo la Licencia Pública General de GNU.
+En 2010 fue el 14º programa más descargado de SourceForge, con más de 41 millones de descargas.
+CDex es desarrollado por Georgy Berdyshev, y su autor original es Albert L. Faber.
+CDex puede convertir el audio de los discos compactos a otros formatos de audio, como WAV, Vorbis, MP3 (usando el codificador LAME), VQF, Musepack, APE, FLAC, entre otros.
+También es compatible con CD-Text para que las pistas extraídas tengan los nombres de los temas, álbumes y artistas.
+Además incluye cdparanoia para lograr una lectura robusta de los discos.
+En enero de 2006, en el sitio web de CDex se solicitaba un nuevo gestor de proyecto y desarrollador, dando a entender que Albert L. Faber se encontraba próximo a abandonar el proyecto.
+El 5 de junio de 2006 se publicó la versión 1.70 Beta 1 de CDex en SourceForge.
+Esta fue la primera actualización oficial del programa en casi tres años.
+Poco después, el 23 de junio, se publicó la versión 1.70 Beta 2.
+El 30 de junio de 2007 se actualizó la licencia a GPLv3, un día después de que esta fuera publicada.
+Desde hace ya un tiempo es imposible el acceso al código fuente del programa desde la página web oficial.
+Los enlaces al mismo han sido eliminados y el instalador no ofrece ninguna opción de descarga de dicho código, lo cual podría constituir una violación de la licencia GPL.
+La instalación del programa incluye la descarga de la dll fusion.dll, considerada adware por algunos antivirus.
+Este comportamiento no se observa en máquina virtual VirtualBox, en lo que parece ser un medio de camuflaje.

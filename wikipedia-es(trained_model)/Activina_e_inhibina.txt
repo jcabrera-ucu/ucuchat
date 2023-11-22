@@ -1,0 +1,63 @@
+La activina e inhibina son dos complejos proteicos estrechamente relacionados que tienen efectos biológicos casi completamente opuestos.
+La activina aumenta la biosíntesis y secreción de la FSH, y participa en la regulación del ciclo menstrual.
+Se han encontrado muchas otras funciones ejercidas por la activina, incluyendo su papel en la proliferación celular, diferenciación celular, apoptosis, metabolismo, homeostasis, respuesta inmunitaria, cicatrización, y función endocrina.
+Por el contrario, la inhibina regula a la baja la síntesis de FSH e inhibe la secreción de FSH.
+La activina es un dímero compuesto por dos subunidades beta idénticas o muy similares.
+La inhibina también es un dímero en donde la primera componente es una subunidad beta similar o idéntica a la subunidad beta en la activina.
+Sin embargo, a diferencia con la activina, la segunda componente del dímero inhibina es más una lejanamente-relacionada subunidad alfa.
+La activina, inhibina, y un número de otras proteínas estructuralmente relacionadas tales como la hormona antimulleriana, proteína morfogénica ósea, y el factor de crecimiento de la diferenciación pertenecen a la superfamilia de proteínas TGF-β.
+<!-- FAVOR RESCATAR LO NO REDUNDANTE Y CITAR LA INFORMACIÓN DE AQUÍ LUEGO PONERLA EN LA SECCIÓN CORRESPONDIENTE
+La inhibina es una proteína aislada de extractos testiculares y también en el líquido folicular.
+Tiene un peso molecular de 20.000 dalton y su función principal es inhibir la secreción de la gonadotropina FSH.
+Su papel en el mecanismo de retroalimentación negativo en la producción de andrógenos no es bien conocido.Tiene relación con la testosterona.
+Las inhibinas, junto con las activinas, son hormonas glucoproteicas pertenecientes al grupo de los factores transformadores del crecimiento tipo beta (transforming growth factor beta).
+Las inhibinas están compuestas por dos sub-unidades (α y β) unidas a través de puentes disulfuro.
+Existe un solo tipo de subunidad-α y dos subunidades-β, ( βA y βB).
+Según los tipos de subunidades que se unen entre si, se distinguen dos tipos de inhibina.
+La inhibina-A (Inh-A) se forma por la unión de la subunidad-α con con la subunidad-βA y la inhibina-B por la union de la subunidad-α con la subunidad-βB.
+En el embarazo, la Inh-A es producida inicialmente por el cuerpo luteo y a partir de la semana 8 por el trofoblasto y en menor cantidad por las membranas fetales.
+Inhibina-B en el segundo trimestre es producida en escasas cantidades en las membranas y tejidos fetales pero actúa localmente, sin pasar a la circulación materna, y por esto no es útil en el diagnóstico prenatal.
+Durante el embarazo, los valores séricos de Inh-A presentan dos fases de máxima concentración, el primero, en el primer trimestre a las 8-10 semanas de gestación con valores aproximados de 1,76 µg/L y el segundo, a las 36-37 semanas de 5,68 µg/L, disminuyendo radicalmente después del parto.
+De la degradación de la subunidad-β resultan dos fragmentos, Pro-βA y Pro-βB y de la subunidad-α, 3 fragmentos, Pro-α, Pro-αN y Pro-αC.
+La isoforma Pro-αC tiene niveles elevados en sangre y presenta una alta reactividad cruzada con la subunidad-α de la molécula completa en las pruebas de radioinmunoensayo (RIA).
+Los primeros estudios que señalaron correlación estudios que señalaron correlación entre los niveles de Inh-A y ACF utilizaron RIA para su detección, sin embargo, al determinar esta inhibina inmunoreactiva se incluía tanto a la molécula completa, a la subunidad-α libre y a sus fragmentos de degradación, siendo un método sumamente inespecífico.
+El primer reporte al respecto fue publicado en 1992 por Van Lith quien tras la medición de esta inhibina inmurreactiva en mujeres embarazadas con fetos afectados por SD en el segundo trimestre del embarazo concluyó que fijando un punto de corte arbitrariamente elegido en 2,4 MoM se pudiesen detectar 40% de los casos de SD a 5% de los falsos positivos.
+Así se consideró por vez primera a la inhibina inmunoreactiva como un posible marcador útil para la detección de fetos portadores de SD en el segundo trimestre del embarazo.
+Sin embargo, Cukle poco tiempo después notó la correlación significativa que guardan los niveles de inhibina con los de hCG y por ende el valor limitado de la inhibina inmunoreactiva en la detección del SD sobre la ya implementada prueba triple.
+Entre los años 1995 y 1996 se desarrollaron nuevos métodos de laboratorio capaces de detectar específicamente la inhibina A, a la inhibina B  y a sus subunidades, entre ellos el ELISA y estos métodos fueron nuevamente aplicados para detección de cromosomopatías.
+Lamberth-Messerlian en base a esta nueva tecnología, midió cada una de las distintas formas bioquímicas circulantes de la inhibina (inhibina total, inhibina A dimerica y al precursor de la inhibina-α, o segmento Pro-alfaC) en el segundo trimestre en el suero materno procedente de mujeres con fetos afectados por SD y determinó que la inhibina A era la molécula mas efectiva para dicriminar estos casos, seguida por la inhibina total; concluyendo además que esta molécula podía ser tan buen marcador como la hCG, el marcador que, aislado, era el mas efectivo hasta el momento.
+Distintos estudios han reportado para la inhibina A tasas de detección de 37,62 y 70% cuando se utiliza como marcador individual.
+Valores aumentados de Inh-A en sangre materna en el segundo trimestre del embarazo se asocian con el desarrollo de restricción del crecimiento fetal, enfermedad hipertensiva asociada al embarazo y enfermedad trofoblástica gestacional.
+-->
+Los complejos proteicos activina e inhibina son ambos diméricos en estructura, y, en cada complejo, dos monómeros están unidos entre sí por un enlace disulfuro.
+Además, ambos complejos son derivados de la misma familia de genes y proteínas relacionada pero difieren en su composición subunitaria.
+Abajo hay una lista de los complejos inhibina y activina más comunes y su composición subunitaria:
+Las subunidades alfa y beta comparten una similitud de secuencia aproximadamente del 25%, mientras que la similitud entre las subunidades betas son aproximadamente del 65%.
+Se han descrito cuatro subunidades beta en mamíferos, llamadas: activina βA, activina βB, activina βC y activina βE.
+La activina βA y βB son idénticas a las dos subunidades beta de la inhibina.
+Se ha descrito una quinta subunidad, la activina βD, en Xenopus laevis.
+Dos subunidades activina βA dan origen a la activina A, una subunidad βA, y una βB dan origen a la activina AB, y así sucesivamente.
+Han sido descritos varios heterodímeros, pero no todos los teóricamente posibles.
+Las subunidades están unidas por un enlace covalente simple disulfuro.
+La subunidad βC es capaz de formar heterodímeros de activina con subunidades βA o βB, pero no es capaz de dimerizarse con la inhibina α.
+La activina es producida en las gónadas, glándula pituitaria, placenta, y otros órganos:
+En ambos mujeres y hombres, la inhibina inhibe la producción de FSH y la liberación de GnRH del hipotálamo.
+Sin embargo, el mecanismo en general difiere entre los sexos.
+La inhibina es producida en las gónadas, glándula pituitaria, placenta, y otros órganos.
+En las mujeres, la FSH estimula la secreción de inhibina de las células de granulosa del folículo ovárico en los ovarios.
+A su vez, la inhibina suprime la FSH.
+La secreción de inhibina es disminuida por la GnRH, e incrementada por el factor de crecimiento insulínico tipo 1 (IGF-1).
+La inhibina es secretada de las células de Sertoli, ubicadas en los túbulos seminíferos dentro de los testículos.
+Los andrógenos estimulan la producción de inhibina; este péptido también podría regular localmente la espermatogénesis.
+Al igual que otros miembros de la superfamilia, las activinas interactúan con dos tipos de receptores transmembranas (Tipo I y II) que tienen actividades serinas/treoninas kinasa intrínsecas en sus dominios citoplásmicos:
+La activina se une al receptor tipo II e inicia una cascada de reacciones que llevan al reclutamiento, fosforilación, y activación del receptor de activina tipo I. Este luego interactúa con y luego fosforila la SMAD2 y SMAD3, dos de las proteínas citoplásmicas SMAD.
+La SMAD3 luego se transloca al núcleo e interactúa con SMAD4 a través de multimerización, resultando en sus modulaciones como complejos de factores de transcripción responsables de la expresión de una gran variedad de genes.
+La activina es inhibida por miembros de la familia Smad, incluyendo la Smad7.
+A diferencia de la activina, se sabe mucho menos sobre el mecanismo de acción de la inhibina, pero podría involucrar la competición con la activina para unirse a los receptores de activina y/o unirse a receptores específicos de la inhibina.
+La cuantificación de inhibina A es parte de la prueba prenatal triple test que se puede administrar durante el embarazo a una edad gestacional de 16-18 semanas.
+Una inhibina A elevada (junto con un aumento de beta-hCG, disminución de la AFP, y una disminución de estriol) es sugerente de la presencia de un feto con el síndrome de Down.
+Como prueba de detección, los resultados anormales necesitan un seguimiento con pruebas más definitivas.
+También se ha utilizado como un marcador de cáncer ovárico.
+La inhibina B podría ser usada como marcador de la función espermatogénesis y esterilidad masculina.
+Los niveles promedio de inhibina B es significativamente mayor entre los hombres fértiles (aproximadamente 140pg/mL) que los hombres estériles (aproximadamente 80pg/mL).
+En hombres con azoospermia, un test positivo para la inhibina B incrementa levemente las probabilidades de lograr un embarazo con éxito a través de la extracción de espermatozoides testiculares (TESE), aunque la asociación no es muy sustancial, teniendo una sensibilidad de 0,65 (95% intervalo de confianza [IC]: 0,56–0,74) y una especificidad de 0,83 (IC: 0,64–0,93) para la predicción de la presencia de espermatozoides en los testículos en azoospermia no obstructiva.

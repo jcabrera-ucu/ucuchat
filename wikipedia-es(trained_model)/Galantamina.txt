@@ -1,0 +1,5 @@
+La galantamina es un alcaloide nootrópico que actúa como un inhibidor selectivo, competitivo y reversible de la acetilcolinesterasa.
+Además, estimula la acción de la acetilcolina sobre los receptores nicotínicos, probablemente mediante la fijación a un lugar alostérico del receptor.
+En consecuencia, en pacientes con demencia tipo Alzheimer se puede conseguir un aumento de la actividad del sistema colinérgico asociada a una mejora de la función cognitiva.
+Junto con el donepezilo y la rivastigmina (también inhibidores de la acetilcolinesterasa) es un fármaco utilizado para el tratamiento de la enfermedad de Alzheimer con deterioro cognitivo leve o moderado.
+Es escaso el beneficio terapéutico observado con estos tratamientos, lo que los convierte en una medida de dudoso coste-beneficio.

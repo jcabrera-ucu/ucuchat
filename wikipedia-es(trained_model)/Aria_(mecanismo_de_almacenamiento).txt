@@ -1,0 +1,19 @@
+Aria es un mecanismo de almacenamiento nativo de la base de datos MariaDB (derivada de MySQL).
+Su objetivo es el de presentar una alternativa a MyISAM resistente a caídas.
+Todavía no tiene plenas características transaccionales pero está planeada su evolución en ese sentido.
+El objetivo a largo plazo es hacer de Aria el mecanismo de almacenamiento transaccional y no transaccional por defecto de MariaDB.
+Está siendo desarrollado desde 2007, cuando lo anunció Michael "Monty" Widenius en su blog.
+Aria también está incluida en Percona Server, otra ramificación de MySQL.
+Además, las tablas internas de MariaDB -a partir de 5.1.- se almacenan en disco mediante Aria, sustituyendo a MyISAM.
+Inicialmente se llamó Maria -como la hija menor de Monty- pero se renombró a Aria en 2010 para evitar confusiones con el nombre del SGBD, que se llama MariaDB.
+El desarrollo de Aria se planteó para:
+El proyecto está alojado en.
+Presenta una alternativa a MyISAM resistente a caídas, de modo que -cuando mysqld rearranca- Aria recupera todas las tablas al estado que tenían antes de la sentencia fallida o del último LOCK TABLES.
+El objetivo actual es el de estabilizar el código y fijar los errores hallados.
+Implementar un mecanismo de almacenamiento transaccional con al menos todas las características más importantes de InnoDB.
+Por el momento, Aria 2.0 está en espera ya que los desarrolladores están concentrados en la mejora de MariaDB.
+Sin embargo están interesados en colaborar con clientes/socios para añadir mejores características a Aria y acabar Aria 2.0.
+Brevemente, los objetivos son los siguientes:
+Los planes para Aria 2.5.
+se centrarán en prestaciones.
+Aria introduce estas nuevas opciones en la sentencia CREATE TABLE:

@@ -1,0 +1,8 @@
+Alemania estuvo representada en los Juegos Olímpicos de Tokio 2020 por un total de 396 deportistas que compitieron en 31 deportes.
+Responsable del equipo olímpico fue la Confederación Alemana de Deportes Olímpicos, así como las federaciones deportivas nacionales de cada deporte con participación.
+Los portadores de la bandera en la ceremonia de apertura fueron el saltador Patrick Hausding y la jugadora de vóley playa Laura Ludwig.
+El equipo olímpico de Alemania obtuvo las siguientes medallas:
+{| class="wikitable" width=55%
+! Nombre !!
+Deporte !!
+Competición

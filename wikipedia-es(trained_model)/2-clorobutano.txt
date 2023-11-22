@@ -1,0 +1,23 @@
+El 2-clorobutano, también llamado cloruro de sec-butilo, es un compuesto orgánico de fórmula molecular C4H9Cl.
+Es un haloalcano lineal de cuatro carbonos con un átomo de cloro unido en la posición 2 de la cadena carbonada.
+A temperatura ambiente, el 2-clorobutano es un líquido incoloro con un olor característico.
+Tiene su punto de ebullición a 68 °C mientras que su punto de fusión es -140 °C.
+Posee una densidad inferior a la del agua (ρ = 0,873 g/cm³) y en estado gaseoso es 3,2 veces más denso que el aire.
+El valor del logaritmo de su coeficiente de reparto, logP = 2,33, indica que es más soluble en disolventes apolares —como el 1-octanol— que en disolventes polares.
+Su solubilidad en agua es de 1,22 g/L.
+En cuanto a su reactividad, el 2-clorobutano es incompatible con agentes oxidantes fuertes, bases fuertes, ácidos fuertes y metales como cobre.
+El 2-clorobutano se obtiene por cloración térmica de butano sobre óxido de aluminio a 200 °C.
+Esta cloración también puede llevarse a cabo fotoquímicamente en fase gas a 35 °C; aunque el producto mayoritario es 2-clorobutano (72%), se forma 1-clorobutano como subproducto.
+Otra vía de síntesis es por reacción entre 2-buteno y ácido clorhídrico:
+Asimismo, puede obtenerse 2-clorobutano por reacción de 2-butanol y ácido clorhídrico en presencia de cloruro de zinc anhidro.
+Otra forma de producir 2-clorobutano parte del ácido 2-metilbutanoico, haciendo reaccionar este con cloruro de litio y acetato de plomo (IV), utilizando benceno como disolvente.
+En este caso el rendimiento llega al 96%.
+El 2-clorobutano se emplea en síntesis orgánica.
+Este compuesto se convierte fácilmente en el correspondiente reactivo de Grignard (cloruro de sec -butilmagnesio) tras el tratamiento con magnesio metálico en éter etílico anhidro.
+También sirve para obtener 2-metilbutanonitrilo por reacción con cianuro de sodio en presencia del catalizador de transferencia de fase PEG 400.
+Otros usos del 2-clorobutano son en la producción de carbamatos N-sustituidos —por reacción con cianato potásico y etanol— y telururos de dialquilo simétricos.
+El 2-clorobutano es un líquido inflamable cuyo punto de inflamabilidad es -15 °C.
+Sus vapores pueden formar mezclas explosivas con el aire cuando se calienta.
+Al arder desprende productos tóxicos como monóxido de carbono y ácido clorhídrico.
+Su temperatura de autoignición se alcanza a los 460 °C.
+Los siguientes compuestos son isómeros del 2-clorobutano:

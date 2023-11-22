@@ -1,0 +1,29 @@
+Central Point Software, Inc. (CP, CPS, Central Point) era un fabricante líder de utilidades de software para el mercado de PC, que suministraba software de utilidades para los mercados de DOS y Microsoft Windows.
+También hizo programas de copia de Apple II.
+Mediante una serie de fusiones, finalmente en 1994 Symantec adquirió la empresa.
+CPS fue fundada por Michael Burmeister-Brown (Mike Brown) en 1980 en Central Point, Oregón, por lo que se nombró a la empresa.
+Aprovechando el éxito de su utilidad de copia de seguridad de PC Copy II, se trasladó a la ciudad de Beaverton, Oregón.
+En 1993 CPS adquirió XTree Company.
+Más tarde, Symantec la adquirió en 1994 por unos 60 millones de dólares.
+El producto inicial más importante de la empresa fue una serie de utilidades que permitían realizar duplicados exactos de disquetes protegidos contra copia.
+La primera versión, Copy II Plus v1.0 (para Apple II), fue lanzado en junio de 1981.
+Con el éxito de IBM PC y compatibles, se lanzó una segunda versión en 1983 para esa plataforma, Copy II PC (copy2pc).
+CPS también ofreció una tarjeta de expansión complementaria de hardware, la Copy II PC Deluxe Board, que venía incluida con su propio software.
+La placa Copy II PC Deluxe también pudo leer, escribir y copiar discos de sistemas informáticos Apple II y Macintosh.
+El principal competidor de COPY II PC era CopyWrite de Quaid Software, que no tenía un componente de hardware.
+CPS también lanzó el hardware Option Board con el software TransCopy para duplicar disquetes protegidos contra copia.
+En 1985, CPS lanzó PC Tools, un paquete de utilidades y consola gráfica integrada para DOS.
+PC Tools fue un éxito instantáneo y se convirtió en el producto insignia de Central Point, que posicionó a la empresa como el principal competidor de Peter Norton Computing y Norton Utilities y Norton Commander.
+Más tarde, CPS fabricó una versión para Macintosh llamada Mac Tools.
+CPS autorizó los componentes Mirror, Undelete y Unformat de PC Tools a Microsoft para su inclusión en las versiones 5.x y 6.x de MS-DOS como utilidades externas de DOS.
+CPS File Mánager se adelantó a su tiempo, con características como ver archivos ZIP como directorios y un visor de archivos / imágenes.
+En 1993, CPS lanzó PC Tools para Windows 2.0, que se ejecutaba en Windows 3.1 y Windows 95/98.
+Después de la adquisición de Symantec, el grupo de programadores que creó PCTW 2.0 creó Norton Navigator para Windows 95 y Symantec separó el Administrador de archivos utilizado en PCTW 2.0 y lo lanzó como PC-Tools File Mánager 3.0 para Windows 3.1.
+El retraso de PCTW en el mercado de Windows fue un factor importante por el que Symantec adquirió CPS.
+Windows Server en ese momento no se veía como una alternativa creíble a Novell NetWare - la primera versión de Windows Server fue lanzada en 1993 - y el mercado de productos de software de escritorio y servidor estaba completamente centrado en Novell NetWare.
+El posterior tropiezo de Novell para mantener el dominio en el mercado de servidores se produjo años después y no tuvo nada que ver con la adquisición.
+En cambio, como muchos proveedores de software, CPS subestimó la rapidez con la que los usuarios cambiarían de DOS a Windows.
+El otro producto de escritorio importante de CPS era Central Point Anti-Virus (CPAV), cuyo principal competidor era Norton Antivirus.
+CPAV era una versión con licencia del Turbo Anti-Virus de Carmel Software; CPS, a su vez, otorgó la licencia de CPAV a Microsoft para crear Microsoft Antivirus para DOS (MSAV) y Windows (MWAV).
+CPS también lanzó CPAV para servidores Netware 3.xx y 4.x Netware en 1993.
+Central Point también vendió el Apple II clone Láser 128 por correo.

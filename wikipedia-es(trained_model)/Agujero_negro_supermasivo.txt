@@ -1,0 +1,60 @@
+Un agujero negro supermasivo es un agujero negro con una masa del orden de millones o decenas de miles de millones de masas solares.
+Estudios científicos dicen, y está comprobado, que la Vía Láctea tiene un agujero negro supermasivo en el centro galáctico, llamado Sagitario A*.
+Se cree que muchas, si no todas las galaxias, albergan un agujero negro supermasivo en su centro.
+De hecho, una de las teorías más extendidas en los últimos tiempos es la de suponer que todas las galaxias elípticas y espirales poseen en su centro un agujero negro supermasivo.
+Un agujero negro supermasivo tiene algunas propiedades interesantes que lo diferencian de otros de menor masa:
+Los agujeros negros de este tamaño pueden formarse solo de dos formas: por una lenta absorción (acrecimiento) de materia (a partir de un tamaño estelar), o directamente por presión externa en los primeros instantes del Big Bang.
+El primer método requiere un largo período y grandes cantidades de materia disponibles para el crecimiento del agujero negro supermasivo.
+Ciertas mediciones Doppler de la materia que rodea el núcleo de galaxias vecinas a la Vía Láctea revelan un movimiento giratorio muy rápido, que solo es posible por una gran concentración de materia en el centro.
+Actualmente, el único objeto conocido que puede contener suficiente materia en tan reducido espacio es un agujero negro.
+En galaxias activas más alejadas, se piensa que el ancho de las líneas espectrales está relacionado con la masa del agujero negro que genera la actividad del espacio.
+Donald Lynden-Bell y Martin Rees en 1971 exponen la hipótesis de que el centro de la Vía Láctea podría contener un agujero negro supermasivo.
+Sagitario A* fue descubierto y nombrado el 13 y 15 de febrero de 1974, por los astrónomos Bruce Balick y Robert Brown utilizando el interferómetro de línea de base del Observatorio Nacional de Radio Astronomía.
+Se descubrió una fuente de radio que emite radiación sincrotrón; se encontró que era denso e inmóvil debido a su gravitación.
+Este fue, por lo tanto, el primer indicio de que existe un agujero negro supermasivo en el centro de la Vía Láctea.
+El origen de los agujeros negros supermasivos sigue siendo un campo de investigación abierto.
+Los astrofísicos están de acuerdo en que una vez que un agujero negro está en su lugar en el centro de una galaxia, puede crecer por la acreción de materia y mediante la fusión con otros agujeros negros.
+Hay, sin embargo, varias hipótesis para los mecanismos de formación y masas iniciales de los progenitores, o "semillas", de agujeros negros supermasivos.
+La dificultad en la formación de un agujero negro supermasivo reside en la necesidad de suficiente materia para estar en un pequeño volumen.
+Este asunto tiene que tener muy poco momento angular para que esto suceda.
+Normalmente, el proceso de acreción implica el transporte de una gran dotación inicial de momento angular hacia el exterior, y este parece ser el factor limitante en el crecimiento del agujero negro.
+Este es un componente importante de la teoría de los discos de acreción.
+La acreción de gas es lo más eficiente y también la manera más visible en el que crecen los agujeros negros.
+La mayor parte del crecimiento de la masa de los agujeros negros supermasivos se cree que ocurre a través de episodios de la acreción rápida de gas, que son observables como núcleos galácticos activos o cuásares.
+Las observaciones revelan que los cuásares eran mucho más frecuentes cuando el Universo era más joven, lo que indica que los agujeros negros supermasivos se formaron y crecieron temprano.
+Un factor limitante importante para las teorías de la formación de un agujero negro supermasivo es la observación de cuásares distantes luminosos, que indican que los agujeros negros supermasivos de miles de millones de masas solares ya se habían formado cuando el universo tenía menos de mil millones de años.
+Esto sugiere que los agujeros negros supermasivos se iniciaron muy temprano en el Universo, dentro de las primeras galaxias masivas.
+Actualmente, parece que hay un hueco en la distribución de la masa observada de los agujeros negros.
+Hay agujeros negros de masa estelar, generados a partir de estrellas que colapsan, que van hasta quizá 33 millones de masas solares.
+El agujero negro supermasivo mínimo es del orden de cientos de miles de masas solares.
+Entre estos regímenes parece haber una escasez de agujeros negros de masa intermedia.
+Una brecha tal sugeriría cualitativamente diferentes procesos de formación.
+Sin embargo, algunos modelos sugieren que las fuentes de rayos X ultraluminosas (ULXs) pueden ser agujeros negros de este grupo que falta.
+Algunas de las mejores evidencias de la presencia de agujeros negros es la que proporciona el efecto Doppler.
+De acuerdo con este efecto, la luz emitida por la materia objetos que se alejan de nosotros presenta corrimiento al rojo, mientras que los objetos que se acercan presentarán corrimiento al azul.
+Así, para la materia que se encuentra muy cerca de un agujero negro, la velocidad orbital debe ser comparable con la velocidad de la luz, por lo que la materia que se aleja aparecerá muy débil en comparación con la materia que acerque, lo que significa que los sistemas con discos intrínsecamente simétricas y anillos adquirirán un aspecto visual muy asimétrico.
+Este efecto, se ha dejado en el ordenador moderno imágenes generadas como el ejemplo que aquí se presenta, con base en un modelo plausible para el agujero negro supermasivo en Sgr A * en el centro de nuestra propia galaxia.
+Sin embargo, la resolución que proporciona la tecnología telescopio actualmente disponible es aún insuficiente para confirmar directamente tales predicciones.
+Lo que ya se ha observado directamente en muchos sistemas son las velocidades no relativistas más bajas de la materia que orbita más lejos de lo que se supone que son los agujeros negros.
+Medidas Doppler directas de máser (siglas en inglés de Amplificación de Microondas por emisión eStimulada de Radiación) de agua de la materia que rodea los núcleos de las galaxias cercanas han revelado un movimiento kepleriano muy rápido que solo es posible con una alta concentración de la materia en el centro.
+En la actualidad, los únicos objetos conocidos que pueden concentrar suficiente materia en un espacio tan pequeño son los agujeros negros, o las cosas que evolucionarán en agujeros negros dentro de plazos astrofísicamente cortos.
+Para galaxias activas más alejadas, la anchura de las líneas espectrales amplias se puede utilizar para sondear el gas que orbita cerca del horizonte de sucesos.
+La técnica de mapeo de reverberación utiliza la variabilidad de estas líneas para medir la masa y tal vez el giro del agujero negro de las galaxias activas.
+La gravitación de los agujeros negros supermasivos en el centro de muchas galaxias se cree que alimentan objetos activos tales como galaxias Seyfert y cuásares.
+Una correlación empírica entre el tamaño de los agujeros negros supermasivos y la velocidad de dispersión estelar σ de un bulbo galáctico se llama la relación M-sigma.
+La radiación de Hawking es radiación de cuerpo negro y se espera que sea liberada por agujeros negros debido a efectos cuánticos cerca del horizonte de sucesos.
+Esta radiación reduce la masa y la energía del agujero negro, haciendo que el agujero negro se encoja y finalmente desaparezca.
+Si el agujero negro se evapora a través de la radiación de Hawking, un agujero negro supermasivo con una masa de 1011 (100 mil millones) de masas solares se evaporará en aproximadamente 2 × 10 100 años.
+Se predice que durante el colapso de los supercúmulos de la galaxia, algunos agujeros negros enormes en el universo continuarán creciendo hasta los 1014M.
+Incluso estos desaparecerán en un plazo de 10106 años.
+Los astrónomos están seguros de que en nuestra propia galaxia, la Vía Láctea existe un agujero negro supermasivo en su centro, a 26 000 años luz del Sistema Solar, en una región llamada Sagitario A* debido a que:
+El Instituto Max Planck de Física Extraterrestre y UCLA Centro Galáctico Grupo han proporcionado la evidencia más fuerte hasta la fecha que Sagitario A * es el sitio de un agujero negro supermasivo, sobre la base de datos de ESO Very Large Telescope y el telescopio Keck.
+El 5 de enero de 2015, la NASA informó de la observación de una llamarada de rayos X 400 veces más brillante de lo habitual, un registro automático, de Sagitario A *; este acaecimiento atípico puede haber sido causado por la ruptura, aparte de un asteroide que cae en el agujero negro o por el enredo de líneas de campo magnético dentro del gas que fluye en Sagitario A *, según los astrónomos.
+Existe evidencia inequívoca dinámica de los agujeros negros supermasivos solo en un puñado de galaxias; estos incluyen la Vía Láctea, las galaxias del Grupo Local M31 y M32, y unas pocas galaxias más allá del Grupo Local, por ejemplo, NGC 4395.
+En estas galaxias, la media cuadrática (RMS o rms) de las velocidades de las estrellas o de escape de los gases cerca del centro es ~ 1 / r, lo que indica una masa puntual central.
+En el resto de las galaxias observadas hasta la fecha, las velocidades RMS son planas, o incluso decaen hacia el centro, por lo que es imposible afirmar con certeza que un agujero negro supermasivo está presente.
+Sin embargo es comúnmente aceptado que el centro de casi cada galaxia contiene un agujero negro supermasivo.
+La razón de esta suposición es la relación M-sigma de baja dispersión o estrecha relación entre las masas de los agujeros en las ~ 10 galaxias con detecciones seguras, y la dispersión de la velocidad las estrellas en las protuberancias de esas galaxias.
+Esta correlación, aunque basada en solo un puñado de galaxias, sugiere que muchos astrónomos una fuerte conexión entre la formación del agujero negro y la propia galaxia.
+Existe una teoría de un agujero que dejaría en vergüenza al TON 618, este es el SDSS J0100+2802, se trata del posible agujero supermasivo más grande del universo aún no está confirmado, pero este agujero tendría la masa de 196 mil millones de veces la masa del sol y un diámetro de 7.800 UA(Unidades Astronómicas= Distancia entre la tierra y el sol: 150 millones de kilómetros) eso sería un billón ciento setenta mil millones de kilómetros de diámetro, pero todavía no está confirmado.
+Kara delik

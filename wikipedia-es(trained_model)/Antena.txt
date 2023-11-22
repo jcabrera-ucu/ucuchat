@@ -1,0 +1,289 @@
+Una antena es un dispositivo normalmente conductor metálico, diseñado con el objetivo de emitir y/o recibir ondas electromagnéticas hacia el espacio libre.
+Una antena transmisora transforma energía eléctrica en ondas electromagnéticas, y una receptora realiza la función inversa.
+Existe una gran diversidad de tipos de antenas.
+En unos casos deben expandir en lo posible la potencia radiada, es decir, no deben ser directivas (ejemplo: una emisora de radio comercial o una estación base de teléfonos móviles), otras veces deben serlo para canalizar la potencia en una dirección y no interferir a otros servicios (antenas entre estaciones de radioenlaces).
+Las características de las antenas dependen de la relación entre sus dimensiones y la longitud de onda de la señal de radiofrecuencia transmitida o recibida.
+Si las dimensiones de la antena son mucho más pequeñas que la longitud de onda las antenas se denominan elementales, si tienen dimensiones del orden de media longitud de onda se llaman resonantes, y si su tamaño es mucho mayor que la longitud de onda son directivas.
+Las antenas se caracterizan por una serie de parámetros, estando los más habituales descritos a continuación:
+Es la representación gráfica de las características de radiación de una antena, en función de la dirección (coordenadas en azimut y elevación), lo más habitual es representar la densidad de potencia radiada, aunque también se pueden encontrar diagramas de polarización o de fase.
+Atendiendo al diagrama de radiación, podemos hacer una clasificación general de los tipos de antena y podemos definir la directividad de la antena (antena isotrópica, antena directiva, antena bidireccional, antena omnidireccional,…).
+Dentro de los diagramas de radiación podemos definir diagrama copolar aquel que representa la radiación de la antena con la polaridad deseada y contrapolar al diagrama de radiación con polaridad contraria a la que ya tiene.
+Los parámetros más importantes del diagrama de radiación son:
+Es el margen de frecuencias en el cual los parámetros de la antena cumplen unas determinadas características.
+Se puede definir un ancho de banda de impedancia, de polarización, de ganancia o de otros parámetros.
+El ancho de banda está determinado por las frecuencias superior e inferior fuera de las cuales el nivel de energía en la antena decrece a más de 3dB.
+La Directividad (D) de una antena se define como la relación entre la intensidad de radiación de una antena en la dirección del máximo y la intensidad de radiación de una antena isotrópica que radia con la misma potencia total:
+La Directividad no tiene unidades y se suele expresar en unidades logarítmicas (dBi) como:
+Se define como la ganancia de potencia en la dirección de máxima radiación.
+La Ganancia (G) se produce por el efecto de la directividad al concentrarse la potencia en las zonas indicadas en el diagrama de radiación.
+La unidad de Ganancia (G) de una antena es el dBd o dBi, dependiendo si esta se define respecto a un dipolo de media onda o a la isotrópica.
+Relación entre la potencia radiada y la potencia entregada a la antena.
+También se puede definir como la relación entre ganancia y directividad.
+El parámetro e (eficiencia) es adimensional.
+Es la impedancia de la antena en sus terminales.
+Es la relación entre la tensión y la corriente de entrada.
+. La impedancia es un número complejo.
+La parte real de la impedancia se denomina Resistencia de Antena y la parte imaginaria es la Reactancia.
+La resistencia de antena es la suma de la resistencia de radiación y la resistencia de pérdidas.
+Las antenas se denominan resonantes cuando se anula su reactancia de entrada.
+Es un parámetro de radiación, ligado al diagrama de radiación.
+Se puede definir el ancho de haz a -3dB, que es el intervalo angular en el que la densidad de potencia radiada es igual a la mitad de la potencia máxima (en la dirección principal de radiación).
+También se puede definir el ancho de haz entre ceros, que es el intervalo angular del haz principal del diagrama de radiación, entre los dos ceros adyacentes al máximo.
+Las antenas crean campos electromagnéticos radiados.
+Se define la polarización electromagnética en una determinada dirección, como la figura geométrica que traza el extremo del vector campo eléctrico a una cierta distancia de la antena, al variar el tiempo.
+La polarización puede ser lineal, circular y elíptica.
+La polarización lineal puede tomar distintas orientaciones (horizontal, vertical, +45°, -45°).
+Las polarizaciones circular o elíptica pueden ser a derechas o izquierdas (dextrógiras o levógiras), según el sentido de giro del campo (observado alejándose desde la antena).
+En el marco de antenas se define un coeficiente de desacoplo por polarización.
+Este mide la cantidad de potencia que es capaz de recibir una antena polarizada de una forma con una longitud efectiva de un campo eléctrico incidente con una determinada polarización.
+De este modo, el coeficiente de desacoplo por polarización se define como:
+De esta manera, obtenemos la fracción de potencia que finalmente la antena es capaz de recibir, multiplicando la potencia incidente en la antena por este coeficiente definido anteriormente, de la forma:
+Se llama diagrama copolar al diagrama de radiación con la polarización deseada y diagrama contrapolar (crosspolar, en inglés) al diagrama de radiación con la polarización contraria.
+En antenas profesionales de comunicaciones por satélite, es habitual que una misma antena trabaje con ambas polarizaciones ortogonales a la vez, de modo que se duplique el ancho de banda disponible para la señal en el enlace.
+Para ello, se coloca junto al alimentador un transductor ortomodo, que dispone de un puerto de guiaondas circular conectado a la bocina y dos puertos de guiaondas rectangulares ortogonales, cada uno de los cuales trabaja en una polarización distinta.
+Si, en cada uno de estos puertos, se coloca un diplexor, que separe las bandas de frecuencia de emisión y recepción, se tratará de un alimentador de cuatro puertos con el que una misma antena será capaz de emitir y recibir en ambas polarizaciones simultáneamente.
+En otras ocasiones, estas antenas disponen de solo dos puertos, uno para emitir en una polarización y el otro para recibir en la polarización opuesta.
+Este parámetro se define como la relación existente entre la máxima potencia radiada en una dirección geométrica y la potencia radiada en el sentido opuesto.
+Cuando esta relación es reflejada en un gráfico con escala en dB, el ratio F/B (Front/Back) es la diferencia en dB entre el nivel de la máxima radiación y el nivel de radiación a 180 grados.
+Este parámetro es especialmente útil cuando la interferencia hacia atrás es crítica en la elección de la antena que vamos a utilizar.
+Esta relación, además lo podemos ver desde otro punto de vista, indicando lo buena que es la antena en el rechazo de las señales provenientes de la parte trasera.
+Rara vez es verdaderamente importante, ya que las interferencias por la parte trasera no ocurren habitualmente, pero puede suceder.
+La relación F / B no es un número muy útil, ya que a menudo varía enormemente de un canal a otro.
+Por supuesto, si se tiene el patrón de radiación, entonces no se necesita la relación F/B.
+Comparando una antena Yagi con una parabólica, podemos ver que para la antena Yagi tenemos una relación F/B de aproximadamente 15 dB (según modelo y fabricante) mientras que para la parabólica la relación F/B es >35dB (según modelo y fabricante).
+De esta forma observamos como es "de buena" una antena respecto al rechazo de señales por la parte trasera.
+Cuanto mayor sea este parámetro en las antenas parabólicas mejor será.
+Los 15 dB de la antena Yagi lo podemos interpretar también como la atenuación que tendríamos en el sistema, en caso de captar una onda rebotada por ejemplo de un edificio, por la parte trasera de esta.
+Cuando se le suministra potencia a una antena, parte de ella se irradia y otra parte se convierte en calor disipándose.
+Cuando se habla de resistencia de radiación, se hace teniendo en cuenta que no se puede medir de forma directa.
+Si se reemplaza la antena por la resistencia de radiación, esta, haría su trabajo, es decir, disiparía la misma cantidad de potencia que la que irradiaría la antena.
+La resistencia de radiación es igual a la relación de la potencia radiada por la antena dividida por el cuadrado de la corriente en su punto de alimentación.
+En donde:
+Se podría obtener la eficiencia de una antena, dado que es la relación de la potencia radiada y la potencia disipada.
+Existen tres tipos básicos de antenas: antenas de hilo, antenas de apertura y antenas planas.
+Asimismo, las agrupaciones de estas antenas (arrays) se suelen considerar en la literatura como otro tipo básico de antena.
+Las antenas de hilo son antenas cuyos elementos radiantes son conductores de hilo que tienen una sección despreciable respecto a la longitud de onda de trabajo.
+Las dimensiones suelen ser como máximo de una longitud de onda.
+Se utilizan extensamente en las bandas de MF, HF, VHF y UHF.
+Se pueden encontrar agrupaciones de antenas de hilo.
+Ejemplos de antenas de hilo son:
+Las antenas de hilo se analizan a partir de las corrientes eléctricas de los conductores.
+Las antenas de apertura son aquellas que utilizan superficies o aperturas para dirigir el haz electromagnético de forma que concentran la emisión y recepción de su sistema radiante en una dirección.
+La más conocida y utilizada es la antena parabólica, tanto en enlaces de radio terrestres como de satélite.
+La ganancia de dichas antenas está relacionada con la superficie de la parábola, a mayor tamaño mayor colimación del haz tendremos y por lo tanto mayor directividad.
+El elemento radiante es el alimentador, el cual puede iluminar de forma directa a la parábola o en forma indirecta mediante un subreflector.
+El alimentador está generalmente ubicado en el foco de la parábola.
+El alimentador, en sí mismo, también es una antena de apertura (se denominan antenas de bocina) que puede utilizarse sin reflector, cuando el objetivo es una cobertura más amplia (e.g. cuando se pretende cubrir la totalidad de la superficie de la tierra desde un satélite en órbita geoestacionaria).
+Se puede calcular la directividad de este cierto tipo de antenas, D_0\,, con la siguiente expresión, donde S\, es el área y \lambda\, es la longitud de onda:
+Hay varios tipos de antenas de apertura, como la antena de bocina, la antena parabólica, la antena parabólica del Radar Doppler y superficies reflectoras en general.
+Un tipo particular de antena plana son las antenas de apertura sintética, típicas de los radares de apertura sintética (SAR).
+Las agrupaciones (arrays) de antenas están formados por un conjunto de dos o más antenas ordenadas de tal forma que en su conjunto se comportan como una única antena con un diagrama de radiación propio.
+La característica principal de las agrupaciones de antenas es que su diagrama de radiación es modificable, pudiendo adaptarlo a diferentes aplicaciones/necesidades.
+Esto se consigue controlando de manera individual la amplitud y fase de la señal que alimenta a cada uno de los elementos de la agrupación.
+Atendiendo a la distribución de las antenas que componen un arreglo podemos hacer la siguiente clasificación:
+A nivel de aplicación los arrays de antenas se utilizan para la construcción de antenas inteligentes.
+Una definición básica de un sistema de antenas inteligentes es cualquier configuración adaptativa de múltiples antenas que mejoran el rendimiento de un sistema de comunicaciones inalámbricas.
+Las características de las antenas inteligentes con unos haces de radiación con una mayor directividad (es decir, mayor ganancia y mayor selectividad angular), proporcionan múltiples ventajas:
+La clasificación tradicional de las antenas se basa, fundamentalmente, en la forma en que se distribuye el campo electromagnético en la propia antena o en la tecnología utilizada.
+No obstante, también pueden hacerse clasificaciones desde un punto de vista práctico: una catalogación de las antenas desde el punto de vista de sus prestaciones y tecnología, casos de uso concretos y discusiones acerca de los parámetros de ingeniería que ayuden al entendimiento de su funcionamiento.
+El origen de la antena con reflector se remonta a 1888 en el laboratorio de Heinrich Hertz, que demostró experimentalmente la existencia de las ondas electromagnéticas que habían sido predichas por James Clerk Maxwell unos quince años antes.
+En sus experimentos, Hertz utilizó un reflector parabólico cilíndrico de zinc, excitado por una chispa en la parte central de un dipolo colocado en la línea focal y otro similar como receptor.
+Su funcionamiento se basa en la reflexión de las ondas electromagnéticas por la cual las ondas que inciden paralelamente al eje principal se reflejan y van a parar a un punto denominado foco que está centrado en el paraboloide.
+En el caso de una antena receptora, en cambio si se trata de una antena emisora, las ondas que emanan del foco (dispositivo de emisión) se ven reflejadas y abandonan el reflector en forma paralela al eje de la antena.
+Cuando se desea la máxima directividad de una antena, la forma del reflector generalmente es parabólica, con la fuente primaria localizada en el foco y dirigida hacia el reflector.
+Las antenas con reflector parabólico, o simplemente antenas parabólicas se utilizan extensamente en sistemas de comunicaciones en las bandas de UHF a partir de unos 800 MHz y en las de SHF y EHF.
+Entre sus características principales se encuentran la sencillez de construcción y elevada direccionalidad.
+La forma más habitual del reflector es la de un paraboloide de revolución, excitado por un alimentador situado en el foco.
+La superficie de estas antenas es un paraboloide de revolución.
+Las ondas electromagnéticas inciden paralelamente al eje principal, se reflejan y dirigen al foco.
+El foco está centrado en el paraboloide.
+Tienen un rendimiento máximo de aproximadamente el 60%, es decir, de toda la energía que llega a la superficie de la antena, el 60% lo hace al foco y se aprovecha, el resto se pierde debido principalmente a dos efectos, el efecto spillover y el efecto bloqueo.
+Su relativa gran superficie implica un menor ángulo de anchura del haz (3 dB), por lo que la antena debe montarse con mayor precisión que una antena offset normal.
+La lluvia y la nieve pueden acumularse en el plato e interferir en la señal; Además como el LNB va montado centralmente, bloquea muchas señales con su propia sombra sobre la superficie de la antena.
+Una antena offset está formada por una sección de un reflector paraboloide de forma oval.
+La superficie de la antena ya no es redonda, sino oval y simétrica (elipse).
+El punto focal no está montado en el centro del plato, sino a un lado del mismo (offset), de tal forma que el foco queda fuera de la superficie de la antena.
+Debido a esto, el rendimiento es algo mayor que en la de Foco Primario, pudiendo ser de un 70% o algo más.
+Este tipo de antenas presentan una gran directividad, una elevada potencia en el transmisor y un receptor de bajo ruido.
+Utilizar una gran antena reflectora implica grandes distancias del transmisor al foco (y la imposibilidad de colocar equipos en él) por lo que una solución es emplear un segundo reflector o subreflector.
+En el caso del reflector parabólico Cassegrain el subreflector es hiperbólico.
+El reflector principal refleja la radiación incidente hacia el foco primario.
+El reflector secundario posee un foco en común con el reflector parabólico.
+El sistema de alimentación está situado en el foco secundario, de manera que el centro de fases del alimentador coincide con el foco secundario del hiperboloide.
+El paraboloide convierte una onda plana incidente en una esférica dirigida hacia el foco primario, que es entonces reflejada por el subreflector para formar una onda esférica incidente en el alimentador.
+Las bocinas son utilizadas como alimentador en las antenas, es decir, se utilizan para iluminar el reflector formando lo que se conoce como antena parabólica.
+La bocina de alimentación se encuentra situada en el foco del paraboloide.
+Una única bocina puede utilizarse como una antena de cobertura global en satélites; además se pueden agrupar varias bocinas (alimentándolas con una amplitud y una fase diferentes), para conseguir un determinado diagrama de radiación y dar cobertura a un país o continente.
+La agrupación de bocinas sería el alimentador del reflector.
+En una transmisión la bocina emite energía desde el foco hacia la superficie del reflector, consiguiendo radiar sobre el rango de cobertura deseado, mientras que en una recepción el reflector actúa como un acumulador de energía de la señal, que es concentrada hacia la bocina alimentadora.
+Las bocinas pueden transmitir o recibir dos ondas con polarización distinta, siempre que la polarización sea ortogonal.
+Esto se consigue con un dispositivo llamado acoplador ortomodo (OMT), que es un sistema de guía de ondas en forma de T, donde por la guía principal se propagan dos modos dominantes ortogonales y cada guía adosada soporta uno de los dos modos anteriores.
+La polarización ha de ser ortogonal para que no se produzcan interferencias.
+De acuerdo con la forma de la apertura, las bocinas pueden ser de dos tipos: piramidal y cónica.
+Bocina piramidal
+Es un tipo de bocina rectangular.
+Se ensancha tanto en el plano E como en el H, lo que permite radiar haces estrechos en ambos planos.
+Este tipo de bocinas son adecuadas para sistemas de polarización lineal.
+Su ganancia puede calcularse exactamente a partir de sus dimensiones físicas por ello se suelen utilizar como patrones de comparación en las medidas de ganancia.
+El diseño de una bocina piramidal requiere que su garganta coincida con la guía rectangular de alimentación.
+Bocina cónica
+Se utilizan fundamentalmente en antenas de satélites de haz global.
+Son las más adecuadas para utilizar polarizaciones circulares, aunque también pueden utilizar polarización lineal.
+Según el modo de propagación transmitido se clasifican como: bocinas de modo dominante, bocinas de modo dual y bocinas corrugadas.
+Definición: Una lente dieléctrica es un objeto que nos sirve para conseguir que una onda esférica se transforme en una onda plana modificando amplitud y fase pudiendo de esta forma ganar directividad en la radiación aumentando la ganancia.
+De forma similar a las lentes ópticas, una lente dieléctrica está formada por dos materiales de constante dieléctrica diferente cuya forma geométrica describe una curva hiperbólica.
+De esta manera, podemos conseguir que una onda esférica se transforme en una onda plana consiguiendo así aumentar la ganancia.
+Para ello, es necesario que los caminos eléctricos recorridos sean los mismos para cualquier posible trazado de rayos.
+Una de las principales ventajas de la utilización de este tipo de dispositivos es poder modificar la distribución de amplitud, haciéndola más uniforme y aumentando la eficiencia de apertura del sistema.
+Una aplicación común de las lentes es su utilización a la salida de las antenas de bocina.
+Mediante este dispositivo, una fase distorsionada por este tipo de antena se puede corregir con una lente colocada a la salida de la antena
+Gracias a la utilización de una lente dieléctrica en la boca del alimentador de una antena (bocina), se consigue disminuir el error de fase.
+Para distribuciones parabólicas sobre pedestal el modelo de campo de apertura es el siguiente:
+Eab(r) = C + (1 - C) [1 - (r / a) 2] n 
+Iluminación sobre el borde de la parábola (dB)
+Nivel del lóbulo secundario
+Radio de la apertura
+a = D/2
+Ancho de Haz a -3dB
+Nivel de lóbulo lateral
+Eficiencia de iluminación
+Diámetro reflector
+Eficiencia global
+La eficiencia total es debida a las siguientes eficiencias parciales:
+Eficiencia de Iluminación:
+Son las pérdidas de ganancia relacionadas con la iluminación no uniforme de la apertura.
+Eficiencia de Spillover:
+Es la pérdida de ganancia debida a la radiación del alimentador fuera del ángulo que contiene el reflector.
+A medida que la iluminación del borde crece aumenta la eficiencia de iluminación pero disminuye la eficiencia de spillover.
+El punto óptimo para la eficiencia Combinada (Iluminación y Spillover), se sitúa típicamente en torno a C=-10dB,-12dB.
+Eficiencia por Contrapolar:
+Es la medida de la pérdida de energía en la que el componente contrapolar radiada.
+En los sistemas centrados que no introducen componente contrapolar, esta eficiencia mide las características del alimentador.
+Eficiencia por error en la superficie:
+Esta relacionada con las desviaciones del frente de fase en la apertura respecto a la onda plana ideal, debidas a las distorsiones de la superficie de los reflectores.
+Eficiencia por Bloqueo:
+Aparece a causa de la porción de apertura bloqueada por:
+Pérdidas por desplazamientos:
+El desplazamiento lateral del alimentador causa un apuntamiento del haz en sentido contrario al movimiento del alimentador.
+Se produce una caída de la Ganancia y el Efecto de Coma (incremento asimétrico en el nivel de los lóbulos secundarios hasta juntarse uno de ellos con el lóbulo principal).
+La variación en la posición del alimentador a lo largo del eje z produce un error de fase de orden cuadrático en el campo de apertura que rellena los nulos del diagrama de radiación y disminuye la ganancia.
+La ganancia de una antena reflectora de apertura circular se obtiene como:
+La eficiencia total que se suele obtener es del orden de:
+Antes de definir usos de antenas con reflector se debe notar que los tipos se deberían enunciar haciendo referencia a que todas son antenas "parabólicas" puesto que así queda más claro que son tipos de parabólicas.
+Usos: Televisión, radio y transmisión de datos
+Conexión VSAT:
+Usos: Recepción de satélite, pero tiene un bloqueo del alimentador que reduce la simetría rotacional y reduce los haces.
+Usos: Antenas de recepción de satélite
+Es similar a la de Foco Primario, solo que tiene dos reflectores; el mayor apunta al lugar de recepción, y las ondas al chocar, se reflejan y van al Foco donde está el reflector menor; al chocar las ondas, van al Foco último, donde estará colocado el detector.
+Se suelen utilizar en antenas muy grandes, donde es difícil llegar al Foco para el mantenimiento de la antena.
+Aplicaciones de radar multifunción:
+Aplicaciones militares:
+Las antenas multihaz o sistemas MBA se utilizan generalmente en sistemas de satélite.
+Este tipo de antenas están formadas por arrays de elementos alimentadores y circuitos de control para variar la potencia variando o combinando funciones del BFN, de esta manera se consigue generar una red o matriz de haces (BFN beam-forming network).
+Cada elemento del array ilumina con una apertura óptica generando un haz, el ancho de haz de un rayo va determinado por el tamaño de la apertura óptica y la posición.
+La separación angular de los rayos está determinada por la separación entre los elementos.
+Con esta configuración, los satélites pueden comunicarse a través de una sola antena con varias estaciones terrenas geográficamente dispersas.
+Existen varios tipos de antenas multihaz, los más importantes y más usados son:
+Un dipolo es una antena con alimentación central empleada para transmitir o recibir ondas de radiofrecuencia.
+Estas antenas son las más simples desde el punto de vista teórico.
+Un dipolo corto (también llamado dipolo elemental) es un dipolo formado por dos conductores con una longitud total L mucho menor que la mitad de la longitud de onda (½λ).
+Los dipolos cortos son usados en ocasiones en aplicaciones donde un dipolo de la mitad de la longitud de onda sería muy grande.
+Por ejemplo, con una frecuencia de 1 MHz la longitud de onda es de 300 m. Por tanto, la mayoría de las antenas se comportan como dipolo corto a frecuencias menores de 1 MHz.
+Es un dipolo muy similar al dipolo corto pero en este caso la longitud es igual a la mitad de la longitud de onda.
+Un dipolo doblado consiste en dos dipolos paralelos cortocircuitados en su extremo.
+Uno de los dipolos es alimentado en el centro por un generador.
+El ancho de banda del dipolo doblado es superior a la del dipolo simple, debido a que las reactancias se compensan y también tiene una mayor impedancia.
+Una antena Yagi consiste en una antena de dipolo a la cual se le añaden unos elementos llamados "parásitos" para hacerlo direccional.
+Estos elementos pueden ser directores o reflectores.
+Los elementos directores se colocan delante del dipolo y refuerzan la señal en el sentido de emisión.
+Los elementos reflectores se colocan detrás del dipolo y bloquean la captación de señales en la dirección opuesta al receptor.
+Una antena de tipo log periódica es una antena cuyos parámetros de impedancia o de radiación son una función periódica del logaritmo de la frecuencia de operación.
+El diseño de estas antenas se realiza a partir de unas ciertas dimensiones como las dimensiones de un dipolo o la separación que se van multiplicando por una constante.
+Una de los diseños más conocidos es la agrupación logoperiódica de dipolos.
+Un arreglo de antenas es un conjunto de elementos radiantes individuales alimentados desde un mismo terminal mediante redes lineales.
+Normalmente suelen ser elementos iguales y con la misma orientación.
+Se pueden encontrar muchos tipos de arreglos diferentes dependiendo de su clasificación.
+Las agrupaciones se pueden clasificar por ejemplo según:
+Una antena de tipo logarítmica periódica es una antena cuyos parámetros de impedancia o de radiación son una función periódica del logaritmo de la frecuencia de operación.
+Con una construcción similar a la de la antena Yagi, solo que las diferencias de longitudes entre los elementos y sus separaciones siguen una variación logarítmica en vez de lineal.
+La ventaja de la antena logarítmica sobre la Yagi es que aquella no tiene un elemento excitado, sino que recibe alimentación en todos sus elementos.
+Con esto se consigue un ancho de banda mayor y una impedancia pareja dentro de todas las frecuencias de trabajo de esta antena.
+Funcionamiento: La receptora de la señal o su región activa cambia continuamente dependiendo de la frecuencia, donde en la frecuencia más baja de operación, el elemento largo es el resonante y el resto de elementos actúan como directores.
+En la frecuencia más alta, el elemento más corto resuena y los otros elementos (más largos) actúan como reflectores en el centro de la banda de frecuencia.
+Antena banda ancha: con dipolos resonando en diferentes frecuencias estrechas, en una misma antena, conseguimos abrir el ancho de banda de la antena.
+Antena multibanda: con dipolos resonando en diferentes bandas, podemos obtener una antena capaz de ser multibanda.
+Estas antenas pueden proveer hasta 10 dB más de ganancia que una antena de 1/4 de onda, a la vez que pueden atenuar hasta 30 dB fuentes de interferencia provenientes de otras direcciones.
+La longitud del elemento horizontal y el número de elementos transversales determinan el ancho de banda y la direccionalidad de la antena.
+Se utilizan principalmente para transmitir señales de TV, FM y para comunicaciones militares.
+A continuación se muestran tres tipos de antenas, cuya comparación ilustra lo común de estas antenas, y también sus diferencias.
+Este tipo de ejercicio es el que los ingenieros deben realizar para elegir la antena más adecuada en cada caso.
+Antena Yagi 1044
+Este tipo de antena tiene un ancho de banda del 57 % (canales 21-69) y una ganancia de 16,5 dBi.
+A la hora de seleccionar una antena un ingeniero debe tener en cuenta otros conceptos como la descripción de la antena que se hace a continuación.
+Estas antenas se caracterizan por el diseño en X de sus elementos directores, los cuales la hacen más corta que una antena Yagi convencional.
+Esta construcción consigue una elevada inmunidad contra las señales generadas por la actividad humana, tales como motores o electrodomésticos; y una perfecta adaptación de impedancias.
+Antena Yagi 1443
+Esta antena tiene un ancho de banda y una ganancia muy similar al ejemplo anterior.
+Está compuesta por un  angular de dos conjuntos de elementos directores dispuestos en V. De la misma manera que la antena descrita anteriormente, esta también tiene una reducidas dimensiones.
+Antena Yagi 1065
+Este tipo de antena, al tener muchos menos directores y tener un único reflector, tiene una ganancia mucho menor que las antenas anteriores.
+En este caso la ganancia es de 9,5 dBi.
+De esta manera se puede apreciar cuál es la función de los reflectores y directores en las antenas de dipolo y cómo estos modifican la ganancia de las mismas.
+A la hora de estudiar este tipo de dipolos, la corriente que los alimenta se suele descomponer en dos modos: par (o modo antena), e impar (o modo línea de transmisión).
+El análisis en modo par es el que se realiza cuando se tiene en cuenta que en ambos brazos hay la misma alimentación y en el mismo sentido.
+El análisis en modo impar, sin embargo, es el que se hace teniendo en cuenta un sentido contrario de la corriente en cada brazo (dos generadores con signos opuestos).
+Las corrientes totales serán por tanto la suma de las corrientes halladas en cada modo.
+Análisis del modo impar
+El modo impar equivale a dos líneas de transmisión en cortocircuito, alimentadas en serie.
+La impedancia de una línea de transmisión de longitud H, terminada en cortocircuito es
+La corriente del modo impar del dipolo doblado es
+Análisis del modo par
+A partir de la siguiente fórmula se halla la corriente del modo par:
+Siendo z_{d} la impedancia de un dipolo aislado, ya que la impedancia mutua de dos dipolos cercanos tiende a la impedancia de un dipolo aislado.
+Una vez halladas las corrientes tanto en modo par como impar, se sumarán para hallar la corriente total.
+La fórmula resultante será la siguiente:
+El ancho de banda del dipolo doblado es superior a la del dipolo simple, debido a que las reactancias se compensan.
+También hay que tener en cuenta que la relación entre las corrientes del dipolo doblado y del dipolo aislado es, y que la potencia a la entrada de los dos dipolos es idéntica, se deduce que
+En conclusión, un dipolo doblado equivale a un dipolo simple con corriente de valor doble, e impedancia 4 veces.
+El diagrama de radiación, sin embargo, será igual al del dipolo simple.
+El parámetro fundamental en el diseño de un arreglo de antenas es el denominado factor de arreglo.
+El factor de arreglo es el diagrama de radiación de una agrupación de elementos isotrópicos.
+Cuando los diagramas de radiación de cada elemento del arreglo son iguales y los elementos están orientados en la misma dirección del espacio, el diagrama de radiación de la agrupación se puede obtener como el producto del factor de array por el diagrama de radiación del elemento.
+Para analizar el comportamiento de una antena arreglo se suele dividir el análisis en dos partes: red de distribución de la señal y conjunto de elementos radiantes individuales.
+La red de distribución viene definida por su matriz de impedancias (Z), admitancias (Y) o parámetros de dispersión (S).
+Para analizar el arreglo, se excita un solo elemento y los demás de dejan en circuito abierto.
+También hay muchos casos en los que se debe tener en cuenta lo que influyen los demás elementos en la radiación del elemento alimentado (esto se denomina "acoplamiento").
+El diagrama de radiación es el producto del diagrama del elemento y del factor de arreglo.
+Gracias al factor de arreglo (valor escalar) se puede analizar la geometría y la ley de excitación sobre la radiación.
+La fórmula para hallar el campo total radiado será la siguiente:
+Factor de arreglo:
+Resto de parámetros:
+Normalmente una antena se sitúa en una pared o sobre una estructura y muchas veces rodeada de elementos conductores.
+Las estaciones base de las antenas modernas GSM, incluso suelen estar compuestas de múltiples antenas por sector, donde es posible que dos antenas estén tan cerca que pueden interferir en su radiación.
+Los operadores GSM deben tener esto en cuenta ya que la ganancia de la antena puede variar.
+Esta distorsión puede utilizarse a nuestro favor si es necesario, simplemente añadiendo algún director o reflector en el área cercana para conseguir más dBs en la dirección deseada.
+La conductividad del terreno es un factor determinante en la influencia de la tierra sobre la propagación de las ondas electromagnéticas.
+La conductividad de la superficie de la tierra depende de la frecuencia de las ondas electromagnéticas que inciden sobre ella y del material por la que esté compuesta, comportándose como un buen conductor a bajas frecuencias y reduciendo su conductividad a frecuencias mayores.
+El coeficiente de reflexión del suelo es un parámetro relacionado con la conductividad e informa acerca de como se reflejan las ondas en él.
+Su valor depende del ángulo de incidencia y del material que conforma el suelo: tierra húmeda, tierra seca, lagos, mares, zona urbana, etc.
+Para un determinado coeficiente de reflexión, la energía reflejada por el suelo aumenta a medida que aumenta el ángulo de incidencia respecto de la normal, siendo la mayor parte de la energía reflejada cuando la incidencia es rasante, y teniendo los campos eléctrico y magnético de la onda reflejada casi la misma amplitud que los de la onda incidente.
+En el caso de las antenas, tratándose habitualmente de emisión o recepción a grandes distancias, casi siempre existe una incidencia rasante.
+La apariencia de la antena imagen es una imagen especular de la apariencia de la antena transmisora real.
+En algunos casos se puede considerar que la onda transmitida desde la antena real y la onda transmitida desde la antena imagen tienen aproximadamente la misma amplitud, en otros casos, por ejemplo cuando el suelo tiene irregularidades de dimensiones similares o mayores que la longitud de onda, la reflexión del rayo incidente no será neta.
+La distancia recorrida por el rayo reflejado por la tierra desde la antena transmisora hasta la antena receptora es mayor que la distancia recorrida por el rayo directo.
+Esa diferencia de distancia recorrida introduce un desfase entre las dos ondas.
+La figura de la derecha representa un ángulo de incidencia respecto de la horizontal muy grande cuando, en la realidad, el ángulo suele ser muy pequeño.
+La distancia entre la antena y su imagen es.
+La reflexión de las ondas electromagnéticas depende de la polarización.
+Cuando la polarización es horizontal, la reflexión produce un desfase de radianes, mientras que cuando la polarización es vertical, la reflexión no produce desfase.
+En el caso de una antena que emite con polarización vertical (campo eléctrico vertical) el cálculo del campo eléctrico resultante es el mismo que en radiación de un par de antenas.
+El resultado es:
+La inversión de signo para el campo paralelo solo cambia un coseno en un seno:
+En estas dos fórmulas:
+El campo eléctrico de una onda electromagnética induce una tensión en cada pequeño segmento del conductor de una antena.
+La corriente que circula en la antena tiene que atravesar la impedancia de la antena.
+Utilizando el teorema de reciprocidad se puede demostrar que el circuito equivalente de Thévenin de una antena en recepción es el siguiente:
+El circuito equivalente y la fórmula de la derecha son válidos para todo tipo de antena: que sea un dipolo simple, una antena parabólica, una antena Yagi-Uda o una red de antenas.
+He aquí tres definiciones:
+El corolario de estas definiciones es que la potencia máxima que una antena puede extraer de una onda electromagnética depende exclusivamente de la ganancia de la antena y del cuadrado de la longitud de onda (λ).
+La intensidad de radiación es la potencia radiada por unidad de ángulo sólido.

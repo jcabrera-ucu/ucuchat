@@ -1,0 +1,25 @@
+Tradicionalmente el etalonaje ha sido un proceso de laboratorio cinematográfico, que mediante procesos fotoquímicos conseguía igualar el color, la luminosidad y el contraste de los diferentes planos que formaban las secuencias de una película de cine.
+Con la llegada del cine digital, el concepto de Etalonaje ha pasado también a utilizarse en este medio para definir todo el proceso de posproducción que hace referencia a la corrección de color y a conseguir la apariencia adecuada de cada secuencia en función de la narrativa de la misma.
+Lejos de los complejos procesos de laboratorio fotográfico, el Etalonaje digital se realiza en ordenador y utiliza programas de corrección de color específicos que proporcionan todos los controles sobre algo tan subjetivo como es la percepción del color.
+En cine digital el retoque de color es imprescindible para garantizar la calidad del resultado final.
+Cuanta mayor calidad tenga el original más flexibilidad tendremos a la hora de manipular el color.
+Si el original es de mala calidad o ha sufrido mucha perdida en la información de color, su corrección y manipulación se hace prácticamente imposible.
+Por tanto, lo primero es conservar la máxima calidad de información de color posible en todos los pasos del proceso, más aún si tenemos en cuenta que cualquier proceso de corrección de color deteriora siempre la información original.
+Todos los parámetros influyen en la calidad de las imágenes, desde el objetivo de la cámara, al formato de compresión utilizado, pasando por el submuestreo, el sensor... Etc.
+Hasta no hace mucho tiempo el etalonaje digital estaba reservado a plataformas especializadas y a sistemas de tratamiento de color muy avanzados, actualmente la corrección de color esta prácticamente al alcance de cualquiera, y casi todos los programas de edición de video cuentan con herramientas necesarias para realizar estos ajustes.
+Podemos distinguir, no obstante, dos tipos de aplicaciones o software, según estén destinados al uso en ordenadores personales, especialmente para realizar correcciones en formatos HDTV, o a su utilización en plataformas específicas destinadas al cine digital 2K, 4K y 3D:
+El proceso para la realización del etalonaje digital pasa básicamente por tres pasos:
+En esta primera fase del proceso se realizan ajustes básicos como, la luminosidad, el ajuste de contraste y la corrección de dominantes de los planos.
+Se trata de dejar la imagen NEUTRA y en sus mejores parámetros de luz, color y contraste.
+En este paso, se efectúan correcciones ya más específicas y concretas, sólo en partes de la imagen, por ejemplo se cambian colores muy concretos, o se dan dominantes a zonas muy determinadas de la imagen.
+Las herramientas más utilizadas en este paso son las máscaras, herramientas de selección de colores y los “trackers”.
+Por último, una vez realizadas todas las correcciones necesarias en los pasos anteriores, se pasa a darle a cada secuencia el “look” deseado de acuerdo con las exigencias narrativas de cada secuencia.
+Esta es una de las partes más complicadas y subjetivas de proceso, ya que, no todos vemos o entendemos de igual forma las sutiles diferencias o dominantes de color.
+En cualquier caso, las correcciones realizadas han de pasar siempre desapercibidas y han de potenciar en todo momento la narrativa de cada secuencia.
+Las herramientas de trabajo en la corrección de color nos ayudan a manipular los parámetros de color, contraste y luminosidad de las imágenes, y tenemos que estar familiarizados con su funcionamiento, ya que son los únicos elementos que van a proporcionar una información objetiva de las características de color de las tomas.
+Básicamente contamos con herramientas de dos tipos, por un lado están las que nos permiten ver objetivamente la información de luminosidad, color y contraste (Parades, Vectorscope, histogramas) y por otro lado aquellas herramientas que nos permiten manipular esa información de color de las imágenes (Ruedas de color, curvas de niveles).
+Las ruedas de color se utilizan para corregir o dar dominantes a las imágenes, suelen tener controles de color, saturación y luminosidad.
+Normalmente hay una rueda de color para las sombras, otra para los medios tonos y otra para las luces.
+Las curvas de niveles permiten ajustes más finos de la luminosidad y contraste de la imagen, normalmente se dispone de una curva por cada color primario y otra curva para la luminosidad general de todos los colores de la imagen.
+Los parades nos muestran la información en tantos por cientos de luminosidad de las imágenes, de forma que el 0% es el negro y el 100% es el blanco, podemos visualizar parades de luminosidad generales o bien visualizar la luminosidad de cada uno de los colores primarios (Rojo, Verde, Azul).
+El vectorscopio nos da información de los colores que aparecen en la imagen y de su saturación, como su nombre indica nos muestra mediante vectores la información de color de la señal de vídeo de la imagen, de forma que el ángulo nos informa del color que es y su longitud de la saturación.

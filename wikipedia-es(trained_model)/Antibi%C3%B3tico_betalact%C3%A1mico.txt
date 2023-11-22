@@ -1,0 +1,47 @@
+Los antibióticos betalactámicos son una amplia clase de antibióticos incluyendo derivados de la penicilina, cefalosporinas, monobactámicos, carbacefem, carbapenems e inhibidores de la betalactamasa; básicamente cualquier agente antibiótico que contenga un anillo β-lactámico en su estructura molecular.
+Son el grupo más ampliamente usado entre los antibióticos disponibles.
+thumb|right|600px|Antibióticos betalactámicos.
+Los antibióticos betalactámicos están indicados para la profilaxis y el tratamiento de las infecciones causadas por los microorganismos susceptibles.
+Tradicionalmente, los antibióticos betalactámicos han sido activos solamente contra las bacterias Gram positivas, pero el desarrollo de antibióticos de espectro ampliado, activos contra varios microorganismos Gram negativos, ha aumentado la utilidad de los antibióticos β-lactámicos.
+Los antibióticos β-lactámicos son bacteriolíticos, y actúan inhibiendo la síntesis de la barrera de peptidoglicanos de la pared celular de bacterias sensibles.
+La barrera de peptidoglicanos es importante para la integridad estructural de la pared celular, especialmente para los microorganismos Gram positivos.
+El paso final de la síntesis de los peptidoglicanos, la transpeptidación, se facilita por unas transpeptidasas conocidas como "penicillin binding proteins" (PBPs, proteínas de anclaje de penicilinas).
+Los β-lactámicos son análogos de la D-alanil-D-alanina, el aminoácido terminal de las subunidades peptídicas precursoras de la barrera peptidoglicana que se está formando.
+La similitud estructural que existe entre los antibióticos β-lactámicos y la D-alanil-D-alanina facilita su anclaje al centro activo de las PBPs.
+El núcleo β-lactámico de la molécula se une irreversiblemente al PBP.
+Esta unión irreversible evita el paso final (la transpeptidación) de la formación de la barrera de peptidoglicanos, interrumpiendo la síntesis de la pared.
+Es posible, además, que la inhibición de los PBPs (mediante dicha unión irreversible), haga también que se activen enzimas autolíticos de la pared celular bacteriana.
+Espectro moderado Gram positivas, y menor Gram negativas.
+Espectro moderado a Gram negativas (Haemophilus).
+De acción bactericida.
+Espectro moderado contra Gram negativos y con actividad antianaerobia.
+Amplio espectro.
+Amplio espectro con actividad anti-Pseudomonas
+Amplio espectro con actividad realzada contra bacterias gram positivas y estabilidad ante beta-lactamasasa.
+Amplio espectro con actividad antipseudomónica, frente a SARM (Staphylococcus aureus resistente a la meticilina) y ERV (Enterococcus resistente a vancomicina).
+Espectro más amplio de los antibióticos beta-lactámicos.
+A diferencia de otros beta-lactámicos, no hay anillo fundido unido al núcleo del beta-lactamo.
+Así, hay menos probabilidad de reacciones de sensibilidad cruzada.
+Los inhibidores de betalactamasa no tienen ninguna actividad antimicrobiana, sino que se administran conjuntamente con los antibióticos beta-lactámicos.
+Su propósito único es prevenir la inactivación de los antibióticos beta-lactámicos por beta-lactamasas ya que se unen irreversiblemente a éstas y no tiene afinidad por PBP's. Las beta lactamasas son enzimas producidas por las bacterias que les da la habilidad de ser resistentes a la acción de los antibióticos beta-lactámicos (mecanismo de resistencia bacteriana).
+Entre los mecanismos de defensa que diferentes microorganismos pueden presentar ante el efecto de los beta-lactámicos, destacan:
+Las porinas son canales que contienen las bacterias a través de los cuales ingresan los nutrientes y elementos bacterianos que son necesarios para la proliferación y supervivencia de los microorganismos.
+Los antibióticos también deben entrar al citoplasma de la bacteria mediante estos "canales".
+Al reducir las bacterias la permeabilidad de su envoltura bacteriana por medio del cierre de las porinas.
+Los antimicrobianos no pueden llegar al sitio diana.
+Y la bacteria opone resistencia.
+undefined
+Uno de los principales mecanismos de resistencia contra betalactámicos en Gram+ es el poseer una PBP2a modificada, denominada mecA, que no tiene afinidad por los betalactámicos.
+Ejemplos notables del uso de este mecanismo son el Staphylococcus aureus resistente a la meticilina y el Streptococcus resistente a penicilina.
+Las reacciones adversas más comunes (RAMC) con los antibióticos β-lactámicos incluyen: diarrea (amóx. + ác. clav.), náusea, erupción, urticaria, superinfección (incluye la candidiasis).
+(Rossi, 2004)
+RAMs infrecuentes serían: fiebre, vómitos, eritema, dermatitis, angioedema, colitis pseudomembranosa.
+(Rossi, 2004)
+El dolor y la inflamación en el sitio de la inyección es también común en los antibióticos betalactámicos adminitrados parenteralmente.
+Alergia: Las reacciones a cualquier antibiótico beta-lactámico pueden darse hasta en un 10% de los pacientes que reciben la sustancia.
+Aproximadamente, el 5% de los pacientes tratados con Beta-lactámicos son alérgicos a éstas, y de ese 5%, un 10% también lo son a las cefalosporinas.
+Anafilaxis: Suele darse en aproximadamente un 0.01% de los pacientes (Rossi, 2004).
+Hay quizás una sensibilidad cruzada del 5-10% entre los derivados de la penicilina, las cefalosporinas y los carbapenems; pero varios investigadores ya han conseguido minimizarla.
+Sin embargo, el riesgo de la reactividad cruzada es suficiente para contraindicar antibióticos betalactámicos en pacientes con una historia de reacciones alérgicas severas (urticaria, anafilaxis, nefritis intersticial) a cualquier antibiótico betalactámico.
+Generalmente las alergias son producidas por la unión del beta-lactámico (hapteno) a macromoléculas endógenas (carriers), para formar lo que se denomina un "inmunógeno".
+El complejo betalactámico-proteína endógena, a diferencia del beta-lactámico aislado, es capaz de generar una respuesta inmunitaria.

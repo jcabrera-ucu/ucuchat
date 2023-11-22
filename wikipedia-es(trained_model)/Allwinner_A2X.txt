@@ -1,0 +1,17 @@
+El AllWinner A20 es un SoC de arquitectura ARM producido por la empresa China AllWinner Technology en Zhuhai, provincia de Guangdong, equipado con dos núcleos ARM Cortex-A7 MPCore y dos núcleos gráficos ARM Mali-400 MP.
+Es, junto con el más potente AllWinner A31, equipado con cuatro núcleos Cortex-A7 MPCore, la segunda generación del SoC basado en el procesador Cortex de ARM.
+La primera generación fue el AllWinner A1X, equipado con un único Cortex-A8
+En, AllWinner anunció el AllWinner A23, disponible para octubre del mismo año.
+Se trata de una modificación del A20 con una frecuencia máxima más alta (1,5 GHz), y probablemente una reducción de prestaciones, destinada al mercado de la telefonía móvil.
+Al igual que la primera generación, este procesador está equipado con un procesador de vídeo CedarX creado por AllWinner, que permite la decodificación de vídeo de 2160p, también llamado 4K.
+Este procesador de vídeo es compatible con el controlador gratuito Cedrus.
+Maneja memorias DDR2, DDR3 y DDR3L
+Dispone de un procesador de pantalla, capaz de manejar 4 capas, hasta 8192 × 8192 píxeles, con capacidad de zoom, mezcla alfa/clave de color/cursor de arware/sprite.
+Existe una versión modificada del Kernel de Linux para este SoC, el soporte en las fuentes principales de Linux debería llegar con Linux 3.12.
+Este SoC es compatible con el sistema operativo Google de Android en su versión 4.2 y superior y con algunas versiones de Ubuntu.
+Los nanoordenadores en forma de placas base con licencia de hardware de código abierto, Cubieboard2 y Cubietruck, del proyecto Cubieboard, así como la placa, también de código abierto, A20-OLinuXino micro, están equipados con este SoC.
+El Banana Pi M1, el Banana Pi M1+, el Banana Pi R1, el Banana Pro, el Orange Pi también lo utilizan.
+El C64 mini de la empresa Retro Games, es un emulador que reproduce la forma del Commodore 64 en un modelo a escala y utiliza el Allwinner A20 como microprocesador ,.
+El PC on a stick Reko QT800 también está equipado con este SoC.
+Entre las tabletas podemos mencionar:
+Varios dispositivos cuya función principal es la difusión de vídeo (SetTopBox) utilizan el AllWinner A20, como Mele (M5, A100 y A100G), Mini MK805II, MK808C, EU3000(HD2), GV-11D, Kimdecent T3D,

@@ -1,0 +1,23 @@
+VP9 es un formato abierto de compresión de vídeo libre de regalías desarrollado por Google.
+VP9 durante su desarrollo también se conocía como Next Gen Open Video (NGOV) y VP-Next.
+VP9 es el sucesor de VP8.
+El desarrollo de VP9 comenzó en el tercer cuatrimestre de 2011.
+Uno de los objetivos de VP9 es reducir la tasa de bits un 50% en comparación con VP8 manteniendo la misma calidad de vídeo.
+Otro de los objetivos es mejorarlo hasta el punto en que tenga una mejor eficiencia de compresión que High Efficiency Video Coding.
+El 13 de diciembre de 2012, se añadió el decodificador de VP9 al navegador web Chromium.
+El 13 de enero de 2013, se abrió una conversación en el sistema de seguimiento de errores de Mozilla solicitando que se añadiera el decodificador de VP9 en Firefox.
+El 21 de febrero de 2013, se liberó la primera versión estable del navegador web Google Chrome que soportaba decodificación de VP9.
+Esto se añadió en la versión 25 de Google Chrome.
+El 8 de mayo de 2013, Google anunció la finalización de VP9 para el 17 de junio de 2013.
+La decodificación de VP9 ya no se oculta detrás de una bandera en la versión 29 de Google Chrome.
+El 11 de junio de 2013, el perfil 0 de VP9 fue finalizado.
+El 12 de junio de 2013, VP9 fue activado por defecto en el último lanzamiento de Chromium.
+El 18 de marzo de 2014 Mozilla añadió soporte de VP9 para Firefox en la versión 28.
+VP9 tiene muchas mejoras de diseño en comparación con VP8.
+VP9 permitirá el uso de superbloques de 32×32 píxeles y los desarrolladores están considerando añadir soporte para superbloques de 64×64 píxeles.
+Una estructura de codificación quadtree será utilizada con los superbloques.
+La norma VP9 compatible con los siguientes espacios de color: Rec. 601, Rec. 709, SMPTE-170, SMPTE-240 y sRGB.
+La norma VP9 define dos perfiles: perfil 0 y perfil 1.
+El perfil 0 soporta submuestreo de croma 4:2:0.
+El perfil 1, que es opcional para el hardware, añade soporte para submuestreo de croma 4:2:2 y 4:4:4, soporte de canal alfa y soporte de canal de profundidad.
+Se está considerando crear un perfil que soporte una profundidad de color de 10 bits por color.

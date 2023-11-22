@@ -1,0 +1,3 @@
+Los diagramas de Grassmann son una clase especial de grafo s definidos a partir de sistemas de subespacios.
+Los vértices del diagrama de Grassmann J_{q}(n,k) son los subespacios de dimensión k de un espacio vectorial de dimensión n sobre un campo finito de orden q; dos vértices son adyacentes cuando su intersección tiene una dimensión de (k - 1).
+Muchos de los parámetros de los diagramas de Grassmann son q-análogos de los parámetros de los diagramas de Johnson, y los diagramas de Grassmann tiene muchas de las mismas propiedades de gráficas que los diagramas de Johnson.

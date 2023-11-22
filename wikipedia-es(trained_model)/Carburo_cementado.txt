@@ -1,0 +1,87 @@
+El carburo cementado, también llamado carburo metálico o widia, es un material duro utilizado en el mecanizado de materiales resistentes tales como el acero al carbono o acero inoxidable, así como en situaciones en las que otras herramientas flaquean, como en las grandes series de producción.
+Normalmente, el carburo proporciona un acabado mejor en las piezas y permite un mecanizado más rápido.
+Las herramientas de carburo cementado pueden soportar temperaturas más altas que las del acero de herramientas de alta velocidad estándar.
+El carburo cementado es un material compuesto de matriz metálica donde las partículas de carburo actúan como agregado y un aglutinante metálico sirve como matriz.
+El proceso de combinación de las partículas de carburo con el aglutinante se conoce como sinterización o prensado isostático en caliente (HIP).
+Durante este proceso, el aglutinante entra en la fase líquida y los granos de carburo (con un punto de fusión mucho más alto) permanecen en la fase sólida.
+Como resultado de este proceso, el aglutinante provoca la cementación de los granos de carburo y de ese modo crea el compuesto de matriz metálica con sus propiedades de material distintas.
+El aglutinante de metal dúctil sirve para compensar el comportamiento frágil característico de la cerámica de carburo, aumentando así su resistencia y durabilidad.
+Tales parámetros de carburo se pueden cambiar significativamente dentro de la esfera del fabricante carburo de influencia, determinada principalmente por el tamaño de grano, contenido de cobalto, dotación (por ejemplo carburos de aleación) y el contenido de carbono.
+En 1927 se desarrolló el primer carburo cementado, el carburo de wolframio, que utiliza partículas de carburo de wolframio unidas por un aglutinante de cobalto metálico.
+Desde entonces otros carburos cementados se han desarrollado, como el carburo de titanio, que es más adecuado para el corte de acero, el carburo de tantalio, que es más duro que el carburo de wolframio, o el carburo de cromo.
+También se emplean otros aglutinantes diferentes, como el cobalto.
+El carburo es más caro que otros materiales, y además es más frágil, por lo que es susceptible a astillado y roturas.
+Para contrarrestar estos problemas, solo la punta de corte es de carburo metálico, muela perforada para sujeción y sustitución, el resto de la herramienta está hecho de otro material, por lo general de acero al carbono para herramientas.
+Esto le da la ventaja de usar carburo en el corte, que aporta dureza y resistencia al desgaste, sin el alto costo y la fragilidad que supondría hacer toda la herramienta del mismo.
+La mayoría de las fresas de alisar modernas utilizan placas de carburo metálico, al igual que muchas herramientas de torno y fresas de corte.
+Sin embargo, en las últimas décadas también se usan más comúnmente las fresas únicamente de carburo donde las características de la aplicación, como los tiempos de ciclo más cortos, superan a los contras mencionadas anteriormente.
+Para aumentar la vida útil de las herramientas, a veces se recubren con carburos metálicos.
+Cuatro de estos recubrimientos son TiN (nitruro de titanio), TiC (carburo de titanio), Ti (C) N (carburo de titanio-nitruro ) y TiAlN (nitruro de titanio aluminio).
+Recubrimientos más nuevos, conocidos como DLC (carbono como diamante) están comenzando a emplearse en la superficie, lo que permite obtener la potencia de corte de diamante sin la reacción química no deseada entre el diamante real y hierro.) La mayoría de los recubrimientos, generalmente, aumentan la dureza y / o lubricación de una herramienta. Un recubrimiento permite que el borde de corte de una herramienta pase limpiamente a través del material sin tener el material biliar (palo) a la misma. El recubrimiento también ayuda a disminuir el calentamiento asociado con el proceso de corte y aumentar la vida de la herramienta. El recubrimiento se deposita habitualmente mediante deposición química de vapor (CVD) y, para ciertas aplicaciones, mediante deposición en fase de vapor (PVD). Sin embargo, si la deposición se realiza a una temperatura demasiado alta, una fase eta de Co6W6C formas de carburo terciarias en la interfaz entre el carburo y la fase de cobalto, facilitando el fallo de la adhesión del recubrimiento.
+Las herramientas de minería y construcción de túneles de corte a menudo están equipadas con puntas de carburo cementado, los llamados "Bits Button".
+Sólo el diamante sintético puede sustituir a los botones de carburo cementado cuando las condiciones son ideales, pero como los útiles de perforación es un trabajo duro las brocas de botones de carburo cementado sigue siendo el tipo más utilizado en todo el mundo.
+Desde mediados de la década de 1960, las fábricas de acero de todo el mundo emplean carburo cementado para sus cilindros de laminación, tanto para la laminación en caliente como en frío de tubos, barras y pisos.
+Esta categoría contiene un sinnúmero de aplicaciones, pero se puede dividir en tres áreas principales:
+Algunas de las áreas clave en las que se utilizan componentes de metal duro:
+Carburo de wolframio se ha convertido en un metal popular en la industria de la joyería nupcial, debido a su extrema dureza y alta resistencia al rayado.
+Dada su fragilidad, es propenso a la viruta, crack, o roturas en aplicaciones de joyería.
+Una vez fracturado, no puede ser reparado, sólo sustituido.
+El carburo de wolframio fue descubierto por el químico y Premio Nobel francés Henri Moissan.
+Moissan adaptó el horno eléctrico para experimentos científicos y descubrió varios carburos, entre ellos el de silicio o carborundum llamado en su honor moissanita.
+En 1897, buscando conseguir diamantes artificiales, mezcló partículas metálicas de wolframio y de azúcar (por su contenido de carbono), calentando la mezcla a alta temperatura.
+El resultado fue una masa azul oscura de una gran dureza: el carburo de wolframio.
+Sin embargo aunque registró su descubrimiento e identificó los componentes, su extrema fragilidad lo hacía inoperante.
+Durante la Primera Guerra Mundial se hicieron algunos experimentos en Alemania, sinterizando partículas de carburo de wolframio.
+Se prensaron en varias formas a alta presión y se trataron térmicamente.
+De nuevo el producto resultante fue demasiado frágil para procesarlo industrialmente.
+El desarrollo inicial de carburos cementados y sinterizados ocurrió en Alemania en la década de 1920.
+Aunque los acontecimientos que conllevaron al desarrollo se remontan a 1907 cuando General Electric había conseguido, gracias al trabajo del ingeniero William Coolidge, desarrollar filamentos de wolframio.
+Esto permitió sustituir al rutenio y al osmio en la fabricación de bombillas.
+Pero el wolframio resultó ser muy abrasivo, por lo que para el trefilado de los filamentos de bombillas se debía emplear diamante natural en las trefilas.
+Sin embargo los núcleos de diamante eran un problema debido al alto coste de la materia prima y a la dificultad de encontrarlos en la Alemania de la postguerra, tras la pérdida de las colonias sudafricanas.
+Así que sobre 1920 el ingeniero Karl Schröter, junto a su ayudante Baumhauer, comenzaron la búsqueda de un sustituto.
+No sería hasta el año 1923 cuando unos ingenieros de la fábrica berlinesa de bombillas OSRAM (licenciada por General Electric) lograron sintetizar un producto a base de carburo de wolframio utilizando como aglomerante un 10% de cobalto.
+El cobalto dio tenacidad a la aleación resultante lo que permitía su uso industrial.
+Por ello el éxito de este primer Metalduro fue inmediato.
+Aunque caro de producir, era mucho más económico que el diamante, y más tenaz.
+Su menor resistencia al desgaste quedaba compensada por su resistencia a la rotura.
+Al no tener el equipo para explotar este material a escala industrial, Osram vendió la licencia de Krupp a finales de 1925.
+Krupp quiso desarrollar el invento aplicándolo también como material para herramienta de corte.
+En 1926 Krupp lanza al mercado el carburo sinterizado el nombre WIDIA, en recuerdo de la motivación de sus descubridores, acrónimo de Wie Diamant = como el diamante, en alemán.
+Pero antes tuvo que librar una batalla legal con la empresa alemana Walter (de Tubingen), que había desarrollado un material similar llamado DINYT.
+Hubo un acuerdo entre Krupp y Walter: este último renunciaba a sus derechos sobre el nuevo material, y a cambio Krupp se comprometía a no fabricar herramientas de fresado durante 40 años.
+Green et al dan la fecha de introducción comercial herramientas de metal duro en 1927.
+Burghardt y Axelrod dan la fecha de su introducción comercial en los Estados Unidos en 1928.
+El desarrollo posterior se produjo en varios países.
+Las primeras herramientas de corte se mostraron en la Feria de Leipzig en 1927 en el stand de la empresa Robert Zapp, distribuidora universal por entonces de todos los productos Krupp.
+Las primeras herramientas, para economizar el material, se construían con el mango de acero y en el extremo se soldaba el filo de Metalduro.
+Su inventor fue Walter Dahwil, ingeniero Jefe de Desarrollo en el nuevo departamento de Krupp, y servía para tornear piezas de fundición gris e hileras de metalduro.
+Aunque el marketing fue ligeramente hiperbólico (los carburos no era del todo igual a los diamantes), las herramientas de carburo cementado ofrecen una mejora en la velocidad de corte y avance tan notables, como el acero de alta velocidad había hecho dos décadas atrás, que obligó a los diseñadores de máquinas herramienta a repensar cada aspecto de los diseños existentes, con la mirada puesta aún mayor rigidez y mejores rodamientos del huso.
+Paralelamente, General Electric desarrolló su propio Metalduro.
+En 1925, bajo la dirección de Samuel Hoyt, se creó un departamento en Michigan llamado Carboloy, con objeto de producir este material a un coste menor.
+Hoyt consiguió reducirlo a la cuarta parte en menos de 5 años.
+El material perdió entonces su aura de metal exótico y empezó a ser considerado por los ingenieros para desarrollar nuevas aplicaciones.
+En 1929 la URSS desarrollo su propio carburo cementado, el Pobedit.
+No es tarea fácil seguir los pasos científicos y tecnológicos asociados a su producción debido a las restricciones impuestas por las organizaciones comerciales.
+En algunos casos no se publica información relevante hasta mucho después de la fecha del desarrollo, por lo que la colocación de datos en un orden cronológico es difícil.
+Sin embargo, se ha podido establecer que estos se remontan a 1929, aproximadamente 6 años después de la concesión de la primera patente, cuando los trabajadores de Krupp / Osram habían identificado los aspectos positivos del refinamiento del grano del carburo de wolframio.
+Hacia 1939 también habían descubierto los efectos beneficiosos de la adición de una pequeña cantidad de vanadio y carburo de tántalo.
+Este crecimiento del grano discontinua controlada efectivamente.
+Durante los años 30, las empresas Krupp y General Electric acordaron un cartel que excluía la competencia.
+Krupp no interferiría en los negocios americanos de GE, y viceversa.
+Durante unos años se mantuvo un precio artificialmente alto que aportó grandes ganancias a ambas compañías.
+Las autoridades de competencia de la época comenzarían años más tarde a presionar sobre el cartel.
+A pesar de ello, en Europa empezaron a florecer competidores que se dedicaron a fabricar variedades con distintas aleaciones e ingredientes, ya que al tratarse de países independientes y un ámbito estratégico se procuraba no depender de otro país:
+Durante la Segunda Guerra Mundial hubo una escasez de wolframio en Alemania.
+Tanto el carburo de wolframio como el acero de alta velocidad necesitan wolframio para su fabricación.
+Se encontró que el carburo de wolframio cortaba el metal de manera más eficiente con acero de alta velocidad si se empleaba la misma cantidad wolframio, por lo que para ahorrar en el uso de wolframio, se utilizan carburos de metal de corte tanto como fue posible.
+Al fin de la 2.ª Guerra Mundial los aliados entraron en la Factoría de Essen donde se producía el Widia.
+Allí interrogaron durante semanas a los técnicos y responsables de producción sobre sus métodos.
+El resumen escrito fue llamado el "Informe BIOS", British Intelligence Objectives Subcommittee BIOS Final Report No. 925, y serviría durante años como manual de fabricación de metal duro, secretamente distribuido a varios países de influencia anglo-americana.
+Las plaquitas de apriete y amplia variedad actual de recubrimientos son los avances logrados en las décadas posteriores.
+Con cada década que pasa, el uso de carburo se ha vuelto menos "especial" y más omnipresente.
+Lo que se consideraba "bien" en una década se consideraba no tan bueno en la siguiente.
+Así, un tamaño de grano en el rango de 0,5 a 3,0 micras se consideró apropiado en los primeros años, pero sobre la década de 1990, la era de los materiales nano-cristalinos había llegado, con un tamaño de grano de 20 a 50 nm.
+El nombre se convirtió en un Widia marca genérica en varios países e idiomas,.
+Pero desde 2009, el nombre ha sido revivido como un nombre de marca por Kennametal, y la marca engloba numerosas submarcas populares de herramientas de corte.
+En aras de una comunicación clara, la reactivación de la marca Widia puede naturalmente desalentar la utilización en sentido genérico.

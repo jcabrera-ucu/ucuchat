@@ -1,0 +1,67 @@
+Una estructura MOS (Metal-Oxide-Semiconductor) es un dispositivo electrónico formado por un sustrato de silicio dopado, sobre el cual se hace crecer una capa de óxido (SiO2).
+Los elementos se contactan con dos terminales metálicas llamadas sustrato y compuerta.
+La estructura se compara con un condensador de placas paralelas, en donde se reemplaza una de las placas por el silicio semiconductor del sustrato, y la otra por un metal, aunque en la práctica se usa polisilicio, es decir, un policristal de silicio..
+La estructura NMOS está formada por un sustrato de silicio dopado con huecos.
+Al aplicar un potencial de compuerta positivo, los electrones presentes en el sustrato (portadores minoritarios) son atraídos hacia la capa de óxido de compuerta.
+Al mismo tiempo, los huecos son repelidos de la capa de óxido de compuerta debido a que el potencial positivo los aleja.
+Esto ocasiona una acumulación de electrones en la cercanía del óxido, en donde el silicio presenta un exceso de electrones y por lo tanto es de tipo n. La inversión del dopado en el silicio (que antes era de tipo p) es lo que le da origen al nombre de esta región.
+También se produce una región de agotamiento de portadores en las cercanías del óxido, debido a que los huecos del sustrato se recombinan con los electrones atraídos.
+De manera análoga, una estructura PMOS está formada por un sustrato de silicio dopado con electrones.
+Al aplicar un potencial de compuerta negativo, los huecos presentes en el sustrato (portadores minoritarios) son atraídos hacia la capa de óxido de compuerta.
+Los electrones son repelidos del óxido de compuerta debido a que el potencial negativo los aleja.
+Los huecos se acumulan en la cercanía del óxido, en donde el silicio acumula un exceso de huecos y por lo tanto se comporta como un material de tipo p. La recombinación de huecos y electrones produce una región de agotamiento.
+La tensión positiva aplicada en la compuerta de una estructura PMOS se distribuye a través de las capas de materiales de acuerdo con la siguiente ecuación
+En ambos tipos de estructuras se acumulan cargas eléctricas en el óxido y en el semiconductor, de modo que el dispositivo se comporta como un condensador eléctrico.
+Se distinguen tres regiones de funcionamiento, dependiendo del nivel de tensión que se aplica en la terminal de la compuerta.
+En la etapa de acumulación las cargas se almacenan en el óxido por el mismo principio de operación de un condensador, en donde el dieléctrico se polariza de forma proporcional al campo eléctrico aplicado.
+Realmente lo que ocurre es lo siguiente:
+Caso nMOS:
+Aplicamos un potencial negativo en la compuerta.
+Esto induce electrones, atrayendo huecos a la interfase y creando un campo eléctrico.
+De ahí el nombre de acumulación.
+Caso pMOS:
+Aplicamos un potencial positivo en la compuerta.
+Esto induce huecos, atrayendo electrones a la interfase y creando un campo eléctrico.
+Recordemos que el campo eléctrico va siempre de carga positiva a carga negativa
+Al incrementar el potencial de compuerta, los electrones y los huecos se comienzan a recombinar en el semiconductor para formar la región de agotamiento.
+Caso nMOS:
+Aplicamos potencial positivo a la compuerta, con lo que se acumula carga positiva en el metal.
+El Semiconductor es tipo N, con lo que se atraen electrones a la interfase y se apartan los huecos que había antes en la interfase.
+Se produce un campo eléctrico en el sentido contrario al caso de Acumulación, en este caso desde el metal al semiconductor.
+Como consecuencia, hay una recombinación de electrones y huecos que produce el agotamiento del canal.
+Caso pMOS:
+Aplicamos potencial negativo a la compuerta.
+Como consecuencia se atraen huecos a la interfase y se crea un campo eléctrico.
+El Semiconductor es tipo P, por lo que los huecos son atraídos a la interfase y los electrones son repelidos.
+Se produce un campo eléctrico en el sentido de la acumulación.
+Esto hace que los electrones y los huecos se recombinen.
+Si se continúa aumentando la tensión de compuerta, se logra la inversión del tipo de dopado del semiconductor.
+Caso pMOS:
+En este caso inducimos una tensión muy positiva, lo que induce muchos huecos en el metal.
+Como el semiconductor es tipo N, lo que se consigue es un campo eléctrico grande que va del metal al semiconductor, y por tanto una Intensidad grande, debido a los electrones que se acercan a la interfase atraído por el exceso de huecos del metal
+Caso nMOS:
+Aplicamos una tensión muy negativa que hace que el metal se llene de electrones.
+Como consecuencia, los huecos del semiconductor, se ven atraídos hacia la interfase creándose un campo eléctrico del semiconductor al metal.
+En un condensador de capacidad C, aparece una carga Q, dada por la expresión: Q=C·V, donde V es la tensión entre armaduras.
+En el condensador MOS, la tensión entre la compuerta y el sustrato hace que adquiera la carga Q, que aparece a ambos lados del óxido.
+Pero en el caso del semiconductor esto significa que la concentración de portadores bajo la compuerta varía en función de la tensión aplicada a esta.
+Imaginemos que tenemos el sustrato de silicio tipo p, es decir, conteniendo un exceso de huecos.
+Lo conectamos a 0 V, y tenemos la compuerta también conectada a 0 V. En estas condiciones, no existe una variación en la concentración de huecos.
+Cuando vamos aumentando la tensión de compuerta, el condensador se va cargando, con carga positiva en la parte de la compuerta y negativa en el sustrato que, en nuestro caso de semiconductor p, significa que el número de huecos va disminuyendo hasta alcanzar la carga correspondiente a la tensión de compuerta.
+Este modo de funcionamiento se llama deplexión, vaciamiento o empobrecimiento.
+Podemos continuar aumentando la tensión de compuerta hasta que ya no queden huecos en la banda de conducción y el sustrato bajo la compuerta se vuelve aislante.
+Pero, si continuamos aumentando todavía más la tensión, el condensador MOS necesita más carga, que los huecos ya no pueden proporcionarle, por lo que aparecen electrones en la banda de conducción, a pesar de ser el sustrato tipo p. Este fenómeno se llama inversión y permite formar canales tipo n dentro de semiconductores p. Cuanto más aumentamos la tensión, mayor carga introducimos y más avanza la capa de inversión dentro del sustrato, con lo que la zona bajo la compuerta se va haciendo cada vez más conductora.
+Volvamos a poner la compuerta a 0 V y vayamos polarizándola con valores negativos.
+Ahora la carga en el sustrato es positiva y el número de huecos aumenta, con lo que la conductividad, también.
+Este modo de funcionamiento se llama de acumulación o enriquecimiento, pues se aumenta el número de portadores.
+La descripción anterior es teórica y no se ajusta al caso real, debido a que durante el proceso de fabricación diversas cargas quedan atrapadas en el óxido que forma la estructura MOS.
+Esta carga es independiente de la tensión que se aplique a la compuerta, pero influye sobre el comportamiento de la estructura, ya que se debe polarizar la compuerta para compensar esta carga antes de que el condensador MOS se comporte como se ha descrito en el párrafo anterior.
+Estas cargas han sido un quebradero de cabeza para los diseñadores de circuitos integrados MOS, pues varían incontroladamente sus condiciones de funcionamiento.
+En circuitos digitales, se suaviza el problema usando tensiones de alimentación elevadas, que se han ido reduciendo al poder controlar mejor la cantidad de carga atrapada.
+Modificando esta carga se varía la tensión a la que se produce la inversión, de forma que se tiene estructuras que a cero voltios tienen resistencia elevada, mientras que otras la tienen reducida.
+Aunque el dióxido de silicio es un buen dieléctrico y se obtiene oxidando el sustrato, existen otras estructuras similares con otros aislantes, constituyendo la estructura MIS (Metal-aislante-Semiconductor).
+También puede haber varias capas de dieléctricos diferentes, como en el caso de las celdas MIOS.
+La estructura MOS es de gran importancia dentro de los dispositivos de estado sólido pues forma los transistores MOSFET, base de la electrónica digital actual.
+Pero, además, es el pilar fundamental de los dispositivos de carga acoplada, CCD, tan comunes en fotografía.
+Así mismo, funcionando como condensador es responsable de almacenar la carga correspondiente a los bits de las memorias dinámicas.
+También se utilizan como condensadores de precisión en electrónica analógica y microondas.

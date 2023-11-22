@@ -1,0 +1,11 @@
+En matemáticas, una categoría coma (siendo un caso especial una sobrecategoría (slice category)) es una construcción en teoría de categorías.
+Facilita una forma distinta de estudiar morfismos: en lugar de simplemente relacionar los objetos de una categoría entre ellos, se estudian como objetos por sí mismos.
+Esta noción fue introducida en 1963 por F.W. Lawvere, aunque la técnica no fue generalmente conocida hasta muchos años después.
+El nombre original (comma category) proviene de la notación originalmente usada por Lawvere, que utilizaba el signo de puntuación coma.
+Aunque la notación original ha cambiado con el tiempo, el nombre persiste.
+La construcción más general de una categoría coma utiliza dos funtores con el mismo codominio.
+Normalmente, uno de ellos tendrá dominio 1 (la categoría de un objeto con un solo morfismo) y en la teoría suele considerarse solo este caso, pero el término categoría coma hace referencia a la construcción general.
+Supongamos que \mathcal{A}, \mathcal{B}, y \mathcal{C} son categorías, y S y T (en referencia a source y target) son funtores de la forma.
+Definimos entonces la categoría coma,, como aquella que tiene:
+Los morfismos se componen definiendo como  en aquellos casos en los que la expresión esté bien definida.
+El morfismo identidad en un objeto será.

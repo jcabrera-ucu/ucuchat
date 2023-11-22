@@ -1,0 +1,22 @@
+Los Buscadores de audio se tratan de motores de búsqueda especializados en sonidos.
+Cuentan con grandes bases de datos que contienen todo tipo de archivos de sonido.
+En una barra de búsqueda se introduce un término de búsqueda (texto) y posteriormente, tras analizar la base de datos, muestra los resultados que coinciden con nuestro término.
+Dichos resultados irán acompañados de una breve descripción del contenido del archivo de sonido y sus características, como por ejemplo: duración, frecuencia de muestreo, bit rate o tipo de archivo.
+Finalmente el usuario tendrá la opción de descargarse aquel archivo que más se ajuste a sus preferencias.
+Los sistemas de consulta por ejemplo (multimedia) es una técnica de consulta que implica dotar al sistema CBIR con una imagen de ejemplo, donde ésta, servirá para realizar la búsqueda.
+Una vez se analiza la imagen, se extrae información de la misma.
+Por ejemplo, palabras clave referentes al contenido de la imagen.
+Estas palabras se utilizan para la búsqueda de audios dentro del banco de datos de sonido.
+Como en el caso anterior, según la aplicación, los resultados de la búsqueda se mostrarán según las preferencias del usuario en cuanto al tipo de archivo (wav, mp3, aiff...) u otras características.
+Todavía no hay ningún software que trabaje este tipo de búsquedas.
+En un futuro podrían aparecer aplicaciones que se basaran en este método que serían útiles para técnicos de postproducción de sonido.
+Es decir, el técnico que debe ambientar de forma sonora una escena, podría escoger un fotograma que corresponda a un plano conjunto de la escena, arrastrar la imagen a la barra de búsqueda del buscador y que el software le mostrara como resultados efectos de sonidos correspondientes a los elementos de los cuales se compone la escena.
+Se utiliza comúnmente en el campo de la música.
+En la aplicación el usuario deberá reproducir el audio de una canción a través de algún reproductor de música o bien cantándola o tarareándola para que el micrófono del ordenador o del móvil lo capte y se grabe el sonido.
+Posteriormente, el sonido captado corresponderá a un patrón A que se define por su forma de onda y su representación frecuencial a partir de su Transformada de Fourier.
+Dicho patrón será comparado con un patrón B que se corresponde con los archivos sonoros que se encuentran en el banco de datos, de los cuales se conoce su forma de onda y su transformada.
+Todos aquellos archivos de audio de la base de datos cuyos patrones sean similares al patrón de búsqueda, se mostrarán como resultados de la búsqueda.
+Midomi se trata de un software que te permite encontrar resultados referentes a una canción a partir del audio que has introducido al haberla cantado o tarareado previamente.
+Una base de datos de sonido es un conjunto de archivos sonoros almacenados sistemáticamente para su posterior uso.
+En este sentido, una biblioteca de sonido puede considerarse una base de datos compuesta de archivos sonoros indexados para su consulta.
+Actualmente, y debido al desarrollo tecnológico de campos como la informática y la electrónica, la mayoría de las bases de datos están en formato digital (electrónico), que ofrece un amplio rango de soluciones al problema de almacenar datos.

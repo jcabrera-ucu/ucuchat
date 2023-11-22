@@ -1,0 +1,31 @@
+Elwyn Ralph Berlekamp (6 de septiembre de 1940 - 9 de abril de 2019) fue un matemático estadounidense conocido por su trabajo en ciencias de la computación, teoría de códigos y teoría de juegos combinatorios.
+Fue profesor emérito de matemáticas y ciencias de la computación e ingeniería (CSE) en la Universidad de California, Berkeley.
+Berlekamp fue el inventor de un algoritmo para factorizar polinomios, y fue uno de los inventores del algoritmo Berlekamp-Welch y los algoritmos Berlekamp-Massey, que se utilizan para implementar la corrección de errores Reed-Solomon.
+Berlekamp también había participado activamente en la gestión del dinero.
+En 1986, inició estudios de teoría de la información sobre futuros financieros y de productos básicos.
+Berlekamp nació en Dover, Ohio.
+Su familia se mudó al norte de Kentucky, donde Berlekamp se graduó de Ft. La escuela secundaria Thomas Highlands en Ft. Thomas, condado de Campbell, Kentucky.
+Mientras estudiaba en el Massachusetts Institute of Technology (MIT), fue becario de Putnam en 1961.
+Completó su licenciatura y maestría en ingeniería eléctrica en 1962.
+Continuando sus estudios en el MIT, terminó su Ph.D. en ingeniería eléctrica en 1964; sus asesores fueron Robert G. Gallager, Peter Elias, Claude Shannon y John Wozencraft.
+Berlekamp tuvo dos hijas y un hijo con su esposa Jennifer.
+Vivió en Piedmont, California y murió en abril de 2019 a la edad de 78 años por complicaciones de la fibrosis pulmonar.
+Berlekamp enseñó ingeniería eléctrica en la Universidad de California, Berkeley desde 1964 hasta 1966, cuando se convirtió en investigador de matemáticas en Bell Labs.
+En 1971, Berlekamp regresó a Berkeley como profesor de matemáticas y EECS, donde se desempeñó como asesor de más de veinte estudiantes de doctorado.
+Fue miembro de la National Academy of Engineering (1977) y la National Academy of Sciences (1999).
+Fue elegido miembro de la American Academy of Arts and Sciences en 1996, y se convirtió en miembro de la American Mathematical Society in 2012.
+En 1991, recibió la medalla IEEE Richard W. Hamming, y en 1993, el Premio Claude Shannon.
+En 1998, recibió un premio Golden Jubilee a la innovación tecnológica de la IEEE Information Theory Society.
+Fue uno de los fundadores de Gathering 4 Gardner y estuvo en su junta durante muchos años.
+A mediados de la década de 1980, fue presidente de Cyclotomics, Inc., una corporación que desarrolló tecnología de códigos de corrección de errores.
+Ha estudiado varios juegos, incluidos puntos y cajas, el zorro y los gansos y, especialmente, go.
+Berlekamp y el coautor David Wolfe describen métodos para analizar ciertas clases de finales de go en el libro Mathematical Go.
+En 1989, Berlekamp compró la mayor participación en una empresa comercial llamada Axcom Trading Advisors.
+Después de que se reescribieron los algoritmos de negociación de futuros de la empresa, el Medallion Fund de Axcom obtuvo un rendimiento (en 1990) del 55%, neto de todas las comisiones de gestión y costes de transacción.
+Posteriormente, el fondo ha seguido obteniendo rendimientos anualizados superiores al 30% bajo la gestión de James Harris Simons y su Renaissance Technologies LLC.
+Berlekamp era un amigo cercano del columnista de Scientific American Martin Gardner y era un miembro importante del grupo diverso y talentoso de personas que Gardner nutrió y actuó como un conducto; personas que inspiraron a Gardner y que a su vez se inspiraron en él.
+Berlekamp se asoció con John Horton Conway y Richard K. Guy, otros dos colaboradores cercanos de Gardner, para ser coautor del libro Winning Ways for your Mathematical Plays, lo que lo llevó a ser reconocido como uno de los fundadores de la teoría de juegos combinatorios.
+La dedicatoria de su libro dice: "A Martin Gardner, que ha llevado más matemáticas a más millones que nadie".
+Berlekamp y Gardner tenían un gran amor por las matemáticas recreativas yeran fuertes defensores de estas.
+Las conferencias llamadas Gathering 4 Gardner (G4G) se llevan a cabo cada dos años para celebrar el legado de Gardner.
+Berlekamp fue uno de los fundadores de G4G y estuvo en su junta directiva durante muchos años.

@@ -1,0 +1,13 @@
+Celestia es un programa de código abierto de simulación que muestra el espacio en 3D.
+Celestia es un programa libre y gratuito.
+Este programa proporciona ilustraciones en 3D de los planetas del sistema solar, satélites y galaxias; también se incluyen constelaciones, datos precisos sobre sus coordenadas de ubicación y su desplazamiento a lo largo del tiempo.
+Fue creado por Chris Laurel en 2001.
+El proyecto fue publicado bajo la licencia GPL.
+La última versión estable es la 1.6.1, disponible también en español.
+Cuenta con versiones para varios sistemas operativos, como GNU/Linux, Windows y Mac OS X.
+Celestia se basa en OpenGL y cuenta con una GUI tanto en GTK como en Qt.
+La distribución por defecto tiene un peso de alrededor 30 megabytes solamente; sin embargo los usuarios tienen la opción de expandir la calidad y contenido del programa más allá de los 10 gigabytes mediante complementos o add-ons.
+En diversas páginas de distintos usuarios avanzados se pueden encontrar por ejemplo add-ons de numerosos satélites artificiales, texturas con resoluciones hasta en 128k de los planetas y lunas del sistema solar, expandir el número de galaxias o estrellas e, incluso, existen complementos de las series de ciencia ficción como Star Wars.
+También se pueden agregar complementos interesantes como la lista de exoplanetas más actualizada que usuarios entusiastas publican en el mismo foro oficial de la página de Celestia.
+El add-on más grande es una esfera del tamaño del universo observable que corresponde a la radiación de fondo de microondas publicada por el usuario Selden Ball.
+La descarga de la última versión está disponible aquí.

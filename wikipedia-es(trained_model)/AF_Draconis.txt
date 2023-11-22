@@ -1,0 +1,10 @@
+AF Draconis (AF Dra / 73 Draconis / HD 196502 / HR 7879) es una estrella variable en la constelación del Dragón.
+De magnitud aparente media +5,19, se encuentra a 417 años luz de distancia del sistema solar.
+Clasificada de tipo espectral A0p, la letra p indica que AF Draconis es una estrella químicamente peculiar, una clase de estrellas que presentan sobreabundancia de algunos elementos —estroncio, cromo y europio en el caso de AF Draconis— e intensos campos magnéticos.
+El campo magnético efectivo <Be> de AF Draconis alcanza los 492 G.
+Su temperatura efectiva ha sido estimada en 8500 K, si bien otra fuente eleva dicha cifra hasta los 8842 K, consecuencia de la dificultad de evaluar este parámetro en esta clase de estrellas.
+Con un radio 4,8 veces más grande que el radio solar, su período de rotación es de 20,3 días.
+Brilla con una luminosidad 120 veces mayor que la del Sol y es 2,87 veces más masiva que éste.
+Evidencia un contenido relativo de hierro manifiestamente superior al del Sol ([Fe/H] = +0,28).
+Su edad se estima en 370 millones de años y está a punto de concluir la fusión nuclear de hidrógeno en su núcleo.
+Catalogada como variable Alfa2 Canum Venaticorum, su brillo oscila entre magnitud +5,15 y +5,22 a lo largo de un período de 20,2747 días.

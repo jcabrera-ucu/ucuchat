@@ -1,0 +1,34 @@
+El Altair BASIC fue un intérprete para el lenguaje de programación BASIC que corría en el Altair 8800 de MITS y posteriormente en las máquinas de Bus S-100.
+Fue el primer producto de Microsoft (como Micro-Soft), distribuido por MITS bajo contrato.
+Altair BASIC fue el principio de la gama de productos de Microsoft BASIC.
+Bill Gates recuerda que cuando él y Paul Allen leyeron acerca del Altair en el ejemplar de Popular Electronics de enero de 1975, entendieron que el precio de los ordenadores pronto caería rápidamente hasta el punto en que la venta de software para ellos sería un negocio beneficioso.
+Gates creyó que al proporcionar un intérprete BASIC para el nuevo ordenador ellos podrían hacerlo más atractivo para los aficionados.
+Contactaron con el fundador de MITS, Ed Roberts, le dijeron que estaban desarrollando un intérprete y le preguntaron si quería ver una demostración.
+Esto sería una práctica común en la historia de Micro-soft: anunciar un producto no existente para medir el interés que despertaba.
+Roberts aceptó reunirse con ellos para ver la demostración en pocas semanas.
+Gates y Allen no tenían ni un intérprete, ni siquiera un sistema Altair en el que desarrollar y poner a prueba uno.
+Sin embargo Allen había escrito un emulador del Intel 8008 en su anterior empresa, Traf-O-Data, que corría en un equipo PDP-10 de tiempo compartido.
+Él adaptó este emulador basado en la guía de programación del Altair, y desarrollaron y probaron el intérprete en un PDP-10 de Harvard.
+Los funcionarios de Harvard no estaban de acuerdo cuando lo encontraron, pero no había normas escritas acerca de la utilización de este equipo.
+Gates y Allen compraron tiempo de computación de un servicio de tiempo compartido en Boston para completar su BASIC.
+Se contrató al estudiante de Harvard Monte Davidoff para escribir las rutinas de aritmética de punto flotante para el intérprete, una característica que no estaba disponible en muchos de sus competidores.
+El intérprete terminado, incluyendo su propio sistema de E/S y editor de línea, cabía en solo cuatro kilobytes de memoria, lo que dejaba mucho espacio para el programa interpretado.
+Para preparar la demostración, almacenaron la versión final del intérprete en una cinta perforada que el Altair pudiera leer y Paul Allen voló a Albuquerque.
+A última hora, Allen se dio cuenta de que se había olvidado de escribir el programa de arranque para leer la cinta en la memoria.
+Escribiendo en lenguaje de máquina del 8080, Allen terminó el programa antes de que el avión aterrizara.
+Obviamente el arranque no estaba en la cinta y tenía que escribirse usando las palancas del Altair así que probablemente estuvieron por bastantes minutos escribir la secuencia: "041,256,017,061,022,000,333,000,017,330,333,001,275,310,055,167,300,351,003"Al cargar la cinta y ver el Prompt preguntando por el tamaño de la memoria del sistema, Gates y Allen supieron que su intérprete funcionaba en el equipo Altair.
+thumb|250px|right|La página de título del código en [[lenguaje ensamblador que produjo el Altair BASIC.]]
+Roberts acordó distribuir el intérprete.
+También contrató a Gates y Allen para mantenerlo y mejorarlo, causando que Gates pidiera una justificación para ausentarse de Harvard.
+Ellos produjeron varias versiones: la original 4 K BASIC, y más tarde 8K BASIC, Extended BASIC, Extended ROM BASIC, y Disk BASIC.
+Como esperaban, el Altair fue muy popular entre los aficionados, como los del Homebrew Computer Club.
+El Altair BASIC, como el intérprete BASIC preferido de MITS, también fue popular.
+Sin embargo, los aficionados tomaron un acercamiento de "compartir" el software y no pensaron en nada más que copiar el intérprete BASIC de otros aficionados.
+El miembro del Homebrew, Dan Sokol, fue especialmente prolífico, después de obtener de alguna manera una cinta previa a la venta del intérprete, hizo 25 copias y distribuyó en la siguiente reunión del Homebrew, instando a los receptores a hacer más copias.
+Gates respondió en 1976 con palabras recias en una carta abierta a los aficionados que acusaba a los copiadores de robo, y declaró que no podía seguir desarrollando programas de ordenadores que la gente no pagaba.
+Muchos aficionados reaccionaron defensivamente a la carta.
+Bajo los términos del acuerdo de compra, MITS recibiría los derechos del intérprete después de haber pagado una cierta cantidad por las regalías.
+Sin embargo, Microsoft había desarrollado versiones del intérprete para otros sistemas, como el Motorola 6800.
+Cuando ellos decidieron dejar MITS, surgió una controversia sobre si el importe total había sido pagado, y si el acuerdo se aplicaba a las demás versiones.
+Microsoft y MITS dejaron la disputa en manos de un juez, quien decidió a favor de Microsoft, para sorpresa de Roberts.
+Los intérpretes BASIC siguieron siendo el núcleo de negocios de Microsoft hasta principios de los años 1980, cuando se trasladó al MS-DOS.

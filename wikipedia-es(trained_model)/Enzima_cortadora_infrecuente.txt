@@ -1,0 +1,5 @@
+Una cortadora infrecuente es una enzima de restricción cuya secuencia de reconocimiento aparece escasas veces en un genoma.
+Un ejemplo es la enzima NotI, que corta tras el primer dinucleótido GC de una secuencia 5'-GCGGCCGC-3'.
+Las enzimas de restricción con secuencias de reconocimiento de 7 u 8 pares de bases se incluyen habitualmente en este grupo (las secuencias de reconocimiento con 6 pares de bases son mucho más frecuentes).
+Por ejemplo, las enzimas cortadoras infrecuentes con sitios de reconocimiento de 7 nucleótidos cortan el genoma humano una vez cada 47 pb (16 384 pb), en promedio, mientras que las que tienen sitios de 8 cortan cada 48 pb (65 536 pb).
+Estas enzimas se utilizan en la secuenciación de genomas para cortar cada cromosoma en trozos cuyo tamaño medio tenga esos valores.

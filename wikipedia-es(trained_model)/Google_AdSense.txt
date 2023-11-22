@@ -1,0 +1,72 @@
+Google AdSense es junto a Google Ads uno de los productos de la red de publicidad en línea de Google.
+Permite a los editores obtener ingresos mediante la colocación de anuncios en sus sitios web, ya sean de texto, gráficos o publicidad interactiva avanzada.
+Estos anuncios son administrados y ordenados por Google en asociación con los anunciantes de Google Ads a través de un sistema complejo de subasta instantánea.
+AdSense usa una serie de tecnologías para mostrar anuncios relevantes a los visitantes, ya sea indexando el contenido de los sitios web, la ubicación geográfica y otros factores (incluyendo promociones especiales de grandes marcas).
+Esto garantiza a los anunciantes llegar al público que buscan, al tiempo de entregar anuncios útiles a los usuarios.
+Todos los recursos de AdSense provienen de la inversión de los anunciantes de Google Ads, el cual es un complejo modelo de subasta instantánea donde compiten los anuncios con más rendimiento para el editor.
+Oingo, Inc, una empresa privada ubicada en Los Ángeles iniciada en 1998 por Gilad Elbaz y Adam Weissman, desarrolló un algoritmo de búsqueda propietario llamado WordNet basado en el significado de las palabras y su léxico subyacente, que fue desarrollado 15 años atrás por la Universidad de Princeton, dirigido por George Miller.
+Oingo cambió su nombre a Applied Semantics en 2001, el que más tarde sería adquirido por Google en abril del 2003 en 102 millones de dólares.
+En 2009, Google AdSense anunció que ofrecería nuevas características, incluyendo la habilidad de "habilitar múltiples redes de display en sus anuncios".
+Google AdSense ofrece varias alternativas a los Editores en función de sus necesidades e implementaciones técnicas.
+Es el modo principal, el cual muestra anuncios relevantes con base al contenido de los sitios Web, a través de la Red de exposición (o anunciantes de Ads).
+Este modo permite formatos y tamaños distintos, tanto texto como gráficos.
+En mayo de 2005, Google anunciaría una versión beta limitada de su nuevo formato, AdSense para Sindicación (o fuentes), una versión de bloques de anuncio para fuentes como RSS y Atom.
+De acuerdo al blog oficial de Google, "los anunciantes tienen sus anuncios en las fuentes de artículos más apropiados; a los editores se les paga por publicar contenido original; los lectores verán publicidad relevante en el largo plazo y con fuentes de mayor calidad."
+AdSense para Sindicación funciona insertando imágenes entre las entradas.
+Cuando una imagen es desplegada en un navegador, Google escribe el contenido de la publicidad en la imagen que devuelve.
+El contenido de anuncio se elige en función del contenido de la fuente que rodea la imagen.
+Cuando el usuario hace clic en la imagen, es redirigido al sitio web del anunciante en la misma manera que los anuncios de AdSense estándar.
+AdSense para Sindicación se mantuvo en beta hasta el 15 de agosto de 2008.
+A partir de entonces, está disponible para todos los editores.
+Como parte del programa publicitario de Google, AdSense para Búsqueda, ofrece a los webmasters poner un cuadro de búsqueda en sus sitios Web.
+Cuando el usuario hace una búsqueda a través del cuadro de búsqueda, Google mostrará, dependiendo de los criterios de búsqueda, anuncios relevantes con base en las palabras clave usadas.
+Google comparte el 51% de los ingresos a los editores.
+Los anunciantes pagan sólo cuando el usuario hace clic en los anuncios desplegados; AdSense no paga por el solo hecho de realizar búsquedas.
+Como antecedente, los editores han reportado que reciben ingresos de entre 0.64 y 0.88 dólares por clic, pero dichos ingresos son relativos y depende de cuánto pague el anunciante.
+Otorga bloques de anuncios para sitios con resolución y recursos reducidos para teléfonos y dispositivos móviles.
+Ofrecen las mismas prestaciones que los bloques de anuncios, con la diferencia que los anuncios se generan del lado del servidor (PHP por ejemplo) en lugar de usar Javascript, por lo que el sitio Web debe estar preparado con tecnologías del lado del servidor, y los permisos necesarios para conectarse con Google.
+Permitía la posibilidad de poner anuncios en dominios aparcados sin desarrollar, y obtener ingresos por las visitas que recibían.
+Ofrece remunerar a los propietarios de contenido de video a través de la red de contenidos, incluyendo YouTube.
+Fue una de las opciones de anuncios de AdSense.
+Dicho programa consistía en bloques que ofrecían productos como Firefox con la barra Google, o Ads (el que pagaba US$100 al Editor cuyo referido alcanzase US$100 dentro de cierto plazo), entre otros.
+Dicho programa fue retirado a mediados de julio del 2008, en pos de otras alternativas más rentables.
+A, el código de los cuadros de búsqueda de AdSense no es compatible con XHTML, porque no sigue los principios de los navegadores modernos:
+1: usar una tabla para fines no previstos es absolutamente desaconsejado por la W3C, pero no causa errores en la validación — actualmente no existe un método algorítmico de determinar si se utiliza una tabla "correctamente" (para mostrar datos tabulares o elementos de la visualización, que se proporcionalmente se amplían o reducen cuando se cambia el tamaño de ventana del navegador del cliente).
+2: la etiqueta  está obsoleta, pero no arroja errores en la validación de cualquier estándar XHTML.
+Adicionalmente, las unidades de anuncio usan el método JavaScript, el que no funciona correctamente cuando se escribe el tipo MIME   dentro.
+Las unidades también escriben la etiqueta HTML  que no es validad correctamente como XHTML 1.0 Strict or XHTML 1.0 Transitional DOCTYPEs.
+Los términos y las condiciones prohíben a sus editores modificar el código, lo que previene que sus sitios web sean validados.
+Sin embargo, se ha encontrado una solución al crear una página web separada sólo con los bloques publicitarios, y entonces importando a una página XHTML con la etiqueta.
+Esta solución parece ser aceptada por Google.
+Varios webmasters han puesto énfasis en maximizar los ingresos con AdSense, tales como usar métodos para atraer visitas a través de anuncios a su propio sitio web (usando AdWords por ejemplo) y generar contenido relevante y de calidad tanto para los usuarios como los anunciantes.
+Sin embargo, hay otros métodos implementados como la incitación a hacer clic, diseñar la página de tal manera que los usuarios confundan los anuncios con el contenido, o hacer clic en sus propios anuncios, algo totalmente prohibido por los términos y las condiciones de AdSense.
+Algunos han creado sitios web diseñados para atraer a los buscadores de Google y otros motores de AdSense en su página web, exclusivamente para hacer dinero con los clics.
+Estos sitios son denominados "zombies" y no contienen contenido original, sino contenido automatizado (como un directorio con contenidos de Open Directory Project, o sitios rasqueta obtenido de las fuentes RSS).
+Posiblemente la forma más popular de estas "granjas de AdSense" son los blogs de 'spam', que se centran alrededor de las palabras clave mejor pagadas.
+Muchos de estos sitios web utilizan el contenido de otros sitios, tales como Wikipedia, para atraer visitantes.
+Estos y otros enfoques son considerados como 'spam' por los motores de búsqueda y pueden ser reportados a Google.
+Un sitio rasqueta tiene poco o ningún contenido, pero está lleno de anuncios para que los usuarios no tengan más remedio que hacer clic en ellos.
+Estas páginas se toleraron en el pasado, pero debido a las quejas, Google ahora desactiva dichas cuentas.
+También se han reportado troyanos que producen anuncios falsos de Google que tienen el formato y parecen ser legítimos.
+El troyano se carga en el ordenador de un usuario desprevenido a través de una página maliciosa y luego remplaza los anuncios originales de los sitios que visita con su propio conjunto de anuncios maliciosos.
+Debido a la preocupación por el fraude de clics, Google AdSense ha sido criticado por algunas compañías de SEO como fuente de clics inválidos, en el que una empresa hace clic en los anuncios en los bloques de búsqueda de sus competidores, incrementando sus costes.
+Para ayudar a prevenir el fraude de clics, los editores de AdSense pueden elegir entre una serie de programas de seguimiento de clics.
+Estos programas muestran información detallada acerca de los visitantes que hagan clic en los anuncios de AdSense.
+Los editores pueden usar esto para determinar si han sido o no víctima de clics inválidos.
+Hay una serie de secuencias de comandos de seguimiento comercial a la venta.
+Las condiciones de pago para los webmasters también han sido criticadas.
+Google siempre pagará cuando el editor haya alcanzado los US$100.00 al mes siguiente de alcanzada dicha cifra,
+pero los proveedores de microcontenido (blogs o sitios de buena calidad pero pocas visitas) requieren mucho tiempo, años en algunos casos para construir estos ingresos.
+Sin embargo, Google pagará todos los ingresos obtenidos superiores a US$10, si el usuario decide cerrar la cuenta unilateralmente, siempre y cuando haya cumplido con los términos y las condiciones del programa.
+Muchos dueños de sitios web se quejan de que sus cuentas de AdSense se han desactivado justo antes de que debían recibir su primer pago.
+Google deshabilita dichas cuentas debido a supuestos clics inválidos o contenido prohibido, pero no han aportado ninguna prueba de ello.
+Un correo electrónico automático es enviado al propietario de la cuenta, que no ofrece ningún razonamiento, pero sí un enlace para presentar una apelación.
+En el correo electrónico, Google afirma que "Debido a que tenemos la responsabilidad de proteger a los anunciantes de AdWords de costes erróneos originados por actividad no válida, nos hemos visto obligados a desactivar su cuenta de AdSense. El saldo pendiente y el reparto de Google de los beneficios se devolverán por completo a los anunciantes afectados", los ingresos generados - legítimos o no - es causa de la mayoría de las quejas.
+Google fue criticado cuando en su blog oficial mostró el sitio de videos francés Imineo.com.
+Este sitio web infringe las Políticas de Adsense permitiendo la publicación de material explícito.
+Por lo general, sitios con dicho contenido son inhabilitados.
+Se ha reportado que el uso conjunto de AdSense y AdWords puede provocar que un editor deba pagar una comisión cuando se anuncia y publica anuncios en el mismo sitio.
+En algunos casos, se han publicado anuncios de AdSense inapropiados u ofensivos.
+Por ejemplo, en una noticia sobre un ataque terrorista en la India, un anuncio se ha generado para obtener un título (probablemente inexistente) de formación educativa en el terrorismo.
+AdSense establece algunas cookies que son vistas por algunos como un atentado a la privacidad.
+Los administradores de webs que utilicen AdSense deben colocar el aviso correspondiente en la página de política de privacidad, advirtiendo dichas cookies y cómo deshabilitarlas.

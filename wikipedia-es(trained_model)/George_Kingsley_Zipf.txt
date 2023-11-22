@@ -1,0 +1,9 @@
+George Kingsley Zipf (1902-1950) fue un lingüista y filólogo estadounidense que aplicó el análisis estadístico al estudio de diferentes lenguas.
+A él se debe la llamada Ley de Zipf, que afirma que un pequeño número de palabras son utilizadas con mucha frecuencia, mientras que frecuentemente ocurre que un gran número de palabras son poco empleadas.
+Esta afirmación, expresada matemáticamente quedaría de la siguiente forma:
+donde Pn representa la frecuencia de una palabra en la posición n-ésima (cuando las palabras se ordenan de mayor a menor frecuencia) y a es casi 1.
+Esto significa que el segundo elemento se repetirá aproximadamente con una frecuencia de 1/2 de la del primero, y el tercer elemento con una frecuencia de 1/3 y así sucesivamente.
+Una ley no empírica, pero más precisa, derivada de los trabajos de Claude Shannon fue descubierta por Benoît Mandelbrot.
+Zipf trabajó en Harvard.
+Estudió el idioma chino y sus trabajos pueden ser utilizados para estudiar las propiedades estadísticas de grandes conjuntos de datos, como Internet.
+Sus descubrimientos sobre el lenguaje le han llevado también a ser uno de los autores más citados que se han importado al área de la Información y Documentación científica, especialmente en el área de Recuperación de información y la indización automática.

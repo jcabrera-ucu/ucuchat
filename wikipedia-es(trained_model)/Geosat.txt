@@ -1,0 +1,5 @@
+Geosat (Geodetic Satellite) es un satélite artificial de la Armada de los Estados Unidos lanzado el 13 de marzo de 1985 mediante un cohete Atlas desde la base aérea de Vandenberg.
+Estaba diseñado para medir la altura de la superficie marina con una precisión de 5 cm mediante radar.
+La misión consistía en dos partes: una primera, de año y medio de duración, clasificada y realizada para la Armada; y una segunda parte, denominada ERM (Exact Repeat Mission), que comenzó el 8 de noviembre de 1986 y duró hasta enero de 1990, en que el falló de las dos grabadoras a bordo del satélite finalizó las operaciones.
+Durante la segunda parte de la misión se recogieron más de tres años de datos altimétricos que se pusieron a disposición de la comunidad científica.
+El satélite se estabilizaba mediante gradiente gravitatorio.

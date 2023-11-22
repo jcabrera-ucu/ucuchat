@@ -1,0 +1,13 @@
+Acme es un editor de texto y shell gráfico del sistema operativo Plan 9 from Bell Labs, diseñado e implementado por Rob Pike.
+Puede usar el lenguaje de comandos Sam.
+El diseño de la interfaz está influenciado por Oberon.
+Es diferente a otros entornos de edición debido a que funciona como un servidor 9P.
+Una característica particular de la interfaz de usuario es el acorde de ratón.
+Acme puede ser usado como un lector de correo y como un lector de noticias o como un frontend para wikifs.
+Estas aplicaciones son posibles mediante componentes externos interactuando con acme mediante su interfaz de sistema de archivos.
+Un port al sistema operativo Inferno es parte de la distribución estándar de Inferno.
+Debido al diseño de Inferno, puede ser ejecutado como una aplicación sobre otro sistema operativo.
+Esto permite que el port de acme para inferno pueda ser usado en todos los sistemas operativos soportados por Inferno, como Microsoft Windows y Linux.
+Un proyecto llamado acme: stand alone complex (Del Inglés "acme: complejo independiente") pretende hacer que acme se ejecute como una aplicación independiente en el sistema operativo huésped.
+Hasta el momento solamente ha sido logrado en el port de Inferno para Microsoft Windows.
+Plan 9 from User Space también incluye un port de acme que funciona en sistemas similares a UNIX como FreeBSD, Mac OS X o Linux.

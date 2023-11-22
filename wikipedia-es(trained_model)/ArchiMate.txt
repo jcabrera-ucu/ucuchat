@@ -1,0 +1,6 @@
+ArchiMate es un lenguaje de modelado de arquitectura de software empresarial abierto e independiente para soportar la descripción, análisis y visualización de la arquitectura dentro y entre dominios comerciales de una manera inequívoca.
+Es un tipo de lenguaje descriptor de arquitectura (adl).
+ArchiMate es un estándar técnico de The Open Group y se basa en los conceptos del estándar IEEE 1471.
+Cuenta con el respaldo de varios proveedores de herramientas y empresas de consultoría.
+ArchiMate también es una marca registrada de The Open Group.
+Open Group tiene un programa de certificación para usuarios de ArchiMate, herramientas de software y cursos.

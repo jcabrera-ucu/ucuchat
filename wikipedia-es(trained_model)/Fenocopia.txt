@@ -1,0 +1,3 @@
+En genética se denomina fenocopia al individuo o grupo de individuos de una población que, careciendo de un genotipo dado, posee el mismo fenotipo que aquel que sí posee dicho genotipo.
+Esto es, que expresa un carácter independientemente de su dotación de genes debido a la injerencia de un factor del medio ambiente y que dicha expresión es compartida por otro tipo de individuos en los cuales el origen es endógeno.
+Un ejemplo claro es la acondroplasia.

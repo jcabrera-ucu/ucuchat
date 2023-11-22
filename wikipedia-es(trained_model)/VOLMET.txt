@@ -1,0 +1,6 @@
+VOLMET, acrónimo francés proveniente de vol, «vuelo», y météo, «meteorología», desarrollado como «información meteorológica para aeronaves en vuelo» (meteorological information for aircraft in flight), es una red global de estaciones de radio que transmiten reportes meteorológicos a través de frecuencias de onda corta, y en algunos países en VHF.
+Los reportes son enviados en modo upper side band, usando transmisiones con voces automatizadas.
+Los pilotos en rutas internacionales usan estas transmisiones para evadir tormentas y turbulencias durante el vuelo, también para determinar qué procedimientos utilizar para el descenso, aproximación y aterrizaje.
+La red VOLMET divide el mundo en regiones específicas, las estaciones VOLMET en una región especifica emiten reportes del clima para grupos específicos de terminales aéreas un su región en momentos específicos, coordinando sus horarios de transmisión con el fin de no interferir unos con otros.
+Los horarios están determinados en intervalos de cinco minutos.
+Los horarios de transmisión se repiten cada hora.

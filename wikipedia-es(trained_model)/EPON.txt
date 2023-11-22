@@ -1,0 +1,23 @@
+EPON (Ethernet sobre redes ópticas pasivas) se refiere a una extensión del estándar Ethernet IEEE802.3, desarrollado por un grupo de trabajo perteneciente al IEEE (Instituto de Ingenieros Eléctricos y Electrónicos), anteriormente descripto en el estándar 802.3ah-2004 y actualmente incorporado en el documento 802.3-2005 sección 5.
+GEPON o Gigabit-EPON se refiere a la tecnología EPON con soporte de velocidades para transferencia de datos de Gigabit por segundo.
+Las redes pasivas PON, nacen de la iniciativa por crear redes de fibra óptica puras, sin la utilización de equipamiento activo, con la consecuente reducción de infraestructura y la eliminación de alimentación eléctrica en la red.
+Por otro lado, grupos de trabajo de la IEEE han elaborado estándares con el objetivo de eliminar transportes no nativos como Ethernet sobre ATM.
+Tal como se describe en el IEEE802.3, Ethernet en la última milla, del inglés “Ethernet in the First Mile” o EFM combina un pequeño conjunto de extensiones del IEEE 802.3 Media Access Control (MAC) y subcapas de control de MAC junto a una familia de capa física.
+EFM también introduce el concepto de EPON, que implementa una topología de red punto-a-multipunto (P2MP) con la utilización de divisores ópticos pasivos Junto a las extensiones de subcapas de control de MAC y PDMs de la fibra óptica hacen posible soportar dicha topología.
+Adicionalmente se incorporan funciones de OAM (Administración, Supervisión y Mantenimiento) para facilitar las operaciones de red y la resolución de problemas.
+OLT (Optical Line Terminal): Terminal de Línea Óptica es el equipo de cabezal del sistema GEPON.
+Splitter: Divisores ópticos pasivos, se encargan de dividir la señal óptica desde la OLT hacia las ONU.
+Actualmente GEPON soporta una división de 1:64 hasta 20 km.
+ONU (Optical Network Unit): Unidad óptica de red.
+Dispositivo del cliente o cercano según la implementación FTTx.
+Proceso de descubrimiento y registración: Es el primer paso cuando una ONU se conecta a la OLT y es administrado por ésta.
+Luego se produce el proceso de Registración, donde se asigna un LLID (Logical Link Identifier) asociado a cada MAC de las ONUs.
+GEPON permite transferencias de 1000 Mbps en ambos sentidos sobre una única fibra.
+Administración del tráfico: GEPON, al tener una topología punto a multipunto (P2MP), tiene algunas diferencias en los protocolos de capa física y de enlace del modelo de referencia OSI.
+MPCP (Multipoint ContrOl Protocol) permite a las MAC de los clientes participar de la topología P2MP.
+Enviar y recibir tramas como si estuviesen conectados a un enlace dedicado.
+Tráfico upstream (desde la ONU hacia la OLT): Múltiples MACs operan en un medio compartido, por lo cual solamente una ONU puede enviar tráfico en un momento dado haciendo uso del método de Acceso Múltiple por División de Tiempo (TDMA).
+Tráfico downstream (desde la OLT hacia la ONU): Debido a que el PON es un medio de broadcast el tráfico llega a todas las ONUs, pero solo puede recibirlo a quien va destinado.
+Acceso a Internet Proporcionar acceso general a Internet, los usuarios de Internet tienen suficiente garantía de ancho de banda.
+VoIP Las NGN orientadas al futuro brindan servicios de telefonía por Internet.
+IPTV Para lograr servicios de video de unidifusión o multidifusión y servicios de IPTV de decodificador.

@@ -1,0 +1,26 @@
+El factor reumatoide es un autoanticuerpo del tipo IgM producido contra la porción Fc de la inmunoglobulina G (Ig G).
+El factor reumatoide se encuentra elevado en sangre en presencia de ciertas enfermedades reumáticas y en algunas infecciones crónicas (tuberculosis, lepra, entre otras).
+Se detectan valores elevados de factor reumatoide en el 80% de los pacientes con artritis reumatoide y en menores concentraciones en los pacientes con infecciones crónicas, enfermedades autoinmunes (lupus eritematoso diseminado o síndrome de Sjögren); y enfermedades crónicas pulmonares, hepáticas o renales.
+Sin embargo, este también está presente en el 4% de las personas jóvenes y ancianas sanas.
+Entre otras situaciones, destaca la indicación de solicitar una determinación de factor reumatoide cuando existen sospechas clínicas de artritis reumatoide, si bien es cierto que no es un test específico para esta enfermedad, por lo que el positivo no puede confirmar la artrítis reumatoide, su negatividad no descarta el diagnóstico.
+A menudo se realiza un test de anticuerpos antipéptidos cíclicos citrulinados para confirmar el diagnóstico.
+El test que determina la presencia de factor reumatoide en la sangre fue desarrollado por primera vez por el Dr Eric Waaler en 1940 y posteriormente por el Dr H.M Rose.
+Es por ello que el examen con frecuencia se denomina «Test de Waaler-Rose».
+El factor reumatoide no es detectable en la circulación si no ha existido un estímulo del sistema inmune.
+Este puede darse como respuesta a la presencia de un componente de un agente bacterial —como un lipopolisacárido— o viruses —como el de Epstein-Barr.
+Cuando este es el caso, el factor reumatoide, en su rol de anticuerpo policlonal, forma complejos inmunitarios que serán posteriormente fagocitados por células inflamatorias.
+En este contexto, su rol puede considerarse protector.
+El factor reumatoide presente en los casos de artritis reumatoide, sin embargo, es un anticuerpo derivado de hipermutaciones genéticas, de carácter monoclonal, y está relacionado con una sobreestimulación de la cascada inmune y, por tanto, la persistencia de inflamación durante un tiempo prolongado.
+La patogénesis de la artritis reumatoide deriva de una interacción entre células B, células T y células dendríticas.
+Una gran cantidad de factores medioambientales y genéticos llevan a la sobreestimulación de ciertos autoanticuerpos como los antipéptidos citrulinados y el factor reumatoide.
+La participación del factor reumatoide en la formación del complejo inmune puede llevar a un excesivo reclutamiento de células como macrófagos, neutrófilos y linfocitos, lo cual resulta en daño del tejido y proporciona una retroalimentación positiva que produce aún más autoanticuerpos.
+Este mecanismo puede explicar la respuesta autoinmune y autoretroalimentada que, a largo plazo, causa la artritis.
+La presencia, ausencia, tipo e isotipo del factor reumatoide tiene implicaciones importantes para el diagnóstico y pronóstico de la artritis reumatoide.
+Los pacientes con artritis reumatoide seropositiva —es decir, con presencia de factor reumatoide detectable en circulación— pueden sufrir un mayor daño articular, así como una mayor presencia de manifestaciones extraarticulares como nódulos reumáticos o vasculitis respecto a los pacientes seronegativos —con una presencia de factor reumatoide indetectable en sangre.
+De igual manera, una presencia más elevada de factor reumatoide en la serología está correlacionada con un peor pronóstico en pacientes de artritis reumatoide.
+Entre aquellos pacientes con artritis reumatoide seropositiva, los que manifiestan niveles elevados de factor reumatoide durante el período previo al sintomático suelen presentar una forma más severa de la enfermedad.
+Sin embargo, la mayoría de personas asintomáticas con factor reumatoide positivo en sangre no desarrollan la enfermedad.
+A pesar de todo, en la práctica clínica no se recomienda el monitoreo del factor reumatoide en pacientes de artritis reumatoide como forma de seguimiento de la enfermedad, ya que tiene una capacidad limitada de estimar la respuesta al tratamiento.
+El test de factor reumatoide en pacientes de artritis reumatoide muestra una sensibilidad del 60 al 90 % y una especificidad del 85 %.
+Según el paciente y la población estudiada, la sensibilidad podría, sin embargo, variar desde el 25 hasta el 90 %.
+Con el objetivo de aumentar la especificidad del test, a menudo este se combina con un test de anticuerpos antipéptidos cíclicos citrulinados (anti-CCP), que, aunque demuestra una sensibilidad parecida, es superior en cuanto a su especificidad.

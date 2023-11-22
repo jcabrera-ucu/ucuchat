@@ -1,0 +1,45 @@
+La virología molecular es el estudio de los virus a nivel molecular.
+Los virus son parásitos submicroscópicos que se replican en el interior de las células del huésped, capaces de infectar y parasitar con éxito todo tipo de vida, desde microorganismos hasta plantas y animales.
+Como consecuencia, los virus poseen más diversidad biológica que el resto de los reinos bacteriano, vegetal y animal juntos.
+Estudiar esta diversidad es la clave para comprender mejor cómo los virus interactúan con sus huéspedes, se replican dentro de ellos y causan enfermedades.
+Los virus dependen de su huésped para replicarse y multiplicarse.
+Esto se debe a que los virus son incapaces de experimentar división celular, pues son acelulares –es decir, carecen de la información genética que codifica los componentes necesarios para la síntesis de proteínas o la generación de energía metabólica.
+Utilizando el mecanismo celular del huésped, el virus genera copias de su genoma, y produce nuevos virus para la supervivencia de su clase y la infección de nuevos huéspedes.
+El proceso de replicación viral varía dependiendo del genoma del virus.
+En 1971, David Baltimore, biólogo galardonado con el Premio Nobel, creó un sistema llamado Clasificación de Baltimore.
+De acuerdo con este sistema, los virus se clasifican en siete clases según su estrategia de replicación:
+Independientemente de las diferencias entre especies víricas, todas comparten seis etapas básicas de replicación: La adherencia es el punto de partida del ciclo y consiste en uniones específicas entre los antirreceptores (o proteínas de adherencia al virus) y moléculas de receptores celulares como las (glico)proteínas.
+El rango de huéspedes de un virus está determinado por la especificidad de la unión.
+La adherencia provoca que la proteína viral cambie su configuración y se fusione así con la membrana celular del huésped, lo que permite que el virus penetre en la célula.
+La penetración del virus ocurre, ya sea mediante fusión de membranas o mediante endocitosis mediada por receptores, y conduce a una entrada viral.
+Las células vegetales y fúngicas, debido a sus paredes celulares de celulosa rígida (quitina en el caso de las células fúngicas), se infectan de manera distinta a las células animales.
+A menudo, se requiere un traumatismo de la pared celular para que el virus entre en la célula.
+El desprendimiento de la envoltura es la eliminación de la cápside vírica, lo que provoca que los ácidos nucleicos virales estén disponibles para la transcripción.
+La cápside podría haberse degradado por enzimas del huésped o por enzimas virales, para después liberar el genoma vírico hacia la célula.
+La replicación es la multiplicación del material genético del virus.
+El proceso incluye la transcripción de ARNm, la síntesis y el ensamblaje de proteínas víricas, y está regulada por la expresión proteica.
+El proceso de ensamble implica juntar y modificar ácidos nucleicos virales y proteínas estructurales recién creados para formar la nucleocápside del virus.
+La liberación de virus podría realizarse mediante dos mecanismos distintos dependiendo del tipo de virus.
+Los virus líticos, para liberarse, revientan la membrana o pared celular mediante un proceso llamado lisis.
+Por otra parte, los virus envueltos se liberan mediante un proceso denominado gemación por el que un virus obtiene su membrana lipídica a medida que brota de la célula a través de la membrana o vesícula intracelular.
+Tanto la lisis como los procesos de gemación son altamente dañinos para la célula, a excepción de los retrovirus, y a menudo derivan en la muerte celular.
+La patogenicidad es la capacidad de un organismo de enfermar a otro.
+En virología, existe un campo de estudio especializado denominado patogénesis viral que estudia cómo los virus infectan a sus huéspedes a nivel molecular y celular.
+Para que se desarrolle la enfermedad vírica son necesarias varias etapas.
+En primer lugar, el virus tiene que entrar en el organismo e implantarse en un tejido (p. ej., tejido respiratorio).
+En segundo lugar, el virus tiene que reproducirse dentro de la célula después de invadirla para producir numerosas copias de sí mismo.
+En tercer lugar, los virus sintetizados deben propagarse por todo el cuerpo a través de sistemas circulatorios o mediante células nerviosas.
+Con respecto a las enfermedades víricas, es esencial examinar dos aspectos: (a) el efecto directo de la replicación de los virus; b) las respuestas del cuerpo ante la infección. El curso y la gravedad de todas las infecciones víricas están determinados por la dinámica entre el virus y el huésped. Los síntomas comunes de las infecciones por virus son fiebre, dolor corporal, inflamación y erupciones cutáneas. La mayoría de estos síntomas son causados por la respuesta de nuestro sistema inmunitario a la infección, y no son el efecto directo de la replicación viral.
+A menudo es posible reconocer células infectadas por el virus a través de una serie de cambios fenotípicos comunes que se conocen como efectos citopáticos.
+Estos cambios incluyen:
+Existen cinco tipos diferentes de infecciones víricas:
+Las vacunas víricas contienen virus inactivados que han perdido la capacidad de replicarse.
+Estas vacunas pueden prevenir o disminuir la intensidad de la enfermedad vírica.
+El desarrollo de vacunas contra la viruela, la poliomielitis y la hepatitis B durante los últimos 50 años ha tenido un impacto significativo en la salud mundial y, por ende, en la población mundial.
+Sin embargo, se han producido brotes víricos (como los virus del Ébola y el Zika) en los últimos años que afectan a millones de personas en todo el mundo.
+Por lo tanto, se necesita una comprensión más avanzada de la virología molecular y de los virus para el desarrollo de nuevas vacunas y el control de los brotes virales en curso y venideros.
+Una manera alternativa de tratar las infecciones víricas sería mediante fármacos antivirales que bloquearan el ciclo de replicación del virus.
+La especificidad de un fármaco antiviral es la clave de su éxito.
+Estos fármacos son tóxicos tanto para el virus como para el huésped, pero para minimizar su daño se desarrollan de tal forma que sean más tóxicos para el virus que para el huésped.
+La eficacia de un fármaco antiviral se mide por su índice quimioterapéutico, que viene dado por la fórmula: "(Dosis de droga que inhibe la replicación del virus / Dosis de droga que es tóxica para el huésped)."A mayor eficacia del fármaco, menor índice quimioterapéutico.
+En la práctica clínica, este índice se utiliza para producir fármacos seguros y clínicamente útiles.

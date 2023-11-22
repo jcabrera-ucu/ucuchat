@@ -1,0 +1,99 @@
+En física, geometría y análisis matemático, un objeto o ente es tridimensional si tiene tres dimensiones.
+Es decir, cada uno de sus puntos puede ser localizado especificando tres números dentro de un cierto rango.
+Ejemplo: anchura, altura y profundidad.
+El espacio a nuestro alrededor es tridimensional a simple vista pero, en realidad, hay más dimensiones, por lo que también puede ser considerado un espacio tetra-dimensional si incluimos el tiempo como cuarta dimensión.
+La teoría de Kaluza-Klein original postulaba un espacio-tiempo de cinco dimensiones; la teoría de cuerdas retoma esa idea y postula según diferentes versiones que el espacio físico podría tener 9 o 10 dimensiones.
+Técnicamente, una tupla de números
+n
+puede entenderse como las coordenadas cartesianas de una ubicación en un espacio euclidiano dimensional
+n
+. El conjunto de estas tuplas n se denota comúnmente \R^n, y se puede identificar a la pareja formada por un espacio euclidiano dimensional n y un sistema de coordenadas cartesianas.
+Cuándo
+n = 3
+, este espacio se llama espacio euclidiano tridimensional (o simplemente espacio euclidiano cuando el contexto es claro).
+Sirve como modelo del universo físico (cuando no se considera la teoría de la relatividad), en el que existe toda la materia conocida.
+Si bien este espacio sigue siendo la forma más convincente y útil de modelar el mundo tal como se experimenta, es sólo un ejemplo de una gran variedad de espacios en tres dimensiones llamados 3-variedades.
+En este ejemplo clásico, cuando los tres valores se refieren a mediciones en diferentes direcciones (coordenadas), se pueden elegir tres direcciones cualquieras, siempre que los vectores en estas direcciones no se encuentren todos en el mismo espacio bidimensional (plano).
+Además, en este caso, estos tres valores se pueden etiquetar mediante cualquier combinación de tres elegidos entre los términos ancho, alto/profundidad y  largo.
+Los libros del siglo once después de Cristo a siglo trece después de Cristo de los Elementos de Euclides tratan de la geometría tridimensional.
+El libro XI desarrolla nociones de ortogonalidad y paralelismo de líneas y planos, y define sólidos que incluyen paralelepípedos, pirámides, prismas, esferas, octaedros, icosaedros y dodecaedros.
+El libro XII desarrolla nociones de semejanza de sólidos.
+El Libro XIII describe la construcción de los cinco sólidos platónicos regulares en una esfera.
+En el siglo siglo diecisiete después de Cristo el espacio tridimensional fue descrito con coordenadas cartesianas, con el advenimiento de la geometría analítica desarrollada por René Descartes en su obra La Géométrie y Pierre de Fermat en el manuscrito Ad locos planos et solidos isagoge (Introducción a los lugares geométricos planos y sólidos), inédito en vida de Fermat.
+Sin embargo, solo el trabajo de Fermat se ocupó del espacio tridimensional.
+En el, los desarrollos de la geometría del espacio tridimensional llegaron con el desarrollo de William Rowan Hamilton de los cuaterniones.
+De hecho, fue Hamilton quien acuñó los términos escalar y vector, y se definieron por primera vez dentro de su marco geométrico para cuaterniones.
+El espacio tridimensional podría entonces ser descrito por cuaterniones que tenía un componente escalar que se desvanece, es decir, a = 0.
+Si bien Hamilton no lo estudió explícitamente, esto introdujo indirectamente nociones de base, aquí dadas por los elementos de cuaternión i,j,k, así como el producto escalar y el producto vectorial, que corresponden a (el negativo de) la parte escalar y la parte vectorial del producto de dos cuaterniones vectoriales.
+No fue hasta Josiah Willard Gibbs que estos dos productos se identificaron por derecho propio, y la notación moderna para el producto punto y cruz se introdujo en sus notas de enseñanza en el aula, que también se encuentran en el libro de texto de 1901 Vector Analysis escrito por Edwin Bidwell Wilson basado en las conferencias de Gibbs.
+También durante el se produjeron desarrollos en el formalismo abstracto de los espacios vectoriales, con el trabajo de Hermann Grassmann y Giuseppe Peano, el último de los cuales dio por primera vez la definición moderna de los espacios vectoriales como una estructura algebraica.
+En un espacio euclídeo convencional un objeto físico finito está contenido dentro de un ortoedro mínimo, cuyas dimensiones se llaman ancho, largo y profundidad o altura.
+El espacio físico a nuestro alrededor es tridimensional a simple vista.
+Sin embargo, cuando se consideran fenómenos físicos como la gravedad, la teoría de la relatividad nos lleva a que el universo es un entre tetra-dimensional que incluye tanto dimensiones espaciales como el tiempo como otra dimensión.
+Diferentes observadores percibirán diferentes "secciones espaciales" de este espacio-tiempo por lo que el espacio físico es algo más complejo que un espacio euclídeo tridimensional.
+En las teorías recientes no existe una razón clara para que el número de dimensiones espaciales sean tres.
+Aunque existen ciertas intuiciones sobre ello: Ehrenfest señaló que en cuatro o más dimensiones las órbitas planetarias cerradas, por ejemplo, no serían estables (y por ende, parece difícil que en un universo así existiera vida inteligente preguntándose por la tridimensionalidad espacial del universo).
+También se sabe que existe una conexión entre la intensidad de un campo de fuerzas estático con simetría esférica que se extiende sobre un espacio de d dimensiones y que satisface el teorema de Gauss y la dimensión del espacio (d), un campo gravitatorio, electrostático o de otro tipo que cumpla con dichas condiciones para grandes distancias debe tener una variación de la forma:
+Donde:
+Si la geometría del espacio d-dimensional no es euclídea entonces la expresión anterior debe corregirse según la curvatura.
+Por otra parte, teorías físicas de tipo Kaluza-Klein –como las diferentes versiones de la teoría de cuerdas– postulan que existe un número adicional de dimensiones compactificadas, que solo serían observables en experimentos con partículas altamente energéticas.
+En estas teorías algunas de las interacciones fundamentales pueden ser explicadas de manera sencilla postulando dimensiones adicionales de un modo similar a como la relatividad general explica la gravedad.
+De hecho, la propuesta original de Theodor Kaluza explicaba de manera unificada el electromagnetismo y la gravedad, postulando un universo de cinco dimensiones con una dimensión compactada.
+En matemáticas, la geometría analítica (también llamada geometría cartesiana) describe cada punto del espacio tridimensional mediante tres coordenadas.
+Se dan tres ejes de coordenadas, cada uno perpendicular a los otros dos en el origen, el punto en el que se cruzan.
+Normalmente se denominan
+x, y
+, y
+z
+. En relación con estos ejes, la posición de cualquier punto en el espacio tridimensional viene dada por un triple ordenado de números reales, cada número dando la distancia de ese punto desde el origen medido a lo largo del eje dado, que es igual a la distancia de ese punto desde el plano determinado por los otros dos ejes.
+Otros métodos populares para describir la ubicación de un punto en el espacio tridimensional incluyen coordenadas cilíndricas y coordenadas esféricas, aunque hay un número infinito de métodos posibles.
+Para más información, véase espacio euclídeo.
+A continuación se muestran imágenes de los sistemas mencionados.
+Dos puntos distintos determinan siempre una línea recta.
+Tres puntos distintos son colineales o determinan un único plano.
+En cambio, cuatro puntos distintos pueden ser colineales, coplanares o determinar todo el espacio.
+Dos rectas distintas pueden intersecarse, ser paralelas o ser rectas que se cruzan.
+Dos rectas paralelas se encuentran en un único plano, por lo que las rectas oblicuas son rectas que no se encuentran y no se encuentran en un plano común.
+Dos planos distintos pueden encontrarse en una línea común o ser paralelos (es decir, no encontrarse).
+Tres planos distintos, ningún par de los cuales es paralelo, pueden encontrarse en una recta común, encontrarse en un único punto común o no tener ningún punto en común.
+En este último caso, las tres líneas de intersección de cada par de planos son paralelas entre sí.
+Una recta puede estar en un plano dado, intersecar a ese plano en un único punto o ser paralela al plano.
+En este último caso, habrá rectas en el plano que sean paralelas a la recta dada.
+Un hiperplano es un subespacio de una dimensión menor que la dimensión del espacio completo.
+Los hiperplanos de un espacio tridimensional son los subespacios bidimensionales, es decir, los planos.
+En términos de coordenadas cartesianas, los puntos de un hiperplano satisfacen una única ecuación lineal, por lo que los planos de este espacio tridimensional se describen mediante ecuaciones lineales.
+Una recta puede describirse mediante un par de ecuaciones lineales independientes, cada una de las cuales representa un plano cuya intersección común es dicha recta.
+El teorema de Varignon afirma que los puntos medios de cualquier cuadrilátero en ℝ3 forman un paralelogramo, y por tanto son coplanarios.
+Una esfera en el 3-espacio (también llamada 2-esfera porque es un objeto bidimensional) consiste en el conjunto de todos los puntos del 3-espacio a una distancia fija
+r
+de un punto central P. El sólido encerrado por la esfera se llama bola (o, más precisamente una 3-bola').
+El volumen de la bola viene dado por
+y la superficie de la esfera es
+Otro tipo de esfera surge a partir de una bola 4, cuya superficie tridimensional es la 3-esfera: puntos equidistantes al origen del espacio euclídeo
+ℝ4
+. Si un punto tiene coordenadas,
+P(x, y, z, w)
+}, entonces
+x2 + y2 + z2 + w2 = 1
+caracteriza esos puntos en la 3-esfera unitaria centrada en el origen.
+Esta 3-esfera es un ejemplo de 3-manifold: un espacio que es "parece localmente" como el espacio 3D.
+En términos topológicos precisos, cada punto de la 3-esfera tiene una vecindad que es homeomorfa a un subconjunto abierto del espacio 3D.
+Una superficie generada haciendo girar una curva plana alrededor de una recta fija en su plano como eje se llama superficie de revolución.
+La curva plana se denomina generatriz de la superficie.
+Una sección de la superficie, hecha intersecando la superficie con un plano que es perpendicular (ortogonal) al eje, es un círculo.
+Ejemplos sencillos se dan cuando la generatriz es una recta.
+Si la recta generatriz interseca a la recta eje, la superficie de revolución es un cono circular recto con vértice (ápice) el punto de intersección.
+Sin embargo, si la generatriz y el eje son paralelos, entonces la superficie de revolución es un cilindro circular.
+En tres dimensiones, existen nueve politopos regulares: los cinco sólidos platónicos convexos y los cuatro sólidos de Kepler-Poinsot no convexos.
+En geometría son tridimensionales las siguientes figuras geométricas:
+Ya que todas ellas pueden ser embebidas en un espacio euclídeo de tres dimensiones.
+Sin embargo, hay que señalar que técnicamente la esfera, el cono o el cilindro son variedades bidimensionales (solo la cáscara) ya que los puntos interiores a ellos no son estrictamente parte de los mismos.
+Solo por un abuso de lenguaje o extensión del mismo informalmente se habla de esferas, cilindros o conos incluyendo el interior de los mismos.
+Por otra parte existe la hiperesfera tridimensional (3-variedad) pero no es la cáscara de una bola sino la compactificación de con un punto, así como la 2-esfera es para el plano euclídeo.
+En química, se habla de sistemas tridimensionales cuando el enlace químico es igualmente intenso en las tres direcciones del espacio (por ejemplo, en el diamante).
+En magnetismo, se dice que el ordenamiento magnético solo es posible si el acoplamiento magnético es tridimensional (se extiende en las tres direcciones del espacio).
+En matemáticas el sistema tridimensional se representa en el plano cartesiano con los ejes X, Y y Z. Por lo general en estas representaciones se manejan las formas geométricas de tres dimensiones como los cubos o las esferas en dos dimensiones utilizando perspectivas.
+Hoy en día es posible la simulación mediante cálculos basados en la proyección de entornos tridimensionales sobre pantallas bidimensionales, como monitores o televisores.
+Estos cálculos requieren de una gran carga de proceso por lo que algunas computadoras y videoconsolas disponen de cierto grado de aceleración gráfica 3D gracias a dispositivos desarrollados para tal fin.
+Las computadoras disponen de las llamadas tarjetas gráficas con aceleración 3D.
+Estos dispositivos están formados por uno o varios procesadores (unidad de procesamiento gráfico) diseñados especialmente para acelerar los cálculos que suponen reproducir imágenes tridimensionales sobre una pantalla bidimensional y de esta forma liberar de carga de proceso a la unidad central de procesamiento de la computadora.

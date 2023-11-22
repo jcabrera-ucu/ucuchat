@@ -1,0 +1,4 @@
+quien se llama guillem és un pro y los demás no
+Existen clavijas IAE, en las cuales para la terminación de buses S0 se requieren 100 Ω.
+de resistencia de conexión.
+En montajes adicionales de resistencia de conexión, se colocarán resistencias entre los pines 1a y 1b, y a su vez entre los pines 2a y 2b.

@@ -1,0 +1,15 @@
+El BarCamp es una red internacional de "desconferencias" (eventos abiertos y participativos), cuyo contenido es provisto por los participantes.
+Se enfocan en aplicaciones web en estadios tempranos, tecnologías de código abierto y protocolos sociales.
+Sin embargo, este tipo de encuentros han ampliado su temática y actualmente incluyen eventos participativos y abiertos alrededor de temas sociales, artísticos, educativos... con fuertes componentes creativos e innovadores en los respectivos ámbitos.
+El nombre "BarCamp" proviene de un juego de palabras sobre los orígenes del evento, con referencia al término hacker Foobar.
+BarCamp surgió como una evolución del FooCamp, una "desconferencia" anual a la que se accede por invitación, patrocinada por la editorial emblemática del software libre O'Reilly.
+El primer BarCamp tuvo lugar en Palo Alto, California, entre el 19 y el 21 de agosto de 2005 en las oficinas de Socialtext.
+Fue organizado en una semana y asistieron 200 personas.
+Desde entonces se han celebrado BarCamps en más de 350 ciudades del mundo, en América del Norte, América del Sur, África, Europa, Oriente Medio, Oceanía y Asia.
+El BarCamp más grande registrado ocurrió en enero de 2013 con más de 6.400 asistentes registrados confirmados en Rangún, Birmania (Mianmar).
+Además de la red "BarCamp", surgida tras el primer evento, éste sirvió como modelo de "desconferencias" en otros campos más especializados como el WordCamp y el PodCamp.
+La implicación de figuras claves de la comunidad de desarrollo web como Tantek Çelik y Ross Mayfield ayudaron sin duda a su adopción.
+Un BarCamp se organiza y difunde principalmente por Internet, usando muchas herramientas de la Web 2.0.
+La filosofía es que cualquiera puede iniciar un BarCamp, basándose en la información de BarCamp wiki.
+A pesar de la informalidad existen determinadas reglas:
+Una BarCamp, más allá de su estructura organizativa extremadamente flexible, debería contemplar un cierto código ético que puede resumirse en los siguientes planteamientos:

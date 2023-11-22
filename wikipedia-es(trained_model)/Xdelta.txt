@@ -1,0 +1,9 @@
+xdelta un programa de línea de comandos para codificación delta, que genera dos archivos de diferencias.
+Es similar a diff y patch, pero a diferencia de estos, está destinado para archivos binarios y no genera una salida legible por humanos.
+Fue lanzado por primera vez en 1997.
+Su desarrollador es Joshua MacDonald y el programa actualmente es mantenido por él.
+El algoritmo de xdelta1 se basa en el algoritmo de rsync, que es desarrollado por Andrew Tridgell, y usa bloques de menor tamaño que los de rsync.
+El reciente xdelta v3 tiene algunas funciones únicas.
+Puede generar VCDIFF de formato estandarizado, y lleva a cabo la compatibilidad entre otros software de codificación delta que soporten el formato VCDIFF.
+El programa puede ser ejecutado en sistemas operativos similares a UNIX y en Microsoft Windows.
+xdelta puede manipular hasta 264 bytes en cualquier plataforma, y es adecuado para copias de seguridad a gran escala.

@@ -1,0 +1,34 @@
+Vaadin ( Pronunciación en finés: [ˈʋɑːdin]) es una plataforma de desarrollo para Java.
+Vaadin incluye un conjunto de Componentes Web, un framework para aplicaciones web y un conjunto de herramientas que permite a los desarrolladores implementar interfaces gráficas de usuario usando exclusivamente el lenguaje de programación Java, TypeScript o una combinación de los dos.
+El desarrollo inició como un adaptador sobre el framework web de código abierto Millstone 3, lanzado en el año 2002.
+Vaadin introdujo un motor de comunicación y renderizado basado en AJAX.
+Durante 2006, este concepto se desarrolló por separado como un producto comercial.
+Como consecuencia de esto, una gran parte de la API del lado del servidor de Vaadin sigue siendo compatible con las API de tipo Swing de Millstone 3.
+A principios de 2007, el nombre del producto se cambió a IT Mill Toolkit y se lanzó la versión 4.
+Esta versión utilizaba una implementación propietaria basada en Ajax e implementada en JavaScript para el renderizado del lado del cliente, lo que complicó la implementación de nuevos widgets.
+A finales del año 2007, se abandonó la implementación propietaria del lado del cliente y se integró GWT sobre los componentes del lado del servidor.
+Al mismo tiempo, el producto cambió a la licencia de código abierto Apache License 2.0.
+La primera versión lista para producción de IT Mill Toolkit, la versión 5, se realizó el 4 de marzo de 2009, después de un período de prueba de más de un año.
+El 11 de septiembre de 2008, se anunció públicamente que Michael Widenius, el autor principal de la versión original de MySQL, invirtió en IT Mill, el desarrollador de Vaadin.
+El valor de la inversión no fue revelado.
+El 20 de mayo de 2009, IT Mill Toolkit cambió su nombre a Vaadin Framework.
+El nombre proviene de la palabra finesa para reno hembra.
+También se puede traducir del finés como "yo insisto".
+Además del cambio de nombre, se lanzó una versión preliminar de la versión 6 junto con un sitio web para la comunidad.
+Más tarde, IT Mill Ltd, la compañía autora de Vaadin Framework, cambió su nombre a Vaadin Ltd.
+El 30 de marzo de 2010, se abrió Vaadin Directory, un directorio en línea para la distribución de componentes adicionales al núcleo de Vaadin, de forma gratuita o comercial.
+A la fecha de su lanzamiento, había 95 complementos disponibles para descargar.
+Vaadin Flow es un framework web para la construcción de sitios y aplicaciones web.
+El modelo de programación de Vaadin Flow permite a los desarrolladores usar Java como lenguaje de programación para la implementar Interfaces de Usuario (IU) sin tener que usar HTML o JavaScript directamente.
+Vaadin Flow ofrece una arquitectura del lado del servidor lo que significa que la mayor parte de la lógica UI es ejecutada en el servidor reduciendo la exposición de ataques de seguridad.
+En el lado del cliente, Vaadin Flow está construido sobre los estándares de Componentes Web.
+La comunicación cliente-servidor es manejada automáticamente por medio de WebSocket o HTTP con mensajes JSON ligeros que actualizan ambos, la IU en el navegador y el estado en el servidor.
+La API Java de Vaadin Flow incluye clases como,  ,  ,  , y muchas otras que pueden ser configuradas, personalizadas y agregadas en classes como  ,  ,  , y otras.
+El comportamiento de la aplicación es implementado por medio de event listeners que "escuchan" eventos como clicks, cambios en valores y otros.
+Las vistas son creadas usando clases Java que implementan algún otro componente IU (propio o incluido en el framework).
+Estas clases son anotadas con  para exponerlas al navegador por medio de una URL específica.
+El siguiente ejemplo ilustra estos conceptos: La siguiente es la captura de pantalla de la aplicación anterior:
+Vaadin Fusion es un framework web que integra backends de Spring Boot con frontends implementados en TypeScript.
+Esta combinación ofrece una seguridad de tipos completa en el lado del cliente gracias al lenguaje de programación TypeScript.
+Las vistas son implementadas usando Lit—una librería ligera para crear Componentes Web.
+El siguiente es un ejemplo de una vista implementada con Vaadin Flow:

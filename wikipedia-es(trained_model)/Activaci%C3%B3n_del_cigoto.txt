@@ -1,0 +1,39 @@
+La activación del cigoto es la fase de la fecundación en la cual se da el inicio de los procesos metabólicos del cigoto.
+La activación está dada por el espermatozoide, el cual desencadena varias reacciones dentro del huevo, que permanecía inactivo hasta ese momento.
+Estas reacciones desencadenadas pueden ser catalogadas como respuestas tempranas o tardías del óvulo.
+La liberación de los iones de calcio secuestrados en el huevo es responsable; entre otras reacciones, de la reactivación del ciclo celular y de la síntesis de proteínas en el cigoto.
+Ésta liberación de calcio eleva la concentración del ion al interior de la célula de 0.1 a 1μM y en muchas especies se producen una o varias ondas que viajan por todo el cigoto comenzando desde el sitio de unión entre el espermatozoide y el óvulo.
+Las ondas de calcio son importantes pues distintos procesos metabólicos parecen ser activados por distintas ondas y además, procesos iniciados por una onda de calcio y que necesariamente deben detenerse pueden no hacerlo sin ondas de calcio subsecuentes.
+Varios estudios han demostrado la asociación del calcio con la activación de los procesos metabólicos del embrión.
+En 2002 Runft y colaboradores descubrieron que la inyección del químico EGTA (compuesto quelante de calcio) en los huevos de erizo de mar no hay cambios en el potencial de reposo de la membrana y no se inicia la división celular cuando haya fecundación.
+En otro estudio realizado en 1974 por Steindhart y Epel se encontró que la inyección del ionóforo de calcio A23187 en un huevo no fertilizado de erizo de mar disparaba la mayoría de respuestas esperadas en un huevo fecundado como la síntesis de proteínas y DNA el aumento en el pH intracelular.
+Otra de las reacciones metabólicas cruciales mediadas por la elevación en la concentración de calcio en el huevo es la activación de la enzima NAD+ cinasa.
+Su papel es la síntesis de NADP+ a partir de NAD+.
+NADP+ es importante pues se necesita para la biosíntesis de lípidos necesarios para la construcción de nuevas membranas celulares que se usarán posteriormente en la fase de segmentación.
+Mead y Epel en 1995 sugirieron que la forma reducida del NADP, el NADPH ayuda a regenerar glutatión y ovotiol, que son dos compuestos involucrados en retirar radicales libres potencialmente nocivos para el material genético del cigoto.
+El factor liberador de calcio en el huevo es el Inositol trifosfato (IP3).
+La acción del IP3 se da en el retículo endoplasmático, en donde se une a canales de calcio que dejan pasar una primera onda de iones.
+Esta primera onda se une a canales de calcio sensibles a calcio; también localizados en el retículo endoplasmático, facilitando la liberación de una segunda onda de iones.
+Este fenómeno puede ocurrir sucesivamente como una reacción en cadena que provoca la liberación de grandes cantidades de calcio que se propaga por toda la célula.
+El calcio liberado por el IP3 es entonces suficiente para iniciar la onda de liberación del calcio requerido para la activación.
+IP3 es producto de la acción de una enzima llamada Fosfolipasa C (PLC) pero ha sido difícil establecer si hay una regla general que rija la activación de este tipo de enzima en el huevo fecundado.
+Grupos de organismos distintos pueden utilizar distintos mecanismos; sin embargo, en los erizos de mar que es en los cuales se ha realizado la mayoría de estudios en fertilización se ha descubierto que PLC es un miembro de una familia de enzimas llamada γPLCs.
+La administración de factores inhibidores de la acción de esta familia de enzimas causa una ausencia de IP3 en el huevo y por consiguiente no hay liberación de iones de calcio.
+Hay varios mecanismos posibles mediante los cuales puede darse la acción de PLC para la generación de IP3.
+Todos estos mecanismos involucran una serie de proteínas llamadas cinasas Src que son proteínas activadas por el espermatozoide.
+Las cinasas Src son al parecer un cofactor de la PLC, sin ellas la cantidad de IP3 generado por PLC y su tiempo de síntesis aumentan.
+La diferencia entre los mecanismos mencionados anteriormente radica en que hay uno en los que la activación de las cinasas Src se da antes de la fusión de los gametos y otro en el que se establece que la activación de las cinasas es posterior a la fusión de gametos.
+Los procesos tardíos de la activación del huevo son la síntesis de DNA y la síntesis de proteínas.
+La enzima PLC; además de sintetizar IP3, sintetiza también diacil glicerol (DAG).
+DAG y el calcio liberado anteriormente por acción del IP3 se unen a una bomba que introduce iones de sodio al huevo mientras que expulsa protones (Bomba Na+/H+).
+La acción de esta bomba incrementa el pH dentro del huevo.
+Este incremento en el pH junto con el incremento en la concentración de calcio activa la síntesis de DNA.
+En la mayoría de los metazoos, las MAP cinasas (mitogen-activated protein kinases) se activan durante la maduración meiótica del oocito y se inactivan después de la fertilización.
+Al parecer, una de las funciones de estas enzimas en el oocito no fertilizado consiste en frenar el ciclo celular para prevenir el desarrollo partenogénico.
+Así, la actividad de las MAP cinasas es necesaria para prevenir la síntesis de ADN; la fertilización del huevo dispara una disminución en la actividad de MAP cinasas y el comienzo de la fase S (si la enzima se mantiene activa experimentalmente, no hay transición a la fase M del ciclo celular).
+Adicionalmente, en erizos de mar, las MAP cinasas se encuentran fosforiladas y activas en los huevos no fertilizados, pero se desfosforilan e inactivan posterior a la inseminación.
+Así mismo, se ha demostrado que el calcio es necesario y suficiente para la inactivación de estas MAP cinasas y la consecuente síntesis de DNA.
+Experimentalmente, el bloqueo de la actividad de la fosfolipasa PLCϒ conlleva a la liberación de calcio, bloqueándose así la síntesis de DNA y manteniendo la actividad de la MAP cinasa en los huevos; no obstante, debido a que la inhibición de PLCϒ también previene un aumento en el pH citoplasmático, resulta difícil determinar si es el aumento de pH, de calcio, o de ambos el prerrequisito para la inactivación de las MAP cinasas y el inicio de la síntesis de.
+La elevación del pH y de los niveles de calcio también disparan la síntesis de proteínas.
+Estos estímulos no parecen provocar la síntesis de mRNA nuevo sino que tal y como sucede con la síntesis de DNA, liberan los inhibidores del mRNA que estaban unidos a los factores iniciadores de la traducción previo a la fecundación.
+Posiblemente varias cinasas activadas durante la fecundación son las responsables de la fosforilación y degradación de estos inhibidores dando lugar a la traducción en la cual se generan las proteínas necesarias para las fases tempranas del desarrollo.

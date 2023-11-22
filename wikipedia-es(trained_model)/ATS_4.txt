@@ -1,0 +1,5 @@
+ATS 4 (Applications Technology Satellite 4) fue un satélite artificial estadounidense dedicado a probar nuevas tecnologías.
+Fue lanzado el 10 de agosto de 1968 y puesto en una órbita incorrecta debido a un fallo de la fase Centauro del cohete lanzador.
+Aunque el satélite era funcional apenas se recibieron datos útiles y finalmente reentró en la atmósfera el 17 de octubre de 1968.
+Tenía una estructura de aluminio recubierta de células solares que proporcionaban 130 vatios de potencia.
+Llevaba baterías de níquel-cadmio y un sistema de estabilización por gradiente gravitatorio.

@@ -1,0 +1,15 @@
+AW Ursae Majoris (AW UMa / HD 99946 / HIP 56109 / SAO 62579) es una estrella variable de la constelación de la Osa Mayor.
+Situada cerca del límite con Leo, se localiza a 3º de Alula Australis (ξ Ursae Majoris) y a igual separación de 62 Ursae Majoris.
+Se encuentra a 215 años luz del sistema solar.
+AW Ursae Majoris ha sido tradicionalmente clasificada como una estrella binaria de contacto, es decir, la proximidad entre ambas componentes hace que compartan sus capas exteriores.
+Sin embargo, estudios recientes señalan que en realidad las estrellas no están en contacto —no llegan a llenar sus lóbulos de Roche—, pero parece existir un anillo luminoso de materia que abarca todo el sistema.
+El tipo espectral de AW Ursae Majoris es F0 o F2 y el período orbital de esta binaria es de 0,4387 días.
+La temperatura efectiva de la primaria es de 6980 K.
+Es uno de los sistemas en donde la relación entre las masas de las componentes es menor (q ~ 0,10), semejante al de ε Coronae Australis y GR Virginis.
+La actual estrella primaria —la más masiva— tiene una masa aproximada de 1,6 masas solares y una luminosidad 6,6 veces mayor que la del Sol, siendo una estrella cercana a la secuencia principal.
+Por su parte, la actual estrella secundaria prácticamente ha agotado el hidrógeno en su núcleo, y se piensa que es una estrella mucho más evolucionada.
+Con una masa inicial en torno a 1,5 masas solares, perdió probablemente la mayor parte de su masa a lo largo de su evolución, siendo una gran parte de esta masa transferida a la actual primaria.
+Consecuencia de este proceso es su reducida masa actual, comprendida entre 0,14 y 0,18 masas solares.
+En un futuro, tras perder una fracción grande de su momento angular, este sistema binario puede evolucionar hacia una variable FK Comae Berenices.
+AW Ursae Majoris es una binaria eclipsante del tipo W Ursae Majoris.
+Su brillo varía entre magnitud aparente varía entre +6,83 y +7,13 a lo largo del período de 0,4387 días.

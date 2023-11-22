@@ -1,0 +1,29 @@
+Bindows es un framework comercial de desarrollo para AJAX y Web 2.0 Rich Internet Applications.
+Las principales características de este framework son que puede generar aplicaciones web con la misma apariencia de las aplicaciones Windows y que las aplicaciones Bindows no requieren que el usuario realice descargas, es zero-footprint (no es necesario Java, Flash, plug-ins, o ActiveX).
+El framework Bindows está basado en HTML dinámico, el lenguaje de programación es JavaScript, utiliza como plantillas para las pantallas archivos XML llamados Application Description Files (ADF), y se ejecuta sólo del lado del cliente.
+Cuando una aplicación web es ejecutada, los scripts son descargados desde el servidor (archivos js y XML), y son ejecutados en el lado del cliente).
+El framework sigue el estilo de programación de Swing (Java) y el Document Object Model (DOM).
+Los nombres de las clases comienzan con el prefijo 'Bi', por ejemplo,,  , etc. El nombre Bindows proviene de la combinación de Business Intelligence (BI) y Windows.
+BI es uno los intereses de MB Technologies, responsable de crear el framework.
+Las aplicaciones Bindows son ajenas a:
+Bindows soporta los siguientes widgets:
+Bindows soporta charting del lado del cliente, escalable y dinámico (animaciones), las cuales fueron diseñadas para ser fácilmente extendible y mejoradas:
+Gráfico de Vectores
+Bindows posee soporte genérico de SVG implementado en charts, graphs, gauges y muchos más en VML y SVG.
+Bindows presenta una API unificada, orientada a objetos, para crear gráficos de negocio en todos los navegadores que lo soportan.
+Los desarrolladores pueden crear gráficos complejos sin necesidad de lidiar con todos los diferentes formatos en los navegadores.
+Live sample
+La biblioteca de animación de Bindows permite agregar animaciones a cualquier componente.
+De esta manera se puede crear efectos visuales, como por ejemplo botones parpadeantes, fade-ins, fade-outs, movimiento animaciones, y cambios de tamaño.
+Las animaciones puede ser sincronizadas entre sí, y pueden usar varias curvas de aceleración.
+Una simple API permite crear objetos animator, y luego asociarlos a componentes para hacerlos animados.
+La biblioteca de clases BiGauge2 es una clase orientada a objetos para crear dinámicos y avanzados gauges que pueden contener muchos rangos, escalas, y agujas dinámicas actualizables.
+También tiene clases para crear degradés avanzados, fondos y fondos de imagen.
+Debido a que los gauges son creados usando vectores gráficos, también se puede actualizar dinámicamente casi cualquier propiedad del gauge, incluyendo las agujas.
+Esto permite la presentación casi en tiempo real de la información.
+Bindows 2.0 es el primer framework Ajax con el soporte mejorado para section 508 de accesibilidad.
+Bindows 2.0 permite al desarrollador alcanzar cualquier audiencia efectivamente y eficientemente construyendo aplicaciones Ajax y Web 2.0 que siguen los estándares gubernamentales e internacionales para accesibilidad.
+El framework Bindows permite el desarrollo de aplicaciones Ajax y Web 2.0 que funcionan con lectores de pantalla, como JAWS, sin necesidad de bajar o instalar nada (zero-footprint).
+Bindows provee soporte completo para internalización y localización.
+Aplicaciones de Bindows localizadas (incluyendo localización combinadas) son utilizadas alrededor del globo.
+La próxima release de Bindows (code name "Torne") incluirá:

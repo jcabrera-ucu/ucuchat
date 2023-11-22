@@ -1,0 +1,5 @@
+(154) Bertha es un asteroide perteneciente al cinturón de asteroides descubierto el 4 de noviembre de 1875 por Prosper Mathieu Henry desde el observatorio de París, Francia.
+Está nombrado en honor de Bertha Martin-Flammarion (1844-1936), hermana de Camille Flammarion.
+Bertha orbita a una distancia media del Sol de 3,195 ua, pudiendo alejarse hasta 3,442 ua y acercarse hasta 2,949 ua.
+Tiene una inclinación orbital de 20,98° y una excentricidad de 0,07713.
+Emplea en completar una órbita alrededor del Sol 2086 días.

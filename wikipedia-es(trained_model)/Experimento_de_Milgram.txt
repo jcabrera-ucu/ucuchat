@@ -1,0 +1,110 @@
+El experimento de Milgram fue una serie de experimentos de psicología social llevada a cabo por Stanley Milgram, psicólogo en la Universidad de Yale, y descrita en un artículo publicado en 1963 en la revista Journal of Abnormal and Social Psychology bajo el título «Behavioral Study of Obedience» («Estudio comportamental de la obediencia») y resumida en 1974 en su libro ''Obedience to authority.
+An experimental view (Obediencia a la autoridad. Una perspectiva experimental'').
+El fin de la prueba era medir la disposición de un participante para obedecer las órdenes de una autoridad aun cuando estas pudieran entrar en conflicto con su conciencia personal.
+Los experimentos comenzaron en julio de 1961, tres meses después de que Adolf Eichmann fuera juzgado y sentenciado a muerte en Jerusalén por crímenes contra la humanidad durante el régimen nazi en Alemania.
+Milgram ideó estos experimentos para responder a la pregunta: ¿Podría ser que Eichmann y su millón de cómplices en el Holocausto solo estuvieran siguiendo órdenes?
+¿Podríamos llamarlos a todos cómplices?
+Milgram resumiría el experimento en su artículo Los peligros de la obediencia en 1974 escribiendo:
+A través de un cartel colocado en una parada del autobús en Florida (Connecticut) se reclamaban voluntarios para participar en un ensayo relativo al «estudio de la memoria y el aprendizaje» en Yale, por lo que se les pagaba cuatro dólares (equivalente a 28 dólares actuales) más dietas.
+A los voluntarios que se presentaron, se les ocultó que en realidad iban a participar en una investigación sobre la obediencia a la autoridad.
+Los participantes eran personas de entre 20 y 50 años de edad de todo tipo de educación, desde los que acababan de salir de la escuela secundaria a participantes con doctorados.
+El experimento requiere tres personas: el experimentador (el investigador de la universidad), el «maestro» (el voluntario que leyó el anuncio en el periódico) y el «alumno» (un cómplice del experimentador que se hace pasar por participante en el experimento).
+El experimentador le explica al participante que tiene que hacer de maestro, y tiene que castigar con descargas eléctricas al alumno cada vez que falle una pregunta.
+A continuación, cada uno de los dos participantes escoge un papel de una caja que determinará su rol en el experimento.
+El cómplice toma su papel y dice haber sido designado como «alumno».
+El participante voluntario toma el suyo y ve que dice «maestro».
+En realidad en ambos papeles ponía «maestro» y así se consigue que el voluntario con quien se va a experimentar reciba forzosamente el papel de «maestro».
+Separado del «maestro» por un módulo de vidrio, el «alumno» se sienta en una especie de silla eléctrica y se le ata para «impedir un movimiento excesivo».
+Se le colocan unos electrodos en su cuerpo con crema «para evitar quemaduras» y se señala que las descargas pueden llegar a ser extremadamente dolorosas pero que no provocarán daños irreversibles.
+Todo esto lo observa el participante.
+A los participantes se les comunicaba que el «experimento estaba siendo grabado», para que supieran que no podrían negar posteriormente lo ocurrido.
+Se comienza dando tanto al «maestro» como al «alumno» una descarga real de 45 voltios con el fin de que el «maestro» compruebe el dolor del castigo y la sensación desagradable que recibirá su «alumno».
+Seguidamente el investigador, sentado en el mismo módulo en el que se encuentra el «maestro», proporciona al «maestro» una lista con pares de palabras que ha de enseñar al «alumno».
+El «maestro» comienza leyendo la lista a este y tras finalizar le leerá únicamente la primera mitad de los pares de palabras dando al "alumno" cuatro posibles respuestas para cada una de ellas.
+Este indicará cuál de estas palabras corresponde con su par leída presionando un botón (del 1 al 4 en función de cuál cree que es la correcta).
+Si la respuesta es errónea, el «alumno» recibirá del «maestro» una primera descarga de 15 voltios que irá aumentando en intensidad hasta los 30 niveles de descarga existentes, es decir, 450 voltios.
+Si es correcta, se pasará a la palabra siguiente.
+El «maestro» cree que está dando descargas al «alumno» cuando en realidad todo es una simulación.
+El «alumno» ha sido previamente aleccionado por el investigador para que vaya simulando los efectos de las sucesivas descargas.
+Así, a medida que el nivel de descarga aumenta, el «alumno» comienza a golpear en el vidrio que lo separa del «maestro» y se queja de su condición de enfermo del corazón, luego aullará de dolor, pedirá el fin del experimento, y finalmente, al alcanzarse los 270 voltios, gritará de agonía.
+Lo que el participante escucha es en realidad una grabación de gemidos y gritos de dolor.
+Si el nivel de supuesto dolor alcanza los 300 voltios, el «alumno» dejará de responder a las preguntas y se producirán estertores previos al coma.
+Por lo general, cuando los «maestros» alcanzaban los 75 voltios, se ponían nerviosos ante las quejas de dolor de sus «alumnos» y deseaban parar el experimento, pero la férrea autoridad del investigador les hacía continuar.
+Al llegar a los 135 voltios, muchos de los «maestros» se detenían y se preguntaban el propósito del experimento.
+Cierto número continuaba asegurando que ellos no se hacían responsables de las posibles consecuencias.
+Algunos participantes incluso comenzaban a reír nerviosos al oír los gritos de dolor provenientes de su «alumno».
+Si el «maestro» expresaba al investigador su deseo de no continuar, este le indicaba imperativamente y según el grado:
+Si después de esta última frase el «maestro» se negaba a continuar, se paraba el experimento.
+Si no, se detenía después de que hubiera administrado el máximo de 450 voltios tres veces seguidas.
+En el experimento original, el 65% de los participantes (26 de 40) aplicaron la descarga de 450 voltios, aunque muchos se sentían incómodos al hacerlo.
+Todos los «maestros» pararon en cierto punto y cuestionaron el experimento, algunos incluso dijeron que devolverían el dinero que les habían pagado.
+Ningún participante se negó rotundamente a aplicar más descargas antes de alcanzar los 300 voltios.
+El estudio posterior de los resultados y el análisis de los múltiples tests realizados a los participantes demostraron que los «maestros» con un contexto social más parecido al de su «alumno» paraban el experimento antes.
+Además de este proyecto, Milgram realizó otro en el que se utilizaban ratones de experimentación.
+El experimento consistía en mostrarles la salida a los ratones, dentro de una caja de paredes electrificadas.
+El ratón entendía que la salida no le beneficiaba y seguía a la próxima pared, para así encontrar la salida.
+El experimento muestra que el ratón, tanto como el ser humano, puede ser condicionado con presión para hacer lo que pide el demandante o maestro como en el experimento con alumnos.
+Milgram rodó una película documental que demostraba el experimento y sus resultados, titulada Obediencia, cuyas copias originales son difíciles de encontrar hoy en día.
+Antes de llevar a cabo el experimento, el equipo de Milgram estimó cuáles podían ser los resultados en función de encuestas hechas a estudiantes, adultos de clase media y psicólogos.
+Consideraron que el promedio de descarga se situaría en 130 voltios con una obediencia al investigador del 0 %.
+Todos ellos creyeron unánimemente que solamente algunos sádicos aplicarían el voltaje máximo.
+El desconcierto fue grande cuando se comprobó que el 65 % de los sujetos que participaron como «maestros» en el experimento administraron el voltaje límite de 450 a sus «alumnos», aunque a muchos el hacerlo los colocase en una situación absolutamente incómoda.
+Ningún participante paró en el nivel de 300 voltios, límite en el que el alumno dejaba de dar señales de vida.
+Otros psicólogos de todo el mundo llevaron a cabo variantes de la prueba con resultados similares, a veces con diversas variaciones en el experimento.
+En 1999, Thomas Blass, profesor de la Universidad de Maryland, publicó un análisis de todos los experimentos de este tipo realizados hasta entonces y concluyó que el porcentaje de participantes que aplicaban voltajes notables se situaba entre el 61 % y el 66 %, sin importar el año de realización ni la localización de los estudios.
+Lo primero que se preguntó el desconcertado equipo de Milgram fue cómo era posible que se hubiesen obtenido estos resultados.
+A primera vista, la conducta de los participantes no revelaba tal grado de sadismo, ya que se mostraban preocupados por su propia conducta.
+Todos se mostraban nerviosos y preocupados por el cariz que estaba tomando la situación y, al enterarse de que en realidad la cobaya humana no era más que un actor y que no le habían hecho daño, suspiraban aliviados.
+Por otro lado eran plenamente conscientes del dolor que habían estado infligiendo, pues al preguntarles por cuánto sufrimiento había experimentado el alumno la media fue de 13 en una escala de 14.
+El experimento planteó preguntas sobre la ética del método científico en sí mismo debido a la tensión emocional extrema sufrida por los participantes (aunque se podría decir que dicha tensión fue provocada por sus propias y libres acciones).
+La mayoría de los científicos modernos considerarían el experimento hoy inmoral, aunque dio lugar a valiosos estudios sobre la psicología humana.
+En defensa de Milgram hay que señalar que el 84 % de participantes dijeron posteriormente que estaban «contentos» o «muy contentos» de haber participado en el estudio y un 15 % les era indiferente (respondieron un 92 % de todos los participantes).
+Muchos le expresaron su gratitud más adelante y Milgram recibió en varias ocasiones ofrecimientos y peticiones de ayuda de los antiguos participantes.
+Hay un colofón poco conocido del experimento Milgram, reportado por Philip Zimbardo: ninguno de los participantes que se negaron a administrar las descargas eléctricas finales solicitó que terminara el experimento (que se dejaran de realizar ese tipo de sesiones) ni acudieron al otro cuarto a revisar el estado de salud de la víctima sin antes solicitar permiso para ello.
+Seis años después del experimento, durante la guerra de Vietnam, uno de los participantes en el experimento envió una carta a Milgram explicándole por qué estaba agradecido de haber participado a pesar del estrés:
+Sin embargo, no todos los participantes experimentaron este cambio en su vida.
+De acuerdo con los estándares modernos, los participantes no fueron totalmente desengañados, y algunas entrevistas de salida indicaron que muchos participantes nunca entendieron del todo la naturaleza del experimento.
+Los experimentos provocaron críticas emocionales, más acerca de la ética del experimento mismo que sobre los resultados.
+En la publicación Jewish Currents (Actualidades judías), Joseph Dimow, un participante en el experimento de 1961 en la Universidad de Yale, escribió acerca de sus sospechas tempranas de que «todo el experimento estaba diseñado para ver si los estadounidenses comunes obedecerían órdenes inmorales, como muchos alemanes habrían hecho durante el periodo nazi».
+De hecho este, era uno de los fines explícitos del experimento.
+Citando el prefacio del libro de Milgram, Obedience to Authority:
+En 1981 Tom Peters y Robert H. Waterman Jr. escribieron que el experimento Milgram y el posterior experimento Zimbardo en la Universidad de Stanford eran aterradores en sus implicaciones acerca del peligro que amenazaba en el lado oscuro de la naturaleza humana.
+El profesor Milgram elaboró dos teorías que explicaban sus resultados:
+El profesor Robert Shiller argumenta que otros factores podrían ser parcialmente capaces de explicar los experimentos de Milgram: "[Las personas] han aprendido que cuando los expertos les dicen que algo está bien, probablemente lo sea, incluso si no parece ser así. (De hecho, vale la pena señalar que en este caso el experimentador era realmente correcto: estaba bien continuar dando los «golpes» —aunque la mayoría de los sujetos no sospechaban la razón—)."Otra explicación de los resultados de Milgram invoca la perseverancia de la creencias como la causa subyacente.
+Lo que «no se puede contar con la gente es darse cuenta de que una autoridad aparentemente benevolente es de hecho malévola, incluso cuando se enfrentan a pruebas abrumadoras que sugieren que esta autoridad es realmente malévola.
+Por lo tanto, la causa subyacente de la conducta de golpe de los sujetos podría ser conceptual, y no la supuesta “capacidad del hombre para abandonar su humanidad ... a medida que fusiona su personalidad única en estructuras institucionales más grandes”».
+Los experimentos en Psicología, y en especial en Psicología Social tuvieron un auge entre los años 1950 y 1970.
+El experimento de la conformidad de Solomon Asch (1951); el experimento de la obediencia de Milgram (1961-1962), el experimento de la cárcel de Standford de Zimbardo (1971), entre otros son los más populares y coinciden en haberse realizado con posterioridad a la declaración de códigos de Núremberg (1947).
+El código de Núremberg distingue el valor que los experimentos con seres humanos pueden tener para el estudio de distintos aspectos de la condición humana que podrían conducir a resultados provechosos para la sociedad, y propone a su vez unos principios que apuntan a satisfacer conceptos morales, éticos y legales.
+Este Código se encontraba en plena vigencia antes de la realización de todos éstos  experimentos, sin embargo, ninguno de los profesionales tuvo en cuenta que los experimentos realizados entraban en contradicción con sus principios.
+En su libro Obedience to Authority: An Experimental View, Milgram describe diecinueve variaciones de su experimento.
+Generalmente, al aumentar la cercanía física de la víctima, disminuía la obediencia del participante.
+La obediencia también disminuía al aumentar la distancia física respecto de la autoridad (experimentos 1 al 4).
+Por ejemplo, en el experimento 2, donde los participantes recibían instrucciones por teléfono, la obediencia disminuyó en un 21 %.
+Es interesante que algunos participantes trataron de engañar a la autoridad (el experimentador) fingiendo que continuaban con el experimento.
+En la variación donde la víctima tenía la mayor cercanía física con el participante, cuando los participantes tenían que mantener físicamente el brazo de la víctima sobre la placa que generaba la descarga eléctrica, la obediencia decreció.
+En estas circunstancias, sólo 30 % de los participantes completaron el experimento.
+En el experimento 8 los participantes fueron mujeres; anteriormente todos los participantes habían sido hombres.
+La obediencia no varió significativamente, aunque las mujeres manifestaron haber experimentado mayores niveles de estrés.
+El experimento 10 se realizó en una oficina modesta en Bridgeport, Connecticut, fingiendo que quien realizaba el experimento era la entidad comercial «Research Associates of Bridgeport», sin conexión aparente con la Universidad de Yale (para eliminar el factor de prestigio de la Universidad que influenciara el comportamiento de los participantes).
+En estas condiciones la obediencia cayó al 47,5 %.
+Milgram también combinó el poder de la autoridad con la conformidad.
+En esos experimentos los participantes fueron acompañados por uno o dos «maestros» (también actores, como el aprendiz o víctima).
+El comportamiento de los acompañantes influyó de manera importante en los resultados.
+En el experimento 17, cuando dos maestros suplementarios se negaron a cumplir las órdenes, sólo 4 de los 40 participantes continuaron en el experimento.
+En el experimento 18, los participantes realizaron una tarea de acompañamiento (leyeron las preguntas por un micrófono o registraron las respuestas del aprendiz) con otro maestro, quien completaba la prueba.
+En esa variación solo 3 de 40 desafiaron al experimentador.
+Recientes variaciones del experimento de Milgram sugieren que la interpretación no supone obediencia ni autoridad, sino que los participantes sufren una desolación aprendida, donde se sienten incapaces de controlar el resultado, de manera que abdican de su responsabilidad personal.
+En un experimento reciente, donde se usó una simulación de computadora en lugar de un aprendiz que recibía descargas, los participantes que administraban las descargas eran conscientes de que el aprendiz era irreal, pero aun así los resultados fueron los mismos.
+En la popular serie Basic Instincts, se repitió el experimento de Milgram en 2006, con los mismos resultados con los hombres.
+En un segundo experimento con mujeres se mostró que ellas eran más proclives a continuar el experimento.
+Un tercer experimento, con un maestro adicional para generar presión, mostró que en estas condiciones los participantes continuaban con el experimento hasta el final.
+De abril de 1995 a junio de 2004 hubo una serie de engaños, conocidos como «Strip Search Prank Call Scam», en la cual trabajadores de restaurantes de comida rápida en Estados Unidos recibían una llamada de alguien que decía ser oficial de policía, quien persuadía a las figuras de autoridad para desnudar y abusar sexualmente de los trabajadores.
+El artífice obtuvo un alto nivel de éxito al persuadir a las víctimas para que realizaran actos que no habrían realizado en circunstancias normales.
+El principal sospechoso de estas llamadas, David R. Stewart, fue encontrado no culpable en el único caso que ha ido a juicio hasta ahora.
+En la película francesa I... Comme Icare, de 1979, dirigida por Henri Verneuil e interpretada por Yves Montand, Michel Albertini, Roland Amstutz, Jean-Pierre Bagot y Georges Bell, entre otros, se reproduce una sesión completa del experimento de Milgram.
+El músico inglés Peter Gabriel incluyó en su trabajo "So" (1986) un tema llamado We do what we're told (Milgram's 37), en el que hace explícita referencia al experimento.
+En el libro El guardián del juego se recuerda este experimento como parte de la clase de primer curso de Psicología en la universidad de Winchester.
+En 2010 se estrenó el documental francés Le jeu de la mort (El juego de la muerte), donde se recrea el experimento de Milgram, pero adaptándolo para que parezca un concurso de televisión.
+De este modo consiguen que los participantes no sepan que se trata de un experimento.
+En el año 2015, se estrenó la película Experimenter, dirigida por Michael Almereyda, en la que el actor Peter Sarsgaard interpreta a Stanley Milgram.

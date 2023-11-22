@@ -1,0 +1,10 @@
+(6069) Cevolani es un asteroide perteneciente al cinturón de asteroides, región del sistema solar que se encuentra entre las órbitas de Marte y Júpiter, descubierto el 8 de agosto de 1991 por Henry E. Holt desde el Observatorio del Monte Palomar, Estados Unidos.
+Designado provisionalmente como 1991 PW17.
+Fue nombrado Cevolani en homenaje a Giordano Cevolani, investigador del Consejo Nacional de Investigación Italiano (CNR) en Bolonia.
+Sus principales campos de interés son la física de la atmósfera terrestre, la astronomía de cuerpos menores y la ciencia espacial.
+Su actividad científica se refiere principalmente a la observación de meteoros por radar, los fenómenos relacionados con su interacción con la atmósfera y el estudio de la estructura del viento (componentes predominantes; gravedad, mareas y ondas planetarias) en la mesosfera y en la troposfera inferior de las regiones polares (vientos catabáticos).
+Cevolani está situado a una distancia media del Sol de 2,246 ua, pudiendo alejarse hasta 2,339 ua y acercarse hasta 2,153 ua.
+Su excentricidad es 0,041 y la inclinación orbital 4,032 grados.
+Emplea 1230,12 días en completar una órbita alrededor del Sol.
+La magnitud absoluta de Cevolani es 14.
+Tiene 3,934 km de diámetro y su albedo se estima en 0,345.

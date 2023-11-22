@@ -1,0 +1,24 @@
+Una trampa Penning es un tipo de trampa iónica que utiliza un campo eléctrico no homogéneo y un campo magnético homogéneo en una dirección que a partir de ahora llamaremos axial.
+Su uso se extiende desde la espectrometría de masas de alta precisión, la medida de propiedades de partículas subatómicas, a la implementación física de qubits, para realizar operaciones de computación cuántica.
+La construcción de una trampa Penning consta de un potencial eléctrico cuadrupolar, generado por tres electrodos, un anillo y dos encaps.
+Este potencial genera un campo electrostático proporcional al potencial aplicado entre los electrodos en las direcciones axial y radial.
+Este potencial tiene forma de punto de silla, generando un movimiento armónico confinante en la dirección axial y un movimiento en equilibrio inestable en la dirección radial, por lo que los iones tenderán a perderse a la menor perturbación.
+Para confinar el movimiento en la dirección radial aplicamos un campo magnético paralelo al eje axial.
+Por las propiedades del producto vectorial de la fuerza magnética sabemos que esta sólo tendrá componente radial (perpendicular al eje axial), atrapando así a los iones en la dirección radial.
+El ion queda entonces totalmente confinado, en la dirección radial la solución de las ecuaciones del movimiento nos da lugar a un movimiento epicicloide, que finalmente se compondrá con el movimiento oscilante de la dirección axial para dar lugar a un movimiento periódico en las tres direcciones del espacio.
+El movimiento en el plano radial puede visualizarse como la superposición de dos movimientos circulares, magnetrón (circunferencia grande del epiciloide) de frecuencia \omega_{-} y ciclotrón modificado (circunferencia pequeña) de frecuencia \omega_{+
+}. Sumando ambas obtenemos la frecuencia ciclotrón, esta cantidad es de extrema utilidad, pues conocida esta y el valor del campo magnético podemos determinar la relación carga masa m/q de los iones atrapados.
+Muchas de las medidas de alta precisión (masa del electrón, protón,, , ) provienen de trampas Penning.
+Tanto el anillo como los endcap que generan el potencial de la trampa Penning tendrán geometría de hiperboloide de revolución, para atrapar iones positivos (negativos) los encaps se conectan a un potencial positivo (negativo) respecto al potencial del anillo.
+Debido a que es necesario un imán que genere un valor de campo magnético muy alto, el imán que lo genera es un electroimán superconductor, por lo que se necesitará su enfriamiento hasta la temperatura crítica del material superconductor.
+Una vez tenemos los iones en la trampa Penning pasamos a enfriarlos, este paso es importante para todas las aplicaciones de la trampa, pues nos permite tanto medidas como un control más preciso de los iones.
+Existen distintos tipos de enfriamiento entre los cuales están:
+Por la desintonización en frecuencia causada por el efecto Doppler y la cuantización de los niveles de energía, los iones tenderán a absorber fotones sólo si se mueven en el sentido contrario al de incidencia del láser, quedando excitados, como la emisión de fotones al volver al estado funtamental es isótropa el resultado es que tras muchos sucesos de excitación-desexcitación cada ion perderá momento, lo que resulta en la disminución de su movimiento, lo que llamamos enfriamiento del ion.
+Como cualquier otra carga, el movimiento de los iones genera un campo electromagnético inducido, que variará con el tiempo como así lo hace el movimiento del ion, esta variación dará lugar a corrientes inducidas que tras pasar por una resistencia disiparán energía en forma de calor, como esta energía proviene del movimiento de los iones tendrá como efecto final su enfriamiento.
+Cabe comentar que la detección de estas mismas corrientes inducidas serán las que nos permitirán caracterizar el movimiento de los iones en la trampa, pues dependen de la frecuencia ciclotrón.
+La realización de qubits en trampas iónicas se basa en utilizar los niveles de energía electrónicos de las especies iónicas atrapadas como soporte físico del almacenamiento de la información cuántica.
+Su implementación en este tipo de sistemas proporciona grandes tiempos de almacenaje comparado con el tiempo que toman las operaciones en realizarse.
+Se comprueba que los qubits implementados en esta forma cumplen con las condiciones fundamentales, pues se puede realizar su inicialización, manipulación y lectura.
+Una vez enfriado el ion se manipulan los estados internos electrónicos con pulsos láser, que hacen que el ion quede en un estado cuántico puro bien conocido.
+Esta misma manipulación puede utilizarse para llevar al ion a los distintos estados excitados que formarán los estados de nuestro qubit.
+La lectura se realizará valiéndose del mecanismo de fluorescencia, pues el ion solo emitirá en determinadas frecuencias para pasar de un estado a otro, quedando definido su estado con las frecuencias de emisión.

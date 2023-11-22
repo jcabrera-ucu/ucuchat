@@ -1,0 +1,23 @@
+En matemática, el argumento ( o principio o teorema) de Eckmann-Hilton es un argumento acerca de pares de estructuras de monoide sobre un conjunto donde uno es un homomorfismo para el otro.
+Dado esto, se puede mostrar que las estructuras coinciden, y el monoide resultante es, demostrablemente, conmutativo.
+Esto puede usarse para probar la conmutatividad de los grupos de homotopía superiores.
+Como será evidente después, es muy inconveniente postular la existencia de identidades en el tratamiento básico del argumento.
+Por tanto comenzamos con magmas, con el objetivo de apuntar a estructuras monoidales conmutativas.
+Sea Mag la categoría de los magmas (i..e. operaciones binarias), consideramos las condiciones implicadas por la sola existencia de objetos magma lo que da lugar a Med la categoría medial.
+(expresiones como "abeliano", "centrado", "afín", "medial", "dicotómico" o "preconvexo" son generalizaciones para objetos magma pero eliminamos las comillas)
+Ejemplo básico de medialidad pura : x T y = a(x) + b(y) + t en un semigrupo conmutativo (no necesariamente con elemento identidad) con a y b endomorfismos que conmutan entre sí y t un elemento fijo del semigrupo.
+En este ejemplo 0 T 0 = t si 0 es neutro del semigrupo.
+Ejemplo básico de medialidad o abelianidad (viejo) (es decir un objeto auto-magma con una operación binaria T que satisface (x T y) T (u T z) = (x T u) T (y T z)) x T y = a(x) + b(y) + t puros en un semigrupo conmutativo (no necesariamente con identidad) con a y b endomorfismos que conmutan y t un elemento fijo en el semigrupo.
+Esto generaliza a los semigrupos conmutativos la noción de combinación lineal y afín.
+Decimos que una operación medial está centrada si admite algún idempotente cancelativo bilátero (un centro).
+Ahora, si tenemos una operación medial centrada (sea c un centro), definamos a(x) = x T c y b(y) = c T y, como la cancelatividad exige, tenemos contracciones d y e tales que d(a(x)) = x y e(b(y)) = y, si d y e son biyectivas, se puede definir x + y = d(x) T e(y), esta es medial también, c es su identidad y reconstruye x T y = a(x) + b(y), por tanto un caso del ejemplo básico.
+Pero en Mag podemos extender un endomorfismo inyectivo, así que la extensión de b o a = a o b da una extensión a un ejemplo básico.
+Inversamente, asuma que el ejemplo básico es sobre un monoide conmutativo con x T y = a(x) + b(y), como a(0) = 0 = b(0) entonces 0 T 0 = 0 es decir idempotente y x T 0 = a(x), 0 T y = b(y).
+Definiciones:
+Estas ideas se pueden utilizar para comenzar la caracterización de los números reales.
+(ver Escardó, Simpson sobre ½x + ½y y), lo que es más importante, soluciona el problema de la categoría métrica: los morfismos métricos son funciones cortas (o contracciones débiles o 1-Lipschitz);  hasta ahora, todo bien.
+Pero para espacios de Banach esto da una contradictio in adjecto: ¡no hay espacios de Banach de funciones cortas lineales continuas, solamente bolas unitarias de Banach de funciones cortas lineales!
+Pero las bolas unidad no son aditivamente cerradas, sólo ½x + ½y cerrado (convexo).
+Pero hemos demostrado que la clausura no necesita ser monoidal, apenas medial en el sentido auto objeto magma, que es el sentido verdadero de Eckmann-Hilton.
+(0 no es una identidad para ½x + ½y, apenas un (tipo de) "centro").
+Pero la extensión reconstructiva recién presentada es, exactamente, el espacio de Banach con su estructura monoidal.

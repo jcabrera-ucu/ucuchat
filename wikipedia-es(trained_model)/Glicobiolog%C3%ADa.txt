@@ -1,0 +1,22 @@
+La glicobiología comprende el estudio de la estructura molecular y función biológica de los polisacáridos libres o presentes en glicoproteínas, glicolípidos y proteoglicanos, así como de las proteínas que interactúan específicamente con los polisacáridos (incluyendo lectinas, glicosiltransferasas y glicosidadas) y su implicación causal en el desarrollo de patologías, diagnosis y terapia.
+El primer reporte de una proteína que llevaba unida azúcares covalentemente tuvo lugar en 1938 por A. Neuberger.
+Sin embargo, con anterioridad se había investigado en otros aspectos de la función biológica de polisacáridos, por ejemplo, el papel de la heparina o las lectinas.
+Posterior a 1938, se profundizó en el estudio del papel de los azúcares en el sistema de grupos sanguíneos AB0 y poco a poco se fueron describiendo los diversos tipos de glicanos y rutas de biosíntesis.
+No obstante, el avance en este campo no se puede comparar al que se experimentó en el estudio de otras macromoléculas como el DNA o las proteínas.
+Existen diversas consideraciones a tener en cuenta a la hora de explicar la complejidad adicional que supone estudiar los polisacáridos respecto al DNA o las proteínas.
+Para empezar no existe un molde para la síntesis de los polisacáridos, a diferencia de lo que ocurre con el DNA y las proteínas.
+Además las estructuras que generan son mucho más complejas.
+Esta diversidad se explica gracias a la presencia de numerosos monoméros (monosacáridos que componen la mayoría de los polisacáridos) que pueden unirse mediante gran variedad de enlaces y generar estructuras ramificadas.
+Los disacáridos consisten en dos monosacáridos unidos covalentemente por un enlace O glicosídico.
+Este enlace se genera cuando un grupo OH reacciona con el OH del carbono anomérico del otro monosacárido.
+Están formados por cadenas de monosacáridos unidos mediante enlace glicosídicos.
+Algunos de los polisacáridos con interés biológico son el almidón, el glucogéno, la celulosa, la quitina.
+En el enlace glicosídico pueden definirse dos ángulos de rotación (φ y ψ) y realizar un diagrama similar al gráfico de Ramachandran que represente conformaciones permitidas y otras estéricamente impedidas.
+Los valores que estos ángulos nos permiten describir las estructuras tridimensionales que adquieren algunos polisacáridos, como los dextranos, la celulosa y la amilosa.
+Muchas proteínas presentan glicanos unidos covalentemente.
+Esta modificación tiene lugar en los orgánulos de la vía secretora: retículo endoplasmático y aparato de Golgi.
+Los glicosaminosglicanos(GAGs) son largas polímeros sin ramificar que pueden existir como moléculas independientes (hialurano) o asociadas a otras moléculas (como proteoglicanos).
+Su estructura se basa en repeticiones de disacáridos siendo normalmente uno de ellos el ácido urónico.
+Hay al menos seis GAGs: ácido hialurónico, condroitín sulfatp, keratan sulfato, heparina, heparan sulfato y dermantán sulfato.
+Los glicoesfingolípidos son moléculas resultado de la combinación de un esfingolípido que lleva unidos uno o varios monosacáridos mediante enlace β-glicosídico.
+Se distinguen dos grupos: cerebrosidos (solo llevan unidos un monosacárido) y gangliósidos (llevan unido dos o más de dos monosacáridos, normalmente glucosa, galactosa y ácidos siálico).

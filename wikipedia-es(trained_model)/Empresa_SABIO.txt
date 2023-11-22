@@ -1,0 +1,36 @@
+Sabio es una empresa británica que se fundó en 1998 con el objetivo de ayudar a empresas a conectar mejor con sus clientes.
+Actualmente está colaborando con 65 países diferentes a transformar la experiencia del cliente, con sus últimas tecnologías digitales aplicadas a CX.
+Esta tecnología mide como se envían los Clientes con respecto a una empresa, como puede ser la conexión emocional, física y Psicológica que se establece con una empresa.
+En agosto de 1998 empezaron como un Grupo Enciclopedia Catalana.
+Un grupo de expertos en el sistema de comunicaciones desarrollaron un sistema especializado con tecnología y experiencias de clientes para un contact center.
+Al principio estuvieron en Londres y abrieron el primer centro técnico en Glasgow el año 2000.
+En febrero del 2004 se centraron en las capacidades específicas de un Contact Center y en colaboraciones con empresas tecnológicas.
+Sabio era el único independiente de Regne Unit en funcionamiento.
+En este caso era de contactos multicanales, optimización de plantillas y automatización de voz.
+En agosto de 2011 los clientes aumentaron en todo todo el mundo, y por esta razón abrieron una empresa en Singapur.
+Se hizo una gran Inversión económica en las habilidades técnicas de vanguardia y esto hizo que pudieran trabajar con sus capacidades de venta y por eso mismo fue necesario ampliar la oferta de servicios con Sabio Network Services.
+En junio de 2014 cuando tuvieron 200 trabajadores, lanzaron Sabio OnDemand.
+En junio del 2016 consiguieron fondo de capital privado, y pudieron abrir más sedes en Francia, Italia, Países Bajos y España, mediante realizaciones que influyeron el Datapoint Europe y Callware.
+Durante este periodo, ampliaron sus propios productos digitales y la plantilla creció hasta 440 personas.
+En enero de 2021 sbio apoyó a empresas líderes a evolucionar y crecer durante la pandemia de la Covid-19 debido al teletrabajo y el ER (transformación de servicios digitales).
+Ahora mismo han llegado a los 1000 trabajadores, y todo su crecimiento estuvo reconocido al Sunday Times HSBC International Track
+Airline - Es una plataforma que utiliza la inteligencia artificial y la automatización por el Twilio a través de Google Dialogflow y centros de contacto.
+El objetivo de Airline es ser un autoservicio por el consultor.
+Flexanswer - Usa un equipo o clientes que gestionan grandes cantidades de información.
+Extrae datos de varias fuentes y las agrupan con secciones de preguntas más frecuentes de forma que tienen una respuesta coherente en todos los puntos de contacto.
+Superchannel - Usa teléfonos inteligentes por los clientes, de forma que no hace falta que cambie de un canal a otro para completar los diferentes trabajos.
+Softphone - Es el teléfono de software que se integra en una plataforma CRM, es decir la relación con clientes.
+Pulsando disminuir el tiempo.
+Supervisión y rendimiento - Su servicio analiza el rendimiento y comprueba la capacidad de toda la red porque así detecte las consecuencias y las posibilidades de interrupción para poder actuar.
+Mission control - Se trata de una integración entre el centro de contacto seguro y así cooperar con los administradores configurando recorridos en el tiempo real sin asistencia informática.
+Accelerate - Es un sistema que realiza la migración a una plataforma omnicanal, es decir que describe una estrategia de publicidad de Genesys.
+Ondemand private cloud - La plataforma de la nube privada de Sabio OnDemand tiene asistencia de forma que los clientes pueden beneficiarse de la experiencia de cliente basada en la nube.
+CX índice - Es una plataforma de la voz del cliente que aporta datos procedentes de todos los clientes porque se vea el que importa realmente y encontrarle una solución.
+Bright - Es una plataforma que utiliza el potencial del equipo recomiendan formas de incrementar el trabajo.
+La empresa de Sabio está asociada actualmente a la compañía de Fonético.
+Una compañía española especializada en reconocimiento de voz, Lenguaje Natural (NLP) y voceibots y chatbots con inteligencia artificial y soluciones de Customer Behaviour Analytics.
+También está asociada con la compañía española de Callware.
+Una compañía especializada con soluciones de contact center y optimización de la fuerza del trabajo, comunicaciones unificadas y iCloud.
+Con el objetivo de incrementar la oferta en aquellos campos y ofrecer.
+Se han fusionado con la intención de ampliar las soluciones y aperturas geográficas de la compañía.
+<references responsive="1" group="">

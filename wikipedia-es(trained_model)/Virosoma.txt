@@ -1,0 +1,9 @@
+En biología, un virosoma es una partícula artificial, fabricada in vitro y formada por una vesícula esférica delimitada por una membrana compuesta de una doble capa de fosfolípidos a la que se incorporan proteínas virales.
+Carece de ADN por lo que no es capaz de multiplicarse.
+La tecnología basada en los virosomas se ha empleado con éxito para la obtención de vacunas contra el virus de la gripe y el virus de la hepatitis A.
+En el proceso de creación de vacunas mediante virosomas, se forman pequeñas vesículas constituidas por membranas lipídicas en las que se sitúan proteínas pertenecientes a la estructura del virus, por ejemplo la hemaglutinina y la neuraminidasa del virus de la gripe.
+El resultado es una partícula que no contiene ADN del virus pero que al administrala puede fusionarse con las células del sistema inmunitario mediante un proceso de endocitosis e inducir una respuesta inmunológica eficaz y duradera.
+Pueden crearse virosomas quiméricos para la vacuna antigripal que contienen hemaglutininas procedentes de la envuelta viral de dos cepas del virus de la gripe diferentes.
+Se han utilizado virosomas como vector para el tratamiento del cáncer.
+Sin embargo esta terapia se encuentra en fase experimental.
+Los virosomas pueden emplearse para administrar un fármaco o un gen al interior de una célula diana y ofrecen la ventaja de que es posible una entrada eficaz y directa de la sustancia dentro de la célula, ya que liberan su contenido en el citoplasma tras un proceso de fusión con la membrana celular.

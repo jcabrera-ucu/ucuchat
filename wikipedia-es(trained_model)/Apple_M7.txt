@@ -1,0 +1,4 @@
+El "Apple M7" es un coprocesador diseñado por Apple Inc.
+que se encuentra en el interior del SoC A7.
+Se encarga de recolectar datos del giroscopio, el acelerómetro y la brújula.
+Entre sus variadas funciones, se encuentra la de conocer en que momento estamos durmiendo y reducir el consumo de batería, o la de darnos una ruta automáticamente dependiendo de si vamos en coche o a pie.

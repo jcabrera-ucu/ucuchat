@@ -1,0 +1,11 @@
+COCOMO es un modelo sencillo de COCOMO.
+Cocomo puede ser aplicado a tres tipos de proyectos software.
+Esto nos da una impresión general del proyecto.
+La ecuación de COCOMO para el PALPA en este modo básico es:
+Donde E es el esfuerzo aplicado en persona-mes, D es el tiempo de desarrollo en meses, KLOC es el número de líneas estimadas para el proyecto (en miles) y P es el número de personas necesarias.
+Los coeficientes a, b, c y d se obtienen de la siguiente tabla:
+Tipo de Proyecto    a       b       c       d   Orgánico            2.4     1.05    2.5     0.38
+Medio              3.0     1.12    2.5     0.35
+Embebido           3.6     1.20    2.5     0.32
+COCOMO básico es un forma rápida y sencilla de estimar la magnitud de los costes de un proyecto software, pero este alcance está necesariamente limitado porque hay muchos factores sin contabilizar, como son las diferencias de requisitos hardware, la calidad y experiencia del personal, utilización de técnicas y herramientas más sofisticadas, y otra serie de atributos conocidos que tiene mucha influencia en los costes de un proyecto.
+Basic COCOMO

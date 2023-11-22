@@ -1,0 +1,6 @@
+  Focused ion beam , también conocido como FIB, es una técnica empleada particularmente en la industria de semiconductores, ciencia de materiales, biología, deposición y ablación de materiales.
+Un sistema FIB es un instrumento científico que se parece a un microscopio electrónico de barrido (Scanning electron microscope (SEM)).
+Sin embargo, mientras que el SEM utiliza haces de electrones focalizados para obtener una imagen de la muestra, el sistema FIB usa un haz de iones focalizados.
+FIB también puede ser combinado con un SEM permitiendo investigar las mismas características del material a estudiar pero con distintos tipos de haz.
+FIB no debería ser confundido con el uso de haz de iones focalizados para la escritura directa (litografía), así como la escritura mediante haz de protones.
+Estos son generalmente sistemas muy diferentes en los que el material es modificado por otros mecanismos.

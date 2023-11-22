@@ -1,0 +1,106 @@
+En biología celular, el transporte activo es el movimiento de moléculas a través de una membrana celular desde una región de menor concentración a una región de mayor concentración, en contra del gradiente de concentración.
+El transporte activo requiere energía celular para lograr este movimiento.
+Hay dos tipos de transporte activo: transporte activo primario que utiliza trifosfato de adenosina (ATP) y transporte activo secundario que utiliza un gradiente electroquímico.
+Algunos ejemplos de transporte activo incluyen:
+A diferencia del transporte pasivo, que usa la energía cinética y la entropía natural de las moléculas que se mueven a favor de un gradiente, el transporte activo usa la energía celular para moverlas contra un gradiente, repulsión polar u otra resistencia.
+El transporte activo suele estar asociado a la acumulación de altas concentraciones de moléculas que la célula necesita, como iones, glucosa y aminoácidos.
+Los ejemplos de transporte activo incluyen la absorción de glucosa en los intestinos de los seres humanos y la absorción de iones minerales en las células ciliadas de las raíces de las plantas.
+el transporte activo es el movimiento de moléculas a través de una membrana celular desde una región de menor concentración a una región de mayor concentración, en contra del gradiente de concentración.
+El transporte activo requiere energía celular para lograr este movimiento.
+En 1848, el fisiólogo alemán Emil du Bois-Reymond sugirió la posibilidad del transporte activo de sustancias a través de las membranas.
+Rosenberg (1948) formuló el concepto de transporte activo basado en consideraciones energéticas, pero luego sería redefinido.
+En 1997, Jens Christian Skou, un médico danés, recibió el Premio Nobel de Química por su investigación sobre la bomba de sodio-potasio.
+Una categoría de cotransportadores que es especialmente prominente en la investigación sobre el tratamiento de la diabetes son los cotransportadores de sodio-glucosa.
+Estos transportadores fueron descubiertos por científicos del Instituto Nacional de Salud.
+Estos científicos habían notado una discrepancia en la absorción de glucosa en diferentes puntos del túbulo renal de una rata.
+Luego se descubrió el gen para la proteína de transporte de glucosa intestinal y se vinculó a estos sistemas de cotransporte de sodio y glucosa de membrana.
+La primera de estas proteínas de transporte de membrana se denominó SGLT1 seguida por el descubrimiento de SGLT2.
+Robert Krane también desempeñó un papel destacado en este campo.
+Las proteínas transmembrana especializadas reconocen la sustancia y le permiten moverse a través de la membrana cuando de otro modo no lo haría, ya sea porque la bicapa de fosfolípidos de la membrana es impermeable a la sustancia movida o porque la sustancia se mueve en contra de la dirección de su gradiente de concentración.
+Hay dos formas de transporte activo, transporte activo primario y transporte activo secundario.
+En el transporte activo primario, las proteínas involucradas son bombas que normalmente usan energía química en forma de ATP.
+El transporte activo secundario, sin embargo, hace uso de la energía potencial, que normalmente se obtiene mediante la explotación de un gradiente electroquímico.
+La energía creada a partir de un ion que se mueve a favor de su gradiente electroquímico se utiliza para impulsar el transporte de otro ion que se mueve en contra de su gradiente electroquímico.
+Esto involucra proteínas formadoras de poros que forman canales a través de la membrana celular.
+La diferencia entre el transporte pasivo y el transporte activo es que el transporte activo requiere energía y mueve las sustancias en contra de su respectivo gradiente de concentración, mientras que el transporte pasivo no requiere energía celular y mueve las sustancias en la dirección de su respectivo gradiente de concentración.
+En un antiportador, un sustrato se transporta en una dirección a través de la membrana mientras que otro se cotransporta en la dirección opuesta.
+En un simportador, dos sustratos se transportan en la misma dirección a través de la membrana.
+Los procesos de antiporte y simporte están asociados con el transporte activo secundario, lo que significa que una de las dos sustancias se transporta en contra de su gradiente de concentración, utilizando la energía derivada del transporte de otro ion (principalmente iones Na, K o H) hacia abajo de su concentración.
+degradado.
+Si las moléculas de sustrato se mueven de áreas de menor concentración a áreas de mayor concentración (es decir, en la dirección opuesta o en contra del gradiente de concentración), se requieren proteínas transportadoras transmembrana específicas.
+Estas proteínas tienen receptores que se unen a moléculas específicas (p. ej., glucosa) y las transportan a través de la membrana celular.
+Debido a que se requiere energía en este proceso, se lo conoce como transporte 'activo'.
+Los ejemplos de transporte activo incluyen el transporte de sodio fuera de la célula y potasio dentro de la célula por la bomba de sodio-potasio.
+El transporte activo a menudo tiene lugar en el revestimiento interno del intestino delgado.
+Las plantas necesitan absorber sales minerales del suelo o de otras fuentes, pero estas sales existen en soluciones muy diluidas.
+El transporte activo permite que estas células absorban las sales de esta solución diluida en contra de la dirección del gradiente de concentración.
+Por ejemplo, los iones de cloruro (Cl−) y nitrato (NO3−) existen en el citosol de las células vegetales y necesitan ser transportados a la vacuola.
+Si bien la vacuola tiene canales para estos iones, su transporte se realiza en contra del gradiente de concentración y, por lo tanto, el movimiento de estos iones es impulsado por bombas de hidrógeno o bombas de protones.
+El transporte activo primario, también llamado transporte activo directo, utiliza directamente la energía metabólica para transportar moléculas a través de una membrana.
+Las sustancias que se transportan a través de la membrana celular mediante transporte activo primario incluyen iones metálicos, como Na+, K+, Mg2+ y Ca2+.
+Estas partículas cargadas requieren bombas de iones o canales de iones para atravesar las membranas y distribuirse por el cuerpo.
+La mayoría de las enzimas que realizan este tipo de transporte son ATPasas transmembrana.
+Una ATPasa primaria universal para toda la vida animal es la bomba de sodio-potasio, que ayuda a mantener el potencial celular.
+La bomba de sodio-potasio mantiene el potencial de membrana al sacar tres iones Na+ de la célula por cada dos iones K+ que entran en la célula.
+Otras fuentes de energía para el transporte activo primario son la energía redox y la energía fotónica (luz).
+Un ejemplo de transporte activo primario que usa energía redox es la cadena de transporte de electrones mitocondriales que usa la energía de reducción de NADH para mover protones a través de la membrana mitocondrial interna en contra de su gradiente de concentración.
+Un ejemplo de transporte activo primario que usa energía luminosa son las proteínas involucradas en la fotosíntesis que usan la energía de los fotones para crear un gradiente de protones a través de la membrana tilacoide y también para crear poder de reducción en forma de NADPH.
+La hidrólisis de ATP se utiliza para transportar iones de hidrógeno contra el gradiente electroquímico (de baja a alta concentración de iones de hidrógeno).
+La fosforilación de la proteína transportadora y la unión de un ion de hidrógeno inducen un cambio conformacional (forma) que impulsa a los iones de hidrógeno a transportarse contra el gradiente electroquímico.
+La hidrólisis del grupo fosfato unido y la liberación de iones de hidrógeno luego restauran el portador a su conformación original.
+Los transportadores de casete de unión de trifosfato de adenosina (transportadores ABC) comprenden una familia de proteínas grande y diversa, que a menudo funcionan como bombas impulsadas por ATP.
+Por lo general, hay varios dominios involucrados en la estructura general de la proteína transportadora, incluidos dos dominios de unión a nucleótidos que constituyen el motivo de unión a ATP y dos dominios transmembrana hidrófobos que crean el componente "poro".
+En términos generales, los transportadores ABC están involucrados en la importación o exportación de moléculas a través de la membrana celular; sin embargo, dentro de la familia de proteínas existe una amplia gama de funciones.
+En las plantas, los transportadores ABC a menudo se encuentran dentro de las membranas de las células y los orgánulos, como las mitocondrias, los cloroplastos y la membrana plasmática.
+Existe evidencia que respalda que los transportadores ABC de plantas juegan un papel directo en la respuesta a patógenos, el transporte de fitohormonas y la desintoxicación.
+Además, ciertos transportadores ABC de plantas pueden funcionar en la exportación activa de compuestos volátiles y metabolitos antimicrobianos.
+En las flores de petunia (Petunia hybrida), el transportador ABC PhABCG1 participa en el transporte activo de compuestos orgánicos volátiles.
+PhABCG1 se expresa en los pétalos de las flores abiertas.
+En general, los compuestos volátiles pueden promover la atracción de organismos dispersores de semillas y polinizadores, así como ayudar en la defensa, señalización, alelopatía y protección.
+Para estudiar la proteína PhABCG1, se crearon líneas de interferencia de ARN de petunia transgénica con niveles reducidos de expresión de PhABCG1.
+En estas líneas transgénicas se observó una disminución en la emisión de compuestos volátiles.
+Por lo tanto, es probable que PhABCG1 esté involucrado en la exportación de compuestos volátiles.
+Los experimentos posteriores incluyeron la incubación de líneas de control y transgénicas que expresaron PhABCG1 para probar la actividad de transporte que involucra diferentes sustratos.
+En última instancia, PhABCG1 es responsable del transporte mediado por proteínas de compuestos orgánicos volátiles, como el alcohol bencílico y el metilbenzoato, a través de la membrana plasmática.
+Además, en las plantas, los transportadores ABC pueden estar involucrados en el transporte de metabolitos celulares.
+Se supone que los transportadores ABC de resistencia a fármacos pleiotrópicos están involucrados en la respuesta al estrés y exportan metabolitos antimicrobianos.
+Un ejemplo de este tipo de transportador ABC es la proteína NtPDR1.
+Este transportador ABC único se encuentra en las células BY2 de Nicotiana tabacum y se expresa en presencia de inductores microbianos.
+NtPDR1 se localiza en la epidermis de la raíz y en los tricomas aéreos de la planta.
+Los experimentos que utilizaron anticuerpos dirigidos específicamente a NtPDR1 seguidos de transferencia Western permitieron esta determinación de localización.
+Además, es probable que la proteína NtPDR1 transporte activamente moléculas de diterpeno antimicrobiano, que son tóxicas para la célula en niveles elevados.
+En el transporte activo secundario, también conocido como transporte acoplado o cotransporte, se utiliza energía para transportar moléculas a través de una membrana; sin embargo, a diferencia del transporte activo primario, no hay acoplamiento directo de ATP.
+En su lugar, se basa en la diferencia de potencial electroquímico creada por el bombeo de iones dentro y fuera de la celda.
+Permitir que un ion o una molécula se mueva a favor de un gradiente electroquímico, pero posiblemente contra el gradiente de concentración donde está más concentrado hacia donde está menos concentrado, aumenta la entropía y puede servir como fuente de energía para el metabolismo (por ejemplo, en la ATP sintasa).
+La energía derivada del bombeo de protones a través de una membrana celular se utiliza con frecuencia como fuente de energía en el transporte activo secundario.
+En los seres humanos, el sodio (Na+) es un ion comúnmente cotransportado a través de la membrana plasmática, cuyo gradiente electroquímico se usa luego para impulsar el transporte activo de un segundo ion o molécula en contra de su gradiente.
+En bacterias y pequeñas células de levadura, un ion comúnmente cotransportado es el hidrógeno.
+Las bombas de hidrógeno también se utilizan para crear un gradiente electroquímico para llevar a cabo procesos dentro de las células, como la cadena de transporte de electrones, una función importante de la respiración celular que ocurre en la mitocondria de la célula.
+En agosto de 1960, en Praga, Robert K. Crane presentó por primera vez su descubrimiento del cotransporte sodio-glucosa como mecanismo de absorción intestinal de glucosa.
+El descubrimiento de Crane del cotransporte fue la primera propuesta de acoplamiento de flujo en biología.
+Los cotransportadores se pueden clasificar como simportadores y antiportadores dependiendo de si las sustancias se mueven en la misma dirección o en direcciones opuestas.
+En un antiportador, se bombean dos especies de iones u otros solutos en direcciones opuestas a través de una membrana.
+Se permite que una de estas especies fluya de una concentración alta a una baja, lo que produce la energía entrópica para impulsar el transporte del otro soluto desde una región de baja concentración a una alta.
+Un ejemplo es el intercambiador de sodio-calcio o antiportador, que permite que tres iones de sodio entren en la célula para transportar un calcio hacia afuera.
+Este mecanismo antiportador es importante dentro de las membranas de las células del músculo cardíaco para mantener baja la concentración de calcio en el citoplasma.
+Muchas células también poseen ATPasas de calcio, que pueden operar a concentraciones intracelulares más bajas de calcio y establecen la concentración normal o de reposo de este importante segundo mensajero.
+Pero la ATPasa exporta los iones de calcio más lentamente: solo 30 por segundo frente a los 2000 por segundo del intercambiador.
+El intercambiador entra en servicio cuando la concentración de calcio aumenta abruptamente o "picos" y permite una recuperación rápida.
+Esto muestra que un solo tipo de ion puede ser transportado por varias enzimas, que no necesitan estar activas todo el tiempo (constitutivamente), pero pueden existir para satisfacer necesidades específicas e intermitentes.
+Un simportador utiliza el movimiento cuesta abajo de una especie de soluto desde una concentración alta a una baja para mover otra molécula cuesta arriba desde una concentración baja a una concentración alta (en contra de su gradiente de concentración).
+Ambas moléculas son transportadas en la misma dirección.
+Un ejemplo es el simportador de glucosa SGLT1, que cotransporta una molécula de glucosa (o galactosa) a la célula por cada dos iones de sodio que importa a la célula.
+Este simportador se encuentra en el intestino delgado, el corazón, y el cerebro.
+También se encuentra en el segmento S3 del túbulo proximal en cada nefrona de los riñones.
+Su mecanismo se explota en la terapia de rehidratación de glucosa Este mecanismo utiliza la absorción de azúcar a través de las paredes del intestino para atraer agua junto con él.
+Los defectos en SGLT2 impiden la reabsorción efectiva de glucosa, lo que provoca glucosuria renal familiar.
+La endocitosis y la exocitosis son formas de transporte que mueven materiales dentro y fuera de las células, respectivamente, a través de vesículas.
+En el caso de la endocitosis, la membrana celular se pliega alrededor de los materiales deseados fuera de la célula.
+La partícula ingerida queda atrapada dentro de una bolsa, conocida como vesícula, dentro del citoplasma.
+A menudo, las enzimas de los lisosomas se utilizan para digerir las moléculas absorbidas por este proceso.
+Las sustancias que ingresan a la célula a través de la electrólisis mediada por señales incluyen proteínas, hormonas y factores de crecimiento y estabilización.
+Los virus ingresan a las células a través de una forma de endocitosis que implica que su membrana externa se fusione con la membrana de la célula.
+Esto obliga al ADN viral a entrar en la célula huésped.
+Los biólogos distinguen dos tipos principales de endocitosis: pinocitosis y fagocitosis.
+La exocitosis implica la eliminación de sustancias a través de la fusión de la membrana celular externa y una membrana vesicular.
+Un ejemplo de exocitosis sería la transmisión de neurotransmisores a través de una sinapsis entre células cerebrales.

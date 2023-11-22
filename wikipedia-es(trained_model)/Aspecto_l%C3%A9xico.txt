@@ -1,0 +1,8 @@
+El aspecto léxico de un verbo es la forma en que la eventualidad expresada por dicho verbo está estructurada en relación con el tiempo.
+Se trata de una propiedad inherente al significado del verbo e independiente del tiempo verbal y del aspecto gramatical con que se lo utilice en un contexto determinado.
+Aspecto léxico es la terminología habitual en español para referirse al Aktionsart (en alemán, “modo de acción”).
+Los predicados verbales se clasifican según tres oposiciones de características:
+La combinación de estas tres características produce una clasificación de los verbos, debida a Zeno Vendler (1957), en los siguientes tipos:
+La clasificación de Bernard Comrie (1976) añade los predicados semelfactivos, que son similares a los logros, pero no delimitados (atélicos) (como estornudar o tocar a la puerta).
+Otros autores contrastan los eventos puntuales únicos (semelfactivos) con los repetidos (iterativos).
+Existen muchas otras distinciones posibles: en su tratamiento del tema, por ejemplo, Elena de Miguel distingue entre predicados: 1) permanentes, frecuentativos, intermitentes, durativos o puntuales; 2) ingresivos, progresivos o terminativos; 3) intensivos incrementativos o atenuativos.

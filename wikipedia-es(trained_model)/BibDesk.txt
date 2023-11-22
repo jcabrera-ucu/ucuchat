@@ -1,0 +1,5 @@
+BibDesk es un programa de código abierto del paquete de software para Mac OS X, que se utiliza para administrar bibliografías y referencias al escribir ensayos y artículos.
+No es sobre todo una herramienta pensada para el uso con LaTeX, sino que también ofrece conectividad con una base de datos externa para importar, una variedad de medios para la exportación y la capacidad de vincular documentos locales.
+Lanzado por primera vez al público en 2002, BibDesk está en continuo desarrollo por diversos contribuyentes a través de Sourceforge.
+El desarrollador original era Michael McCracken, y gran parte del código ha sido posteriormente escrito por Adam Maxwell y Hofman Christiaan.
+También disponible directamente desde SourceForge, actualmente se incluye con la distribución MacTeX de TeX.

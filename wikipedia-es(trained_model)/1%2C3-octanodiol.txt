@@ -1,0 +1,19 @@
+El 1,3-octanodiol es un diol de fórmula molecular C8H18O2.
+Es isómero de posición del 1,2-octanodiol pero, a diferencia de este, no es un diol vecinal, ya que los dos grupos funcionales hidroxilo no están unidos a átomos de carbono adyacentes.
+Es una molécula quiral dado que el átomo de carbono de la posición 3 es asimétrico.
+El 1,3-octanodiol es un líquido incoloro, de olor rancio y sabor amargo.
+Tiene su punto de fusión a 68 °C y su punto de ebullición a 255 °C (a una presión inferior de 25 torr es 170 °C).
+Posee una densidad ligeramente inferior a la del agua, 0,980 g/cm³.
+El valor estimado del logaritmo de su coeficiente de reparto, logP ≃ 1,6, implica una solubilidad considerablemente mayor en disolventes apolares que en agua.
+El 1,3-octanodiol se puede sintetizar haciendo reaccionar 3-pentil-2-oxiranometanol con bis(2-metoxietoxi) aluminato de sodio durante diez horas.
+La solución acuosa resultante se vierte en éter dietílico y fluoruro de sodio, y luego se filtra a través de diatomita.
+Por último, el filtrado se concentra a presión reducida para obtener el diol.
+El enantiómero R‐octano‐1,3‐diol de este compuesto se ha sintetizado a partir del correspondiente hidroxicarbonilo, protegido con (1-metoxi-2,2,2-trifeniletil)dimetilsilano, por reacciones de Grignard y Diels-Alder en presencia de bromuro de magnesio.
+Este mismo isómero también se ha biosintetizado con metabolitos derivados de lipooxigenasa en manzanas almacenadas.
+En la naturaleza, este diol se ha identificado en manzanas y peras, si bien se ha constatado la distinta proporción de sus dos enantiómeros (R)- y (S)-.
+De hecho, en peras provenientes de Pyrus communis L., la proporción del enantiómero (R)- es superior al 99%, lo que también se ha observado para el isómero (Z)- del alquenodiol 5-octeno-1,3-diol.
+En este contexto, se ha desarrollado un método para la determinación de la cantidad total de 1,3-octanodioles en zumos de manzana; esta se lleva a cabo a través de 1,3-dioxanos mediante microextracción en fase sólida y cromatografía de gases de alta velocidad.
+Por otra parte, los alcanodioles lineales con 7 - 10 átomos de carbono y grupos hidroxilo en las posiciones 1 y 3, pueden ser empleados como agentes conservantes para cosméticos y productos de cuidado personal.
+Son estables, tienen bajo punto de fusión, tienen una solubilidad apreciable en agua y emulsionan fácilmente, lo que hace que sean fáciles de formular en composiciones destinadas a su uso en cosméticos y champúes.
+En este sentido, el 1,3-octanodiol es un compuesto recomendable para este fin, así como sus ésteres derivados.
+Los siguientes compuestos son isómeros del 1,3-octanodiol:

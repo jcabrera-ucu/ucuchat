@@ -1,0 +1,4 @@
+XETRA (del inglés Exchange Electronic Trading) es la plataforma electrónica de negociación de la Bolsa Alemana (Deutsche Börse), con base en Fráncfort (Alemania).
+Fue creada por la Bolsa de Fráncfort (Frankfurt Stock Exchange) en noviembre de 1997.
+Es un sistema caracterizado por su elevada transparencia, flexibilidad y liquidez.
+A través del sistema XETRA se negocia más del 90% del volumen de los valores del DAX y más de 16.000 valores, tanto acciones como warrants.

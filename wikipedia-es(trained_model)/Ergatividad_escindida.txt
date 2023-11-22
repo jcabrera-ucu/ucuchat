@@ -1,0 +1,11 @@
+La ergatividad escindida es una propiedad del sistema de marcaje de caso gramatical que presentan algunas lenguas, consistente en que en ciertos contextos los participantes de un verbo transitivo se marcan o tratan sintácticamente como en las lenguas ergativas y otros contextos se marcan o tratan como en las lenguas acusativas.
+De hecho muchas de las llamadas lenguas ergativas presentan frecuentemente ergatividad escindida.
+El alineamiento morfosintáctico es uno de los parámetros tipológicos más importantes de una lengua, ya que casi todas las demás áreas de la gramática se ven afectadas por el tipo de alineamiento.
+Generalmente se acepta que existen tres tipos de alineamientos básicos en las lenguas del mundo:
+Este alineamiento puede expresarse mediante procedimientos varios como adposiciones o partículas, afijos verbales, orden de los constituyentes, entonación o una combinación de esos procedimientos.
+Un ejemplo de ergatividad escindida condicionada por el tiempo/aspecto se encuentra en hindi-urdu, que tiene un caso ergativo para sujetos en los tiempos de pretérito y perfecto para verbos transitivos en voz activa, mientras que en el resto de los tiempos y aspectos los sujetos se marcan con el caso nominativo.
+Algunos ejemplos de oraciones que ilustran este fenómeno son:
+Los fenómenos de ergatividad escindida están condicionados generalmente por uno de estos factores:
+Recientemente Gerhard Jäger ha aplicado las ideas de la teoría evolutiva de juegos a la lingüística.
+Así, ha probado que, si se entiende la producción y comprensión de oraciones con verbos transitivos como un juego cooperativo en el que tanto el hablante como el oyente tratan de maximizar el entendimiento mutuo, entonces una estrategia óptima en lenguas con orden básico muy libre es un sistema de ergatividad escindida.
+Además de optimizar el juego, los cálculos de Jäger sobre un corpus sugieren que, en un sistema de ergatividad escindida, el número de morfemas por oración necesarios para distinguir el participante A (agente) del participante O (objeto) puede ser de algo menos de 0.30, mientras que una lengua ergativa pura o una lengua acusativa pura requieren 1.00.

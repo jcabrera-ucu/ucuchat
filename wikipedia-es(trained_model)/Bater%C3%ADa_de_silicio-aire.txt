@@ -1,0 +1,4 @@
+Una batería de silicio-aire es una nueva batería de la tecnología inventada por un equipo dirigido por el Prof. Ein-Eli en el Grand Technion Energy Program del Technion – Israel Institute of Technology.
+Las baterías de silicio-aire se crean a partir de oxígeno y silicio.
+Estas baterías podrían ser ligeras y tienen una alta tolerancia tanto a condiciones extremadamente secas, como a la alta humedad y proporcionarían un ahorro significativo en el coste y el peso debido a que el cátodo integrado de las pilas convencionales no se encuentra presente en las baterías de aire silicio.
+Las células experimentales descritas en la revista Electroquímica de Comunicaciones utilizan un líquido iónico a temperatura ambiente como electrolito, que produce entre 1 y 1,2 voltios a una densidad de corriente de 0,3 miliamperios por centímetro cuadrado de silicio.

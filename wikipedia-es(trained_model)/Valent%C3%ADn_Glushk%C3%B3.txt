@@ -1,0 +1,56 @@
+Valentín Petróvich Glushkó (en ruso Валентин Петрович Глушко) nació el 2 de septiembre de 1908 en Odesa, Ucrania, entonces Imperio ruso, y murió el 10 de enero de 1989.
+Fue un destacado ingeniero aeroespacial y uno de los tres “diseñadores jefes” soviéticos (junto a Vladímir Cheloméi y Serguéi Koroliov) de naves espaciales y cohetes durante la carrera espacial entre Estados Unidos y la URSS.
+Sus padres eran ucranianos, de orígenes cosacos y campesinos.
+Su madre trabajaba como enfermera.
+En la primavera de 1921, a la edad de 15 años, empezó a leer las novelas de Julio Verne De la Tierra a la Luna y Alrededor de la Luna, que le dejaron una fuerte impresión.
+En el verano de 1923 Glushkó vio un cohete experimental en exhibición en el Museo Naval.
+Le dejó una impronta poderosa, llevándole a diseñar ingenuamente su propio cohete con un primitivo sistema de recuperación.
+El 26 de septiembre de 1923 escribió una carta a Konstantín Tsiolkovski, el padre de la astronáutica soviética, y recibió una respuesta alentadora el 8 de octubre.
+Fue el principio de una correspondencia a lo largo de siete años y se sintió 'ungido' como sucesor de Tsiolkovski.
+Durante su vida en Odesa, Glushkó realizó experimentos con explosivos.
+Los recuperaba de casquillos de artillería que no habían explotado (abandonados por los Guardias Blancos tras su retirada durante la Revolución Rusa).
+De 1924 a 1925 escribió artículos acerca de la exploración de la Luna, así como del uso de los artefactos propuestos por Tsiolokovski para el vuelo espacial.
+En agosto de 1925 empezó a asistir a la Universidad del Estado de Leningrado, donde estudió física y matemáticas, pero encontró que los programas de especialización no eran de su interés.
+Salió sin graduarse en abril de 1929.
+De 1929 a 1930 siguió la investigación de cohetes en el Laboratorio de Dinámica de Gases.
+Una nueva área de investigación era el estudio de propulsores líquidos y motores eléctricos.
+Se unió al GIRD (Grupo de Investigación de Propulsión a Reacción), fundado en Leningrado en 1931.
+Glushkó fue arrestado por la NKVD e ingresó en la prisión de Butyrka el 23 de marzo de 1938.
+Serguéi Koroliov fue arrestado el 23 de junio, arresto basado en una denuncia hecha por Glushkó.
+Más tarde Koroliov averiguaría que había sido denunciando por Glushkó, y esto dio como resultado la enemistad entre ambos.
+El 15 de agosto de 1939 es sentenciado a ocho años en el Gulag.
+Sin embargo, Stalin reconoció la importancia de los ingenieros aeronáuticos mientras se preparaba para la guerra inminente contra Hitler.
+Un sistema de sharashkas (una forma especial de prisión para intelectuales, donde los reclusos trabajan en proyectos de defensa) se institucionalizó para aprovechar sus talentos.
+Glushkó encabezó el TsKB-4, una sharashka en Kazán que desarrollaba motores cohete para aeronaves.
+A pesar de las austeras condiciones, Glushkó empezó a probar su motor RD-1 de 900 kg de empuje para el uso en aviones de combate.
+Liberado en agosto de 1944 por un decreto especial, en diciembre de ese año es nombrado diseñador jefe de su propia oficina de diseño, la OKB-SD.
+Al final de la Segunda Guerra Mundial, Glushkó fue enviado a Alemania y Europa Oriental para estudiar el programa de cohetes alemán.
+En 1946 fue diseñador principal de su propia oficina, la OKB 456, y permaneció en ese puesto hasta 1974.
+Esta oficina jugaría un papel prominente en el desarrollo de motores cohete dentro de la Unión Soviética.
+Su OKB 456 (más tarde NPO Energomash) diseñó el motor RD-101 de 35 ton de empuje (340 kN) usado en el cohete R-2, el motor RD-110 de 120 ton de empuje (1180 kN) para el R-3 y el motor RD-103 de 44 toneladas de empuje (430 kN) usado en el R-5 (SS-3 Shyster).
+Posteriormente comenzó el desarrollo de los motores para el enorme cohete R-7, donde se encontró con el problema de inestabilidad en la combustión a altas temperaturas, que resolvió desarrollando los motores RD-107 y RD-108, cada uno con cuatro cámaras de combustión y cuatro toberas.
+En 1954 empezó a diseñar los motores para el R-12 (SS-4 Sandal), desarrollado por Mijaíl Yangel.
+También fue designado responsable de suministrar los motores cohete para Serguéi Koroliov, diseñador del R-9 (SS-8 Sasin).
+Entre sus diseños estaba el cohete de combustible líquido RD-170.
+En plena carrera a la Luna, Koroliov solicitó a Glushkó el desarrollo de motores criogénicos de ciclo cerrado para el gigantesco cohete N-1.
+Glushkó opinaba que era mejor desarrollar motores hipergólicos y aprovechar así toda la experiencia adquirida en el desarrollo de motores para misiles, en vez de comenzar todo desde cero.
+Entonces Glushkó se negó a trabajar en los motores del N-1 y se convirtió en un feroz crítico del cohete.
+Había que considerar además que Glushkó se encontraba desarrollando motores para misiles intercontinentales y los militares tenían preferencia sobre el programa espacial.
+Pero Koriolov prefería el combustible criogénico y no aceptó esta solución.
+A esta disputa contribuyó la vieja rivalidad entre los dos grandes constructores.
+En 1974, tras los exitosos alunizajes americanos, Leonid Brézhnev canceló el problemático programa lunar ruso.
+Despidió a Vasili Mishin y puso a Glushkó a cargo del OKB-1, la oficina de Koroliov, llamada después NPO Energía.
+El primer acto de Glushkó fue cancelar el cohete N-1, un programa que había criticado durante mucho tiempo.
+Se dedicó a la creación de una nueva línea de poderosos lanzadores que quiso utilizar para establecer una base lunar, para viajes interplanetarios, y para iluminar las ciudades polares soviéticas, entre otros posibles usos.
+Así comenzó el desarrollo del poderoso vector Energía.
+Glushkó se encontró con la necesidad de un motor de alto poder, como Koriolov en su momento, y emprendió el desarrollo del motor RD-170.
+Nuevamente surgió el problema de la estabilidad de la combustión a altas temperaturas, que Glushkó nunca superaría, y que resolvió utilizando cuatro cámaras de combustión y cuatro toberas, como había hecho en el RD-107 20 años antes.
+Esta elegante solución dio a los soviéticos el empuje que necesitaban para construir el supercohete Energía, y es el ejemplo más fino de las habilidades de Glushkó cuando daba lo mejor de sí.
+Sin embargo, la construcción del RD-170 debió superar muchas dificultades y demoras, hasta el punto de que casi se cancela todo el programa, pero Glushkó supo defender su posición y a su personal, superó los problemas y el RD-170 finalmente fue terminado, convirtiéndose en uno de los motores más poderosos jamás construidos y en un prodigio de la tecnología.
+Estas mismas dificultades explican su negativa a desarrollar un motor tan complejo cuando Koroliev se lo pidió, dado el poco tiempo de que se disponía y, lo que es determinante, por la subordinación del programa espacial soviético a la tarea defensiva.
+Glushkó fue colmado de honores en vida y su trabajo fue reconocido y admirado.
+Su vector Energía realizó dos vuelos.
+En el primero llevó la estación militar Polyus, que no alcanzó su órbita por un fallo en la propia estación y no en el lanzador, y en el segundo puso en órbita el transbordador Burán.
+Glushkó murió dos meses después de este vuelo.
+Sus restos descansan en el cementerio moscovita de Novodévichi.
+No alcanzó a ver el desmoronamiento de la Unión Soviética y, con ella, de todos sus proyectos.

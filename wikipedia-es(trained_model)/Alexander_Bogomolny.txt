@@ -1,0 +1,26 @@
+Alexander Bogomolny (4 de enero de 1948 – 7 de julio de 2018) fue un matemático americano israelí.
+Fue conocido por crear y mantener el sitio web educativo temático dedicado a la difusión de las matemáticas, denominado Cut-the-Knot (Corte-el-Nudo) para la Asociación Americana de Matemática (MAA) en línea.
+Escribió extensamente sobre aritmética, probabilidad, álgebra, geometría, trigononometría y juegos matemáticos.
+Fue un pionero en educación matemática en internet, habiendo Iniciado Corte-el-Nudo en octubre de 1996.
+Bogomolny obtuvo su maestría en matemáticas en la Universidad Estatal de Moscú en 1971.
+De 1971 a 1974 fue investigador junior en el Instituto de Electrónica y Matemáticas de Moscú.
+Emigró a Israel y se convirtió en senior en el Laboratorio de Investigación de Lake Kinneret en Tiberiades, Israel (1974–1977) y consultor de software en la Universidad Ben Gurion en el Negev, Beerseba, Israel (1976–1977).
+De 1976 a 1983 fue Instructor principal e investigador en la Universidad hebrea de Jerusalén.
+Obtuvo su doctorado en la Universidad hebrea en 1981.
+Su disertación fue sobre "Una Nueva Solución Numérica para el problema del Sello" y su asesor de tesis fue Gregory I. Eskin.
+En 1981 y 1582 también fue profesor visitante en la Universidad Estatal de Ohio, donde enseñó matemáticas de pregrado.
+De 1984 a 1889 fue profesor de Matemáticas en la Universidad de Iowa, y desde julio de 1987 a noviembre de 1290, fue Vicepresidente de Desarrollo de Software en CompuDoc, Inc.
+Corte-el-nudo (CTC) fue un sitio web educativo gratuito financiado con publicidad que Bogomolny mantuvo desde 1996 a 2017.
+Se dedicó a la exposición popular de diversos temas de matemáticas.
+El sitio fue diseñado para maestros, niños y padres, y cualquier otra persona con curiosidad por las matemáticas, con el objetivo de educar, estimular el interés, y provocar curiosidad.
+Su nombre es una referencia a la leyenda de la solución de Alejandro Magno al nudo gordiano.
+CTC ganó más de 20 premios de publicaciones científicas y educativas, incluyendo el Premio Web Scientific American en 2003, el Premio de la Guía de Internet de la Enciclopedia Británica, y el Premio NetWatch de Science.
+El sitio era notablemente prolífico y contenía un extenso análisis de muchos de los problemas clásicos de las matemáticas recreativas, como el tamiz de Apolonio, el teorema de Napoleón, las espirales logarítmicas, el prisionero de Benda, el teorema de Pitot, y el problema del mono y los cocos.
+Una vez, en un recorrido de fuerza, CTC publicó 122 pruebas del teorema de Pitágoras.
+Bogomolny lograba entretener a sus lectores, pero su objetivo más profundo era educar.
+Escribió un manifiesto para CTC en que dijo que "Juzgar a las matemáticas por su valor pragmático es como juzgar la sinfonía por el peso de su puntuación."
+Describe el sitio como "un recurso que ayudaría a aprender, si no las matemáticas en sí mismas, al menos, a encontrar formas de apreciar su belleza."
+Y se preguntaba por qué es aceptable entre personas bien educadas "confesar su disgusto y nulo entendiendo de las Matemáticas en su conjunto."
+Muchas ideas matemáticas están ilustradas por applets.
+CTK wiki (desarrollado por PmWiki) extiende el sitio principal con contenido matemático adicional, especialmente con fórmulas más complicadas que las disponibles en el sitio principal.
+Bogomolny tuvo que dejar la academia porque tenía un problema de audición incorregible y estaba prácticamente sordo en los años últimos.

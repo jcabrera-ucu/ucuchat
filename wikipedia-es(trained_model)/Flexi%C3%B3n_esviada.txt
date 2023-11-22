@@ -1,0 +1,8 @@
+La flexión compuesta es un tipo de solicitación de una viga o un prisma mecánico sometido a un momentos flectores con componente diferente de cero sobre las dos direcciones principales de tal manera que la dirección de la fibra neutra no coincide con ningún plano principal de inercia.
+En una pieza sometida a flexión compuesta la tensión normal se puede estimar por la fórmula de Navier:
+donde:
+La ecuación anterior sólo puede usarse si se están usando ejes principales para los segundos momentos de área, si se emplean ejes cualesquiera no necesariamente principales la fórmula completa es:
+Donde:
+También se dice que una sección se encuentra en un estado de flexión esviada o flexión sesgada cuando no se conoce a priori la dirección de la fibra neutra.
+Esta situación se llama flexión compuesta cuando además de momento flector incluye la concurrencia de esfuerzo axial según el Eurocódigo 3.
+En este caso se provoca una excentricidad de cargas que produce un momento flector (axialidad por excentricidad) y la resistencia de la sección es menor que en el caso contrario.

@@ -1,0 +1,5 @@
+Una antena cíborg es un órgano sensorial implantable en el cráneo humano.
+La antena, compuesta por un sensor de luz en un extremo y un implante de chip de vibración sonora wireless en el otro extremo, permite comunicación y transmisión de imágenes, sonido o video directamente de cabeza a cabeza.
+La antena usa vibraciones audibles en el cráneo para recibir información.
+Eso incluye mesuras de radiación electromagnética, llamadas telefónicas, música, así como vídeos o imágenes transmitidas a través de vibraciones audibles.
+La conexión wifi de la antena también permite la recepción de señales y datos desde satélites.

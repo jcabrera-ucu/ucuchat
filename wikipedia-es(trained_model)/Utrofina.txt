@@ -1,0 +1,5 @@
+La utrofina, al igual que su homólogo, la distrofina, es una poroteína de unión a actina F, normalmente en su variedad en haces contráctiles.
+Su función es vital, pues ancla las placas de unión o el sarcómero (dependiendo del tipo de haz contráctil estudiado) a la membrana plasmática, creando una unidad coordinada.
+Por tanto, une o ancla el citoesqueleto a la membrana.
+En Homo sapiens, viene codificada por el gen UTRN.
+En su estructura proteica cuaternaria podemos observar que es un homodímero.

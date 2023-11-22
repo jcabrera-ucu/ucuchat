@@ -1,0 +1,10 @@
+Un anillo anticorona es un toroide, normalmente de material conductor ubicado en las inmediaciones de los terminales de los dispositivos de alta tensión.
+Están aislados eléctricamente y se suelen utilizar junto a cadenas de aisladores.
+La función del anillo anticorona es la de distribuir y homogeneizar la intensidad del campo eléctrico alrededor del aislador en la zona inferior, donde la distribución del voltaje aplicado es mayor y eliminar posibles causas de deterioro del material y acumulación de contaminantes en la superficie del aislador.
+Los anillos anticorona se usan habitualmente en los generadores de Van de Graaff, aisladores eléctricos, generadores de van de Cockcroft–Walton, aceleradores de partículas, aisladores huecos de alto voltaje, y otros equipos de alto voltaje.
+Los anillos anticorona se instalan sobre todo en los aisladores de líneas eléctricas de muy alto voltaje.
+Los fabricantes sugieren un anillo anticorona al final de la cadena de aisladores por encima de 230 kV y en ambos extremos de la cadena por encima de 500 kV.
+Los anillos anticorona prolongan la vida de la superficie de los aisladores al suprimir el efecto corona, un serio problema en localizaciones de gran altitud, donde el aire se hace menos denso.
+Los anillos anticorona también pueden ser instalados en aisladores de antenas de radiotransmisores de alta potencia.
+Aunque, sin embargo, incrementan la capacitancia de los aisladores.
+Los tapones anticorona son tapas con bordes redondeados; que se montan en los finales de los aisladores desarrollando las mismas funciones que los anillos anticorona.

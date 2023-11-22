@@ -1,0 +1,50 @@
+El transporte ferroviario en Europa se caracteriza por su diversidad, tanto técnica como de infraestructuras.
+Las redes ferroviarias de Europa occidental y central suelen estar bien mantenidas y desarrolladas, mientras que las de Europa oriental, septentrional y meridional suelen tener menos cobertura y/o problemas de infraestructura.
+Las redes ferroviarias electrificadas funcionan con una plétora de voltajes diferentes de CA y CC que varían de 750 a 25.000 voltios, y los sistemas de señalización varían de un país a otro, lo que dificulta el tráfico transfronterizo.
+La Unión Europea pretende facilitar las operaciones transfronterizas e introducir la competencia en las redes ferroviarias nacionales.
+Los Estados miembros de la UE pudieron separar la prestación de servicios de transporte y la gestión de la infraestructura gracias a la Directiva Ferroviaria Europea Única de 2012.
+Por lo general, las empresas ferroviarias nacionales se dividieron en divisiones separadas o empresas independientes para las operaciones de infraestructura, de pasajeros y de mercancías.
+Las operaciones de pasajeros pueden dividirse a su vez en servicios de larga distancia y regionales, ya que los servicios regionales suelen operar bajo obligaciones de servicio público (que subvencionan rutas no rentables pero socialmente deseables), mientras que los servicios de larga distancia suelen operar sin subvenciones.
+En Europa, solamente el 18% de las mercancías viajan por ferrocarril.
+Contrástese, por ejemplo, con EE.UU, donde el 40% de las mercancías se transportan en rieles.
+Alternativamente, considérese que mientras que Europa transporta 400 millardos de toneladas-kilómetro (Gt-km) por año por ferrovía, Rusia transporta 2351 Gt-km, y EE.UU.
+2863 Gt-km.
+El Índice de Rendimiento Ferroviario Europeo de 2017 clasificó el rendimiento de los sistemas ferroviarios nacionales de la siguiente manera:
+Mientras que la mayoría de los ferrocarriles europeos utilizan un ancho de vía estándar de 1.435 mm, en algunos otros países, como en la península ibérica, o en países cuyos territorios formaban parte del Imperio Ruso y la Unión Soviética, existe un ancho de vía mayor.
+Por ejemplo, los países de Europa del Este, como Rusia, Ucrania, Armenia, Moldavia, Bielorrusia, Finlandia y los países bálticos (Estonia, Letonia y Lituania) utilizan un ancho de vía de 1.520 mm o 1.524 mm (también conocido como ancho ruso).
+En España y Portugal se utilizan 1.668 mm (también conocido como ancho de vía ibérico).
+La razón de los diferentes anchos de vía entre países se debe principalmente a la idea de evitar que los trenes de un país invasor circulen por "tu" vía, pero históricamente la competencia entre ferrocarriles y las ventajas percibidas de ciertos anchos también han desempeñado un papel en las normas divergentes.
+Irlanda utiliza un ancho de vía un tanto inusual, de 1.600 mm, que se denomina en el país "ancho de vía irlandés" (pero es una isla sin enlaces transfronterizos externos).
+Asimismo, la electrificación de las líneas varía según los países.
+En Alemania, Austria, Suiza, Noruega y Suecia se utilizan 15 kV CA desde 1912, mientras que en los Países Bajos se utilizan 1500 V CC y en Francia 1500 V CC.
+Francia y Croacia también utilizan 25 kV CA, Bélgica, Italia y Eslovenia utilizan 3 kV CC.
+Todo esto hace que la fabricación de vehículos verdaderamente paneuropeos sea una tarea difícil y, hasta los recientes avances en la construcción de locomotoras, se descartaba en su mayoría por ser poco práctica y demasiado cara.
+El desarrollo de una red ferroviaria europea de alta velocidad está superando algunas de estas diferencias.
+Todas las líneas de alta velocidad fuera de Rusia, incluidas las construidas en España y Portugal, utilizan vías de 1.435 mm. Asimismo, todas las líneas de alta velocidad europeas, fuera de Alemania, Austria e Italia, utilizan una electrificación de 25 kV de corriente alterna (la electrificación del ferrocarril de alta velocidad en Italia es mixta de 3 kV de corriente continua y 25 kV de corriente alterna).
+Esto significa que en 2020 los trenes de alta velocidad podrán viajar de Italia al Reino Unido, o de Portugal a los Países Bajos, sin necesidad de sistemas de multitensión ni rupturas de gálibo, o podrían hacerlo si no tuvieran que pasar de una línea de alta velocidad a otra por líneas "clásicas" que utilizan una tensión y/o frecuencia diferentes.
+La multiplicidad de sistemas de señalización incompatibles es otro obstáculo para la interoperabilidad.
+Los países de la UE tienen 19 sistemas de señalización diferentes.
+El ETCS, un sistema de señalización unificado, es el proyecto de la UE para unificar la señalización en toda Europa.
+La especificación se redactó en 1996 en respuesta a la Directiva 96/48/CE de la UE.
+El ETCS se desarrolla en el marco de la iniciativa del Sistema Europeo de Gestión del Tráfico Ferroviario (ERTMS), y está siendo probado por múltiples empresas ferroviarias desde 1999.
+Todas las nuevas líneas de alta velocidad y las líneas principales de mercancías financiadas parcialmente por la UE están obligadas a utilizar la señalización ETCS de nivel 1 o 2.
+El gálibo de las líneas principales de Gran Bretaña, casi todas ellas construidas antes de 1900, es en general más pequeño que en la Europa continental, donde el gálibo de Berna (Gabarit passe-partout international, PPI), ligeramente mayor, se acordó en 1913 y entró en vigor en 1914.
+Por ello, los trenes británicos (de pasajeros) tienen un ancho de vía notablemente menor y unos interiores más pequeños, a pesar de que la vía es de ancho estándar.
+Esto se traduce en un aumento de los costes de compra de los trenes, ya que deben ser diseñados específicamente para la red británica, en lugar de ser comprados "listos para usar".
+Por ejemplo, los nuevos trenes para HS2 tienen una prima del 50% aplicada a los conjuntos "clásicos compatibles" que podrán circular por el resto de la red, lo que significa que costarán 40 millones de libras cada uno en lugar de los 27 millones de libras del material cautivo (construido según las normas europeas y que no puede circular por otras líneas), a pesar de que el material cautivo es más grande.
+La Comisión de la Unión Europea ha publicado una ETI (Especificaciones Técnicas de Interoperabilidad) que establece las alturas estándar de los andenes para los escalones de pasajeros en los trenes de alta velocidad.
+Estas alturas estándar son 550 y 760 mm.
+Los principales trenes internacionales que operan en Europa son:
+Además, hay muchos trenes transfronterizos a nivel local.
+Algunas líneas locales, como la de Gronau a Enschede entre Alemania y los Países Bajos, funcionan con el sistema de señalización del país del que procede la línea, sin conexión con la red del otro país, mientras que otros servicios ferroviarios, como el Saarbahn entre Alemania y Francia, utilizan vehículos especialmente equipados que tienen un certificado para circular por ambas redes.
+Cuando hay una diferencia de electrificación entre dos países, se pueden utilizar estaciones fronterizas con catenarias conmutables.
+La estación de Venlo, en los Países Bajos, es un ejemplo de ello: la catenaria de las vías puede conmutar entre la corriente continua holandesa de 1500 V y la corriente alterna alemana de 15 kV, lo que significa que es necesario cambiar de tracción (o reconfigurar un vehículo de tensión múltiple) en la estación.
+Por otro lado, un número cada vez mayor de locomotoras puede cambiar de tensión "sobre la marcha" sin detenerse, normalmente con pantógrafos bajados temporalmente, por ejemplo en el viaducto de Moresnet, donde los trenes de mercancías cambian de tensión entre los 3 kV DC belgas y los 15 kV 16,7 Hz alemanes.
+Una tercera posibilidad son las redes que utilizan tensiones del mismo orden de magnitud, como Bélgica (3 kV CC) y los Países Bajos (1,5 kV CC): los trenes belgas con destino a Maastricht o Roosendaal (estaciones neerlandesas situadas cerca de la frontera) pueden utilizar la tensión neerlandesa más baja, aunque con una potencia reducida, en el corto tramo desde la frontera hasta su estación terminal neerlandesa y de vuelta.
+Las subvenciones ferroviarias de la UE ascendieron a 73.000 millones de euros en 2005.
+Las subvenciones varían mucho de un país a otro, tanto en su cuantía como en la forma de distribuirlas: algunos países conceden subvenciones directas al proveedor de la infraestructura y otros a las empresas operadoras de trenes, a menudo a través de obligaciones de servicio público.
+En general, los trenes de larga distancia no están subvencionados.
+El Índice de Rendimiento Ferroviario Europeo de 2017 encontró una correlación positiva entre el coste público y el rendimiento de un determinado sistema ferroviario y las diferencias en el valor que los países reciben a cambio de su coste público.
+Los informes de rendimiento de 2017 y 2015 encontraron una fuerte relación entre la eficiencia de los costes y la parte de las subvenciones asignadas a los administradores de infraestructuras.
+Una estructura de subvenciones transparente, en la que las subvenciones públicas se proporcionan directamente al administrador de la infraestructura en lugar de repartirse entre múltiples empresas operadoras de trenes, se correlaciona con un sistema ferroviario de mayor rendimiento.
+El Índice de 2017 reveló que Dinamarca, Finlandia, Francia, Alemania, los Países Bajos, Suecia y Suiza obtienen un valor relativamente alto por su dinero, mientras que Luxemburgo, Bélgica, Letonia, Eslovaquia, Portugal, Rumanía y Bulgaria obtienen un rendimiento inferior en relación con la relación media entre el rendimiento y el coste entre los países europeos.

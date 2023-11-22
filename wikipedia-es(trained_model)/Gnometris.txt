@@ -1,0 +1,8 @@
+Gnometris, también llamado Quadrapassel, es un juego del entorno de escritorio GNOME y forma parte del kit de juegos de GNOME Games que viene incluido en el software de GNOME.
+Gnometris es un sencillo emulador del conocido juego Tetris.
+La temática del juego es simple e idéntica a la del tetris: sucesivamente y de manera aleatoria van cayendo piezas a una superficie, tales piezas deben administrarse de forma tal que su acomodación forme líneas rectas horizontales llenas; cuando en la superficie se ha conseguido llenar una línea del tablero ésta se borra y las demás piezas caen un nivel abajo liberando espacio para las demás piezas.
+El juego concluye cuando la torre de piezas supera el límite del tablero, momento en el que se despliega el cuadro de puntaje donde se procederá a anota un nombre de usuario y dejar registrados en la máquina el puntaje obtenido.
+La construcción es la edificación que se va armando en el transcurso del juego, su forma es enteramente dinámica y dependerá de la forma en que la vaya erigiendo el propio usuario, y del juego, pues su algoritmo hace que se lancen piezas al azar y cada una de un color aleatorio, si se especifica en las opciones.
+Al ser una versión del tetris, su práctica (siempre y cuando se con moderación) puede agilizar los procesos mentales y fortalecer ciertas áreas del cerebro encargadas de la destreza; contribuye al desarrollo del pensamiento rápido induciendo prácticas que corresponden a la toma de decisiones.
+Mucha gente suele ver al tetris como un simple juego sin prestar mucha atención a lo que su sistema de estrategia y táctica permite, subconscientemente, desarrollar y mejorar en el cerebro y la coordinación de ideas.
+Quadrapassel

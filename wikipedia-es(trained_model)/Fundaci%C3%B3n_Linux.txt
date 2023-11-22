@@ -1,0 +1,12 @@
+La Fundación Linux (en inglés Linux Foundation) es un consorcio tecnológico sin ánimo de lucro establecido para adoptar el crecimiento de Linux.
+Este nace de la unión de Free Standards Group (FSG) y Open Source Development Labs (OSDL) el 21 de enero de 2007.
+Estos dos consorcios tenían los mismos objetivos dentro de la adaptación del mercado y la estandarización de los componentes físicos y lógicos para el sistema operativo GNU/Linux.
+El 21 de enero de 2007, Jim Zemlin fue nombrado su primer director ejecutivo.
+Dentro de los miembros iniciales se encuentran setenta, entre los que figuran distribuidores de software y hardware como Hewlett-Packard, IBM, Novell, Oracle y Red Hat, así como múltiples universidades y usuarios finales.
+El grupo de trabajo OpenPrinting es un sitio web que pertenece a la Fundación Linux que proporciona documentación y apoyo de software para la impresión bajo Linux.
+Fundado como LinuxPrinting.org, en 2006 pasó a formar parte del Free Standards Group.
+Desarrollan una base de datos que lista una amplia variedad de impresoras de distintos fabricantes.
+La base de datos permite que la gente pueda informar sobre el soporte y la calidad de cada impresora, así como sobre el soporte dado a Linux por cada vendedor de impresoras.
+También han creado un script foomatic (anteriormente denominado cupsomatic) que se conecta a Common Unix Printing System (CUPS).
+La Fundación Linux, promueve el curso "Fundamentos de Administración de Sistemas Linux" (LFS201) en castellano, al tiempo que ha anunciado que muy pronto también lo harán en idioma portugués.
+Es un curso en línea que se puede tomar desde cualquier parte del mundo y que certifica que el alumno domina las habilidades de administrador de sistemas Linux, en algunas de sus principales distribuciones (Red Hat, SUSE, Debian/Ubuntu).

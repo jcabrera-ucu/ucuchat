@@ -1,0 +1,24 @@
+En sistemas operativos, el bloqueo mutuo (también conocido como interbloqueo, traba mortal, deadlock, abrazo mortal) es el bloqueo permanente de un conjunto de procesos o hilos de ejecución en un sistema concurrente que compiten por recursos del sistema o bien se comunican entre ellos.
+A diferencia de otros problemas de concurrencia de procesos, no existe una solución general para los interbloqueos.
+Todos los interbloqueos surgen de necesidades que no pueden ser satisfechas, por parte de dos o más procesos.
+En la vida real, un ejemplo puede ser el de dos niños que intentan jugar al arco y flecha, uno toma el arco, el otro la flecha.
+Ninguno puede jugar hasta que alguno libere lo que tomó.
+El Bloqueo mutuo también puede ser representado usando grafos dirigidos, donde el proceso es representado por un cuadrado y el recurso, por un círculo.
+Cuando un proceso solicita un recurso, una flecha es dirigida desde el proceso al recurso.
+En cambio, cuando un recurso está asignado a un proceso, una flecha es dirigida del recurso al proceso.
+En la figura del ejemplo, se pueden ver dos procesos diferentes (A y B), cada uno con un recurso diferente asignado (R1 y R2).
+En este ejemplo clásico de bloqueo mutuo, es fácilmente visible la condición de espera circular en la que los procesos se encuentran, donde cada uno solicita un recurso que está asignado a otro proceso.
+También conocidas como condiciones de Coffman por su primera descripción en 1971 en un artículo escrito por E. G. Coffman.
+Estas condiciones deben cumplirse simultáneamente y no son totalmente independientes entre ellas.
+Sean los procesos P0, P1, ..., Pn y los recursos R0, R1, ..., Rm:
+Un método para detectar dicho Bloqueo Mutuo es el Algoritmo de grafos de asignación de recursos.
+Los bloqueos mutuos pueden ser evitados si se sabe cierta información sobre los procesos antes de la asignación de recursos.
+Para cada petición de recursos, el sistema controla si satisfaciendo el pedido entra en un estado inseguro, donde puede producirse un bloqueo mutuo.
+De esta forma, el sistema satisface los pedidos de recursos solamente si se asegura que quedará en un estado seguro.
+Para que el sistema sea capaz de decidir si el siguiente estado será seguro o inseguro, debe saber por adelantado y en cualquier momento el número y tipo de todos los recursos en existencia, disponibles y requeridos.
+Existen varios algoritmos para evitar bloqueos mutuos:
+Los bloqueos mutuos pueden prevenirse asegurando que no suceda alguna de las condiciones necesarias vistas anteriormente.
+Un livelock es similar a un deadlock, excepto que el estado de los dos procesos envueltos en el livelock constantemente cambia con respecto al otro.
+Livelock es una forma de inanición y la definición general solo dice que un proceso específico no está procesando.
+En un ejemplo del mundo real, un livelock ocurre por ejemplo cuando dos personas, al encontrarse en un pasillo angosto avanzando en sentidos opuestos, y cada una trata de ser amable moviéndose a un lado para dejar a la otra persona pasar, pero terminan moviéndose de lado a lado sin tener ningún progreso, pues ambos se mueven hacia el mismo lado, al mismo tiempo.
+Livelock es un riesgo con algunos algoritmos que detectan y recuperan los interbloqueos, pues si más de uno toma cartas en el asunto, la detección del interbloqueo puede ser disparada continuamente; pudiendo ser arreglado asegurándose que solo un proceso (escogido al azar o por prioridad) tome acción.

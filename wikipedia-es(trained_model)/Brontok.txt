@@ -1,0 +1,8 @@
+El gusano Brontok es un virus informático con características de ataque, gusano y troyano que afecta ordenadores con Windows y puede ser considerado como una amenaza informática grave si no se dispone de protección antivirus.
+Este virus informático dispone de una gran variedad de alias:
+Brontok.CV, BackDoor.Generic.1138, Email-Worm.Win32.Brontok.q, Generic.Brontok.26CDB61D, I-Worm.Brontok.c, I-Worm/VB.IM, W32.Brontok.Q, W32/Brontok.C@mm, W32/Brontok.CM@mm, W32/Brontok.H.worm, W32/Rontokbro.gen@MM, W32/Rontokbro@MM, W32/Suspicious_M.gen, Win32/Brontok.AS@mm, Win32/Brontok.CV, Win32/Robknot!generic, Win32/Robknot.Variant!Worm, Win32:Brontok-I, Worm.Brontok.c, Worm.Brontok.E, Worm/Brontok.C
+El malware disponía de una imagen que cada vez que el sistema arrancaba se mostraba.
+La imagen tiene el mismo texto sin sentido que el que se incluia en el correo.
+El virus fue creado en Indonesia en 2005 y se cree que el impacto no fue muy grave.
+Brontok puede eliminarse con el último software antivirus actualizado, aunque hay varias formas independientes disponibles por los proveedores de antivirus.
+El virus fue creado por JowoBot y afecta principalmente a Windows XP

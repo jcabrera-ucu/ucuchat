@@ -1,0 +1,13 @@
+Un auto clicker es un tipo de software o macro que puede automatizar los toques de un ratón en un elemento de pantalla del ordenador.
+Los auto clickers pueden ser encendidos para repetir toques que se han grabado antes, o generado de varios ajustes actuales.
+Los auto clickers pueden ser tan sencillos como un programa que simula los clics de ratón.
+Este tipo de auto clicker es bastante genérico y a menudo podrá trabajar junto a cualquier otro programa del ordenador que corra al mismo tiempo y actuando como si un botón de ratón físico fuera pulsado.
+Algunos auto clickers más complejos pueden similarmente ser generales, pero a menudo son personalizados por el uso para un programa particular y puede implicar la lectura de la memoria.
+Tales auto clickers pueden dejar el usuario para automatizar más o todas las funciones del ratón, así como simular un conjunto lleno de claves del teclado.
+Auto clickers personalizados pueden tener un alcance más estrecho que un auto clicker genérico.
+Auto clickers, también llamados automatizaciones de programas de software, también pueden tener las características que habilitan la reacción de respuestas condicionales, así como un teclado.
+Un auto clicker tiene diferentes usos dependiendo del tipo de tarea del que es requerido ser automatizado.
+Los siguientes son algunos ejemplos donde los auto clickers pueden ser usados.
+En algunos aparatos el hardware tiene un auto clicker integrado.
+Usualmente los ratones de 'gamer' pueden tener auto clickers en ellos, con una función de clic automatizado con una función de customización de velocidad de clic.
+Similarmente, algunos joysticks vienen con una función de fuego automático, que usualmente puede ser ajustados con un control que pone la velocidad del fuego automático.

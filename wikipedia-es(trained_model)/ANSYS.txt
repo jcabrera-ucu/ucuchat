@@ -1,0 +1,45 @@
+ANSYS, Inc. Fue fundada en 1970 (Swanson Analysis Systems, Inc.) utilizando aproximadamente 1700 empleados.
+La mayoría con experiencia en elemento finito y dinámica de fluido computacional.
+ANSYS desarrolla, comercializa y presta soporte a la ingeniería a través de software de simulación para predecir como funcionará y reaccionará determinado producto bajo un entorno real.
+ANSYS continuamente desarrolla tecnología enfocada en la simulación y a través del tiempo ha adquirido otros software para ofrecer un paquete de aplicaciones que pueden ser unificadas para los problemas más complejos.
+Además presta soporte a la industria.
+ANSYS, Inc. es un software de simulación ingenieril.
+Está desarrollado para funcionar bajo la teoría de elemento finito para estructuras y volúmenes finitos para fluidos.
+En 2008, el National Institute of Standards and Technology de Estados Unidos utilizó ANSYS para modelar los acontecimientos que llevaron al inicio del desplome del edificio World Trade Center 7 durante los atentados del 11 de septiembre de 2001.
+En 1963, Dr. John Swanson trabajó en los laboratorios nucleares de Westinghouse en Pittsburgh.
+Él era el responsable del análisis del reactor nuclear junto a todos su componentes.
+Él utilizó códigos computacionales para predecir las curvas de esfuerzos del rotor del reactor, el cual se veía afectado tanto por la presión como por la temperatura.
+Con el pasar de los años, Sawnson fue afinando el método para poder ser utilizado bajo geometría en 3-D, análisis no lineales para deformaciones plásticas, análisis dinámico, y los códigos para transferencia de calor fueron avances realizados por Wilson at Aerojet.
+El código original desarrollado por John incluía un análisis 2D axisimétrico, John quería combinar estos avances así como eliminar códigos que se repetían en la resolución de ecuaciones y en el post-procesamiento.
+Swanson quería una integración que hiciera del código una herramienta para disminuir el tiempo de cálculo y análisis de los ingenieros de Westinghouse y otra compañías, esta ahorraría mucho dinero a los que la utilizaran, pero John no estaba de acuerdo, de tal forma Swanson abandono la compañía en 1969, pero no sin antes haber mandado el código a COSMIC para el poder retomar el proyecto más tarde por su cuenta.
+Swanson Analysis Systems, Inc fue incorporada a mediados de los años 1970 en la casa de Swanson por otro lado John continuaba trabajando en STASYS (el software que venía desarrollando para Westinghouse).
+Con el tiempo él se convirtió en un consultor y no en un empleado y pidió permiso para integrar los avances que había hecho Swanson en STASYS y Westinghouse no tuvo ningún problema debido a que lo que ellos querían era la solución efectiva de sus problemas.
+De esta forma los avances de Swanson y de John se unieron acelerando el proceso y el avances de ANSYS.
+La primera versión de ANSYS fue programada a finales de 1970.
+Westinghouse fue el primer cliente que usaba ANSYS como programa principal de análisis en el diseño.
+Según el Dr. Swanson, el nombre ANSYS se escogió porque los abogados le aseguraron a Swanson que ANSYS era solo un nombre y que nada podía afectar los derechos de autor sobre el código ya creado.
+Durante ese periodo todos los programas eran escritos sobre tarjetas perforadas.
+La instalación del programa incluía el traslado de personal para hacer las adaptaciones necesarias a la máquina para poder insertar las tarjetas en los grandes computadoras.
+Dr. Peter Kohnke conoció a John Swanson a principios de 1971.
+Swanson le ofreció trabajo a Kohnke en otoño de 1971, y éste finalmente aceptó en 1973 y hasta diciembre de 2005 aún trabaja en ANSYS Inc.
+Desde finales de los años 1950 y principios de los años 1960 diferentes métodos para el análisis basado en el Método de los elementos finitos han sido implementados, pero casi siempre basados en fuerzas y no en desplazamientos.
+Los calculadores de elementos finitos comerciales aparecieron en la década de 1970, utilizaban toda la capacidad de cómputo de los grandes computadores centrales o mainframes y estaban dirigidos esencialmente a las industrias aeronáutica, automotriz, de defensa y nuclear.
+En la actualidad, este tipo de programas corre en computadores de escritorio y realizan al mismo tiempo el análisis de diferentes fenómenos, como por ejemplo, termomecánica, electromecánica y mecánica estructural.
+Algunos de los productos disponibles son ABAQUS de Dassault Systèmes, FLUENT, Comsol Multiphysics y ANSYS.
+Cada licencia para alguno de estos sistemas cuesta en el orden de los miles de euros.
+En el mundo del software libre existe Open FEM desarrollado en conjunto por el INRIA y la empresa SDTools y funciona bajo matlab y scilab.
+El mercado para este tipo de software crece a una tasa de 11% anual y entre los sistemas disponibles, los de Ansys.Inc ocupan en Europa la más grande parte de mercado, específicamente en el dominio de la distribución de software de simulación y de cálculo, siendo Alemania y Francia los mayores consumidores de estos productos (cifras de 2007).
+ANSYS está dividido en tres herramientas principales llamados módulos: pre-procesador (creación de geometría y mallado), procesador y post-procesador.
+Tanto el pre-procesador como el post-procesador están provistos de una interfaz gráfica.
+Este procesador de elemento finito para la solución de problemas mecánicos incluye: análisis de estructuras dinámicas y estáticas (ambas para problemas lineales y no lineales), análisis de transferencia de calor y fluidodinámica, y también problemas de acústicas y de electromagnetismo.
+Normalmente el uso de estas herramientas se utiliza simultáneamente logrando mezclar problemas de estructuras junto a problemas de transferencia de calor como un todo.
+Este software es usado también en ingeniería civil y eléctrica, física y química.
+Permite la asociación de distintas tecnologías para el desarrollo de un producto sin abandonar una única plataforma.
+Además su integración permite la asociación con los software más avanzados de CAD.
+Por último, su sistema de integración permite incluirse sin dificultad en sistemas de documentación propios de cada empresa.
+ANSYS permite que los clientes instalen una única aplicación para la solución de un problema específico.
+A medida que el usuario avanza en la solución, este puede necesitar análisis más complejos, hasta llegar al procesa de validación.
+Los distintos módulos de ANSYS permiten solucionar los problemas por partes.
+ANSYS propone "aplicaciones verticales" o adaptaciones más específicas según las requiera el cliente.
+Estas adaptaciones pueden automatizar procesos que realiza normalmente un cliente hasta aplicaciones más complejas que se adaptan a determinados sectores industriales.
+La mayoría de los errores y desventajas de ANSYS, más que basarse en el programa mismo, se basan en el elemento finito utilizado por el programa para realizar los análisis.

@@ -1,0 +1,39 @@
+En Álgebra, las extensiones de cuerpo son el problema fundamental de la Teoría de Cuerpos.
+Un cuerpo es un conjunto en el que las operaciones suma y producto están definidas y «funcionan bien».
+Cuando se construye una extensión de un cuerpo, se busca un conjunto más grande en el que las operaciones suma y producto sigan funcionando bien y además se puedan resolver las ecuaciones polinómicas.
+Sea (K, +, ·) un cuerpo.
+Un cuerpo L es una extensión de K si K es un subcuerpo de L, es decir si (L,+,·) es un cuerpo y (K,+,·) es un cuerpo con la restricción a K de las operaciones + y · en L.
+Si L es extensión sobre K se denota L:K o L/K.
+En efecto, La adición de K sirve también de adición en el espacio vectorial, y la multiplicación de un elemento de K por uno de L define el producto escalar del espacio vectorial:
+Por definición de cuerpo, (L,+) es grupo abeliano, y podemos considerar el producto por escalares como una restricción a K \times L del producto en.
+De esta forma es inmediato que se cumple que:
+cualesquiera que sean a,b \in K y.
+Las dos primeras propiedades son debidas a la distributividad del producto respecto de la suma en L y a que K \subset L, la tercera se debe a que el producto es asociativo en L, y la cuarta se debe a que K es subcuerpo de L, por lo que el elemento unidad de L es el elemento unidad de K.
+El conjunto.
+Este conjunto es un cuerpo, es extensión de K, es subcuerpo de L, y de hecho es la menor extensión de K que contiene a \alpha.
+Se le denomina extensión generada por α sobre K.
+Sea K un cuerpo y p \in K[x] un polinomio irreducible, entonces existe alguna extensión L:K de manera que p tiene alguna raíz en L.
+La función que a cada polinomio  le hace corresponder su evaluación en \alpha, i.e.,.
+Esta aplicación es de hecho un isomorfismo de anillos conmutativos y unitarios, y se denomina homomorfismo evaluación.
+Una extensión L:K se dice que es algebraica si todo elemento es algebraico sobre K.
+Supongamos que existe algún polinomio p \in K[x] que tiene a \alpha por raíz.
+En esta situación (, o equivalentemente, existe algún p \in K[x] irreducible con ) se dice que \alpha es algebraico sobre K.
+Un elemento es entonces algebraico sobre un cuerpo si y solo si es raíz de algún polinomio a coeficientes en dicho cuerpo.
+Si \alpha es un elemento algebraico sobre el cuerpo K de manera que, el polinomio p que genera al núcleo de la aplicación evaluación (i.e., ) es irreductible.
+Dividiendo p por su coeficiente principal (aquel escalar que multiplica a la mayor potencia de la variable x) se obtiene un polinomio mónico (es decir, de manera que su coeficiente principal es la unidad), que se denota por y se denomina polinomio mónico irreductible de \alpha respecto de K.
+Claramente,.
+Una extensión L:K se dice que es trascendente si existe algún elemento que sea trascendente sobre K.
+Si el ker, será \beta un monomorfismo.
+En ese caso, K(x) es isomorfo a K(\alpha).
+Se dirá que el elemento \alpha es trascendente sobre K y que K(\alpha) es una extensión trascendente sobre K. Además, no existirá ningún polinomio con coeficientes en K que tenga por raíz a \alpha (es decir, si p \in K[x], entonces ).
+Como todo espacio vectorial tiene base, podemos calcular la dimensión de L como espacio vectorial sobre K, denotado por.
+Se denomina grado de la extensión L:K a la dimensión de L como K-espacio vectorial:.
+Tomemos varios ejemplos:
+K = \mathbb{Q} el cuerpo de los racionales y L = \mathbb{R} el cuerpo de los reales; \mathbb{R} visto como espacio vectorial sobre \mathbb{Q}, es de dimensión infinita, es decir,.
+El resultado no sorprende si se considera los cardinales de ambos conjuntos: Si la dimensión de \mathbb{R} sobre \mathbb{Q} fuese finita, \mathbb{R} sería isomorfo a, lo que no es posible porque.
+Si K = \mathbb{Q}, el cuerpo de los racionales y L =, el menor cuerpo que contiene a la vez \mathbb{Q} y √2, claramente es una extensión algebraica de \mathbb{Q}, ya que \sqrt{2} es raíz del polinomio x^2 -2.
+Al mismo tiempo:
+ya que el ideal (x^{2}-2) es el núcleo del morfismo, claramente este es un morfismo suprayectivo, se sigue del primer teorema de isomorfismo que son campos isomorfos.
+Además, es decir, la dimensión de como espacio vectorial sobre \mathbb{Q} es 2, esto es así ya que 2 es el grado del polinomio mónico e irreducible que tiene a √2 como raíz: x^2 - 2.
+En general:
+si n es el grado del polinomio mónico e irreducible en que tiene a \alpha como raíz, donde \mathbb{K} es un cuerpo y  son los polinomios con coeficientes en \mathbb{K}.

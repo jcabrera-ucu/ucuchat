@@ -1,0 +1,11 @@
+El germanano es un cristal de germanio compuesto de una sola capa de átomos.
+Se encuentra en desarrollo para posibles usos como sustrato que reemplace los cristales de silicio en chips de ordenador y en células solares.
+La movilidad de los electrones en el germanano se prevé que sea más de diez veces mayor que en el silicio y cinco veces mayor que el germanio convencional.
+El germanano dopado con hidrógeno es química y físicamente estable cuando se expone al aire y al agua.
+"La teoría predice una banda prohibida directa de 1,53 eV y una movilidad electrónica aproximada cinco veces mayor que la del germanio en bloque."
+El germanano tiene una banda prohibida directa, con facilidad para absorber y emitir luz, y potencialmente útil para la optoelectrónica.
+(El silicio y el germanio convencionales tienen bandas prohibidas indirectas, reduciendo la absorción o emisión de luz.)
+La estructura del germanano es similar a la del grafano, en sí misma relacionada con la del grafeno.
+En la naturaleza, el germanio tiende a formar cristales de varias capas en los que cada capa atómica está unida entre sí, pues las capas de un solo átomo suelen ser inestables.
+Para obtener germanano, los investigadores comienzan intercalando cristales de germanio de varias capas con átomos de calcio entre dichas capas.
+En un paso posterior se disuelve el calcio con agua, y es reemplazado con hidrógeno, lo que permite que se despeguen las capas individuales de germanano.

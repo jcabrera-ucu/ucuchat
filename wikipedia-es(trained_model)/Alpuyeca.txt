@@ -1,0 +1,34 @@
+<mapframe latitude="18.743157" longitude="-99.260445" zoom="12" width="300" height="221" align="right">
+{ "type": "FeatureCollection",
+"features": [
+{     "type": "Feature",
+"properties": {},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-99.260445,         18.742645        ]      }    }  ] } Alpuyeca es un pueblo localizado en el municipio de Xochitepec en el estado de Morelos a una altura de 1,042 metros sobre el nivel del mar.
+Alpuyeca pertenece al municipio de Xochitepec, fue fundada en el año de 1600 d. C., sus primeros pobladores fueron de origen Náhuatl que pertenecían al pueblo de Xochicalco.
+Xochicalco fue un lugar céntrico muy importante además de ser un lugar ceremonial y caracterizado por haber entrañado a la cultura Tlahuica, por tal motivo el pueblo de Alpuyeca llegó a ser un paso de estas culturas muy importante.
+Alpuyeca se inició con un promedio de 15 habitantes, en aquel entonces era una pequeña tribu formada por 5 familias, que tenían como religión la Azteca, pero a la llegada de los españoles hicieron que estos cambiaran su religión Azteca por la Cristiana o mejor conocida como la Católica.
+Alpuyeca es un nombre náhuatl compuesto de diversas palabras: Atl ' que significa Agua; Puyec que significa Cosa Salada y Ca', que significa En.
+Alpuyeca quiere decir Lugar de Agua Salada o Lugar Donde Nace o Brota el Agua Salada.
+El agua salobre del río que atraviesa este pueblo, justifica la etimología.
+Iniciando el 8 de diciembre que es la fiesta patronal (La virgen de la Purísima Concepción) y la del 6 de enero (Reyes Magos), los Chinelos y más danzas propias de la región como los tecuanes, fiestas dedicadas a la Virgen María (15 de agosto y 12 de diciembre), los ritos religiosos se desarrollan en diferentes tradiciones, desde la madrugada se inicia con la ofrendas al santo en cuyo honor se realiza la celebración, se celebran misas en honor a cada santo y a primera hora del día se realizan las respectivas mañanitas.
+Al mediodía, los espacios públicos comienzan a decorarse con venta de flores, pan tradicional de feria y juegos mecánicos.
+En algunas regiones, como Atlacholoaya, Alpuyeca, etc., es costumbre obsequiar con comida a sus habitantes para recibir a los invitados que llegan de otros pueblos con la gastronomía que distingue esas fecha: mole de pipían, mole rojo, pollo en adobo y cochinita; al caer la noche se lleva a cabo la quema del castillo que ilumina la noche con fuegos pirotécnicos, la feria de la nieve, la Feria de la nieve tiene como objetivo impulsar y promover la actividad que decenas de familias de la comunidad de Alpuyeca han realizado por generaciones.
+Vale la pena destacar que la nieve artesanal de esta región se distingue por su inigualable sabor extraído de frutas frescas de la región y una depurada técnica de preparación, que a través de los años ha sido mejorada para el gusto de miles de personas.
+Dentro de la extensión de Alpuyeca fluye parte del Rio Apatlaco, es un largo río ubicado en el noroeste del estado de Morelos, (dentro de los municipios Cuernavaca, Emiliano Zapata, Huitzilac, Jiutepec, Jojutla, Puente de Ixtla, Temixco, Tlaquiltenango, Xochitepec y Zacatepec); cubre un área de 746 km², de los cuales 656.494 se encuentran en el territorio morelense, y el resto en el Estado de México y el Distrito Federal.
+Su nacimiento como cauce se encuentra en el manantial de Chapultepec, de la ciudad de Cuernavaca, y su desembocadura en el río Yautepec.
+El río Apatlaco, se forma con el escurrimiento del agua que fluye por las barrancas que lo cruzan de norte a sur del estado de Morelos, junto con las filtraciones provenientes de la zona de las lagunas de Zempoala.
+Los ciudadanos se dividen en 3097 menores de edad y 4737 adultos, de cuales 617 tienen más de 60 años.
+131 personas en Alpuyeca viven en hogares indígenas.
+Un idioma indígeno hablan de los habitantes de más de 5 años de edad 42 personas.
+El número de los que solo hablan un idioma indígena pero no hablan mexicano es 0, los de cuales hablan también mexicano es 39.
+Aparte de que hay 516 analfabetos de 15 y más años, 102 de los jóvenes entre 6 y 14 años no asisten a la escuela.
+De la población a partir de los 15 años 608 no tienen ninguna escolaridad, 1745 tienen una escolaridad incompleta.
+1598 tienen una escolaridad básica y 1184 cuentan con una educación post-bósica.
+Un total de 454 de la generación de jóvenes entre 15 y 24 años de edad han asistido a la escuela, la mediana escolaridad entre la población es de 7 años.
+La flora esta constituida por: selva baja cadúfila, de clima cálido: cazahuate, huizache, amates, órganos, protegidos ecológicamente, jacarandá, ceiba y bugambilia.
+Según la leyenda local, al cerro se le dio el nombre de "Cerro de Flores", debido a la flor típica de Xochitepec que es la del cazahuate, además de las flores que en él existían.
+En lo que respecta a esta y debido a la sobrepoblación, algunas especies han sido extinguidas, como el venado cola blanca, coyote y algunas en peligro de extinción que aún viven en nuestro medio como la zarigüeya o tlacuache, armadillo, zorrillo y murciélago, en lo que se refiere a las aves, zopilote, chachalaca, urraca, gorrión, jilguero, lechuza blanca, tórtola, halcón codorniz, gavilán, paloma; de arácnidos encontramos tarántulas y alacranes.
+En cuestión de insectos no podemos dejar de mencionar a este peculiar animalito llamado xumil o jumil, el cual aun sirve para alimento, como lo fue para nuestros antepasados.

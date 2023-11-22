@@ -1,0 +1,10 @@
+Esta página debería dirigir a lexía.
+El presente artículo aborda el tema de la unidad léxica.
+Al tratar de determinar los componentes del léxico, se plantean las condiciones que han de cumplir cada uno de ellos.
+Se entiende que el léxico está formado por palabras, pero palabra es habitualmente un concepto difícil de definir.
+Cuando se desea trabajar de manera sistemática y formal con el léxico, resulta necesario que sus unidades estén claramente diferenciadas.
+Existen dos enfoques para definir palabra:
+Esta definición y sus variaciones son ampliamente controvertidas, ya que no existen referencias claras para "aislar" esa unidad.
+Por imprecisa que parezca o precisamente en razón de su simpleza, esta definición es la única que ha tenido una amplia aceptación, puesto que es la solución evidente cuando se necesita la digitalización de la información léxica para el desarrollo de un corpus lingüístico o de otras herramientas de estudio lexicológico.
+Con la definición anterior ya aceptada, se puede trabajar basándose en la significación.
+Aquí entran en juego los conceptos de lexema y morfema, manejados desde antaño por los lingüistas, y que ahora se asignan como "palabras o partes de palabras que, respectivamente, tienen o carecen de significado propio".

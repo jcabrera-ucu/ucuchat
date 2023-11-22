@@ -1,0 +1,10 @@
+El Asistente Inteligente de Velocidad o AIV (intelligent speed assistance o intelligent speed adaptation en inglés (ISA)) es un sistema avanzado de asistencia al conductor, que evita que el vehículo supere una velocidad limitada.
+En caso de exceso de velocidad, el vehículo puede alertar al conductor o reducir automáticamente su velocidad.
+El ISA utiliza información vial para determinar el límite de velocidad.
+La información se puede obtener por geolocalización, e interpretando el contexto vial como las señales de tránsito.
+Los sistemas ISA están diseñados para detectar y advertir al conductor cuando el vehículo está sujeto a un nuevo límite de velocidad, ingresa a una nueva zona de velocidad, o cuando pueden estar vigentes diferentes límites de velocidad según el contexto (hora, noche, lluvia, obras, etc.).
+Varios sistemas ISA también brindan información sobre áreas de riesgo (como zonas con gran circulación de peatones, pasos a nivel, colegios, hospitales).
+Por lo tanto, el propósito de ISA es ayudar al conductor a mantener una velocidad segura.
+Las investigaciones han demostrado que en las zonas urbanas, el número de siniestros de tránsito con heridos se duplica cada vez que la velocidad de circulación aumenta 5 km/h.
+En la Unión Europea y en el Reino Unido, el Asistente Inteligente de Velocidad empezará a ser mandatorio en los nuevos modelos de vehículos desde julio de 2022 y en todos los vehículos nuevos desde julio de 2024.
+Las estimaciones hacen esperar una reducción de la mortalidad de 20 %.

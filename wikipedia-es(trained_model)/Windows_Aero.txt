@@ -1,0 +1,31 @@
+Windows Aero es una interfaz gráfica incluida en Windows Vista y Windows 7 que sustituyó a la Interfaz gráfica Luna utilizada en Windows XP.
+Aero apareció en las versiones finales de Windows Vista el 30 de enero de 2007, día en el que fue lanzada la versión Release to Manufacturing (RTM) y algunos meses antes en las versiones Corporate.
+Ha sido retirada con el lanzamiento de Windows 8 el 26 de octubre de 2012, cuando fue reemplazada por la "Modern UI".
+La conformación de la palabra AERO, según Microsoft, proviene del retroacrónimo Authentic, Energetic, Reflective and Open, ‘Auténtico, Energético, Reflectivo y Abierto’.
+Básicamente es un estilo o un conjunto de ventanas que con la Barra de Tareas asume una misma apariencia para encajar con la interfaz de usuario correctamente.
+Dependiendo de la edición de Windows usada el sistema se verá afectado de maneras distintas:
+Windows Vista y Windows 7 emplean un proceso llamado Windows System Assessment Tool (WINSAT), que se ejecuta automáticamente durante la instalación del sistema y también cuando se modifica la configuración del PC.
+El sistema operativo utiliza esta información para determinar, entre otras cosas, qué modalidad de Aero puede ser ejecutada y el ordenador se encuentra capacitado para reproducir vídeo de alta definición.
+Estos datos aglutinan información relevante acerca de la CPU, la memoria principal, el rendimiento del disco duro, etc. También, Aero por sí solo es capaz de dibujar de forma vectorial y utilizar la capacidad de Pixel Shader.
+Windows Aero añade a Windows Vista y a Windows 7 las siguientes características:
+Consiste en un efecto tridimensional de cristalizado (imitando la transparencia) en los bordes de las ventanas para poder ver a través de las mismas, en la barra de herramientas y en el menú Inicio.
+También les da aspecto de piedras preciosas a los botones del Reproductor de Windows Media, Internet Explorer y otros programas, así como también a los botones de los programas abiertos en la barra de tareas.
+Es factible cambiar el color transparente por algún otro de la colección de colores para Aero, con una gran categoría de colores.
+Puede alternarse si se desea mostrar transparencia u opacidad desde el Panel de Control.
+Es una función de Windows Aero que complementa al tradicional + de las versiones anteriores de Windows.
+Muestra miniaturas reales en activo de las ventanas actuales, permitiendo así una mejor vista previa de las mismas.
+Windows Flip 3D, es una función de Windows Aero que mejora la función Windows Flip, mostrando un efecto en 3D de las ventanas actualmente abiertas.
+Esta función se activa con la combinación de teclas +.
+Sin embargo, esta característica fue excluida de Windows 8 en áreas de favorecer a las aplicaciones.
+En Windows 10 regresó esta función, como una combinación de acceso rápido para acceder a los diferentes escritorios virtuales.
+Esta opción muestra una vista preliminar en miniatura (en inglés, thumbnail) de alguna ventana minimizada en la barra de tareas al pasar el puntero del ratón por encima de su ícono.
+En Windows 7, algunas de las vistas en miniatura tienen comandos aplicables.
+Incluida por primera vez en Windows 7, es una característica que consiste en poder agitar una ventana rápidamente de un lado al otro, para que todas las ventanas abiertas restantes se minimicen, similar a la secuencia de teclas +.
+En Windows 10 esta característica funciona también con las Aplicaciones Modernas.
+También incluida en Windows 7, consiste en el ajuste automático de las ventanas en proporción geométrica: al mover la misma hacia el borde izquierdo o derecho, la ventana se ajusta automáticamente hacia dicho margen, y al mover la ventana hacia el borde superior de la misma esta se maximiza.
+En Windows 10 esta característica ha sido mejorada y ahora llamada Acoplar.
+Windows Aero incluye un abrir y cerrar de ventanas hechos con apariciones o desvanecimientos espontáneos.
+Esta característica es común de Windows Vista y Windows 7, aunque todavía está presente en sus sucesores.
+Los requisitos mínimos para ejecutar Windows Aero son los siguientes:
+ATI/AMD/NVIDIA:
+Intel:

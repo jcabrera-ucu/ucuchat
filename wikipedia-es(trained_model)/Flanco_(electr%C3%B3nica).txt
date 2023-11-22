@@ -1,0 +1,10 @@
+En una señal digital, se denomina flanco a la transición del nivel bajo al alto (flanco de subida) o del nivel alto al bajo (flanco de bajada).
+En la siguiente figura se representa un circuito detector de flancos típico, junto con su cronograma.
+Su funcionamiento es como sigue:
+Al pasar la señal A de bajo a alto, tras el retardo, t1, propio por la puerta NO, su salida, B, conmutará a bajo.
+Pero durante dicho retardo, ambas entradas de la puerta NO Y quedan a alto, lo que hará que, transcurrido su tiempo de retardo, t2, su salida proporcione un impulso negativo de duración t1.
+De este modo se indica que en la entrada A se ha producido un flanco de subida.
+En la segunda figura se puede observar un detector de flanco de bajada.
+Este envía un pulso positivo ante un flanco de bajada en la entrada.
+Algunos circuitos digitales (biestables, contadores, registro de desplazamiento, etc.) poseen entradas de sincronismo que se activan por flancos.
+En la figura dos el flanco de bajada es detectado por el retardo que realiza la compuerta not así cuando a la entrada haya uno las dos entradas de la or negada serán uno y cero, por tanto la salida será de cero, pero en el momento en que la entrada sea de cero la conexión directa que hay a la or negada nos dará un cero inmediato en una de sus entradas, mientras que por el retardo que presenta la not también tendremos un cero y esto nos generará un uno a la salida por unos momentos, o sea la detección del flanco de bajada.

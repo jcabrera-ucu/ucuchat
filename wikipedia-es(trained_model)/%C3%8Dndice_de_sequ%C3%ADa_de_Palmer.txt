@@ -1,0 +1,19 @@
+El índice de sequía de Palmer (Palmer Drought Index), también conocido como índice de severidad de sequía de Palmer y a menudo abreviado PDSI, es un índice que mide el nivel de sequía a partir de la precipitación y temperatura reciente.
+Fue desarrollado por el meteorólogo Wayne Palmer, quien publicó su método por primera vez en 1965 en un documento titulado «Meteorological Drought» («Sequía Meteorológica») para la Oficina de Climatología del U.S. Weather Bureau (Agencia meteorológica de EE.UU.).
+El índice de sequía de Palmer se basa en un modelo de oferta y demanda de la humedad del suelo.
+El cálculo de la oferta es relativamente sencillo, pero el de la demanda es más complicado ya que depende de muchos factores; no sólo de la temperatura y la cantidad de humedad en el suelo, sino también de factores difíciles de calibrar, como la evapotranspiración y las tasas de recarga.
+Palmer intentó superar estas dificultades mediante un algoritmo que permite aproximarlas sobre la base de información que sí está fácilmente disponible: la precipitación y la temperatura.
+El índice ha demostrado ser más eficaz para determinar la sequía a largo plazo —cuando se trata de varios meses— y no es tan bueno cuando se trata de varias semanas.
+La gravedad de la sequía se expresa en números de cero hasta cuatro negativo.
+Se utiliza un 0 para indicar una situación normal, y la sequía se expresa con números negativos; por ejemplo, 2 negativo es una sequía moderada, 3 negativo es una sequía grave, y 4 negativo es una sequía extrema.
+El algoritmo de Palmer se utiliza también para describir períodos húmedos, los cuales se expresan con los números positivos correspondientes.
+Palmer desarrolló también una fórmula para estandarizar los cálculos de la sequía en cada localidad individual, sobre la base de la variabilidad de la precipitación y de la temperatura en esta localidad.
+Por consiguiente, el índice de Palmer puede aplicarse a cualquier lugar con suficientes datos sobre la precipitación y temperatura.
+Los críticos observan que la utilidad del índice de Palmer se ve afectado por la naturaleza arbitraria de los algoritmos de Palmer, incluyendo la técnica utilizada para la estandarización.
+La incapacidad del índice de Palmer de tomar en cuenta a la nieve y los suelos helados es también citada como una debilidad.
+El índice de Palmer está siendo utilizado ampliamente, y los mapas Palmer se publican semanalmente por parte de la Administración Nacional Oceánica y Atmosférica del gobierno de Estados Unidos.
+También ha sido utilizado por los climatólogos a la hora de estandarizar el análisis global de la sequía a largo plazo.
+Los conjuntos de datos globales Palmer se han desarrollado sobre la base de los registros instrumentales disponibles a partir del siglo XIX.
+Además, se ha utilizado la dendrocronología para generar los valores estimados del índice de Palmer para América del Norte durante los últimos 2000 años, lo que permite el análisis de las tendencias de la sequía a largo plazo.
+El Índice fue también utilizado para explicar el colapso de la Edad del Bronce.
+En los Estados Unidos se muestran los mapas Palmer regionales en el canal por cable Weatherscan.

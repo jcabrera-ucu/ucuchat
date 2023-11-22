@@ -1,0 +1,6 @@
+El Giuoco Piano, juego lento en italiano, (ECO C50, C53-C54) es la línea principal de la Apertura italiana.
+A pesar de su nombre proporciona partidas vivas y tácticas.
+Sus ideas estratégicas son claras: ataque al punto f7, el único que sólo está defendido por el rey, centro abierto y control de la diagonal a2-g8.
+Por su parte las negras tratan de hacer lo mismo atacando en punto f2, y procurando hacer la jugada d5 y atacar el alfil de c4 lo antes posible.
+Línea principal
+Existen seis continuaciones típicas: 4.c3, la línea principal; 4.0-0; 4.d4, que normalmente se combina con una de las dos anteriores cambiando el orden, 4.d3, el «Giuoco Pianissimo», la mejor para obtener ventaja con blancas; 4.Cc3; y 4.b4, el famoso Gambito Evans, que se puede ver en el artículo correspondiente.

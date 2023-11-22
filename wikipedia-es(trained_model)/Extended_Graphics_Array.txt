@@ -1,0 +1,16 @@
+Extended Graphics Array ( abreviado XGA ) se refiere tanto a un tipo de tarjeta gráfica que introdujo IBM el 30 de octubre de 1990 para la serie de computadoras IBM Personal System/2 (XGA Display Adapter/A), así como el estándar de gráficos asociado.
+Además del XGA Display Adapter/A original, IBM también fabricó el XGA-2 Display Adapter/A, que permitió lograr una mayor profundidad de color para el modo 1024×768 y mayor frecuencia de refresco de pantalla, además de una resolución de 1360×1024 a 16 colores.
+Todos estos modos de pantalla conservan la relación de aspecto 4:3 redondeado a 8 píxeles.
+El formato de presentación de gráficos XGA no es un reemplazo para el estándar Super VGA, sino solo un conjunto particular de modos de pantalla dentro del rango permitido por este.
+No debe confundirse XGA con el estándar VESA EVGA, comercializado en las mismas fechas.
+El hardware XGA era compatible con versiones anteriores del estándar de gráficos VGA, la interfaz del controlador 8514/A y también ofrecía un modo texto de 132 columnas (40 y 80 eran comunes).
+La resolución de imagen máxima era de 1024x768 píxeles, la profundidad de color máxima era de 16 bits (65 536 colores).
+Aunque estos valores máximos no se pudieron alcanzar al mismo tiempo por razones de memoria, 256 colores con 1024 × 768 píxeles o 65 536 colores con 800x600 píxeles fueron posibles con una expansión de la memoria gráfica.
+El Framebuffer se puede abordar directamente con tarjetas gráficas XGA, de modo que su hardware teóricamente puede ofrecer cualquier combinación de resolución y profundidad de color, siempre que la memoria gráfica sea suficiente.
+A diferencia del VGA normal y análogo al 8514/A, tienen comandos de caracteres acelerados por hardware y visualización del cursor.
+El estándar XGA no pudo afirmarse en el campo de las computadoras compatibles PC.
+Las tarjetas gráficas compatibles con SVGA de terceros fabricantes que aparecieron un poco más tarde eran comparablemente flexibles gracias a la compatibilidad con VESA, lograron un rendimiento similar y estaban disponibles para todas las arquitecturas de bus.
+Sin embargo, las características del estándar XGA fueron el modelo para estos antepasados ​​del hardware de gráficos de PC moderno.
+Basado en este estándar de gráficos, el nombre "XGA" también se usó en un sentido más amplio para un modo de imagen dentro del estándar VESA 2.0, que corresponde a la resolución de imagen máxima (1024 × 768 píxeles) del estándar XGA.
+Además, VESA 2.0 incluye el modo de imagen SXGA (Super XGA), con 1280 × 1024 píxeles, que, aparte del nombre, no tiene nada que ver con el estándar original.
+Las designaciones de marketing similares para ciertos modos de imagen que surgieron en la década de 2000 y que también contienen la abreviatura XGA no están relacionadas con el estándar XGA.

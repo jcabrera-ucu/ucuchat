@@ -1,0 +1,17 @@
+WOW64 (Windows-on-Windows 64-bit) es un subsistema de Microsoft Windows capaz de ejecutar aplicaciones de 32 bit y que se incluye en todas las versiones de 64 bit de Windows (Windows XP 64 bit Edition, Windows Server 2003 x64, Windows Vista 64 bit Edition, Windows Server 2008 64 bit Edition, Windows 7 x64 Windows 8 x64 y Windows 10 x64).
+WOW64 se encarga de todas las diferencias en las versiones 32 y 64 bit de Windows, especialmente las que implican cambios estructurales en el propio Windows.
+El subsistema WOW64 es una ligera capa de traducción que posee interfaces similares en todas las versiones de 64 bit de Windows.
+Su propósito principal es crear un entorno de 32 bit que proporcione las interfaces necesarias para permitir a las aplicaciones de 32 bit ejecutarse sin modificación en el sistema de 64 bit.
+Técnicamente, WOW64 se implementa utilizando tres bibliotecas de enlace dinámico (DLL): Wow64.dll, es la interfaz principal al núcleo de NT que realiza la traducción entre las llamadas de 32 y 64 bit, incluyendo manipulaciones del puntero y la pila; Wow64win.dll, que proporciona los puntos de entrada apropiados para las aplicaciones de 32 bit y Wow64cpu.dll, que se encarga de cambiar el modo del procesador entre 32 y 64 bit.
+A pesar de que la apariencia exterior es similar en todas las versiones de 64 bit de Windows, la implementación de WOW64 varía dependiendo de la arquitectura del procesador.
+Por ejemplo, la versión de 64 bit de Windows desarrollada para el procesador Intel Itanium 2 utiliza Wow64win.dll para realizar la emulación de las instrucciones x86 dentro del único juego de instrucciones del Itanium 2.
+Esta tarea es más costosa computacionalmente que las funciones de Wow64win.dll en la arquitectura x64, que cambia del modo de 64 bit del procesador al modo de compatibilidad cuando hay que ejecutar código de 32 bit, y después vuelve a cambiar al modo de 64 bit.
+WOW64 no necesita utilizar emulación en x64.
+El subsistema WOW64 también se ocupa de otros aspectos importantes de la ejecución de aplicaciones de 32 bit.
+Por ejemplo, está involucrado en la gestión de la interacción de las aplicaciones de 32 bit con el registro de Windows, que es algo diferente en las versiones de 64 bit del SO, y proporciona una interfaz al subsistema de almacenamiento.
+El sistema operativo utiliza el directorio <tt>%SystemRoot%\system32</tt> para las bibliotecas y ficheros ejecutables de 64 bit.
+Esto es así por razones de compatibilidad con determinadas aplicaciones que utilizan esa ruta.
+Cuando se ejecutan aplicaciones de 32 bit, WOW64 redirige las peticiones de DLLs de ese directorio a <tt>%SystemRoot%\sysWOW64</tt>, que contiene las bibliotecas y ejecutables heredados.
+Es muy importante considerar que en algunos lenguajes de programación como Visual Basic 6.0 (quizás otros y posiblemente todos), al pedir la fecha mediante la función GetDateTime o la API GetFileTime de un archivo ubicado en system32, en realidad se le devolverá la fecha del archivo ubicado en syswow64.
+Si decide actualizar un archivo, puede ser copiado en system32.
+Es decir, tenga precaución y considera esta capa de transformación de directorio, pues puede producir acciones en cierto sentido ilógicas.

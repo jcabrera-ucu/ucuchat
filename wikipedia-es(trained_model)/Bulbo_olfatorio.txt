@@ -1,0 +1,123 @@
+El bulbo olfatorio u olfativo (bulbus olfactorius) es una estructura neural del prosencéfalo de los vertebrados implicada en el olfato, es decir, en la percepción del olor.
+El bulbo olfatorio trata y codifica esta información y la dirige a estructuras superiores del cerebro.
+Sus neuronas principales son las células mitrales; estas reciben la información de las neuronas olfativas, la integran y la envían a través de sus axones a otras regiones cerebrales.
+En muchos vertebrados, por ejemplo en las ratas, el bulbo olfatorio es la estructura más rostral del encéfalo.
+En humanos sin embargo, el bulbo olfatorio se encuentra en la parte inferior del encéfalo; con respecto a la nariz está situado en la parte pósteroanteronasal.
+El bulbo olfatorio en mamíferos se encuentra encima de la placa cribosa del hueso etmoides, un hueso perforado por cuyas fenestraciones pasan los nervios olfatorios.
+En humanos los nervios olfatorios están compuestos por axones que proceden de las neuronas del epitelio olfatorio situado en la pituitaria amarilla en contacto con el aire.
+El bulbo se divide en dos diferentes estructuras: el bulbo olfatorio principal (BOP) y el bulbo olfatorio accesorio (BOA).
+El bulbo olfatorio principal muestra una arquitectura con varias capas.
+Estas desde la superficie hasta el centro son:
+El bulbo olfatorio transmite información olfativa desde la nariz al encéfalo, por lo que es necesario para el funcionamiento correcto del sentido del olfato.
+Como circuito neural, la capa glomerular recibe aferencias directas de los nervios olfatorios que están compuestos por los axones de las neuronas receptoras olfatorias de la mucosa olfativa que se encuentra dentro de la cavidad nasal.
+Los axones terminan en unas agrupaciones esféricas conocidas como glomérulos olfativos.
+Cada uno de estos glomérulos reciben información de neuronas receptoras olfatorias que expresan el mismo receptor olfatorio.
+La capa glomerular del bulbo olfatorio constituye así el primer nivel de procesamiento sináptico.
+La capa glomerular construye un mapa espacial de los olores que se organiza por el grupo funcional de los odorantes o por la longitud de su cadena de carbonos.
+Este mapa espacial está organizado en grupos que se representan por glomérulos similares y, por tanto, olores similares.
+Un grupo de glomérulos en particular está asociado con olores rancios y malolientes con ciertas características químicas.
+Esta clasificación podría haberse seleccionado para ayudar a identificar comida en mal estado.
+El mapa espacial de la capa glomerular podría ser utilizado para la percepción del olor en la corteza olfativa.
+El siguiente nivel de procesamiento sináptico ocurre en la capa plexiforme externa que se encuentra entre la capa glomerular y la capa mitral.
+La capa plexiforme externa contiene astrocitos, interneuronas y algunas células mitrales.
+Esta capa no contiene casi cuerpos celulares y está compuesta principalmente por las dendritas procedentes de células mitrales o de células granulares gabaérgicas. Las células mitrales que se encuentran en la capa mitral envían las señales recibidas aquí a la corteza olfatoria.
+Encontramos interneuronas diferentes en el bulbo olfatorio, por un lado las células periglomerulares que hacen sinapsis en y entre glomérulos y las células granulares que hacen sinapsis con células mitrales.
+La capa granular es la capa más profunda del bulbo olfatorio y está compuesta por células granulares que hacen sinapsis dendrodendríticas con las células de la capa mitral.
+El bulbo olfatorio accesorio (BOA o AOB por sus siglas en inglés) reside en la parte posterodorsal del bulbo olfatorio principal y forma una vía paralela e independiente del bulbo olfatorio principal.
+El órgano vomeronasal (OVN o VNO por sus siglas en inglés) envía sus proyecciones al BOA constituyendo la segunda etapa de procesamiento del sistema olfatorio accesorio.
+Como en el bulbo olfatorio principal los axones entrantes forman sinapsis con células mitrales dentro de los glomérulos.
+Las señales que recibe el BOA procedentes del epitelio del órgano vomeronasal son diferentes de las recibidas mediante el epitelio olfativo por el BOP ya que el BOA recibe principalmente señales químicas no volátiles relevantes para comportamientos sociales y reproductivos, aunque probablemente reciba también información de olores genéricos.
+Se ha hipotetizado que para que el sistema vomeronasal se active el epitelio olfatorio principal debe detectar primero el olor apropiado.
+Sin embargo la posibilidad de que el órgano vomeronasal trabaje en paralelo o independientemente de las señales genéricas no ha sido descartada.
+Las neuronas sensitivas vomeronasales envían señales excitatorias directas a las células mitrales del BOA que son transmitidas a la amígdala y al hipotálamo.
+De esta forma el BOA está implicado directamente en la actividad de hormonas sexuales y además podría estar influenciando comportamientos agresivos, defensivos o reproductivos.
+Los axones de las neuronas sensitivas vomeronasales expresan un tipo de receptor que, a diferencia de lo que ocurre en el BOM, diverge entre 6 y 30 glomérulos del BOA.
+Las terminaciones dendríticas de las células mitrales pasan por un periodo dramático de agrupación y orientación después de la unificación presináptica de los axones de las neuronas sensitivas.
+La conectividad de las neuronas vomeronasales sensoriglomerulares con las células mitrales es precisa.
+El bulbo olfatorio accesorio se divide en dos regiones principales, anterior y posterior, que reciben señales sinápticas segregadas de dos tipos de neuronas sensitivas vomeronasales, V1R y V2R respectivamente (Receptores vomeronasales 1 y 2).
+Esto parece ser una clara especialización funcional dado el rol diferente de las dos poblaciones de neuronas sensitivas en la detección de estímulos químicamente diferentes tanto en tipo como peso molecular.
+A pesar de ello no parece mantenerse la especialización a nivel central ya que las proyecciones de las células mitrales de ambos lados convergen.
+Una clara diferencia en el circuito del BOA en comparación con el resto del bulbo es su conectividad heterogénea entre células mitrales y las aferencias de las neuronas sensitivas vomeronasales dentro de los glomérulos.
+Las células mitrales del BOA contactan con glomérulos a través de procesos dendríticos apicales formados por aferencias de diferentes neuronas receptoras, rompiendo así la regla de un receptor por cada neurona que se da en general en el BOM.
+Esto implica que los estímulos recibidos por el OVN y elaborados en el BOA están sujetos a un nivel de elaboración diferente y probablemente más complejo.
+De hecho, las células mitrales del BOA muestran patrones de disparo diferentes en comparación con otras neuronas de proyección del bulbo.
+Además, la señalización hacía atrás en el bulbo olfatorio afecta diferencialmente las aferencias olfativas.
+Hay evidencia en contra de la presencia de un bulbo olfatorio accesorio en humanos y en otras especies de primates superiores.
+Como circuito neural el bulbo olfatorio recibe una vía de aferencias desde los axones de las neuronas receptoras olfativas del epitelio olfatorio y envía una vía de axones procedente de las células mitrales.
+Como resultado se asume generalmente que su función es filtrar las señales y no funcionar como un circuito asociativo con varias entradas y salidas de información.
+A pesar de eso el bulbo olfatorio recibe información de regreso procedente de áreas como la amígdala, la neocorteza, el hipocampo, el locus coeruleus y la substantia nigra.
+Entre sus funciones potenciales se pueden distinguir cuatro no excluyentes:
+La destrucción del bulbo olfatorio resulta en una anosmia ipsilateral mientras que lesiones irritantes del uncus pueden resultar en alucinaciones olfativas y gustativas.
+Mientras que estas funciones podrían darse de forma teórica únicamente en el circuito del bulbo olfatorio no esta claro cuales de estas funciones se realizan exclusivamente en el bulbo.
+Algunas de las funciones requieren la intervención de las interneuronas de la capa plexiforme externa que responden a los potenciales de acción presinápticos generando tanto potenciales postsinápticos excitatorios como inhibitorios.
+Los disparos que se producen varían temporalmente habiendo periodos de disparos rápidos y espontáneos así como de modulación lenta de los disparos.
+Estos patrones podrían estar relacionados con el olisqueo o con cambios en la intensidad y concentración de los olores.
+Por ejemplo, los trenes de disparos sincronizados de las células mitrales aparentemente ayudan a discriminar olores similares mejor que aquellos disparos no sincronizados.
+La Inhibición lateral es un proceso en el cual algunas células inhiben la actividad de las células colindantes.
+Este proceso ocurre en otras partes del encéfalo como la retina y muchos investigadores se centran en como el bulbo olfatorio filtra la información entrante procedente de neuronas receptoras tanto espacial como temporalmente mediante la inhibición lateral.
+El núcleo de este filtrado lo constituyen las dos clases de interneuronas del bulbo olfatorio: las células periglomerulares y las células granulares.
+La inhibición de las células de la capa mitral que realizan células de otras capas contribuye a un mayor nivel de procesamiento al modular la salida de información desde el bulbo olfatorio.
+Estas hiperpolarizaciónes durante la estimulación olfativa modulan la respuesta de las células mitrales haciéndolas más específicas para cada olor.
+Las interneuronas de la capa plexiforme externa ejecutan una inhibición sobre las células mitrales para evitar una propagación hacia atrás de la señal.
+Estas interneuronas también participan en la inhibición lateral de las células mitrales.
+Esta inhibición es una parte importante de la olfación ya que ayuda a discriminar olores disminuyendo la respuesta a olores de fondo y diferenciando las respuestas a las señales procedentes del nervio olfatorio en la capa de células mitrales.
+Las dendritas basales de las células mitrales conectan con las interneuronas llamadas células granulares.
+Según algunas teorías estas producirían inhibición lateral entre células mitrales.
+Las sinapsis entre células mitrales y granulares son de un tipo extraño llamado sinapsis dendrodendríticas en las cuales los dos lados de las sinapsis son dendritas que liberan neurotransmisores.
+En este caso las células mitrales liberan el neurotransmisor excitador glutamato y las células granulares el neurotransmisor inhibidor ácido γ-aminobutírico (GABA).
+Como resultado de esta transmisión bidireccional la sinapsis dendrodendrítica puede causar que las células mitrales se inhiban a sí mismas así como que inhiban a las células vecinas (inhibición lateral).
+De forma más específica, las células de la capa granular reciben señales excitatorias de las dendritas de las células mitrales y de las células en penacho, en respuesta las células granulares liberan GABA inhibiendo así a las células mitrales.
+Se libera más cantidad de neurotransmisor desde la célula mitral activada hacía la célula granular haciendo que el efecto inhibitorio sobre la célula mitral activada sea más fuerte que sobre las células mitrales de alrededor.
+No está claro el rol funcional de la inhibición lateral, sin embargo podría estar implicada en incrementar la relación señal/ruido de las señales olfativas al silenciar los disparos basales de las neuronas no activadas de alrededor y esto a sus vez ayudaría a discriminar entre olores.
+Otros investigadores sugieren que la inhibición lateral contribuye a enviar respuestas distintas a diferentes olores, ayudando así al procesamiento y percepción de olores distintos.
+También hay evidencia de efectos a través de la señalización colinérgica en las células granulares que incrementaría la despolarización de estas células haciéndolas más fácilmente excitables e incrementando así la inhibición de las células mitrales.
+Esto podría contribuir a una salida de información más específica, recordando al mapa olfativo de la capa glomerular.
+La olfación es distinta a otros sistemas sensoriales donde los receptores sensitivos pasan la información al diencéfalo ya que en el sistema olfativo el bulbo olfatorio desempeña ese rol.
+El bulbo olfatorio envía información olfativa para ser procesada en la amígdala, la corteza orbitofrontal (COF) y el hipocampo.
+Esta información juega un rol en las emociones, la memoria y el aprendizaje.
+El bulbo olfatorio principal conecta a la amígdala a través de la corteza piriforme de la corteza olfatoria principal y también a través de proyecciones directas a áreas específicas de la amígdala.
+La amígdala envía a su vez información al hipocampo.
+La corteza orbitofrontal, la amígdala, el tálamo y el bulbo olfatorio tienen muchas interconexiones directas e indirectas a través de la corteza olfatoria primaria.
+Estas conexiones son indicativas de la asociación entre el bulbo olfatorio y áreas superiores de procesamiento, específicamente con aquellas relacionadas con la memoria y las emociones.
+El aprendizaje asociativo entre olores y respuestas comportamentales tiene lugar en la amígdala.
+Los olores sirven como los estímulos reforzantes o aversivos durante el proceso de aprendizaje asociativo.
+De esta forma los olores que se presentan junto a estados positivos refuerzan el comportamiento que provocó el estado positivo mientras que los olores presentados junto a estados negativos realizan lo contrario.
+La asociación entre señales olfativas y efectos comportamentales o emocionales se codifica en la amígdala de forma que los olores son capaces de reflejar ciertas emociones o estados fisiológicos.
+Los olores llegan a asociarse con respuestas placenteras o desagradables y hasta que pueden llegar a ser las señales de la respuesta emocional.
+Esta asociación contribuye a estados emocionales como el miedo.
+Se ha observado que la amígdala se activa con olores desagradables, reflejando la asociación entre los olores y las emociones.
+El hipocampo también colabora con la memoria olfatoria y con el aprendizaje: Muchos procesos de memoria olfativa ocurren en el mismo de forma similar a lo que ocurre en la amígdala: un olor se asocia con una recompensa.
+El olor en el hipocampo también contribuye a la formación de memoria episódica, es decir, las memorias de eventos en un lugar o momento específico.
+El momento en que ciertas neuronas del hipocampo disparan sus potenciales de acción se asocia por algunas neuronas con otra señal recibida, como un olor.
+De esta forma, la presentación del olor en un momento diferente puede causar el recuerdo del evento relacionado.
+En vertebrados inferiores (lampreas y teleósteos) las células mitrales proyectan exclusivamente a la habénula del hemisferio derecho.
+Se ha demostrado que la habénula dorsal es funcionalmente asimétrica y que muestra respuestas a estímulos olfatorios principalmente en el hemisferio derecho.
+De hecho, las neuronas de la habénula tienen actividad espontánea incluso en ausencia de una estimulacióin olfatoria.
+Esta neuronas se organizan en grupos funcionales que podrían gobernar respuestas olfatorias.
+Hay evidencias de la conexión entre el bulbo olfatorio, las emociones y la memoria.
+La eliminación quirúrgica del bulbo olfatorio en ratas causa cambios estructurales en la amígdala y el hipocampo similares a aquellos observados en personas con depresión y algunos investigadores utilizan estos modelos para investigar en el uso de antidepresivos.
+Las investigaciones han mostrado que la extirpación del bulbo olfatorio en ratas lleva a una reorganización dendrítica en el hipocampo así como a una reducida plasticidad en el mismo.
+Estos cambios en el hipocampo se han asociado además con cambios comportamentales con características similares a la depresión.
+El hipocampo y la amígdala además afectan a la percepción olfatoria de forma que durante ciertos estados fisiológicos como el hambre el olor de comida podría parecer más placentero y gratificante debido a la asociación en la amígdala y el hipocampo del olor de comida con la recompensa de comer.
+Algunas proyecciones desde la corteza olfatoria primaria se envían a la corteza orbitofrontal (COF).
+La COF contribuye también a la asociación entre los olores y las recompensas así como en la valoración de la recompensa, por ejemplo, el valor nutricional de un alimento.
+La COF recibe proyecciones de la corteza piriforme, la amígdala y las cortezas parahipocampales.
+Las neuronas en la COF que codifican información sobre la recompensa de la alimentación activan el sistema de recompensa cuando son estimuladas, asociando así el acto de comer con una recompensa.
+La COF también proyecta a la corteza cingulada anterior donde desempeña un papel en el apetito.
+La COF también asocia los olores con otros estímulos como el gusto.
+La percepción del olor y la discriminación también implican la acción de la COF.
+El bulbo olfatorio es, junto a la zona subgranular del giro dentado del hipocampo, una de las dos estructuras que integran nuevas neuronas en la edad adulta de mamíferos (neurogénesis adulta).
+En la mayoría de los mamíferos estas células nacen de células madre neurales de la zona subventricular y migran rostralmente a través de la vía migratoria rostral hasta el bulbo olfatorio principal y accesorio.
+Dentro del bulbo olfatorio estos neuroblastos inmaduros se desarrollan hasta ser interneuronas completamente funcionales, tanto células granulares como periglomerulaes en sus respectivas capas.
+Los axones de las neuronas sensitivas olfatorias que forman sinapsis con los glomérulos son a su vez capaces de regenerarse después del crecimiento de una nueva neurona sensitiva olfatoria en el epitelio olfativo.
+A pesar del recambio entre los axones sensitivos y las interneuronas, las neuronas de proyección (células mitrales y en penacho) que forman sinapsis con estos axones no son estructuralmente plásticas.
+La función de la neurogénesis adulta en esta región está siendo aún estudiada.
+La supervivencia de las neuronas inmaduras que entran en el circuito es altamente sensitiva a la actividad olfatoria y, en particular, con tareas de aprendizaje asociativo.
+Esto ha llevado a la hipótesis de que las nuevas neuronas participan en tareas de memoria.
+Algunos estudios muestran que la pérdida de la neurogénesis adulta en hembras de ratón impide el reconocimiento de la pareja sexual, otros autores muestran que la completa eliminación de la neurogénesis adulta (incluyendo la neurogénesis hipocampal) resulta en la disrupción completa del comportamiento maternal y en déficits en la conducta sexual.
+También se ha observado que si se inhibe la neurogénesis adulta en ratones estos son capaces de asociar feromonas presentes en la orina de zorros, que generan una aversión/miedo innato en roedores, con un refuerzo.
+Comparando la estructura del bulbo olfatorio en diferentes especies de vertebrados como la rana leopardo y el ratón de laboratorio se revela que todos comparten la misma estructura fundamental, es decir cinco capas conteniendo los núcleos de tres tipos celulares principales, a pesar de las diferencias en la forma o el tamaño.
+El lóbulo antenal de insectos como la mosca de la fruta es una estructura similar análoga al bulbo olfatorio de los vertebrados.
+Es posible que el bulbo olfatorio y el lóbulo antenal sean similares porque su estructura es una solución óptima para el problema computacional que experimentaron todos los sistemas olfatorios y, por ende, sea resultado de una evolución independiente en diferentes filogenias, lo que se conoce como evolución convergente.
+"El incremento del tamaño del encéfalo en relación con el tamaño corporal - encefalización - está íntimamente ligado con la evolución humana. Sin embargo, dos linajes evolutivamente diferentes, neandertales y humanos modernos, han producido especies con grandes encéfalos similares. De esta forma, entender la evolución del encéfalo humano debe incluir investigación en la reorganización encefálica específica, posiblemente reflejada por cambios en la forma del encéfalo. Aquí aprovechamos la integración entre el encéfalo y la base craneal subyacente para testear hipótesis sobre la evolución del encéfalo en el género Homo. Los análisis morfométricos en tres dimensiones de la forma endobasicraneal revelan detalles no documentados sobre cambios evolutivos en Homo sapiens. Bulbos olfativos más extensos, una corteza orbitofrontal más ancha y un incremento relativo y proyectado hacía delante delos polos del lóbulo temporal parecen características únicas de los humanos modernos.
+Esta reorganización del encéfalo trae detrás consecuencias para la forma del cráneo que podrían haber contribuido a la evolución de las capacidades sociales y de aprendizaje del Homo sapiens en el cual las funciones olfatorias superiores y sus implicaciones cognitivas, neurologicas y comportamentales podrían haber sido hasta ahora subestimadas."

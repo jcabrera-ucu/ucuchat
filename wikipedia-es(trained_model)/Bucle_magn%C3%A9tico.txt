@@ -1,0 +1,18 @@
+El bucle magnético, bucle de inducción magnética o bucle de inducción de audiofrecuencia es un sistema de comunicación para personas que utilizan audífonos.
+Las personas sordas o con una disminución auditiva, incluso si usan audífonos o implantes, pueden encontrar dificultades para oír en espacios con ruido ambiente o donde la señal acústica sea pobre, como supermercados o teatros.
+El bucle magnético reduce el ruido de fondo de manera significativa, mejorando así la inteligibilidad.
+El sistema emite señales magnéticas inalámbricas.
+Estas son recogidas por el audífono.
+Para captar las señales, el bucle debe disponer de la llamada posición T y colocarse en esta posición.
+El bucle filtra los sonidos de fondo no deseados y puede ser usado por muchas personas al mismo tiempo.
+Es posible encontrar sistemas de bucle magnético en auditorios, teatros, cines, iglesias, salas de reuniones y, en general, espacios de servicio público.
+El sistema es útil tanto para facilitar la accesibilidad al entorno, para orientarse y moverse en el espacio, como para percibir información sonora de todo tipo y del lenguaje.
+Se trata de un sistema normalizado a nivel mundial.
+Las personas que usan audífonos pueden identificar espacios con bucle magnético disponible gracias a un símbolo accesibilidad auditiva que los identifica.
+Un sistema de bucle magnético cuenta con un micrófono, un amplificador y un cable.
+El micrófono registra el sonido.
+El amplificador procesa la señal y la envía por el cable.
+El cable se encuentra fijado en un perímetro, que delimita un área específica en la que funciona.
+El cable recibe la señal del amplificador y envía el sonido directamente a los audífonos de las personas que se encuentren en la zona delimitada y que hayan colocado en posición T sus audífonos.
+La bobina telefónica de un audífono, también conocida por posición T, consiste en una diminuta bobina integrada en la prótesis que induce una corriente eléctrica cuando hay un sistema de bucle magnético activo.
+Con la bobina telefónica, los audífonos son capaces de captar las señales magnéticas de los sistemas de bucle y amplifican dicha señal.

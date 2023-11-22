@@ -1,0 +1,23 @@
+El cálculo de Itô, extiende los métodos del cálculo a procesos estocásticos.
+Tiene aplicaciones muy importantes en matemáticas financieras y en ecuaciones diferenciales estocásticas.
+El concepto central es la integral estocástica de Itô que es una generalización estocástica de la integral de Riemann-Stieltjes en análisis.
+Los integrandos y los integradores son ahora procesos estocásticos:
+donde H es un proceso cuadrado-integrable adaptado a la filtración generada por X, que es un movimiento browniano o más generalmente, una semimartingala.
+El resultado de la integral es otro proceso estocástico.
+Concretamente, la integral desde 0 hasta algún valor particular t es una variable aleatoria, definida como el límite de una secuencia de variables aleatorias.
+El camino de un movimiento Browniano no satisface los requisitos necesarios del cálculo infinitesimal tradicional, ya que como el integrando es un proceso estocástico, la integral de Itô se define para lograr integrar una función que es no diferenciable en ningún punto y además tiene una variación infinita en cada intervalo de tiempo.
+El proceso Y definido anteriormente como
+es en sí mismo un proceso estocástico con parámetro de tiempo t, también suele escribirse como Y=H\cdot X.
+Alternativamente, la integral en ocasiones es escrita en forma diferencial dY=HdX, que es equivalente a.
+Como el cálculo de Itô se ocupa de los procesos estocásticos a tiempo continuo, se supone que un espacio de probabilidad filtrado se da
+La σ-álgebra representa la información disponible hasta el tiempo t y el proceso X es adaptado si X_t es -medible.
+Un movimiento browniano B se entiende por ser un -movimiento browniano, que simplemente es un movimiento browniano estándar con las propiedades de que B_t es -medible y que B_{t+s}-B_t es independiente de para todo s,t\geq 0.
+Como en cálculo ordinario, la integración por partes es un resultado importante en cálculo estocástico.
+La fórmula de integración por partes para la integral de Itô difiere del resultado estándar por la inclusión del término variación cuadrática.
+Este término viene del hecho de que el cálculo de Itô trata con procesos con variación cuadrática no nula, que sólo ocurre con procesos con variación infinita (tal como el movimiento browniano).
+Si X y Y son semimartingalas entonces
+donde [X,Y] es la variación cuadrática del proceso.
+El lema de Itô es una versión de la regla de la cadena o la fórmula del cambio de variables que aplica para la integral de Itô.
+Es uno de los teoremas más usados en cálculo estocástico.
+Para una semimartingala continua n-dimensional y una función  continuamente diferenciable, f(X) es una semimartingala y
+lo anterior difiere de la regla de la cadena usual del cálculo debido a la inclusión del término que incluye la variación cuadrática [X^i,X^j].

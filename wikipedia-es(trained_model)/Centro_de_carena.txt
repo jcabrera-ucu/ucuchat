@@ -1,0 +1,7 @@
+Centro de carena es el centro de gravedad del volumen de agua desplazado por un flotador, para una condición dada.
+También se conoce con el nombre de centro de empuje, ya que es con fines de estabilidad donde se considera aplicada dicha fuerza.
+Se representa con la letra C y en algunas publicaciones con la letra B para equipararlo al "center of buoyancy" del inglés.
+Dado el movimiento del buque en las olas, la posición del centro de carena es variable y depende de la forma y volumen de casco sumergido en ese instante.
+La curva en el plano trasversal que describe el centro de carena para los diferentes ángulos de rolido, se denomina Curva del centro de carena y sus radios: Radios de curvatura.
+En el gráfico de la derecha se observa la curva descrita por el centro de carena C de un buque para las diversas condiciones de flotación L0-F0; L1-F1; L2-F3 y L3-F3.
+<References/>

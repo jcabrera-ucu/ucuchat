@@ -1,0 +1,6 @@
+El Dr. Fujio Masuoka (舛岡 富士雄) es el inventor de la memoria flash.
+Se unió a Toshiba en 1971, donde desarrolló la memoria SAMOS.
+El Dr. Masuoka estaba excitado principalmente por la idea de memorias no volátiles, aquellas que almacenan los datos incluso cuando no tienen suministro eléctrico.
+Actualmente es profesor en la Universidad de Tohoku en Sendai, Japón.
+Masuoka recibió en 1997 el premio Memorial Morris N. Liebmann(en) del IEEE.
+Desde 2005 Masuoka está trabajando como CTO de Unisantis Electronics sobre un desarrollo de un transistor tridimensional.

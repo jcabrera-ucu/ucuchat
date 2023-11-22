@@ -1,0 +1,30 @@
+(229762) Gǃkúnǁʼhòmdímà, designación provisional , es un objeto transneptuniano y binario del disco disperso extendido, ubicado en la región más externa del sistema solar.
+Fue descubierto el 19 de octubre de 2007 por astrónomos estadounidenses Megan Schwamb, Michael Brown y  David Rabinowitz en el Observatorio Palomar en California y mide aproximadamente 600 km de diámetro, y es representativo de objetos de tamaño medio por debajo de aproximadamente 1000 km que no parecen haberse colapsado en cuerpos completamente sólidos.
+Keith Noll, Will Grundy y sus colegas del Telescopio espacial Hubble descubrieron su luna de 100 kilómetros en 2008.
+El nombre  Gǃkúnǁʼhòmdímà  proviene del pueblo Juǀʼhoansi (ǃKung) de Namibia.
+Gǃkúnǁʼhòmdímà es la Bella Chica Aardvark de la mitología juǀʼhoana, que a veces aparece en las historias de otros pueblos San como una niña pitón o una niña elefante; ella defiende a su gente y castiga a los malhechores usando espinas  gǁámígǁàmì , una nube de lluvia llena de granizo y su cuerno mágico oryx.
+El nombre "Gǃkúnǁʼhòmdímà" deriva de  gǃkún  'aardvark',  ǁʼhòm mà  'mujer joven' y el sufijo femenino  dí .
+La luna Gǃòʼé ǃHú lleva el nombre de su cuerno: significa simplemente 'oryx' ( gǃòʼé ) 'cuerno' ( ǃhú ).
+En el idioma Juǀʼhoan, los nombres se pronuncian /ᶢᵏǃ͡χʼṹ ᵑ̊ǁʰòmdí mà||Gǃkunǁ'homdima.ogg/ y /ᶢǃòˀé ǃʰú||Gǃo'e ǃHu.ogg/, respectivamente.
+Por lo general, cuando se habla español, las consonanctes con clics en palabras del juǀʼhoan y otros idiomas simplemente se ignoran (tanto como Xhosa se pronuncia /'koʊzə/ (/KOHzə|/) en vez de /ǁʰosa/, resultando en /ˌɡuːnhoʊmˈdiːmə/ (/GOONhohmDEEmə/) y /ˌɡoʊ.eɪˈhuː/ (/GOHayHOO/) o /ˌɡoʊ.eɪˈkuː// (/GOHayKOO/).
+En ASCII las representaciones de los nombres serían ⟨G!kun||'homdima⟩ (o ⟨G!kun//'homdima⟩) para el primario y ⟨G!o'e !Hu⟩ or ⟨G!o'e!hu⟩ para el secundario.
+Gǃkúnǁʼhòmdímà orbita alrededor del Sol a una distancia de 37.5–107.9 UA una vez cada 620 años y 2 meses (226,517 días; semieje mayor de 72,72 UA).
+Su órbita tiene una excentricidad de 0,48 y una  inclinación de 23 ° con respecto a la eclíptica.
+Una excentricidad de 0,48 sugiere que estaba gravitacionalmente dispersada en su órbita excéntrica actual.
+Llegará a perihelio en julio de 2046, y los eventos de ocultación mutua con su satélite comenzarán a fines de 2050 y durarán la mayor parte de esa década.
+Tiene una magnitud absoluta brillante de 3,7, y se ha observado 178 veces en 16 oposiciones con imágenes precovery hasta 1982.
+Los eventos de ocultación estelar indican que Gǃkúnǁʼhòmdímà tiene un diámetro efectivo (esfera equivalente) de 600–670 km, pero no es esférico.
+Debido a las complicaciones de su forma no esférica, el período de rotación no puede determinarse definitivamente a partir de los datos actuales curva de luz, que tiene una amplitud de Δm = 0,03 ± 0,01 mag, pero la solución más simple es 11.05 horas.
+Es casi seguro entre eso y las 41 horas.
+La masa del sistema es 1,36±0,03 1020 kg, alrededor del 2% de la luna de la Tierra y un poco más que la luna de Saturno Encelado.
+Es poco probable que la luna represente más del 1% del total.
+Su albedo geométrico es de aproximadamente 0,15 y su densidad es de aproximadamente 1.
+A partir de junio de 2018, Mike Brown lo enumera como posible planeta enano, debido a su tamaño.
+Sin embargo, Grundy et al. proponen que la baja densidad y el albedo, combinados con el hecho de que los TNO tanto más grandes como más pequeños, incluidos los cometas, tienen una fracción sustancial de roca en su composición, lo indican y objetos similares como (174567) Varda y (120347) Salacia (en el rango de tamaño de 400–1000 km, con albedos menores a ≈0.2 y densidades de ≈1,2 g/cm³ o menos) pueden retener un grado de porosidad en su estructura física, ya que nunca colapsaron y posiblemente se diferenciaron en cuerpos planetarios como mayor densidad o mayor albedo (y presumiblemente resurgieron) 90482 Orcus y 50000 Quaoar, o en los mejores solo están parcialmente diferenciados.
+Tiene un satélite conocido, Gǃòʼé ǃHú.
+Es uno de los TNO más rojos conocidos.
+El tamaño y la masa solo se pueden inferir.
+La diferencia de magnitud entre los dos es 3,242 ± 0,039 mag.
+Esto correspondería a una diferencia de diámetro de un factor de 4,45 ± 0,08, suponiendo el mismo albedo.
+Los satélites rojos a menudo tienen albedos más bajos que sus primarios, pero ese puede no ser el caso con esta luna.
+Dichas incertidumbres no afectan los cálculos de densidad, ya que la luna tiene solo alrededor del 1% del volumen, por lo que es menos importante que las incertidumbres en el diámetro del primario.

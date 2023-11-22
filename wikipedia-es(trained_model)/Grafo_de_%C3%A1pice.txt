@@ -1,0 +1,87 @@
+En teoría de grafos, una rama de las matemáticas, un grafo de ápice (o también grafo apical o grafo de vértice) es un tipo de grafo que puede convertirse en un grafo plano mediante la eliminación de un solo vértice.
+El vértice eliminado se llama ápice del grafo.
+Es "un" ápice, y no "el" ápice, porque uno de estos grafos puede tener más de uno, como por ejemplo en el caso de los grafos mínimos no planos
+K5
+o
+K3,3
+, en los que cada vértice es un ápice.
+Los grafos de ápice incluyen grafos que en sí mismos son planos, en cuyo caso nuevamente cada vértice es un ápice.
+El grafo nulo también se cuenta como un grafo de ápice aunque no tenga ningún vértice para eliminar.
+Son cerrados bajo la operación de tomar menores y juegan un papel considerable en varios otros aspectos de la teoría de grafos menores: los embebidos sin enlaces, la conjetura de Hadwiger, los grafos YΔY-reducibles, y su relación con el ancho de árbol y con el diámetro de un grafo.
+Los grafos de ápice son cerrados bajo la operación de tomar menores: contraer cualquier arista, o eliminar cualquier arista o vértice, conduce a otro grafo apical.
+Porque, si G es un grafo de vértice con ápice v, entonces cualquier contracción o eliminación que no involucre a v conserva la planitud del grafo restante, al igual que cualquier eliminación de una arista que incida en v. Si se contrae una arista incidente en v, el efecto sobre el grafo restante es equivalente a la eliminación del otro extremo de la arista.
+Y si se elimina v, se puede elegir cualquier otro vértice como ápice.
+Por el teorema de Robertson-Seymour, debido a que forman una familia de grafos cerrados menores, los grafos de ápice tienen una caracterización de grafo prohibido.
+Solo hay un número finito de grafos que no son grafos de ápice ni tienen otro grafo que no sea de ápice como menor.
+Estos grafos son menores prohibidos por la propiedad de ser un grafo de ápice.
+Cualquier otro grafo G es un grafo de ápice si y solo si ninguno de los menores prohibidos es un menor de G. Estos menores prohibidos incluyen los siete grafos de la familia de Petersen, tres grafos desconectados formados a partir de las uniones disjuntas de
+K5
+y
+K3,3
+, y muchos otros grafos.
+Sin embargo, se desconoce una descripción completa de ellos.
+A pesar de que se desconoce el conjunto completo de menores prohibidos, es posible probar si un grafo dado es un grafo de vértice y, de ser así, encontrar un vértice para el grafo mediante un algoritmo de complejidad temporal.
+De manera más general, para cualquier k constante fija, es posible reconocer en tiempo lineal los grafos k-apicales, los grafos en los que la eliminación de un conjunto cuidadosamente elegido de como máximo k vértices conduce a un grafo plano.
+Sin embargo, si k es variable, el problema es NP-completo.
+Cada grafo de ápice tiene número cromático como máximo de cinco: el grafo plano subyacente requiere como máximo cuatro colores por el teorema de los cuatro colores, y el ápice restante necesita como máximo un color adicional.
+usó este hecho en su prueba del caso
+k= 6
+de la conjetura de Hadwiger, la afirmación de que cada grafo 6-cromático tiene el grafo completo
+K6
+como menor: demostraron que cualquier contraejemplo mínimo a la conjetura tendría que ser un grafo de ápice, pero dado que no hay grafos de ápice 6-cromáticos, no puede existir un contraejemplo.
+conjeturó que todo grafo 6-vértices-conectado que no tenga
+K6
+como menor debe ser un grafo de ápice.
+Si esto se probara, el resultado de Robertson-Seymour-Thomas sobre la conjetura de Hadwiger sería una consecuencia inmediata.
+La conjetura de Jørgensen sigue sin probarse.
+Sin embargo, si es falsa, solo tiene un número finito de contraejemplos.
+Una familia de grafos F tiene ancho de árbol local acotado si los grafos en F obedecen a una relación funcional entre el diámetro y el ancho de árbol: existe una función f tal que el ancho de árbol de un grafo de diámetro-d en F es como máximo
+f (d)
+. Los grafos de ápice no tienen un ancho de árbol local acotado: los grafos de ápice formados al conectar un ápice a cada vértice de un grafo de celosía de
+n × n
+tienen un ancho de árbol n y un diámetro de 2, por lo que el ancho de árbol no está limitado por una función de diámetro para estos grafos.
+Sin embargo, los grafos de vértice están íntimamente conectados con el ancho de árbol local acotado: las familias de grafos cerrados menores F que tienen un ancho de árbol local acotado son exactamente las familias que tienen un grafo de ápice como uno de sus menores prohibidos.
+Una familia de grafos cerrados de menor importancia que tiene un grafo de ápice como uno de sus menores prohibidos se conoce como libre de menores de ápice.
+Con esta terminología, la conexión entre los grafos de ápice y el ancho de árbol local se puede reafirmar como el hecho de que las familias de grafos libres menores de ápice son las mismas que las familias de grafos cerrados menores con ancho de árbol local acotado.
+El concepto de ancho de árbol local acotado forma la base de la teoría de bidimensionalidad y permite que muchos problemas algorítmicos en grafos libres de menores de ápice se resuelvan exactamente mediante un algoritmo de tiempo polinomial o un algoritmo manejable de parámetros fijos, o se aproximen usando un esquema de aproximación de tiempo polinomial.
+Las familias de grafos sin menores de ápice obedecen a una versión reforzada del teorema de estructura de grafos, lo que lleva a algoritmos de aproximación adicionales para la coloración de grafos y para el problema del viajante.
+Sin embargo, algunos de estos resultados también se pueden extender a familias de grafos cerrados menores arbitrarios a través de teoremas de estructura que los relacionan con grafos libres de menores de ápice.
+Si G es un grafo de ápice con v como ápice, y
+τ
+es el número mínimo de caras necesarias para cubrir todos los vecinos de v en una incrustación plana de
+G \ {v},
+, entonces G puede estar incrustado en una superficie bidimensional de genus
+τ – 1
+. Para comprobarlo, simplemente basta agregar el número de puentes al empotramiento plano, conectando entre sí todas las caras en las que se debe enlazar v. Por ejemplo, al agregar un solo vértice a un grafo plano exterior (un grafo con
+τ= 1
+) se produce un grafo plano. Cuando
+G \ {v}
+es 3-conectado, su límite está dentro de un factor constante de óptimo: cada incrustación superficial de G requiere género al menos
+τ⁄160
+. Sin embargo, es de complejidad NP determinar el género óptimo de una superficie incrustada de un grafo de ápice.
+Al usar árboles SPQR para codificar las posibles incrustaciones de la parte plana de un grafo de ápice, es posible obtener un dibujo del grafo en el plano en el que los únicos cruces involucran al ápice, minimizando el número total de cruces, en tiempo polinómico.
+Sin embargo, si se permiten cruces arbitrarios, se vuelve de complejidad NP minimizar el número de cruces, incluso en el caso especial de los grafos de vértice formados al agregar una sola arista a un grafo plano.
+Los grafos de vértice también son embebibles sin enlaces en el espacio tridimensional: se pueden incrustar de tal manera que cada ciclo del grafo sea el límite de un disco que no está atravesado por ningún otro elemento del grafo.
+Un dibujo de este tipo puede obtenerse representando la parte plana del grafo en un plano, colocando el ápice sobre el plano y conectándolo mediante aristas en línea recta a cada uno de sus vecinos.
+Los grafos incrustables sin enlaces forman una familia cerrada de menores con los siete grafos de la familia de Petersen como sus menores mínimos prohibidos; por lo tanto, estos grafos también están prohibidos como menores para los grafos de ápice.
+Sin embargo, existen grafos integrables sin enlaces que no son grafos de ápice.
+Un grafo conexo es YΔY-reducible si puede reducirse a un solo vértice mediante una secuencia de pasos, cada uno de los cuales es una transformación Δ-Y o Y-Δ, la eliminación de un autobucle o de una adyacencia múltiple, la eliminación de un vértice con un vecino, y la sustitución de un vértice de grado dos y sus dos aristas vecinas por una sola arista.
+Al igual que los grafos de vértice y los grafos embebibles sin enlaces, los grafos reducibles YΔY están cerrados bajo grafos menores.
+Y, al igual que los grafos embebibles sin enlaces, los grafos reducibles YΔY tienen los siete grafos de la familia de Petersen como menores prohibidos, lo que genera la pregunta de si estos son los únicos menores prohibidos y si los grafos reducibles YΔY son los mismos que los grafos embebibles sin enlaces.
+Sin embargo, Neil Robertson proporcionó un ejemplo de un grafo de ápice que no es reducible mediante la transformación YΔY.
+Dado que cada grafo de ápice se puede incorporar sin enlaces, esto muestra que hay grafos que se pueden incorporar sin enlaces pero no reducibles con YΔY y, por lo tanto, hay menores prohibidos adicionales para los grafos reducibles con YΔY.
+El grafo de vértice de Robertson se muestra en la figura.
+Se puede obtener conectando el ápice a cada uno de los vértices de grado tres de un rombododecaedro, o fusionando dos vértices diametralmente opuestos del grafo de un hipercubo de cuatro dimensiones.
+Debido a que el grafo del dodecaedro rómbico es plano, el grafo de Robertson es un grafo de ápice.
+También es un grafos sin triángulos con un menor de grado cuatro, por lo que no se puede cambiar por ninguna reducción de YΔY.
+Si un grafo es un grafo de ápice, no es necesariamente el caso de que tenga un vértice único.
+Por ejemplo, en los grafos no planos de menor-mínimo K5 y K3,3, cualquiera de los vértices se puede elegir como vértice.
+definió un grafo casi plano como un grafo de ápice no plano con la propiedad de que todos los vértices pueden ser ápices del grafo; por lo tanto, K5 y K3,3 son casi planos.
+Proporcionó una clasificación de estos grafos en cuatro subconjuntos, uno de los cuales consta de los grafos que (como la escalera de Möbius) se pueden incrustar en la banda de Möbius de tal manera que el borde único de la tira coincida con un camino hamiltoniano del grafo.
+Antes de la prueba del teorema de los cuatro colores, se demostró que cada grafo casi plano se puede colorear con un máximo de cuatro colores, a excepción de los grafos formados a partir de un grafo rueda con un ciclo externo impar al reemplazar el vértice central con dos vértices adyacentes, lo que requiere cinco colores.
+Además, demostró que, con una sola excepción (el grafo complemento de ocho vértices del cubo), cada grafo casi plano tiene una incrustación en el plano proyectivo.
+Sin embargo, la expresión grafo casi plano es muy ambigua: también se ha utilizado para referirse a grafos de ápice, grafos formados al agregar una arista a un grafo plano, y grafos formados a partir de un grafo incrustado plano al reemplazar un número acotado de caras por vórtices de ancho de ruta acotado, así como para otros conjuntos de grafos definidos con menos precisión.
+Se dice que un grafo abstracto es de n-ápices si se puede hacer plano eliminando n o menos vértices.
+Un grafo de 1 vértice también se dice que es de ápice.
+De acuerdo con, un grafo se denomina de arista-ápice si hay una arista que se puede eliminar para hacer que sea plano.
+Análogamente, se dice que un grafo es de ápice por contracción si hay alguna arista que se puede contraer para hacer que sea plano.

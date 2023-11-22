@@ -1,0 +1,16 @@
+En matemáticas, una variedad de Banach es una variedad modelada sobre espacios de Banach.
+Más concretamente, es un espacio topológico en el que cada punto tiene un entorno homeomorfo a un abierto de un espacio de Banach.
+Las variedades de Banach son una posibilidad de extender la noción de variedad a infinitas dimensiones.
+Una generalización aún más amplia se consigue con las variedades de Fréchet, en las que se reemplazan los espacios de Banach por espacios de Fréchet.
+Por otro lado, una variedad de Hilbert es un caso especial de variedad de Banach en el que la variedad es modelada localmente sobre espacios de Hilbert.
+Sea X un conjunto.
+Un atlas de clase Cr, r ≥ 0, sobre X es una colección de pares (llamados cartas) (Ui, φi), i ∈ I, tales que
+Uno puede demostrar que existe una única topología sobre X tal que cada Ui es abierto y cada φi es un homeomorfismo.
+Con frecuencia, se supone que este espacio topológico es Hausdorff, pero esto no es necesario desde el punto de vista de la definición formal.
+Si todos los espacios de Banach Ei son iguales al mismo espacio E, llamaremos al atlas un E-atlas.
+sin embargo, no es a priori necesario que los espacios de Banach Ei sean el mismo espacio, ni siquiera que sean espacios vectoriales topológicos isomorfos.
+Si dos cartas (Ui, φi) y (Uj, φj) verifican que Ui and Uj tienen una intersección no vacía, entonces examinando la derivada de la función de transición
+se demuestra que Ei y Ej deben ser isomorfos como espacios vectoriales topológicos.
+En el caso de dimensión infinita, una variedad de Banach no es localmente compacta.
+Además, una variedad de Banach no siempre admite particiones diferenciables de la unidad.
+De hecho, el propio espacio de Banach sobre el que están modeladas puede no admitir dicho tipo de particiones de la unidad.

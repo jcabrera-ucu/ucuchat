@@ -1,0 +1,27 @@
+En el ámbito de las matemáticas, una función L es una función meromorfa en el plano complejo, asociada con una de varias categorías de objetos matemáticos.
+Una serie L es una serie de Dirichlet, generalmente convergente en un semiplano, que puede dar lugar a una función L mediante una extensión analítica.
+La teoría de las funciones L se ha convertido en una parte muy substancial, y todavía con numerosas conjeturas, de la teoría de números contemporánea.
+En ella, se construyen amplias generalizaciones de la función zeta de Riemann y de las series-L para un carácter de Dirichlet, y aunque sus propiedades generales, en la mayoría de los casos todavía no han sido demostradas, se enumeran en una forma sistemática.
+Es preciso distinguir entre las series L, una representación mediante series infinitas (por ejemplo, las series de Dirichlet para la función zeta de Riemann), y la función L, la función en el plano complejo de su extensión analítica.
+La construcción general comienza con una serie L-series, definida como una serie de Dirichlet, y luego por una expansión como un producto de Euler indexado mediante números primos.
+Es necesario recurrir a estimadores para demostrar que esto converge en algún semiplano positivo de los números complejos.
+Luego se analiza si la función definida de esta manera puede ser extendida analíticamente al resto del plano complejo (tal vez con algunos polos).
+Es esta extensión meromorfa conjetural al plano complejo la que es denominada una función L.
+En los casos clásicos, ya se sabe que existe información útil contenida en los valores y comportamiento de la función L en puntos en los que la representación de la serie no converge.
+El término genérico función L en este contexto incluye números tipos conocidos de funciones zeta.
+La clase de Selberg es un intento de capturar las propiedades fundamentales de las funciones L en un conjunto de axiomas, y que alienta a estudiar las propiedades de la clase en lugar de las de las funciones individuales.
+Una lista de las características de ejemplos de las funciones L conocidas, que uno quisiera ver generalizada incluye:
+Un cúmulo de trabajo detallado ha producido una gran cantidad de conjeturas plausibles, por ejemplo sobre el tipo exacto de ecuación funcional que debe utilizarse.
+Dado que la función zeta de Riemann se conecta a través de sus valores para enteros positivos pares (y enteros negativos impares) con los números de Bernoulli, es de esperar obtener una generalización apropiada de este fenómeno.
+En este caso se han obtenido resultados para funciones L p-ádicas, que describen ciertos módulos de Galois.
+La estadística de las distribuciones de ceros son interesantes por su relación con problemas tales como la Hipótesis Generalizada de Riemann, distribución de números primos, etc. También resultan de interés las relaciones con la teoría de matriz aleatoria y caos cuántico.
+La estructura fractal de la distribución ha sido estudiada utilizando análisis reescalado de rango.
+La autosimilitud de la distribución de ceros es notable, y se caracteriza por una dimensión fractal grande de 1.9.
+Esta dimensión fractal relativamente grande se verifica en ceros que abarcan por lo menos quince órdenes de magnitud para la función zeta de Riemann, y también para ceros de otras funciones L de diferentes órdenes y conductores.
+Uno de los ejemplos más influyentes, tanto para la historia de las funciones L más aplicables y como un problema de investigación aún bajo estudio, es la conjetura desarrollada por Bryan Birch y Peter Swinnerton-Dyer a comienzos de la década de 1960.
+La misma es aplicable a una curva elíptica E, y el problema que intenta resolver es predecir el rango de la curva elíptica sobre los números racionales (u otro campo global): es decir la cantidad de generadores libres de su grupo de puntos racionales.
+Gran cantidad de trabajo previo comenzó a ser unificado alrededor de un mejor conocimiento de las funciones L.
+Ello constituyó una especie de ejemplo paradigma de la naciente teoría de las funciones L.
+Este desarrollo precedió al Programa Langlands por varios años, y se puede que considerar que lo complementa: el trabajo de Langlands se relaciona en gran medida con las Funciones  L  de Artin, las cuales igual que las Funciones L de Hecke fueron definidas con varias décadas de anterioridad, y con las funciones L asociadas a representaciones automorfas generales.
+Gradualmente comenzó a quedar en evidencia en qué sentido la construcción de las Funciones zeta de Hasse–Weil puede utilizarse para proveer funciones L válidas, en un sentido analítico: es preciso contar con información proveniente de análisis, o sea de análisis automorfo.
+Actualmente el caso general unifica en un nivel conceptual varios programas de investigación diferentes.

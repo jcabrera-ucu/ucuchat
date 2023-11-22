@@ -1,0 +1,28 @@
+GNUnet es un software libre para redes P2P descentralizadas.
+Este marco ofrece cifrado a nivel de capa de red y localización de recursos.
+Los pares de GNUnet monitorizan el comportamiento de otros pares, con respecto al uso de recursos; los pares que contribuyen a la red son recompensados con un mejor servicio.
+El código fuente se ha escrito en C, pero hay un esfuerzo con Freeway para producir una versión compatible escrita en Java.
+Actualmente GNUnet funciona bajo GNU/Linux, BSD, Mac OS X, Solaris y Windows.
+Forma parte del proyecto GNU.
+Su principal aplicación es el anonimato y la resistencia a la censura, permitiendo que los usuarios publiquen u obtengan información anónimamente.
+El servicio de intercambio de archivos usa el protocolo anónimo de GNUnet para enrutar solicitudes y respuestas.
+Los mensajes de petición enviados son usados para buscar contenido y paquetes de información.
+Dependiendo de la carga del nodo de reenvío, los mensajes son enviados de 0 a más nodos.
+Cuando un nodo está bajo "presión" abandona peticiones de sus nodos vecinos con menor valor de confianza interna.
+GNUnet ofrece la opción "topología Friend-to-friend" para restringir las conexiones únicamente a los nodos confiables del usuario.
+Los nodos confiables del usuario (y demás) pueden intercambiar indirectamente archivos con la computadora del usuario, no usando su dirección IP directamente.
+GNUnet usa URIs (no aprobados por la IANA).
+La notación URI ha cambiado a largo de las versiones de GNUnet.
+La siguiente notación es usada desde la versión 0.7.0.
+Los URIs de GNUnet consiste principalmente en dos partes: el módulo y el identificador específico del módulo.
+Un URI de GNUnet tiene la forma gnunet://módulo/identificador donde módulo es el nombre del módulo e identificador es la serie específica del módulo.
+Los archivos intercambiados con GNUnet son codificados con ECRS (Encoding for Censorship-Resistant Sharing).
+El identificador del módulo ecrs consiste en cualquiera de los siguientes chk, sks, ksk o loc seguidos de un slash y un valor de categoría específico.
+Un tipo de intercambio de archivos con GNUnet apuntando a una copia del texto de la licencia GNU GPL:
+gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VH\
+ORERHE68JU8Q0FDTOH1DGLUJ3NLE99N0ML0N9PIBAGKG7MNPBTT6UKG.1I823C58O3L\
+KS24LLI9KB384LH82LGF9GUQRJHACCUINSCQH36SI4NF88CMAET3T3BHI93D4S0M5CC\
+6MVDL1K8GFKVBN69Q6T307U6O.17992
+Otro tipo de intercambio de archivos con GNUnet, apuntando a los resultados de una búsqueda con la palabra clave "gpl":
+gnunet://ecrs/ksk/gpl
+Aunque a modo de prueba más que como una aplicación completa, se ha implementado una función trivial de chat.

@@ -1,0 +1,92 @@
+Auto-Tune es un procesador de audio creado por Antares Audio Technologies para voces e instrumentales.
+Es usado para enmascarar inexactitudes y errores, por lo que ha permitido a muchos artistas producir grabaciones con afinación mucho más precisa.
+El Auto-Tune es también utilizado como un recurso artístico con el que obtener efectos y sonidos interesantes.
+Auto-Tune fue utilizado para producir el efecto de distorsión vocal en la canción «Believe» de la cantante Cher grabada en 1998.
+«Believe» fue la primera grabación comercial en utilizar este software con ese propósito.
+Después del éxito de dicha canción se le conoció también como el «efecto Cher».
+Inicialmente fue creado por Andy Hildebrand, un ingeniero trabajador de Exxon.
+Auto-Tune está disponible como un plugin para programas profesionales de audio usados en entornos de estudio, tales como ProTools, Cubase, FL Studio y como "stand-alone", unidad de "rackmount" para procesamiento en presentaciones en vivo.
+La armonización está pensada para incrementar la calidad musical de las partes vocales sin que sea evidente que el canto ha sido procesado.
+Sin embargo, con valores extremos en los parámetros, voluntariamente, con fines creativos, el Auto-Tune se ha convertido en un popular efecto de voz.
+El artista estadounidense de R&B T-Pain ha relacionado este efecto con su estilo utilizándolo recurrentemente en casi la totalidad de su música.
+También esto caracteriza al grupo de eurodance Eiffel 65.
+El rapero estadounidense Kanye West lo ha usado en varias de sus canciones, al igual que Lady Gaga con sus exitosas canciones «Poker Face», «Eh Eh», «Bad Romance», «Aura» y «Venus».
+El sonido particular que da este efecto se parece, por sus tonos precisos y de rápido cambio, a la sonoridad que se logra mediante vocoder o talkbox.
+Los artistas que usan Auto-Tune suelen recibir críticas negativas porque esto hace que se ponga en duda su talento vocal.
+Uno de los artistas que se oponen totalmente al Auto-Tune es el rapero estadounidense Jay-Z, de tal manera que el segundo sencillo de su disco The Blueprint 3 llevó por nombre «(D.O.A.) Death Of Auto-Tune» (Trad. en español como, La Muerte del Auto-Tune).
+Existe un software similar, llamado Melodyne, el cual le ha ido ganando campo al Auto-Tune, sobre todo en el área de producción, debido a que permite la edición manual del tono, teniendo unos alcances menos limitados que el software de Antares.
+Sin embargo, esta ventaja no existe cuando este se usa en vivo.
+Auto-Tune fue creado por Andy Hildebrand, un geofísico y músico aficionado que desarrolló complejos algoritmos para Exxon para interpretar datos generados por una onda sísmica para encontrar depósitos subterráneos de petróleo.
+Hildebrand descubrió que sus métodos para interpretar datos sísmicos podía ser utilizado para detectar, analizar y modificar el tono en archivos de audio.
+Su método para detectar el tono incluía el uso de autocorrelación y prometía ser superior a intentos anteriores, basados en la extracción, de características que tenían problemas procesando ciertos aspectos de la voz humana, como los diptongos.
+La industria musical consideraba que el uso de autocorrelación no era práctico debido al gran esfuerzo computacional requerido, pero Hildebrand encontró una simplificación que redujo casi un millón de factores de multiplicación a solo cuatro.
+Después de varios meses, a principios de 1996, implementó el algoritmo en un ordenador Macintosh personalizado y presentó el resultado en el NAMM Show ese mismo año.
+Hildebrand tuvo la idea de la tecnología correctora de tono para voz después la sugerencia de un amigo de su mujer, que había estado bromeando que podría crear un aparato para hacerla afinar.
+Originalmente, Auto-Tune estaba diseñado para corregir discretamente entonaciones imprecisas, con el objetivo de hacer la música más expresiva.
+La patente original afirmaba que “Cuando las voces o instrumentos están desafinados, las cualidades emocionales de la actuación se pierden.”
+De acuerdo con Chris Lee de Los Angeles Times, la canción «Believe», interpretada por Cher en el año 1998, inyectó las modulaciones mecánicas de Auto-Tune en el pop conscientemente.
+Los productores de Cher utilizaron el programa para “exagerar la artificialidad de una corrección de tono abrupta”, lo contrario a su propósito original.
+En una entrevista, los productores de «Believe» afirmaron haber utilizado un pedal DigiTech Talker FX, en lo que los editores de Sound on Sound consideraron un intento por mantener un secreto comercial.
+Después del éxito de «Believe» esta técnica fue inicialmente conocida cono “efecto Cher”.
+En el año 2000, el sencillo “Naive Song”, interpretado por Mirwais Ahmadzai en su álbum Production fue el primer tema en utilizar Auto-Tune en toda la letra.
+El uso de Auto-Tune como un efecto vocal fue popularizado a finales de la década de los 2000 por el artista de hip hop/R&B T-Pain, que elaboró el efecto e hizo un uso activo del Auto-Tune en sus canciones.
+Este nombraba el uso de la Talk Box del productor de new Jack swing Teddy Riley y al artista de funk Roger Troutman como inspiraciones para su uso del Auto-Tune.
+Se empezó entonces a vincular a T-Pain con el Auto-Tune hasta el punto de que tenía una app para iPhone que simulaba este efecto llamada “I Am T-Pain”.
+Ahora apodado “efecto T-Pain”, el uso del Auto-Tune se convirtió en un elemento habitual de la música de finales de la década de los 2000, donde fue especialmente utilizado en la obra de otros artistas de hip hop/R&B, incluyendo el sencillo de Snoop Dogg «Sexual Seduction», «Lollipop» de Lil Wayne y el álbum de Kanye West 8o8s & Heartbreak.
+En 2009, durante el auge de la popularidad del Auto-Tune, The Black Eyed Peas hicieron un importante uso del Auto-Tune y otros efectos artificiales de sonido en su hit número uno «Boom Boom Pow» para crear un sonido futurista.
+El grupo inglés Radiohead utilizó Auto-Tune en su álbum de 2001 Amnesiac para crear un «sonido nasal y despersonalizado» y para convertir un discurso hablado en música.
+De acuerdo con el cantante Thom Yorke, el software «intenta desesperadamente buscar música en tu discurso, y produce notas aleatorias.
+Si les asignas una tonalidad, tienes música».
+El uso de Auto-Tune en el hip hop ha resurgido a mitad de la década de 2010, especialmente en la música trap.
+Los artistas de hip hop como Future, Migos, Travis Scott y Lil Uzi Vert utilizan Auto-Tune para crear un sonido característico que les diferencie.
+El efecto también se ha popularizado en la música raï y otros géneros de África del Norte.
+De acuerdo con el Boston Herald, las estrellas del country Faith Hill, Shania Twain y Tim McGraw utilizan Auto-Tune en sus actuaciones en directo, llamándolo red de seguridad que garantiza una buena actuación.
+De todos modos, otros artistas de country como Allison Moorer, Trisha Yearwood, Vince Gill, Garth Brooks y Martina McBride, han negado el uso de Auto-Tune.
+En los 51º Premios Grammy, a principios de 2009, la banda Death Cab for Cutie hizo una aparición llevando lazos azules para protestar por el uso de Auto-Tune en la industria musical.
+En la primavera de ese año, Jay-Z tituló un sencillo de su álbum The Blueprint 3 como «D.O.A. (Death of Auto-Tune)».
+Jay-Z dijo que escribió la canción bajo la creencia personal de que demasiada gente se había subido al tren del Auto-Tune y que la tendencia se había convertido en un truco.
+Christina Aguilera hizo una aparición pública en Los Ángeles el 10 de agosto de 2009 llevando una camiseta en la que se leía “Auto Tune is for Pussies” («el Auto-Tune es para cobardes»).
+De todos modos, en una entrevista realizada más tarde por Sirius/XM afirmó que el Auto-Tune no era malo si se utilizaba de forma creativa y destacó que lo usó en sus canciones «Bionic» y «Elastic Love» pertenecientes a su quinto álbum Bionic (2010).
+Los detractores del plug-in argumentan que Auto-Tune tiene un efecto negativo en la percepción y el consumo de música en la sociedad.
+En 2004, el crítico musical del diario británico The Daily Telegraph, Neil McCormick, llamó a Auto-Tune un «particular invento siniestro que había puesto brillo extra a las letras pop desde la década de los 90», recogiendo «una nota cantada pobremente y transportándola, poniéndola en el centro de donde debería haber estado muerto».
+En 2009, la revista Time citó a un técnico de sonido anónimo de un cantante ganador de Grammy, quien dijo: «Digamos solo que he utilizado Auto-Tune para arreglar voces desde Britney Spears hasta álbumes de reparto de Bollywood».
+En el mismo artículo expresó que «esperaba que el fetiche del pop por la afinación perfecta uniformada desapareciera», especulando que las canciones pop se estaban volviendo cada vez más difíciles de diferenciar unas de las otras, pues “tema tras tema todas tienen una afinación perfecta”.
+De acuerdo con Tom Lord-Alge el programa se usa en prácticamente cada grabación hoy en día.
+En 2010, el programa de la televisión británica The X Factor admitió haber utilizado Auto-Tune para mejorar la voz de los concursantes.
+Simon Cowell, uno de los jefes del programa, lo prohibió en futuras ocasiones.
+También en 2010, la revista Time incluyó a Auto-Tune en su lista de “Los 50 peores inventos”.
+Usado por artistas desde Snoop Dogg y Lil Wayne hasta Britney Spears, Madonna y Cher, el uso de Auto-Tune ha sido como indicativo de una inhabilidad para cantar en tono.
+Trey Parker utilizó Auto-Tune en la canción de South park «Gay Fish», y descubrió que había que cantar fuera de tono para que el sonido se distorsionara, «tienes que ser un mal cantante para que esa cosa suene como suena.
+Si lo usas y cantas correctamente, no hace nada a tu voz».
+La artista de electropop Kesha es conocida por una utilización excesiva de Auto-Tune en sus canciones, poniendo en duda su talento vocal.
+El productor musical Rick Rubin escribió: «Ahora mismo, si escuchas pop, prácticamente todo está perfectamente afinado, en tempo y tono perfectos.
+Así de extendido está Auto-Tune».
+El periodista de Time Josh Tyrangiel llamó a Auto-Tune «el Photoshop para la voz humana».
+El cantante de big band Michael Bublé criticó al Auto-Tune por hacer a todo el mundo sonar igual —«como robots»— pero admite que lo utiliza cuando graba música pop.
+Ellie Goulding y Ed Sheeran han hecho un llamamiento a la honestidad en los shows en directo uniéndose a la campaña “Live Means Live” (En español, En vivo significa en vivo).
+Esta campaña fue lanzada por el compositor/cantautor David Mindel.
+Cuando una banda exhibe el logo “Live Means Live”, la audiencia sabe que «no hay Auto-Tune ni nada que no sea 100% en vivo» en el show, y que no hay coros grabados.
+A pesar de mala reputación, algunos críticos han afirmado que Auto-Tune abre nuevas posibilidades en la música pop, especialmente en el hip hop y el R&B.
+En lugar de usarlo como muletas para las voces pobres – su objetivo original – algunos músicos utilizan esta tecnología para aumentar su expresión artística.
+Cuando el dúo francés de house Daft Punk fue cuestionado por su uso de Auto-Tune en su sencillo «One More Time», Thomas Bangalter respondió diciendo que «mucha gente se queja porque los músicos utilizan Auto-Tune.
+Esto me recuerda a los años 70, cuando los músicos en Francia intentaron prohibir el sintetizador… Lo que ellos no vieron es que se pueden utilizar estas herramientas de una forma nueva en lugar de utilizarlos solo para reemplazar los instrumentos que había antes».
+Aunque Auto-Tune es usado por una gran variedad de artistas, Regina Bradley mantiene que puede se especialmente útil para que los artistas negros tengan más control sobre el sonido de su voz y puedan cambiarlo para que encaje con el ambiente de la canción.
+Esto se puede ver en dos ejemplos notables, en los trabajos de Kanye West y T-Pain.
+T-Pain, el cantante de R&B y rapero que introdujo el uso de Auto-Tune como un efecto vocal en la música pop con su álbum Rappa Ternt Sangaen 2005, dijo: «Mi padre siempre me ha dicho que la voz de cualquier persona es solo otro instrumento más que se añade a la música.
+Hubo un tiempo en el que la gente tenía canciones de siete minutos y cinco de ellos eran solo instrumental.
+[…] Tengo muchas influencias [de la época de los 60] y pensé que podría transformar mi voz en un saxofón».
+Siguiendo los pasos de T-Pain, Lil Wayne experimentó con Auto-Tune en sus álbumes Tha Carter II y The Carter III.
+Al mismo tiempo tuvo una fuerte adicción al purple drank, y algunos críticos vieron este Auto-Tune como «una expresión musical de la soledad y la depresión del artista».
+Mark Anthony Neal escribió que la voz de Wayne es «única» y que sus distintos matices «indicaban algún trauma».
+Kevin Driscoll preguntó: «¿No es Auto-Tune el pedal wah del pop negro actual?
+Antes de transformarse a sí mismo en T-Wayne en “Lollipop”, la presencia de Wayne en el pop estaba limitada a colaboraciones como invitado y freestyles desautorizados».
+El álbum de Kanye West 8o8s & Heartbreak fue, generalmente, bien recibido por la crítica, y utilizó Auto-Tune para representar un alma fragmentada tras la muerte de su madre.
+Descrito como un álbum de ruptura, la crítica musical de Rolling Stone Jody Rosen escribió: «Kanye no puede cantar en el sentido clásico, pero no lo está intentado.
+T-Pain enseñó al mundo que Auto-Tune no solo cambia la afinación de las notas: es un elemento que mejora la expresividad de las voces, elevando el pathos… Las voces digitalizadas de Kanye son el sonido de un hombre aturdido por el dolor, convirtiéndose en menos que un humano».
+La comedia de la televisión de EE.UU.
+Saturday Night Live parodió Auto-Tune utilizando al rapero blanco ficticio Blizzard Man, quien cantó en un sketch: “''Robot voice, robot voice!
+All the kids love the robot voice!''”.
+El cómico "Weird Al" Yankovic puso diversión el sobreuso del Auto-tune, mientras comentaba que está aquí para quedarse, en un vídeo de YouTube denominado en muchas publicaciones como Wired.
+Desde 2009, el uso de Auto-Tune para crear melodías del audio de las noticias fue popularizado por el músico de Brooklyn Michael Gregory, y, más tarde por la banda The Gregory Brothers en su serie Songify de News.
+The Gregory Brothers manipulaban digitalmente grabaciones de voz de políticos y otros personajes públicos para crear una melodía, haciendo que pareciera que estas personas cantaban.
+El grupo alcanzó un gran éxito con su vídeo «Bed Intruder Song», que se convirtió en el más visto de YouTube en 2010.

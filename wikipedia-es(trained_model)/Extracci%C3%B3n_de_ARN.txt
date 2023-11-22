@@ -1,0 +1,15 @@
+La extracción de ARN es la purificación del ARN a partir de muestras biológicas.
+Este procedimiento se complica por la presencia ubicua de enzimas ribonucleasas en las células y los tejidos, que pueden degradar rápidamente el ARN.
+En biología molecular se utilizan varios métodos para aislar el ARN de las muestras, el más común de ellos es la extracción con tiocianato de guanidinio y cloroformo.
+El método de lisis y elución basado en papel de filtro tiene una gran capacidad de rendimiento.
+La extracción de ARN en nitrógeno líquido, normalmente utilizando un mortero y una maja (o dispositivos de acero especializados conocidos como pulverizadores de tejidos), también es útil para evitar la actividad de las ribonucleasas.
+La extracción de ARN en los experimentos de biología molecular es muy complicada por la presencia de ARNasas ubicuas y resistentes que degradan las muestras de ARN.
+Algunas ARNasas pueden ser extremadamente resistentes y su inactivación es difícil en comparación con la neutralización de las ADNasas.
+Además de las ARNasas celulares que se liberan, hay varias ARNasas que están presentes en el medio ambiente.
+Las ARNasas han evolucionado para tener muchas funciones extracelulares en varios organismos.
+Por ejemplo, la ARNasa 7, un miembro de la superfamilia de las ARNasas A, es secretada por la piel humana y sirve como una potente defensa antipatógena.
+En el caso de estas ARNasas secretadas, la actividad enzimática puede incluso no ser necesaria para la función exaptada de la ARNasa.
+Por ejemplo, las ARNasas inmunes actúan desestabilizando las membranas celulares de las bacterias.
+Para contrarrestar esto, el equipo utilizado para la extracción de ARN suele limpiarse a fondo, se mantiene separado del equipo común de laboratorio y se trata con diversos productos químicos agresivos que destruyen las ARNasas.
+Por la misma razón, los experimentadores tienen especial cuidado de no dejar que su piel desnuda toque el equipo.
+Lavado en dos fases para resolver el omnipresente problema de arrastre de contaminantes en los kits comerciales de extracción de ácidos nucleicos; por Erik Jue, Daan Witters & Rustem F. Ismagilov; Naturaleza, informes Científicos, 2020.

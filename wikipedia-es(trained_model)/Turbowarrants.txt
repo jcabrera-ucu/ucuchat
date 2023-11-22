@@ -1,0 +1,5 @@
+El turbowarrant es un contrato o instrumento financiero que da al comprador el derecho, pero no la obligación, de comprar/vender un activo subyacente (acción, futuro, etc.) a un precio determinado (precio de strike o barrera) en una fecha futura.
+En términos de funcionamiento, un turbowarrant es similar a una opción o un warrant, excepto por el hecho de que si el precio del subyacente alcanza en algún momento el precio de strike o barrera, el comprador del turbowarrant pierde el derecho de comprar/vender el activo subyacente, y el turbowarrant pierde su valor.
+Si un turbowarrant es de compra recibe el nombre de turbowarrant call.
+Si es de venta será un turbowarrant put.
+Componentes propios del turbowarrant,

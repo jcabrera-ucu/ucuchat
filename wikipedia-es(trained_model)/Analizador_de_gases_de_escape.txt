@@ -1,0 +1,26 @@
+Un analizador de gases de escape o analizador de CO de escape es un instrumento utilizado para medir, en el escape de un coche, la cantidad de monóxido de carbono y otros gases, causados por una combustión incorrecta.
+La medida del coeficiente Lambda es la más común.
+Los principales sensores de CO (y otros tipos de gases) utilizados, son los sensores de infrarrojos no-dispersivos (NDIR) y sensores de gas químicos.
+Los sensores de monóxido del carbono se suelen emplear para evaluar la cantidad de CO en una ITV.
+Para ser utilizado en dicha prueba un analizador debe ser aprobado y homologado para su uso por la autoridad competente.
+En el Reino Unido una lista de los analizadores de gases de escape aceptados oficialmente para su uso en la prueba MOT aparece en la página web del Departamento de Transporte.
+La presencia de oxígeno en el los gases de escape indica que la combustión de la mezcla no fue perfecta, resultando en la generación de gases contaminantes.
+Por eso midiendo la proporción de oxígeno en los gases de escape de estos motores se pueden controlar y medir estas emisiones.
+Esta medida tiene lugar en la prueba de la ITV mediante la medida del coeficiente Lambda.
+El coeficiente Lambda (λ) se obtiene de la relación del aire implicado en la combustión de la mezcla de gasolina.
+Es de hecho una medida de la eficacia del motor de gasolina midiendo el porcentaje de oxígeno en el escape.
+Cuando los motores de gasolina operan con una mezcla estequiométrica de 14.7: 1 el valor de LAMBDA (λ) es "1".
+Proporción de mezcla = peso del combustible / peso del aire
+Con esta relación teóricamente se consigue una combustión completa de la gasolina y las emisiones de gas de efecto de invernadero serían mínimas.
+El coeficiente es definido como coeficiente Lambda
+-Si Lambda > 1 = mezcla pobre, exceso de aire.
+-Si Lambda < 1 = mezcla rica, exceso de gasolina.
+Los sensores NDIR son sensores espectroscópicos empleados para detectar el CO en un ambiente gaseoso por su absorción característica.
+Los componentes clave son una fuente infrarroja, un tubo de luz, un filtro de interferencia (longitud de onda) y un detector de infrarrojos.
+El gas es bombeado (o difundido) en el tubo de luz, y la electrónica mide la absorción de la longitud de onda característica de la luz.
+Los sensores NDIR utilizan a menudo para medir el monóxido de carbono..
+El mejor de ellos tiene sensibilidades de 20-50 PPM.
+La mayoría de los sensores de CO están totalmente calibrados antes de salir de fábrica.
+Con el tiempo, el punto cero del sensor debe ser calibrado para mantener la estabilidad a largo plazo del sensor.
+Hay nuevos desarrollos que incluyen utilizar sistemas microelectromecánicos para bajar los costos de este sensor y poder crear dispositivos más pequeños.
+En los EE.UU., los Sensores NDIR típicos están en la gama de 100 $ a 1000 $.

@@ -1,0 +1,27 @@
+El topógrafo corneal es un instrumento óptico no invasivo que permite obtener un mapa detallado de la forma de la córnea, gracias al cual es posible detectar alteraciones y patologías que afectan a la visión.
+Se compone de un ordenador, donde se interpretan y almacenan los mapas topográficos, y de un sistema de medida electrónico donde este proyecta unos discos concéntricos de luz (discos de Placido) sobre la cara anterior de la córnea.
+El software del ordenador analiza los puntos de estos discos sobre la córnea del paciente para así conseguir una copia digitalizada topográfica de la forma de la córnea, utilizando diferentes colores para representar elevaciones y curvaturas.
+El paciente debe estar sentado y apoyar la barbilla en una mentonera mientras se centran y proyectan estos discos para así realizar una medida correctamente.
+A comienzos del siglo XVII, Christoph Scheiner (1575 – 1650; matemático y astrónomo) usó el reflejo en piezas de mármol para hacer una primera y primitiva topografía corneal.
+Existen muchos tipos de topógrafos con muchas diferencias entre ellos.
+Los topógrafos corneales se pueden clasificar de dos maneras diferentes: Topógrafos de reflexión especular (menos precisión, pero más económico) o de elevación (más precisos, pero más caros) y de cono ancho (aportan información de una zona más limitada, pero son más sencillos de manejar) o de cono estrecho (aportan información de una zona más extensa, pero su manejo no es tan sencillo).
+Topógrafos de reflexión especular: Actualmente, los topógrafos más utilizados a día de hoy son los basados en la proyección de miras, proporcionan mucha información para el seguimiento de alteraciones y son muy útiles para realizar adaptaciones de contacto, pero hay que tener en cuenta que presentan limitaciones ya no pueden obtener resultados más allá de la cara anterior de la córnea, se producen errores o a menudo da resultados no fiables.
+Son más utilizados para la adaptación de lentes de contacto.
+Hay que destacar que son los más económicos del mercado.
+Topógrafos de Elevación: Estos topógrafos son los más novedosos.
+Proporcionan mucha más información que los de reflexión, y son más precisos.
+Tanto el tamaño de los círculos concéntricos, como su distribución, como su número son diferencias que se presentan en los diferentes modelos de topógrafos.
+Universalmente se establece un convenio de colores (código de colores) para representar los mapas topográficos y así poder ser comprendidos.
+Estos colores son asociados según el poder dióptrico representado, donde los colores cálidos representan las altas potencias (radios más bajos), los menores espesores corneales y las mayores altitudes en escalas de elevación.
+Los colores fríos indican las potencias más bajas (radios más altos), los mayores espesores corneales y las altitudes más bajas.
+Para representar el gradiente de colores en los mapas se pueden utilizar tres diferentes escalas: escala absoluta, escala normalizada y escala ajustable.
+Escala normalizada: En cada mapa, la escala es diferente.
+Proporcionan más detalles, pero no pueden compararse con otros mapas porque cada uno tiene su escala.
+Escala ajustable: El examinador puede personalizar la escala, asignando cada color a un valor dióptrico.
+Útil para comparar varios mapas topográficos.
+A continuación, se explicarán los diferentes mapas de representación que presentan los topógrafos: mapas de curvatura, de elevación y de potencias refractivas.
+Mapa axial: Todos los radios de curvatura toman el mismo eje de referencia.
+Útil para valoraciones centrales.
+Mapa tangencial: Mapa de curvatura útil para valoraciones periféricas
+Mapa de elevación: En este mapa se compara la superficie corneal con una esfera de referencia conocida.
+Mapa refractivo:

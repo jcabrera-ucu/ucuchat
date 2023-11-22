@@ -1,0 +1,17 @@
+Los ensayos in situ son, literalmente, los que se realizan en el mismo lugar donde se encuentra el objeto de análisis.
+En geotecnia, se aplica el término a los ensayos que se realizan sobre un terreno para determinar sus características.
+En construcción suele emplearse para definir los ensayos de materiales a pie de obra, sobre todo en los elementos de cimentación.
+También se realizan ensayos in situ en otros campos, tales como medio ambiente (mediciones de ruido y contaminación principalmente), agricultura, etc.
+Forman parte de las técnicas de reconocimiento geotécnico, constituyendo una alternativa o complemento a los ensayos de laboratorio sobre muestras extraídas.
+Pretenden eliminar o reducir algunas de las limitaciones de los ensayos de laboratorio:
+Las muestras extraídas tienen un tamaño pequeño, por lo que sólo son representativas de una porción reducida del terreno.
+Este inconveniente se solventa con la toma de un gran número de muestras.
+Sin embargo, en muchas ocasiones el comportamiento del terreno no puede modelarse basado en mediciones a tamaño pequeño.
+Esto ocurre cuando existen rasgos macroestructurales como presencia de bolos o cantos, diaclasado, fisuración, estratificación o esquistosidad en suelos residuales y rocas, distribución de lentejones, variaciones en profundidad, etc.
+Los ensayos "in situ" permiten, en principio, obviar estas limitaciones.
+Sin embargo, esto sólo se logra en parte, y por otro lado, aparecen otras nuevas:
+Hay una gran variedad de ensayos in situ, que pueden agruparse atendiendo a diversos criterios:
+Por otra parte, los ensayos in situ difieren también entre sí en cuanto a su finalidad, que va desde el reconocimiento general para identificación de tipos de suelos, a ensayos complejos y costosos sobre elementos de cimentación que requieren grandes medios para su ejecución.
+Se podrían considerar englobados dentro del grupo de los ensayos in situ a los métodos geofísicos y a las pruebas de penetración.
+No obstante, tienen características particulares, y constituyen por sí mismos elementos importantes en el reconocimiento del terreno.
+Los principales tipos de ensayos in situ en terrenos, son:

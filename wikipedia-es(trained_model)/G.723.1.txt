@@ -1,0 +1,6 @@
+G.723.1 es un codec de audio para voz que comprime audio de voz en cuadros de 30ms.
+Una anticipación algorítmica de 7.5 ms de duración significa que el retardo algorítmico total es 37.5 .
+Su nombre oficial es codificador de voz de doble velocidad para comunicaciones multimedia que transmiten a 5.3 y 6.3 kbit/s.
+A veces se asocia con una marca comercial Truespeech en coprocesadores producidos por DSP Grupo.
+Esto es un códec completamente diferente codec de G.723.
+Hay dos tasas de bits en los que puede operar G.723.1:
