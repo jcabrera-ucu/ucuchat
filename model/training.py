@@ -12,6 +12,7 @@ class Trainer:
             self,
             model,
             epochs,
+            data_partition,
             train_dataloader,
             train_steps,
             val_dataloader,
@@ -26,6 +27,7 @@ class Trainer:
     ):
         self.model = model
         self.epochs = epochs
+        self.data_partition = data_partition
         self.train_dataloader = train_dataloader
         self.train_steps = train_steps
         self.val_dataloader = val_dataloader
@@ -42,28 +44,32 @@ class Trainer:
         self.model.to(self.device)
 
     def train(self):
-        for epoch in range(self.epochs):
-            self._train_epoch()
-            self._validate_epoch()
-            print(
-                "Epoch: {}/{}, Train Loss={:.5f}, Val Loss={:.5f}".format(
-                    epoch + 1,
-                    self.epochs,
-                    self.loss["train"][-1],
-                    self.loss["val"][-1],
+        for i in range(self.data_partition):
+            print(f'Training data in partition {i + 1}.')
+            for epoch in range(self.epochs):
+                self._train_epoch(self.train_dataloader[i])
+                self._validate_epoch(self.val_dataloader[i])
+                print(
+                    "Epoch: {}/{}, Train Loss={:.5f}, Val Loss={:.5f}".format(
+                        epoch + 1,
+                        self.epochs,
+                        self.loss["train"][-1],
+                        self.loss["val"][-1],
+                    )
                 )
-            )
 
-            self.lr_scheduler.step()
+                self.lr_scheduler.step(self.loss["train"][-1])
 
-            if self.checkpoint_frequency:
-                self._save_checkpoint(epoch)
+                if self.checkpoint_frequency:
+                    self._save_checkpoint(epoch)
 
-    def _train_epoch(self):
+            torch.cuda.empty_cache()
+
+    def _train_epoch(self, train_dataloader):
         self.model.train()
         running_loss = []
 
-        for i, batch_data in enumerate(self.train_dataloader, 1):
+        for i, batch_data in enumerate(train_dataloader):
             inputs = batch_data[0].to(self.device)
             labels = batch_data[1].to(self.device)
 
@@ -81,12 +87,12 @@ class Trainer:
         epoch_loss = np.mean(running_loss)
         self.loss["train"].append(epoch_loss)
 
-    def _validate_epoch(self):
+    def _validate_epoch(self, val_dataloader):
         self.model.eval()
         running_loss = []
 
         with torch.no_grad():
-            for i, batch_data in enumerate(self.val_dataloader, 1):
+            for i, batch_data in enumerate(val_dataloader, 1):
                 inputs = batch_data[0].to(self.device)
                 labels = batch_data[1].to(self.device)
 

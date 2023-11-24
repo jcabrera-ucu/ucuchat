@@ -1,12 +1,13 @@
 model_to_use: skipgram
 model_dir: ucuchat_model/wikipedia_es/skipgram
 data_dir: wikipedia-es/
+data_partitions: 3
 epochs: 5
-learning_rate: 0.025
+learning_rate: 0.01
 checkpoint_frequency: None
 optimizer: Adam
 shuffle: True
-train_batch_size: 8
+train_batch_size: 4
 train_steps: None
-val_batch_size: 8
+val_batch_size: 4
 val_steps: None

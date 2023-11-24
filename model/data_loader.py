@@ -1,3 +1,4 @@
+import os
 import torch
 import spacy
 from functools import partial
@@ -6,6 +7,7 @@ from torchtext.data import to_map_style_dataset
 from torchtext.data.utils import get_tokenizer
 from torchtext.vocab import build_vocab_from_iterator
 from model.es_wiki_dataset import CustomTxtDataset
+from torch.utils.data import ConcatDataset
 
 MIN_WORD_FREQUENCY = 50
 CBOW_N_WORDS = 4
@@ -22,17 +24,28 @@ def get_english_tokenizer():
     return tokenizer
 
 
-def get_data_iterator(ds_path):
-    data_iter = CustomTxtDataset(ds_path)
-    data_iter = to_map_style_dataset(data_iter)
-    return data_iter
+def get_data_iterator(ds_path, ds_partitions):
+    all_dataset = []
+    file_list = os.listdir(ds_path)
+    start_index = 0
+    end_index = len(file_list) // ds_partitions
+
+    for i in range(ds_partitions):
+        data_iter = CustomTxtDataset(ds_path, file_list, start_index, end_index)
+        data_iter = to_map_style_dataset(data_iter)
+        all_dataset.append(data_iter)
+        start_index = end_index
+        end_index += len(file_list) // ds_partitions
+
+    return all_dataset
 
 
-def build_vocab(data_iter, tokenizer):
+def build_vocab(ds_iter, tokenizer):
     """Builds vocabulary from iterator"""
+    dataset = to_map_style_dataset(ds_iter)
 
     vocab = build_vocab_from_iterator(
-        map(tokenizer, data_iter),
+        map(tokenizer, dataset),
         specials=["<unk>"],
         min_freq=MIN_WORD_FREQUENCY,
     )
@@ -115,13 +128,14 @@ def collate_skipgram(batch, text_pipeline):
 
 
 def get_dataloader_and_vocab(
-        model_name, data_dir, batch_size, shuffle, vocab=None
+        model_name, data_dir, data_partitions, batch_size, shuffle, vocab=None
 ):
-    data_iter = get_data_iterator(data_dir)
+    data_iter = get_data_iterator(data_dir, data_partitions)
+    data_iter_concat = ConcatDataset(data_iter)
     tokenizer = get_english_tokenizer()
 
     if not vocab:
-        vocab = build_vocab(data_iter, tokenizer)
+        vocab = build_vocab(data_iter_concat, tokenizer)
 
     text_pipeline = lambda x: vocab(tokenizer(x))
 
@@ -132,10 +146,15 @@ def get_dataloader_and_vocab(
     else:
         raise ValueError("Choose model from: cbow, skipgram")
 
-    dataloader = DataLoader(
-        data_iter,
-        batch_size=batch_size,
-        shuffle=shuffle,
-        collate_fn=partial(collate_fn, text_pipeline=text_pipeline),
-    )
-    return dataloader, vocab
+    dataloader_list = []
+
+    for dataset in data_iter:
+        dataloader = DataLoader(
+            dataset,
+            batch_size=batch_size,
+            shuffle=shuffle,
+            collate_fn=partial(collate_fn, text_pipeline=text_pipeline),
+        )
+        dataloader_list.append(dataloader)
+
+    return dataloader_list, vocab
