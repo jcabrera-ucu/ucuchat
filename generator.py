@@ -5,34 +5,8 @@ import rapidjson as json
 import spacy
 
 
-class Graph:
-    def __init__(self):
-        self.graph = {}
-
-    def add_text(self, text):
-        words = posified_word_list(
-            self.nlp(text),
-            excluded_pos=[
-                "SPACE",
-            ],
-        )
-
-        iter_parts = [words]
-        for i in range(1, min(context + 1, int(len(words) / 2))):
-            iter_parts.append(words[i:])
-
-        for group in zip(*iter_parts):
-            m = group[0]
-            for i in group[1:]:
-                graph.setdefault(m, {}).setdefault(i, 0)
-                graph[m][i] += 1
-
-                m = f"{m} {i}"
-
-    def posified_word_list(self, doc, excluded_pos=[]):
-        return [f"{w.text}::{w.pos_}" for w in doc if w.pos_ not in excluded_pos]
-
-
+def posified_word_list(doc, excluded_pos=[]):
+    return [f"{w.text}::{w.pos_}" for w in doc if w.pos_ not in excluded_pos]
 
 
 class Generator:
@@ -77,3 +51,28 @@ class Generator:
         if not ctx:
             return ""
         return self.graph.get(" ".join(ctx))
+
+    def corpus_parser(self, text):
+        context = max(1, context)
+
+        words = posified_word_list(
+            nlp(text),
+            excluded_pos=[
+                "SPACE",
+            ],
+        )
+
+        iter_parts = [words]
+        for i in range(1, min(context + 1, int(len(words) / 2))):
+            iter_parts.append(words[i:])
+
+        for group in zip(*iter_parts):
+            m = group[0]
+            for i in group[1:]:
+                graph.setdefault(m, {}).setdefault(i, 0)
+                graph[m][i] += 1
+
+                m = f"{m} {i}"
+
+
+

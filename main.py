@@ -82,6 +82,13 @@ def train():
     print(f"Model artifacts saved to folder: {config['model_dir']}")
 
 
+def p(n):
+    word = n
+    similar_words = trained_model.get_similar_words(word, 20)
+    if similar_words is not None:
+        for word, sim in similar_words.items():
+            print("{}: {:.3f}".format(word, sim))
+
 if __name__ == '__main__':
     if not os.path.exists(config['model_dir']):
         train()
@@ -92,3 +99,5 @@ if __name__ == '__main__':
         if similar_words is not None:
             for word, sim in similar_words.items():
                 print("{}: {:.3f}".format(word, sim))
+
+        import ipdb;ipdb.set_trace()
