@@ -82,7 +82,6 @@ class Word2VecModel:
     def get_similar_words(self, word, number_of_words=10):
         word_id = self.vocab[word]
         if word_id == 0:
-            print("The selected word not exists in the vocabulary.")
             return
 
         embeddings_norm = self.get_embeddings()[1]
@@ -96,6 +95,60 @@ class Word2VecModel:
             sim_word = self.vocab.lookup_token(sim_word_id)
             number_of_words_dict[sim_word] = dists[sim_word_id]
         return number_of_words_dict
+
+    def get_similar_words_sentence(self, sentence, number_of_words=10):
+        words = sentence.lower().split()
+        embeddings = self.get_embeddings()[0]
+        sentence_vec = None
+
+        for word in words:
+            word_id = self.vocab[word]
+            if word_id == 0:
+                continue
+            if sentence_vec is None:
+                sentence_vec = embeddings[word_id]
+            else:
+                sentence_vec = sentence_vec + embeddings[word_id]
+
+        embeddings_norm = self.get_embeddings()[1]
+        # word_vec = embeddings_norm[word_id]
+        word_vec = np.reshape(sentence_vec, (len(sentence_vec), 1))
+        dists = np.matmul(embeddings_norm, word_vec).flatten()
+        number_of_words_ids = np.argsort(-dists)[1: number_of_words + 1]
+
+        number_of_words_dict = {}
+        for sim_word_id in number_of_words_ids:
+            sim_word = self.vocab.lookup_token(sim_word_id)
+            number_of_words_dict[sim_word] = dists[sim_word_id]
+        return number_of_words_dict
+
+    def get_text_vector(self, text):
+        embeddings = self.get_embeddings()[0]
+        words = text.lower().split()
+        vec = None
+
+        for word in words:
+            word_id = self.vocab[word]
+            if word_id == 0:
+                continue
+            if vec is None:
+                vec = embeddings[word_id]
+            else:
+                vec = vec + embeddings[word_id]
+        return vec
+
+    def get_distance_sentences(self, sentence, sentence2):
+        # embeddings = self.get_embeddings()[0]
+
+        vec1 = self.get_text_vector(sentence)
+        vec2 = self.get_text_vector(sentence2)
+                
+        if vec1 is not None and vec2 is not None:
+            cosine_similarity = np.dot(vec1, vec2)/(np.linalg.norm(vec1)*np.linalg.norm(vec2))
+        else:
+            cosine_similarity = 0.0
+
+        return cosine_similarity
 
     def vector_equations(self):
         embeddings = self.get_embeddings()[0]
